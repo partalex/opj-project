@@ -1,0 +1,10 @@
+#name = milena
+#domen = muzika
+#url = https://www.klasicnimirko.com/muzicke-kritike/kemal-gekic-na-kolarcu-album-iz-srbije
+#text = Sokoj i Udruženje kompozitora Srbije poklonili su beogradskoj publici koncert pijaniste Kemala Gekića, obeležavajući time dva značajna jubileja – 75 godina postojanja Sokoja i 80 godina Udruženja kompozitora Srbije.
+
+Kemal Gekić (62), nakon studija na Akademiji umetnosti u Novom Sadu, otisnuo se u svet, u kojem danas živi na dve adrese – u Sjedinjenim Američkim Državama i Japanu – a koncertira širom sveta. Veliki uspon u njegovoj karijeri započeo je još 1985. godine, kada je postao senzacija na Šopenovom takmičenju u Varšavi.
+
+Kada se govori o njegovim interpretacijama, Gekić je nesumnjivo pijanista koji privlači pažnju i svojim nastupima ne ostavlja nikoga ravnodušnim. Iako su slušaoci navikli da od njega očekuju izvođenja evropske klavirske literature, poput Šopena ili Lista, na ovom koncertu – u dogovoru sa organizatorima – odlučio se za program sastavljen isključivo od dela srpskih kompozitora.
+
+Program koncerta predstavljao je presek klavirske muzike srpskih kompozitora u proteklih sto godina. Bila je to retka i dragocena prilika da publika čuje dela koja se kod nas vrlo retko izvode – kako pojedinačno, tako i objedinjena u ovako pažljivo osmišljenu celinu. Koncert je otvorila Umbra Isidore Žebeljan, a nastavio se prvim stavom Sonate Petra Ozgijana, Sedam balkanskih igara Marka Tajčevića, izborom stavova iz Kosovske svite Miloja Milojevića, Hilandarskim zvonima Vuka Kulenovića, Empromptijem br. 3 Vlastimira Trajkovića, delom Iz Jugoslavije Josipa Slavenskog, Nokturnom Dejana Despića, Šest igara Vasilija Mokranjca, Brankovim kolom Ljubice Marić i Tokatom Zorana Hristića.

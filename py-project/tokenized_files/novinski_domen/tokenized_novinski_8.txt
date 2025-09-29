@@ -1,0 +1,421 @@
+#name = marija
+#domen = novinski
+#url = https://n1info.rs/svet/u-francuskoj-skupovi-sirom-zemlje-ocekuje-se-izmedju-600000-i-900000-demonstranata/
+# newpar id = 1
+# sent_id = 1.1
+# text = U Francuskoj je za danas najavljeno 250 skupova povodom Dana društvene mobilizacije, a očekuje se između 600.000 i 900.000 demonstranata širom zemlje, izveštavaju francuski mediji.
+1	U	_	_	_	_	_	_	_	_	O
+2	Francuskoj	_	_	_	_	_	_	_	_	O
+3	je	_	_	_	_	_	_	_	_	O
+4	za	_	_	_	_	_	_	_	_	O
+5	danas	_	_	_	_	_	_	_	_	O
+6	najavljeno	_	_	_	_	_	_	_	_	O
+7	250	_	_	_	_	_	_	_	_	O
+8	skupova	_	_	_	_	_	_	_	_	O
+9	povodom	_	_	_	_	_	_	_	_	O
+10	Dana	_	_	_	_	_	_	_	_	O
+11	društvene	_	_	_	_	_	_	_	_	O
+12	mobilizacije	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+14	a	_	_	_	_	_	_	_	_	O
+15	očekuje	_	_	_	_	_	_	_	_	O
+16	se	_	_	_	_	_	_	_	_	O
+17	između	_	_	_	_	_	_	_	_	O
+18	600.000	_	_	_	_	_	_	_	_	O
+19	i	_	_	_	_	_	_	_	_	O
+20	900.000	_	_	_	_	_	_	_	_	O
+21	demonstranata	_	_	_	_	_	_	_	_	O
+22	širom	_	_	_	_	_	_	_	_	O
+23	zemlje	_	_	_	_	_	_	_	SpaceAfter=No	O
+24	,	,	PUNCT	Z	_	_	_	_	_	O
+25	izveštavaju	_	_	_	_	_	_	_	_	O
+26	francuski	_	_	_	_	_	_	_	_	O
+27	mediji	_	_	_	_	_	_	_	SpaceAfter=No	O
+28	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 2
+# sent_id = 2.1
+# text = Prema procenama francuskog ministarstva unutrašnjih poslova danas se očekuje između 50.000 i 100.000 ljudi na protestima u Parizu, prenosi BFM TV.
+1	Prema	_	_	_	_	_	_	_	_	O
+2	procenama	_	_	_	_	_	_	_	_	O
+3	francuskog	_	_	_	_	_	_	_	_	O
+4	ministarstva	_	_	_	_	_	_	_	_	O
+5	unutrašnjih	_	_	_	_	_	_	_	_	O
+6	poslova	_	_	_	_	_	_	_	_	O
+7	danas	_	_	_	_	_	_	_	_	O
+8	se	_	_	_	_	_	_	_	_	O
+9	očekuje	_	_	_	_	_	_	_	_	O
+10	između	_	_	_	_	_	_	_	_	O
+11	50.000	_	_	_	_	_	_	_	_	O
+12	i	_	_	_	_	_	_	_	_	O
+13	100.000	_	_	_	_	_	_	_	_	O
+14	ljudi	_	_	_	_	_	_	_	_	O
+15	na	_	_	_	_	_	_	_	_	O
+16	protestima	_	_	_	_	_	_	_	_	O
+17	u	_	_	_	_	_	_	_	_	O
+18	Parizu	_	_	_	_	_	_	_	SpaceAfter=No	O
+19	,	,	PUNCT	Z	_	_	_	_	_	O
+20	prenosi	_	_	_	_	_	_	_	_	O
+21	BFM	_	_	_	_	_	_	_	_	O
+22	TV	_	_	_	_	_	_	_	SpaceAfter=No	O
+23	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 3
+# sent_id = 3.1
+# text = Sindikati su najavili masovno učešće prosvetnih radnika, studenata, transportnih radnika, taksista i zaposlenih u industriji, dok će se skoro 80.000 policajaca biti raspoređeno kako bi obezbedili javni red i sprečili nerede.
+1	Sindikati	_	_	_	_	_	_	_	_	O
+2	su	_	_	_	_	_	_	_	_	O
+3	najavili	_	_	_	_	_	_	_	_	O
+4	masovno	_	_	_	_	_	_	_	_	O
+5	učešće	_	_	_	_	_	_	_	_	O
+6	prosvetnih	_	_	_	_	_	_	_	_	O
+7	radnika	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	studenata	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	transportnih	_	_	_	_	_	_	_	_	O
+12	radnika	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+14	taksista	_	_	_	_	_	_	_	_	O
+15	i	_	_	_	_	_	_	_	_	O
+16	zaposlenih	_	_	_	_	_	_	_	_	O
+17	u	_	_	_	_	_	_	_	_	O
+18	industriji	_	_	_	_	_	_	_	SpaceAfter=No	O
+19	,	,	PUNCT	Z	_	_	_	_	_	O
+20	dok	_	_	_	_	_	_	_	_	O
+21	će	_	_	_	_	_	_	_	_	O
+22	se	_	_	_	_	_	_	_	_	O
+23	skoro	_	_	_	_	_	_	_	_	O
+24	80.000	_	_	_	_	_	_	_	_	O
+25	policajaca	_	_	_	_	_	_	_	_	O
+26	biti	_	_	_	_	_	_	_	_	O
+27	raspoređeno	_	_	_	_	_	_	_	_	O
+28	kako	_	_	_	_	_	_	_	_	O
+29	bi	_	_	_	_	_	_	_	_	O
+30	obezbedili	_	_	_	_	_	_	_	_	O
+31	javni	_	_	_	_	_	_	_	_	O
+32	red	_	_	_	_	_	_	_	_	O
+33	i	_	_	_	_	_	_	_	_	O
+34	sprečili	_	_	_	_	_	_	_	_	O
+35	nerede	_	_	_	_	_	_	_	SpaceAfter=No	O
+36	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 4
+# sent_id = 4.1
+# text = Ministar unutrašnjih poslova Francuske Bruno Retajo rano jutros izvestio je o "pokušajima blokada" u pariskom regionu, posebno autobuskih depoa u Obervilijeu i Sen Deniju.
+1	Ministar	_	_	_	_	_	_	_	_	O
+2	unutrašnjih	_	_	_	_	_	_	_	_	O
+3	poslova	_	_	_	_	_	_	_	_	O
+4	Francuske	_	_	_	_	_	_	_	_	O
+5	Bruno	_	_	_	_	_	_	_	_	O
+6	Retajo	_	_	_	_	_	_	_	_	O
+7	rano	_	_	_	_	_	_	_	_	O
+8	jutros	_	_	_	_	_	_	_	_	O
+9	izvestio	_	_	_	_	_	_	_	_	O
+10	je	_	_	_	_	_	_	_	_	O
+11	o	_	_	_	_	_	_	_	_	O
+12	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+13	pokušajima	_	_	_	_	_	_	_	_	O
+14	blokada	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	"	"	PUNCT	Z	_	_	_	_	_	O
+16	u	_	_	_	_	_	_	_	_	O
+17	pariskom	_	_	_	_	_	_	_	_	O
+18	regionu	_	_	_	_	_	_	_	SpaceAfter=No	O
+19	,	,	PUNCT	Z	_	_	_	_	_	O
+20	posebno	_	_	_	_	_	_	_	_	O
+21	autobuskih	_	_	_	_	_	_	_	_	O
+22	depoa	_	_	_	_	_	_	_	_	O
+23	u	_	_	_	_	_	_	_	_	O
+24	Obervilijeu	_	_	_	_	_	_	_	_	O
+25	i	_	_	_	_	_	_	_	_	O
+26	Sen	_	_	_	_	_	_	_	_	O
+27	Deniju	_	_	_	_	_	_	_	SpaceAfter=No	O
+28	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 5
+# sent_id = 5.1
+# text = Prekidi u javnom prevozu prijavljeni su u nekoliko većih gradova širom zemlje, uključujući Lion (tramvaj, autobus), Marsej (autobus), Lil (metro, ​​tramvaj, autobus), Tuluz (metro, ​​autobus), Bordo (tramvaj, autobus), Nant (tramvaj, autobus) i Strazbur (tramvaj, autobus), navodi BFM TV.
+1	Prekidi	_	_	_	_	_	_	_	_	O
+2	u	_	_	_	_	_	_	_	_	O
+3	javnom	_	_	_	_	_	_	_	_	O
+4	prevozu	_	_	_	_	_	_	_	_	O
+5	prijavljeni	_	_	_	_	_	_	_	_	O
+6	su	_	_	_	_	_	_	_	_	O
+7	u	_	_	_	_	_	_	_	_	O
+8	nekoliko	_	_	_	_	_	_	_	_	O
+9	većih	_	_	_	_	_	_	_	_	O
+10	gradova	_	_	_	_	_	_	_	_	O
+11	širom	_	_	_	_	_	_	_	_	O
+12	zemlje	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+14	uključujući	_	_	_	_	_	_	_	_	O
+15	Lion	_	_	_	_	_	_	_	_	O
+16	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+17	tramvaj	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	,	,	PUNCT	Z	_	_	_	_	_	O
+19	autobus	_	_	_	_	_	_	_	SpaceAfter=No	O
+20	)	)	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+21	,	,	PUNCT	Z	_	_	_	_	_	O
+22	Marsej	_	_	_	_	_	_	_	_	O
+23	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+24	autobus	_	_	_	_	_	_	_	SpaceAfter=No	O
+25	)	)	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+26	,	,	PUNCT	Z	_	_	_	_	_	O
+27	Lil	_	_	_	_	_	_	_	_	O
+28	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+29	metro	_	_	_	_	_	_	_	SpaceAfter=No	O
+30	,	,	PUNCT	Z	_	_	_	_	_	O
+31	​​	_	_	_	_	_	_	_	SpaceAfter=No	O
+32	tramvaj	_	_	_	_	_	_	_	SpaceAfter=No	O
+33	,	,	PUNCT	Z	_	_	_	_	_	O
+34	autobus	_	_	_	_	_	_	_	SpaceAfter=No	O
+35	)	)	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+36	,	,	PUNCT	Z	_	_	_	_	_	O
+37	Tuluz	_	_	_	_	_	_	_	_	O
+38	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+39	metro	_	_	_	_	_	_	_	SpaceAfter=No	O
+40	,	,	PUNCT	Z	_	_	_	_	_	O
+41	​​	_	_	_	_	_	_	_	SpaceAfter=No	O
+42	autobus	_	_	_	_	_	_	_	SpaceAfter=No	O
+43	)	)	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+44	,	,	PUNCT	Z	_	_	_	_	_	O
+45	Bordo	_	_	_	_	_	_	_	_	O
+46	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+47	tramvaj	_	_	_	_	_	_	_	SpaceAfter=No	O
+48	,	,	PUNCT	Z	_	_	_	_	_	O
+49	autobus	_	_	_	_	_	_	_	SpaceAfter=No	O
+50	)	)	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+51	,	,	PUNCT	Z	_	_	_	_	_	O
+52	Nant	_	_	_	_	_	_	_	_	O
+53	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+54	tramvaj	_	_	_	_	_	_	_	SpaceAfter=No	O
+55	,	,	PUNCT	Z	_	_	_	_	_	O
+56	autobus	_	_	_	_	_	_	_	SpaceAfter=No	O
+57	)	)	PUNCT	Z	_	_	_	_	_	O
+58	i	_	_	_	_	_	_	_	_	O
+59	Strazbur	_	_	_	_	_	_	_	_	O
+60	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+61	tramvaj	_	_	_	_	_	_	_	SpaceAfter=No	O
+62	,	,	PUNCT	Z	_	_	_	_	_	O
+63	autobus	_	_	_	_	_	_	_	SpaceAfter=No	O
+64	)	)	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+65	,	,	PUNCT	Z	_	_	_	_	_	O
+66	navodi	_	_	_	_	_	_	_	_	O
+67	BFM	_	_	_	_	_	_	_	_	O
+68	TV	_	_	_	_	_	_	_	SpaceAfter=No	O
+69	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 6
+# sent_id = 6.1
+# text = Retajo je ranije poslao telegram prefektima širom Francuske u kojem je izneo smernice i ciljeve za obezbeđivanje javnog reda tokom predstojećih protesta.
+1	Retajo	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	ranije	_	_	_	_	_	_	_	_	O
+4	poslao	_	_	_	_	_	_	_	_	O
+5	telegram	_	_	_	_	_	_	_	_	O
+6	prefektima	_	_	_	_	_	_	_	_	O
+7	širom	_	_	_	_	_	_	_	_	O
+8	Francuske	_	_	_	_	_	_	_	_	O
+9	u	_	_	_	_	_	_	_	_	O
+10	kojem	_	_	_	_	_	_	_	_	O
+11	je	_	_	_	_	_	_	_	_	O
+12	izneo	_	_	_	_	_	_	_	_	O
+13	smernice	_	_	_	_	_	_	_	_	O
+14	i	_	_	_	_	_	_	_	_	O
+15	ciljeve	_	_	_	_	_	_	_	_	O
+16	za	_	_	_	_	_	_	_	_	O
+17	obezbeđivanje	_	_	_	_	_	_	_	_	O
+18	javnog	_	_	_	_	_	_	_	_	O
+19	reda	_	_	_	_	_	_	_	_	O
+20	tokom	_	_	_	_	_	_	_	_	O
+21	predstojećih	_	_	_	_	_	_	_	_	O
+22	protesta	_	_	_	_	_	_	_	SpaceAfter=No	O
+23	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 7
+# sent_id = 7.1
+# text = On je posebno upozorio na potencijalne pretnje od ultralevičarskih grupa koje bi mogle da pokušaju da se infiltriraju u zvanične demonstracije, naglašavajući da postoji "značajan rizik od narušavanja javnog reda".
+1	On	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	posebno	_	_	_	_	_	_	_	_	O
+4	upozorio	_	_	_	_	_	_	_	_	O
+5	na	_	_	_	_	_	_	_	_	O
+6	potencijalne	_	_	_	_	_	_	_	_	O
+7	pretnje	_	_	_	_	_	_	_	_	O
+8	od	_	_	_	_	_	_	_	_	O
+9	ultralevičarskih	_	_	_	_	_	_	_	_	O
+10	grupa	_	_	_	_	_	_	_	_	O
+11	koje	_	_	_	_	_	_	_	_	O
+12	bi	_	_	_	_	_	_	_	_	O
+13	mogle	_	_	_	_	_	_	_	_	O
+14	da	_	_	_	_	_	_	_	_	O
+15	pokušaju	_	_	_	_	_	_	_	_	O
+16	da	_	_	_	_	_	_	_	_	O
+17	se	_	_	_	_	_	_	_	_	O
+18	infiltriraju	_	_	_	_	_	_	_	_	O
+19	u	_	_	_	_	_	_	_	_	O
+20	zvanične	_	_	_	_	_	_	_	_	O
+21	demonstracije	_	_	_	_	_	_	_	SpaceAfter=No	O
+22	,	,	PUNCT	Z	_	_	_	_	_	O
+23	naglašavajući	_	_	_	_	_	_	_	_	O
+24	da	_	_	_	_	_	_	_	_	O
+25	postoji	_	_	_	_	_	_	_	_	O
+26	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+27	značajan	_	_	_	_	_	_	_	_	O
+28	rizik	_	_	_	_	_	_	_	_	O
+29	od	_	_	_	_	_	_	_	_	O
+30	narušavanja	_	_	_	_	_	_	_	_	O
+31	javnog	_	_	_	_	_	_	_	_	O
+32	reda	_	_	_	_	_	_	_	SpaceAfter=No	O
+33	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+34	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 8
+# sent_id = 8.1
+# text = Francuski ministar je od prefekata zahtevao da garantuju "osnovnu slobodu demonstracija" uz obavezno obezbeđivanje reda i mira.
+1	Francuski	_	_	_	_	_	_	_	_	O
+2	ministar	_	_	_	_	_	_	_	_	O
+3	je	_	_	_	_	_	_	_	_	O
+4	od	_	_	_	_	_	_	_	_	O
+5	prefekata	_	_	_	_	_	_	_	_	O
+6	zahtevao	_	_	_	_	_	_	_	_	O
+7	da	_	_	_	_	_	_	_	_	O
+8	garantuju	_	_	_	_	_	_	_	_	O
+9	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+10	osnovnu	_	_	_	_	_	_	_	_	O
+11	slobodu	_	_	_	_	_	_	_	_	O
+12	demonstracija	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	"	"	PUNCT	Z	_	_	_	_	_	O
+14	uz	_	_	_	_	_	_	_	_	O
+15	obavezno	_	_	_	_	_	_	_	_	O
+16	obezbeđivanje	_	_	_	_	_	_	_	_	O
+17	reda	_	_	_	_	_	_	_	_	O
+18	i	_	_	_	_	_	_	_	_	O
+19	mira	_	_	_	_	_	_	_	SpaceAfter=No	O
+20	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 9
+# sent_id = 9.1
+# text = On je istakao važnost upotrebe odgovarajućih sredstava za identifikovanje i zadržavanje pojedinaca koji bi mogli da budu osumnjičeni za nasilno ponašanje.
+1	On	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	istakao	_	_	_	_	_	_	_	_	O
+4	važnost	_	_	_	_	_	_	_	_	O
+5	upotrebe	_	_	_	_	_	_	_	_	O
+6	odgovarajućih	_	_	_	_	_	_	_	_	O
+7	sredstava	_	_	_	_	_	_	_	_	O
+8	za	_	_	_	_	_	_	_	_	O
+9	identifikovanje	_	_	_	_	_	_	_	_	O
+10	i	_	_	_	_	_	_	_	_	O
+11	zadržavanje	_	_	_	_	_	_	_	_	O
+12	pojedinaca	_	_	_	_	_	_	_	_	O
+13	koji	_	_	_	_	_	_	_	_	O
+14	bi	_	_	_	_	_	_	_	_	O
+15	mogli	_	_	_	_	_	_	_	_	O
+16	da	_	_	_	_	_	_	_	_	O
+17	budu	_	_	_	_	_	_	_	_	O
+18	osumnjičeni	_	_	_	_	_	_	_	_	O
+19	za	_	_	_	_	_	_	_	_	O
+20	nasilno	_	_	_	_	_	_	_	_	O
+21	ponašanje	_	_	_	_	_	_	_	SpaceAfter=No	O
+22	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 10
+# sent_id = 10.1
+# text = Retajo je naglasio nultu toleranciju za bilo kakvu štetu na javnim ili simboličnim zgradama, uključujući parlamentarne skupštine i sedišta izvršne i sudske vlasti.
+1	Retajo	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	naglasio	_	_	_	_	_	_	_	_	O
+4	nultu	_	_	_	_	_	_	_	_	O
+5	toleranciju	_	_	_	_	_	_	_	_	O
+6	za	_	_	_	_	_	_	_	_	O
+7	bilo	_	_	_	_	_	_	_	_	O
+8	kakvu	_	_	_	_	_	_	_	_	O
+9	štetu	_	_	_	_	_	_	_	_	O
+10	na	_	_	_	_	_	_	_	_	O
+11	javnim	_	_	_	_	_	_	_	_	O
+12	ili	_	_	_	_	_	_	_	_	O
+13	simboličnim	_	_	_	_	_	_	_	_	O
+14	zgradama	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	,	,	PUNCT	Z	_	_	_	_	_	O
+16	uključujući	_	_	_	_	_	_	_	_	O
+17	parlamentarne	_	_	_	_	_	_	_	_	O
+18	skupštine	_	_	_	_	_	_	_	_	O
+19	i	_	_	_	_	_	_	_	_	O
+20	sedišta	_	_	_	_	_	_	_	_	O
+21	izvršne	_	_	_	_	_	_	_	_	O
+22	i	_	_	_	_	_	_	_	_	O
+23	sudske	_	_	_	_	_	_	_	_	O
+24	vlasti	_	_	_	_	_	_	_	SpaceAfter=No	O
+25	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 11
+# sent_id = 11.1
+# text = Dan društvene mobilizacije je najavljen krajem avgusta kao odgovor na mere budžetske štednje koje je predložio bivši ministar finansija Fransoa Bajru.
+1	Dan	_	_	_	_	_	_	_	_	O
+2	društvene	_	_	_	_	_	_	_	_	O
+3	mobilizacije	_	_	_	_	_	_	_	_	O
+4	je	_	_	_	_	_	_	_	_	O
+5	najavljen	_	_	_	_	_	_	_	_	O
+6	krajem	_	_	_	_	_	_	_	_	O
+7	avgusta	_	_	_	_	_	_	_	_	O
+8	kao	_	_	_	_	_	_	_	_	O
+9	odgovor	_	_	_	_	_	_	_	_	O
+10	na	_	_	_	_	_	_	_	_	O
+11	mere	_	_	_	_	_	_	_	_	O
+12	budžetske	_	_	_	_	_	_	_	_	O
+13	štednje	_	_	_	_	_	_	_	_	O
+14	koje	_	_	_	_	_	_	_	_	O
+15	je	_	_	_	_	_	_	_	_	O
+16	predložio	_	_	_	_	_	_	_	_	O
+17	bivši	_	_	_	_	_	_	_	_	O
+18	ministar	_	_	_	_	_	_	_	_	O
+19	finansija	_	_	_	_	_	_	_	_	O
+20	Fransoa	_	_	_	_	_	_	_	_	O
+21	Bajru	_	_	_	_	_	_	_	SpaceAfter=No	O
+22	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 12
+# sent_id = 12.1
+# text = Te mere su izazvale protivljenje sindikata, koji izražavaju nezadovoljstvo zbog smanjenja socijalnih prava.
+1	Te	_	_	_	_	_	_	_	_	O
+2	mere	_	_	_	_	_	_	_	_	O
+3	su	_	_	_	_	_	_	_	_	O
+4	izazvale	_	_	_	_	_	_	_	_	O
+5	protivljenje	_	_	_	_	_	_	_	_	O
+6	sindikata	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	koji	_	_	_	_	_	_	_	_	O
+9	izražavaju	_	_	_	_	_	_	_	_	O
+10	nezadovoljstvo	_	_	_	_	_	_	_	_	O
+11	zbog	_	_	_	_	_	_	_	_	O
+12	smanjenja	_	_	_	_	_	_	_	_	O
+13	socijalnih	_	_	_	_	_	_	_	_	O
+14	prava	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 13
+# sent_id = 13.1
+# text = Na prethodnom protestu, održanom 10. septembra, bilo je okupljeno skoro 197.000 ljudi, prema podacima Ministarstva unutrašnjih poslova.
+1	Na	_	_	_	_	_	_	_	_	O
+2	prethodnom	_	_	_	_	_	_	_	_	O
+3	protestu	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	održanom	_	_	_	_	_	_	_	_	O
+6	10.	_	_	_	_	_	_	_	_	O
+7	septembra	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	bilo	_	_	_	_	_	_	_	_	O
+10	je	_	_	_	_	_	_	_	_	O
+11	okupljeno	_	_	_	_	_	_	_	_	O
+12	skoro	_	_	_	_	_	_	_	_	O
+13	197.000	_	_	_	_	_	_	_	_	O
+14	ljudi	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	,	,	PUNCT	Z	_	_	_	_	_	O
+16	prema	_	_	_	_	_	_	_	_	O
+17	podacima	_	_	_	_	_	_	_	_	O
+18	Ministarstva	_	_	_	_	_	_	_	_	O
+19	unutrašnjih	_	_	_	_	_	_	_	_	O
+20	poslova	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	.	.	PUNCT	Z	_	_	_	_	_	O
+

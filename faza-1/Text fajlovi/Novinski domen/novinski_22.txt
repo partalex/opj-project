@@ -1,0 +1,15 @@
+#name = ognjen
+#domen = novinski
+#url = https://forbes.n1info.rs/vesti/ko-je-ove-godine-imao-najvise-povlacenja-automobila-jedan-brend-se-ozbiljno-izdvaja/
+#text = Ford je juče objavio povlačenje više od 115.000 vozila upravljačkim stubom volana koji se može odvojiti. To bi, prema oceni regulatora, moglo da poveća rizik od sudara. Tako se se nastavlja rekordna serija bezbednosnih upozorenja koje je kompanija podnela ove godine.
+Opoziv obuhvata određene modele F-250, F-350 i F-450 proizvedene između februara 2019. i septembra 2020, navodi se u dokumentaciji Nacionalne administracije za bezbednost saobraćaja na putevima (NHTSA).
+Ford je ove godine izdao 115 opoziva u vezi sa bezbednošću, uključujući i jučerašnje obaveštenje. To je najviše u odnosu na ostale proizvođače automobila u jednoj godini. Daleko ispred Krajslera (33), Forest Rivera (18) i Folksvagena (20), prema podacima NHTSA.
+Dosad povukli 9,5 miliona vozila
+U vozila je ugrađen neispravan upravljački stub — deo koji povezuje volan sa sistemom upravljanja automobila. On se može iznenada odvojiti, čime se povećava rizik od nesreće, naveo je Ford.
+Kompanija je obaveštena o defektu u junu. Kasnije je utvrđeno da upravljački stub ne ispunjava regulatorne standarde u pogledu sile potrebne da bi se komponenta razdvojila.
+Ford je saopštio da je do 11. septembra zabeležio najmanje četiri prijave kupaca i sedam zahteva u okviru garancije koji bi mogli biti povezani sa problemom. Ali i da mu nije poznato da je došlo do nesreća ili povreda usled ovog kvara.
+Ford je ove godine povukao oko 9,5 miliona vozila, prema podacima NHTSA.
+Dilerima Forda opoziv je prijavljen u utorak. Očekuje se da vlasnici pogođenih vozila budu obavešteni do 10. oktobra, navodi se u izveštaju kompanije. Rešenje bi trebalo da bude spremno do decembra, saopštila je NHTSA. Fordovi dileri će, po potrebi, besplatno popraviti ili zameniti neispravan deo.
+Ranija povlačenja
+U poslednjim mesecima Ford je izdao više obaveštenja. Povlačenja su obuhvatala od samo jednog vozila do više od 1,4 miliona. Ranije ovog meseca kompanija je povukla 1,45 miliona vozila. Uključujući veliki broj modela Ford Edge, Ford Transit, Lincoln Navigator i Lincoln MKC, između ostalog. I to zbog problema sa kamerama za vožnju unazad koje su mogle prikazivati “prazne, iskrivljene ili obrnute” slike.
+U julu je Ford povukao više od 850.000 Ford i Linkoln vozila zbog problema sa pumpom za gorivo. U avgustu je povučeno 355.000 kamioneta zbog problema sa instrument tablom. Pri pokretanju vozila nije prikazivala informacije poput nivoa goriva i brzine. Takođe u avgustu, Ford je povukao oko 500.000 SUV vozila, uključujući određene modele Lincoln MKX i Ford Edge, zbog problema sa kočionim crevom.

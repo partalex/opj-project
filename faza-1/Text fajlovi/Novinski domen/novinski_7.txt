@@ -1,0 +1,9 @@
+#name = marija
+#domen = novinski
+#url = https://n1info.rs/svet/narukvica-faraona-ukradena-iz-muzeja-i-istopljena-u-zlato/
+#text = Zlatna narukvica stara 3.000 godina, koja je ranije ovog meseca nestala iz egipatskog muzeja, ukradena je i istopljena, saopštilo je Ministarstvo unutrašnjih poslova Egipta.
+Narukvica, ukrašena perlama od lapis lazulija, pripadala je kralju Amenemopu iz Trećeg prelaznog perioda oko 1.000. godine pre nove ere, preneo je Rojters.
+Komad je nestao 9. septembra iz sefa u laboratoriji, posle čega su egipatske vlasti pokrenule potragu i pojačale kontrole na aerodromima, lukama i granicama zbog straha od šverca.
+Istraga je dovela do specijaliste za restauraciju muzeja koji je artefakt ukrao i prodao trgovcu srebrom. Trgovac ga je predao vlasniku radionice u istorijskom delu Kaira, koji je narukvicu prodao topionici zlata, gde je metal pomešan s drugim predmetima.
+Resorno ministarstvo je navelo da su osumnjičeni uhapšeni i da je zaplenjen prihod od prodaje u vrednosti oko 4.000 dolara.
+Incident se dogodio nekoliko nedelja pre planiranog novembarskog otvaranja Velikog egipatskog muzeja u blizini piramida u Gizi, ključnog projekta za promociju drevnog nasleđa i privlačenje stranih turista, preneo je Rojters.

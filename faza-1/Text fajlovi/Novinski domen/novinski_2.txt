@@ -1,0 +1,8 @@
+#name = teodora
+#domen = novinski
+#url = https://n1info.rs/svet/cnn-princ-hari-u-poseti-kijevu-najavio-500000-dolara-za-podrsku-deci-iz-gaze-i-ukrajine/
+#text = Princ Hari, vojvoda od Saseksa, iznenada je posetio ukrajinsku prestonicu Kijev, prenosi CNN.
+Prema izveštaju Gardijana, Hari je posetio Ukrajinu na poziv ukrajinske vlade, a očekuje se da će sa svojom fondacijom „Igre nepokornih“ sprovesti akcije kako bi podržao rehabilitaciju ranjenih Ukrajinaca.
+On je Ukrajinu posetio i u aprilu kako bi se sastao sa žrtvama rata u zapadnom gradu Lavovu.
+Pre dolaska u Ukrajinu princ Hari ranije ove nedelje posetio je i Britaniju, kada se sastao sa svojim ocem, kraljem Čarlsom III, posle 19 meseci.
+Iz njegove kancelarije saopšteno je i da će njegova fondacija donirati 500.000 dolara za podršku deci iz Gaze i Ukrajine, objavio je Rojters.

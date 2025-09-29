@@ -1,0 +1,7 @@
+#name = marija
+#domen = novinski
+#url = https://www.nin.rs/magazin/vesti/89372/makronovi-u-americkom-sudu-protiv-kendas-ovens-zbog-teorija-zavere-o-brizit
+#text = Francuski predsednik Emanuel Makron i njegova supruga Brižit Makron podneli su tužbu za klevetu protiv desničarske influenserke Kendas Ovens u Sjedinjenim Američkim Državama nakon što je ona više puta javno iznosila tvrdnje da je Brižit Makron rođena kao muškarac.
+Tužba, podneta u julu 2024. u Delaveru, dolazi nakon neuspešnog pravnog postupka u Francuskoj protiv dve blogerke koje su 2021. godine izneli slične tvrdnje. Naime, Kendas Ovens, bivša komentatorka konzervativnog lista "Dejli Vajer" sa milionima pratilaca na društvenim mrežama, izazvala je kontroverze ponavljajući tvrdnju da je Brižit Makron transrodna osoba. Ova teorija zavere prvi put se pojavila 2021. godine na platformi Jutjubu francuskih blogerki Amandin Roa i Nataš Rej.
+Makronovi su 2024. godine u Francuskoj dobili tužbu za klevetu protiv blogerki, ali je presuda poništena 2025. nakon žalbe, uz obrazloženje slobode izražavanja, a ne istinitosti tvrdnji. Par se žalio na tu odluku.
+U intervjuu za BBC podkast "Fejm Ander Fajer", advokat Makronovih, Tom Kler, izjavio je da Brižit Makron smatra ove tvrdnje "neverovatno uznemirujućim" te da one odvlače pažnju predsedniku Makronu.

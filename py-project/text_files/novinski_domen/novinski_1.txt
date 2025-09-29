@@ -1,0 +1,6 @@
+#name = teodora
+#domen = novinski
+#url = https://www.blic.rs/vesti/svet/charlie-kirk-je-ubijen-amerika-na-ivici-ubica-ostavio-tragove-i-umakao-policiji/jzxg45t
+#text = UZBUNA U PENTAGONU! "Pratimo i odmah ćemo reagovati": Ubistvo Čarlija Kirka upalilo vatru, menja se Amerika kakvu svi poznaju, Tramp ide na sahranu. Čarli Kirk (Charlie Kirk), desničarski aktivista, ubijen je pre dva dana u Juti. Osumnjičeni je pobegao, ali je FBI sada prvi put objavio slike i snimak osobe za koju sumnjaju da je pucala na Kirka. Kovčeg sa Kirkovim telom stigao je u njegovu rodnu Arizonu, i to avionom potpredsednika SAD Džej Di Vensa. Američki vojni čelnici upozorili su vojnike i osoblje zbog objava koje ismevaju ubistvo Kirka.
+Ministar odbrane Pit Hegset je na platformi "X" naveo da je "neprihvatljivo da vojno osoblje i civilni zaposleni Ministarstva rata slave ili ismevaju atentat na sunarodnika".
+- Vrlo pomno pratimo sve ovo i odmah ćemo se pozabaviti. Potpuno neprihvatljivo - dodao je.

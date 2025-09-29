@@ -1,0 +1,9 @@
+#name = marija
+#domen = novinski
+#url = https://n1info.rs/najave-emisija/n1-direktno-srbija-je-stala-uz-studenta-bogdana/
+#text = Večeras u emisiji N1 direktno pratimo proteste podrške studentu Bogdanu Jovičiću koji štrajkuje glađu.
+Student Fakulteta tehničkih nauka iz Novog Sada Bogdan Jovičić i dalje štrajkuje glađu nakon što mu je produžen pritvor. On je prebačen juče u Beograd u pritvorsku bolnicu CZ-a. Studenti mu pružaju podršku pa su najavili okupljanja u više gradova u Srbiji. Naši reporteri nam se javljaju iz Novog Sada, Niša, Beograda i Užica.
+Uživo smo i na protestu u Čačku, gde su na instagram stranici "Građani Čačka u blokadi" objavili da se građani okupljaju kod Hotela Beograd na protestu "Upoznaj svog komšiju! Prozivka."
+Večeras razgovaramo i sa doktorkom veterinarskih nauka u penziji Emilijom Stojanović iz Odžaka koja je bila meta napada pre nekoliko večeri, kada joj je nepoznato lice ili više njih, oskrnavilo kuću polivajući je farbom i ostavljajući krvave šake po zidovima.
+U subotu se u Beogradu održava Vojna parada, koju vlast organizuje u sklopu događaja posvećenih Danima srpskog jedinstva i zastave. Kako region gleda na ovu paradu i da li se njom pokazuje vojna moć Srbije ili se komšijama šalje neka poruke, razgovaramo sa Igorom Tabakom i Deanom Džebićem, vojnopolitičkim komentatorima iz Zagreba i Sarajeva.
+N1 Direktno sa Danicom Vučenić od 20 sati.

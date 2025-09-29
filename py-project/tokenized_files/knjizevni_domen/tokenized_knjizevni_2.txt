@@ -1,0 +1,1420 @@
+#name = milena
+#domen = knjizevni
+#url = https://laguna.rs/n5025_knjiga_brojcanik_putopisni_dnevnici_laguna.html
+# newpar id = 1
+# sent_id = 1.1
+# text = Nekolicina pisaca, i ja među njima, u nedovršenoj kući, u tek završenim sobama, sa zajedničkim kupatilom, dobili smo čiste krevete i krevetnine, bez peškira, bez drugih obaveznih stvari, na konacima, u turističkim mestima.
+1	Nekolicina	_	_	_	_	_	_	_	_	O
+2	pisaca	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	i	_	_	_	_	_	_	_	_	O
+5	ja	_	_	_	_	_	_	_	_	O
+6	među	_	_	_	_	_	_	_	_	O
+7	njima	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	u	_	_	_	_	_	_	_	_	O
+10	nedovršenoj	_	_	_	_	_	_	_	_	O
+11	kući	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	u	_	_	_	_	_	_	_	_	O
+14	tek	_	_	_	_	_	_	_	_	O
+15	završenim	_	_	_	_	_	_	_	_	O
+16	sobama	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	,	,	PUNCT	Z	_	_	_	_	_	O
+18	sa	_	_	_	_	_	_	_	_	O
+19	zajedničkim	_	_	_	_	_	_	_	_	O
+20	kupatilom	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	,	,	PUNCT	Z	_	_	_	_	_	O
+22	dobili	_	_	_	_	_	_	_	_	O
+23	smo	_	_	_	_	_	_	_	_	O
+24	čiste	_	_	_	_	_	_	_	_	O
+25	krevete	_	_	_	_	_	_	_	_	O
+26	i	_	_	_	_	_	_	_	_	O
+27	krevetnine	_	_	_	_	_	_	_	SpaceAfter=No	O
+28	,	,	PUNCT	Z	_	_	_	_	_	O
+29	bez	_	_	_	_	_	_	_	_	O
+30	peškira	_	_	_	_	_	_	_	SpaceAfter=No	O
+31	,	,	PUNCT	Z	_	_	_	_	_	O
+32	bez	_	_	_	_	_	_	_	_	O
+33	drugih	_	_	_	_	_	_	_	_	O
+34	obaveznih	_	_	_	_	_	_	_	_	O
+35	stvari	_	_	_	_	_	_	_	SpaceAfter=No	O
+36	,	,	PUNCT	Z	_	_	_	_	_	O
+37	na	_	_	_	_	_	_	_	_	O
+38	konacima	_	_	_	_	_	_	_	SpaceAfter=No	O
+39	,	,	PUNCT	Z	_	_	_	_	_	O
+40	u	_	_	_	_	_	_	_	_	O
+41	turističkim	_	_	_	_	_	_	_	_	O
+42	mestima	_	_	_	_	_	_	_	SpaceAfter=No	O
+43	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.2
+# text = Znam zašto je tako, ali je i znanja ponekad odviše.
+1	Znam	_	_	_	_	_	_	_	_	O
+2	zašto	_	_	_	_	_	_	_	_	O
+3	je	_	_	_	_	_	_	_	_	O
+4	tako	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	ali	_	_	_	_	_	_	_	_	O
+7	je	_	_	_	_	_	_	_	_	O
+8	i	_	_	_	_	_	_	_	_	O
+9	znanja	_	_	_	_	_	_	_	_	O
+10	ponekad	_	_	_	_	_	_	_	_	O
+11	odviše	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.3
+# text = Alipašini izvori su iza Gusinja, na dnu naše zemlje, u ćošku, u podnožju Prokletija, u samoći, na samku, kod vodenice i restorana, kod štale i zapuštene kuće, a izvori odsvakud, na nekoliko desetina metara, ključaju iz zemlje, razlivaju se i odmah prave reku.
+1	Alipašini	_	_	_	_	_	_	_	_	O
+2	izvori	_	_	_	_	_	_	_	_	O
+3	su	_	_	_	_	_	_	_	_	O
+4	iza	_	_	_	_	_	_	_	_	O
+5	Gusinja	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	na	_	_	_	_	_	_	_	_	O
+8	dnu	_	_	_	_	_	_	_	_	O
+9	naše	_	_	_	_	_	_	_	_	O
+10	zemlje	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	u	_	_	_	_	_	_	_	_	O
+13	ćošku	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	,	,	PUNCT	Z	_	_	_	_	_	O
+15	u	_	_	_	_	_	_	_	_	O
+16	podnožju	_	_	_	_	_	_	_	_	O
+17	Prokletija	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	,	,	PUNCT	Z	_	_	_	_	_	O
+19	u	_	_	_	_	_	_	_	_	O
+20	samoći	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	,	,	PUNCT	Z	_	_	_	_	_	O
+22	na	_	_	_	_	_	_	_	_	O
+23	samku	_	_	_	_	_	_	_	SpaceAfter=No	O
+24	,	,	PUNCT	Z	_	_	_	_	_	O
+25	kod	_	_	_	_	_	_	_	_	O
+26	vodenice	_	_	_	_	_	_	_	_	O
+27	i	_	_	_	_	_	_	_	_	O
+28	restorana	_	_	_	_	_	_	_	SpaceAfter=No	O
+29	,	,	PUNCT	Z	_	_	_	_	_	O
+30	kod	_	_	_	_	_	_	_	_	O
+31	štale	_	_	_	_	_	_	_	_	O
+32	i	_	_	_	_	_	_	_	_	O
+33	zapuštene	_	_	_	_	_	_	_	_	O
+34	kuće	_	_	_	_	_	_	_	SpaceAfter=No	O
+35	,	,	PUNCT	Z	_	_	_	_	_	O
+36	a	_	_	_	_	_	_	_	_	O
+37	izvori	_	_	_	_	_	_	_	_	O
+38	odsvakud	_	_	_	_	_	_	_	SpaceAfter=No	O
+39	,	,	PUNCT	Z	_	_	_	_	_	O
+40	na	_	_	_	_	_	_	_	_	O
+41	nekoliko	_	_	_	_	_	_	_	_	O
+42	desetina	_	_	_	_	_	_	_	_	O
+43	metara	_	_	_	_	_	_	_	SpaceAfter=No	O
+44	,	,	PUNCT	Z	_	_	_	_	_	O
+45	ključaju	_	_	_	_	_	_	_	_	O
+46	iz	_	_	_	_	_	_	_	_	O
+47	zemlje	_	_	_	_	_	_	_	SpaceAfter=No	O
+48	,	,	PUNCT	Z	_	_	_	_	_	O
+49	razlivaju	_	_	_	_	_	_	_	_	O
+50	se	_	_	_	_	_	_	_	_	O
+51	i	_	_	_	_	_	_	_	_	O
+52	odmah	_	_	_	_	_	_	_	_	O
+53	prave	_	_	_	_	_	_	_	_	O
+54	reku	_	_	_	_	_	_	_	SpaceAfter=No	O
+55	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.4
+# text = Probao sam vodu, dvojako.
+1	Probao	_	_	_	_	_	_	_	_	O
+2	sam	_	_	_	_	_	_	_	_	O
+3	vodu	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	dvojako	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.5
+# text = Pregazio sam, po mekom bilju i mahovini, jedan deo izvora i popio sam nekoliko čaša vode.
+1	Pregazio	_	_	_	_	_	_	_	_	O
+2	sam	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	po	_	_	_	_	_	_	_	_	O
+5	mekom	_	_	_	_	_	_	_	_	O
+6	bilju	_	_	_	_	_	_	_	_	O
+7	i	_	_	_	_	_	_	_	_	O
+8	mahovini	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	jedan	_	_	_	_	_	_	_	_	O
+11	deo	_	_	_	_	_	_	_	_	O
+12	izvora	_	_	_	_	_	_	_	_	O
+13	i	_	_	_	_	_	_	_	_	O
+14	popio	_	_	_	_	_	_	_	_	O
+15	sam	_	_	_	_	_	_	_	_	O
+16	nekoliko	_	_	_	_	_	_	_	_	O
+17	čaša	_	_	_	_	_	_	_	_	O
+18	vode	_	_	_	_	_	_	_	SpaceAfter=No	O
+19	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.6
+# text = Obe probe se pamte.
+1	Obe	_	_	_	_	_	_	_	_	O
+2	probe	_	_	_	_	_	_	_	_	O
+3	se	_	_	_	_	_	_	_	_	O
+4	pamte	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.7
+# text = (Samo smo nas četvorica obišli izvore.
+1	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+2	Samo	_	_	_	_	_	_	_	_	O
+3	smo	_	_	_	_	_	_	_	_	O
+4	nas	_	_	_	_	_	_	_	_	O
+5	četvorica	_	_	_	_	_	_	_	_	O
+6	obišli	_	_	_	_	_	_	_	_	O
+7	izvore	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.8
+# text = Ostali pisci su odmah seli za trpezu.
+1	Ostali	_	_	_	_	_	_	_	_	O
+2	pisci	_	_	_	_	_	_	_	_	O
+3	su	_	_	_	_	_	_	_	_	O
+4	odmah	_	_	_	_	_	_	_	_	O
+5	seli	_	_	_	_	_	_	_	_	O
+6	za	_	_	_	_	_	_	_	_	O
+7	trpezu	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.9
+# text = Još jednom je poezija izgubila od pastrmke.
+1	Još	_	_	_	_	_	_	_	_	O
+2	jednom	_	_	_	_	_	_	_	_	O
+3	je	_	_	_	_	_	_	_	_	O
+4	poezija	_	_	_	_	_	_	_	_	O
+5	izgubila	_	_	_	_	_	_	_	_	O
+6	od	_	_	_	_	_	_	_	_	O
+7	pastrmke	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	.	.	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+
+# sent_id = 1.10
+# text = )  Vusanje je poslednje naše selo pod Prokletijama.
+1	)	)	PUNCT	Z	_	_	_	_	_	O
+2	Vusanje	_	_	_	_	_	_	_	_	O
+3	je	_	_	_	_	_	_	_	_	O
+4	poslednje	_	_	_	_	_	_	_	_	O
+5	naše	_	_	_	_	_	_	_	_	O
+6	selo	_	_	_	_	_	_	_	_	O
+7	pod	_	_	_	_	_	_	_	_	O
+8	Prokletijama	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.11
+# text = Kuće su u njemu velike, nove i puste (uglavnom) i prepune gde ima čeljadi.
+1	Kuće	_	_	_	_	_	_	_	_	O
+2	su	_	_	_	_	_	_	_	_	O
+3	u	_	_	_	_	_	_	_	_	O
+4	njemu	_	_	_	_	_	_	_	_	O
+5	velike	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	nove	_	_	_	_	_	_	_	_	O
+8	i	_	_	_	_	_	_	_	_	O
+9	puste	_	_	_	_	_	_	_	_	O
+10	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+11	uglavnom	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	)	)	PUNCT	Z	_	_	_	_	_	O
+13	i	_	_	_	_	_	_	_	_	O
+14	prepune	_	_	_	_	_	_	_	_	O
+15	gde	_	_	_	_	_	_	_	_	O
+16	ima	_	_	_	_	_	_	_	_	O
+17	čeljadi	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.12
+# text = Tamo je karaula, u njoj nekoliko dece, kao u svemirskoj samoći, s puškama kao najboljim drugovima, sa strahom koji možda odlazi uz visove Prokletija i sa strahom koji možda silazi sa visova Prokletija, sa željom, mojom, da bude ono prvo.
+1	Tamo	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	karaula	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	u	_	_	_	_	_	_	_	_	O
+6	njoj	_	_	_	_	_	_	_	_	O
+7	nekoliko	_	_	_	_	_	_	_	_	O
+8	dece	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	kao	_	_	_	_	_	_	_	_	O
+11	u	_	_	_	_	_	_	_	_	O
+12	svemirskoj	_	_	_	_	_	_	_	_	O
+13	samoći	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	,	,	PUNCT	Z	_	_	_	_	_	O
+15	s	_	_	_	_	_	_	_	_	O
+16	puškama	_	_	_	_	_	_	_	_	O
+17	kao	_	_	_	_	_	_	_	_	O
+18	najboljim	_	_	_	_	_	_	_	_	O
+19	drugovima	_	_	_	_	_	_	_	SpaceAfter=No	O
+20	,	,	PUNCT	Z	_	_	_	_	_	O
+21	sa	_	_	_	_	_	_	_	_	O
+22	strahom	_	_	_	_	_	_	_	_	O
+23	koji	_	_	_	_	_	_	_	_	O
+24	možda	_	_	_	_	_	_	_	_	O
+25	odlazi	_	_	_	_	_	_	_	_	O
+26	uz	_	_	_	_	_	_	_	_	O
+27	visove	_	_	_	_	_	_	_	_	O
+28	Prokletija	_	_	_	_	_	_	_	_	O
+29	i	_	_	_	_	_	_	_	_	O
+30	sa	_	_	_	_	_	_	_	_	O
+31	strahom	_	_	_	_	_	_	_	_	O
+32	koji	_	_	_	_	_	_	_	_	O
+33	možda	_	_	_	_	_	_	_	_	O
+34	silazi	_	_	_	_	_	_	_	_	O
+35	sa	_	_	_	_	_	_	_	_	O
+36	visova	_	_	_	_	_	_	_	_	O
+37	Prokletija	_	_	_	_	_	_	_	SpaceAfter=No	O
+38	,	,	PUNCT	Z	_	_	_	_	_	O
+39	sa	_	_	_	_	_	_	_	_	O
+40	željom	_	_	_	_	_	_	_	SpaceAfter=No	O
+41	,	,	PUNCT	Z	_	_	_	_	_	O
+42	mojom	_	_	_	_	_	_	_	SpaceAfter=No	O
+43	,	,	PUNCT	Z	_	_	_	_	_	O
+44	da	_	_	_	_	_	_	_	_	O
+45	bude	_	_	_	_	_	_	_	_	O
+46	ono	_	_	_	_	_	_	_	_	O
+47	prvo	_	_	_	_	_	_	_	SpaceAfter=No	O
+48	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.13
+# text = U Vusanju je Zdravstveni punkt (tako piše) i mali, novi asfaltni put.
+1	U	_	_	_	_	_	_	_	_	O
+2	Vusanju	_	_	_	_	_	_	_	_	O
+3	je	_	_	_	_	_	_	_	_	O
+4	Zdravstveni	_	_	_	_	_	_	_	_	O
+5	punkt	_	_	_	_	_	_	_	_	O
+6	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+7	tako	_	_	_	_	_	_	_	_	O
+8	piše	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	)	)	PUNCT	Z	_	_	_	_	_	O
+10	i	_	_	_	_	_	_	_	_	O
+11	mali	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	novi	_	_	_	_	_	_	_	_	O
+14	asfaltni	_	_	_	_	_	_	_	_	O
+15	put	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.14
+# text = Na kraju tog puta nema više puta.
+1	Na	_	_	_	_	_	_	_	_	O
+2	kraju	_	_	_	_	_	_	_	_	O
+3	tog	_	_	_	_	_	_	_	_	O
+4	puta	_	_	_	_	_	_	_	_	O
+5	nema	_	_	_	_	_	_	_	_	O
+6	više	_	_	_	_	_	_	_	_	O
+7	puta	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.15
+# text = Onamo je Albanija.
+1	Onamo	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	Albanija	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.16
+# text = Slično je i onamo, u drugom kraku od Gusinja, gde je bio granični prelaz, gde nisam išao, gde se ne može preći, jer prelaz nije otvoren, nije odobren.
+1	Slično	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	i	_	_	_	_	_	_	_	_	O
+4	onamo	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	u	_	_	_	_	_	_	_	_	O
+7	drugom	_	_	_	_	_	_	_	_	O
+8	kraku	_	_	_	_	_	_	_	_	O
+9	od	_	_	_	_	_	_	_	_	O
+10	Gusinja	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	gde	_	_	_	_	_	_	_	_	O
+13	je	_	_	_	_	_	_	_	_	O
+14	bio	_	_	_	_	_	_	_	_	O
+15	granični	_	_	_	_	_	_	_	_	O
+16	prelaz	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	,	,	PUNCT	Z	_	_	_	_	_	O
+18	gde	_	_	_	_	_	_	_	_	O
+19	nisam	_	_	_	_	_	_	_	_	O
+20	išao	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	,	,	PUNCT	Z	_	_	_	_	_	O
+22	gde	_	_	_	_	_	_	_	_	O
+23	se	_	_	_	_	_	_	_	_	O
+24	ne	_	_	_	_	_	_	_	_	O
+25	može	_	_	_	_	_	_	_	_	O
+26	preći	_	_	_	_	_	_	_	SpaceAfter=No	O
+27	,	,	PUNCT	Z	_	_	_	_	_	O
+28	jer	_	_	_	_	_	_	_	_	O
+29	prelaz	_	_	_	_	_	_	_	_	O
+30	nije	_	_	_	_	_	_	_	_	O
+31	otvoren	_	_	_	_	_	_	_	SpaceAfter=No	O
+32	,	,	PUNCT	Z	_	_	_	_	_	O
+33	nije	_	_	_	_	_	_	_	_	O
+34	odobren	_	_	_	_	_	_	_	SpaceAfter=No	O
+35	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.17
+# text = A deset puta sam čuo od ljudi iz Plava i Gusinja da bi stizali do Podgorice za jedan školski čas, za samo četrdeset i pet minuta, doduše preko Albanije, preko njene zemlje i kamenja.
+1	A	_	_	_	_	_	_	_	_	O
+2	deset	_	_	_	_	_	_	_	_	O
+3	puta	_	_	_	_	_	_	_	_	O
+4	sam	_	_	_	_	_	_	_	_	O
+5	čuo	_	_	_	_	_	_	_	_	O
+6	od	_	_	_	_	_	_	_	_	O
+7	ljudi	_	_	_	_	_	_	_	_	O
+8	iz	_	_	_	_	_	_	_	_	O
+9	Plava	_	_	_	_	_	_	_	_	O
+10	i	_	_	_	_	_	_	_	_	O
+11	Gusinja	_	_	_	_	_	_	_	_	O
+12	da	_	_	_	_	_	_	_	_	O
+13	bi	_	_	_	_	_	_	_	_	O
+14	stizali	_	_	_	_	_	_	_	_	O
+15	do	_	_	_	_	_	_	_	_	O
+16	Podgorice	_	_	_	_	_	_	_	_	O
+17	za	_	_	_	_	_	_	_	_	O
+18	jedan	_	_	_	_	_	_	_	_	O
+19	školski	_	_	_	_	_	_	_	_	O
+20	čas	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	,	,	PUNCT	Z	_	_	_	_	_	O
+22	za	_	_	_	_	_	_	_	_	O
+23	samo	_	_	_	_	_	_	_	_	O
+24	četrdeset	_	_	_	_	_	_	_	_	O
+25	i	_	_	_	_	_	_	_	_	O
+26	pet	_	_	_	_	_	_	_	_	O
+27	minuta	_	_	_	_	_	_	_	SpaceAfter=No	O
+28	,	,	PUNCT	Z	_	_	_	_	_	O
+29	doduše	_	_	_	_	_	_	_	_	O
+30	preko	_	_	_	_	_	_	_	_	O
+31	Albanije	_	_	_	_	_	_	_	SpaceAfter=No	O
+32	,	,	PUNCT	Z	_	_	_	_	_	O
+33	preko	_	_	_	_	_	_	_	_	O
+34	njene	_	_	_	_	_	_	_	_	O
+35	zemlje	_	_	_	_	_	_	_	_	O
+36	i	_	_	_	_	_	_	_	_	O
+37	kamenja	_	_	_	_	_	_	_	SpaceAfter=No	O
+38	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.18
+# text = Višak nam je, rekli su, sve što idemo odavde do Kolašina.
+1	Višak	_	_	_	_	_	_	_	_	O
+2	nam	_	_	_	_	_	_	_	_	O
+3	je	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	rekli	_	_	_	_	_	_	_	_	O
+6	su	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	sve	_	_	_	_	_	_	_	_	O
+9	što	_	_	_	_	_	_	_	_	O
+10	idemo	_	_	_	_	_	_	_	_	O
+11	odavde	_	_	_	_	_	_	_	_	O
+12	do	_	_	_	_	_	_	_	_	O
+13	Kolašina	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.19
+# text = Nije bilo jasno (meni!
+1	Nije	_	_	_	_	_	_	_	_	O
+2	bilo	_	_	_	_	_	_	_	_	O
+3	jasno	_	_	_	_	_	_	_	_	O
+4	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+5	meni	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	!	!	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+
+# sent_id = 1.20
+# text = ) šta to znači, ali mi je u dva dana boravka tamo bivalo sve jasnije.
+1	)	)	PUNCT	Z	_	_	_	_	_	O
+2	šta	_	_	_	_	_	_	_	_	O
+3	to	_	_	_	_	_	_	_	_	O
+4	znači	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	ali	_	_	_	_	_	_	_	_	O
+7	mi	_	_	_	_	_	_	_	_	O
+8	je	_	_	_	_	_	_	_	_	O
+9	u	_	_	_	_	_	_	_	_	O
+10	dva	_	_	_	_	_	_	_	_	O
+11	dana	_	_	_	_	_	_	_	_	O
+12	boravka	_	_	_	_	_	_	_	_	O
+13	tamo	_	_	_	_	_	_	_	_	O
+14	bivalo	_	_	_	_	_	_	_	_	O
+15	sve	_	_	_	_	_	_	_	_	O
+16	jasnije	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.21
+# text = U kraju Vusanja ima malo čudo prirode.
+1	U	_	_	_	_	_	_	_	_	O
+2	kraju	_	_	_	_	_	_	_	_	O
+3	Vusanja	_	_	_	_	_	_	_	_	O
+4	ima	_	_	_	_	_	_	_	_	O
+5	malo	_	_	_	_	_	_	_	_	O
+6	čudo	_	_	_	_	_	_	_	_	O
+7	prirode	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.22
+# text = Veliki potok dolazi ispod Prokletija, teče ravninom, spušta se, dolazi u vrtaču i tu se dešava ponor kao priča da smo doista došli na dno sveta.
+1	Veliki	_	_	_	_	_	_	_	_	O
+2	potok	_	_	_	_	_	_	_	_	O
+3	dolazi	_	_	_	_	_	_	_	_	O
+4	ispod	_	_	_	_	_	_	_	_	O
+5	Prokletija	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	teče	_	_	_	_	_	_	_	_	O
+8	ravninom	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	spušta	_	_	_	_	_	_	_	_	O
+11	se	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	dolazi	_	_	_	_	_	_	_	_	O
+14	u	_	_	_	_	_	_	_	_	O
+15	vrtaču	_	_	_	_	_	_	_	_	O
+16	i	_	_	_	_	_	_	_	_	O
+17	tu	_	_	_	_	_	_	_	_	O
+18	se	_	_	_	_	_	_	_	_	O
+19	dešava	_	_	_	_	_	_	_	_	O
+20	ponor	_	_	_	_	_	_	_	_	O
+21	kao	_	_	_	_	_	_	_	_	O
+22	priča	_	_	_	_	_	_	_	_	O
+23	da	_	_	_	_	_	_	_	_	O
+24	smo	_	_	_	_	_	_	_	_	O
+25	doista	_	_	_	_	_	_	_	_	O
+26	došli	_	_	_	_	_	_	_	_	O
+27	na	_	_	_	_	_	_	_	_	O
+28	dno	_	_	_	_	_	_	_	_	O
+29	sveta	_	_	_	_	_	_	_	SpaceAfter=No	O
+30	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.23
+# text = Tu je ogromno kamenje, izlokano, belo i peskom zapljusnuto, a među njima duboko ždrelo, duboka jametina, duboka vrtača, u koju pada potok, s nekoliko metara visine, peni se, huči, ledi se i odlazi pod stene Prokletija, bez povratka, bez znanog izlaska.
+1	Tu	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	ogromno	_	_	_	_	_	_	_	_	O
+4	kamenje	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	izlokano	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	belo	_	_	_	_	_	_	_	_	O
+9	i	_	_	_	_	_	_	_	_	O
+10	peskom	_	_	_	_	_	_	_	_	O
+11	zapljusnuto	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	a	_	_	_	_	_	_	_	_	O
+14	među	_	_	_	_	_	_	_	_	O
+15	njima	_	_	_	_	_	_	_	_	O
+16	duboko	_	_	_	_	_	_	_	_	O
+17	ždrelo	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	,	,	PUNCT	Z	_	_	_	_	_	O
+19	duboka	_	_	_	_	_	_	_	_	O
+20	jametina	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	,	,	PUNCT	Z	_	_	_	_	_	O
+22	duboka	_	_	_	_	_	_	_	_	O
+23	vrtača	_	_	_	_	_	_	_	SpaceAfter=No	O
+24	,	,	PUNCT	Z	_	_	_	_	_	O
+25	u	_	_	_	_	_	_	_	_	O
+26	koju	_	_	_	_	_	_	_	_	O
+27	pada	_	_	_	_	_	_	_	_	O
+28	potok	_	_	_	_	_	_	_	SpaceAfter=No	O
+29	,	,	PUNCT	Z	_	_	_	_	_	O
+30	s	_	_	_	_	_	_	_	_	O
+31	nekoliko	_	_	_	_	_	_	_	_	O
+32	metara	_	_	_	_	_	_	_	_	O
+33	visine	_	_	_	_	_	_	_	SpaceAfter=No	O
+34	,	,	PUNCT	Z	_	_	_	_	_	O
+35	peni	_	_	_	_	_	_	_	_	O
+36	se	_	_	_	_	_	_	_	SpaceAfter=No	O
+37	,	,	PUNCT	Z	_	_	_	_	_	O
+38	huči	_	_	_	_	_	_	_	SpaceAfter=No	O
+39	,	,	PUNCT	Z	_	_	_	_	_	O
+40	ledi	_	_	_	_	_	_	_	_	O
+41	se	_	_	_	_	_	_	_	_	O
+42	i	_	_	_	_	_	_	_	_	O
+43	odlazi	_	_	_	_	_	_	_	_	O
+44	pod	_	_	_	_	_	_	_	_	O
+45	stene	_	_	_	_	_	_	_	_	O
+46	Prokletija	_	_	_	_	_	_	_	SpaceAfter=No	O
+47	,	,	PUNCT	Z	_	_	_	_	_	O
+48	bez	_	_	_	_	_	_	_	_	O
+49	povratka	_	_	_	_	_	_	_	SpaceAfter=No	O
+50	,	,	PUNCT	Z	_	_	_	_	_	O
+51	bez	_	_	_	_	_	_	_	_	O
+52	znanog	_	_	_	_	_	_	_	_	O
+53	izlaska	_	_	_	_	_	_	_	SpaceAfter=No	O
+54	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.24
+# text = Odjekuje huk te divlje vode i čuje se daleko.
+1	Odjekuje	_	_	_	_	_	_	_	_	O
+2	huk	_	_	_	_	_	_	_	_	O
+3	te	_	_	_	_	_	_	_	_	O
+4	divlje	_	_	_	_	_	_	_	_	O
+5	vode	_	_	_	_	_	_	_	_	O
+6	i	_	_	_	_	_	_	_	_	O
+7	čuje	_	_	_	_	_	_	_	_	O
+8	se	_	_	_	_	_	_	_	_	O
+9	daleko	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.25
+# text = I sada ga čujem, zajedno sa pričom kako su svatovi doveli nevestu da vidi vodopad i ponor, pa ona skočila u vodu, pa je od nje voda uvek bela.
+1	I	_	_	_	_	_	_	_	_	O
+2	sada	_	_	_	_	_	_	_	_	O
+3	ga	_	_	_	_	_	_	_	_	O
+4	čujem	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	zajedno	_	_	_	_	_	_	_	_	O
+7	sa	_	_	_	_	_	_	_	_	O
+8	pričom	_	_	_	_	_	_	_	_	O
+9	kako	_	_	_	_	_	_	_	_	O
+10	su	_	_	_	_	_	_	_	_	O
+11	svatovi	_	_	_	_	_	_	_	_	O
+12	doveli	_	_	_	_	_	_	_	_	O
+13	nevestu	_	_	_	_	_	_	_	_	O
+14	da	_	_	_	_	_	_	_	_	O
+15	vidi	_	_	_	_	_	_	_	_	O
+16	vodopad	_	_	_	_	_	_	_	_	O
+17	i	_	_	_	_	_	_	_	_	O
+18	ponor	_	_	_	_	_	_	_	SpaceAfter=No	O
+19	,	,	PUNCT	Z	_	_	_	_	_	O
+20	pa	_	_	_	_	_	_	_	_	O
+21	ona	_	_	_	_	_	_	_	_	O
+22	skočila	_	_	_	_	_	_	_	_	O
+23	u	_	_	_	_	_	_	_	_	O
+24	vodu	_	_	_	_	_	_	_	SpaceAfter=No	O
+25	,	,	PUNCT	Z	_	_	_	_	_	O
+26	pa	_	_	_	_	_	_	_	_	O
+27	je	_	_	_	_	_	_	_	_	O
+28	od	_	_	_	_	_	_	_	_	O
+29	nje	_	_	_	_	_	_	_	_	O
+30	voda	_	_	_	_	_	_	_	_	O
+31	uvek	_	_	_	_	_	_	_	_	O
+32	bela	_	_	_	_	_	_	_	SpaceAfter=No	O
+33	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.26
+# text = Koliko bi beline bilo da nije suše (ovoljetne) i da nije presahnuo drugi potok koji ide na isto mesto?
+1	Koliko	_	_	_	_	_	_	_	_	O
+2	bi	_	_	_	_	_	_	_	_	O
+3	beline	_	_	_	_	_	_	_	_	O
+4	bilo	_	_	_	_	_	_	_	_	O
+5	da	_	_	_	_	_	_	_	_	O
+6	nije	_	_	_	_	_	_	_	_	O
+7	suše	_	_	_	_	_	_	_	_	O
+8	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+9	ovoljetne	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	)	)	PUNCT	Z	_	_	_	_	_	O
+11	i	_	_	_	_	_	_	_	_	O
+12	da	_	_	_	_	_	_	_	_	O
+13	nije	_	_	_	_	_	_	_	_	O
+14	presahnuo	_	_	_	_	_	_	_	_	O
+15	drugi	_	_	_	_	_	_	_	_	O
+16	potok	_	_	_	_	_	_	_	_	O
+17	koji	_	_	_	_	_	_	_	_	O
+18	ide	_	_	_	_	_	_	_	_	O
+19	na	_	_	_	_	_	_	_	_	O
+20	isto	_	_	_	_	_	_	_	_	O
+21	mesto	_	_	_	_	_	_	_	SpaceAfter=No	O
+22	?	?	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.27
+# text = Ne znam odgovor.
+1	Ne	_	_	_	_	_	_	_	_	O
+2	znam	_	_	_	_	_	_	_	_	O
+3	odgovor	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.28
+# text = Prvi razgovor što sam ga čuo u Domu kulture, u Plavu, bio je između domaćina, prosedog čoveka, brkatog, u farmerkama, nisam mu doznao ime, i Šerba Rastodera, istoričara, profesora, doktora, odnedavno i akademika DANU (to je: Dukljanska akademija nauka i umjetnosti, više stranka Jevrema Brkovića i ostalih, jer im je Crnogorska…
+1	Prvi	_	_	_	_	_	_	_	_	O
+2	razgovor	_	_	_	_	_	_	_	_	O
+3	što	_	_	_	_	_	_	_	_	O
+4	sam	_	_	_	_	_	_	_	_	O
+5	ga	_	_	_	_	_	_	_	_	O
+6	čuo	_	_	_	_	_	_	_	_	O
+7	u	_	_	_	_	_	_	_	_	O
+8	Domu	_	_	_	_	_	_	_	_	O
+9	kulture	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	u	_	_	_	_	_	_	_	_	O
+12	Plavu	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+14	bio	_	_	_	_	_	_	_	_	O
+15	je	_	_	_	_	_	_	_	_	O
+16	između	_	_	_	_	_	_	_	_	O
+17	domaćina	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	,	,	PUNCT	Z	_	_	_	_	_	O
+19	prosedog	_	_	_	_	_	_	_	_	O
+20	čoveka	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	,	,	PUNCT	Z	_	_	_	_	_	O
+22	brkatog	_	_	_	_	_	_	_	SpaceAfter=No	O
+23	,	,	PUNCT	Z	_	_	_	_	_	O
+24	u	_	_	_	_	_	_	_	_	O
+25	farmerkama	_	_	_	_	_	_	_	SpaceAfter=No	O
+26	,	,	PUNCT	Z	_	_	_	_	_	O
+27	nisam	_	_	_	_	_	_	_	_	O
+28	mu	_	_	_	_	_	_	_	_	O
+29	doznao	_	_	_	_	_	_	_	_	O
+30	ime	_	_	_	_	_	_	_	SpaceAfter=No	O
+31	,	,	PUNCT	Z	_	_	_	_	_	O
+32	i	_	_	_	_	_	_	_	_	O
+33	Šerba	_	_	_	_	_	_	_	_	O
+34	Rastodera	_	_	_	_	_	_	_	SpaceAfter=No	O
+35	,	,	PUNCT	Z	_	_	_	_	_	O
+36	istoričara	_	_	_	_	_	_	_	SpaceAfter=No	O
+37	,	,	PUNCT	Z	_	_	_	_	_	O
+38	profesora	_	_	_	_	_	_	_	SpaceAfter=No	O
+39	,	,	PUNCT	Z	_	_	_	_	_	O
+40	doktora	_	_	_	_	_	_	_	SpaceAfter=No	O
+41	,	,	PUNCT	Z	_	_	_	_	_	O
+42	odnedavno	_	_	_	_	_	_	_	_	O
+43	i	_	_	_	_	_	_	_	_	O
+44	akademika	_	_	_	_	_	_	_	_	O
+45	DANU	_	_	_	_	_	_	_	_	O
+46	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+47	to	_	_	_	_	_	_	_	_	O
+48	je	_	_	_	_	_	_	_	SpaceAfter=No	O
+49	:	:	PUNCT	Z	_	_	_	_	_	O
+50	Dukljanska	_	_	_	_	_	_	_	_	O
+51	akademija	_	_	_	_	_	_	_	_	O
+52	nauka	_	_	_	_	_	_	_	_	O
+53	i	_	_	_	_	_	_	_	_	O
+54	umjetnosti	_	_	_	_	_	_	_	SpaceAfter=No	O
+55	,	,	PUNCT	Z	_	_	_	_	_	O
+56	više	_	_	_	_	_	_	_	_	O
+57	stranka	_	_	_	_	_	_	_	_	O
+58	Jevrema	_	_	_	_	_	_	_	_	O
+59	Brkovića	_	_	_	_	_	_	_	_	O
+60	i	_	_	_	_	_	_	_	_	O
+61	ostalih	_	_	_	_	_	_	_	SpaceAfter=No	O
+62	,	,	PUNCT	Z	_	_	_	_	_	O
+63	jer	_	_	_	_	_	_	_	_	O
+64	im	_	_	_	_	_	_	_	_	O
+65	je	_	_	_	_	_	_	_	_	O
+66	Crnogorska	_	_	_	_	_	_	_	SpaceAfter=No	O
+67	…	…	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.29
+# text = (CANU) previše srpska, zato je ovde zagrada u zagradi, da može i što ne može, da mogu i Rastoderi u Dukljane i obrnuto).
+1	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+2	CANU	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	)	)	PUNCT	Z	_	_	_	_	_	O
+4	previše	_	_	_	_	_	_	_	_	O
+5	srpska	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	zato	_	_	_	_	_	_	_	_	O
+8	je	_	_	_	_	_	_	_	_	O
+9	ovde	_	_	_	_	_	_	_	_	O
+10	zagrada	_	_	_	_	_	_	_	_	O
+11	u	_	_	_	_	_	_	_	_	O
+12	zagradi	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+14	da	_	_	_	_	_	_	_	_	O
+15	može	_	_	_	_	_	_	_	_	O
+16	i	_	_	_	_	_	_	_	_	O
+17	što	_	_	_	_	_	_	_	_	O
+18	ne	_	_	_	_	_	_	_	_	O
+19	može	_	_	_	_	_	_	_	SpaceAfter=No	O
+20	,	,	PUNCT	Z	_	_	_	_	_	O
+21	da	_	_	_	_	_	_	_	_	O
+22	mogu	_	_	_	_	_	_	_	_	O
+23	i	_	_	_	_	_	_	_	_	O
+24	Rastoderi	_	_	_	_	_	_	_	_	O
+25	u	_	_	_	_	_	_	_	_	O
+26	Dukljane	_	_	_	_	_	_	_	_	O
+27	i	_	_	_	_	_	_	_	_	O
+28	obrnuto	_	_	_	_	_	_	_	SpaceAfter=No	O
+29	)	)	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+30	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.30
+# text = Domaćin je, sav ozaren, ljubio Šerba što je rekao (on ili Kilibarda, to domaćin ne zna, ali mu je svejedno) ovo: „Nema naroda na Balkanu koji nije mijenjao svoju vjeru“.
+1	Domaćin	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	sav	_	_	_	_	_	_	_	_	O
+5	ozaren	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	ljubio	_	_	_	_	_	_	_	_	O
+8	Šerba	_	_	_	_	_	_	_	_	O
+9	što	_	_	_	_	_	_	_	_	O
+10	je	_	_	_	_	_	_	_	_	O
+11	rekao	_	_	_	_	_	_	_	_	O
+12	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+13	on	_	_	_	_	_	_	_	_	O
+14	ili	_	_	_	_	_	_	_	_	O
+15	Kilibarda	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	,	,	PUNCT	Z	_	_	_	_	_	O
+17	to	_	_	_	_	_	_	_	_	O
+18	domaćin	_	_	_	_	_	_	_	_	O
+19	ne	_	_	_	_	_	_	_	_	O
+20	zna	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	,	,	PUNCT	Z	_	_	_	_	_	O
+22	ali	_	_	_	_	_	_	_	_	O
+23	mu	_	_	_	_	_	_	_	_	O
+24	je	_	_	_	_	_	_	_	_	O
+25	svejedno	_	_	_	_	_	_	_	SpaceAfter=No	O
+26	)	)	PUNCT	Z	_	_	_	_	_	O
+27	ovo	_	_	_	_	_	_	_	SpaceAfter=No	O
+28	:	:	PUNCT	Z	_	_	_	_	_	O
+29	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+30	Nema	_	_	_	_	_	_	_	_	O
+31	naroda	_	_	_	_	_	_	_	_	O
+32	na	_	_	_	_	_	_	_	_	O
+33	Balkanu	_	_	_	_	_	_	_	_	O
+34	koji	_	_	_	_	_	_	_	_	O
+35	nije	_	_	_	_	_	_	_	_	O
+36	mijenjao	_	_	_	_	_	_	_	_	O
+37	svoju	_	_	_	_	_	_	_	_	O
+38	vjeru	_	_	_	_	_	_	_	SpaceAfter=No	O
+39	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+40	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.31
+# text = Šerbo Rastoder zahvalno priznaje tu izreku kao svoju, pa biva jasno otkud Novak u Sarajevu i otkud Šerbo u Novakovom Nikšiću.
+1	Šerbo	_	_	_	_	_	_	_	_	O
+2	Rastoder	_	_	_	_	_	_	_	_	O
+3	zahvalno	_	_	_	_	_	_	_	_	O
+4	priznaje	_	_	_	_	_	_	_	_	O
+5	tu	_	_	_	_	_	_	_	_	O
+6	izreku	_	_	_	_	_	_	_	_	O
+7	kao	_	_	_	_	_	_	_	_	O
+8	svoju	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	pa	_	_	_	_	_	_	_	_	O
+11	biva	_	_	_	_	_	_	_	_	O
+12	jasno	_	_	_	_	_	_	_	_	O
+13	otkud	_	_	_	_	_	_	_	_	O
+14	Novak	_	_	_	_	_	_	_	_	O
+15	u	_	_	_	_	_	_	_	_	O
+16	Sarajevu	_	_	_	_	_	_	_	_	O
+17	i	_	_	_	_	_	_	_	_	O
+18	otkud	_	_	_	_	_	_	_	_	O
+19	Šerbo	_	_	_	_	_	_	_	_	O
+20	u	_	_	_	_	_	_	_	_	O
+21	Novakovom	_	_	_	_	_	_	_	_	O
+22	Nikšiću	_	_	_	_	_	_	_	SpaceAfter=No	O
+23	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.32
+# text = Nije ovo dosetka i šala.
+1	Nije	_	_	_	_	_	_	_	_	O
+2	ovo	_	_	_	_	_	_	_	_	O
+3	dosetka	_	_	_	_	_	_	_	_	O
+4	i	_	_	_	_	_	_	_	_	O
+5	šala	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.33
+# text = Ovo je tužno svedočenje i muka za onima koji utehu nalaze u rečenoj rečenici.
+1	Ovo	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	tužno	_	_	_	_	_	_	_	_	O
+4	svedočenje	_	_	_	_	_	_	_	_	O
+5	i	_	_	_	_	_	_	_	_	O
+6	muka	_	_	_	_	_	_	_	_	O
+7	za	_	_	_	_	_	_	_	_	O
+8	onima	_	_	_	_	_	_	_	_	O
+9	koji	_	_	_	_	_	_	_	_	O
+10	utehu	_	_	_	_	_	_	_	_	O
+11	nalaze	_	_	_	_	_	_	_	_	O
+12	u	_	_	_	_	_	_	_	_	O
+13	rečenoj	_	_	_	_	_	_	_	_	O
+14	rečenici	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.34
+# text = Husein Bašić, Plavljanin, preplavio je uveče svojim romanima, petinom u nizu, celu varoš gde je rođen, gde je predavao, predsednikovao, pisao, a potom stigao do pomoćnika ministra i do DANU, do takvog akademika.
+1	Husein	_	_	_	_	_	_	_	_	O
+2	Bašić	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	Plavljanin	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	preplavio	_	_	_	_	_	_	_	_	O
+7	je	_	_	_	_	_	_	_	_	O
+8	uveče	_	_	_	_	_	_	_	_	O
+9	svojim	_	_	_	_	_	_	_	_	O
+10	romanima	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	petinom	_	_	_	_	_	_	_	_	O
+13	u	_	_	_	_	_	_	_	_	O
+14	nizu	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	,	,	PUNCT	Z	_	_	_	_	_	O
+16	celu	_	_	_	_	_	_	_	_	O
+17	varoš	_	_	_	_	_	_	_	_	O
+18	gde	_	_	_	_	_	_	_	_	O
+19	je	_	_	_	_	_	_	_	_	O
+20	rođen	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	,	,	PUNCT	Z	_	_	_	_	_	O
+22	gde	_	_	_	_	_	_	_	_	O
+23	je	_	_	_	_	_	_	_	_	O
+24	predavao	_	_	_	_	_	_	_	SpaceAfter=No	O
+25	,	,	PUNCT	Z	_	_	_	_	_	O
+26	predsednikovao	_	_	_	_	_	_	_	SpaceAfter=No	O
+27	,	,	PUNCT	Z	_	_	_	_	_	O
+28	pisao	_	_	_	_	_	_	_	SpaceAfter=No	O
+29	,	,	PUNCT	Z	_	_	_	_	_	O
+30	a	_	_	_	_	_	_	_	_	O
+31	potom	_	_	_	_	_	_	_	_	O
+32	stigao	_	_	_	_	_	_	_	_	O
+33	do	_	_	_	_	_	_	_	_	O
+34	pomoćnika	_	_	_	_	_	_	_	_	O
+35	ministra	_	_	_	_	_	_	_	_	O
+36	i	_	_	_	_	_	_	_	_	O
+37	do	_	_	_	_	_	_	_	_	O
+38	DANU	_	_	_	_	_	_	_	SpaceAfter=No	O
+39	,	,	PUNCT	Z	_	_	_	_	_	O
+40	do	_	_	_	_	_	_	_	_	O
+41	takvog	_	_	_	_	_	_	_	_	O
+42	akademika	_	_	_	_	_	_	_	SpaceAfter=No	O
+43	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.35
+# text = Tuguje (shvatio sam na predstavljanju tih romana) Bašić za Turskim carstvom i propašću tog carstva, kada je karavan prolazio plavsko-gusinjskom kotlinom.
+1	Tuguje	_	_	_	_	_	_	_	_	O
+2	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+3	shvatio	_	_	_	_	_	_	_	_	O
+4	sam	_	_	_	_	_	_	_	_	O
+5	na	_	_	_	_	_	_	_	_	O
+6	predstavljanju	_	_	_	_	_	_	_	_	O
+7	tih	_	_	_	_	_	_	_	_	O
+8	romana	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	)	)	PUNCT	Z	_	_	_	_	_	O
+10	Bašić	_	_	_	_	_	_	_	_	O
+11	za	_	_	_	_	_	_	_	_	O
+12	Turskim	_	_	_	_	_	_	_	_	O
+13	carstvom	_	_	_	_	_	_	_	_	O
+14	i	_	_	_	_	_	_	_	_	O
+15	propašću	_	_	_	_	_	_	_	_	O
+16	tog	_	_	_	_	_	_	_	_	O
+17	carstva	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	,	,	PUNCT	Z	_	_	_	_	_	O
+19	kada	_	_	_	_	_	_	_	_	O
+20	je	_	_	_	_	_	_	_	_	O
+21	karavan	_	_	_	_	_	_	_	_	O
+22	prolazio	_	_	_	_	_	_	_	_	O
+23	plavsko-gusinjskom	_	_	_	_	_	_	_	_	O
+24	kotlinom	_	_	_	_	_	_	_	SpaceAfter=No	O
+25	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.36
+# text = Nostalgični doživljaj prošlosti je prirodan, ali obrazloženje, statističko, te nostalgije koje je dao Šerbo Rastoder nije mi se dopalo.
+1	Nostalgični	_	_	_	_	_	_	_	_	O
+2	doživljaj	_	_	_	_	_	_	_	_	O
+3	prošlosti	_	_	_	_	_	_	_	_	O
+4	je	_	_	_	_	_	_	_	_	O
+5	prirodan	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	ali	_	_	_	_	_	_	_	_	O
+8	obrazloženje	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	statističko	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	te	_	_	_	_	_	_	_	_	O
+13	nostalgije	_	_	_	_	_	_	_	_	O
+14	koje	_	_	_	_	_	_	_	_	O
+15	je	_	_	_	_	_	_	_	_	O
+16	dao	_	_	_	_	_	_	_	_	O
+17	Šerbo	_	_	_	_	_	_	_	_	O
+18	Rastoder	_	_	_	_	_	_	_	_	O
+19	nije	_	_	_	_	_	_	_	_	O
+20	mi	_	_	_	_	_	_	_	_	O
+21	se	_	_	_	_	_	_	_	_	O
+22	dopalo	_	_	_	_	_	_	_	SpaceAfter=No	O
+23	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.37
+# text = On je u maniru Evlije Čelebije, đegda i pozivajući se na njega, govorio koliko je bilo Turaka u Srbiji i u Crnoj Gori, ali samo u gradovima, samo u takvim naseljima (a zna se kakvi su onda bili gradovi, kakve su to bile „ulice“ i druge živosti), zapravo zazidane tvrđave i u njima, svedoči Rastoder, u Užicu, na primer, bilo je 97% muslimanskih i 3% hrišćanskih porodica, odnosno glava.
+1	On	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	u	_	_	_	_	_	_	_	_	O
+4	maniru	_	_	_	_	_	_	_	_	O
+5	Evlije	_	_	_	_	_	_	_	_	O
+6	Čelebije	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	đegda	_	_	_	_	_	_	_	_	O
+9	i	_	_	_	_	_	_	_	_	O
+10	pozivajući	_	_	_	_	_	_	_	_	O
+11	se	_	_	_	_	_	_	_	_	O
+12	na	_	_	_	_	_	_	_	_	O
+13	njega	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	,	,	PUNCT	Z	_	_	_	_	_	O
+15	govorio	_	_	_	_	_	_	_	_	O
+16	koliko	_	_	_	_	_	_	_	_	O
+17	je	_	_	_	_	_	_	_	_	O
+18	bilo	_	_	_	_	_	_	_	_	O
+19	Turaka	_	_	_	_	_	_	_	_	O
+20	u	_	_	_	_	_	_	_	_	O
+21	Srbiji	_	_	_	_	_	_	_	_	O
+22	i	_	_	_	_	_	_	_	_	O
+23	u	_	_	_	_	_	_	_	_	O
+24	Crnoj	_	_	_	_	_	_	_	_	O
+25	Gori	_	_	_	_	_	_	_	SpaceAfter=No	O
+26	,	,	PUNCT	Z	_	_	_	_	_	O
+27	ali	_	_	_	_	_	_	_	_	O
+28	samo	_	_	_	_	_	_	_	_	O
+29	u	_	_	_	_	_	_	_	_	O
+30	gradovima	_	_	_	_	_	_	_	SpaceAfter=No	O
+31	,	,	PUNCT	Z	_	_	_	_	_	O
+32	samo	_	_	_	_	_	_	_	_	O
+33	u	_	_	_	_	_	_	_	_	O
+34	takvim	_	_	_	_	_	_	_	_	O
+35	naseljima	_	_	_	_	_	_	_	_	O
+36	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+37	a	_	_	_	_	_	_	_	_	O
+38	zna	_	_	_	_	_	_	_	_	O
+39	se	_	_	_	_	_	_	_	_	O
+40	kakvi	_	_	_	_	_	_	_	_	O
+41	su	_	_	_	_	_	_	_	_	O
+42	onda	_	_	_	_	_	_	_	_	O
+43	bili	_	_	_	_	_	_	_	_	O
+44	gradovi	_	_	_	_	_	_	_	SpaceAfter=No	O
+45	,	,	PUNCT	Z	_	_	_	_	_	O
+46	kakve	_	_	_	_	_	_	_	_	O
+47	su	_	_	_	_	_	_	_	_	O
+48	to	_	_	_	_	_	_	_	_	O
+49	bile	_	_	_	_	_	_	_	_	O
+50	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+51	ulice	_	_	_	_	_	_	_	SpaceAfter=No	O
+52	“	“	PUNCT	Z	_	_	_	_	_	O
+53	i	_	_	_	_	_	_	_	_	O
+54	druge	_	_	_	_	_	_	_	_	O
+55	živosti	_	_	_	_	_	_	_	SpaceAfter=No	O
+56	)	)	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+57	,	,	PUNCT	Z	_	_	_	_	_	O
+58	zapravo	_	_	_	_	_	_	_	_	O
+59	zazidane	_	_	_	_	_	_	_	_	O
+60	tvrđave	_	_	_	_	_	_	_	_	O
+61	i	_	_	_	_	_	_	_	_	O
+62	u	_	_	_	_	_	_	_	_	O
+63	njima	_	_	_	_	_	_	_	SpaceAfter=No	O
+64	,	,	PUNCT	Z	_	_	_	_	_	O
+65	svedoči	_	_	_	_	_	_	_	_	O
+66	Rastoder	_	_	_	_	_	_	_	SpaceAfter=No	O
+67	,	,	PUNCT	Z	_	_	_	_	_	O
+68	u	_	_	_	_	_	_	_	_	O
+69	Užicu	_	_	_	_	_	_	_	SpaceAfter=No	O
+70	,	,	PUNCT	Z	_	_	_	_	_	O
+71	na	_	_	_	_	_	_	_	_	O
+72	primer	_	_	_	_	_	_	_	SpaceAfter=No	O
+73	,	,	PUNCT	Z	_	_	_	_	_	O
+74	bilo	_	_	_	_	_	_	_	_	O
+75	je	_	_	_	_	_	_	_	_	O
+76	97	_	_	_	_	_	_	_	SpaceAfter=No	O
+77	%	%	SYM	Z	_	_	_	_	_	O
+78	muslimanskih	_	_	_	_	_	_	_	_	O
+79	i	_	_	_	_	_	_	_	_	O
+80	3	_	_	_	_	_	_	_	SpaceAfter=No	O
+81	%	%	SYM	Z	_	_	_	_	_	O
+82	hrišćanskih	_	_	_	_	_	_	_	_	O
+83	porodica	_	_	_	_	_	_	_	SpaceAfter=No	O
+84	,	,	PUNCT	Z	_	_	_	_	_	O
+85	odnosno	_	_	_	_	_	_	_	_	O
+86	glava	_	_	_	_	_	_	_	SpaceAfter=No	O
+87	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.38
+# text = U takvoj priči mu je bio najbolji podupirač Rajko Cerović, sav rastopljen, raznežen, kao da su ga u melem zavili, a fini, skromni Isak Kalpačina, domaćin svih književnih događanja u Plavu, govorio je, razložno, o književnoj priči, o literaturi.
+1	U	_	_	_	_	_	_	_	_	O
+2	takvoj	_	_	_	_	_	_	_	_	O
+3	priči	_	_	_	_	_	_	_	_	O
+4	mu	_	_	_	_	_	_	_	_	O
+5	je	_	_	_	_	_	_	_	_	O
+6	bio	_	_	_	_	_	_	_	_	O
+7	najbolji	_	_	_	_	_	_	_	_	O
+8	podupirač	_	_	_	_	_	_	_	_	O
+9	Rajko	_	_	_	_	_	_	_	_	O
+10	Cerović	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	sav	_	_	_	_	_	_	_	_	O
+13	rastopljen	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	,	,	PUNCT	Z	_	_	_	_	_	O
+15	raznežen	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	,	,	PUNCT	Z	_	_	_	_	_	O
+17	kao	_	_	_	_	_	_	_	_	O
+18	da	_	_	_	_	_	_	_	_	O
+19	su	_	_	_	_	_	_	_	_	O
+20	ga	_	_	_	_	_	_	_	_	O
+21	u	_	_	_	_	_	_	_	_	O
+22	melem	_	_	_	_	_	_	_	_	O
+23	zavili	_	_	_	_	_	_	_	SpaceAfter=No	O
+24	,	,	PUNCT	Z	_	_	_	_	_	O
+25	a	_	_	_	_	_	_	_	_	O
+26	fini	_	_	_	_	_	_	_	SpaceAfter=No	O
+27	,	,	PUNCT	Z	_	_	_	_	_	O
+28	skromni	_	_	_	_	_	_	_	_	O
+29	Isak	_	_	_	_	_	_	_	_	O
+30	Kalpačina	_	_	_	_	_	_	_	SpaceAfter=No	O
+31	,	,	PUNCT	Z	_	_	_	_	_	O
+32	domaćin	_	_	_	_	_	_	_	_	O
+33	svih	_	_	_	_	_	_	_	_	O
+34	književnih	_	_	_	_	_	_	_	_	O
+35	događanja	_	_	_	_	_	_	_	_	O
+36	u	_	_	_	_	_	_	_	_	O
+37	Plavu	_	_	_	_	_	_	_	SpaceAfter=No	O
+38	,	,	PUNCT	Z	_	_	_	_	_	O
+39	govorio	_	_	_	_	_	_	_	_	O
+40	je	_	_	_	_	_	_	_	SpaceAfter=No	O
+41	,	,	PUNCT	Z	_	_	_	_	_	O
+42	razložno	_	_	_	_	_	_	_	SpaceAfter=No	O
+43	,	,	PUNCT	Z	_	_	_	_	_	O
+44	o	_	_	_	_	_	_	_	_	O
+45	književnoj	_	_	_	_	_	_	_	_	O
+46	priči	_	_	_	_	_	_	_	SpaceAfter=No	O
+47	,	,	PUNCT	Z	_	_	_	_	_	O
+48	o	_	_	_	_	_	_	_	_	O
+49	literaturi	_	_	_	_	_	_	_	SpaceAfter=No	O
+50	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.39
+# text = Bašić je čitao svoj strah da mu vetar ne odnese ispisane papiriće, srećan što se to nije desilo njegovim romanima (istorijskim, po sebi) i rekao je sreću što mu je došao predsednik, uprslučeni Jevrem.
+1	Bašić	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	čitao	_	_	_	_	_	_	_	_	O
+4	svoj	_	_	_	_	_	_	_	_	O
+5	strah	_	_	_	_	_	_	_	_	O
+6	da	_	_	_	_	_	_	_	_	O
+7	mu	_	_	_	_	_	_	_	_	O
+8	vetar	_	_	_	_	_	_	_	_	O
+9	ne	_	_	_	_	_	_	_	_	O
+10	odnese	_	_	_	_	_	_	_	_	O
+11	ispisane	_	_	_	_	_	_	_	_	O
+12	papiriće	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+14	srećan	_	_	_	_	_	_	_	_	O
+15	što	_	_	_	_	_	_	_	_	O
+16	se	_	_	_	_	_	_	_	_	O
+17	to	_	_	_	_	_	_	_	_	O
+18	nije	_	_	_	_	_	_	_	_	O
+19	desilo	_	_	_	_	_	_	_	_	O
+20	njegovim	_	_	_	_	_	_	_	_	O
+21	romanima	_	_	_	_	_	_	_	_	O
+22	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+23	istorijskim	_	_	_	_	_	_	_	SpaceAfter=No	O
+24	,	,	PUNCT	Z	_	_	_	_	_	O
+25	po	_	_	_	_	_	_	_	_	O
+26	sebi	_	_	_	_	_	_	_	SpaceAfter=No	O
+27	)	)	PUNCT	Z	_	_	_	_	_	O
+28	i	_	_	_	_	_	_	_	_	O
+29	rekao	_	_	_	_	_	_	_	_	O
+30	je	_	_	_	_	_	_	_	_	O
+31	sreću	_	_	_	_	_	_	_	_	O
+32	što	_	_	_	_	_	_	_	_	O
+33	mu	_	_	_	_	_	_	_	_	O
+34	je	_	_	_	_	_	_	_	_	O
+35	došao	_	_	_	_	_	_	_	_	O
+36	predsednik	_	_	_	_	_	_	_	SpaceAfter=No	O
+37	,	,	PUNCT	Z	_	_	_	_	_	O
+38	uprslučeni	_	_	_	_	_	_	_	_	O
+39	Jevrem	_	_	_	_	_	_	_	SpaceAfter=No	O
+40	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.40
+# text = Ne smeta mi što govori Šerbo, ali je on spretan, elokventan, sposoban, valja mu naći dostojnog sagovornika, ne valja ga pustiti da govori sam.
+1	Ne	_	_	_	_	_	_	_	_	O
+2	smeta	_	_	_	_	_	_	_	_	O
+3	mi	_	_	_	_	_	_	_	_	O
+4	što	_	_	_	_	_	_	_	_	O
+5	govori	_	_	_	_	_	_	_	_	O
+6	Šerbo	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	ali	_	_	_	_	_	_	_	_	O
+9	je	_	_	_	_	_	_	_	_	O
+10	on	_	_	_	_	_	_	_	_	O
+11	spretan	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	elokventan	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	,	,	PUNCT	Z	_	_	_	_	_	O
+15	sposoban	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	,	,	PUNCT	Z	_	_	_	_	_	O
+17	valja	_	_	_	_	_	_	_	_	O
+18	mu	_	_	_	_	_	_	_	_	O
+19	naći	_	_	_	_	_	_	_	_	O
+20	dostojnog	_	_	_	_	_	_	_	_	O
+21	sagovornika	_	_	_	_	_	_	_	SpaceAfter=No	O
+22	,	,	PUNCT	Z	_	_	_	_	_	O
+23	ne	_	_	_	_	_	_	_	_	O
+24	valja	_	_	_	_	_	_	_	_	O
+25	ga	_	_	_	_	_	_	_	_	O
+26	pustiti	_	_	_	_	_	_	_	_	O
+27	da	_	_	_	_	_	_	_	_	O
+28	govori	_	_	_	_	_	_	_	_	O
+29	sam	_	_	_	_	_	_	_	SpaceAfter=No	O
+30	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.41
+# text = Tada je nezgodan, jer je uverljiv, jer može njegova ostati starija.
+1	Tada	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	nezgodan	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	jer	_	_	_	_	_	_	_	_	O
+6	je	_	_	_	_	_	_	_	_	O
+7	uverljiv	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	jer	_	_	_	_	_	_	_	_	O
+10	može	_	_	_	_	_	_	_	_	O
+11	njegova	_	_	_	_	_	_	_	_	O
+12	ostati	_	_	_	_	_	_	_	_	O
+13	starija	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.42
+# text = Treba mu reći da svaka istorijska priča ima lice i naličje, pa i bitka na Novšiću i drugi događaji.
+1	Treba	_	_	_	_	_	_	_	_	O
+2	mu	_	_	_	_	_	_	_	_	O
+3	reći	_	_	_	_	_	_	_	_	O
+4	da	_	_	_	_	_	_	_	_	O
+5	svaka	_	_	_	_	_	_	_	_	O
+6	istorijska	_	_	_	_	_	_	_	_	O
+7	priča	_	_	_	_	_	_	_	_	O
+8	ima	_	_	_	_	_	_	_	_	O
+9	lice	_	_	_	_	_	_	_	_	O
+10	i	_	_	_	_	_	_	_	_	O
+11	naličje	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	pa	_	_	_	_	_	_	_	_	O
+14	i	_	_	_	_	_	_	_	_	O
+15	bitka	_	_	_	_	_	_	_	_	O
+16	na	_	_	_	_	_	_	_	_	O
+17	Novšiću	_	_	_	_	_	_	_	_	O
+18	i	_	_	_	_	_	_	_	_	O
+19	drugi	_	_	_	_	_	_	_	_	O
+20	događaji	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.43
+# text = Ne smeta mi pripovedanje Huseina Bašića.
+1	Ne	_	_	_	_	_	_	_	_	O
+2	smeta	_	_	_	_	_	_	_	_	O
+3	mi	_	_	_	_	_	_	_	_	O
+4	pripovedanje	_	_	_	_	_	_	_	_	O
+5	Huseina	_	_	_	_	_	_	_	_	O
+6	Bašića	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.44
+# text = On se okrenuo na svoju stranu.
+1	On	_	_	_	_	_	_	_	_	O
+2	se	_	_	_	_	_	_	_	_	O
+3	okrenuo	_	_	_	_	_	_	_	_	O
+4	na	_	_	_	_	_	_	_	_	O
+5	svoju	_	_	_	_	_	_	_	_	O
+6	stranu	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.45
+# text = Od nje mu pada zaladak.
+1	Od	_	_	_	_	_	_	_	_	O
+2	nje	_	_	_	_	_	_	_	_	O
+3	mu	_	_	_	_	_	_	_	_	O
+4	pada	_	_	_	_	_	_	_	_	O
+5	zaladak	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.46
+# text = Smeta mi ulagivanje Rajka Cerovića.
+1	Smeta	_	_	_	_	_	_	_	_	O
+2	mi	_	_	_	_	_	_	_	_	O
+3	ulagivanje	_	_	_	_	_	_	_	_	O
+4	Rajka	_	_	_	_	_	_	_	_	O
+5	Cerovića	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.47
+# text = Da je odnekud banuo Novica, ne znam kako bi se Rajkan proveo.
+1	Da	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	odnekud	_	_	_	_	_	_	_	_	O
+4	banuo	_	_	_	_	_	_	_	_	O
+5	Novica	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	ne	_	_	_	_	_	_	_	_	O
+8	znam	_	_	_	_	_	_	_	_	O
+9	kako	_	_	_	_	_	_	_	_	O
+10	bi	_	_	_	_	_	_	_	_	O
+11	se	_	_	_	_	_	_	_	_	O
+12	Rajkan	_	_	_	_	_	_	_	_	O
+13	proveo	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.48
+# text = Ali, sve to bi ostalo na obali egzotičnosti kada se u tome zborenju ne bi onako jasno video sistem zavođenja, isti kao ovaj ovde.
+1	Ali	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	sve	_	_	_	_	_	_	_	_	O
+4	to	_	_	_	_	_	_	_	_	O
+5	bi	_	_	_	_	_	_	_	_	O
+6	ostalo	_	_	_	_	_	_	_	_	O
+7	na	_	_	_	_	_	_	_	_	O
+8	obali	_	_	_	_	_	_	_	_	O
+9	egzotičnosti	_	_	_	_	_	_	_	_	O
+10	kada	_	_	_	_	_	_	_	_	O
+11	se	_	_	_	_	_	_	_	_	O
+12	u	_	_	_	_	_	_	_	_	O
+13	tome	_	_	_	_	_	_	_	_	O
+14	zborenju	_	_	_	_	_	_	_	_	O
+15	ne	_	_	_	_	_	_	_	_	O
+16	bi	_	_	_	_	_	_	_	_	O
+17	onako	_	_	_	_	_	_	_	_	O
+18	jasno	_	_	_	_	_	_	_	_	O
+19	video	_	_	_	_	_	_	_	_	O
+20	sistem	_	_	_	_	_	_	_	_	O
+21	zavođenja	_	_	_	_	_	_	_	SpaceAfter=No	O
+22	,	,	PUNCT	Z	_	_	_	_	_	O
+23	isti	_	_	_	_	_	_	_	_	O
+24	kao	_	_	_	_	_	_	_	_	O
+25	ovaj	_	_	_	_	_	_	_	_	O
+26	ovde	_	_	_	_	_	_	_	SpaceAfter=No	O
+27	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.49
+# text = I tu je zlo jedno drugo rodilo.
+1	I	_	_	_	_	_	_	_	_	O
+2	tu	_	_	_	_	_	_	_	_	O
+3	je	_	_	_	_	_	_	_	_	O
+4	zlo	_	_	_	_	_	_	_	_	O
+5	jedno	_	_	_	_	_	_	_	_	O
+6	drugo	_	_	_	_	_	_	_	_	O
+7	rodilo	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.50
+# text = Hoćemo li ga zadaviti?
+1	Hoćemo	_	_	_	_	_	_	_	_	O
+2	li	_	_	_	_	_	_	_	_	O
+3	ga	_	_	_	_	_	_	_	_	O
+4	zadaviti	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	?	?	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.51
+# text = Završno veče, pesničko, ide po istom scenariju kao u Pivi, ali nije na onako čarovitom mestu kao što je porta, ali nije pred onolikim svetom, ali nije s onim naponom, srpskim, što su ga, letos, tamo dodali nekolicina zagriženih pesnika, ali jeste isto toliko nacionalističko, s one strane, muslimanske, što se čulo po izboru stihova, u utrkivanju ko će žešće, vernije turbanu, vernije naginjanju s kolena.
+1	Završno	_	_	_	_	_	_	_	_	O
+2	veče	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	pesničko	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	ide	_	_	_	_	_	_	_	_	O
+7	po	_	_	_	_	_	_	_	_	O
+8	istom	_	_	_	_	_	_	_	_	O
+9	scenariju	_	_	_	_	_	_	_	_	O
+10	kao	_	_	_	_	_	_	_	_	O
+11	u	_	_	_	_	_	_	_	_	O
+12	Pivi	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+14	ali	_	_	_	_	_	_	_	_	O
+15	nije	_	_	_	_	_	_	_	_	O
+16	na	_	_	_	_	_	_	_	_	O
+17	onako	_	_	_	_	_	_	_	_	O
+18	čarovitom	_	_	_	_	_	_	_	_	O
+19	mestu	_	_	_	_	_	_	_	_	O
+20	kao	_	_	_	_	_	_	_	_	O
+21	što	_	_	_	_	_	_	_	_	O
+22	je	_	_	_	_	_	_	_	_	O
+23	porta	_	_	_	_	_	_	_	SpaceAfter=No	O
+24	,	,	PUNCT	Z	_	_	_	_	_	O
+25	ali	_	_	_	_	_	_	_	_	O
+26	nije	_	_	_	_	_	_	_	_	O
+27	pred	_	_	_	_	_	_	_	_	O
+28	onolikim	_	_	_	_	_	_	_	_	O
+29	svetom	_	_	_	_	_	_	_	SpaceAfter=No	O
+30	,	,	PUNCT	Z	_	_	_	_	_	O
+31	ali	_	_	_	_	_	_	_	_	O
+32	nije	_	_	_	_	_	_	_	_	O
+33	s	_	_	_	_	_	_	_	_	O
+34	onim	_	_	_	_	_	_	_	_	O
+35	naponom	_	_	_	_	_	_	_	SpaceAfter=No	O
+36	,	,	PUNCT	Z	_	_	_	_	_	O
+37	srpskim	_	_	_	_	_	_	_	SpaceAfter=No	O
+38	,	,	PUNCT	Z	_	_	_	_	_	O
+39	što	_	_	_	_	_	_	_	_	O
+40	su	_	_	_	_	_	_	_	_	O
+41	ga	_	_	_	_	_	_	_	SpaceAfter=No	O
+42	,	,	PUNCT	Z	_	_	_	_	_	O
+43	letos	_	_	_	_	_	_	_	SpaceAfter=No	O
+44	,	,	PUNCT	Z	_	_	_	_	_	O
+45	tamo	_	_	_	_	_	_	_	_	O
+46	dodali	_	_	_	_	_	_	_	_	O
+47	nekolicina	_	_	_	_	_	_	_	_	O
+48	zagriženih	_	_	_	_	_	_	_	_	O
+49	pesnika	_	_	_	_	_	_	_	SpaceAfter=No	O
+50	,	,	PUNCT	Z	_	_	_	_	_	O
+51	ali	_	_	_	_	_	_	_	_	O
+52	jeste	_	_	_	_	_	_	_	_	O
+53	isto	_	_	_	_	_	_	_	_	O
+54	toliko	_	_	_	_	_	_	_	_	O
+55	nacionalističko	_	_	_	_	_	_	_	SpaceAfter=No	O
+56	,	,	PUNCT	Z	_	_	_	_	_	O
+57	s	_	_	_	_	_	_	_	_	O
+58	one	_	_	_	_	_	_	_	_	O
+59	strane	_	_	_	_	_	_	_	SpaceAfter=No	O
+60	,	,	PUNCT	Z	_	_	_	_	_	O
+61	muslimanske	_	_	_	_	_	_	_	SpaceAfter=No	O
+62	,	,	PUNCT	Z	_	_	_	_	_	O
+63	što	_	_	_	_	_	_	_	_	O
+64	se	_	_	_	_	_	_	_	_	O
+65	čulo	_	_	_	_	_	_	_	_	O
+66	po	_	_	_	_	_	_	_	_	O
+67	izboru	_	_	_	_	_	_	_	_	O
+68	stihova	_	_	_	_	_	_	_	SpaceAfter=No	O
+69	,	,	PUNCT	Z	_	_	_	_	_	O
+70	u	_	_	_	_	_	_	_	_	O
+71	utrkivanju	_	_	_	_	_	_	_	_	O
+72	ko	_	_	_	_	_	_	_	_	O
+73	će	_	_	_	_	_	_	_	_	O
+74	žešće	_	_	_	_	_	_	_	SpaceAfter=No	O
+75	,	,	PUNCT	Z	_	_	_	_	_	O
+76	vernije	_	_	_	_	_	_	_	_	O
+77	turbanu	_	_	_	_	_	_	_	SpaceAfter=No	O
+78	,	,	PUNCT	Z	_	_	_	_	_	O
+79	vernije	_	_	_	_	_	_	_	_	O
+80	naginjanju	_	_	_	_	_	_	_	_	O
+81	s	_	_	_	_	_	_	_	_	O
+82	kolena	_	_	_	_	_	_	_	SpaceAfter=No	O
+83	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.52
+# text = Nas nekoliko, Žarko Đurović, uvek jednako dobar i jednako pošten, Milo Kralj, uvek jednako spor i zadimljen cigarskom vatrom, s besedom o neizbežnom Čedu Vukoviću koji je u 80. počeo da raste, mladi i daroviti Petar V. Arbutina,
+1	Nas	_	_	_	_	_	_	_	_	O
+2	nekoliko	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	Žarko	_	_	_	_	_	_	_	_	O
+5	Đurović	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	uvek	_	_	_	_	_	_	_	_	O
+8	jednako	_	_	_	_	_	_	_	_	O
+9	dobar	_	_	_	_	_	_	_	_	O
+10	i	_	_	_	_	_	_	_	_	O
+11	jednako	_	_	_	_	_	_	_	_	O
+12	pošten	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+14	Milo	_	_	_	_	_	_	_	_	O
+15	Kralj	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	,	,	PUNCT	Z	_	_	_	_	_	O
+17	uvek	_	_	_	_	_	_	_	_	O
+18	jednako	_	_	_	_	_	_	_	_	O
+19	spor	_	_	_	_	_	_	_	_	O
+20	i	_	_	_	_	_	_	_	_	O
+21	zadimljen	_	_	_	_	_	_	_	_	O
+22	cigarskom	_	_	_	_	_	_	_	_	O
+23	vatrom	_	_	_	_	_	_	_	SpaceAfter=No	O
+24	,	,	PUNCT	Z	_	_	_	_	_	O
+25	s	_	_	_	_	_	_	_	_	O
+26	besedom	_	_	_	_	_	_	_	_	O
+27	o	_	_	_	_	_	_	_	_	O
+28	neizbežnom	_	_	_	_	_	_	_	_	O
+29	Čedu	_	_	_	_	_	_	_	_	O
+30	Vukoviću	_	_	_	_	_	_	_	_	O
+31	koji	_	_	_	_	_	_	_	_	O
+32	je	_	_	_	_	_	_	_	_	O
+33	u	_	_	_	_	_	_	_	_	O
+34	80.	_	_	_	_	_	_	_	_	O
+35	počeo	_	_	_	_	_	_	_	_	O
+36	da	_	_	_	_	_	_	_	_	O
+37	raste	_	_	_	_	_	_	_	SpaceAfter=No	O
+38	,	,	PUNCT	Z	_	_	_	_	_	O
+39	mladi	_	_	_	_	_	_	_	_	O
+40	i	_	_	_	_	_	_	_	_	O
+41	daroviti	_	_	_	_	_	_	_	_	O
+42	Petar	_	_	_	_	_	_	_	_	O
+43	V.	_	_	_	_	_	_	_	_	O
+44	Arbutina	_	_	_	_	_	_	_	SpaceAfter=No	O
+45	,	,	PUNCT	Z	_	_	_	_	_	O
+

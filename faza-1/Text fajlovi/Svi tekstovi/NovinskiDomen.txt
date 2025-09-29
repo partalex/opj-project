@@ -1,0 +1,140 @@
+#domen = Novinski
+#Teodora
+
+#url = https://www.blic.rs/vesti/hronika/pronadjeno-telo-utopljene-srpkinje-kod-lustica-isplivalo-u-hrvatskoj/60dgk4m 
+#text = Telo Srpkinje koja se juče utopila na Novskoj rivijeri kod Luštice pronađeno je danas oko 13 časova u 
+hrvatskim vodama između Prevlake i Cavtata. Prema nezvaničnim saznanjima telo je trenutno u Cavtatu. 
+Jake struje odvukle su telo u hrvatske vode, iako su spasioci u Crnoj Gori juče posla podne uočili da pluta na površini mora, 
+zbog velikih talasa nisu mogli da priđu. M. M. iz Vrnjačke Banje utopila se juče oko 15 časova kod rta Veslo na Luštici u Crnoj Gori, 
+dok se na jednoj od stena fotografisala sa prijateljicom.
+
+#url = https://www.blic.rs/vesti/svet/charlie-kirk-je-ubijen-amerika-na-ivici-ubica-ostavio-tragove-i-umakao-policiji/jzxg45t
+#text = UZBUNA U PENTAGONU! "Pratimo i odmah ćemo reagovati": Ubistvo Čarlija Kirka upalilo vatru, menja se Amerika kakvu svi poznaju, Tramp ide na sahranu. Čarli Kirk (Charlie Kirk), desničarski aktivista, ubijen je pre dva dana u Juti. Osumnjičeni je pobegao, ali je FBI sada prvi put objavio slike i snimak osobe za koju sumnjaju da je pucala na Kirka. Kovčeg sa Kirkovim telom stigao je u njegovu rodnu Arizonu, i to avionom potpredsednika SAD Džej Di Vensa. Američki vojni čelnici upozorili su vojnike i osoblje zbog objava koje ismevaju ubistvo Kirka.
+Ministar odbrane Pit Hegset je na platformi "X" naveo da je "neprihvatljivo da vojno osoblje i civilni zaposleni Ministarstva rata slave ili ismevaju atentat na sunarodnika".
+- Vrlo pomno pratimo sve ovo i odmah ćemo se pozabaviti. Potpuno neprihvatljivo - dodao je.
+
+
+#url = https://n1info.rs/svet/cnn-princ-hari-u-poseti-kijevu-najavio-500000-dolara-za-podrsku-deci-iz-gaze-i-ukrajine/ 
+#text = Princ Hari, vojvoda od Saseksa, iznenada je posetio ukrajinsku prestonicu Kijev, prenosi CNN.
+Prema izveštaju Gardijana, Hari je posetio Ukrajinu na poziv ukrajinske vlade, a očekuje se da će sa svojom fondacijom „Igre nepokornih“ sprovesti akcije kako bi podržao rehabilitaciju ranjenih Ukrajinaca.
+On je Ukrajinu posetio i u aprilu kako bi se sastao sa žrtvama rata u zapadnom gradu Lavovu.
+Pre dolaska u Ukrajinu princ Hari ranije ove nedelje posetio je i Britaniju, kada se sastao sa svojim ocem, kraljem Čarlsom III, posle 19 meseci.
+Iz njegove kancelarije saopšteno je i da će njegova fondacija donirati 500.000 dolara za podršku deci iz Gaze i Ukrajine, objavio je Rojters.
+
+
+#url = https://n1info.rs/biznis/sapic-nije-jedini-dri-trazio-smenu-devet-javnih-funkcionera-i-direktora-ko-je-jos-na-funkciji/ 
+#text = Od 2021. godine do danas Državna revizorska institucija podnela je zahteve za smenu devet javnih funkcionera, odnosno direktora državnih preduzeća. Među njima je bio i sadašnji ministar pravde Nenad Vujić - tada na čelu Pravosudne akademije, čiji je Upravni odbor - odbio zahtev revizora. Gradonačelnik Beograda Aleksandar Šapić nije jedini javni funkcioner čiju je smenu tražila Državna revizorska institucija.
+"U periodu od 2021. do 2025. godine DRI je uputila ukupno devet zahteva za razrešenje javnog funkcionera ili odgovornog lica (direktora): Instituta ekonomskih nauka, Specijalne bolnice „Rusanda“, Javnog preduzeća Nacionalni park Fruška gora, Pravosudne akademije, Zavoda za izgradnju grada Beograda, Zdravstvenog centra Surdulica, Republičke direkcije za robne rezerve, Saobraćajnog preduzeća Lasta i Grada Beograda", kažu u DRI za portal N1.
+Kada je reč o epilogu ovih zahteva za smenu - samo jedan direktor je razrešen, dok je jedan sam podneo ostavku. Reč je o direktoru Specijalne bolnice "Rusanda", dok je direktor Saobraćajnog preduzeća Lasta sam podneo ostavku.
+Zanimljivo je da je na ovoj listi i Nenad Vujić - tada direktor Pravosudne akademije, čiji je Upravni odbor odbio predlog DRI i nije ga razrešio funkcije. U aprilu ove godine taj direktor Pravosudne akademije - koji je na ovoj funkciji bio od 2010. postao je - ministar pravde.
+Epilog dosadašnjih zahteva DRI
+Predsednik Saveta Državne revizorske institucije Ivica Gavrilović rekao je u ponedeljak za Betu da je Grad Beograd teško kršio obavezu dobrog poslovanja, a da je odgovorno lice gradonačelnik Aleksandar Šapić i da je zbog toga DRI Skupštini grada Beograda uputila zahtev za njegovo razrešenje.
+Gavrilović je pojasnio da je gradonačelnik odgovorno lice za preduzimanje mera ispravljanja odnosno otklanjanja nepravilnosti nakon što je DRI uradila reviziju poslovanja, a na pitanje da li očekuje da će Skupština razrešiti Šapića, rekao je da je "Državna revizorska institucija uradila što je u njenoj nadležnosti i da se DRI ne bavi očekivanjima".
+U odgovoru portalu N1 DRI navodi koji je ishod do sada podnetih zahteva za rezrešenje javnih funkcionera i direktora:
+1.	Institut ekonomskih nauka - nadležni organ nije postupio po zahtevu DRI, te direktor nije razrešen;
+2.	Specijalna bolnica „Rusanda“- direktor je razrešen i imenovan novi v.d. direktor;
+3.	Nacionalni park „Fruška gora“- postupak je bio u toku pred Ministarstvom privrede i nije okončan;
+4.	Pravosudna akademija - Upravni odbor je odbio predlog i nije razrešio direktora;
+5.	Zavod za izgradnju grada Beograda - zahtev je upućen Skupštini grada, ali ishod nije dokumentovan;
+6.	Zdravstveni centar Surdulica - zahtev je upućen Ministarstvu zdravlja, ali ishod nije poznat;
+7.	Republička direkcija za robne rezerve - postupak je bio u nadležnosti više ministarstava, ali nakon ostavke Vlade nije nastavljen;
+8.	Saobraćajno preduzeće „Lasta“ - direktor je podneo ostavku, a Nadzorni odbor je imenovao novog direktora;
+9.	Grad Beograd - upućen je zahtev za razrešenje gradonačelnika Beograda.
+
+Institut ekonomskih nauka je teško kršio obavezu dobrog poslovanja, utvrdila je DRI 2021. godine.
+"Nastalo je teško kršenje obaveze dobrog poslovanja, jer Institut nije otklonio otkrivenu nepravilnost koja se odnosi na neosnovano dato pravo direktoru Instituta na uvećanje plate po osnovu funkcionalnog dodatka, već je i dalje nastavljeno sa isplaćivanjem dodatka bez pravnog osnova, odnosno na taj način se nezakonito i dalje troše javna sredstva", pojasnila je DRI u junu 2022.
+Direktor Instituta ekonomskih nauka Jovan Zubović, koji je i danas na toj funkciji je, prema izveštaju revizora, sebi u 2019. godini isplaćivao dodatak na platu u neto iznosu od 50.000 dinara svakog meseca "iako pravo na isplatu funkcionalnog dodatka direktora nije utvrđeno Statutom i Pravilnikom o radu". 
+rema izveštaju DRI, reč je o ukupno 997.000 dinara bruto, koji su povučeni iz budžeta Republike Srbije.
+Upravni odbor Instituta nije usvojio zahtev za razrešenje odgovornog lica, odnosno direktora Instituta, saopštio je DRI u junu 2022.
+
+Specijalna bolnica teško je kršila obavezu dobrog poslovanja i nezakonito trošila državna sredstva, utvrdili su revizori tokom kontrolе 2021. godine.
+Naime, ova Specijalna bolnica je u 2018. i 2019. godini preuzela obaveze za izvršene nabavke usluga i radova u ukupnom iznosu od 23,7 miliona dinara, bez sprovođenja postupka javnih nabavki.
+"Nakon uručenja revizorskog izveštaja, Specijalna bolnica je nastavila sa preuzimanjem obaveza i izvršavanjem rashoda za usluge finansijskog savetovanja, bez sprovedenog postupka javne nabavke i u prvom kvartalu 2021. godine, odnosno, u periodu obuhvaćenom Odazivnim izveštajem, preuzela obaveze i izvršila rashode u iznosu od 2,19 miliona dinara, bez sprovođenja postupka javne nabavke, a da nisu postojali razlozi za izuzeće od primene Zakona", naveli su revizori.
+Direktor je razrešen i imenovan je novi v.d. direktor.
+Na čelu "Rusande" sada je Igor Dostanić, koji je u junu 2022. zamenio smenjenu Zoricu Ćulibrk.
+Podsetimo, odbornik Stranke slobode i pravde (SSP) u Zrenjaninu Slobodan Đurin saopštio je 13. avgusta ove godine imena šest funkcionera Srpske napredne stranke (SNS) iz tog grada, koji su viđeni u Bačkom Petrovcu i Vrbasu tokom protesta na kojima je došlo do incidenata. Jedan od njih je upravo Igor Dostanić.
+Nacionalni park „Fruška gora“ takođe je teško kršilo obavezu dobrog poslovanja, između ostalog i zbog toga što je dalo na korišćenje objekte i zemljište u javnoj svojini Republike Srbije, bez saglasnosti Vlade Srbije i nadležnog ministarstva.
+"Na osnovu zaključenog ugovora Preduzeće nije naplaćivalo naknadu za korišćenje šumskog zemljišta u državnoj svojini u nešumske namene, a naplaćivalo je naknadu za korišćenje zaštićenog područja koja spada u naknade za zaštitu životne sredine. Takođe, Preduzeće za nepokretnosti koje je dalo na korišćenje drugom pravnom licu za obavljanje kamping delatnosti, koju po Statutu obavlja i Preduzeće, nije naplaćivalo ni zakupninu", navela je, između ostalog DRI u poslerevizionom izveštaju.
+Počelo je: Sedam javnih preduzeća prelaze u DOO - nacionalni parkovi Đerdap i Fruška gora, Srbijavode, Srbijašume...
+Osim što je izdalo zemljište nacionalnog parka bez saglasnosti Vlade i resornog ministarstva, ovo javno preduzeće nije sprovelo postupak javnog nadmetanja ili prikupljanja pismenih ponuda putem javnog oglašavanja, a "ne ostvaruje prihode od zakupa zemljišta i objekata koje je dalo pravnom licu Scomediasco d.o.o. Novi Sad na korišćenje radi obavljanja kamping delatnosti, koju po Statutu obavlja i samo preduzeće".
+Postupak o smeni direktora JP Nacionalni park Fruška gora bio je u toku pred Ministarstvom privrede i nije okončan, naveo je DRI.
+Na čelu ovog javnog preduzeća je od 10. septembra 2024. Jelena Višekruna, a do tada je njime rukovodio Živko Cvetković, pokazuju podaci APR.
+Portal 021 je pisao da je, prema odluci Vlade objavljenoj u Službenom glasniku Živko Cvetković razrešen na osnovu ličnog zahteva, bez drugih objašnjenja o razlozima za ostavku.
+Pre Cvetkovića, ovim nacionalnim parkom rukovodio je Radoslav Krunić, koji je podneo ostavku u septembru 2022.
+Portal 021 je, takođe, pisao i da je baš za vreme Krunićevog mandata DRI otkrila razne nepravilnosti, poput prekomerne seče i proizvoljnih javnih nabavki.
+Sve revizije koje je DRI uradio u ovom javnom preduzeću, dostupne su na sajtu DRI.
+
+Državni revizori utvrdili su da je Pravosudna akademija teško kršila obavezu dobrog poslovanja.
+"Sprovodeći reviziju finansijskih izveštaja u 2021. godini gde je utvrđen iznos nepravilnosti 86 miliona dinara, reviziju finansijskih izveštaja i pravilnosti poslovanja u 2022. godini gde je utvrđen iznos nepravilnosti 96,7 miliona dinara, kao i reviziju odazivnog izveštaja Pravosudne akademije, Beograd, u 2023. godini gde je utvrđeni iznos nepravilnosti za period decembra 2022. do septembra 2023. godine bio 80,6 miliona dinara, utvrđeno je da Pravosudna akademija kontinuirano, suprotno važećim propisima, i dalje vrši isplatu plata, dodataka, naknada i pripadajućih socijalnih doprinosa na teret poslodavca korisnicima početne obuke kojima radni odnos na određeno vreme traje duže od propisanih 30 meseci", navela je DRI.
+DRI je o teškom kršenju obaveze dobrog poslovanja obavestila Narodnu skupštinu i uputila Upravnom odboru Pravosudne akademije zahtev za razrešenje tadašnjeg direktora Pravosudne akademije Nenada Vujića.
+Upravni odbor je odbio predlog i nije razrešio Vujića koji je u aprilu ove godine seo u fotelju Ministra pravde.
+Nenad Vujić je, inače, jedini ministar u ovoj Vladi Srbije koji još nije prijavio imovinu Agenciji za sprečavanje korupcije, o čemu je portal N1 već pisao (detaljnije pročitajte OVDE).
+Zavod za izgradnju grada Beograda
+I Zavod za izgradnju grada Beograda takođe je teško kršio obavezu dobrog poslovanja, objavila je DRI.
+U poslovnim knjigama (pri reviziji izveštaja za 2021. godinu), Zavod je iskazao veća potraživanja od Direkcije za građevinsko zemljište i izgradnju Beograda, u iznosu od 146,4 miliona dinara i istovremeno je iskazao manje obaveze u iznosu od 455,95 miliona dinara, u odnosu na vrednosti pozicija u poslovnim knjigama, objavili su revizori.
+Zavod je iskazao potraživanja po osnovu poreza na prenos apsolutnih prava u iznosu većem od 19.816.000 dinara i obaveze po istom osnovu u iznosu manjem od 42,31 milion dinara, u odnosu na vrednosti pozicija u evidencijama Poreske uprave.
+
+DRI podneo zahtev za smenu direktora Zavoda za izgradnju grada Beograda
+Takođe, kako je ukazano, "nije otklonjena značajna nepravilnost koja se odnosi na to da Zavod na kraju izveštajnog perioda nije ocenio da li je umanjena vrednost zaliha nedovršene proizvodnje i gotovih proizvoda koje iskazuje u poslovnim knjigama u iznosu od 108.348.000 dinara i koji potiču iz ranijih godina".
+Državna revizorska institucija je o teškom kršenju obaveze dobrog poslovanja obavestila Narodnu skupštinu i uputila Skupštini grada Beograda zahtev za razrešenje odgovornog lica Zavoda za izgradnju grada Beograda Radomana Spalevića, koji je na čelu ove institucije od jula 2019. godine.
+Zahtev za smenu upućen je Skupštini grada, ali ishod, kako navode u DRI - nije dokumentovan.
+Radoman Spalević i dalje je na čelu Zavoda.
+I Zdravstveni centar Surdulica teško je kršio obavezu dobrog poslovanja, zbog čega je Državna revizorska institucija uputila Ministarstvu zdravlja zahtev za razrešenje odgovornog lica, dr Dragana Kitanovića, vršioca dužnosti direktora, objavila je DRI u junu ove godine.
+DRI je u poslerevizionom postupku utvrdila da Zdravstveni centar Surdulica nije na zadovoljavajući način otklonio značajne nepravilnosti, među kojima su i ove:
+DRI traži smenu direktora Zdravstvenog centra Surdulica
+- Preuzeo je obaveze i izvršio rashode iznad odobrene aproprijacije u ukupnom iznosu od 63.693.000 dinara;
+- Nije u celosti evidentirao opremu koju je nabavio u 2022. godini;
+- Nije evidentirao lekove dobijene iz donacija i zalihe materijala za grejanje;
+- Nije u svojim poslovnim knjigama evidentirao sve obaveze iz poslovanja;
+- Nastavio je sa neiskazivanjem prihoda i primanja po izvorima finansiranja i sa nepodnošenjem izveštaja o prekovremenom i noćnom radu reprezentativnom sindikatu;
+Zahtev za smenu je upućen Ministarstvu zdravlja.
+Iako DRI navodi da ishod nije poznat, javno dostupni registri pokazuju da je Dragan Kitanović i dalje na čelu ove zdravstvene ustanove.
+Republička direkcija za robne rezerve
+Zašto je Direkcija za robne rezerve teško kršila obavezu dobrog poslovanja DRI je obrazložila na gotovo osam strana svog poslerevizionog izveštaja koji se odnosi na reviziju završnih računa za 2022. 
+DRI "pročešljao" robne rezerve: "Smršale" junice na čuvanju
+Samo za zalihe, za koje DRI navodi da ih je Direkcija na dan 31. decembar 2022. iskazala u vrednosti od 28,78 milijardi dinara, utvrđeno je čak šest nepravilnosti.
+Između ostalog, Direkcija koristi softver za vođenje robnog računovodstva koji ne računa na ispravan način prosečnu cenu prilikom izlaza zaliha sa stanja i koji omogućava da se iskažu negativne vrednosti na zalihama robe.
+"Zatim, izveštajem o popisu neprehrambenih proizvoda na dan 31. decembar 2022. je konstatovano da je stanje po popisu i stanje po knjigama isto u iznosu od 10,38 milijardi dinara, iako je taj iznos veći u odnosu na stanje u lager listama za iznos od 550,25 miliona dinara", ukazali su revizori.
+Izveštaj pokazuje i da potraživanja Direkcije za robne rezerve koja premašuju 546 miliona dinara nisu u pomoćnoj knjizi evidentirana po dužnicima, već u zbirnom iznosu - "zbog čega se ne može utvrditi stvarno stanje potraživanja po osnovu prodaje i drugih potraživanja na dan 31. decembar 2022. godine i ne može se izvršiti usaglašavanje sintetičkih i analitičkih konta".
+Na čelu Direkcije je, od 2007. godine do danas direktorka Zorica Anđelković.
+DRI je u odgovoru portalu N1 navela da je postupanje po zahtevu DRI za smenu direktora bilo u nadležnosti više ministarstava, ali da nakon ostavke Vlade - nije nastavljen.
+Saobraćajno preduzeće „Lasta“ je teško kršila obavezu dobrog poslovanja, utvrdili su državni revizori, zbog čega je DRI uputila Nadzornom odboru Laste zahtev za razrešenje generalnog direktora Vladana Sekulića.
+Sekulić je podneo ostavku u junu 2024, koja je usvojena tek ove godine, a za novog generalnog direktora Nadzorni odbor imenovao je Radoslava Vidosavljevića, o čemu je pisao Forbes Srbija.
+Grad Beograd je, kao što je portal N1 već pisao, teško kršio obavezu dobrog poslovanja, pa je DRI uputila zahtev za razrešenje gradonačelnika Beograda Aleksandra Šapića.
+DRI je zatražila Šapićevu smenu zato što nisu otklonjene nepravilnosti u poslovanju Grada Beograda u 2022. godini prema kojima je u toj godini iz gradskog budžeta "nepravilno isplaćeno 980,12 miliona dinara više“.
+
+
+#url = https://nova.rs/vesti/politika/sta-ce-vucic-na-evropskom-putu-ako-potvrdjuje-stav-rusije-da-se-eu-sprema-da-ga-rusi/?widget=samo%20za%20vas%2075%25&segment=nova-topcontent&article=%E2%80%9E%C5%A0ta%20%C4%87e%20Vu%C4%8Di%C4%87%20na%20evropskom%20putu%20ako%20potvr%C4%91uje%20stav%20Rusije%20da%20se%20EU%20sprema%20da%20ga%20ru%C5%A1i%E2%80%9C&ref=personalized&pv=8f932466-01ec-48ea-979a-7bdcd47732fa
+#text = "Ako se stav ruske Spoljne obaveštajne službe da se EU sprema da ruši Vučića na godišnjicu tragedije u Novom Sadu ovde promoviše kao nešto što potvrđuje stav vlasti, onda Vučić neka kaže da li je Srbija na evropskom putu", izjavio je Zdravko Ponoš, predsednik Srbija centra (SRCE). „Ja kažem da Srbija jeste na evropskom putu i da on ne laže, samo što je on vodi u pogrešnom smeru. Svi ostali voze u jednom smeru, on u drugom. Ako misli da ga oni ruše, šta će onda na tom putu“, kazao je predsednik Srbija centra (SRCE) u intervjuu za Slavija info i dodao da je Aleksandar Vučić doveden na vlast uz pomoć i podršku najuticajnijih članica Evropske unije i onih koji su dominantni među evropskim narodnjacima – EPP. „Ne bi on mogao da bude tu gde jeste da nije imao tu vrstu podrške i pomoći, a doveden je s razlogom. Neke stvari je i završio, neke je priveo kraju. Dalje ne može, nema šta. Što se tiče njegovog statusa, odnosno statusa SNS u EPP, tu stvari za njih stoje jako loše. Potpuno je očigledno da Vučić tretira EU kao keš mašinu, kao aparat da dođeš i izvučeš neki keš i trošiš ga kako ti hoćeš. Ta vremena prolaze, jasno je da on to zloupotrebljava“. Ponoš je ocenio i da vlast ne reaguje na ono što se dešava na Kosovu i Metohiji.
+„Na Kosovu je sad situacija takva da ako dolazite sa dokumentima Republike Srbije, bez obzira što ste rođeni i što živite na Kosovu, ali niste uzeli njihova dokumenta, vi morate u roku tri dana da se prijavite lokalnoj policiji da ste došli na Kosovo. To je najvažnija stvar. Ljudima se uskraćuje čak i taj privid da žive u Srbiji, jer ih je Vučić doveo do tog privida. Sad više sa dokumentima Republike Srbije ne mogu ni da žive tamo, nego moraju da se prijave kao da su iz Madagaskara kad dolaze u svoju kuću. Na to ova vlast ne reaguje. Toga nema u vestima, to se ne dešava. Dešava se to šta će on da jede u Tokiju. To će da bude vest“, kazao je Ponoš.
+Predsednik Srbija centra je istakao i da je Vučić požurio sa kadrovskom čistkom u policiji paralelno radeći još nešto.
+„To ovih dana prolazi prilično nezapaženo, jer se dešava u jednom potpuno paralelnom svetu. On radi utezanje podzemlja. On se sprema za nešto. To nešto nisu izbori. Kad se spremaš za izbore, ne radiš grupisanje podzemlja i dovođenje ubica u Beograd. Ljudi vide turiranje tenkova i čuju buku aviona. Iza toga dešavaju se mnogo ozbiljnije stvari. Mislim da svi treba da budemo jako pažljivi, da to ne prođe neprimećeno. Izgleda da se Vučić sprema nešto da obeleži, možda ne godinu nego i nešto pre od godišnjice tragedije u Novom Sadu“, naglasio je Ponoš.
+
+#url = https://nova.rs/vesti/politika/marta-kos-eu-zabrinuta-za-stanje-vladavine-prava-u-srbiji-crnoj-gori-albaniji-i-severnoj-makedoniji/
+#text = Evropska komesarka za proširenje Marta Kos izjavila je danas da Evropska unija (EU) ostaje zabrinuta za stanje vladavine prava u državama kandidatima za članstvo, iako u njima postoji opipljiv napredak u toj sferi. „Iako vidimo opipljiv napredak, ozbiljna zabrinutost ostaje. Mešanje u sudske postupke, pritisci na zvaničnike koji istražuju korupciju i politizacija medijskih regulatora opstaju, što je neprihvatljivo“, rekla je Kos novinarima na konferenciji Saveta EU za opšte poslove, nakon diskusije ministara više zemalja članica i kandidata za članstvo o vladavini prava u EU.
+Tim Savetom trenutno predsedava Danska, a njena ministarka za evropske poslove Mari Bjere izjavila je da je vladavina prava u EU trenutno njena najvažnija vrednost.
+Bjere je rekla da su ministri tokom diskusije razgovarali o stanju vladavine prava u državama Zapadnog Balkana, sa osvrtom na Izveštaj koji je na tu temu Evropska komisija (EK) objavila u julu ove godine.
+Na diskusiji Saveta EU učestvovali su i ministri za evropske integracije Srbije, Albanije, Crne Gore i Severne Makedonije, koji se nisu oglasili o ishodu razgovora.
+Kos je dodala da se članice EU oslanjaju na vladavinu prava, koja podrazumeva nezavisno pravosuđe, izbore i medije, kao i da zemlje koje pretenduju na članstvo, a ne mogu da garantuju određen nivo vladavine prava, ne mogu da uđu u Uniju.
+Ona je navela i da su države Zapadnog Balkana trenutno „u centru procesa proširenja“, a da im vladavina prava garantuje slobodu i snagu u tom procesu.
+„Jasno je da, ukoliko kandidati ne poštuju sprovođenje vladavine prava u svojim zemljama, oni neće moći da budu članovi Unije“, rekla je Kos.
+EK je u Izveštaju o vladavini prava za 2025. godinu u julu za Srbiju navela da je pad nadstrešnice na Železničkoj stanici u Novom Sadu postao simbol slabosti pravnog i institucionalnog poretka Srbije, kao i da je pokrenuo masovne studentske i građanske proteste, koji su doveli do ostavke premijera i pada Vlade.
+U tom dokumentu su pokriveni rad pravosuđa, borba protiv korupcije, medijske slobode i druge teme, a za Srbiju se u skoro svim aspektima navode krupne nepravilnosti i manjak slobode i transparentnosti u radu.
+Bjere i Kos su govorile i o uvođenju dodatnih sankcija Rusiji, a one su zaključile da je potrebna jača evropska podrška Ukrajini, kao i jači otpor Rusiji.
+„Rusija je pretnja po EU. Moramo da pokažemo odlučnost i izvršimo dodatan pritisak na nju“, rekla je Bjere.
+
+#Ognjen
+#url = 
+#text = 
+
+#Marija
+#url = 
+#text = 
+
+#Milena
+#url = 
+#text = 
+
+#Aleksandar
+#url = 
+#text = 

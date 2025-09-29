@@ -1,0 +1,7 @@
+#name = ognjen
+#domen = novinski
+#url = https://nova.rs/magazin/putovanja/turisti-u-ljubljani-odusevljeni-kreacijom-koju-lokalci-gaze-na-putu-do-ribarnice-ovo-je-svetsko-remek-delo-ali-vam-niko-o-tome-ne-prica/
+#text = Stotine ljudi svakodnevno prolaze centralnom pijacom u Ljubljani, ne znajući da se ispod njih nalazi jedno od najlepših arhitektonskih ostvarenja Jožeta Plečnika. Tek kada kroče na ove spiralne stepenice, posetioci shvataju da se nalaze u srcu jednog pažljivo osmišljenog arhitektonskog kompleksa koji povezuje funkcionalnost, estetiku i duh vremena, piše Metropolitan.si.
+
+Jože Plečnik, legendarni slovenački arhitekta, ostavio je dubok trag u urbanom pejzažu Ljubljane. Dok su mnoge njegove kreacije, poput Tromostovlja ili Narodne i univerzitetske biblioteke, već poznate turistima, ovo elegantno stepenište ostaje skriveno biser za istinske zaljubljenike u arhitekturu.
+Stepenice vode iz prizemlja gradske pijace ka donjem nivou – ribarnici – i otkrivaju jedinstvene vizure kroz pažljivo dizajnirane prozore. Pogled na Ljubljanicu dok se lagano spuštate niz kamene spirale pruža osećaj smirenosti i autentične povezanosti između arhitekture i prirode.

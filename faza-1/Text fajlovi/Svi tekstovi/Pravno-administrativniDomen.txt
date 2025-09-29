@@ -1,0 +1,67 @@
+#domen = Pravno administrativni
+#Teodora
+
+#url = https://www.vrh.sud.rs/sr-lat/r1-2762025-3-201
+#text =Vrhovni sud, u veću sastavljenom od sudija: Vesne Subić, predsednika veća, Jelice Bojanić Kerkez i Radoslave Mađarov, članova veća, u vanparničnom postupku iza sada pok. AA iz ..., radi raspravljanja zaostavštine, odlučujući o sukobu nadležnosti između Osnovnog suda u Novom Sadu i Višeg suda u Novom Sadu, u sednici veća održanoj 09.07.2025. godine, doneo je
+R E Š E NJ E
+USTUPAJU SE spisi predmeta Osnovnog suda u Novom Sadu O 2976/25, Apelacionom sudu u Novom Sadu, radi odlučivanja o sukobu stvarne nadležnosti između sudova iste vrste.
+O b r a z l o ž e nj e
+Viši sud u Novom Sadu, rešenjem Gž 885/25 od 13.05.2025. godine, usvojio je žalbu zakonske naslednice BB, ukinuo rešenje o nasleđivanju Osnovnog suda u Novom Sadu O. 7420/21 od 11.12.2024. godine, ispravljeno rešenjem Osnovnog suda u Novom Sadu O 7420/21 od 31.12.2024. godine i predmet vratio prvostepenom sudu na ponovni postupak.
+Osnovni sud u Novom Sadu nije prihvatio stvarnu nadležnost, već je spise predmeta uz propratni akt O 2976/25 od 10.06.2025. godine, dostavio Vrhovnom sudu, sa predlogom za rešavanje sukoba nadležnosti, iz razloga što je u ovom postupku Viši sud u Novom Sadu po drugi put ukinuo rešenje o nasleđivanju Osnovnog suda u Novom Sadu i predmet vratio tom sudu na ponovni postupak.
+Vrhovni sud je u postupku povodom sukoba nadležnosti između sudova iste vrste na osnovu odredbe člana 22. stav 1. Zakona o parničnom postupku – ZPP („Službeni glasnik RS“, br. 72/11... 10/23-drugi zakon), a u vezi odredbe člana 32. stav 2. Zakona o uređenju sudova („Službeni glasnik RS“, broj 10/23) i odredbe člana 30. stav 2. Zakona o vanparničnom postupku („Službeni glasnik SRS“, broj 25/82 i 48/88 „Službeni glasnik RS“, broj 46/95...14/22) utvrdio da je Apelacioni sud u Novom Sadu nadležan za odlučivanje o nastalom sukobu stvarne nadležnosti.
+Odredbom člana 22. stav 1. ZPP je propisano da sukob nadležnosti između sudova iste vrste rešava zajednički neposredno viši sud.
+Odredbom člana 26. stav 2. Zakona o uređenju sudova propisano je da apelacioni sud odlučuje o sukobu nadležnosti nižih sudova sa svog područja ako za odlučivanje nije nadležan viši sud, o prenošenju nadležnosti osnovnog i višeg suda sa svog područja ako postoje opravdani razlozi i vrši druge nadležnosti i poslove određene zakonom.
+Odredbom člana 4. stav 1. tačka 14. Zakona o sedištima i područjima sudova i javnih tužilaštava („Službeni glasnik RS“, broj 101/13) predviđen je Viši sud u Novom Sadu, za područje Osnovnog suda u Bačkoj Palanci i Osnovnog suda u Novom Sadu. Odredbom člana 6. stav 1. tačka 4. Zakona o uređenju sudova, predviđen je Apelacioni sud u Novom Sadu, za područja viših sudova u Zrenjaninu, Novom Sadu, Somboru, Sremskoj Mitrovici, Subotici i Šapcu.
+Prema tome, kako se u konkretnoj situaciji radi o sukobu nadležnosti između Osnovnog suda u Novom Sadu i Višeg suda u Novom Sadu, čiji je zajednički neposredno viši sud, Apelacioni sud u Novom Sadu, to se predmet ustupa tom sudu radi odlučivanja o nastalom sukobu stvarne nadležnosti između sudova iste vrste.
+Iz iznetih razloga, Vrhovni sud je odlučio kao u izreci.
+
+#url = https://www.vrh.sud.rs/sr-lat/rev-43422025-31444-31411 
+#text = Vrhovni sud, u veću sastavljenom od sudija: Mirjane Andrijašević, predsednika veća, Ivane Rađenović i Vladislave Milićević, članova veća, u parnici tužioca-protivtuženog AA iz ... , protiv tužene-protivtužilje BB iz ... , čiji je punomoćnik Lazar Guteša, advokat iz ..., radi izmene odluke o održavanju ličnih odnosa po tužbi i delimičnog lišenja roditeljskog prava po protivtužbi, odlučujući o reviziji tužene-protivtužilje izjavljenoj protiv presude Apelacionog suda u Beogradu Gž2 695/24 od 04.12.2024. godine, u sednici održanoj 11.06.2025. godine, doneo je
+P R E S U D U
+ODBIJA SE kao neosnovana revizija tužene-protivtužilje izjavljena protiv presude Apelacionog suda u Beogradu Gž2 695/24 od 04.12.2024. godine u delu kojim je potvrđena presuda Osnovnog suda u Vršcu P2 365/23 od 23.09.2024. godine kojom je odbijen protivtužbeni zahtev tužene-protivtužilje (stav drugi izreke).
+O b r a z l o ž e nj e
+Presudom Osnovnog suda u Vršcu P2 365/23 od 23.09.2024. godine, stavom prvim izreke, usvojen je tužbeni zahtev tužioca-protivtuženog (u daljem tekstu: tužilac) i promenjena je presuda Osnovnog suda u Vršcu P2 29/23 od 06.04.2023. godine u stavu četvrtom izreke u delu načina održavanja ličnih odnosa tužioca kao oca sa maloletnom decom, tako što je uređen način održavanja kontakta maloletnih VV i GG (greškom napisano GG1) i tužioca na taj način što će maloletna deca boraviti kod tužioca svakog prvog i trećeg vikenda u mesecu i to od petka u 17 časova do nedelje u 20 časova, jedan radni dan u toku nedelje od 17 do 20 časova, a sve u skladu sa školskim obavezama maloletne dece, tako što će otac preuzimati maloletnu decu ispred majčine kuće i na isto mesto decu vraćati u određeno vreme, kao i 30 dana za vreme trajanja letnjeg raspusta i 10 dana za vreme trajanja zimskog raspusta u kontinuitetu, na dan očevog rođendana i na dan očeve krsne slave, na način što će otac preuzimati decu ispred majčine kuće i na isto mesto vraćati decu u određeno vreme, dan Nove godine, dane verskih praznika i dane rođendana maloletna deca će provoditi sa roditeljima na način što će tokom 2024. godine navedene dane provoditi sa majkom BB, a zatim 2025. godine sa ocem AA i nadalje svake naredne godine naizmenično, počev od dana pravnosnažnosti presude pa nadalje dok se roditelji drugačije ne dogovore ili dok se ne donese drugačija sudska odluka. Stavom drugim izreke, odbijen je kao neosnovan protivtužbeni zahtev kojim je tužena- protivtužilja (u daljem tekstu: tužena) tražila da se tužilac delimično liši roditeljskog prava u delu koji se odnosi na odlučivanje o promeni prebivališta maloletne dece VV i GG, te da se to pravo isključivo poveri majci BB. Stavom trećim izreke, odbijen je predlog tužene za određivanje privremene mere od 12.02.2024. godine da se tužilac delimično liši roditeljskog prava prema maloletnim VV i GG u pogledu prava da odlučuje o davanju dozvolje za putovanje dece u inostranstvo za određeni period. Stavom četvrtim izreke, određeno je da svaka stranka snosi svoje troškove postupka.
+Presudom Apelacionog suda u Beogradu Gž2 695/24 od 04.12.2024. godine, stavom prvim izreke, odbijena je kao neosnovana žalba tužene i potvrđena prvostepena presuda. Stavom drugim izreke, odbijen je zahtev tužene za naknadu troškova drugostepenog postupka.
+Protiv pravnosnažne presude donete u drugom stepenu tužena je blagovremeno izjavila reviziju zbog bitnih povreda odredaba parničnog postupka, pogrešno i nepotpuno utvrđenog činjeničnog stanja i pogrešne primene materijalnog prava, pobijajući je u delu kojim je potvrđena prvostepena presuda u delu odluke kojom je odbijen njen protivtužbeni zahtev da se tužilac delimično liši roditeljskog prava u delu odlučivanja o promeni prebivališta maloletne dece (stav drugi izreke).
+Vrhovni sud je ispitao pravnosnažnu presudu u pobijanom delu na osnovu člana 408. Zakona o parničnom postupku („Službeni glasnik RS“, br. 72/11, 55/14, 87/18, 18/20 i 10/23, u daljem tekstu: ZPP), u vezi sa članom 202. Porodičnog zakona („Službeni glasnik RS“, br. 18/2005... 6/2015) i našao da je revizija neosnovana.
+Prema utvrđenom činjeničnom stanju, parnične stranke su bile u vanbračnoj zajednici od 2016. godine do aprila 2021. godine kada je njihova zajednica života prestala zbog poremećaja odnosa. Iz te vanbračne zajednice parnične stranke imaju dvoje maloletne dece, VV rođenu 2016. godine i GG rođenu 2018. godine. Iz vanbračne zajednice sa DD tužena ima i maloletnu ćerku ĐĐ rođenu 2014. godine. Presudom Osnovnog suda u Vršcu P2 29/23 od 06.04.2023. godine određeno je da će roditeljsko pravo nad maloletnim ćerkama VV i GG samostalno vršiti majka BB, utvrđeno je da je prebivalište maloletnih ćerki na adresi pribivališta majke i obavezan je otac ovde tužilac AA da na ime svog doprinosa za izdržavanje maloletnih ćerki plaća mesečno ukupan iznos od 15.000,00 dinara i to za maloletnu VV iznos od 8.000,00 dinara i za maloletnu GG iznos od 7.000,00 dinara. Određeno da će se održavanje ličnih odnosa između oca i ćerki odvijati na osnovu usmenog sporazuma sa majkom. VV i GG koje zastupa majka BB su podnele Osnovnom sudu u Pančevu 25.09.2023. godine kao izvršni poverioci predlog za izvršenje protiv tužioca kao izvršnog dužnika zbog neizmirenja obaveze plaćanja doprinosa za izdržavanje (prema presudi Osnovnog suda u Vršcu P2 29/23 od 06.04.2023. godine), nakon čega je Osnovni sud u Pančevu rešenjem II 2080/23 od 29.09.2023. godine odredio predloženo izvršenje. Tužena živi u porodičnoj kući sa maloletnom decom, a povremeno sa njima boravi u ... gde je zasnovala novu vanbračnu zajednicu i želi da se sa decom preseli tamo. Prilikom boravka u ..., tužena sa decom boravi kod svog vanbračnog partnera koji ima rešeno stambeno pitanje, ostvaruje redovne mesečne prihode, pomaže tuženoj i njenoj deci prilikom boravka u ... i dao je izjavu kojom daje saglasnost da tužilja sa decom može da stanuje kod njega u ... , kao i da ih materijalno pomaže, koja je overena kod javnog beležnika 22.04.2024. godine. Tužilac je dao saglasnost da deca sa majkom mogu da putuju u ... kod rodbine u periodu od 14.04.2023. do 14.04.2026. godine, koja saglasnost je takođe overena kod javnog beležnika 10.04.2023. godine, ali je tužilac u toku postupka negirao da je potpisao ovu saglasnost, te da je istu dao samo na period od tri meseca, a ne tri godine. Tužilac je nezaposlen i nalazi se na evidenciji Nacionalne službe za zapošljavanje. Izdržava se preprodajom robe po vašarima i manifestacijama. Živi u porodičnoj kući sa maloletnim sinom iz prve vanbračne zajednice. Tužilac je bio nasilan prema tuženoj tokom 2019. godine, što je i sam potvrdio. Viđa decu jednom mesečno kada ih tužena dovede na par dana kod njega. Prema mišljenju Centra za socijalni rad Grada Pančeva, tužilac poseduje roditeljske kapacitete za redovne kontakte sa maloletnom decom i u njegovom ponašanju nisu uočeni elementi koji bi ukazivali na eventualno zlostavljanje ili zanemarivanje dece. Uočava se pozitivna motivacija za redovno održavanje ličnog kontakta sa maloletnim ćerkama. Mišljenje Centra za socijalni rad je da nije u najboljem interesu maloletne dece da se otac delimično liši roditeljskog prava.
+
+#url = 
+#text =
+
+#url = 
+#text =
+
+#url = 
+#text =
+
+#url = 
+#text =
+
+#url = 
+#text =
+
+#url = 
+#text =
+
+#Ognjen
+
+#url = 
+#text =
+
+
+#Marija
+
+#url = 
+#text =
+
+#Milena
+
+#url = 
+#text =
+
+
+#Aleksandar
+
+#url = 
+#text =

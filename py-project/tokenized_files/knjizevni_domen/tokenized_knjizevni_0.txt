@@ -1,0 +1,2631 @@
+#name = teodora
+#domen = knjizevni
+#url = https://laguna.rs/odlomak_2041_putovanje_kroz_portugaliju.html
+# newpar id = 1
+# sent_id = 1.1
+# text = Nadomak  Braganse  počinje  da  pada  kiša.
+1	Nadomak	_	_	_	_	_	_	_	_	O
+2	Braganse	_	_	_	_	_	_	_	_	O
+3	počinje	_	_	_	_	_	_	_	_	O
+4	da	_	_	_	_	_	_	_	_	O
+5	pada	_	_	_	_	_	_	_	_	O
+6	kiša	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.2
+# text = Vreme  ima
+1	Vreme	_	_	_	_	_	_	_	_	O
+2	ima	_	_	_	_	_	_	_	_	O
+
+# newpar id = 2
+# sent_id = 2.1
+# text = takvu  narav,  nebom  se  kotrljaju  veliki  tamni  oblaci,
+1	takvu	_	_	_	_	_	_	_	_	O
+2	narav	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	nebom	_	_	_	_	_	_	_	_	O
+5	se	_	_	_	_	_	_	_	_	O
+6	kotrljaju	_	_	_	_	_	_	_	_	O
+7	veliki	_	_	_	_	_	_	_	_	O
+8	tamni	_	_	_	_	_	_	_	_	O
+9	oblaci	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 3
+# sent_id = 3.1
+# text = izgleda kao svet koji se, ugledajući se na sela, prekrio
+1	izgleda	_	_	_	_	_	_	_	_	O
+2	kao	_	_	_	_	_	_	_	_	O
+3	svet	_	_	_	_	_	_	_	_	O
+4	koji	_	_	_	_	_	_	_	_	O
+5	se	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	ugledajući	_	_	_	_	_	_	_	_	O
+8	se	_	_	_	_	_	_	_	_	O
+9	na	_	_	_	_	_	_	_	_	O
+10	sela	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	prekrio	_	_	_	_	_	_	_	_	O
+
+# newpar id = 4
+# sent_id = 4.1
+# text = škriljcem  ali  loše,  jer  kiša  upada  kroz  rupe  i  putnik  mora
+1	škriljcem	_	_	_	_	_	_	_	_	O
+2	ali	_	_	_	_	_	_	_	_	O
+3	loše	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	jer	_	_	_	_	_	_	_	_	O
+6	kiša	_	_	_	_	_	_	_	_	O
+7	upada	_	_	_	_	_	_	_	_	O
+8	kroz	_	_	_	_	_	_	_	_	O
+9	rupe	_	_	_	_	_	_	_	_	O
+10	i	_	_	_	_	_	_	_	_	O
+11	putnik	_	_	_	_	_	_	_	_	O
+12	mora	_	_	_	_	_	_	_	_	O
+
+# newpar id = 5
+# sent_id = 5.1
+# text = da potraži sklonište u Muzeju opata iz Basala.
+1	da	_	_	_	_	_	_	_	_	O
+2	potraži	_	_	_	_	_	_	_	_	O
+3	sklonište	_	_	_	_	_	_	_	_	O
+4	u	_	_	_	_	_	_	_	_	O
+5	Muzeju	_	_	_	_	_	_	_	_	O
+6	opata	_	_	_	_	_	_	_	_	O
+7	iz	_	_	_	_	_	_	_	_	O
+8	Basala	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 5.2
+# text = Opat je bio
+1	Opat	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	bio	_	_	_	_	_	_	_	_	O
+
+# newpar id = 6
+# sent_id = 6.1
+# text = otac Fransiško Manuel Alveš, rođen u Basalu godine 1865.
+1	otac	_	_	_	_	_	_	_	_	O
+2	Fransiško	_	_	_	_	_	_	_	_	O
+3	Manuel	_	_	_	_	_	_	_	_	O
+4	Alveš	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	rođen	_	_	_	_	_	_	_	_	O
+7	u	_	_	_	_	_	_	_	_	O
+8	Basalu	_	_	_	_	_	_	_	_	O
+9	godine	_	_	_	_	_	_	_	_	O
+10	1865.	_	_	_	_	_	_	_	_	O
+
+# newpar id = 7
+# sent_id = 7.1
+# text = Bio  je  arheolog  i  istraživač,  nije  se  zadovoljio  svojim  sve-
+1	Bio	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	arheolog	_	_	_	_	_	_	_	_	O
+4	i	_	_	_	_	_	_	_	_	O
+5	istraživač	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	nije	_	_	_	_	_	_	_	_	O
+8	se	_	_	_	_	_	_	_	_	O
+9	zadovoljio	_	_	_	_	_	_	_	_	O
+10	svojim	_	_	_	_	_	_	_	_	O
+11	sve	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	-	-	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 8
+# sent_id = 8.1
+# text = šteničkim  obavezama,  već  je  ostavio  vredno  i  pozamašno
+1	šteničkim	_	_	_	_	_	_	_	_	O
+2	obavezama	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	već	_	_	_	_	_	_	_	_	O
+5	je	_	_	_	_	_	_	_	_	O
+6	ostavio	_	_	_	_	_	_	_	_	O
+7	vredno	_	_	_	_	_	_	_	_	O
+8	i	_	_	_	_	_	_	_	_	O
+9	pozamašno	_	_	_	_	_	_	_	_	O
+
+# newpar id = 9
+# sent_id = 9.1
+# text = delo.
+1	delo	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 9.2
+# text = Pravedno je stoga da se njegovo ime i dalje pronosi i
+1	Pravedno	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	stoga	_	_	_	_	_	_	_	_	O
+4	da	_	_	_	_	_	_	_	_	O
+5	se	_	_	_	_	_	_	_	_	O
+6	njegovo	_	_	_	_	_	_	_	_	O
+7	ime	_	_	_	_	_	_	_	_	O
+8	i	_	_	_	_	_	_	_	_	O
+9	dalje	_	_	_	_	_	_	_	_	O
+10	pronosi	_	_	_	_	_	_	_	_	O
+11	i	_	_	_	_	_	_	_	_	O
+
+# newpar id = 10
+# sent_id = 10.1
+# text = da bude preporuka za ovaj muzej, veličanstveno smešten u
+1	da	_	_	_	_	_	_	_	_	O
+2	bude	_	_	_	_	_	_	_	_	O
+3	preporuka	_	_	_	_	_	_	_	_	O
+4	za	_	_	_	_	_	_	_	_	O
+5	ovaj	_	_	_	_	_	_	_	_	O
+6	muzej	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	veličanstveno	_	_	_	_	_	_	_	_	O
+9	smešten	_	_	_	_	_	_	_	_	O
+10	u	_	_	_	_	_	_	_	_	O
+
+# newpar id = 11
+# sent_id = 11.1
+# text = starom  vladičanskom  dvoru.
+1	starom	_	_	_	_	_	_	_	_	O
+2	vladičanskom	_	_	_	_	_	_	_	_	O
+3	dvoru	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 11.2
+# text = Putnika  nije  lako  zaprepasti-
+1	Putnika	_	_	_	_	_	_	_	_	O
+2	nije	_	_	_	_	_	_	_	_	O
+3	lako	_	_	_	_	_	_	_	_	O
+4	zaprepasti	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	-	-	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 12
+# sent_id = 12.1
+# text = ti, putovao je po Evropi, gde ne nedostaje znamenitosti, ali,
+1	ti	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	putovao	_	_	_	_	_	_	_	_	O
+4	je	_	_	_	_	_	_	_	_	O
+5	po	_	_	_	_	_	_	_	_	O
+6	Evropi	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	gde	_	_	_	_	_	_	_	_	O
+9	ne	_	_	_	_	_	_	_	_	O
+10	nedostaje	_	_	_	_	_	_	_	_	O
+11	znamenitosti	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	ali	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	,	,	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 13
+# sent_id = 13.1
+# text = kolebajući  se  u  sebi  između  različitih  osećanja,  zaključuje
+1	kolebajući	_	_	_	_	_	_	_	_	O
+2	se	_	_	_	_	_	_	_	_	O
+3	u	_	_	_	_	_	_	_	_	O
+4	sebi	_	_	_	_	_	_	_	_	O
+5	između	_	_	_	_	_	_	_	_	O
+6	različitih	_	_	_	_	_	_	_	_	O
+7	osećanja	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	zaključuje	_	_	_	_	_	_	_	_	O
+
+# newpar id = 14
+# sent_id = 14.1
+# text = da  mora  da  je  očaran.
+1	da	_	_	_	_	_	_	_	_	O
+2	mora	_	_	_	_	_	_	_	_	O
+3	da	_	_	_	_	_	_	_	_	O
+4	je	_	_	_	_	_	_	_	_	O
+5	očaran	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 14.2
+# text = Drugačije  se  ne  bi  shvatila  njegova
+1	Drugačije	_	_	_	_	_	_	_	_	O
+2	se	_	_	_	_	_	_	_	_	O
+3	ne	_	_	_	_	_	_	_	_	O
+4	bi	_	_	_	_	_	_	_	_	O
+5	shvatila	_	_	_	_	_	_	_	_	O
+6	njegova	_	_	_	_	_	_	_	_	O
+
+# newpar id = 15
+# sent_id = 15.1
+# text = ganutost dok obilazi sale muzeja, tako daleko od prestonice
+1	ganutost	_	_	_	_	_	_	_	_	O
+2	dok	_	_	_	_	_	_	_	_	O
+3	obilazi	_	_	_	_	_	_	_	_	O
+4	sale	_	_	_	_	_	_	_	_	O
+5	muzeja	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	tako	_	_	_	_	_	_	_	_	O
+8	daleko	_	_	_	_	_	_	_	_	O
+9	od	_	_	_	_	_	_	_	_	O
+10	prestonice	_	_	_	_	_	_	_	_	O
+
+# newpar id = 16
+# sent_id = 16.1
+# text = i  od  svetskih  metropola,  vrlo  dobro  znajući  da  se  radi  tek
+1	i	_	_	_	_	_	_	_	_	O
+2	od	_	_	_	_	_	_	_	_	O
+3	svetskih	_	_	_	_	_	_	_	_	O
+4	metropola	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	vrlo	_	_	_	_	_	_	_	_	O
+7	dobro	_	_	_	_	_	_	_	_	O
+8	znajući	_	_	_	_	_	_	_	_	O
+9	da	_	_	_	_	_	_	_	_	O
+10	se	_	_	_	_	_	_	_	_	O
+11	radi	_	_	_	_	_	_	_	_	O
+12	tek	_	_	_	_	_	_	_	_	O
+
+# newpar id = 17
+# sent_id = 17.1
+# text = o  jednom  malom  provincijskom  muzeju,  bez  remek-dela,
+1	o	_	_	_	_	_	_	_	_	O
+2	jednom	_	_	_	_	_	_	_	_	O
+3	malom	_	_	_	_	_	_	_	_	O
+4	provincijskom	_	_	_	_	_	_	_	_	O
+5	muzeju	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	bez	_	_	_	_	_	_	_	_	O
+8	remek-dela	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 18
+# sent_id = 18.1
+# text = osim ako to nije ganutost zbog ljubavi sa kojom su predmeti
+1	osim	_	_	_	_	_	_	_	_	O
+2	ako	_	_	_	_	_	_	_	_	O
+3	to	_	_	_	_	_	_	_	_	O
+4	nije	_	_	_	_	_	_	_	_	O
+5	ganutost	_	_	_	_	_	_	_	_	O
+6	zbog	_	_	_	_	_	_	_	_	O
+7	ljubavi	_	_	_	_	_	_	_	_	O
+8	sa	_	_	_	_	_	_	_	_	O
+9	kojom	_	_	_	_	_	_	_	_	O
+10	su	_	_	_	_	_	_	_	_	O
+11	predmeti	_	_	_	_	_	_	_	_	O
+
+# newpar id = 19
+# sent_id = 19.1
+# text = bili  prikupljani  i  sa  kojom  su  izloženi.
+1	bili	_	_	_	_	_	_	_	_	O
+2	prikupljani	_	_	_	_	_	_	_	_	O
+3	i	_	_	_	_	_	_	_	_	O
+4	sa	_	_	_	_	_	_	_	_	O
+5	kojom	_	_	_	_	_	_	_	_	O
+6	su	_	_	_	_	_	_	_	_	O
+7	izloženi	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 19.2
+# text = Kamenje,  nameštaj,
+1	Kamenje	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	nameštaj	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 20
+# sent_id = 20.1
+# text = slike  i  skulpture,  etnografski  predmeti,  oltarski  ukrasi,  i
+1	slike	_	_	_	_	_	_	_	_	O
+2	i	_	_	_	_	_	_	_	_	O
+3	skulpture	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	etnografski	_	_	_	_	_	_	_	_	O
+6	predmeti	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	oltarski	_	_	_	_	_	_	_	_	O
+9	ukrasi	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	i	_	_	_	_	_	_	_	_	O
+
+# newpar id = 21
+# sent_id = 21.1
+# text = sve  izloženo  uredno  i  brižno.
+1	sve	_	_	_	_	_	_	_	_	O
+2	izloženo	_	_	_	_	_	_	_	_	O
+3	uredno	_	_	_	_	_	_	_	_	O
+4	i	_	_	_	_	_	_	_	_	O
+5	brižno	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 21.2
+# text = Tu  su  i
+1	Tu	_	_	_	_	_	_	_	_	O
+2	su	_	_	_	_	_	_	_	_	O
+3	i	_	_	_	_	_	_	_	_	O
+
+# newpar id = 22
+# sent_id = 22.1
+# text = Žuti  kamen Dordija  Gomeša, i izvrsni radovi Abela Salazara, koga pojedini kri-
+1	Žuti	_	_	_	_	_	_	_	_	O
+2	kamen	_	_	_	_	_	_	_	_	O
+3	Dordija	_	_	_	_	_	_	_	_	O
+4	Gomeša	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	i	_	_	_	_	_	_	_	_	O
+7	izvrsni	_	_	_	_	_	_	_	_	O
+8	radovi	_	_	_	_	_	_	_	_	O
+9	Abela	_	_	_	_	_	_	_	_	O
+10	Salazara	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	koga	_	_	_	_	_	_	_	_	O
+13	pojedini	_	_	_	_	_	_	_	_	O
+14	kri	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	-	-	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 23
+# sent_id = 23.1
+# text = tičari potcenjuju nazivajući ga amaterom.
+1	tičari	_	_	_	_	_	_	_	_	O
+2	potcenjuju	_	_	_	_	_	_	_	_	O
+3	nazivajući	_	_	_	_	_	_	_	_	O
+4	ga	_	_	_	_	_	_	_	_	O
+5	amaterom	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 23.2
+# text = Teško je putniku
+1	Teško	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	putniku	_	_	_	_	_	_	_	_	O
+
+# newpar id = 24
+# sent_id = 24.1
+# text = da  se  odvoji  od  eksponata,  iako  pada  kiša,  otišao  je  u  vrt,
+1	da	_	_	_	_	_	_	_	_	O
+2	se	_	_	_	_	_	_	_	_	O
+3	odvoji	_	_	_	_	_	_	_	_	O
+4	od	_	_	_	_	_	_	_	_	O
+5	eksponata	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	iako	_	_	_	_	_	_	_	_	O
+8	pada	_	_	_	_	_	_	_	_	O
+9	kiša	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	otišao	_	_	_	_	_	_	_	_	O
+12	je	_	_	_	_	_	_	_	_	O
+13	u	_	_	_	_	_	_	_	_	O
+14	vrt	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	,	,	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 25
+# sent_id = 25.1
+# text = prošetao među nadgrobnim pločama, udahnuo miris vlaž-
+1	prošetao	_	_	_	_	_	_	_	_	O
+2	među	_	_	_	_	_	_	_	_	O
+3	nadgrobnim	_	_	_	_	_	_	_	_	O
+4	pločama	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	udahnuo	_	_	_	_	_	_	_	_	O
+7	miris	_	_	_	_	_	_	_	_	O
+8	vlaž	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	-	-	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 26
+# sent_id = 26.1
+# text = nog  bilja  i  na  kraju  utonuo  u  razmišljanje  pred  granitnim
+1	nog	_	_	_	_	_	_	_	_	O
+2	bilja	_	_	_	_	_	_	_	_	O
+3	i	_	_	_	_	_	_	_	_	O
+4	na	_	_	_	_	_	_	_	_	O
+5	kraju	_	_	_	_	_	_	_	_	O
+6	utonuo	_	_	_	_	_	_	_	_	O
+7	u	_	_	_	_	_	_	_	_	O
+8	razmišljanje	_	_	_	_	_	_	_	_	O
+9	pred	_	_	_	_	_	_	_	_	O
+10	granitnim	_	_	_	_	_	_	_	_	O
+
+# newpar id = 27
+# sent_id = 27.1
+# text = „svinjama“,  skulpturama  od  granitne  stene,  poznatim  kao
+1	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+2	svinjama	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	skulpturama	_	_	_	_	_	_	_	_	O
+6	od	_	_	_	_	_	_	_	_	O
+7	granitne	_	_	_	_	_	_	_	_	O
+8	stene	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	poznatim	_	_	_	_	_	_	_	_	O
+11	kao	_	_	_	_	_	_	_	_	O
+
+# newpar id = 28
+# sent_id = 28.1
+# text = berrões
+1	berrões	_	_	_	_	_	_	_	_	O
+
+# newpar id = 29
+# sent_id = 29.1
+# text = (nerasti):  nadaleko  čuvena  životinja  koja  za  života
+1	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+2	nerasti	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	)	)	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+4	:	:	PUNCT	Z	_	_	_	_	_	O
+5	nadaleko	_	_	_	_	_	_	_	_	O
+6	čuvena	_	_	_	_	_	_	_	_	O
+7	životinja	_	_	_	_	_	_	_	_	O
+8	koja	_	_	_	_	_	_	_	_	O
+9	za	_	_	_	_	_	_	_	_	O
+10	života	_	_	_	_	_	_	_	_	O
+
+# newpar id = 30
+# sent_id = 30.1
+# text = prevazilazi sve granice, izuzetno plodna, sa petnaestak pra-
+1	prevazilazi	_	_	_	_	_	_	_	_	O
+2	sve	_	_	_	_	_	_	_	_	O
+3	granice	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	izuzetno	_	_	_	_	_	_	_	_	O
+6	plodna	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	sa	_	_	_	_	_	_	_	_	O
+9	petnaestak	_	_	_	_	_	_	_	_	O
+10	pra	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	-	-	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 31
+# sent_id = 31.1
+# text = sića, a posle svinjokolja deli se na butkice, pečenicu, rebarca,
+1	sića	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	a	_	_	_	_	_	_	_	_	O
+4	posle	_	_	_	_	_	_	_	_	O
+5	svinjokolja	_	_	_	_	_	_	_	_	O
+6	deli	_	_	_	_	_	_	_	_	O
+7	se	_	_	_	_	_	_	_	_	O
+8	na	_	_	_	_	_	_	_	_	O
+9	butkice	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	pečenicu	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	rebarca	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	,	,	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 32
+# sent_id = 32.1
+# text = uši, nožice i kožicu, darežljiva do samog kraja.
+1	uši	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	nožice	_	_	_	_	_	_	_	_	O
+4	i	_	_	_	_	_	_	_	_	O
+5	kožicu	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	darežljiva	_	_	_	_	_	_	_	_	O
+8	do	_	_	_	_	_	_	_	_	O
+9	samog	_	_	_	_	_	_	_	_	O
+10	kraja	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 32.2
+# text = Govori se da
+1	Govori	_	_	_	_	_	_	_	_	O
+2	se	_	_	_	_	_	_	_	_	O
+3	da	_	_	_	_	_	_	_	_	O
+
+# newpar id = 33
+# sent_id = 33.1
+# text = ovo  grubo  obrađeno  kamenje  potiče  iz  praistorije.
+1	ovo	_	_	_	_	_	_	_	_	O
+2	grubo	_	_	_	_	_	_	_	_	O
+3	obrađeno	_	_	_	_	_	_	_	_	O
+4	kamenje	_	_	_	_	_	_	_	_	O
+5	potiče	_	_	_	_	_	_	_	_	O
+6	iz	_	_	_	_	_	_	_	_	O
+7	praistorije	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 33.2
+# text = Putnik
+1	Putnik	_	_	_	_	_	_	_	_	O
+
+# newpar id = 34
+# sent_id = 34.1
+# text = ne sumnja.
+1	ne	_	_	_	_	_	_	_	_	O
+2	sumnja	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 34.2
+# text = Za ljude iz pećina i grubih koliba koje su podi-
+1	Za	_	_	_	_	_	_	_	_	O
+2	ljude	_	_	_	_	_	_	_	_	O
+3	iz	_	_	_	_	_	_	_	_	O
+4	pećina	_	_	_	_	_	_	_	_	O
+5	i	_	_	_	_	_	_	_	_	O
+6	grubih	_	_	_	_	_	_	_	_	O
+7	koliba	_	_	_	_	_	_	_	_	O
+8	koje	_	_	_	_	_	_	_	_	O
+9	su	_	_	_	_	_	_	_	_	O
+10	podi	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	-	-	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 35
+# sent_id = 35.1
+# text = zali  kasnije  svinja  je  morala  biti  remek-delo  stvaranja.
+1	zali	_	_	_	_	_	_	_	_	O
+2	kasnije	_	_	_	_	_	_	_	_	O
+3	svinja	_	_	_	_	_	_	_	_	O
+4	je	_	_	_	_	_	_	_	_	O
+5	morala	_	_	_	_	_	_	_	_	O
+6	biti	_	_	_	_	_	_	_	_	O
+7	remek-delo	_	_	_	_	_	_	_	_	O
+8	stvaranja	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 35.2
+# text = Još
+1	Još	_	_	_	_	_	_	_	_	O
+
+# newpar id = 36
+# sent_id = 36.1
+# text = je veličanstvenija krmača iz već rečenih razloga.
+1	je	_	_	_	_	_	_	_	_	O
+2	veličanstvenija	_	_	_	_	_	_	_	_	O
+3	krmača	_	_	_	_	_	_	_	_	O
+4	iz	_	_	_	_	_	_	_	_	O
+5	već	_	_	_	_	_	_	_	_	O
+6	rečenih	_	_	_	_	_	_	_	_	O
+7	razloga	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 36.2
+# text = A kada je
+1	A	_	_	_	_	_	_	_	_	O
+2	kada	_	_	_	_	_	_	_	_	O
+3	je	_	_	_	_	_	_	_	_	O
+
+# newpar id = 37
+# sent_id = 37.1
+# text = srednji vek podigao u gradovima stubove srama, postavio je
+1	srednji	_	_	_	_	_	_	_	_	O
+2	vek	_	_	_	_	_	_	_	_	O
+3	podigao	_	_	_	_	_	_	_	_	O
+4	u	_	_	_	_	_	_	_	_	O
+5	gradovima	_	_	_	_	_	_	_	_	O
+6	stubove	_	_	_	_	_	_	_	_	O
+7	srama	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	postavio	_	_	_	_	_	_	_	_	O
+10	je	_	_	_	_	_	_	_	_	O
+
+# newpar id = 38
+# sent_id = 38.1
+# text = umesto postamenta prasicu, koja je postala opšteprihvaćena
+1	umesto	_	_	_	_	_	_	_	_	O
+2	postamenta	_	_	_	_	_	_	_	_	O
+3	prasicu	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	koja	_	_	_	_	_	_	_	_	O
+6	je	_	_	_	_	_	_	_	_	O
+7	postala	_	_	_	_	_	_	_	_	O
+8	opšteprihvaćena	_	_	_	_	_	_	_	_	O
+
+# newpar id = 39
+# sent_id = 39.1
+# text = životinja zaštitnica, katkad simbol a ponekad i čuvar.
+1	životinja	_	_	_	_	_	_	_	_	O
+2	zaštitnica	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	katkad	_	_	_	_	_	_	_	_	O
+5	simbol	_	_	_	_	_	_	_	_	O
+6	a	_	_	_	_	_	_	_	_	O
+7	ponekad	_	_	_	_	_	_	_	_	O
+8	i	_	_	_	_	_	_	_	_	O
+9	čuvar	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 39.2
+# text = Narodi
+1	Narodi	_	_	_	_	_	_	_	_	O
+
+# newpar id = 40
+# sent_id = 40.1
+# text = nisu baš uvek nezahvalni.
+1	nisu	_	_	_	_	_	_	_	_	O
+2	baš	_	_	_	_	_	_	_	_	O
+3	uvek	_	_	_	_	_	_	_	_	O
+4	nezahvalni	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 41
+# sent_id = 41.1
+# text = Putnik izlazi na kišu.
+1	Putnik	_	_	_	_	_	_	_	_	O
+2	izlazi	_	_	_	_	_	_	_	_	O
+3	na	_	_	_	_	_	_	_	_	O
+4	kišu	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 41.2
+# text = Ne želi da zaboravi ono što je video,
+1	Ne	_	_	_	_	_	_	_	_	O
+2	želi	_	_	_	_	_	_	_	_	O
+3	da	_	_	_	_	_	_	_	_	O
+4	zaboravi	_	_	_	_	_	_	_	_	O
+5	ono	_	_	_	_	_	_	_	_	O
+6	što	_	_	_	_	_	_	_	_	O
+7	je	_	_	_	_	_	_	_	_	O
+8	video	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 42
+# sent_id = 42.1
+# text = oslikane  svodove,  nošnju  iz  Mirande,  gvozdene  predmete,
+1	oslikane	_	_	_	_	_	_	_	_	O
+2	svodove	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	nošnju	_	_	_	_	_	_	_	_	O
+5	iz	_	_	_	_	_	_	_	_	O
+6	Mirande	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	gvozdene	_	_	_	_	_	_	_	_	O
+9	predmete	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 43
+# sent_id = 43.1
+# text = sav onaj svet predmeta koji će, on to dobro zna, druga seća-
+1	sav	_	_	_	_	_	_	_	_	O
+2	onaj	_	_	_	_	_	_	_	_	O
+3	svet	_	_	_	_	_	_	_	_	O
+4	predmeta	_	_	_	_	_	_	_	_	O
+5	koji	_	_	_	_	_	_	_	_	O
+6	će	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	on	_	_	_	_	_	_	_	_	O
+9	to	_	_	_	_	_	_	_	_	O
+10	dobro	_	_	_	_	_	_	_	_	O
+11	zna	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	druga	_	_	_	_	_	_	_	_	O
+14	seća	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	-	-	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 44
+# sent_id = 44.1
+# text = nja  nepopravljivo  potisnuti,  pomutiće  ih:  takva  je  tužna
+1	nja	_	_	_	_	_	_	_	_	O
+2	nepopravljivo	_	_	_	_	_	_	_	_	O
+3	potisnuti	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	pomutiće	_	_	_	_	_	_	_	_	O
+6	ih	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	:	:	PUNCT	Z	_	_	_	_	_	O
+8	takva	_	_	_	_	_	_	_	_	O
+9	je	_	_	_	_	_	_	_	_	O
+10	tužna	_	_	_	_	_	_	_	_	O
+
+# newpar id = 45
+# sent_id = 45.1
+# text = sudbina onoga koji putuje.
+1	sudbina	_	_	_	_	_	_	_	_	O
+2	onoga	_	_	_	_	_	_	_	_	O
+3	koji	_	_	_	_	_	_	_	_	O
+4	putuje	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 45.2
+# text = Pa ipak, sačuvaće zauvek jednu
+1	Pa	_	_	_	_	_	_	_	_	O
+2	ipak	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	sačuvaće	_	_	_	_	_	_	_	_	O
+5	zauvek	_	_	_	_	_	_	_	_	O
+6	jednu	_	_	_	_	_	_	_	_	O
+
+# newpar id = 46
+# sent_id = 46.1
+# text = gotičku  skulpturu  iz  16.  veka,  Bogorodicu  sa  Detetom,  sa
+1	gotičku	_	_	_	_	_	_	_	_	O
+2	skulpturu	_	_	_	_	_	_	_	_	O
+3	iz	_	_	_	_	_	_	_	_	O
+4	16.	_	_	_	_	_	_	_	_	O
+5	veka	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	Bogorodicu	_	_	_	_	_	_	_	_	O
+8	sa	_	_	_	_	_	_	_	_	O
+9	Detetom	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	sa	_	_	_	_	_	_	_	_	O
+
+# newpar id = 47
+# sent_id = 47.1
+# text = odeždom koja blista, tela presečenog u pojasu jednom kri-
+1	odeždom	_	_	_	_	_	_	_	_	O
+2	koja	_	_	_	_	_	_	_	_	O
+3	blista	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	tela	_	_	_	_	_	_	_	_	O
+6	presečenog	_	_	_	_	_	_	_	_	O
+7	u	_	_	_	_	_	_	_	_	O
+8	pojasu	_	_	_	_	_	_	_	_	O
+9	jednom	_	_	_	_	_	_	_	_	O
+10	kri	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	-	-	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 48
+# sent_id = 48.1
+# text = vuljom koja se proteže sve do savršeno ovalnog lica, s nečim
+1	vuljom	_	_	_	_	_	_	_	_	O
+2	koja	_	_	_	_	_	_	_	_	O
+3	se	_	_	_	_	_	_	_	_	O
+4	proteže	_	_	_	_	_	_	_	_	O
+5	sve	_	_	_	_	_	_	_	_	O
+6	do	_	_	_	_	_	_	_	_	O
+7	savršeno	_	_	_	_	_	_	_	_	O
+8	ovalnog	_	_	_	_	_	_	_	_	O
+9	lica	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	s	_	_	_	_	_	_	_	_	O
+12	nečim	_	_	_	_	_	_	_	_	O
+
+# newpar id = 49
+# sent_id = 49.1
+# text = fl
+1	fl	_	_	_	_	_	_	_	_	O
+
+# newpar id = 50
+# sent_id = 50.1
+# text = amanskim u stilu.
+1	amanskim	_	_	_	_	_	_	_	_	O
+2	u	_	_	_	_	_	_	_	_	O
+3	stilu	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 50.2
+# text = A kako putnik ima izvanredno oko za
+1	A	_	_	_	_	_	_	_	_	O
+2	kako	_	_	_	_	_	_	_	_	O
+3	putnik	_	_	_	_	_	_	_	_	O
+4	ima	_	_	_	_	_	_	_	_	O
+5	izvanredno	_	_	_	_	_	_	_	_	O
+6	oko	_	_	_	_	_	_	_	_	O
+7	za	_	_	_	_	_	_	_	_	O
+
+# newpar id = 51
+# sent_id = 51.1
+# text = kontraste i protivrečnosti, upoređuje, na kiši, sliku Rolanta
+1	kontraste	_	_	_	_	_	_	_	_	O
+2	i	_	_	_	_	_	_	_	_	O
+3	protivrečnosti	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	upoređuje	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	na	_	_	_	_	_	_	_	_	O
+8	kiši	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	sliku	_	_	_	_	_	_	_	_	O
+11	Rolanta	_	_	_	_	_	_	_	_	O
+
+# newpar id = 52
+# sent_id = 52.1
+# text = Jakobsa
+1	Jakobsa	_	_	_	_	_	_	_	_	O
+
+# newpar id = 53
+# sent_id = 53.1
+# text = *
+1	*	*	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 54
+# sent_id = 54.1
+# text = koja predstavlja Orfeja kako muzikom svoje harfe pripitomljuje divlje zveri, i jednu drugu, ano
+1	koja	_	_	_	_	_	_	_	_	O
+2	predstavlja	_	_	_	_	_	_	_	_	O
+3	Orfeja	_	_	_	_	_	_	_	_	O
+4	kako	_	_	_	_	_	_	_	_	O
+5	muzikom	_	_	_	_	_	_	_	_	O
+6	svoje	_	_	_	_	_	_	_	_	O
+7	harfe	_	_	_	_	_	_	_	_	O
+8	pripitomljuje	_	_	_	_	_	_	_	_	O
+9	divlje	_	_	_	_	_	_	_	_	O
+10	zveri	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	i	_	_	_	_	_	_	_	_	O
+13	jednu	_	_	_	_	_	_	_	_	O
+14	drugu	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	,	,	PUNCT	Z	_	_	_	_	_	O
+16	ano	_	_	_	_	_	_	_	_	O
+
+# newpar id = 55
+# sent_id = 55.1
+# text = nimnog autora
+1	nimnog	_	_	_	_	_	_	_	_	O
+2	autora	_	_	_	_	_	_	_	_	O
+
+# newpar id = 56
+# sent_id = 56.1
+# text = iz 16. veka, koja prikazuje Svetog Ignjatija Bogonosca dok ga
+1	iz	_	_	_	_	_	_	_	_	O
+2	16.	_	_	_	_	_	_	_	_	O
+3	veka	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	koja	_	_	_	_	_	_	_	_	O
+6	prikazuje	_	_	_	_	_	_	_	_	O
+7	Svetog	_	_	_	_	_	_	_	_	O
+8	Ignjatija	_	_	_	_	_	_	_	_	O
+9	Bogonosca	_	_	_	_	_	_	_	_	O
+10	dok	_	_	_	_	_	_	_	_	O
+11	ga	_	_	_	_	_	_	_	_	O
+
+# newpar id = 57
+# sent_id = 57.1
+# text = proždiru lavovi.
+1	proždiru	_	_	_	_	_	_	_	_	O
+2	lavovi	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 57.2
+# text = Muzika je mogla ono što vera nije postigla.
+1	Muzika	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	mogla	_	_	_	_	_	_	_	_	O
+4	ono	_	_	_	_	_	_	_	_	O
+5	što	_	_	_	_	_	_	_	_	O
+6	vera	_	_	_	_	_	_	_	_	O
+7	nije	_	_	_	_	_	_	_	_	O
+8	postigla	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 58
+# sent_id = 58.1
+# text = Nema sumnje, misli, beše to zaista zlatno doba.
+1	Nema	_	_	_	_	_	_	_	_	O
+2	sumnje	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	misli	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	beše	_	_	_	_	_	_	_	_	O
+7	to	_	_	_	_	_	_	_	_	O
+8	zaista	_	_	_	_	_	_	_	_	O
+9	zlatno	_	_	_	_	_	_	_	_	O
+10	doba	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 59
+# sent_id = 59.1
+# text = Utonuo u razmišljanja, nije primetio da je kiša prestala da
+1	Utonuo	_	_	_	_	_	_	_	_	O
+2	u	_	_	_	_	_	_	_	_	O
+3	razmišljanja	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	nije	_	_	_	_	_	_	_	_	O
+6	primetio	_	_	_	_	_	_	_	_	O
+7	da	_	_	_	_	_	_	_	_	O
+8	je	_	_	_	_	_	_	_	_	O
+9	kiša	_	_	_	_	_	_	_	_	O
+10	prestala	_	_	_	_	_	_	_	_	O
+11	da	_	_	_	_	_	_	_	_	O
+
+# newpar id = 60
+# sent_id = 60.1
+# text = pada.
+1	pada	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 60.2
+# text = Ličio je na zanesenjaka sa otvorenim kišobranom, pri-
+1	Ličio	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	na	_	_	_	_	_	_	_	_	O
+4	zanesenjaka	_	_	_	_	_	_	_	_	O
+5	sa	_	_	_	_	_	_	_	_	O
+6	otvorenim	_	_	_	_	_	_	_	_	O
+7	kišobranom	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	pri	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	-	-	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 61
+# sent_id = 61.1
+# text = zor koji smo svi već priredili sebi, uz nezatomljiv osmeh na
+1	zor	_	_	_	_	_	_	_	_	O
+2	koji	_	_	_	_	_	_	_	_	O
+3	smo	_	_	_	_	_	_	_	_	O
+4	svi	_	_	_	_	_	_	_	_	O
+5	već	_	_	_	_	_	_	_	_	O
+6	priredili	_	_	_	_	_	_	_	_	O
+7	sebi	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	uz	_	_	_	_	_	_	_	_	O
+10	nezatomljiv	_	_	_	_	_	_	_	_	O
+11	osmeh	_	_	_	_	_	_	_	_	O
+12	na	_	_	_	_	_	_	_	_	O
+
+# newpar id = 62
+# sent_id = 62.1
+# text = licu.
+1	licu	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 62.2
+# text = Putnik odlazi do tvrđave sporednim uličicama, uskim
+1	Putnik	_	_	_	_	_	_	_	_	O
+2	odlazi	_	_	_	_	_	_	_	_	O
+3	do	_	_	_	_	_	_	_	_	O
+4	tvrđave	_	_	_	_	_	_	_	_	O
+5	sporednim	_	_	_	_	_	_	_	_	O
+6	uličicama	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	uskim	_	_	_	_	_	_	_	_	O
+
+# newpar id = 63
+# sent_id = 63.1
+# text = i  popločanim  na  starinski  način,  primećuje  stub  srama  sa
+1	i	_	_	_	_	_	_	_	_	O
+2	popločanim	_	_	_	_	_	_	_	_	O
+3	na	_	_	_	_	_	_	_	_	O
+4	starinski	_	_	_	_	_	_	_	_	O
+5	način	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	primećuje	_	_	_	_	_	_	_	_	O
+8	stub	_	_	_	_	_	_	_	_	O
+9	srama	_	_	_	_	_	_	_	_	O
+10	sa	_	_	_	_	_	_	_	_	O
+
+# newpar id = 64
+# sent_id = 64.1
+# text = krstom na vrhu i prasicom u podnožju, obilazi
+1	krstom	_	_	_	_	_	_	_	_	O
+2	na	_	_	_	_	_	_	_	_	O
+3	vrhu	_	_	_	_	_	_	_	_	O
+4	i	_	_	_	_	_	_	_	_	O
+5	prasicom	_	_	_	_	_	_	_	_	O
+6	u	_	_	_	_	_	_	_	_	O
+7	podnožju	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	obilazi	_	_	_	_	_	_	_	_	O
+
+# newpar id = 65
+# sent_id = 65.1
+# text = Domus Muni-
+1	Domus	_	_	_	_	_	_	_	_	O
+2	Muni	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	-	-	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 66
+# sent_id = 66.1
+# text = cipalis,
+1	cipalis	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 67
+# sent_id = 67.1
+# text = koji bi trebalo da je otvoren a nije.
+1	koji	_	_	_	_	_	_	_	_	O
+2	bi	_	_	_	_	_	_	_	_	O
+3	trebalo	_	_	_	_	_	_	_	_	O
+4	da	_	_	_	_	_	_	_	_	O
+5	je	_	_	_	_	_	_	_	_	O
+6	otvoren	_	_	_	_	_	_	_	_	O
+7	a	_	_	_	_	_	_	_	_	O
+8	nije	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 67.2
+# text = Ko ga vidi na foto-
+1	Ko	_	_	_	_	_	_	_	_	O
+2	ga	_	_	_	_	_	_	_	_	O
+3	vidi	_	_	_	_	_	_	_	_	O
+4	na	_	_	_	_	_	_	_	_	O
+5	foto	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	-	-	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 68
+# sent_id = 68.1
+# text = grafi
+1	grafi	_	_	_	_	_	_	_	_	O
+
+# newpar id = 69
+# sent_id = 69.1
+# text = jama pomisliće da je pravougaonog oblika i iznenadiće
+1	jama	_	_	_	_	_	_	_	_	O
+2	pomisliće	_	_	_	_	_	_	_	_	O
+3	da	_	_	_	_	_	_	_	_	O
+4	je	_	_	_	_	_	_	_	_	O
+5	pravougaonog	_	_	_	_	_	_	_	_	O
+6	oblika	_	_	_	_	_	_	_	_	O
+7	i	_	_	_	_	_	_	_	_	O
+8	iznenadiće	_	_	_	_	_	_	_	_	O
+
+# newpar id = 70
+# sent_id = 70.1
+# text = se kada se susretne sa pet
+1	se	_	_	_	_	_	_	_	_	O
+2	kada	_	_	_	_	_	_	_	_	O
+3	se	_	_	_	_	_	_	_	_	O
+4	susretne	_	_	_	_	_	_	_	_	O
+5	sa	_	_	_	_	_	_	_	_	O
+6	pet	_	_	_	_	_	_	_	_	O
+
+# newpar id = 71
+# sent_id = 71.1
+# text = nejednakih strana, kakve ni dete
+1	nejednakih	_	_	_	_	_	_	_	_	O
+2	strana	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	kakve	_	_	_	_	_	_	_	_	O
+5	ni	_	_	_	_	_	_	_	_	O
+6	dete	_	_	_	_	_	_	_	_	O
+
+# newpar id = 72
+# sent_id = 72.1
+# text = ne bi nacrtalo.
+1	ne	_	_	_	_	_	_	_	_	O
+2	bi	_	_	_	_	_	_	_	_	O
+3	nacrtalo	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 72.2
+# text = Koji su to razlozi vodili do ovakvog crteža ne
+1	Koji	_	_	_	_	_	_	_	_	O
+2	su	_	_	_	_	_	_	_	_	O
+3	to	_	_	_	_	_	_	_	_	O
+4	razlozi	_	_	_	_	_	_	_	_	O
+5	vodili	_	_	_	_	_	_	_	_	O
+6	do	_	_	_	_	_	_	_	_	O
+7	ovakvog	_	_	_	_	_	_	_	_	O
+8	crteža	_	_	_	_	_	_	_	_	O
+9	ne	_	_	_	_	_	_	_	_	O
+
+# newpar id = 73
+# sent_id = 73.1
+# text = zna se, bar ih putnik ne zna.
+1	zna	_	_	_	_	_	_	_	_	O
+2	se	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	bar	_	_	_	_	_	_	_	_	O
+5	ih	_	_	_	_	_	_	_	_	O
+6	putnik	_	_	_	_	_	_	_	_	O
+7	ne	_	_	_	_	_	_	_	_	O
+8	zna	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 73.2
+# text = I još je dalje od toga da otkrije
+1	I	_	_	_	_	_	_	_	_	O
+2	još	_	_	_	_	_	_	_	_	O
+3	je	_	_	_	_	_	_	_	_	O
+4	dalje	_	_	_	_	_	_	_	_	O
+5	od	_	_	_	_	_	_	_	_	O
+6	toga	_	_	_	_	_	_	_	_	O
+7	da	_	_	_	_	_	_	_	_	O
+8	otkrije	_	_	_	_	_	_	_	_	O
+
+# newpar id = 74
+# sent_id = 74.1
+# text = da li je građevina rimska, ili potiče iz doba grčke vladavine,
+1	da	_	_	_	_	_	_	_	_	O
+2	li	_	_	_	_	_	_	_	_	O
+3	je	_	_	_	_	_	_	_	_	O
+4	građevina	_	_	_	_	_	_	_	_	O
+5	rimska	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	ili	_	_	_	_	_	_	_	_	O
+8	potiče	_	_	_	_	_	_	_	_	O
+9	iz	_	_	_	_	_	_	_	_	O
+10	doba	_	_	_	_	_	_	_	_	O
+11	grčke	_	_	_	_	_	_	_	_	O
+12	vladavine	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 75
+# sent_id = 75.1
+# text = ili je jednostavno srednjovekovna – putnikovu radoznalost
+1	ili	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	jednostavno	_	_	_	_	_	_	_	_	O
+4	srednjovekovna	_	_	_	_	_	_	_	_	O
+5	–	–	PUNCT	Z	_	_	_	_	_	O
+6	putnikovu	_	_	_	_	_	_	_	_	O
+7	radoznalost	_	_	_	_	_	_	_	_	O
+
+# newpar id = 76
+# sent_id = 76.1
+# text = pobuđuje jednostavno ovaj iskrivljeni pentagon za koji ne
+1	pobuđuje	_	_	_	_	_	_	_	_	O
+2	jednostavno	_	_	_	_	_	_	_	_	O
+3	ovaj	_	_	_	_	_	_	_	_	O
+4	iskrivljeni	_	_	_	_	_	_	_	_	O
+5	pentagon	_	_	_	_	_	_	_	_	O
+6	za	_	_	_	_	_	_	_	_	O
+7	koji	_	_	_	_	_	_	_	_	O
+8	ne	_	_	_	_	_	_	_	_	O
+
+# newpar id = 77
+# sent_id = 77.1
+# text = nalazi objašnjenje.
+1	nalazi	_	_	_	_	_	_	_	_	O
+2	objašnjenje	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 78
+# sent_id = 78.1
+# text = Od  Crkve  Svete  Marije  do  Kaštelo  putnik  vidi  tek  por-
+1	Od	_	_	_	_	_	_	_	_	O
+2	Crkve	_	_	_	_	_	_	_	_	O
+3	Svete	_	_	_	_	_	_	_	_	O
+4	Marije	_	_	_	_	_	_	_	_	O
+5	do	_	_	_	_	_	_	_	_	O
+6	Kaštelo	_	_	_	_	_	_	_	_	O
+7	putnik	_	_	_	_	_	_	_	_	O
+8	vidi	_	_	_	_	_	_	_	_	O
+9	tek	_	_	_	_	_	_	_	_	O
+10	por	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	-	-	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 79
+# sent_id = 79.1
+# text = tik, a kako nije preterano osetljiv na baroknu raskoš, veću
+1	tik	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	a	_	_	_	_	_	_	_	_	O
+4	kako	_	_	_	_	_	_	_	_	O
+5	nije	_	_	_	_	_	_	_	_	O
+6	preterano	_	_	_	_	_	_	_	_	O
+7	osetljiv	_	_	_	_	_	_	_	_	O
+8	na	_	_	_	_	_	_	_	_	O
+9	baroknu	_	_	_	_	_	_	_	_	O
+10	raskoš	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	veću	_	_	_	_	_	_	_	_	O
+
+# newpar id = 80
+# sent_id = 80.1
+# text = pažnju pridaje zrncima granita nego grozdovima i lišću koji
+1	pažnju	_	_	_	_	_	_	_	_	O
+2	pridaje	_	_	_	_	_	_	_	_	O
+3	zrncima	_	_	_	_	_	_	_	_	O
+4	granita	_	_	_	_	_	_	_	_	O
+5	nego	_	_	_	_	_	_	_	_	O
+6	grozdovima	_	_	_	_	_	_	_	_	O
+7	i	_	_	_	_	_	_	_	_	O
+8	lišću	_	_	_	_	_	_	_	_	O
+9	koji	_	_	_	_	_	_	_	_	O
+
+# newpar id = 81
+# sent_id = 81.1
+# text = se omotavaju oko stubova.
+1	se	_	_	_	_	_	_	_	_	O
+2	omotavaju	_	_	_	_	_	_	_	_	O
+3	oko	_	_	_	_	_	_	_	_	O
+4	stubova	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 81.2
+# text = Kasnije će morati da skoči sebi
+1	Kasnije	_	_	_	_	_	_	_	_	O
+2	će	_	_	_	_	_	_	_	_	O
+3	morati	_	_	_	_	_	_	_	_	O
+4	da	_	_	_	_	_	_	_	_	O
+5	skoči	_	_	_	_	_	_	_	_	O
+6	sebi	_	_	_	_	_	_	_	_	O
+
+# newpar id = 82
+# sent_id = 82.1
+# text = u  usta  i  prizna  posebnu  grandioznost  baroka,  ali  pre  toga
+1	u	_	_	_	_	_	_	_	_	O
+2	usta	_	_	_	_	_	_	_	_	O
+3	i	_	_	_	_	_	_	_	_	O
+4	prizna	_	_	_	_	_	_	_	_	O
+5	posebnu	_	_	_	_	_	_	_	_	O
+6	grandioznost	_	_	_	_	_	_	_	_	O
+7	baroka	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	ali	_	_	_	_	_	_	_	_	O
+10	pre	_	_	_	_	_	_	_	_	O
+11	toga	_	_	_	_	_	_	_	_	O
+
+# newpar id = 83
+# sent_id = 83.1
+# text = još će mnogim putevima morati da prođe.
+1	još	_	_	_	_	_	_	_	_	O
+2	će	_	_	_	_	_	_	_	_	O
+3	mnogim	_	_	_	_	_	_	_	_	O
+4	putevima	_	_	_	_	_	_	_	_	O
+5	morati	_	_	_	_	_	_	_	_	O
+6	da	_	_	_	_	_	_	_	_	O
+7	prođe	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 83.2
+# text = Crkve iz Bragan-
+1	Crkve	_	_	_	_	_	_	_	_	O
+2	iz	_	_	_	_	_	_	_	_	O
+3	Bragan	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	-	-	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 84
+# sent_id = 84.1
+# text = se  nisu  ga  naročito  zanimale  osim,  i  to  zbog  svoje  kratke
+1	se	_	_	_	_	_	_	_	_	O
+2	nisu	_	_	_	_	_	_	_	_	O
+3	ga	_	_	_	_	_	_	_	_	O
+4	naročito	_	_	_	_	_	_	_	_	O
+5	zanimale	_	_	_	_	_	_	_	_	O
+6	osim	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	i	_	_	_	_	_	_	_	_	O
+9	to	_	_	_	_	_	_	_	_	O
+10	zbog	_	_	_	_	_	_	_	_	O
+11	svoje	_	_	_	_	_	_	_	_	O
+12	kratke	_	_	_	_	_	_	_	_	O
+
+# newpar id = 85
+# sent_id = 85.1
+# text = povesti,  Crkve  Svetog  Vinsenta,  gde  su  se,  prema  tradiciji,
+1	povesti	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	Crkve	_	_	_	_	_	_	_	_	O
+4	Svetog	_	_	_	_	_	_	_	_	O
+5	Vinsenta	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	gde	_	_	_	_	_	_	_	_	O
+8	su	_	_	_	_	_	_	_	_	O
+9	se	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	prema	_	_	_	_	_	_	_	_	O
+12	tradiciji	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 86
+# sent_id = 86.1
+# text = kriomice venčali don Pedro i Ineš de Kaštro
+1	kriomice	_	_	_	_	_	_	_	_	O
+2	venčali	_	_	_	_	_	_	_	_	O
+3	don	_	_	_	_	_	_	_	_	O
+4	Pedro	_	_	_	_	_	_	_	_	O
+5	i	_	_	_	_	_	_	_	_	O
+6	Ineš	_	_	_	_	_	_	_	_	O
+7	de	_	_	_	_	_	_	_	_	O
+8	Kaštro	_	_	_	_	_	_	_	_	O
+
+# newpar id = 87
+# sent_id = 87.1
+# text = *
+1	*	*	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 88
+# sent_id = 88.1
+# text = .
+1	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 88.2
+# text = Možda je bilo
+1	Možda	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	bilo	_	_	_	_	_	_	_	_	O
+
+# newpar id = 89
+# sent_id = 89.1
+# text = tako, ali od ondašnjeg kamenja i zidova nije ostalo ništa, a
+1	tako	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	ali	_	_	_	_	_	_	_	_	O
+4	od	_	_	_	_	_	_	_	_	O
+5	ondašnjeg	_	_	_	_	_	_	_	_	O
+6	kamenja	_	_	_	_	_	_	_	_	O
+7	i	_	_	_	_	_	_	_	_	O
+8	zidova	_	_	_	_	_	_	_	_	O
+9	nije	_	_	_	_	_	_	_	_	O
+10	ostalo	_	_	_	_	_	_	_	_	O
+11	ništa	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	a	_	_	_	_	_	_	_	_	O
+
+# newpar id = 90
+# sent_id = 90.1
+# text = mesto ne nagoveštava ništa o tako velikoj i političkoj ljubavi.
+1	mesto	_	_	_	_	_	_	_	_	O
+2	ne	_	_	_	_	_	_	_	_	O
+3	nagoveštava	_	_	_	_	_	_	_	_	O
+4	ništa	_	_	_	_	_	_	_	_	O
+5	o	_	_	_	_	_	_	_	_	O
+6	tako	_	_	_	_	_	_	_	_	O
+7	velikoj	_	_	_	_	_	_	_	_	O
+8	i	_	_	_	_	_	_	_	_	O
+9	političkoj	_	_	_	_	_	_	_	_	O
+10	ljubavi	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 91
+# sent_id = 91.1
+# text = Da li je to sve od Braganse?
+1	Da	_	_	_	_	_	_	_	_	O
+2	li	_	_	_	_	_	_	_	_	O
+3	je	_	_	_	_	_	_	_	_	O
+4	to	_	_	_	_	_	_	_	_	O
+5	sve	_	_	_	_	_	_	_	_	O
+6	od	_	_	_	_	_	_	_	_	O
+7	Braganse	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	?	?	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 91.2
+# text = Nije.
+1	Nije	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 91.3
+# text = Ne treba pak tražiti više
+1	Ne	_	_	_	_	_	_	_	_	O
+2	treba	_	_	_	_	_	_	_	_	O
+3	pak	_	_	_	_	_	_	_	_	O
+4	tražiti	_	_	_	_	_	_	_	_	O
+5	više	_	_	_	_	_	_	_	_	O
+
+# newpar id = 92
+# sent_id = 92.1
+# text = od  putnika  koji  treba  da  vidi  druge  predele,  koji  su,  poput
+1	od	_	_	_	_	_	_	_	_	O
+2	putnika	_	_	_	_	_	_	_	_	O
+3	koji	_	_	_	_	_	_	_	_	O
+4	treba	_	_	_	_	_	_	_	_	O
+5	da	_	_	_	_	_	_	_	_	O
+6	vidi	_	_	_	_	_	_	_	_	O
+7	druge	_	_	_	_	_	_	_	_	O
+8	predele	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	koji	_	_	_	_	_	_	_	_	O
+11	su	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	poput	_	_	_	_	_	_	_	_	O
+
+# newpar id = 93
+# sent_id = 93.1
+# text = ovog, u stanju da zadrže čoveka do kraja života, ne zbog naro-
+1	ovog	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	u	_	_	_	_	_	_	_	_	O
+4	stanju	_	_	_	_	_	_	_	_	O
+5	da	_	_	_	_	_	_	_	_	O
+6	zadrže	_	_	_	_	_	_	_	_	O
+7	čoveka	_	_	_	_	_	_	_	_	O
+8	do	_	_	_	_	_	_	_	_	O
+9	kraja	_	_	_	_	_	_	_	_	O
+10	života	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	ne	_	_	_	_	_	_	_	_	O
+13	zbog	_	_	_	_	_	_	_	_	O
+14	naro	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	-	-	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 94
+# sent_id = 94.1
+# text = čitih zasluga, već zato što je upravo takav izazov ovih krajeva.
+1	čitih	_	_	_	_	_	_	_	_	O
+2	zasluga	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	već	_	_	_	_	_	_	_	_	O
+5	zato	_	_	_	_	_	_	_	_	O
+6	što	_	_	_	_	_	_	_	_	O
+7	je	_	_	_	_	_	_	_	_	O
+8	upravo	_	_	_	_	_	_	_	_	O
+9	takav	_	_	_	_	_	_	_	_	O
+10	izazov	_	_	_	_	_	_	_	_	O
+11	ovih	_	_	_	_	_	_	_	_	O
+12	krajeva	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 95
+# sent_id = 95.1
+# text = I kada se kaže „do kraja života“, kaže se i nakon njega, kakav
+1	I	_	_	_	_	_	_	_	_	O
+2	kada	_	_	_	_	_	_	_	_	O
+3	se	_	_	_	_	_	_	_	_	O
+4	kaže	_	_	_	_	_	_	_	_	O
+5	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+6	do	_	_	_	_	_	_	_	_	O
+7	kraja	_	_	_	_	_	_	_	_	O
+8	života	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	kaže	_	_	_	_	_	_	_	_	O
+12	se	_	_	_	_	_	_	_	_	O
+13	i	_	_	_	_	_	_	_	_	O
+14	nakon	_	_	_	_	_	_	_	_	O
+15	njega	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	,	,	PUNCT	Z	_	_	_	_	_	O
+17	kakav	_	_	_	_	_	_	_	_	O
+
+# newpar id = 96
+# sent_id = 96.1
+# text = je slučaj vojnika Žozea Žorža, koji će biti ispričan.
+1	je	_	_	_	_	_	_	_	_	O
+2	slučaj	_	_	_	_	_	_	_	_	O
+3	vojnika	_	_	_	_	_	_	_	_	O
+4	Žozea	_	_	_	_	_	_	_	_	O
+5	Žorža	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	koji	_	_	_	_	_	_	_	_	O
+8	će	_	_	_	_	_	_	_	_	O
+9	biti	_	_	_	_	_	_	_	_	O
+10	ispričan	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 97
+# sent_id = 97.1
+# text = Prvo bi trebalo reći, radi potpunijeg razumevanja, da put-
+1	Prvo	_	_	_	_	_	_	_	_	O
+2	bi	_	_	_	_	_	_	_	_	O
+3	trebalo	_	_	_	_	_	_	_	_	O
+4	reći	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	radi	_	_	_	_	_	_	_	_	O
+7	potpunijeg	_	_	_	_	_	_	_	_	O
+8	razumevanja	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	da	_	_	_	_	_	_	_	_	O
+11	put	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	-	-	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 98
+# sent_id = 98.1
+# text = nik ima sklonost, koju verovatno smatraju nezdravom ljudi
+1	nik	_	_	_	_	_	_	_	_	O
+2	ima	_	_	_	_	_	_	_	_	O
+3	sklonost	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	koju	_	_	_	_	_	_	_	_	O
+6	verovatno	_	_	_	_	_	_	_	_	O
+7	smatraju	_	_	_	_	_	_	_	_	O
+8	nezdravom	_	_	_	_	_	_	_	_	O
+9	ljudi	_	_	_	_	_	_	_	_	O
+
+# newpar id = 99
+# sent_id = 99.1
+# text = koji  se  ponose  time  što  su  normalni  i  obični,  da  posećuje
+1	koji	_	_	_	_	_	_	_	_	O
+2	se	_	_	_	_	_	_	_	_	O
+3	ponose	_	_	_	_	_	_	_	_	O
+4	time	_	_	_	_	_	_	_	_	O
+5	što	_	_	_	_	_	_	_	_	O
+6	su	_	_	_	_	_	_	_	_	O
+7	normalni	_	_	_	_	_	_	_	_	O
+8	i	_	_	_	_	_	_	_	_	O
+9	obični	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	da	_	_	_	_	_	_	_	_	O
+12	posećuje	_	_	_	_	_	_	_	_	O
+
+# newpar id = 100
+# sent_id = 100.1
+# text = groblja, kada ima želju ili kada mu je stanje duha takvo, da
+1	groblja	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	kada	_	_	_	_	_	_	_	_	O
+4	ima	_	_	_	_	_	_	_	_	O
+5	želju	_	_	_	_	_	_	_	_	O
+6	ili	_	_	_	_	_	_	_	_	O
+7	kada	_	_	_	_	_	_	_	_	O
+8	mu	_	_	_	_	_	_	_	_	O
+9	je	_	_	_	_	_	_	_	_	O
+10	stanje	_	_	_	_	_	_	_	_	O
+11	duha	_	_	_	_	_	_	_	_	O
+12	takvo	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+14	da	_	_	_	_	_	_	_	_	O
+
+# newpar id = 101
+# sent_id = 101.1
+# text = uživa u pogrebnoj predstavi uspomena, statua, nadgrobnih
+1	uživa	_	_	_	_	_	_	_	_	O
+2	u	_	_	_	_	_	_	_	_	O
+3	pogrebnoj	_	_	_	_	_	_	_	_	O
+4	predstavi	_	_	_	_	_	_	_	_	O
+5	uspomena	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	statua	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	nadgrobnih	_	_	_	_	_	_	_	_	O
+
+# newpar id = 102
+# sent_id = 102.1
+# text = ploča i drugih podsetnika i da iz svega toga izvuče zaključak
+1	ploča	_	_	_	_	_	_	_	_	O
+2	i	_	_	_	_	_	_	_	_	O
+3	drugih	_	_	_	_	_	_	_	_	O
+4	podsetnika	_	_	_	_	_	_	_	_	O
+5	i	_	_	_	_	_	_	_	_	O
+6	da	_	_	_	_	_	_	_	_	O
+7	iz	_	_	_	_	_	_	_	_	O
+8	svega	_	_	_	_	_	_	_	_	O
+9	toga	_	_	_	_	_	_	_	_	O
+10	izvuče	_	_	_	_	_	_	_	_	O
+11	zaključak	_	_	_	_	_	_	_	_	O
+
+# newpar id = 103
+# sent_id = 103.1
+# text = da je čovek tašt čak i onda kad više nema nijednog razloga da
+1	da	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	čovek	_	_	_	_	_	_	_	_	O
+4	tašt	_	_	_	_	_	_	_	_	O
+5	čak	_	_	_	_	_	_	_	_	O
+6	i	_	_	_	_	_	_	_	_	O
+7	onda	_	_	_	_	_	_	_	_	O
+8	kad	_	_	_	_	_	_	_	_	O
+9	više	_	_	_	_	_	_	_	_	O
+10	nema	_	_	_	_	_	_	_	_	O
+11	nijednog	_	_	_	_	_	_	_	_	O
+12	razloga	_	_	_	_	_	_	_	_	O
+13	da	_	_	_	_	_	_	_	_	O
+
+# newpar id = 104
+# sent_id = 104.1
+# text = to i dalje bude.
+1	to	_	_	_	_	_	_	_	_	O
+2	i	_	_	_	_	_	_	_	_	O
+3	dalje	_	_	_	_	_	_	_	_	O
+4	bude	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 104.2
+# text = Pogodilo se da je ovaj dan pogodan za ova-
+1	Pogodilo	_	_	_	_	_	_	_	_	O
+2	se	_	_	_	_	_	_	_	_	O
+3	da	_	_	_	_	_	_	_	_	O
+4	je	_	_	_	_	_	_	_	_	O
+5	ovaj	_	_	_	_	_	_	_	_	O
+6	dan	_	_	_	_	_	_	_	_	O
+7	pogodan	_	_	_	_	_	_	_	_	O
+8	za	_	_	_	_	_	_	_	_	O
+9	ova	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	-	-	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 105
+# sent_id = 105.1
+# text = kva razmišljanja, a slučaj je hteo da koraci skitnice odvedu
+1	kva	_	_	_	_	_	_	_	_	O
+2	razmišljanja	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	a	_	_	_	_	_	_	_	_	O
+5	slučaj	_	_	_	_	_	_	_	_	O
+6	je	_	_	_	_	_	_	_	_	O
+7	hteo	_	_	_	_	_	_	_	_	O
+8	da	_	_	_	_	_	_	_	_	O
+9	koraci	_	_	_	_	_	_	_	_	O
+10	skitnice	_	_	_	_	_	_	_	_	O
+11	odvedu	_	_	_	_	_	_	_	_	O
+
+# newpar id = 106
+# sent_id = 106.1
+# text = putnika na mesto gde su ona najopravdanija.
+1	putnika	_	_	_	_	_	_	_	_	O
+2	na	_	_	_	_	_	_	_	_	O
+3	mesto	_	_	_	_	_	_	_	_	O
+4	gde	_	_	_	_	_	_	_	_	O
+5	su	_	_	_	_	_	_	_	_	O
+6	ona	_	_	_	_	_	_	_	_	O
+7	najopravdanija	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 106.2
+# text = Ušao je, kružio
+1	Ušao	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	kružio	_	_	_	_	_	_	_	_	O
+
+# newpar id = 107
+# sent_id = 107.1
+# text = pometenim i svežim stazama među nadgrobnim spomeni-
+1	pometenim	_	_	_	_	_	_	_	_	O
+2	i	_	_	_	_	_	_	_	_	O
+3	svežim	_	_	_	_	_	_	_	_	O
+4	stazama	_	_	_	_	_	_	_	_	O
+5	među	_	_	_	_	_	_	_	_	O
+6	nadgrobnim	_	_	_	_	_	_	_	_	O
+7	spomeni	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	-	-	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 108
+# sent_id = 108.1
+# text = cima, čitao natpise obrasle mahovinom i nagrizene zubom
+1	cima	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	čitao	_	_	_	_	_	_	_	_	O
+4	natpise	_	_	_	_	_	_	_	_	O
+5	obrasle	_	_	_	_	_	_	_	_	O
+6	mahovinom	_	_	_	_	_	_	_	_	O
+7	i	_	_	_	_	_	_	_	_	O
+8	nagrizene	_	_	_	_	_	_	_	_	O
+9	zubom	_	_	_	_	_	_	_	_	O
+
+# newpar id = 109
+# sent_id = 109.1
+# text = vremena, i, obišavši pun krug, naišao na jedan plitak grob,
+1	vremena	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	i	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	obišavši	_	_	_	_	_	_	_	_	O
+6	pun	_	_	_	_	_	_	_	_	O
+7	krug	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	naišao	_	_	_	_	_	_	_	_	O
+10	na	_	_	_	_	_	_	_	_	O
+11	jedan	_	_	_	_	_	_	_	_	O
+12	plitak	_	_	_	_	_	_	_	_	O
+13	grob	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	,	,	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 110
+# sent_id = 110.1
+# text = izdvojen iz pompe ove zajednice preminulih, čiji je spome-
+1	izdvojen	_	_	_	_	_	_	_	_	O
+2	iz	_	_	_	_	_	_	_	_	O
+3	pompe	_	_	_	_	_	_	_	_	O
+4	ove	_	_	_	_	_	_	_	_	O
+5	zajednice	_	_	_	_	_	_	_	_	O
+6	preminulih	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	čiji	_	_	_	_	_	_	_	_	O
+9	je	_	_	_	_	_	_	_	_	O
+10	spome	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	-	-	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 111
+# sent_id = 111.1
+# text = nik okružen ogradicom sa sledećim natpisom: Ovde poči-
+1	nik	_	_	_	_	_	_	_	_	O
+2	okružen	_	_	_	_	_	_	_	_	O
+3	ogradicom	_	_	_	_	_	_	_	_	O
+4	sa	_	_	_	_	_	_	_	_	O
+5	sledećim	_	_	_	_	_	_	_	_	O
+6	natpisom	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	:	:	PUNCT	Z	_	_	_	_	_	O
+8	Ovde	_	_	_	_	_	_	_	_	O
+9	poči	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	-	-	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 112
+# sent_id = 112.1
+# text = va Žoze Žorž, osuđen na smrt 3. aprila 1843. godine.
+1	va	_	_	_	_	_	_	_	_	O
+2	Žoze	_	_	_	_	_	_	_	_	O
+3	Žorž	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	osuđen	_	_	_	_	_	_	_	_	O
+6	na	_	_	_	_	_	_	_	_	O
+7	smrt	_	_	_	_	_	_	_	_	O
+8	3.	_	_	_	_	_	_	_	_	O
+9	aprila	_	_	_	_	_	_	_	_	O
+10	1843.	_	_	_	_	_	_	_	_	O
+11	godine	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 112.2
+# text = Slučaj je pobuđivao zanimanje.
+1	Slučaj	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	pobuđivao	_	_	_	_	_	_	_	_	O
+4	zanimanje	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 112.3
+# text = Koji ovo slavni mrtvac beše,
+1	Koji	_	_	_	_	_	_	_	_	O
+2	ovo	_	_	_	_	_	_	_	_	O
+3	slavni	_	_	_	_	_	_	_	_	O
+4	mrtvac	_	_	_	_	_	_	_	_	O
+5	beše	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 113
+# sent_id = 113.1
+# text = sa mestom obeleženim i zauzetim već gotovo sto četrdeset
+1	sa	_	_	_	_	_	_	_	_	O
+2	mestom	_	_	_	_	_	_	_	_	O
+3	obeleženim	_	_	_	_	_	_	_	_	O
+4	i	_	_	_	_	_	_	_	_	O
+5	zauzetim	_	_	_	_	_	_	_	_	O
+6	već	_	_	_	_	_	_	_	_	O
+7	gotovo	_	_	_	_	_	_	_	_	O
+8	sto	_	_	_	_	_	_	_	_	O
+9	četrdeset	_	_	_	_	_	_	_	_	O
+
+# newpar id = 114
+# sent_id = 114.1
+# text = godina, ostavljen ovde pored zida ali ne i napušten, kako se
+1	godina	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	ostavljen	_	_	_	_	_	_	_	_	O
+4	ovde	_	_	_	_	_	_	_	_	O
+5	pored	_	_	_	_	_	_	_	_	O
+6	zida	_	_	_	_	_	_	_	_	O
+7	ali	_	_	_	_	_	_	_	_	O
+8	ne	_	_	_	_	_	_	_	_	O
+9	i	_	_	_	_	_	_	_	_	O
+10	napušten	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	kako	_	_	_	_	_	_	_	_	O
+13	se	_	_	_	_	_	_	_	_	O
+
+# newpar id = 115
+# sent_id = 115.1
+# text = da zaključiti po nedavno ponovo uklesanim slovima, jasno
+1	da	_	_	_	_	_	_	_	_	O
+2	zaključiti	_	_	_	_	_	_	_	_	O
+3	po	_	_	_	_	_	_	_	_	O
+4	nedavno	_	_	_	_	_	_	_	_	O
+5	ponovo	_	_	_	_	_	_	_	_	O
+6	uklesanim	_	_	_	_	_	_	_	_	O
+7	slovima	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	jasno	_	_	_	_	_	_	_	_	O
+
+# newpar id = 116
+# sent_id = 116.1
+# text = belim na iznova obnovljenoj crnoj podlozi?
+1	belim	_	_	_	_	_	_	_	_	O
+2	na	_	_	_	_	_	_	_	_	O
+3	iznova	_	_	_	_	_	_	_	_	O
+4	obnovljenoj	_	_	_	_	_	_	_	_	O
+5	crnoj	_	_	_	_	_	_	_	_	O
+6	podlozi	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	?	?	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 116.2
+# text = Neko bi morao
+1	Neko	_	_	_	_	_	_	_	_	O
+2	bi	_	_	_	_	_	_	_	_	O
+3	morao	_	_	_	_	_	_	_	_	O
+
+# newpar id = 117
+# sent_id = 117.1
+# text = znati.
+1	znati	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 117.2
+# text = Odmah  pored  bila  je  grobljanska  baraka,  i  unutra
+1	Odmah	_	_	_	_	_	_	_	_	O
+2	pored	_	_	_	_	_	_	_	_	O
+3	bila	_	_	_	_	_	_	_	_	O
+4	je	_	_	_	_	_	_	_	_	O
+5	grobljanska	_	_	_	_	_	_	_	_	O
+6	baraka	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	i	_	_	_	_	_	_	_	_	O
+9	unutra	_	_	_	_	_	_	_	_	O
+
+# newpar id = 118
+# sent_id = 118.1
+# text = pogrebnik.
+1	pogrebnik	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 118.2
+# text = Reče putnik: „Dobar dan.
+1	Reče	_	_	_	_	_	_	_	_	O
+2	putnik	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	:	:	PUNCT	Z	_	_	_	_	_	O
+4	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+5	Dobar	_	_	_	_	_	_	_	_	O
+6	dan	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 118.3
+# text = Možete li mi pojasni-
+1	Možete	_	_	_	_	_	_	_	_	O
+2	li	_	_	_	_	_	_	_	_	O
+3	mi	_	_	_	_	_	_	_	_	O
+4	pojasni	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	-	-	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 119
+# sent_id = 119.1
+# text = ti nešto?
+1	ti	_	_	_	_	_	_	_	_	O
+2	nešto	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	?	?	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+
+# sent_id = 119.2
+# text = “ Pogrebnik, prekinut u razgovoru sa nekom ženi-
+1	“	“	PUNCT	Z	_	_	_	_	_	O
+2	Pogrebnik	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	prekinut	_	_	_	_	_	_	_	_	O
+5	u	_	_	_	_	_	_	_	_	O
+6	razgovoru	_	_	_	_	_	_	_	_	O
+7	sa	_	_	_	_	_	_	_	_	O
+8	nekom	_	_	_	_	_	_	_	_	O
+9	ženi	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	-	-	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 120
+# sent_id = 120.1
+# text = com onim nežnim tražmontanskim tonom, ustaje sa klupe i
+1	com	_	_	_	_	_	_	_	_	O
+2	onim	_	_	_	_	_	_	_	_	O
+3	nežnim	_	_	_	_	_	_	_	_	O
+4	tražmontanskim	_	_	_	_	_	_	_	_	O
+5	tonom	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	ustaje	_	_	_	_	_	_	_	_	O
+8	sa	_	_	_	_	_	_	_	_	O
+9	klupe	_	_	_	_	_	_	_	_	O
+10	i	_	_	_	_	_	_	_	_	O
+
+# newpar id = 121
+# sent_id = 121.1
+# text = stavlja se na raspolaganje: „Svakako, gospodine, ako budem
+1	stavlja	_	_	_	_	_	_	_	_	O
+2	se	_	_	_	_	_	_	_	_	O
+3	na	_	_	_	_	_	_	_	_	O
+4	raspolaganje	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	:	:	PUNCT	Z	_	_	_	_	_	O
+6	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+7	Svakako	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	gospodine	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	ako	_	_	_	_	_	_	_	_	O
+12	budem	_	_	_	_	_	_	_	_	O
+
+# newpar id = 122
+# sent_id = 122.1
+# text = znao.
+1	znao	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	.	.	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+
+# sent_id = 122.2
+# text = “ Zna, sigurno, to se pitanje tiče njegovog posla, a ne
+1	“	“	PUNCT	Z	_	_	_	_	_	O
+2	Zna	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	sigurno	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	to	_	_	_	_	_	_	_	_	O
+7	se	_	_	_	_	_	_	_	_	O
+8	pitanje	_	_	_	_	_	_	_	_	O
+9	tiče	_	_	_	_	_	_	_	_	O
+10	njegovog	_	_	_	_	_	_	_	_	O
+11	posla	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	a	_	_	_	_	_	_	_	_	O
+14	ne	_	_	_	_	_	_	_	_	O
+
+# newpar id = 123
+# sent_id = 123.1
+# text = nečega o čemu ne bi umeo da odgovori: „Onaj tamo Žoze
+1	nečega	_	_	_	_	_	_	_	_	O
+2	o	_	_	_	_	_	_	_	_	O
+3	čemu	_	_	_	_	_	_	_	_	O
+4	ne	_	_	_	_	_	_	_	_	O
+5	bi	_	_	_	_	_	_	_	_	O
+6	umeo	_	_	_	_	_	_	_	_	O
+7	da	_	_	_	_	_	_	_	_	O
+8	odgovori	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	:	:	PUNCT	Z	_	_	_	_	_	O
+10	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+11	Onaj	_	_	_	_	_	_	_	_	O
+12	tamo	_	_	_	_	_	_	_	_	O
+13	Žoze	_	_	_	_	_	_	_	_	O
+
+# newpar id = 124
+# sent_id = 124.1
+# text = Žorž, ko je to bio?
+1	Žorž	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	ko	_	_	_	_	_	_	_	_	O
+4	je	_	_	_	_	_	_	_	_	O
+5	to	_	_	_	_	_	_	_	_	O
+6	bio	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	?	?	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+
+# sent_id = 124.2
+# text = “ Pogrebnik sleže ramenima, nasmeje se:
+1	“	“	PUNCT	Z	_	_	_	_	_	O
+2	Pogrebnik	_	_	_	_	_	_	_	_	O
+3	sleže	_	_	_	_	_	_	_	_	O
+4	ramenima	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	nasmeje	_	_	_	_	_	_	_	_	O
+7	se	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	:	:	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 125
+# sent_id = 125.1
+# text = „Ah, to je jedna veoma stara priča.
+1	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+2	Ah	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	to	_	_	_	_	_	_	_	_	O
+5	je	_	_	_	_	_	_	_	_	O
+6	jedna	_	_	_	_	_	_	_	_	O
+7	veoma	_	_	_	_	_	_	_	_	O
+8	stara	_	_	_	_	_	_	_	_	O
+9	priča	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	.	.	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+
+# sent_id = 125.2
+# text = “ Neka bude, to nije novost
+1	“	“	PUNCT	Z	_	_	_	_	_	O
+2	Neka	_	_	_	_	_	_	_	_	O
+3	bude	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	to	_	_	_	_	_	_	_	_	O
+6	nije	_	_	_	_	_	_	_	_	O
+7	novost	_	_	_	_	_	_	_	_	O
+
+# newpar id = 126
+# sent_id = 126.1
+# text = za putnika, veoma dobro je video datum.
+1	za	_	_	_	_	_	_	_	_	O
+2	putnika	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	veoma	_	_	_	_	_	_	_	_	O
+5	dobro	_	_	_	_	_	_	_	_	O
+6	je	_	_	_	_	_	_	_	_	O
+7	video	_	_	_	_	_	_	_	_	O
+8	datum	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 126.2
+# text = Pogrebnik nastavi
+1	Pogrebnik	_	_	_	_	_	_	_	_	O
+2	nastavi	_	_	_	_	_	_	_	_	O
+
+# newpar id = 127
+# sent_id = 127.1
+# text = uz osmeh: „Priča se da je bio neki vojnik koji je živeo ovde.
+1	uz	_	_	_	_	_	_	_	_	O
+2	osmeh	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	:	:	PUNCT	Z	_	_	_	_	_	O
+4	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+5	Priča	_	_	_	_	_	_	_	_	O
+6	se	_	_	_	_	_	_	_	_	O
+7	da	_	_	_	_	_	_	_	_	O
+8	je	_	_	_	_	_	_	_	_	O
+9	bio	_	_	_	_	_	_	_	_	O
+10	neki	_	_	_	_	_	_	_	_	O
+11	vojnik	_	_	_	_	_	_	_	_	O
+12	koji	_	_	_	_	_	_	_	_	O
+13	je	_	_	_	_	_	_	_	_	O
+14	živeo	_	_	_	_	_	_	_	_	O
+15	ovde	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 128
+# sent_id = 128.1
+# text = Jednoga  dana  neki  prijatelj  zamolio  ga  je  da  mu  pozajmi
+1	Jednoga	_	_	_	_	_	_	_	_	O
+2	dana	_	_	_	_	_	_	_	_	O
+3	neki	_	_	_	_	_	_	_	_	O
+4	prijatelj	_	_	_	_	_	_	_	_	O
+5	zamolio	_	_	_	_	_	_	_	_	O
+6	ga	_	_	_	_	_	_	_	_	O
+7	je	_	_	_	_	_	_	_	_	O
+8	da	_	_	_	_	_	_	_	_	O
+9	mu	_	_	_	_	_	_	_	_	O
+10	pozajmi	_	_	_	_	_	_	_	_	O
+
+# newpar id = 129
+# sent_id = 129.1
+# text = uniformu ne rekavši za šta, ali pošto su bili prijatelji, vojnik
+1	uniformu	_	_	_	_	_	_	_	_	O
+2	ne	_	_	_	_	_	_	_	_	O
+3	rekavši	_	_	_	_	_	_	_	_	O
+4	za	_	_	_	_	_	_	_	_	O
+5	šta	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	ali	_	_	_	_	_	_	_	_	O
+8	pošto	_	_	_	_	_	_	_	_	O
+9	su	_	_	_	_	_	_	_	_	O
+10	bili	_	_	_	_	_	_	_	_	O
+11	prijatelji	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	vojnik	_	_	_	_	_	_	_	_	O
+
+# newpar id = 130
+# sent_id = 130.1
+# text = nije mnogo pitao, a kasnije se ispostavilo da se pojavila jedna
+1	nije	_	_	_	_	_	_	_	_	O
+2	mnogo	_	_	_	_	_	_	_	_	O
+3	pitao	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	a	_	_	_	_	_	_	_	_	O
+6	kasnije	_	_	_	_	_	_	_	_	O
+7	se	_	_	_	_	_	_	_	_	O
+8	ispostavilo	_	_	_	_	_	_	_	_	O
+9	da	_	_	_	_	_	_	_	_	O
+10	se	_	_	_	_	_	_	_	_	O
+11	pojavila	_	_	_	_	_	_	_	_	O
+12	jedna	_	_	_	_	_	_	_	_	O
+
+# newpar id = 131
+# sent_id = 131.1
+# text = mrtva devojka i proneli su se glasovi da ju je usmrtio jedan
+1	mrtva	_	_	_	_	_	_	_	_	O
+2	devojka	_	_	_	_	_	_	_	_	O
+3	i	_	_	_	_	_	_	_	_	O
+4	proneli	_	_	_	_	_	_	_	_	O
+5	su	_	_	_	_	_	_	_	_	O
+6	se	_	_	_	_	_	_	_	_	O
+7	glasovi	_	_	_	_	_	_	_	_	O
+8	da	_	_	_	_	_	_	_	_	O
+9	ju	_	_	_	_	_	_	_	_	O
+10	je	_	_	_	_	_	_	_	_	O
+11	usmrtio	_	_	_	_	_	_	_	_	O
+12	jedan	_	_	_	_	_	_	_	_	O
+
+# newpar id = 132
+# sent_id = 132.1
+# text = vojnik i da je taj vojnik bio Žoze Žorž.
+1	vojnik	_	_	_	_	_	_	_	_	O
+2	i	_	_	_	_	_	_	_	_	O
+3	da	_	_	_	_	_	_	_	_	O
+4	je	_	_	_	_	_	_	_	_	O
+5	taj	_	_	_	_	_	_	_	_	O
+6	vojnik	_	_	_	_	_	_	_	_	O
+7	bio	_	_	_	_	_	_	_	_	O
+8	Žoze	_	_	_	_	_	_	_	_	O
+9	Žorž	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 132.2
+# text = Izgleda da je uniforma
+1	Izgleda	_	_	_	_	_	_	_	_	O
+2	da	_	_	_	_	_	_	_	_	O
+3	je	_	_	_	_	_	_	_	_	O
+4	uniforma	_	_	_	_	_	_	_	_	O
+
+# newpar id = 133
+# sent_id = 133.1
+# text = bila uprljana krvlju, Žoze Žorž nije uspevao da objasni, ili
+1	bila	_	_	_	_	_	_	_	_	O
+2	uprljana	_	_	_	_	_	_	_	_	O
+3	krvlju	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	Žoze	_	_	_	_	_	_	_	_	O
+6	Žorž	_	_	_	_	_	_	_	_	O
+7	nije	_	_	_	_	_	_	_	_	O
+8	uspevao	_	_	_	_	_	_	_	_	O
+9	da	_	_	_	_	_	_	_	_	O
+10	objasni	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	ili	_	_	_	_	_	_	_	_	O
+
+# newpar id = 134
+# sent_id = 134.1
+# text = nije hteo, zašto je pozajmio uniformu.
+1	nije	_	_	_	_	_	_	_	_	O
+2	hteo	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	zašto	_	_	_	_	_	_	_	_	O
+5	je	_	_	_	_	_	_	_	_	O
+6	pozajmio	_	_	_	_	_	_	_	_	O
+7	uniformu	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	.	.	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+
+# sent_id = 134.2
+# text = “ „Ali da je rekao da
+1	“	“	PUNCT	Z	_	_	_	_	_	O
+2	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+3	Ali	_	_	_	_	_	_	_	_	O
+4	da	_	_	_	_	_	_	_	_	O
+5	je	_	_	_	_	_	_	_	_	O
+6	rekao	_	_	_	_	_	_	_	_	O
+7	da	_	_	_	_	_	_	_	_	O
+
+# newpar id = 135
+# sent_id = 135.1
+# text = ju je pozajmio, spasao bi život“, reče putnik, koji se ponosio
+1	ju	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	pozajmio	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	spasao	_	_	_	_	_	_	_	_	O
+6	bi	_	_	_	_	_	_	_	_	O
+7	život	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	reče	_	_	_	_	_	_	_	_	O
+11	putnik	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	koji	_	_	_	_	_	_	_	_	O
+14	se	_	_	_	_	_	_	_	_	O
+15	ponosio	_	_	_	_	_	_	_	_	O
+
+# newpar id = 136
+# sent_id = 136.1
+# text = svojim smislom za logičko razmišljanje.
+1	svojim	_	_	_	_	_	_	_	_	O
+2	smislom	_	_	_	_	_	_	_	_	O
+3	za	_	_	_	_	_	_	_	_	O
+4	logičko	_	_	_	_	_	_	_	_	O
+5	razmišljanje	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 136.2
+# text = Pogrebnik odgovori:
+1	Pogrebnik	_	_	_	_	_	_	_	_	O
+2	odgovori	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	:	:	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 137
+# sent_id = 137.1
+# text = „To ne znam.
+1	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+2	To	_	_	_	_	_	_	_	_	O
+3	ne	_	_	_	_	_	_	_	_	O
+4	znam	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 137.2
+# text = Samo znam ono što su mi ispričali, to je priča
+1	Samo	_	_	_	_	_	_	_	_	O
+2	znam	_	_	_	_	_	_	_	_	O
+3	ono	_	_	_	_	_	_	_	_	O
+4	što	_	_	_	_	_	_	_	_	O
+5	su	_	_	_	_	_	_	_	_	O
+6	mi	_	_	_	_	_	_	_	_	O
+7	ispričali	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	to	_	_	_	_	_	_	_	_	O
+10	je	_	_	_	_	_	_	_	_	O
+11	priča	_	_	_	_	_	_	_	_	O
+
+# newpar id = 138
+# sent_id = 138.1
+# text = koju sam čuo još od moga dede, i on od svog dede.
+1	koju	_	_	_	_	_	_	_	_	O
+2	sam	_	_	_	_	_	_	_	_	O
+3	čuo	_	_	_	_	_	_	_	_	O
+4	još	_	_	_	_	_	_	_	_	O
+5	od	_	_	_	_	_	_	_	_	O
+6	moga	_	_	_	_	_	_	_	_	O
+7	dede	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	i	_	_	_	_	_	_	_	_	O
+10	on	_	_	_	_	_	_	_	_	O
+11	od	_	_	_	_	_	_	_	_	O
+12	svog	_	_	_	_	_	_	_	_	O
+13	dede	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 138.2
+# text = Ućutao
+1	Ućutao	_	_	_	_	_	_	_	_	O
+
+# newpar id = 139
+# sent_id = 139.1
+# text = je Žoze Žorž, prijatelj se nije pojavio, loš je to bio prijatelj, i
+1	je	_	_	_	_	_	_	_	_	O
+2	Žoze	_	_	_	_	_	_	_	_	O
+3	Žorž	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	prijatelj	_	_	_	_	_	_	_	_	O
+6	se	_	_	_	_	_	_	_	_	O
+7	nije	_	_	_	_	_	_	_	_	O
+8	pojavio	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	loš	_	_	_	_	_	_	_	_	O
+11	je	_	_	_	_	_	_	_	_	O
+12	to	_	_	_	_	_	_	_	_	O
+13	bio	_	_	_	_	_	_	_	_	O
+14	prijatelj	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	,	,	PUNCT	Z	_	_	_	_	_	O
+16	i	_	_	_	_	_	_	_	_	O
+
+# newpar id = 140
+# sent_id = 140.1
+# text = Žozea Žorža su obesili i zatim sahranili na ovom mestu.
+1	Žozea	_	_	_	_	_	_	_	_	O
+2	Žorža	_	_	_	_	_	_	_	_	O
+3	su	_	_	_	_	_	_	_	_	O
+4	obesili	_	_	_	_	_	_	_	_	O
+5	i	_	_	_	_	_	_	_	_	O
+6	zatim	_	_	_	_	_	_	_	_	O
+7	sahranili	_	_	_	_	_	_	_	_	O
+8	na	_	_	_	_	_	_	_	_	O
+9	ovom	_	_	_	_	_	_	_	_	O
+10	mestu	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 140.2
+# text = Pre
+1	Pre	_	_	_	_	_	_	_	_	O
+
+# newpar id = 141
+# sent_id = 141.1
+# text = mnogo godina odlučiše da mu podignu mauzolej, ali naiđo-
+1	mnogo	_	_	_	_	_	_	_	_	O
+2	godina	_	_	_	_	_	_	_	_	O
+3	odlučiše	_	_	_	_	_	_	_	_	O
+4	da	_	_	_	_	_	_	_	_	O
+5	mu	_	_	_	_	_	_	_	_	O
+6	podignu	_	_	_	_	_	_	_	_	O
+7	mauzolej	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	ali	_	_	_	_	_	_	_	_	O
+10	naiđo	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	-	-	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 142
+# sent_id = 142.1
+# text = še na njegovo telo u netaknutom stanju, ponovo zapečatiše
+1	še	_	_	_	_	_	_	_	_	O
+2	na	_	_	_	_	_	_	_	_	O
+3	njegovo	_	_	_	_	_	_	_	_	O
+4	telo	_	_	_	_	_	_	_	_	O
+5	u	_	_	_	_	_	_	_	_	O
+6	netaknutom	_	_	_	_	_	_	_	_	O
+7	stanju	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	ponovo	_	_	_	_	_	_	_	_	O
+10	zapečatiše	_	_	_	_	_	_	_	_	O
+
+# newpar id = 143
+# sent_id = 143.1
+# text = sanduk i nikada ga više ne dirnuše.
+1	sanduk	_	_	_	_	_	_	_	_	O
+2	i	_	_	_	_	_	_	_	_	O
+3	nikada	_	_	_	_	_	_	_	_	O
+4	ga	_	_	_	_	_	_	_	_	O
+5	više	_	_	_	_	_	_	_	_	O
+6	ne	_	_	_	_	_	_	_	_	O
+7	dirnuše	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	.	.	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+
+# sent_id = 143.2
+# text = “ Putnik  zapita: „A ko
+1	“	“	PUNCT	Z	_	_	_	_	_	O
+2	Putnik	_	_	_	_	_	_	_	_	O
+3	zapita	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	:	:	PUNCT	Z	_	_	_	_	_	O
+5	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+6	A	_	_	_	_	_	_	_	_	O
+7	ko	_	_	_	_	_	_	_	_	O
+
+# newpar id = 144
+# sent_id = 144.1
+# text = mu to onda stalno kleše ona tako lepo ukrašena slova?
+1	mu	_	_	_	_	_	_	_	_	O
+2	to	_	_	_	_	_	_	_	_	O
+3	onda	_	_	_	_	_	_	_	_	O
+4	stalno	_	_	_	_	_	_	_	_	O
+5	kleše	_	_	_	_	_	_	_	_	O
+6	ona	_	_	_	_	_	_	_	_	O
+7	tako	_	_	_	_	_	_	_	_	O
+8	lepo	_	_	_	_	_	_	_	_	O
+9	ukrašena	_	_	_	_	_	_	_	_	O
+10	slova	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	?	?	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+
+# sent_id = 144.2
+# text = “ „To
+1	“	“	PUNCT	Z	_	_	_	_	_	O
+2	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+3	To	_	_	_	_	_	_	_	_	O
+
+# newpar id = 145
+# sent_id = 145.1
+# text = radim ja“, odgovori pogrebnik.
+1	radim	_	_	_	_	_	_	_	_	O
+2	ja	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	odgovori	_	_	_	_	_	_	_	_	O
+6	pogrebnik	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 146
+# sent_id = 146.1
+# text = Putnik  zahvali  na  obaveštenju  i  nastavi  svojim  putem.
+1	Putnik	_	_	_	_	_	_	_	_	O
+2	zahvali	_	_	_	_	_	_	_	_	O
+3	na	_	_	_	_	_	_	_	_	O
+4	obaveštenju	_	_	_	_	_	_	_	_	O
+5	i	_	_	_	_	_	_	_	_	O
+6	nastavi	_	_	_	_	_	_	_	_	O
+7	svojim	_	_	_	_	_	_	_	_	O
+8	putem	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 147
+# sent_id = 147.1
+# text = Ponovo je počela da pada kiša.
+1	Ponovo	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	počela	_	_	_	_	_	_	_	_	O
+4	da	_	_	_	_	_	_	_	_	O
+5	pada	_	_	_	_	_	_	_	_	O
+6	kiša	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 147.2
+# text = Zaustavio se još jednom na
+1	Zaustavio	_	_	_	_	_	_	_	_	O
+2	se	_	_	_	_	_	_	_	_	O
+3	još	_	_	_	_	_	_	_	_	O
+4	jednom	_	_	_	_	_	_	_	_	O
+5	na	_	_	_	_	_	_	_	_	O
+
+# newpar id = 148
+# sent_id = 148.1
+# text = tren uz ivicu vojnikove ograde, pomišljajući: „Zbog čega se
+1	tren	_	_	_	_	_	_	_	_	O
+2	uz	_	_	_	_	_	_	_	_	O
+3	ivicu	_	_	_	_	_	_	_	_	O
+4	vojnikove	_	_	_	_	_	_	_	_	O
+5	ograde	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	pomišljajući	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	:	:	PUNCT	Z	_	_	_	_	_	O
+9	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+10	Zbog	_	_	_	_	_	_	_	_	O
+11	čega	_	_	_	_	_	_	_	_	O
+12	se	_	_	_	_	_	_	_	_	O
+
+# newpar id = 149
+# sent_id = 149.1
+# text = ovaj čovek rodio?
+1	ovaj	_	_	_	_	_	_	_	_	O
+2	čovek	_	_	_	_	_	_	_	_	O
+3	rodio	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	?	?	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 149.2
+# text = Koji je razlog zbog kojeg je umro?
+1	Koji	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	razlog	_	_	_	_	_	_	_	_	O
+4	zbog	_	_	_	_	_	_	_	_	O
+5	kojeg	_	_	_	_	_	_	_	_	O
+6	je	_	_	_	_	_	_	_	_	O
+7	umro	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	?	?	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+
+# sent_id = 149.3
+# text = “ Putni-
+1	“	“	PUNCT	Z	_	_	_	_	_	O
+2	Putni	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	-	-	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 150
+# sent_id = 150.1
+# text = ka uvek opsedaju ovakva pitanja bez odgovora.
+1	ka	_	_	_	_	_	_	_	_	O
+2	uvek	_	_	_	_	_	_	_	_	O
+3	opsedaju	_	_	_	_	_	_	_	_	O
+4	ovakva	_	_	_	_	_	_	_	_	O
+5	pitanja	_	_	_	_	_	_	_	_	O
+6	bez	_	_	_	_	_	_	_	_	O
+7	odgovora	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 150.2
+# text = Zatim, zbu-
+1	Zatim	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	zbu	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	-	-	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 151
+# sent_id = 151.1
+# text = njeno, misli kako bi možda voleo da je poznavao vojnika, i
+1	njeno	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	misli	_	_	_	_	_	_	_	_	O
+4	kako	_	_	_	_	_	_	_	_	O
+5	bi	_	_	_	_	_	_	_	_	O
+6	možda	_	_	_	_	_	_	_	_	O
+7	voleo	_	_	_	_	_	_	_	_	O
+8	da	_	_	_	_	_	_	_	_	O
+9	je	_	_	_	_	_	_	_	_	O
+10	poznavao	_	_	_	_	_	_	_	_	O
+11	vojnika	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	i	_	_	_	_	_	_	_	_	O
+
+# newpar id = 152
+# sent_id = 152.1
+# text = na  kraju  priznaje  da  ima  čudesnih  i  drugih  oblika  pravde,
+1	na	_	_	_	_	_	_	_	_	O
+2	kraju	_	_	_	_	_	_	_	_	O
+3	priznaje	_	_	_	_	_	_	_	_	O
+4	da	_	_	_	_	_	_	_	_	O
+5	ima	_	_	_	_	_	_	_	_	O
+6	čudesnih	_	_	_	_	_	_	_	_	O
+7	i	_	_	_	_	_	_	_	_	O
+8	drugih	_	_	_	_	_	_	_	_	O
+9	oblika	_	_	_	_	_	_	_	_	O
+10	pravde	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 153
+# sent_id = 153.1
+# text = makar i posmrtnih i beskorisnih, poput ove o telu koje se
+1	makar	_	_	_	_	_	_	_	_	O
+2	i	_	_	_	_	_	_	_	_	O
+3	posmrtnih	_	_	_	_	_	_	_	_	O
+4	i	_	_	_	_	_	_	_	_	O
+5	beskorisnih	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	poput	_	_	_	_	_	_	_	_	O
+8	ove	_	_	_	_	_	_	_	_	O
+9	o	_	_	_	_	_	_	_	_	O
+10	telu	_	_	_	_	_	_	_	_	O
+11	koje	_	_	_	_	_	_	_	_	O
+12	se	_	_	_	_	_	_	_	_	O
+
+# newpar id = 154
+# sent_id = 154.1
+# text = pokazalo netaknuto sto četrdeset godina posle smrti.
+1	pokazalo	_	_	_	_	_	_	_	_	O
+2	netaknuto	_	_	_	_	_	_	_	_	O
+3	sto	_	_	_	_	_	_	_	_	O
+4	četrdeset	_	_	_	_	_	_	_	_	O
+5	godina	_	_	_	_	_	_	_	_	O
+6	posle	_	_	_	_	_	_	_	_	O
+7	smrti	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 155
+# sent_id = 155.1
+# text = Putnik odlazi sa groblja čvrsto stežući kišobran u ruci i
+1	Putnik	_	_	_	_	_	_	_	_	O
+2	odlazi	_	_	_	_	_	_	_	_	O
+3	sa	_	_	_	_	_	_	_	_	O
+4	groblja	_	_	_	_	_	_	_	_	O
+5	čvrsto	_	_	_	_	_	_	_	_	O
+6	stežući	_	_	_	_	_	_	_	_	O
+7	kišobran	_	_	_	_	_	_	_	_	O
+8	u	_	_	_	_	_	_	_	_	O
+9	ruci	_	_	_	_	_	_	_	_	O
+10	i	_	_	_	_	_	_	_	_	O
+
+# newpar id = 156
+# sent_id = 156.1
+# text = spušta  se  ka  centru  grada,  razmišljajući  gde  su  mogla  biti
+1	spušta	_	_	_	_	_	_	_	_	O
+2	se	_	_	_	_	_	_	_	_	O
+3	ka	_	_	_	_	_	_	_	_	O
+4	centru	_	_	_	_	_	_	_	_	O
+5	grada	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	razmišljajući	_	_	_	_	_	_	_	_	O
+8	gde	_	_	_	_	_	_	_	_	O
+9	su	_	_	_	_	_	_	_	_	O
+10	mogla	_	_	_	_	_	_	_	_	O
+11	biti	_	_	_	_	_	_	_	_	O
+
+# newpar id = 157
+# sent_id = 157.1
+# text = postavljena vešala, da li ovde na glavnom trgu, da li unutar
+1	postavljena	_	_	_	_	_	_	_	_	O
+2	vešala	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	da	_	_	_	_	_	_	_	_	O
+5	li	_	_	_	_	_	_	_	_	O
+6	ovde	_	_	_	_	_	_	_	_	O
+7	na	_	_	_	_	_	_	_	_	O
+8	glavnom	_	_	_	_	_	_	_	_	O
+9	trgu	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	da	_	_	_	_	_	_	_	_	O
+12	li	_	_	_	_	_	_	_	_	O
+13	unutar	_	_	_	_	_	_	_	_	O
+
+# newpar id = 158
+# sent_id = 158.1
+# text = zidina tvrđave, da li na ovim zabačenim ledinama, i zamišlja-
+1	zidina	_	_	_	_	_	_	_	_	O
+2	tvrđave	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	da	_	_	_	_	_	_	_	_	O
+5	li	_	_	_	_	_	_	_	_	O
+6	na	_	_	_	_	_	_	_	_	O
+7	ovim	_	_	_	_	_	_	_	_	O
+8	zabačenim	_	_	_	_	_	_	_	_	O
+9	ledinama	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	i	_	_	_	_	_	_	_	_	O
+12	zamišlja	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	-	-	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 159
+# sent_id = 159.1
+# text = jući ceremoniju pogubljenja, bubnjeve koji tutnje, jadnika
+1	jući	_	_	_	_	_	_	_	_	O
+2	ceremoniju	_	_	_	_	_	_	_	_	O
+3	pogubljenja	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	bubnjeve	_	_	_	_	_	_	_	_	O
+6	koji	_	_	_	_	_	_	_	_	O
+7	tutnje	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	jadnika	_	_	_	_	_	_	_	_	O
+
+# newpar id = 160
+# sent_id = 160.1
+# text = vezanih  ruku  i  pognute  glave,  dok  u  Rio  de  Onoru  jedna
+1	vezanih	_	_	_	_	_	_	_	_	O
+2	ruku	_	_	_	_	_	_	_	_	O
+3	i	_	_	_	_	_	_	_	_	O
+4	pognute	_	_	_	_	_	_	_	_	O
+5	glave	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	dok	_	_	_	_	_	_	_	_	O
+8	u	_	_	_	_	_	_	_	_	O
+9	Rio	_	_	_	_	_	_	_	_	O
+10	de	_	_	_	_	_	_	_	_	O
+11	Onoru	_	_	_	_	_	_	_	_	O
+12	jedna	_	_	_	_	_	_	_	_	O
+
+# newpar id = 161
+# sent_id = 161.1
+# text = žena upravo rađa dete, a u crkvi u Sakojašu sveštenik krsti
+1	žena	_	_	_	_	_	_	_	_	O
+2	upravo	_	_	_	_	_	_	_	_	O
+3	rađa	_	_	_	_	_	_	_	_	O
+4	dete	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	a	_	_	_	_	_	_	_	_	O
+7	u	_	_	_	_	_	_	_	_	O
+8	crkvi	_	_	_	_	_	_	_	_	O
+9	u	_	_	_	_	_	_	_	_	O
+10	Sakojašu	_	_	_	_	_	_	_	_	O
+11	sveštenik	_	_	_	_	_	_	_	_	O
+12	krsti	_	_	_	_	_	_	_	_	O
+
+# newpar id = 162
+# sent_id = 162.1
+# text = drugo.
+1	drugo	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 162.2
+# text = Uveče je putnik otišao da poseti neke prijatelje i ostao do
+1	Uveče	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	putnik	_	_	_	_	_	_	_	_	O
+4	otišao	_	_	_	_	_	_	_	_	O
+5	da	_	_	_	_	_	_	_	_	O
+6	poseti	_	_	_	_	_	_	_	_	O
+7	neke	_	_	_	_	_	_	_	_	O
+8	prijatelje	_	_	_	_	_	_	_	_	O
+9	i	_	_	_	_	_	_	_	_	O
+10	ostao	_	_	_	_	_	_	_	_	O
+11	do	_	_	_	_	_	_	_	_	O
+
+# newpar id = 163
+# sent_id = 163.1
+# text = kasno u noć.
+1	kasno	_	_	_	_	_	_	_	_	O
+2	u	_	_	_	_	_	_	_	_	O
+3	noć	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 163.2
+# text = Kada je izašao, zalutao je i našao se na putu za
+1	Kada	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	izašao	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	zalutao	_	_	_	_	_	_	_	_	O
+6	je	_	_	_	_	_	_	_	_	O
+7	i	_	_	_	_	_	_	_	_	O
+8	našao	_	_	_	_	_	_	_	_	O
+9	se	_	_	_	_	_	_	_	_	O
+10	na	_	_	_	_	_	_	_	_	O
+11	putu	_	_	_	_	_	_	_	_	O
+12	za	_	_	_	_	_	_	_	_	O
+
+# newpar id = 164
+# sent_id = 164.1
+# text = Šaveš.
+1	Šaveš	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 164.2
+# text = I dalje je padala kiša.
+1	I	_	_	_	_	_	_	_	_	O
+2	dalje	_	_	_	_	_	_	_	_	O
+3	je	_	_	_	_	_	_	_	_	O
+4	padala	_	_	_	_	_	_	_	_	O
+5	kiša	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	.	.	PUNCT	Z	_	_	_	_	_	O
+

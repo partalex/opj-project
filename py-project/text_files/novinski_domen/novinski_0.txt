@@ -1,0 +1,8 @@
+#name = teodora
+#domen = novinski
+#url = https://www.blic.rs/vesti/hronika/pronadjeno-telo-utopljene-srpkinje-kod-lustica-isplivalo-u-hrvatskoj/60dgk4m
+#text = Telo Srpkinje koja se juče utopila na Novskoj rivijeri kod Luštice pronađeno je danas oko 13 časova u 
+hrvatskim vodama između Prevlake i Cavtata. Prema nezvaničnim saznanjima telo je trenutno u Cavtatu. 
+Jake struje odvukle su telo u hrvatske vode, iako su spasioci u Crnoj Gori juče posla podne uočili da pluta na površini mora, 
+zbog velikih talasa nisu mogli da priđu. M. M. iz Vrnjačke Banje utopila se juče oko 15 časova kod rta Veslo na Luštici u Crnoj Gori, 
+dok se na jednoj od stena fotografisala sa prijateljicom.

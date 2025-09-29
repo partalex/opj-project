@@ -1,0 +1,6 @@
+#name = milena
+#domen = novinski
+#url = https://www.politika.rs/scc/clanak/699692/uhapsen-u-slavonskom-brodu-ubio-bivseg-narodnog-poslanika-hdz-a
+#text = SLAVONSKI BROD – Policija Brodsko-posavske županije saopštila je da je pronašla i uhapsila muškarca koji je danas oko 18 sati u Šušnjevcima ubio bivšeg narodnog poslanika iz HDZ-a, Zorana Grgića.
+Kako je ranije objavljeno, do pucnjave je došlo na području hrvatske opštine Garčin, preneo je Indeks.
+Policija Brodsko-posavske županije je saopštila da je muškarac koji je ranjen u pucnjavi preminuo uprkos pokušajima reanimacije, a da je napadač bio u bekstvu, prenosi Tanjug.

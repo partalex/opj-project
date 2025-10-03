@@ -1,0 +1,5 @@
+#name = marija
+#domen = tviter
+#url = https://x.com/Kevin_Loumaks/status/1911058266005659818
+#text = Žene mogu bez ikakvih problema da učestvuju na turnirima zajedno sa muškarcima. Teoretski, Teodora Injac može da se kvalifikuje i potom pobedi na turniru izazivača i da igra sa Gukešom Domaradžuom za titulu prvaka sveta.
+I šahovska Olimpijada se igra kao Open turnir, samo je čisto ženska konkurencija odvojena. Što Indijcima/kama ne predstavlja problem, kad su već najbolji u 3/4 glavne kategorije. Samo im dve Kineskinje kvare račun. Domaću šahovsku renesansu stvarno ne mogu da objasnim.

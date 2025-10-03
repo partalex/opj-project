@@ -1,0 +1,4 @@
+#name = teodora
+#domen = tviter
+#url = https://x.com/MilaNS__/status/1973797508909556207
+#text = On je kidnapovan u najgorim mukama, gledajući silovanja devojaka i žena do smrti. Poreklom je iz Novog Sada, ali to ovde u Srbiji malo koga zanima. Nisu političari i aktivisti pisali mail Hamasu sa naslovom: Hitna zaštita i oslobađanje Alona Ohela.

@@ -1,0 +1,4 @@
+#name = marija
+#domen = tviter
+#url = https://x.com/Robertdreco/status/1969831611429699707
+#text = Na današnji dan 1973. - Jugoslavija je prekinula diplomatske odnose sa Čileom, deset dana posle puča generala Augusta Pinočea, u kojem je ubijen predsednik Salvador Aljende.

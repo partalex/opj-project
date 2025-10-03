@@ -1,0 +1,4 @@
+#name = teodora
+#domen = tviter
+#url = https://x.com/AmmarMesic/status/1973327469936554424
+#text = Otišao sam u Strazbur u Evropski parlament po dodatne informacije kako rušiti Srbiju. Jer je opšte poznato da sam ja strani plaćenik koji živi u Hrvatskoj i dobijam preko 20.000€ u kešu od Đikija i Šolaka.  Šalu na stranu, Srbiji jeste mesto u EU.   Možete da je ne volite ali zašto onda ne idete u Rusiju da radite nego svi trčite u Evropu…

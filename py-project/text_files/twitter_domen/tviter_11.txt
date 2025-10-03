@@ -1,0 +1,4 @@
+#name = marija
+#domen = tviter
+#url = https://x.com/Robertdreco/status/1966036164525097021
+#text = Na današnji dan 1950. - U Dubrovniku (FNRJ) je zatvorena 9. šahovska olimpijada. Zlatnu medalju osvojila je ekipa domaćina — Jugoslavija, srebro je osvojila Argentina, dok je bronzano odličje pripalo reprezentativcima Zapadne Nemačke. Inače, to je bilo prvo sportsko takmičenje na kojem se pojavila reprezentacija Zapadne Nemačke.

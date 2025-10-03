@@ -1,0 +1,4 @@
+#name = marija
+#domen = tviter
+#url = https://x.com/Robertdreco/status/1968933637841113107
+#text = Na današnji dan 1985. - U glavnom gradu Meksika Sijudad Meksiku i okolini u zemljotresu poginulo oko 12.000, a povređeno oko 40.000 ljudi.

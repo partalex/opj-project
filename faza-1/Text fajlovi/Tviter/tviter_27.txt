@@ -1,0 +1,8 @@
+#name = marija
+#domen = tviter
+#url = https://x.com/BigBadWolfWolfy/status/1951693815904903553
+#text = Ivana Španović šampionka Srbije u troskoku! (ok, to ste možda i znali)
+
+Ono što niste: sa 35 godina, Ivana je skočila 14.43m i za skoro 20cm popravila lični rekord u troskoku!
+
+Čekamo Tokio! Bravo Ivana! 

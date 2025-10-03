@@ -1,0 +1,362 @@
+#name = marija
+#domen = tviter
+#url = https://x.com/Robertdreco/status/1970041121024647571
+# newpar id = 1
+# sent_id = 1.1
+# text = Na današnji dan 1994. - Počelo je emitovanje američke TV serije "Prijatelji".
+1	Na	_	_	_	_	_	_	_	_	O
+2	današnji	_	_	_	_	_	_	_	_	O
+3	dan	_	_	_	_	_	_	_	_	O
+4	1994.	_	_	_	_	_	_	_	_	O
+5	-	-	PUNCT	Z	_	_	_	_	_	O
+6	Počelo	_	_	_	_	_	_	_	_	O
+7	je	_	_	_	_	_	_	_	_	O
+8	emitovanje	_	_	_	_	_	_	_	_	O
+9	američke	_	_	_	_	_	_	_	_	O
+10	TV	_	_	_	_	_	_	_	_	O
+11	serije	_	_	_	_	_	_	_	_	O
+12	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+13	Prijatelji	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+15	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 2
+# sent_id = 2.1
+# text = Prijatelji (engl.
+1	Prijatelji	_	_	_	_	_	_	_	_	O
+2	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+3	engl	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.2
+# text = Friends) američki je televizijski sitkom, koji su kreirali Dejvid Krejn i Marta Kaufman, a koji je prvobitno emitovan na NBC od  22. sep 1994. do 6. maja 2004.  u trajanju od 10 sezona sa ansamblom koji su činili Dženifer Aniston, Kortni Koks, Lisa Kudrou, Met Leblank, Metju Peri i Dejvid Švimer, emisija govori o životu 6 osoba  koji žive na Menhetnu.
+1	Friends	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	)	)	PUNCT	Z	_	_	_	_	_	O
+3	američki	_	_	_	_	_	_	_	_	O
+4	je	_	_	_	_	_	_	_	_	O
+5	televizijski	_	_	_	_	_	_	_	_	O
+6	sitkom	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	koji	_	_	_	_	_	_	_	_	O
+9	su	_	_	_	_	_	_	_	_	O
+10	kreirali	_	_	_	_	_	_	_	_	O
+11	Dejvid	_	_	_	_	_	_	_	_	O
+12	Krejn	_	_	_	_	_	_	_	_	O
+13	i	_	_	_	_	_	_	_	_	O
+14	Marta	_	_	_	_	_	_	_	_	O
+15	Kaufman	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	,	,	PUNCT	Z	_	_	_	_	_	O
+17	a	_	_	_	_	_	_	_	_	O
+18	koji	_	_	_	_	_	_	_	_	O
+19	je	_	_	_	_	_	_	_	_	O
+20	prvobitno	_	_	_	_	_	_	_	_	O
+21	emitovan	_	_	_	_	_	_	_	_	O
+22	na	_	_	_	_	_	_	_	_	O
+23	NBC	_	_	_	_	_	_	_	_	O
+24	od	_	_	_	_	_	_	_	_	O
+25	22.	_	_	_	_	_	_	_	_	O
+26	sep	_	_	_	_	_	_	_	_	O
+27	1994.	_	_	_	_	_	_	_	_	O
+28	do	_	_	_	_	_	_	_	_	O
+29	6.	_	_	_	_	_	_	_	_	O
+30	maja	_	_	_	_	_	_	_	_	O
+31	2004.	_	_	_	_	_	_	_	_	O
+32	u	_	_	_	_	_	_	_	_	O
+33	trajanju	_	_	_	_	_	_	_	_	O
+34	od	_	_	_	_	_	_	_	_	O
+35	10	_	_	_	_	_	_	_	_	O
+36	sezona	_	_	_	_	_	_	_	_	O
+37	sa	_	_	_	_	_	_	_	_	O
+38	ansamblom	_	_	_	_	_	_	_	_	O
+39	koji	_	_	_	_	_	_	_	_	O
+40	su	_	_	_	_	_	_	_	_	O
+41	činili	_	_	_	_	_	_	_	_	O
+42	Dženifer	_	_	_	_	_	_	_	_	O
+43	Aniston	_	_	_	_	_	_	_	SpaceAfter=No	O
+44	,	,	PUNCT	Z	_	_	_	_	_	O
+45	Kortni	_	_	_	_	_	_	_	_	O
+46	Koks	_	_	_	_	_	_	_	SpaceAfter=No	O
+47	,	,	PUNCT	Z	_	_	_	_	_	O
+48	Lisa	_	_	_	_	_	_	_	_	O
+49	Kudrou	_	_	_	_	_	_	_	SpaceAfter=No	O
+50	,	,	PUNCT	Z	_	_	_	_	_	O
+51	Met	_	_	_	_	_	_	_	_	O
+52	Leblank	_	_	_	_	_	_	_	SpaceAfter=No	O
+53	,	,	PUNCT	Z	_	_	_	_	_	O
+54	Metju	_	_	_	_	_	_	_	_	O
+55	Peri	_	_	_	_	_	_	_	_	O
+56	i	_	_	_	_	_	_	_	_	O
+57	Dejvid	_	_	_	_	_	_	_	_	O
+58	Švimer	_	_	_	_	_	_	_	SpaceAfter=No	O
+59	,	,	PUNCT	Z	_	_	_	_	_	O
+60	emisija	_	_	_	_	_	_	_	_	O
+61	govori	_	_	_	_	_	_	_	_	O
+62	o	_	_	_	_	_	_	_	_	O
+63	životu	_	_	_	_	_	_	_	_	O
+64	6	_	_	_	_	_	_	_	_	O
+65	osoba	_	_	_	_	_	_	_	_	O
+66	koji	_	_	_	_	_	_	_	_	O
+67	žive	_	_	_	_	_	_	_	_	O
+68	na	_	_	_	_	_	_	_	_	O
+69	Menhetnu	_	_	_	_	_	_	_	SpaceAfter=No	O
+70	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 3
+# sent_id = 3.1
+# text = Prijatelji su prva serija u kojoj su sva  6 lika glavni glumci, svi su podjednako zastupljeni i isto plaćeni.
+1	Prijatelji	_	_	_	_	_	_	_	_	O
+2	su	_	_	_	_	_	_	_	_	O
+3	prva	_	_	_	_	_	_	_	_	O
+4	serija	_	_	_	_	_	_	_	_	O
+5	u	_	_	_	_	_	_	_	_	O
+6	kojoj	_	_	_	_	_	_	_	_	O
+7	su	_	_	_	_	_	_	_	_	O
+8	sva	_	_	_	_	_	_	_	_	O
+9	6	_	_	_	_	_	_	_	_	O
+10	lika	_	_	_	_	_	_	_	_	O
+11	glavni	_	_	_	_	_	_	_	_	O
+12	glumci	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+14	svi	_	_	_	_	_	_	_	_	O
+15	su	_	_	_	_	_	_	_	_	O
+16	podjednako	_	_	_	_	_	_	_	_	O
+17	zastupljeni	_	_	_	_	_	_	_	_	O
+18	i	_	_	_	_	_	_	_	_	O
+19	isto	_	_	_	_	_	_	_	_	O
+20	plaćeni	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 3.2
+# text = Kaufman i Kejn su započeli razvoj Prijatelja pod nazivom Kafe Insomnija između novembra i decembra 1993. godine.
+1	Kaufman	_	_	_	_	_	_	_	_	O
+2	i	_	_	_	_	_	_	_	_	O
+3	Kejn	_	_	_	_	_	_	_	_	O
+4	su	_	_	_	_	_	_	_	_	O
+5	započeli	_	_	_	_	_	_	_	_	O
+6	razvoj	_	_	_	_	_	_	_	_	O
+7	Prijatelja	_	_	_	_	_	_	_	_	O
+8	pod	_	_	_	_	_	_	_	_	O
+9	nazivom	_	_	_	_	_	_	_	_	O
+10	Kafe	_	_	_	_	_	_	_	_	O
+11	Insomnija	_	_	_	_	_	_	_	_	O
+12	između	_	_	_	_	_	_	_	_	O
+13	novembra	_	_	_	_	_	_	_	_	O
+14	i	_	_	_	_	_	_	_	_	O
+15	decembra	_	_	_	_	_	_	_	_	O
+16	1993.	_	_	_	_	_	_	_	_	O
+17	godine	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 3.3
+# text = Oni su predstavili ideju Brajtu i zajedno su predali odbradu serije na sedam strana NBC.
+1	Oni	_	_	_	_	_	_	_	_	O
+2	su	_	_	_	_	_	_	_	_	O
+3	predstavili	_	_	_	_	_	_	_	_	O
+4	ideju	_	_	_	_	_	_	_	_	O
+5	Brajtu	_	_	_	_	_	_	_	_	O
+6	i	_	_	_	_	_	_	_	_	O
+7	zajedno	_	_	_	_	_	_	_	_	O
+8	su	_	_	_	_	_	_	_	_	O
+9	predali	_	_	_	_	_	_	_	_	O
+10	odbradu	_	_	_	_	_	_	_	_	O
+11	serije	_	_	_	_	_	_	_	_	O
+12	na	_	_	_	_	_	_	_	_	O
+13	sedam	_	_	_	_	_	_	_	_	O
+14	strana	_	_	_	_	_	_	_	_	O
+15	NBC	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 3.4
+# text = Nakon što je nekoliko scenarija preinačeno, uključujući i promenu naslova u Šest u jednom, i Prijatelji poput nas, serija je na kraju dobija naziv Prijatelji.
+1	Nakon	_	_	_	_	_	_	_	_	O
+2	što	_	_	_	_	_	_	_	_	O
+3	je	_	_	_	_	_	_	_	_	O
+4	nekoliko	_	_	_	_	_	_	_	_	O
+5	scenarija	_	_	_	_	_	_	_	_	O
+6	preinačeno	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	uključujući	_	_	_	_	_	_	_	_	O
+9	i	_	_	_	_	_	_	_	_	O
+10	promenu	_	_	_	_	_	_	_	_	O
+11	naslova	_	_	_	_	_	_	_	_	O
+12	u	_	_	_	_	_	_	_	_	O
+13	Šest	_	_	_	_	_	_	_	_	O
+14	u	_	_	_	_	_	_	_	_	O
+15	jednom	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	,	,	PUNCT	Z	_	_	_	_	_	O
+17	i	_	_	_	_	_	_	_	_	O
+18	Prijatelji	_	_	_	_	_	_	_	_	O
+19	poput	_	_	_	_	_	_	_	_	O
+20	nas	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	,	,	PUNCT	Z	_	_	_	_	_	O
+22	serija	_	_	_	_	_	_	_	_	O
+23	je	_	_	_	_	_	_	_	_	O
+24	na	_	_	_	_	_	_	_	_	O
+25	kraju	_	_	_	_	_	_	_	_	O
+26	dobija	_	_	_	_	_	_	_	_	O
+27	naziv	_	_	_	_	_	_	_	_	O
+28	Prijatelji	_	_	_	_	_	_	_	SpaceAfter=No	O
+29	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 4
+# sent_id = 4.1
+# text = Snimanje serije je održano u studiju Vorner brosa u Berbanku u Kaliforniji.
+1	Snimanje	_	_	_	_	_	_	_	_	O
+2	serije	_	_	_	_	_	_	_	_	O
+3	je	_	_	_	_	_	_	_	_	O
+4	održano	_	_	_	_	_	_	_	_	O
+5	u	_	_	_	_	_	_	_	_	O
+6	studiju	_	_	_	_	_	_	_	_	O
+7	Vorner	_	_	_	_	_	_	_	_	O
+8	brosa	_	_	_	_	_	_	_	_	O
+9	u	_	_	_	_	_	_	_	_	O
+10	Berbanku	_	_	_	_	_	_	_	_	O
+11	u	_	_	_	_	_	_	_	_	O
+12	Kaliforniji	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 4.2
+# text = Svih 10 sezona Prijatelja našlo se među prvih 10 finalskih televizijskih sezona; na kraju su postigle prvo mesto u 8 sezoni.
+1	Svih	_	_	_	_	_	_	_	_	O
+2	10	_	_	_	_	_	_	_	_	O
+3	sezona	_	_	_	_	_	_	_	_	O
+4	Prijatelja	_	_	_	_	_	_	_	_	O
+5	našlo	_	_	_	_	_	_	_	_	O
+6	se	_	_	_	_	_	_	_	_	O
+7	među	_	_	_	_	_	_	_	_	O
+8	prvih	_	_	_	_	_	_	_	_	O
+9	10	_	_	_	_	_	_	_	_	O
+10	finalskih	_	_	_	_	_	_	_	_	O
+11	televizijskih	_	_	_	_	_	_	_	_	O
+12	sezona	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	;	;	PUNCT	Z	_	_	_	_	_	O
+14	na	_	_	_	_	_	_	_	_	O
+15	kraju	_	_	_	_	_	_	_	_	O
+16	su	_	_	_	_	_	_	_	_	O
+17	postigle	_	_	_	_	_	_	_	_	O
+18	prvo	_	_	_	_	_	_	_	_	O
+19	mesto	_	_	_	_	_	_	_	_	O
+20	u	_	_	_	_	_	_	_	_	O
+21	8	_	_	_	_	_	_	_	_	O
+22	sezoni	_	_	_	_	_	_	_	SpaceAfter=No	O
+23	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 4.3
+# text = Kraj serije, prikazan 6. maja 2004. godine, gledalo je oko 52,5 miliona američkih gledalaca, čineći to petim najgledanijim krajem serije u televizijskoj istoriji i najgledanijom televizijskom epizodom u prvoj deceniji 21. veka.
+1	Kraj	_	_	_	_	_	_	_	_	O
+2	serije	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	prikazan	_	_	_	_	_	_	_	_	O
+5	6.	_	_	_	_	_	_	_	_	O
+6	maja	_	_	_	_	_	_	_	_	O
+7	2004.	_	_	_	_	_	_	_	_	O
+8	godine	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	gledalo	_	_	_	_	_	_	_	_	O
+11	je	_	_	_	_	_	_	_	_	O
+12	oko	_	_	_	_	_	_	_	_	O
+13	52,5	_	_	_	_	_	_	_	_	O
+14	miliona	_	_	_	_	_	_	_	_	O
+15	američkih	_	_	_	_	_	_	_	_	O
+16	gledalaca	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	,	,	PUNCT	Z	_	_	_	_	_	O
+18	čineći	_	_	_	_	_	_	_	_	O
+19	to	_	_	_	_	_	_	_	_	O
+20	petim	_	_	_	_	_	_	_	_	O
+21	najgledanijim	_	_	_	_	_	_	_	_	O
+22	krajem	_	_	_	_	_	_	_	_	O
+23	serije	_	_	_	_	_	_	_	_	O
+24	u	_	_	_	_	_	_	_	_	O
+25	televizijskoj	_	_	_	_	_	_	_	_	O
+26	istoriji	_	_	_	_	_	_	_	_	O
+27	i	_	_	_	_	_	_	_	_	O
+28	najgledanijom	_	_	_	_	_	_	_	_	O
+29	televizijskom	_	_	_	_	_	_	_	_	O
+30	epizodom	_	_	_	_	_	_	_	_	O
+31	u	_	_	_	_	_	_	_	_	O
+32	prvoj	_	_	_	_	_	_	_	_	O
+33	deceniji	_	_	_	_	_	_	_	_	O
+34	21.	_	_	_	_	_	_	_	_	O
+35	veka	_	_	_	_	_	_	_	SpaceAfter=No	O
+36	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 5
+# sent_id = 5.1
+# text = Prijatelji su stekli brojna priznanja tokom prikazivanja, postavši jedna od najpopularnijih televizijskih emisija svih vremena.
+1	Prijatelji	_	_	_	_	_	_	_	_	O
+2	su	_	_	_	_	_	_	_	_	O
+3	stekli	_	_	_	_	_	_	_	_	O
+4	brojna	_	_	_	_	_	_	_	_	O
+5	priznanja	_	_	_	_	_	_	_	_	O
+6	tokom	_	_	_	_	_	_	_	_	O
+7	prikazivanja	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	postavši	_	_	_	_	_	_	_	_	O
+10	jedna	_	_	_	_	_	_	_	_	O
+11	od	_	_	_	_	_	_	_	_	O
+12	najpopularnijih	_	_	_	_	_	_	_	_	O
+13	televizijskih	_	_	_	_	_	_	_	_	O
+14	emisija	_	_	_	_	_	_	_	_	O
+15	svih	_	_	_	_	_	_	_	_	O
+16	vremena	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 5.2
+# text = Serija je bila nominovana za 62 nagrade Emi za udarne termine, osvojila je nagradu Emi za najbolju humorističku seriju 2002. za osmu sezonu.
+1	Serija	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	bila	_	_	_	_	_	_	_	_	O
+4	nominovana	_	_	_	_	_	_	_	_	O
+5	za	_	_	_	_	_	_	_	_	O
+6	62	_	_	_	_	_	_	_	_	O
+7	nagrade	_	_	_	_	_	_	_	_	O
+8	Emi	_	_	_	_	_	_	_	_	O
+9	za	_	_	_	_	_	_	_	_	O
+10	udarne	_	_	_	_	_	_	_	_	O
+11	termine	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	osvojila	_	_	_	_	_	_	_	_	O
+14	je	_	_	_	_	_	_	_	_	O
+15	nagradu	_	_	_	_	_	_	_	_	O
+16	Emi	_	_	_	_	_	_	_	_	O
+17	za	_	_	_	_	_	_	_	_	O
+18	najbolju	_	_	_	_	_	_	_	_	O
+19	humorističku	_	_	_	_	_	_	_	_	O
+20	seriju	_	_	_	_	_	_	_	_	O
+21	2002.	_	_	_	_	_	_	_	_	O
+22	za	_	_	_	_	_	_	_	_	O
+23	osmu	_	_	_	_	_	_	_	_	O
+24	sezonu	_	_	_	_	_	_	_	SpaceAfter=No	O
+25	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 5.3
+# text = Emisija se našla na 21. mestu na TV Gajdovom spisku najvećih 50 emisija svih vremena i na 7. mestu na Empajerovom spisku najvećih 50 emisija svih vremena.
+1	Emisija	_	_	_	_	_	_	_	_	O
+2	se	_	_	_	_	_	_	_	_	O
+3	našla	_	_	_	_	_	_	_	_	O
+4	na	_	_	_	_	_	_	_	_	O
+5	21.	_	_	_	_	_	_	_	_	O
+6	mestu	_	_	_	_	_	_	_	_	O
+7	na	_	_	_	_	_	_	_	_	O
+8	TV	_	_	_	_	_	_	_	_	O
+9	Gajdovom	_	_	_	_	_	_	_	_	O
+10	spisku	_	_	_	_	_	_	_	_	O
+11	najvećih	_	_	_	_	_	_	_	_	O
+12	50	_	_	_	_	_	_	_	_	O
+13	emisija	_	_	_	_	_	_	_	_	O
+14	svih	_	_	_	_	_	_	_	_	O
+15	vremena	_	_	_	_	_	_	_	_	O
+16	i	_	_	_	_	_	_	_	_	O
+17	na	_	_	_	_	_	_	_	_	O
+18	7.	_	_	_	_	_	_	_	_	O
+19	mestu	_	_	_	_	_	_	_	_	O
+20	na	_	_	_	_	_	_	_	_	O
+21	Empajerovom	_	_	_	_	_	_	_	_	O
+22	spisku	_	_	_	_	_	_	_	_	O
+23	najvećih	_	_	_	_	_	_	_	_	O
+24	50	_	_	_	_	_	_	_	_	O
+25	emisija	_	_	_	_	_	_	_	_	O
+26	svih	_	_	_	_	_	_	_	_	O
+27	vremena	_	_	_	_	_	_	_	SpaceAfter=No	O
+28	.	.	PUNCT	Z	_	_	_	_	_	O
+

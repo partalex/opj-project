@@ -1,0 +1,4 @@
+#name = teodora
+#domen = tviter
+#url = https://x.com/timjohnbyford/status/1973550859478086016 
+#text = Apropo političke zloupotrebe dece. Kada sam imao 11 godina pojavio sam se u reklami za DEPOS. Oca mi je igrao moj otac jer je Rambo Amadeus koji je trebalo da igra zakasnio na snimanje putujući iz, recimo, Skoplja. Reklama je zabranjena zbog zloupotrebe dece.

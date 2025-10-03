@@ -1,0 +1,4 @@
+#name = teodora
+#domen = tviter
+#url = ps://x.com/PatogeniP/status/1973737427287367946
+#text = Jusin sin, i predsednik opštine Čukarica, Nikola Atritonović, uručuju nagrade. Kolumbija.

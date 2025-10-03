@@ -1,0 +1,4 @@
+#name = teodora
+#domen = tviter
+#url = https://x.com/RealTimotijevic/status/1973473041951924307
+#text = Ako sam dobro shvatio unuk pokojnog patrijarha Irineja je medu vodećim SNS batinašima u Čačku? Poznat je od ranije policiji, zelenašenje preprodaja kola itd . Posle ovoga me ništa ne može iznenaditi?

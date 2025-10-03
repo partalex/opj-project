@@ -1,0 +1,4 @@
+#name = marija
+#domen = tviter
+#url = https://x.com/Robertdreco/status/1970044275657146817
+#text = Na današnji dan 1923. - U Ljubljani je održana skupština feminističkih društava Kraljevine Jugoslavije na kojoj je osnovana Feministička alijansa (kasnije Alijansa ženskih pokreta Jugoslavije).

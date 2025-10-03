@@ -1,0 +1,4 @@
+#name = teodora
+#domen = tviter
+#url = https://x.com/PavleGrbovic/status/1973291950456406506
+#text = Kao što S u skraćenici BRICS nije od Serbia već od South Africa, tako ni Evropski sud za ljudska prava nije institucija Evropske Unije. Neznanje ne čudi i nije krivica pojedinaca koji se lakomisleno zalete već javnosti, odnosno režimskih medija koji decenijama sistematski zaglupljuju ljude i ne ostavljaju ni mrvicu prostora za racionalnu debatu.

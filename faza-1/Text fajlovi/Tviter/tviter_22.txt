@@ -1,0 +1,4 @@
+#name = marija
+#domen = tviter
+#url = https://x.com/BigBadWolfWolfy/status/1969762841780490681
+#text = Oni su verovali, i onda kada drugi nisu!

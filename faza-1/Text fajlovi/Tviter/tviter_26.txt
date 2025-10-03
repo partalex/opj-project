@@ -1,0 +1,8 @@
+#name = marija
+#domen = tviter
+#url = https://x.com/BigBadWolfWolfy/status/1903684477768876377
+#text = ANGELINA TOPIĆ ČETVRTA NA SVETU!
+
+Šteta, malo je falilo da i ovog puta bude medalja... Angelina sa preskočenih 1.95m zauzima četvrto mesto na Svetskom dvoranskom prvenstvu u Nanjingu.
+
+Idemo dalje!

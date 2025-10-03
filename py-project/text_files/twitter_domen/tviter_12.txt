@@ -1,0 +1,4 @@
+#name = marija
+#domen = tviter
+#url = https://x.com/Robertdreco/status/1970396217780982243
+#text = Na današnji dan 1987. - U Beogradu je održana 8. sednica Centralnog komiteta Saveza komunista Srbije, na kojoj je došlo do prekretnice u idelogiji i politici srpskih komunista. U sukobu dve frakcije pobedila je tvrda struja tadašnjeg predsednika CK SK Srbije Slobodana Miloševića, nad umerenom politikom predsednika Predsedništva Srbije Ivana Stambolića. Milošević je potom izvršio čistke u partiji i medijima i obezbedio osnov za svoju nacionalističku politiku.

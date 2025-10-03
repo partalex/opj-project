@@ -1,0 +1,4 @@
+#name = teodora
+#domen = tviter
+#url = https://x.com/MasinaRS/status/1973429035574153364
+#text = Maren Kaminski, poslanica nemačkog Parlamenta sa komemorativne šetnje u Beogradu

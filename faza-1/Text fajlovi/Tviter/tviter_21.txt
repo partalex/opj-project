@@ -1,0 +1,8 @@
+#name = marija
+#domen = tviter
+#url = https://x.com/elfakublokadi/status/1970459944118894665
+#text = Ministarstvo kulture uskratilo podršku Nišvilu
+"Ovakav odnos ministarstva kulture prema Nišvilu dolazi u posebno nezgodnom trenutku kada Nišvil pokušava da grad Niš stavi na Uneskovu listu džez gradova za 2027 godinu. Kandidatura treba da bude podneta u novembru, a za tako nešto neophodna je preporuka ministarstva kulture, kao i grada Niša."
+
+MI PITAMO ZAŠTO?
+GDE VAM JE GRANICA?

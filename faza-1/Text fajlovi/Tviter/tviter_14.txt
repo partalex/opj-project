@@ -1,0 +1,4 @@
+#name = marija
+#domen = tviter
+#url = https://x.com/Robertdreco/status/1970043131866341461
+#text = Na današnji dan 2007. - Umro je Marsel Marso (Marsel Mangel), francuski glumac i pantomimičar, nosilac Ordena Legije časti, ambasador dobre volje Ujedinjenoih nacija.

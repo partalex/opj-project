@@ -1,0 +1,4 @@
+#name = teodora
+#domen = tviter
+#url = https://x.com/n1srbija/status/1973433972605497414
+#text = Sudija Vrhovnog suda u penziji i potpredsednica Međunarodnog udruženja pravnika Radmila Dragičević Dičić, sumirajući 11 meseci od pada nadstrešnice na Železničkoj stanici u Novom Sadu kada je poginulo 16 ljudi, kaže za N1 da još nemamo nijedan slučaj, nijednu potvrđenu optužnicu, ne vidimo rezultat, što sve govori o tome da država nema želju da se sprovedu takvi postupci, a oni koji se sprovode - doživljavaju opstrukciju.

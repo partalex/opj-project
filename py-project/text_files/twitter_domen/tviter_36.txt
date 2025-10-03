@@ -1,0 +1,4 @@
+#name = teodora
+#domen = tviter
+#url = https://x.com/chemu_optimizam/status/1973795071133888649
+#text = Ovaj od celog Kopenhagena odveo Suzanu da ga slika u nekom polumraku negde na obali reke ko Miki Manojlović u "Buretu Baruta". Fali samo onaj brod sa filharmonijskim orkestrom da se pojavi iza njega i onaj Kosta sa daskom u ruci, pa vi recite da ovo nije potpuno poremećen čovek.

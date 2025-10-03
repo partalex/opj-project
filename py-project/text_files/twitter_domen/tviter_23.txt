@@ -1,0 +1,4 @@
+#name = marija
+#domen = tviter
+#url = https://x.com/dedalaki1/status/1969744654393393512
+#text = Angelina Topić plače nakon osvojene bronze u Tokiju

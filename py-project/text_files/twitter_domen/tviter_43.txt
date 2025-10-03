@@ -1,0 +1,4 @@
+#name = teodora
+#domen = tviter
+#url = https://x.com/darkoman12345/status/1973691836427391147
+#text = Hej FLU imamo još jednog našeg državljanina u Gazi ne znam jel ste čuli

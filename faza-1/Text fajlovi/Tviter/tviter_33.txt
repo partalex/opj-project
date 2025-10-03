@@ -1,0 +1,4 @@
+#name = teodora
+#domen = tviter
+#ulr = https://x.com/MolitvaDuse/status/1967603524813906078
+#text = Na beogradskom Kalemegdanu, tamo gde se zidovi tvrđave spuštaju ka ušću, urezana u stenu stoji mala crkva posvećena Svetoj Petki. .. Njena istorija je priča o vodi, o kamenu i o upornosti vere... Još u srednjem veku ovde je postojala kapela, podignuta nedaleko od izvora za koji se verovalo da je lekovit... I kada su Osmanlije rušile, i kada su Austrijanci gradili svoje utvrde, izvor je ostajao, a narod se vraćao... Ljudi su dolazili po vodu i kad same crkve nije bilo ..jer je u narodu živelo uverenje da sveta žena i njeno isceliteljsko prisustvo nikada nisu napustili ovo mesto... Današnja crkva podignuta je tek 1937. godine, po projektu arhitekte Momira Korunovića... Zidana delimično u steni, spolja skromna, a iznutra obasjana freskama Đorđa Bosića, odiše tihom snagom...

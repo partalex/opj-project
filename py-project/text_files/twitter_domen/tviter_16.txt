@@ -1,0 +1,4 @@
+#name = marija
+#domen = tviter
+#url = https://x.com/Robertdreco/status/1969833696661270696
+#text = Na današnji dan 1996. - Na aerodromu u Bogoti, u avionu predsednika Kolumbije Ernesta Sampera, koji je bio spreman da poleti u SAD, posle anonimne prijave, pronađeno je oko četiri kilograma heroina.

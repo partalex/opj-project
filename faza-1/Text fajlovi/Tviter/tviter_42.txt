@@ -1,0 +1,4 @@
+#name = teodora
+#domen = tviter
+#url = https://x.com/FluBlokada/status/1973484800553132309
+#text = Izraelske snage su upravo preuzele kontrolu nad brodom Adara, jednom od plovila u sklopu Sumud flotile koja je nosila humantiranu pomoć u Gazu. Na ovom brodu nalazio se i naš kolega Ognjen Marković. Ovo je Ognjenova poruka, uskoro objavljujemo dodatne informacije.

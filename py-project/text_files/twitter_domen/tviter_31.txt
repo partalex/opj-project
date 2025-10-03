@@ -1,0 +1,4 @@
+#name = teodora
+#domen = tviter
+#url = https://x.com/KPromeni/status/1974019175342379504
+#text = Glavni zahtev Ansambla Drame Narodnog pozorišta je smena predsednika Upravnog odbora Dragoslava Bokana. Večeras, 3. oktobra u 19 časova, ispred Narodnog pozorišta u Beogradu biće održan skup podrške ansamblu koji se protivi stupanju na snagu novog Pravilnika tog teatra, kojim se zaposlenima zabranjuje iznošenje političkih stavova.

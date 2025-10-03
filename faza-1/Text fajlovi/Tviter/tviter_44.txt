@@ -1,0 +1,4 @@
+#name = teodora
+#domen = tviter
+#url = url= https://x.com/dragansormaz/status/1973720807496175621
+#text = Dokaz da nam sve vreme Hrvatska spasava NIS! Odgovornost nije više ni na Vučiću! Skoro celo društvo stoji iza ruske politike u Srbiji, a to je politika neutralnosti! Sankcije rusiji i članstvo u EU/NATO su najbolje, dakle patriotsko rešenje!

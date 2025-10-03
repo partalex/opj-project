@@ -1,0 +1,4 @@
+#name = marija
+#domen = tviter
+#url = https://x.com/natasakandic/status/1970485784789573874
+#text = Ako je novac poreznika korišćen za oslikavanje murala "kad se vojska na Kosovo vrati", sigurno je i za brojne murale posvećene Mladiću, a i grafit "Nož, žica, Srebernica" se slaže sa pesmom Milorada Dodika "Nema stida, nema straha, nije bilo genocida". Nema vlasti koja je više učinila da svoje građane  usmeri protiv drugih. 

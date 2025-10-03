@@ -1,0 +1,68 @@
+#name = teodora
+#domen = tviter
+#url = https://x.com/PavleGrbovic/status/1973291950456406506
+# newpar id = 1
+# sent_id = 1.1
+# text = Kao što S u skraćenici BRICS nije od Serbia već od South Africa, tako ni Evropski sud za ljudska prava nije institucija Evropske Unije.
+1	Kao	_	_	_	_	_	_	_	_	O
+2	što	_	_	_	_	_	_	_	_	O
+3	S	_	_	_	_	_	_	_	_	O
+4	u	_	_	_	_	_	_	_	_	O
+5	skraćenici	_	_	_	_	_	_	_	_	O
+6	BRICS	_	_	_	_	_	_	_	_	B-ORG
+7	nije	_	_	_	_	_	_	_	_	O
+8	od	_	_	_	_	_	_	_	_	O
+9	Serbia	_	_	_	_	_	_	_	_	B-LOC
+10	već	_	_	_	_	_	_	_	_	O
+11	od	_	_	_	_	_	_	_	_	O
+12	South	_	_	_	_	_	_	_	_	B-LOC
+13	Africa	_	_	_	_	_	_	_	SpaceAfter=No	I-LOC
+14	,	,	PUNCT	Z	_	_	_	_	_	O
+15	tako	_	_	_	_	_	_	_	_	O
+16	ni	_	_	_	_	_	_	_	_	O
+17	Evropski	_	_	_	_	_	_	_	_	O
+18	sud	_	_	_	_	_	_	_	_	O
+19	za	_	_	_	_	_	_	_	_	O
+20	ljudska	_	_	_	_	_	_	_	_	O
+21	prava	_	_	_	_	_	_	_	_	O
+22	nije	_	_	_	_	_	_	_	_	O
+23	institucija	_	_	_	_	_	_	_	_	O
+24	Evropske	_	_	_	_	_	_	_	_	B-ORG
+25	Unije	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+26	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.2
+# text = Neznanje ne čudi i nije krivica pojedinaca koji se lakomisleno zalete već javnosti, odnosno režimskih medija koji decenijama sistematski zaglupljuju ljude i ne ostavljaju ni mrvicu prostora za racionalnu debatu.
+1	Neznanje	_	_	_	_	_	_	_	_	O
+2	ne	_	_	_	_	_	_	_	_	O
+3	čudi	_	_	_	_	_	_	_	_	O
+4	i	_	_	_	_	_	_	_	_	O
+5	nije	_	_	_	_	_	_	_	_	O
+6	krivica	_	_	_	_	_	_	_	_	O
+7	pojedinaca	_	_	_	_	_	_	_	_	O
+8	koji	_	_	_	_	_	_	_	_	O
+9	se	_	_	_	_	_	_	_	_	O
+10	lakomisleno	_	_	_	_	_	_	_	_	O
+11	zalete	_	_	_	_	_	_	_	_	O
+12	već	_	_	_	_	_	_	_	_	O
+13	javnosti	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	,	,	PUNCT	Z	_	_	_	_	_	O
+15	odnosno	_	_	_	_	_	_	_	_	O
+16	režimskih	_	_	_	_	_	_	_	_	O
+17	medija	_	_	_	_	_	_	_	_	O
+18	koji	_	_	_	_	_	_	_	_	O
+19	decenijama	_	_	_	_	_	_	_	_	O
+20	sistematski	_	_	_	_	_	_	_	_	O
+21	zaglupljuju	_	_	_	_	_	_	_	_	O
+22	ljude	_	_	_	_	_	_	_	_	O
+23	i	_	_	_	_	_	_	_	_	O
+24	ne	_	_	_	_	_	_	_	_	O
+25	ostavljaju	_	_	_	_	_	_	_	_	O
+26	ni	_	_	_	_	_	_	_	_	O
+27	mrvicu	_	_	_	_	_	_	_	_	O
+28	prostora	_	_	_	_	_	_	_	_	O
+29	za	_	_	_	_	_	_	_	_	O
+30	racionalnu	_	_	_	_	_	_	_	_	O
+31	debatu	_	_	_	_	_	_	_	SpaceAfter=No	O
+32	.	.	PUNCT	Z	_	_	_	_	_	O
+

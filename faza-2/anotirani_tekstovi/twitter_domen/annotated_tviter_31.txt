@@ -1,0 +1,61 @@
+#name = teodora
+#domen = tviter
+#url = https://x.com/KPromeni/status/1974019175342379504
+# newpar id = 1
+# sent_id = 1.1
+# text = Glavni zahtev Ansambla Drame Narodnog pozorišta je smena predsednika Upravnog odbora Dragoslava Bokana.
+1	Glavni	_	_	_	_	_	_	_	_	O
+2	zahtev	_	_	_	_	_	_	_	_	O
+3	Ansambla	_	_	_	_	_	_	_	_	B-ORG
+4	Drame	_	_	_	_	_	_	_	_	I-ORG
+5	Narodnog	_	_	_	_	_	_	_	_	I-ORG
+6	pozorišta	_	_	_	_	_	_	_	_	I-ORG
+7	je	_	_	_	_	_	_	_	_	O
+8	smena	_	_	_	_	_	_	_	_	O
+9	predsednika	_	_	_	_	_	_	_	_	O
+10	Upravnog	_	_	_	_	_	_	_	_	B-ORG
+11	odbora	_	_	_	_	_	_	_	_	I-ORG
+12	Dragoslava	_	_	_	_	_	_	_	_	B-PER
+13	Bokana	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+14	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.2
+# text = Večeras, 3. oktobra u 19 časova, ispred Narodnog pozorišta u Beogradu biće održan skup podrške ansamblu koji se protivi stupanju na snagu novog Pravilnika tog teatra, kojim se zaposlenima zabranjuje iznošenje političkih stavova.
+1	Večeras	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	3.	_	_	_	_	_	_	_	_	O
+4	oktobra	_	_	_	_	_	_	_	_	O
+5	u	_	_	_	_	_	_	_	_	O
+6	19	_	_	_	_	_	_	_	_	O
+7	časova	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	ispred	_	_	_	_	_	_	_	_	O
+10	Narodnog	_	_	_	_	_	_	_	_	B-LOC
+11	pozorišta	_	_	_	_	_	_	_	_	I-LOC
+12	u	_	_	_	_	_	_	_	_	O
+13	Beogradu	_	_	_	_	_	_	_	_	B-LOC
+14	biće	_	_	_	_	_	_	_	_	O
+15	održan	_	_	_	_	_	_	_	_	O
+16	skup	_	_	_	_	_	_	_	_	O
+17	podrške	_	_	_	_	_	_	_	_	O
+18	ansamblu	_	_	_	_	_	_	_	_	O
+19	koji	_	_	_	_	_	_	_	_	O
+20	se	_	_	_	_	_	_	_	_	O
+21	protivi	_	_	_	_	_	_	_	_	O
+22	stupanju	_	_	_	_	_	_	_	_	O
+23	na	_	_	_	_	_	_	_	_	O
+24	snagu	_	_	_	_	_	_	_	_	O
+25	novog	_	_	_	_	_	_	_	_	O
+26	Pravilnika	_	_	_	_	_	_	_	_	O
+27	tog	_	_	_	_	_	_	_	_	O
+28	teatra	_	_	_	_	_	_	_	SpaceAfter=No	O
+29	,	,	PUNCT	Z	_	_	_	_	_	O
+30	kojim	_	_	_	_	_	_	_	_	O
+31	se	_	_	_	_	_	_	_	_	O
+32	zaposlenima	_	_	_	_	_	_	_	_	O
+33	zabranjuje	_	_	_	_	_	_	_	_	O
+34	iznošenje	_	_	_	_	_	_	_	_	O
+35	političkih	_	_	_	_	_	_	_	_	O
+36	stavova	_	_	_	_	_	_	_	SpaceAfter=No	O
+37	.	.	PUNCT	Z	_	_	_	_	_	O
+

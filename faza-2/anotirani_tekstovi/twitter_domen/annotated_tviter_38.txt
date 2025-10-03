@@ -1,0 +1,111 @@
+#name = teodora
+#domen = tviter
+#url = https://x.com/BezStraha26279/status/1973977567280464000
+# newpar id = 1
+# sent_id = 1.1
+# text = CMOLIĆEVI LOJALISTI EKIPA iz SBPOK-a,KOJA PROVERAVA KOLEGE i PRODAJU NJIHOVE PODATKE CG KLANOVIMA DALIBOR PAVIĆ-DAČA(SKOR BIVŠI SKOPI)NEMANJA DAŠIĆ (KOKEZINA ŠEMA IZ ZEMUNA ), PETAR POPOVIĆ( VIŠE PUTA KAŽNJAVAN LAKŠE ZA TEŽA KRIVIČNA DELA), NENAD STOJILJKOVIĆ, MILINKO LEKOVIĆ (IMA ZGRADU U ŠIMANOVCIMA), ZOKA, VLADA JOVANOVIĆ i IGOR KRTOLICA KOJI IM JE ŠEF CMOLIĆ TVRDI SVIMA DA I DALjE KONTROLiŠE POLICIJU I DA GA SVI ZOVU SVAKODNEVNO ZA SAVETE !
+1	CMOLIĆEVI	_	_	_	_	_	_	_	_	B-PER
+2	LOJALISTI	_	_	_	_	_	_	_	_	O
+3	EKIPA	_	_	_	_	_	_	_	_	O
+4	iz	_	_	_	_	_	_	_	_	O
+5	SBPOK-a	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
+6	,	,	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+7	KOJA	_	_	_	_	_	_	_	_	O
+8	PROVERAVA	_	_	_	_	_	_	_	_	O
+9	KOLEGE	_	_	_	_	_	_	_	_	O
+10	i	_	_	_	_	_	_	_	_	O
+11	PRODAJU	_	_	_	_	_	_	_	_	O
+12	NJIHOVE	_	_	_	_	_	_	_	_	O
+13	PODATKE	_	_	_	_	_	_	_	_	O
+14	CG	_	_	_	_	_	_	_	_	B-ORG
+15	KLANOVIMA	_	_	_	_	_	_	_	_	I-ORG
+16	DALIBOR	_	_	_	_	_	_	_	_	B-PER
+17	PAVIĆ-DAČA	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+18	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+19	SKOR	_	_	_	_	_	_	_	_	O
+20	BIVŠI	_	_	_	_	_	_	_	_	O
+21	SKOPI	_	_	_	_	_	_	_	SpaceAfter=No	O
+22	)	)	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+23	NEMANJA	_	_	_	_	_	_	_	_	B-PER
+24	DAŠIĆ	_	_	_	_	_	_	_	_	I-PER
+25	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+26	KOKEZINA	_	_	_	_	_	_	_	_	B-PER
+27	ŠEMA	_	_	_	_	_	_	_	_	O
+28	IZ	_	_	_	_	_	_	_	_	O
+29	ZEMUNA	_	_	_	_	_	_	_	_	B-LOC
+30	)	)	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+31	,	,	PUNCT	Z	_	_	_	_	_	O
+32	PETAR	_	_	_	_	_	_	_	_	B-PER
+33	POPOVIĆ	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+34	(	(	PUNCT	Z	_	_	_	_	_	O
+35	VIŠE	_	_	_	_	_	_	_	_	O
+36	PUTA	_	_	_	_	_	_	_	_	O
+37	KAŽNJAVAN	_	_	_	_	_	_	_	_	O
+38	LAKŠE	_	_	_	_	_	_	_	_	O
+39	ZA	_	_	_	_	_	_	_	_	O
+40	TEŽA	_	_	_	_	_	_	_	_	O
+41	KRIVIČNA	_	_	_	_	_	_	_	_	O
+42	DELA	_	_	_	_	_	_	_	SpaceAfter=No	O
+43	)	)	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+44	,	,	PUNCT	Z	_	_	_	_	_	O
+45	NENAD	_	_	_	_	_	_	_	_	B-PER
+46	STOJILJKOVIĆ	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+47	,	,	PUNCT	Z	_	_	_	_	_	O
+48	MILINKO	_	_	_	_	_	_	_	_	B-PER
+49	LEKOVIĆ	_	_	_	_	_	_	_	_	I-PER
+50	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+51	IMA	_	_	_	_	_	_	_	_	O
+52	ZGRADU	_	_	_	_	_	_	_	_	O
+53	U	_	_	_	_	_	_	_	_	O
+54	ŠIMANOVCIMA	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+55	)	)	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+56	,	,	PUNCT	Z	_	_	_	_	_	O
+57	ZOKA	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
+58	,	,	PUNCT	Z	_	_	_	_	_	O
+59	VLADA	_	_	_	_	_	_	_	_	B-PER
+60	JOVANOVIĆ	_	_	_	_	_	_	_	_	I-PER
+61	i	_	_	_	_	_	_	_	_	O
+62	IGOR	_	_	_	_	_	_	_	_	B-PER
+63	KRTOLICA	_	_	_	_	_	_	_	_	I-PER
+64	KOJI	_	_	_	_	_	_	_	_	O
+65	IM	_	_	_	_	_	_	_	_	O
+66	JE	_	_	_	_	_	_	_	_	O
+67	ŠEF	_	_	_	_	_	_	_	_	O
+68	CMOLIĆ	_	_	_	_	_	_	_	_	B-PER
+69	TVRDI	_	_	_	_	_	_	_	_	O
+70	SVIMA	_	_	_	_	_	_	_	_	O
+71	DA	_	_	_	_	_	_	_	_	O
+72	I	_	_	_	_	_	_	_	_	O
+73	DALjE	_	_	_	_	_	_	_	_	O
+74	KONTROLiŠE	_	_	_	_	_	_	_	_	O
+75	POLICIJU	_	_	_	_	_	_	_	_	B-ORG
+76	I	_	_	_	_	_	_	_	_	O
+77	DA	_	_	_	_	_	_	_	_	O
+78	GA	_	_	_	_	_	_	_	_	O
+79	SVI	_	_	_	_	_	_	_	_	O
+80	ZOVU	_	_	_	_	_	_	_	_	O
+81	SVAKODNEVNO	_	_	_	_	_	_	_	_	O
+82	ZA	_	_	_	_	_	_	_	_	O
+83	SAVETE	_	_	_	_	_	_	_	_	O
+84	!	!	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.2
+# text = ŠAŠIĆ ZORAN KAD ODE NA BOLOVANJE OVA EKIPA MU POKRIVA SLUČAJEVE KAO NA PRIMER CARINU ZA KOKEZU
+1	ŠAŠIĆ	_	_	_	_	_	_	_	_	B-PER
+2	ZORAN	_	_	_	_	_	_	_	_	I-PER
+3	KAD	_	_	_	_	_	_	_	_	O
+4	ODE	_	_	_	_	_	_	_	_	O
+5	NA	_	_	_	_	_	_	_	_	O
+6	BOLOVANJE	_	_	_	_	_	_	_	_	O
+7	OVA	_	_	_	_	_	_	_	_	O
+8	EKIPA	_	_	_	_	_	_	_	_	O
+9	MU	_	_	_	_	_	_	_	_	O
+10	POKRIVA	_	_	_	_	_	_	_	_	O
+11	SLUČAJEVE	_	_	_	_	_	_	_	_	O
+12	KAO	_	_	_	_	_	_	_	_	O
+13	NA	_	_	_	_	_	_	_	_	O
+14	PRIMER	_	_	_	_	_	_	_	_	O
+15	CARINU	_	_	_	_	_	_	_	_	B-ORG
+16	ZA	_	_	_	_	_	_	_	_	O
+17	KOKEZU	_	_	_	_	_	_	_	_	B-PER
+

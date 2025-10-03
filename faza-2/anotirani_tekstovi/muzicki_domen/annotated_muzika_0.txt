@@ -1,0 +1,322 @@
+#name = teodora
+#domen = muzika
+#url = https://balkanrock.com/autorski-clanci/kolumne-i-clanci/kanda-kodza-i-nebojsa-tri-decenije-rasturanja-forme/
+# newpar id = 1
+# sent_id = 1.1
+# text = Prvi bendovi koji su na našim prostorima koketirali sa rege muzikom datiraju iz novotalasnog perioda.
+1	Prvi	_	_	_	_	_	_	_	_	O
+2	bendovi	_	_	_	_	_	_	_	_	O
+3	koji	_	_	_	_	_	_	_	_	O
+4	su	_	_	_	_	_	_	_	_	O
+5	na	_	_	_	_	_	_	_	_	O
+6	našim	_	_	_	_	_	_	_	_	O
+7	prostorima	_	_	_	_	_	_	_	_	O
+8	koketirali	_	_	_	_	_	_	_	_	O
+9	sa	_	_	_	_	_	_	_	_	O
+10	rege	_	_	_	_	_	_	_	_	O
+11	muzikom	_	_	_	_	_	_	_	_	O
+12	datiraju	_	_	_	_	_	_	_	_	O
+13	iz	_	_	_	_	_	_	_	_	O
+14	novotalasnog	_	_	_	_	_	_	_	_	O
+15	perioda	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.2
+# text = Čuveni hit Šarla Akrobate, Ona se budi, verovatno je najuspelija rege stvar tog vremena.
+1	Čuveni	_	_	_	_	_	_	_	_	O
+2	hit	_	_	_	_	_	_	_	_	O
+3	Šarla	_	_	_	_	_	_	_	_	O
+4	Akrobate	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	Ona	_	_	_	_	_	_	_	_	O
+7	se	_	_	_	_	_	_	_	_	O
+8	budi	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	verovatno	_	_	_	_	_	_	_	_	O
+11	je	_	_	_	_	_	_	_	_	O
+12	najuspelija	_	_	_	_	_	_	_	_	O
+13	rege	_	_	_	_	_	_	_	_	O
+14	stvar	_	_	_	_	_	_	_	_	O
+15	tog	_	_	_	_	_	_	_	_	O
+16	vremena	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.3
+# text = Bilo je tada nekoliko sastava koji su, u potrazi za svojim autentičnim zvukom, stvarali pesme koje su imale uplive u ska i rege (Idoli, Prljavo kazalište, Haustor i drugi).
+1	Bilo	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	tada	_	_	_	_	_	_	_	_	O
+4	nekoliko	_	_	_	_	_	_	_	_	O
+5	sastava	_	_	_	_	_	_	_	_	O
+6	koji	_	_	_	_	_	_	_	_	O
+7	su	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	u	_	_	_	_	_	_	_	_	O
+10	potrazi	_	_	_	_	_	_	_	_	O
+11	za	_	_	_	_	_	_	_	_	O
+12	svojim	_	_	_	_	_	_	_	_	O
+13	autentičnim	_	_	_	_	_	_	_	_	O
+14	zvukom	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	,	,	PUNCT	Z	_	_	_	_	_	O
+16	stvarali	_	_	_	_	_	_	_	_	O
+17	pesme	_	_	_	_	_	_	_	_	O
+18	koje	_	_	_	_	_	_	_	_	O
+19	su	_	_	_	_	_	_	_	_	O
+20	imale	_	_	_	_	_	_	_	_	O
+21	uplive	_	_	_	_	_	_	_	_	O
+22	u	_	_	_	_	_	_	_	_	O
+23	ska	_	_	_	_	_	_	_	_	O
+24	i	_	_	_	_	_	_	_	_	O
+25	rege	_	_	_	_	_	_	_	_	O
+26	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+27	Idoli	_	_	_	_	_	_	_	SpaceAfter=No	O
+28	,	,	PUNCT	Z	_	_	_	_	_	O
+29	Prljavo	_	_	_	_	_	_	_	_	O
+30	kazalište	_	_	_	_	_	_	_	SpaceAfter=No	O
+31	,	,	PUNCT	Z	_	_	_	_	_	O
+32	Haustor	_	_	_	_	_	_	_	_	O
+33	i	_	_	_	_	_	_	_	_	O
+34	drugi	_	_	_	_	_	_	_	SpaceAfter=No	O
+35	)	)	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+36	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.4
+# text = Ipak, prvi koji je odabrao rege kao svoje definitivno opredeljenje, svakako je beogradski Del Arno Bend.
+1	Ipak	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	prvi	_	_	_	_	_	_	_	_	O
+4	koji	_	_	_	_	_	_	_	_	O
+5	je	_	_	_	_	_	_	_	_	O
+6	odabrao	_	_	_	_	_	_	_	_	O
+7	rege	_	_	_	_	_	_	_	_	O
+8	kao	_	_	_	_	_	_	_	_	O
+9	svoje	_	_	_	_	_	_	_	_	O
+10	definitivno	_	_	_	_	_	_	_	_	O
+11	opredeljenje	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	svakako	_	_	_	_	_	_	_	_	O
+14	je	_	_	_	_	_	_	_	_	O
+15	beogradski	_	_	_	_	_	_	_	_	O
+16	Del	_	_	_	_	_	_	_	_	O
+17	Arno	_	_	_	_	_	_	_	_	O
+18	Bend	_	_	_	_	_	_	_	SpaceAfter=No	O
+19	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 2
+# sent_id = 2.1
+# text = Zajedno sa kolegama koje su negovale zvuk baziran na distorziji i žestokom gitarskom prženju, na scenu stupaju Kanda, Kodža i Nebojša i Darkwood Dub, bendovi koji su takođe zastupali ideju da se stvari u zemlji menjaju iz korena, s tom razlikom što je muzička podloga za njihove, mahom anti-režimske tekstove, bila ipak malo drugačija.
+1	Zajedno	_	_	_	_	_	_	_	_	O
+2	sa	_	_	_	_	_	_	_	_	O
+3	kolegama	_	_	_	_	_	_	_	_	O
+4	koje	_	_	_	_	_	_	_	_	O
+5	su	_	_	_	_	_	_	_	_	O
+6	negovale	_	_	_	_	_	_	_	_	O
+7	zvuk	_	_	_	_	_	_	_	_	O
+8	baziran	_	_	_	_	_	_	_	_	O
+9	na	_	_	_	_	_	_	_	_	O
+10	distorziji	_	_	_	_	_	_	_	_	O
+11	i	_	_	_	_	_	_	_	_	O
+12	žestokom	_	_	_	_	_	_	_	_	O
+13	gitarskom	_	_	_	_	_	_	_	_	O
+14	prženju	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	,	,	PUNCT	Z	_	_	_	_	_	O
+16	na	_	_	_	_	_	_	_	_	O
+17	scenu	_	_	_	_	_	_	_	_	O
+18	stupaju	_	_	_	_	_	_	_	_	O
+19	Kanda	_	_	_	_	_	_	_	SpaceAfter=No	O
+20	,	,	PUNCT	Z	_	_	_	_	_	O
+21	Kodža	_	_	_	_	_	_	_	_	O
+22	i	_	_	_	_	_	_	_	_	O
+23	Nebojša	_	_	_	_	_	_	_	_	O
+24	i	_	_	_	_	_	_	_	_	O
+25	Darkwood	_	_	_	_	_	_	_	_	O
+26	Dub	_	_	_	_	_	_	_	SpaceAfter=No	O
+27	,	,	PUNCT	Z	_	_	_	_	_	O
+28	bendovi	_	_	_	_	_	_	_	_	O
+29	koji	_	_	_	_	_	_	_	_	O
+30	su	_	_	_	_	_	_	_	_	O
+31	takođe	_	_	_	_	_	_	_	_	O
+32	zastupali	_	_	_	_	_	_	_	_	O
+33	ideju	_	_	_	_	_	_	_	_	O
+34	da	_	_	_	_	_	_	_	_	O
+35	se	_	_	_	_	_	_	_	_	O
+36	stvari	_	_	_	_	_	_	_	_	O
+37	u	_	_	_	_	_	_	_	_	O
+38	zemlji	_	_	_	_	_	_	_	_	O
+39	menjaju	_	_	_	_	_	_	_	_	O
+40	iz	_	_	_	_	_	_	_	_	O
+41	korena	_	_	_	_	_	_	_	SpaceAfter=No	O
+42	,	,	PUNCT	Z	_	_	_	_	_	O
+43	s	_	_	_	_	_	_	_	_	O
+44	tom	_	_	_	_	_	_	_	_	O
+45	razlikom	_	_	_	_	_	_	_	_	O
+46	što	_	_	_	_	_	_	_	_	O
+47	je	_	_	_	_	_	_	_	_	O
+48	muzička	_	_	_	_	_	_	_	_	O
+49	podloga	_	_	_	_	_	_	_	_	O
+50	za	_	_	_	_	_	_	_	_	O
+51	njihove	_	_	_	_	_	_	_	SpaceAfter=No	O
+52	,	,	PUNCT	Z	_	_	_	_	_	O
+53	mahom	_	_	_	_	_	_	_	_	O
+54	anti-režimske	_	_	_	_	_	_	_	_	O
+55	tekstove	_	_	_	_	_	_	_	SpaceAfter=No	O
+56	,	,	PUNCT	Z	_	_	_	_	_	O
+57	bila	_	_	_	_	_	_	_	_	O
+58	ipak	_	_	_	_	_	_	_	_	O
+59	malo	_	_	_	_	_	_	_	_	O
+60	drugačija	_	_	_	_	_	_	_	SpaceAfter=No	O
+61	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.2
+# text = Era panka i nju vejva bila je na zalasku, a u Srbiji nailazi talas bendova koji su svoj zvuk bazirali na onome što su radili Bob Marley, Max Romeo, Lee Scratch Perry, Burning Spear, kao i mnogi drugi koji su mahom potekli sa Jamajke, Meke rege muzike.
+1	Era	_	_	_	_	_	_	_	_	O
+2	panka	_	_	_	_	_	_	_	_	O
+3	i	_	_	_	_	_	_	_	_	O
+4	nju	_	_	_	_	_	_	_	_	O
+5	vejva	_	_	_	_	_	_	_	_	O
+6	bila	_	_	_	_	_	_	_	_	O
+7	je	_	_	_	_	_	_	_	_	O
+8	na	_	_	_	_	_	_	_	_	O
+9	zalasku	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	a	_	_	_	_	_	_	_	_	O
+12	u	_	_	_	_	_	_	_	_	O
+13	Srbiji	_	_	_	_	_	_	_	_	O
+14	nailazi	_	_	_	_	_	_	_	_	O
+15	talas	_	_	_	_	_	_	_	_	O
+16	bendova	_	_	_	_	_	_	_	_	O
+17	koji	_	_	_	_	_	_	_	_	O
+18	su	_	_	_	_	_	_	_	_	O
+19	svoj	_	_	_	_	_	_	_	_	O
+20	zvuk	_	_	_	_	_	_	_	_	O
+21	bazirali	_	_	_	_	_	_	_	_	O
+22	na	_	_	_	_	_	_	_	_	O
+23	onome	_	_	_	_	_	_	_	_	O
+24	što	_	_	_	_	_	_	_	_	O
+25	su	_	_	_	_	_	_	_	_	O
+26	radili	_	_	_	_	_	_	_	_	O
+27	Bob	_	_	_	_	_	_	_	_	O
+28	Marley	_	_	_	_	_	_	_	SpaceAfter=No	O
+29	,	,	PUNCT	Z	_	_	_	_	_	O
+30	Max	_	_	_	_	_	_	_	_	O
+31	Romeo	_	_	_	_	_	_	_	SpaceAfter=No	O
+32	,	,	PUNCT	Z	_	_	_	_	_	O
+33	Lee	_	_	_	_	_	_	_	_	O
+34	Scratch	_	_	_	_	_	_	_	_	O
+35	Perry	_	_	_	_	_	_	_	SpaceAfter=No	O
+36	,	,	PUNCT	Z	_	_	_	_	_	O
+37	Burning	_	_	_	_	_	_	_	_	O
+38	Spear	_	_	_	_	_	_	_	SpaceAfter=No	O
+39	,	,	PUNCT	Z	_	_	_	_	_	O
+40	kao	_	_	_	_	_	_	_	_	O
+41	i	_	_	_	_	_	_	_	_	O
+42	mnogi	_	_	_	_	_	_	_	_	O
+43	drugi	_	_	_	_	_	_	_	_	O
+44	koji	_	_	_	_	_	_	_	_	O
+45	su	_	_	_	_	_	_	_	_	O
+46	mahom	_	_	_	_	_	_	_	_	O
+47	potekli	_	_	_	_	_	_	_	_	O
+48	sa	_	_	_	_	_	_	_	_	O
+49	Jamajke	_	_	_	_	_	_	_	SpaceAfter=No	O
+50	,	,	PUNCT	Z	_	_	_	_	_	O
+51	Meke	_	_	_	_	_	_	_	_	O
+52	rege	_	_	_	_	_	_	_	_	O
+53	muzike	_	_	_	_	_	_	_	SpaceAfter=No	O
+54	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 3
+# sent_id = 3.1
+# text = Povod za turneju bio je Zakon o informisanju, koji je umnogome ukidao slobodu nezavisnim medijima.
+1	Povod	_	_	_	_	_	_	_	_	O
+2	za	_	_	_	_	_	_	_	_	O
+3	turneju	_	_	_	_	_	_	_	_	O
+4	bio	_	_	_	_	_	_	_	_	O
+5	je	_	_	_	_	_	_	_	_	O
+6	Zakon	_	_	_	_	_	_	_	_	O
+7	o	_	_	_	_	_	_	_	_	O
+8	informisanju	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	koji	_	_	_	_	_	_	_	_	O
+11	je	_	_	_	_	_	_	_	_	O
+12	umnogome	_	_	_	_	_	_	_	_	O
+13	ukidao	_	_	_	_	_	_	_	_	O
+14	slobodu	_	_	_	_	_	_	_	_	O
+15	nezavisnim	_	_	_	_	_	_	_	_	O
+16	medijima	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 3.2
+# text = Tada je nastala i parola „Nije srpski ćutati“, još jedna u nizu zloupotrebljenih floskula.
+1	Tada	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	nastala	_	_	_	_	_	_	_	_	O
+4	i	_	_	_	_	_	_	_	_	O
+5	parola	_	_	_	_	_	_	_	_	O
+6	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+7	Nije	_	_	_	_	_	_	_	_	O
+8	srpski	_	_	_	_	_	_	_	_	O
+9	ćutati	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	još	_	_	_	_	_	_	_	_	O
+13	jedna	_	_	_	_	_	_	_	_	O
+14	u	_	_	_	_	_	_	_	_	O
+15	nizu	_	_	_	_	_	_	_	_	O
+16	zloupotrebljenih	_	_	_	_	_	_	_	_	O
+17	floskula	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 3.3
+# text = Elem, saradnja između Otpora, B92 i ovih sastava bila je samo mali eksperiment za projekat koji je usledio desetak meseci kasnije – velika rokenrol turneja u kojoj su učestvovali tada najpopularniji rok bendovi, kako bi se zadao poslednji udarac onome koga je narod percipirao kao glavnog neprijatelja.
+1	Elem	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	saradnja	_	_	_	_	_	_	_	_	O
+4	između	_	_	_	_	_	_	_	_	O
+5	Otpora	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	B92	_	_	_	_	_	_	_	_	O
+8	i	_	_	_	_	_	_	_	_	O
+9	ovih	_	_	_	_	_	_	_	_	O
+10	sastava	_	_	_	_	_	_	_	_	O
+11	bila	_	_	_	_	_	_	_	_	O
+12	je	_	_	_	_	_	_	_	_	O
+13	samo	_	_	_	_	_	_	_	_	O
+14	mali	_	_	_	_	_	_	_	_	O
+15	eksperiment	_	_	_	_	_	_	_	_	O
+16	za	_	_	_	_	_	_	_	_	O
+17	projekat	_	_	_	_	_	_	_	_	O
+18	koji	_	_	_	_	_	_	_	_	O
+19	je	_	_	_	_	_	_	_	_	O
+20	usledio	_	_	_	_	_	_	_	_	O
+21	desetak	_	_	_	_	_	_	_	_	O
+22	meseci	_	_	_	_	_	_	_	_	O
+23	kasnije	_	_	_	_	_	_	_	_	O
+24	–	–	PUNCT	Z	_	_	_	_	_	O
+25	velika	_	_	_	_	_	_	_	_	O
+26	rokenrol	_	_	_	_	_	_	_	_	O
+27	turneja	_	_	_	_	_	_	_	_	O
+28	u	_	_	_	_	_	_	_	_	O
+29	kojoj	_	_	_	_	_	_	_	_	O
+30	su	_	_	_	_	_	_	_	_	O
+31	učestvovali	_	_	_	_	_	_	_	_	O
+32	tada	_	_	_	_	_	_	_	_	O
+33	najpopularniji	_	_	_	_	_	_	_	_	O
+34	rok	_	_	_	_	_	_	_	_	O
+35	bendovi	_	_	_	_	_	_	_	SpaceAfter=No	O
+36	,	,	PUNCT	Z	_	_	_	_	_	O
+37	kako	_	_	_	_	_	_	_	_	O
+38	bi	_	_	_	_	_	_	_	_	O
+39	se	_	_	_	_	_	_	_	_	O
+40	zadao	_	_	_	_	_	_	_	_	O
+41	poslednji	_	_	_	_	_	_	_	_	O
+42	udarac	_	_	_	_	_	_	_	_	O
+43	onome	_	_	_	_	_	_	_	_	O
+44	koga	_	_	_	_	_	_	_	_	O
+45	je	_	_	_	_	_	_	_	_	O
+46	narod	_	_	_	_	_	_	_	_	O
+47	percipirao	_	_	_	_	_	_	_	_	O
+48	kao	_	_	_	_	_	_	_	_	O
+49	glavnog	_	_	_	_	_	_	_	_	O
+50	neprijatelja	_	_	_	_	_	_	_	SpaceAfter=No	O
+51	.	.	PUNCT	Z	_	_	_	_	_	O
+

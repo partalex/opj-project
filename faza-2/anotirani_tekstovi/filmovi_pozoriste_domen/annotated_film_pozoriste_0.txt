@@ -1,0 +1,810 @@
+#name = teodora
+#domen = film_pozoriste
+#url = https://www.univerzitetskiodjek.com/kultura/film-i-tv/recenzija-filma-cuvari-formule
+# newpar id = 1
+# sent_id = 1.1
+# text = U godini kada je film „Openhajmer“ osvojio najveći broj obožavatelja i doživeo veliki uspeh, na domaćoj filmskoj sceni pojavilo se srpsko ostvarenje koje istražuje slične motive.
+1	U	_	_	_	_	_	_	_	_	O
+2	godini	_	_	_	_	_	_	_	_	O
+3	kada	_	_	_	_	_	_	_	_	O
+4	je	_	_	_	_	_	_	_	_	O
+5	film	_	_	_	_	_	_	_	_	O
+6	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+7	Openhajmer	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	“	“	PUNCT	Z	_	_	_	_	_	O
+9	osvojio	_	_	_	_	_	_	_	_	O
+10	najveći	_	_	_	_	_	_	_	_	O
+11	broj	_	_	_	_	_	_	_	_	O
+12	obožavatelja	_	_	_	_	_	_	_	_	O
+13	i	_	_	_	_	_	_	_	_	O
+14	doživeo	_	_	_	_	_	_	_	_	O
+15	veliki	_	_	_	_	_	_	_	_	O
+16	uspeh	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	,	,	PUNCT	Z	_	_	_	_	_	O
+18	na	_	_	_	_	_	_	_	_	O
+19	domaćoj	_	_	_	_	_	_	_	_	O
+20	filmskoj	_	_	_	_	_	_	_	_	O
+21	sceni	_	_	_	_	_	_	_	_	O
+22	pojavilo	_	_	_	_	_	_	_	_	O
+23	se	_	_	_	_	_	_	_	_	O
+24	srpsko	_	_	_	_	_	_	_	_	O
+25	ostvarenje	_	_	_	_	_	_	_	_	O
+26	koje	_	_	_	_	_	_	_	_	O
+27	istražuje	_	_	_	_	_	_	_	_	O
+28	slične	_	_	_	_	_	_	_	_	O
+29	motive	_	_	_	_	_	_	_	SpaceAfter=No	O
+30	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.2
+# text = „Čuvari formule“ je filmska drama koja je ugledala svetlost dana 2023. godine pod režiserskom palicom Dragana Bjelogrlića.
+1	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+2	Čuvari	_	_	_	_	_	_	_	_	O
+3	formule	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	“	“	PUNCT	Z	_	_	_	_	_	O
+5	je	_	_	_	_	_	_	_	_	O
+6	filmska	_	_	_	_	_	_	_	_	O
+7	drama	_	_	_	_	_	_	_	_	O
+8	koja	_	_	_	_	_	_	_	_	O
+9	je	_	_	_	_	_	_	_	_	O
+10	ugledala	_	_	_	_	_	_	_	_	O
+11	svetlost	_	_	_	_	_	_	_	_	O
+12	dana	_	_	_	_	_	_	_	_	O
+13	2023.	_	_	_	_	_	_	_	_	O
+14	godine	_	_	_	_	_	_	_	_	O
+15	pod	_	_	_	_	_	_	_	_	O
+16	režiserskom	_	_	_	_	_	_	_	_	O
+17	palicom	_	_	_	_	_	_	_	_	O
+18	Dragana	_	_	_	_	_	_	_	_	B-PER
+19	Bjelogrlića	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+20	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.3
+# text = Nagrađen na prestižnom filmskom festivalu u Lokarnu, ovaj film je kinematografska priča koja oživljava malo poznatu epizodu u istoriji jugoslovenske nuklearne fizike i medicine.
+1	Nagrađen	_	_	_	_	_	_	_	_	O
+2	na	_	_	_	_	_	_	_	_	O
+3	prestižnom	_	_	_	_	_	_	_	_	O
+4	filmskom	_	_	_	_	_	_	_	_	O
+5	festivalu	_	_	_	_	_	_	_	_	O
+6	u	_	_	_	_	_	_	_	_	O
+7	Lokarnu	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	ovaj	_	_	_	_	_	_	_	_	O
+10	film	_	_	_	_	_	_	_	_	O
+11	je	_	_	_	_	_	_	_	_	O
+12	kinematografska	_	_	_	_	_	_	_	_	O
+13	priča	_	_	_	_	_	_	_	_	O
+14	koja	_	_	_	_	_	_	_	_	O
+15	oživljava	_	_	_	_	_	_	_	_	O
+16	malo	_	_	_	_	_	_	_	_	O
+17	poznatu	_	_	_	_	_	_	_	_	O
+18	epizodu	_	_	_	_	_	_	_	_	O
+19	u	_	_	_	_	_	_	_	_	O
+20	istoriji	_	_	_	_	_	_	_	_	O
+21	jugoslovenske	_	_	_	_	_	_	_	_	O
+22	nuklearne	_	_	_	_	_	_	_	_	O
+23	fizike	_	_	_	_	_	_	_	_	O
+24	i	_	_	_	_	_	_	_	_	O
+25	medicine	_	_	_	_	_	_	_	SpaceAfter=No	O
+26	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 2
+# sent_id = 2.1
+# text = Smestivši nas u 1958. godinu, Bjelogrlić nas vodi u Naučni institut Vinča, gde mlada grupa srpskih naučnika, pod vođstvom nuklearnog fizičara Dragoslava Popovića (Radivoje Bukvić), radi na razvijanju jugoslovenske atomske bombe.
+1	Smestivši	_	_	_	_	_	_	_	_	O
+2	nas	_	_	_	_	_	_	_	_	O
+3	u	_	_	_	_	_	_	_	_	O
+4	1958.	_	_	_	_	_	_	_	_	O
+5	godinu	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	Bjelogrlić	_	_	_	_	_	_	_	_	B-PER
+8	nas	_	_	_	_	_	_	_	_	O
+9	vodi	_	_	_	_	_	_	_	_	O
+10	u	_	_	_	_	_	_	_	_	O
+11	Naučni	_	_	_	_	_	_	_	_	B-ORG
+12	institut	_	_	_	_	_	_	_	_	I-ORG
+13	Vinča	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+14	,	,	PUNCT	Z	_	_	_	_	_	O
+15	gde	_	_	_	_	_	_	_	_	O
+16	mlada	_	_	_	_	_	_	_	_	O
+17	grupa	_	_	_	_	_	_	_	_	O
+18	srpskih	_	_	_	_	_	_	_	_	O
+19	naučnika	_	_	_	_	_	_	_	SpaceAfter=No	O
+20	,	,	PUNCT	Z	_	_	_	_	_	O
+21	pod	_	_	_	_	_	_	_	_	O
+22	vođstvom	_	_	_	_	_	_	_	_	O
+23	nuklearnog	_	_	_	_	_	_	_	_	O
+24	fizičara	_	_	_	_	_	_	_	_	O
+25	Dragoslava	_	_	_	_	_	_	_	_	B-PER
+26	Popovića	_	_	_	_	_	_	_	_	I-PER
+27	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+28	Radivoje	_	_	_	_	_	_	_	_	B-PER
+29	Bukvić	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+30	)	)	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+31	,	,	PUNCT	Z	_	_	_	_	_	O
+32	radi	_	_	_	_	_	_	_	_	O
+33	na	_	_	_	_	_	_	_	_	O
+34	razvijanju	_	_	_	_	_	_	_	_	O
+35	jugoslovenske	_	_	_	_	_	_	_	_	O
+36	atomske	_	_	_	_	_	_	_	_	O
+37	bombe	_	_	_	_	_	_	_	SpaceAfter=No	O
+38	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.2
+# text = Ključnu ulogu ima sudbina kada se glavni likovi suočavaju s pogubnom dozom zračenja, te državna bezbednost brzo reaguje i premešta ih u Institut Kiri u Parizu.
+1	Ključnu	_	_	_	_	_	_	_	_	O
+2	ulogu	_	_	_	_	_	_	_	_	O
+3	ima	_	_	_	_	_	_	_	_	O
+4	sudbina	_	_	_	_	_	_	_	_	O
+5	kada	_	_	_	_	_	_	_	_	O
+6	se	_	_	_	_	_	_	_	_	O
+7	glavni	_	_	_	_	_	_	_	_	O
+8	likovi	_	_	_	_	_	_	_	_	O
+9	suočavaju	_	_	_	_	_	_	_	_	O
+10	s	_	_	_	_	_	_	_	_	O
+11	pogubnom	_	_	_	_	_	_	_	_	O
+12	dozom	_	_	_	_	_	_	_	_	O
+13	zračenja	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	,	,	PUNCT	Z	_	_	_	_	_	O
+15	te	_	_	_	_	_	_	_	_	O
+16	državna	_	_	_	_	_	_	_	_	O
+17	bezbednost	_	_	_	_	_	_	_	_	O
+18	brzo	_	_	_	_	_	_	_	_	O
+19	reaguje	_	_	_	_	_	_	_	_	O
+20	i	_	_	_	_	_	_	_	_	O
+21	premešta	_	_	_	_	_	_	_	_	O
+22	ih	_	_	_	_	_	_	_	_	O
+23	u	_	_	_	_	_	_	_	_	O
+24	Institut	_	_	_	_	_	_	_	_	B-ORG
+25	Kiri	_	_	_	_	_	_	_	_	I-ORG
+26	u	_	_	_	_	_	_	_	_	O
+27	Parizu	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+28	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 3
+# sent_id = 3.1
+# text = Film koji crpi inspiraciju iz dela Gorana Milašinovića „Slučaja Vinča“, istražuje slične motive kao i „Openhajmer“, ali daje potpuno novu dimenziju kada se u priču uvodi ključni element - empatija.
+1	Film	_	_	_	_	_	_	_	_	O
+2	koji	_	_	_	_	_	_	_	_	O
+3	crpi	_	_	_	_	_	_	_	_	O
+4	inspiraciju	_	_	_	_	_	_	_	_	O
+5	iz	_	_	_	_	_	_	_	_	O
+6	dela	_	_	_	_	_	_	_	_	O
+7	Gorana	_	_	_	_	_	_	_	_	B-PER
+8	Milašinovića	_	_	_	_	_	_	_	_	I-PER
+9	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+10	Slučaja	_	_	_	_	_	_	_	_	O
+11	Vinča	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+14	istražuje	_	_	_	_	_	_	_	_	O
+15	slične	_	_	_	_	_	_	_	_	O
+16	motive	_	_	_	_	_	_	_	_	O
+17	kao	_	_	_	_	_	_	_	_	O
+18	i	_	_	_	_	_	_	_	_	O
+19	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+20	Openhajmer	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+22	,	,	PUNCT	Z	_	_	_	_	_	O
+23	ali	_	_	_	_	_	_	_	_	O
+24	daje	_	_	_	_	_	_	_	_	O
+25	potpuno	_	_	_	_	_	_	_	_	O
+26	novu	_	_	_	_	_	_	_	_	O
+27	dimenziju	_	_	_	_	_	_	_	_	O
+28	kada	_	_	_	_	_	_	_	_	O
+29	se	_	_	_	_	_	_	_	_	O
+30	u	_	_	_	_	_	_	_	_	O
+31	priču	_	_	_	_	_	_	_	_	O
+32	uvodi	_	_	_	_	_	_	_	_	O
+33	ključni	_	_	_	_	_	_	_	_	O
+34	element	_	_	_	_	_	_	_	_	O
+35	-	-	PUNCT	Z	_	_	_	_	_	O
+36	empatija	_	_	_	_	_	_	_	SpaceAfter=No	O
+37	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 3.2
+# text = Bjelogrlićeva izvedba kao reditelja, u kombinaciji sa scenarijem autora Vuka Ršumovića i Ognjena Sviličića, pruža nam filmsko iskustvo koje će ostati urezano u našem pamćenju i nakon završetka projekcije.
+1	Bjelogrlićeva	_	_	_	_	_	_	_	_	B-PER
+2	izvedba	_	_	_	_	_	_	_	_	O
+3	kao	_	_	_	_	_	_	_	_	O
+4	reditelja	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	u	_	_	_	_	_	_	_	_	O
+7	kombinaciji	_	_	_	_	_	_	_	_	O
+8	sa	_	_	_	_	_	_	_	_	O
+9	scenarijem	_	_	_	_	_	_	_	_	O
+10	autora	_	_	_	_	_	_	_	_	O
+11	Vuka	_	_	_	_	_	_	_	_	B-PER
+12	Ršumovića	_	_	_	_	_	_	_	_	I-PER
+13	i	_	_	_	_	_	_	_	_	O
+14	Ognjena	_	_	_	_	_	_	_	_	B-PER
+15	Sviličića	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+16	,	,	PUNCT	Z	_	_	_	_	_	O
+17	pruža	_	_	_	_	_	_	_	_	O
+18	nam	_	_	_	_	_	_	_	_	O
+19	filmsko	_	_	_	_	_	_	_	_	O
+20	iskustvo	_	_	_	_	_	_	_	_	O
+21	koje	_	_	_	_	_	_	_	_	O
+22	će	_	_	_	_	_	_	_	_	O
+23	ostati	_	_	_	_	_	_	_	_	O
+24	urezano	_	_	_	_	_	_	_	_	O
+25	u	_	_	_	_	_	_	_	_	O
+26	našem	_	_	_	_	_	_	_	_	O
+27	pamćenju	_	_	_	_	_	_	_	_	O
+28	i	_	_	_	_	_	_	_	_	O
+29	nakon	_	_	_	_	_	_	_	_	O
+30	završetka	_	_	_	_	_	_	_	_	O
+31	projekcije	_	_	_	_	_	_	_	SpaceAfter=No	O
+32	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 4
+# sent_id = 4.1
+# text = Snažan početak postavlja temelje za dramatičan događaj koji će uskoro zavladati ekranom.
+1	Snažan	_	_	_	_	_	_	_	_	O
+2	početak	_	_	_	_	_	_	_	_	O
+3	postavlja	_	_	_	_	_	_	_	_	O
+4	temelje	_	_	_	_	_	_	_	_	O
+5	za	_	_	_	_	_	_	_	_	O
+6	dramatičan	_	_	_	_	_	_	_	_	O
+7	događaj	_	_	_	_	_	_	_	_	O
+8	koji	_	_	_	_	_	_	_	_	O
+9	će	_	_	_	_	_	_	_	_	O
+10	uskoro	_	_	_	_	_	_	_	_	O
+11	zavladati	_	_	_	_	_	_	_	_	O
+12	ekranom	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 4.2
+# text = Institut u Vinči, osnovan nakon raskola Jugoslavije sa Staljinom, kada je zemlja izgubila svoje mesto u Komunističkom informacionom birou, postaje epicentar tajnog poduhvata izrade atomske bombe.
+1	Institut	_	_	_	_	_	_	_	_	B-ORG
+2	u	_	_	_	_	_	_	_	_	I-ORG
+3	Vinči	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	osnovan	_	_	_	_	_	_	_	_	O
+6	nakon	_	_	_	_	_	_	_	_	O
+7	raskola	_	_	_	_	_	_	_	_	O
+8	Jugoslavije	_	_	_	_	_	_	_	_	B-LOC
+9	sa	_	_	_	_	_	_	_	_	O
+10	Staljinom	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	kada	_	_	_	_	_	_	_	_	O
+13	je	_	_	_	_	_	_	_	_	O
+14	zemlja	_	_	_	_	_	_	_	_	O
+15	izgubila	_	_	_	_	_	_	_	_	O
+16	svoje	_	_	_	_	_	_	_	_	O
+17	mesto	_	_	_	_	_	_	_	_	O
+18	u	_	_	_	_	_	_	_	_	O
+19	Komunističkom	_	_	_	_	_	_	_	_	B-ORG
+20	informacionom	_	_	_	_	_	_	_	_	I-ORG
+21	birou	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+22	,	,	PUNCT	Z	_	_	_	_	_	O
+23	postaje	_	_	_	_	_	_	_	_	O
+24	epicentar	_	_	_	_	_	_	_	_	O
+25	tajnog	_	_	_	_	_	_	_	_	O
+26	poduhvata	_	_	_	_	_	_	_	_	O
+27	izrade	_	_	_	_	_	_	_	_	O
+28	atomske	_	_	_	_	_	_	_	_	O
+29	bombe	_	_	_	_	_	_	_	SpaceAfter=No	O
+30	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 4.3
+# text = Izuzetna kinematografija, s pažljivo osmišljenim kadrovima koji naglašavaju atmosferu filma i posebno ističu istorijsku pozadinu, zajedno s autentičnom scenografijom i kostimografijom, uspešno dočarava epohu, prenoseći gledaoce u vreme hladnog rata i nekadašnje Jugoslavije.
+1	Izuzetna	_	_	_	_	_	_	_	_	O
+2	kinematografija	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	s	_	_	_	_	_	_	_	_	O
+5	pažljivo	_	_	_	_	_	_	_	_	O
+6	osmišljenim	_	_	_	_	_	_	_	_	O
+7	kadrovima	_	_	_	_	_	_	_	_	O
+8	koji	_	_	_	_	_	_	_	_	O
+9	naglašavaju	_	_	_	_	_	_	_	_	O
+10	atmosferu	_	_	_	_	_	_	_	_	O
+11	filma	_	_	_	_	_	_	_	_	O
+12	i	_	_	_	_	_	_	_	_	O
+13	posebno	_	_	_	_	_	_	_	_	O
+14	ističu	_	_	_	_	_	_	_	_	O
+15	istorijsku	_	_	_	_	_	_	_	_	O
+16	pozadinu	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	,	,	PUNCT	Z	_	_	_	_	_	O
+18	zajedno	_	_	_	_	_	_	_	_	O
+19	s	_	_	_	_	_	_	_	_	O
+20	autentičnom	_	_	_	_	_	_	_	_	O
+21	scenografijom	_	_	_	_	_	_	_	_	O
+22	i	_	_	_	_	_	_	_	_	O
+23	kostimografijom	_	_	_	_	_	_	_	SpaceAfter=No	O
+24	,	,	PUNCT	Z	_	_	_	_	_	O
+25	uspešno	_	_	_	_	_	_	_	_	O
+26	dočarava	_	_	_	_	_	_	_	_	O
+27	epohu	_	_	_	_	_	_	_	SpaceAfter=No	O
+28	,	,	PUNCT	Z	_	_	_	_	_	O
+29	prenoseći	_	_	_	_	_	_	_	_	O
+30	gledaoce	_	_	_	_	_	_	_	_	O
+31	u	_	_	_	_	_	_	_	_	O
+32	vreme	_	_	_	_	_	_	_	_	O
+33	hladnog	_	_	_	_	_	_	_	_	O
+34	rata	_	_	_	_	_	_	_	_	O
+35	i	_	_	_	_	_	_	_	_	O
+36	nekadašnje	_	_	_	_	_	_	_	_	O
+37	Jugoslavije	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+38	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 4.4
+# text = Pored toga, veštom montažom, ovaj film uspeva održati dinamiku i napetost tokom celog trajanja tako da svakog trenutka drži gleadoce u neizvesnosti.
+1	Pored	_	_	_	_	_	_	_	_	O
+2	toga	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	veštom	_	_	_	_	_	_	_	_	O
+5	montažom	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	ovaj	_	_	_	_	_	_	_	_	O
+8	film	_	_	_	_	_	_	_	_	O
+9	uspeva	_	_	_	_	_	_	_	_	O
+10	održati	_	_	_	_	_	_	_	_	O
+11	dinamiku	_	_	_	_	_	_	_	_	O
+12	i	_	_	_	_	_	_	_	_	O
+13	napetost	_	_	_	_	_	_	_	_	O
+14	tokom	_	_	_	_	_	_	_	_	O
+15	celog	_	_	_	_	_	_	_	_	O
+16	trajanja	_	_	_	_	_	_	_	_	O
+17	tako	_	_	_	_	_	_	_	_	O
+18	da	_	_	_	_	_	_	_	_	O
+19	svakog	_	_	_	_	_	_	_	_	O
+20	trenutka	_	_	_	_	_	_	_	_	O
+21	drži	_	_	_	_	_	_	_	_	O
+22	gleadoce	_	_	_	_	_	_	_	_	O
+23	u	_	_	_	_	_	_	_	_	O
+24	neizvesnosti	_	_	_	_	_	_	_	SpaceAfter=No	O
+25	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 5
+# sent_id = 5.1
+# text = Izvanredan ansambl glumaca u ovom filmu formira snažan tim, prikazujući kompleksnost likova i njihove unutrašnje moralne i profesionalne sukobe.
+1	Izvanredan	_	_	_	_	_	_	_	_	O
+2	ansambl	_	_	_	_	_	_	_	_	O
+3	glumaca	_	_	_	_	_	_	_	_	O
+4	u	_	_	_	_	_	_	_	_	O
+5	ovom	_	_	_	_	_	_	_	_	O
+6	filmu	_	_	_	_	_	_	_	_	O
+7	formira	_	_	_	_	_	_	_	_	O
+8	snažan	_	_	_	_	_	_	_	_	O
+9	tim	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	prikazujući	_	_	_	_	_	_	_	_	O
+12	kompleksnost	_	_	_	_	_	_	_	_	O
+13	likova	_	_	_	_	_	_	_	_	O
+14	i	_	_	_	_	_	_	_	_	O
+15	njihove	_	_	_	_	_	_	_	_	O
+16	unutrašnje	_	_	_	_	_	_	_	_	O
+17	moralne	_	_	_	_	_	_	_	_	O
+18	i	_	_	_	_	_	_	_	_	O
+19	profesionalne	_	_	_	_	_	_	_	_	O
+20	sukobe	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 5.2
+# text = Ognjen Mićović kao Života, Jovan Jovanović kao Radojko i Alisa Radaković kao Rosa pružaju impresivne izvedbe, prenoseći fizičke i emocionalne izazove njihovih likova tokom lečenja.
+1	Ognjen	_	_	_	_	_	_	_	_	B-PER
+2	Mićović	_	_	_	_	_	_	_	_	I-PER
+3	kao	_	_	_	_	_	_	_	_	O
+4	Života	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	Jovan	_	_	_	_	_	_	_	_	B-PER
+7	Jovanović	_	_	_	_	_	_	_	_	I-PER
+8	kao	_	_	_	_	_	_	_	_	O
+9	Radojko	_	_	_	_	_	_	_	_	B-PER
+10	i	_	_	_	_	_	_	_	_	O
+11	Alisa	_	_	_	_	_	_	_	_	B-PER
+12	Radaković	_	_	_	_	_	_	_	_	I-PER
+13	kao	_	_	_	_	_	_	_	_	O
+14	Rosa	_	_	_	_	_	_	_	_	B-PER
+15	pružaju	_	_	_	_	_	_	_	_	O
+16	impresivne	_	_	_	_	_	_	_	_	O
+17	izvedbe	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	,	,	PUNCT	Z	_	_	_	_	_	O
+19	prenoseći	_	_	_	_	_	_	_	_	O
+20	fizičke	_	_	_	_	_	_	_	_	O
+21	i	_	_	_	_	_	_	_	_	O
+22	emocionalne	_	_	_	_	_	_	_	_	O
+23	izazove	_	_	_	_	_	_	_	_	O
+24	njihovih	_	_	_	_	_	_	_	_	O
+25	likova	_	_	_	_	_	_	_	_	O
+26	tokom	_	_	_	_	_	_	_	_	O
+27	lečenja	_	_	_	_	_	_	_	SpaceAfter=No	O
+28	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 5.3
+# text = Dodatnu dubinu priči i međunarodni aspekt filma donose i francuski glumci, uključujući Lionela Abelanskog, Žeremija Laherta, Anu Saru i Olivijra Bartelemija.
+1	Dodatnu	_	_	_	_	_	_	_	_	O
+2	dubinu	_	_	_	_	_	_	_	_	O
+3	priči	_	_	_	_	_	_	_	_	O
+4	i	_	_	_	_	_	_	_	_	O
+5	međunarodni	_	_	_	_	_	_	_	_	O
+6	aspekt	_	_	_	_	_	_	_	_	O
+7	filma	_	_	_	_	_	_	_	_	O
+8	donose	_	_	_	_	_	_	_	_	O
+9	i	_	_	_	_	_	_	_	_	O
+10	francuski	_	_	_	_	_	_	_	_	O
+11	glumci	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	uključujući	_	_	_	_	_	_	_	_	O
+14	Lionela	_	_	_	_	_	_	_	_	B-PER
+15	Abelanskog	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+16	,	,	PUNCT	Z	_	_	_	_	_	O
+17	Žeremija	_	_	_	_	_	_	_	_	B-PER
+18	Laherta	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+19	,	,	PUNCT	Z	_	_	_	_	_	O
+20	Anu	_	_	_	_	_	_	_	_	B-PER
+21	Saru	_	_	_	_	_	_	_	_	I-PER
+22	i	_	_	_	_	_	_	_	_	O
+23	Olivijra	_	_	_	_	_	_	_	_	B-PER
+24	Bartelemija	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+25	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 6
+# sent_id = 6.1
+# text = Aleksis Manenti, francuski glumac sa brojnim priznanjima, igra ulogu profesora Matea, stručnjaka posvećenog medicini.
+1	Aleksis	_	_	_	_	_	_	_	_	B-PER
+2	Manenti	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	francuski	_	_	_	_	_	_	_	_	O
+5	glumac	_	_	_	_	_	_	_	_	O
+6	sa	_	_	_	_	_	_	_	_	O
+7	brojnim	_	_	_	_	_	_	_	_	O
+8	priznanjima	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	igra	_	_	_	_	_	_	_	_	O
+11	ulogu	_	_	_	_	_	_	_	_	O
+12	profesora	_	_	_	_	_	_	_	_	O
+13	Matea	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
+14	,	,	PUNCT	Z	_	_	_	_	_	O
+15	stručnjaka	_	_	_	_	_	_	_	_	O
+16	posvećenog	_	_	_	_	_	_	_	_	O
+17	medicini	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 6.2
+# text = On nas uvodi u složenu ličnost kakav je profesor Mate, čoveka koji je odan nauci i filantrop.
+1	On	_	_	_	_	_	_	_	_	O
+2	nas	_	_	_	_	_	_	_	_	O
+3	uvodi	_	_	_	_	_	_	_	_	O
+4	u	_	_	_	_	_	_	_	_	O
+5	složenu	_	_	_	_	_	_	_	_	O
+6	ličnost	_	_	_	_	_	_	_	_	O
+7	kakav	_	_	_	_	_	_	_	_	O
+8	je	_	_	_	_	_	_	_	_	O
+9	profesor	_	_	_	_	_	_	_	_	O
+10	Mate	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	čoveka	_	_	_	_	_	_	_	_	O
+13	koji	_	_	_	_	_	_	_	_	O
+14	je	_	_	_	_	_	_	_	_	O
+15	odan	_	_	_	_	_	_	_	_	O
+16	nauci	_	_	_	_	_	_	_	_	O
+17	i	_	_	_	_	_	_	_	_	O
+18	filantrop	_	_	_	_	_	_	_	SpaceAfter=No	O
+19	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 6.3
+# text = Njegova prva reakcija na poziv da učestvuje u lečenju mladih naučnika, čija su istraživanja usmerena na nuklearno oružje, odražava se na njegove  duboke moralne dileme i etička pitanja.
+1	Njegova	_	_	_	_	_	_	_	_	O
+2	prva	_	_	_	_	_	_	_	_	O
+3	reakcija	_	_	_	_	_	_	_	_	O
+4	na	_	_	_	_	_	_	_	_	O
+5	poziv	_	_	_	_	_	_	_	_	O
+6	da	_	_	_	_	_	_	_	_	O
+7	učestvuje	_	_	_	_	_	_	_	_	O
+8	u	_	_	_	_	_	_	_	_	O
+9	lečenju	_	_	_	_	_	_	_	_	O
+10	mladih	_	_	_	_	_	_	_	_	O
+11	naučnika	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	čija	_	_	_	_	_	_	_	_	O
+14	su	_	_	_	_	_	_	_	_	O
+15	istraživanja	_	_	_	_	_	_	_	_	O
+16	usmerena	_	_	_	_	_	_	_	_	O
+17	na	_	_	_	_	_	_	_	_	O
+18	nuklearno	_	_	_	_	_	_	_	_	O
+19	oružje	_	_	_	_	_	_	_	SpaceAfter=No	O
+20	,	,	PUNCT	Z	_	_	_	_	_	O
+21	odražava	_	_	_	_	_	_	_	_	O
+22	se	_	_	_	_	_	_	_	_	O
+23	na	_	_	_	_	_	_	_	_	O
+24	njegove	_	_	_	_	_	_	_	_	O
+25	duboke	_	_	_	_	_	_	_	_	O
+26	moralne	_	_	_	_	_	_	_	_	O
+27	dileme	_	_	_	_	_	_	_	_	O
+28	i	_	_	_	_	_	_	_	_	O
+29	etička	_	_	_	_	_	_	_	_	O
+30	pitanja	_	_	_	_	_	_	_	SpaceAfter=No	O
+31	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 6.4
+# text = Manenti, posebno, uspeva da prikaže Matea kao čoveka koji je predvodnik medicinskog čuda, ali i kao osobu koja nosi teret odgovornosti.
+1	Manenti	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	posebno	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	uspeva	_	_	_	_	_	_	_	_	O
+6	da	_	_	_	_	_	_	_	_	O
+7	prikaže	_	_	_	_	_	_	_	_	O
+8	Matea	_	_	_	_	_	_	_	_	B-PER
+9	kao	_	_	_	_	_	_	_	_	O
+10	čoveka	_	_	_	_	_	_	_	_	O
+11	koji	_	_	_	_	_	_	_	_	O
+12	je	_	_	_	_	_	_	_	_	O
+13	predvodnik	_	_	_	_	_	_	_	_	O
+14	medicinskog	_	_	_	_	_	_	_	_	O
+15	čuda	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	,	,	PUNCT	Z	_	_	_	_	_	O
+17	ali	_	_	_	_	_	_	_	_	O
+18	i	_	_	_	_	_	_	_	_	O
+19	kao	_	_	_	_	_	_	_	_	O
+20	osobu	_	_	_	_	_	_	_	_	O
+21	koja	_	_	_	_	_	_	_	_	O
+22	nosi	_	_	_	_	_	_	_	_	O
+23	teret	_	_	_	_	_	_	_	_	O
+24	odgovornosti	_	_	_	_	_	_	_	SpaceAfter=No	O
+25	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 7
+# sent_id = 7.1
+# text = S druge strane, Raša Bukvić u ulozi Dragoslava Popovića ostavlja utisak antagoniste tokom čitavog filma.
+1	S	_	_	_	_	_	_	_	_	O
+2	druge	_	_	_	_	_	_	_	_	O
+3	strane	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	Raša	_	_	_	_	_	_	_	_	B-PER
+6	Bukvić	_	_	_	_	_	_	_	_	I-PER
+7	u	_	_	_	_	_	_	_	_	O
+8	ulozi	_	_	_	_	_	_	_	_	O
+9	Dragoslava	_	_	_	_	_	_	_	_	B-PER
+10	Popovića	_	_	_	_	_	_	_	_	I-PER
+11	ostavlja	_	_	_	_	_	_	_	_	O
+12	utisak	_	_	_	_	_	_	_	_	O
+13	antagoniste	_	_	_	_	_	_	_	_	O
+14	tokom	_	_	_	_	_	_	_	_	O
+15	čitavog	_	_	_	_	_	_	_	_	O
+16	filma	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 7.2
+# text = Njegov ego i ambicija za uspehom dovode u opasnost živote mladih ljudi koji s njim sarađuju.
+1	Njegov	_	_	_	_	_	_	_	_	O
+2	ego	_	_	_	_	_	_	_	_	O
+3	i	_	_	_	_	_	_	_	_	O
+4	ambicija	_	_	_	_	_	_	_	_	O
+5	za	_	_	_	_	_	_	_	_	O
+6	uspehom	_	_	_	_	_	_	_	_	O
+7	dovode	_	_	_	_	_	_	_	_	O
+8	u	_	_	_	_	_	_	_	_	O
+9	opasnost	_	_	_	_	_	_	_	_	O
+10	živote	_	_	_	_	_	_	_	_	O
+11	mladih	_	_	_	_	_	_	_	_	O
+12	ljudi	_	_	_	_	_	_	_	_	O
+13	koji	_	_	_	_	_	_	_	_	O
+14	s	_	_	_	_	_	_	_	_	O
+15	njim	_	_	_	_	_	_	_	_	O
+16	sarađuju	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 7.3
+# text = U njegove lične interese je uvučen Aleksandar Leka Ranković, potpredsednik Jugoslavije, čiju ulogu tumači Dragan Bjelogrlić, dodajući novi sloj i naglašavajući političku kompleksnost priče.
+1	U	_	_	_	_	_	_	_	_	O
+2	njegove	_	_	_	_	_	_	_	_	O
+3	lične	_	_	_	_	_	_	_	_	O
+4	interese	_	_	_	_	_	_	_	_	O
+5	je	_	_	_	_	_	_	_	_	O
+6	uvučen	_	_	_	_	_	_	_	_	O
+7	Aleksandar	_	_	_	_	_	_	_	_	B-PER
+8	Leka	_	_	_	_	_	_	_	_	I-PER
+9	Ranković	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	potpredsednik	_	_	_	_	_	_	_	_	O
+12	Jugoslavije	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+14	čiju	_	_	_	_	_	_	_	_	O
+15	ulogu	_	_	_	_	_	_	_	_	O
+16	tumači	_	_	_	_	_	_	_	_	O
+17	Dragan	_	_	_	_	_	_	_	_	B-PER
+18	Bjelogrlić	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+19	,	,	PUNCT	Z	_	_	_	_	_	O
+20	dodajući	_	_	_	_	_	_	_	_	O
+21	novi	_	_	_	_	_	_	_	_	O
+22	sloj	_	_	_	_	_	_	_	_	O
+23	i	_	_	_	_	_	_	_	_	O
+24	naglašavajući	_	_	_	_	_	_	_	_	O
+25	političku	_	_	_	_	_	_	_	_	O
+26	kompleksnost	_	_	_	_	_	_	_	_	O
+27	priče	_	_	_	_	_	_	_	SpaceAfter=No	O
+28	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 8
+# sent_id = 8.1
+# text = Iako film uzima određene slobode u tumačenju istorijskih događaja, ove promene imaju ulogu da pojačaju emotivni utisak i doprinesu narativu.
+1	Iako	_	_	_	_	_	_	_	_	O
+2	film	_	_	_	_	_	_	_	_	O
+3	uzima	_	_	_	_	_	_	_	_	O
+4	određene	_	_	_	_	_	_	_	_	O
+5	slobode	_	_	_	_	_	_	_	_	O
+6	u	_	_	_	_	_	_	_	_	O
+7	tumačenju	_	_	_	_	_	_	_	_	O
+8	istorijskih	_	_	_	_	_	_	_	_	O
+9	događaja	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	ove	_	_	_	_	_	_	_	_	O
+12	promene	_	_	_	_	_	_	_	_	O
+13	imaju	_	_	_	_	_	_	_	_	O
+14	ulogu	_	_	_	_	_	_	_	_	O
+15	da	_	_	_	_	_	_	_	_	O
+16	pojačaju	_	_	_	_	_	_	_	_	O
+17	emotivni	_	_	_	_	_	_	_	_	O
+18	utisak	_	_	_	_	_	_	_	_	O
+19	i	_	_	_	_	_	_	_	_	O
+20	doprinesu	_	_	_	_	_	_	_	_	O
+21	narativu	_	_	_	_	_	_	_	SpaceAfter=No	O
+22	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 8.2
+# text = Bjelogrlić i njegov tim uspešno balansiraju između istorijske tačnosti i fikcionalnih elemenata, stvarajući priču koja je istovremeno poučna i emotivna.
+1	Bjelogrlić	_	_	_	_	_	_	_	_	B-PER
+2	i	_	_	_	_	_	_	_	_	O
+3	njegov	_	_	_	_	_	_	_	_	O
+4	tim	_	_	_	_	_	_	_	_	O
+5	uspešno	_	_	_	_	_	_	_	_	O
+6	balansiraju	_	_	_	_	_	_	_	_	O
+7	između	_	_	_	_	_	_	_	_	O
+8	istorijske	_	_	_	_	_	_	_	_	O
+9	tačnosti	_	_	_	_	_	_	_	_	O
+10	i	_	_	_	_	_	_	_	_	O
+11	fikcionalnih	_	_	_	_	_	_	_	_	O
+12	elemenata	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+14	stvarajući	_	_	_	_	_	_	_	_	O
+15	priču	_	_	_	_	_	_	_	_	O
+16	koja	_	_	_	_	_	_	_	_	O
+17	je	_	_	_	_	_	_	_	_	O
+18	istovremeno	_	_	_	_	_	_	_	_	O
+19	poučna	_	_	_	_	_	_	_	_	O
+20	i	_	_	_	_	_	_	_	_	O
+21	emotivna	_	_	_	_	_	_	_	SpaceAfter=No	O
+22	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 9
+# sent_id = 9.1
+# text = U svetu kinematografije, retko se dešava da film uspe da prenese kompleksnu istorijsku temu sa takvom emocionalnom snagom i umetničkom veštinom kao što je to učinio „Čuvari Formule“.
+1	U	_	_	_	_	_	_	_	_	O
+2	svetu	_	_	_	_	_	_	_	_	O
+3	kinematografije	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	retko	_	_	_	_	_	_	_	_	O
+6	se	_	_	_	_	_	_	_	_	O
+7	dešava	_	_	_	_	_	_	_	_	O
+8	da	_	_	_	_	_	_	_	_	O
+9	film	_	_	_	_	_	_	_	_	O
+10	uspe	_	_	_	_	_	_	_	_	O
+11	da	_	_	_	_	_	_	_	_	O
+12	prenese	_	_	_	_	_	_	_	_	O
+13	kompleksnu	_	_	_	_	_	_	_	_	O
+14	istorijsku	_	_	_	_	_	_	_	_	O
+15	temu	_	_	_	_	_	_	_	_	O
+16	sa	_	_	_	_	_	_	_	_	O
+17	takvom	_	_	_	_	_	_	_	_	O
+18	emocionalnom	_	_	_	_	_	_	_	_	O
+19	snagom	_	_	_	_	_	_	_	_	O
+20	i	_	_	_	_	_	_	_	_	O
+21	umetničkom	_	_	_	_	_	_	_	_	O
+22	veštinom	_	_	_	_	_	_	_	_	O
+23	kao	_	_	_	_	_	_	_	_	O
+24	što	_	_	_	_	_	_	_	_	O
+25	je	_	_	_	_	_	_	_	_	O
+26	to	_	_	_	_	_	_	_	_	O
+27	učinio	_	_	_	_	_	_	_	_	O
+28	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+29	Čuvari	_	_	_	_	_	_	_	_	O
+30	Formule	_	_	_	_	_	_	_	SpaceAfter=No	O
+31	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+32	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 9.2
+# text = Ovaj film, koji se bavi događajima iz 1958. godine u Institutu za nuklearne nauke u Vinči, nije priča o ambicijama jedne zemlje da se upusti u trku za nuklearnu nadmoć, već je dirljiva priča o ljudskosti, naučnom otkriću i posledicama koje jedan događaj može imati na čitav svet.
+1	Ovaj	_	_	_	_	_	_	_	_	O
+2	film	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	koji	_	_	_	_	_	_	_	_	O
+5	se	_	_	_	_	_	_	_	_	O
+6	bavi	_	_	_	_	_	_	_	_	O
+7	događajima	_	_	_	_	_	_	_	_	O
+8	iz	_	_	_	_	_	_	_	_	O
+9	1958.	_	_	_	_	_	_	_	_	O
+10	godine	_	_	_	_	_	_	_	_	O
+11	u	_	_	_	_	_	_	_	_	O
+12	Institutu	_	_	_	_	_	_	_	_	B-ORG
+13	za	_	_	_	_	_	_	_	_	I-ORG
+14	nuklearne	_	_	_	_	_	_	_	_	I-ORG
+15	nauke	_	_	_	_	_	_	_	_	I-ORG
+16	u	_	_	_	_	_	_	_	_	I-ORG
+17	Vinči	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+18	,	,	PUNCT	Z	_	_	_	_	_	O
+19	nije	_	_	_	_	_	_	_	_	O
+20	priča	_	_	_	_	_	_	_	_	O
+21	o	_	_	_	_	_	_	_	_	O
+22	ambicijama	_	_	_	_	_	_	_	_	O
+23	jedne	_	_	_	_	_	_	_	_	O
+24	zemlje	_	_	_	_	_	_	_	_	O
+25	da	_	_	_	_	_	_	_	_	O
+26	se	_	_	_	_	_	_	_	_	O
+27	upusti	_	_	_	_	_	_	_	_	O
+28	u	_	_	_	_	_	_	_	_	O
+29	trku	_	_	_	_	_	_	_	_	O
+30	za	_	_	_	_	_	_	_	_	O
+31	nuklearnu	_	_	_	_	_	_	_	_	O
+32	nadmoć	_	_	_	_	_	_	_	SpaceAfter=No	O
+33	,	,	PUNCT	Z	_	_	_	_	_	O
+34	već	_	_	_	_	_	_	_	_	O
+35	je	_	_	_	_	_	_	_	_	O
+36	dirljiva	_	_	_	_	_	_	_	_	O
+37	priča	_	_	_	_	_	_	_	_	O
+38	o	_	_	_	_	_	_	_	_	O
+39	ljudskosti	_	_	_	_	_	_	_	SpaceAfter=No	O
+40	,	,	PUNCT	Z	_	_	_	_	_	O
+41	naučnom	_	_	_	_	_	_	_	_	O
+42	otkriću	_	_	_	_	_	_	_	_	O
+43	i	_	_	_	_	_	_	_	_	O
+44	posledicama	_	_	_	_	_	_	_	_	O
+45	koje	_	_	_	_	_	_	_	_	O
+46	jedan	_	_	_	_	_	_	_	_	O
+47	događaj	_	_	_	_	_	_	_	_	O
+48	može	_	_	_	_	_	_	_	_	O
+49	imati	_	_	_	_	_	_	_	_	O
+50	na	_	_	_	_	_	_	_	_	O
+51	čitav	_	_	_	_	_	_	_	_	O
+52	svet	_	_	_	_	_	_	_	SpaceAfter=No	O
+53	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 10
+# sent_id = 10.1
+# text = Ovo filmsko ostvarenje obećava da će ostati urezano u kolektivno sećanje, prenoseći gledaocima izuzetnu priču.
+1	Ovo	_	_	_	_	_	_	_	_	O
+2	filmsko	_	_	_	_	_	_	_	_	O
+3	ostvarenje	_	_	_	_	_	_	_	_	O
+4	obećava	_	_	_	_	_	_	_	_	O
+5	da	_	_	_	_	_	_	_	_	O
+6	će	_	_	_	_	_	_	_	_	O
+7	ostati	_	_	_	_	_	_	_	_	O
+8	urezano	_	_	_	_	_	_	_	_	O
+9	u	_	_	_	_	_	_	_	_	O
+10	kolektivno	_	_	_	_	_	_	_	_	O
+11	sećanje	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	prenoseći	_	_	_	_	_	_	_	_	O
+14	gledaocima	_	_	_	_	_	_	_	_	O
+15	izuzetnu	_	_	_	_	_	_	_	_	O
+16	priču	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 10.2
+# text = „Čuvari formule“ ne samo da je ispunio očekivanja, već ih je i nadmašio, pružajući nezaboravno iskustvo ljubiteljima sedme umetnosti.
+1	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+2	Čuvari	_	_	_	_	_	_	_	_	O
+3	formule	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	“	“	PUNCT	Z	_	_	_	_	_	O
+5	ne	_	_	_	_	_	_	_	_	O
+6	samo	_	_	_	_	_	_	_	_	O
+7	da	_	_	_	_	_	_	_	_	O
+8	je	_	_	_	_	_	_	_	_	O
+9	ispunio	_	_	_	_	_	_	_	_	O
+10	očekivanja	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	već	_	_	_	_	_	_	_	_	O
+13	ih	_	_	_	_	_	_	_	_	O
+14	je	_	_	_	_	_	_	_	_	O
+15	i	_	_	_	_	_	_	_	_	O
+16	nadmašio	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	,	,	PUNCT	Z	_	_	_	_	_	O
+18	pružajući	_	_	_	_	_	_	_	_	O
+19	nezaboravno	_	_	_	_	_	_	_	_	O
+20	iskustvo	_	_	_	_	_	_	_	_	O
+21	ljubiteljima	_	_	_	_	_	_	_	_	O
+22	sedme	_	_	_	_	_	_	_	_	O
+23	umetnosti	_	_	_	_	_	_	_	SpaceAfter=No	O
+24	.	.	PUNCT	Z	_	_	_	_	_	O
+

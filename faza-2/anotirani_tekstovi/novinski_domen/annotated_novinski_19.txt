@@ -1,0 +1,305 @@
+#name = ognjen
+#domen = novinski
+#url = https://nova.rs/vesti/svet/tramp-dao-zeleno-svetlo-ukrajini-udarite-duboko-u-rusiju/
+# newpar id = 1
+# sent_id = 1.1
+# text = Kit Kelog, specijalni izaslanik američkog predsednika Donalda Trampa za Ukrajinu, potvrdio je da je Tramp dao odobrenje Kijevu za izvođenje dalekometnih udara na teritoriju Rusije.
+1	Kit	_	_	_	_	_	_	_	_	B-PER
+2	Kelog	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	specijalni	_	_	_	_	_	_	_	_	O
+5	izaslanik	_	_	_	_	_	_	_	_	O
+6	američkog	_	_	_	_	_	_	_	_	O
+7	predsednika	_	_	_	_	_	_	_	_	O
+8	Donalda	_	_	_	_	_	_	_	_	B-PER
+9	Trampa	_	_	_	_	_	_	_	_	I-PER
+10	za	_	_	_	_	_	_	_	_	O
+11	Ukrajinu	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	potvrdio	_	_	_	_	_	_	_	_	O
+14	je	_	_	_	_	_	_	_	_	O
+15	da	_	_	_	_	_	_	_	_	O
+16	je	_	_	_	_	_	_	_	_	O
+17	Tramp	_	_	_	_	_	_	_	_	B-PER
+18	dao	_	_	_	_	_	_	_	_	O
+19	odobrenje	_	_	_	_	_	_	_	_	O
+20	Kijevu	_	_	_	_	_	_	_	_	B-LOC
+21	za	_	_	_	_	_	_	_	_	O
+22	izvođenje	_	_	_	_	_	_	_	_	O
+23	dalekometnih	_	_	_	_	_	_	_	_	O
+24	udara	_	_	_	_	_	_	_	_	O
+25	na	_	_	_	_	_	_	_	_	O
+26	teritoriju	_	_	_	_	_	_	_	_	O
+27	Rusije	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+28	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.2
+# text = Kelog je to izjavio u razgovoru za Foks Njuz.
+1	Kelog	_	_	_	_	_	_	_	_	B-PER
+2	je	_	_	_	_	_	_	_	_	O
+3	to	_	_	_	_	_	_	_	_	O
+4	izjavio	_	_	_	_	_	_	_	_	O
+5	u	_	_	_	_	_	_	_	_	O
+6	razgovoru	_	_	_	_	_	_	_	_	O
+7	za	_	_	_	_	_	_	_	_	O
+8	Foks	_	_	_	_	_	_	_	_	B-ORG
+9	Njuz	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+10	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 2
+# sent_id = 2.1
+# text = Na direktno pitanje znači li Trampov stav da Ukrajina može izvoditi dalekometne udare na Rusiju, Kelog je odgovorio potvrdno.
+1	Na	_	_	_	_	_	_	_	_	O
+2	direktno	_	_	_	_	_	_	_	_	O
+3	pitanje	_	_	_	_	_	_	_	_	O
+4	znači	_	_	_	_	_	_	_	_	O
+5	li	_	_	_	_	_	_	_	_	O
+6	Trampov	_	_	_	_	_	_	_	_	B-PER
+7	stav	_	_	_	_	_	_	_	_	O
+8	da	_	_	_	_	_	_	_	_	O
+9	Ukrajina	_	_	_	_	_	_	_	_	B-LOC
+10	može	_	_	_	_	_	_	_	_	O
+11	izvoditi	_	_	_	_	_	_	_	_	O
+12	dalekometne	_	_	_	_	_	_	_	_	O
+13	udare	_	_	_	_	_	_	_	_	O
+14	na	_	_	_	_	_	_	_	_	O
+15	Rusiju	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+16	,	,	PUNCT	Z	_	_	_	_	_	O
+17	Kelog	_	_	_	_	_	_	_	_	B-PER
+18	je	_	_	_	_	_	_	_	_	O
+19	odgovorio	_	_	_	_	_	_	_	_	O
+20	potvrdno	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.2
+# text = „Mislim da, čitajući šta je on rekao, i čitajući šta su rekli potpredsednik Džej Di Vens kao i sekretar Marko Rubio, odgovor je da.
+1	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+2	Mislim	_	_	_	_	_	_	_	_	O
+3	da	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	čitajući	_	_	_	_	_	_	_	_	O
+6	šta	_	_	_	_	_	_	_	_	O
+7	je	_	_	_	_	_	_	_	_	O
+8	on	_	_	_	_	_	_	_	_	O
+9	rekao	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	i	_	_	_	_	_	_	_	_	O
+12	čitajući	_	_	_	_	_	_	_	_	O
+13	šta	_	_	_	_	_	_	_	_	O
+14	su	_	_	_	_	_	_	_	_	O
+15	rekli	_	_	_	_	_	_	_	_	O
+16	potpredsednik	_	_	_	_	_	_	_	_	O
+17	Džej	_	_	_	_	_	_	_	_	B-PER
+18	Di	_	_	_	_	_	_	_	_	I-PER
+19	Vens	_	_	_	_	_	_	_	_	I-PER
+20	kao	_	_	_	_	_	_	_	_	O
+21	i	_	_	_	_	_	_	_	_	O
+22	sekretar	_	_	_	_	_	_	_	_	O
+23	Marko	_	_	_	_	_	_	_	_	B-PER
+24	Rubio	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+25	,	,	PUNCT	Z	_	_	_	_	_	O
+26	odgovor	_	_	_	_	_	_	_	_	O
+27	je	_	_	_	_	_	_	_	_	O
+28	da	_	_	_	_	_	_	_	SpaceAfter=No	O
+29	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.3
+# text = Iskoristite sposobnost za duboke udare“, poručio je.
+1	Iskoristite	_	_	_	_	_	_	_	_	O
+2	sposobnost	_	_	_	_	_	_	_	_	O
+3	za	_	_	_	_	_	_	_	_	O
+4	duboke	_	_	_	_	_	_	_	_	O
+5	udare	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	poručio	_	_	_	_	_	_	_	_	O
+9	je	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 3
+# sent_id = 3.1
+# text = Kelog je takođe naglasio kako „ne postoje takve stvari kao što su utočišta“.
+1	Kelog	_	_	_	_	_	_	_	_	B-PER
+2	je	_	_	_	_	_	_	_	_	O
+3	takođe	_	_	_	_	_	_	_	_	O
+4	naglasio	_	_	_	_	_	_	_	_	O
+5	kako	_	_	_	_	_	_	_	_	O
+6	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+7	ne	_	_	_	_	_	_	_	_	O
+8	postoje	_	_	_	_	_	_	_	_	O
+9	takve	_	_	_	_	_	_	_	_	O
+10	stvari	_	_	_	_	_	_	_	_	O
+11	kao	_	_	_	_	_	_	_	_	O
+12	što	_	_	_	_	_	_	_	_	O
+13	su	_	_	_	_	_	_	_	_	O
+14	utočišta	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+16	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 4
+# sent_id = 4.1
+# text = Problem s Pentagonom i zahtev za raketama
+1	Problem	_	_	_	_	_	_	_	_	O
+2	s	_	_	_	_	_	_	_	_	O
+3	Pentagonom	_	_	_	_	_	_	_	_	B-ORG
+4	i	_	_	_	_	_	_	_	_	O
+5	zahtev	_	_	_	_	_	_	_	_	O
+6	za	_	_	_	_	_	_	_	_	O
+7	raketama	_	_	_	_	_	_	_	_	O
+
+# newpar id = 5
+# sent_id = 5.1
+# text = Međutim, na pitanje imaju li ukrajinske snage dopuštenje za korišćenje oružja koje su isporučile SAD na ovaj način, Kelog je priznao da je situacija „mešovita“.
+1	Međutim	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	na	_	_	_	_	_	_	_	_	O
+4	pitanje	_	_	_	_	_	_	_	_	O
+5	imaju	_	_	_	_	_	_	_	_	O
+6	li	_	_	_	_	_	_	_	_	O
+7	ukrajinske	_	_	_	_	_	_	_	_	B-LOC
+8	snage	_	_	_	_	_	_	_	_	O
+9	dopuštenje	_	_	_	_	_	_	_	_	O
+10	za	_	_	_	_	_	_	_	_	O
+11	korišćenje	_	_	_	_	_	_	_	_	O
+12	oružja	_	_	_	_	_	_	_	_	O
+13	koje	_	_	_	_	_	_	_	_	O
+14	su	_	_	_	_	_	_	_	_	O
+15	isporučile	_	_	_	_	_	_	_	_	B-LOC
+16	SAD	_	_	_	_	_	_	_	_	O
+17	na	_	_	_	_	_	_	_	_	O
+18	ovaj	_	_	_	_	_	_	_	_	O
+19	način	_	_	_	_	_	_	_	SpaceAfter=No	O
+20	,	,	PUNCT	Z	_	_	_	_	_	O
+21	Kelog	_	_	_	_	_	_	_	_	B-PER
+22	je	_	_	_	_	_	_	_	_	O
+23	priznao	_	_	_	_	_	_	_	_	O
+24	da	_	_	_	_	_	_	_	_	O
+25	je	_	_	_	_	_	_	_	_	O
+26	situacija	_	_	_	_	_	_	_	_	O
+27	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+28	mešovita	_	_	_	_	_	_	_	SpaceAfter=No	O
+29	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+30	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 6
+# sent_id = 6.1
+# text = „Ponekad dobiju deo ovlašćenja, ponekad ne.
+1	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+2	Ponekad	_	_	_	_	_	_	_	_	O
+3	dobiju	_	_	_	_	_	_	_	_	O
+4	deo	_	_	_	_	_	_	_	_	O
+5	ovlašćenja	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	ponekad	_	_	_	_	_	_	_	_	O
+8	ne	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 6.2
+# text = Mislim da bi svi trebalo da slede predsednikova uputstva.
+1	Mislim	_	_	_	_	_	_	_	_	O
+2	da	_	_	_	_	_	_	_	_	O
+3	bi	_	_	_	_	_	_	_	_	O
+4	svi	_	_	_	_	_	_	_	_	O
+5	trebalo	_	_	_	_	_	_	_	_	O
+6	da	_	_	_	_	_	_	_	_	O
+7	slede	_	_	_	_	_	_	_	_	O
+8	predsednikova	_	_	_	_	_	_	_	_	O
+9	uputstva	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 6.3
+# text = On je vrhovni komandant prema Ustavu i svi ga moraju slušati.
+1	On	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	vrhovni	_	_	_	_	_	_	_	_	O
+4	komandant	_	_	_	_	_	_	_	_	O
+5	prema	_	_	_	_	_	_	_	_	O
+6	Ustavu	_	_	_	_	_	_	_	_	O
+7	i	_	_	_	_	_	_	_	_	O
+8	svi	_	_	_	_	_	_	_	_	O
+9	ga	_	_	_	_	_	_	_	_	O
+10	moraju	_	_	_	_	_	_	_	_	O
+11	slušati	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 6.4
+# text = Ako predsednik ide levo, idete levo.
+1	Ako	_	_	_	_	_	_	_	_	O
+2	predsednik	_	_	_	_	_	_	_	_	O
+3	ide	_	_	_	_	_	_	_	_	O
+4	levo	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	idete	_	_	_	_	_	_	_	_	O
+7	levo	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 6.5
+# text = Ako kaže idite desno, idete desno“, izjavio je Kelog, ističući da Pentagon ponekad ne sprovodi predsednikove odluke.
+1	Ako	_	_	_	_	_	_	_	_	O
+2	kaže	_	_	_	_	_	_	_	_	O
+3	idite	_	_	_	_	_	_	_	_	O
+4	desno	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	idete	_	_	_	_	_	_	_	_	O
+7	desno	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	izjavio	_	_	_	_	_	_	_	_	O
+11	je	_	_	_	_	_	_	_	_	O
+12	Kelog	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+14	ističući	_	_	_	_	_	_	_	_	O
+15	da	_	_	_	_	_	_	_	_	O
+16	Pentagon	_	_	_	_	_	_	_	_	B-ORG
+17	ponekad	_	_	_	_	_	_	_	_	O
+18	ne	_	_	_	_	_	_	_	_	O
+19	sprovodi	_	_	_	_	_	_	_	_	O
+20	predsednikove	_	_	_	_	_	_	_	_	O
+21	odluke	_	_	_	_	_	_	_	SpaceAfter=No	O
+22	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 7
+# sent_id = 7.1
+# text = Izaslanik je otkrio i da je ukrajinski predsednik Volodimir Zelenski tokom sastanka s Trampom zatražio rakete Tomahok, čiji je domet do 2.500 kilometara.
+1	Izaslanik	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	otkrio	_	_	_	_	_	_	_	_	O
+4	i	_	_	_	_	_	_	_	_	O
+5	da	_	_	_	_	_	_	_	_	O
+6	je	_	_	_	_	_	_	_	_	O
+7	ukrajinski	_	_	_	_	_	_	_	_	B-LOC
+8	predsednik	_	_	_	_	_	_	_	_	O
+9	Volodimir	_	_	_	_	_	_	_	_	B-PER
+10	Zelenski	_	_	_	_	_	_	_	_	I-PER
+11	tokom	_	_	_	_	_	_	_	_	O
+12	sastanka	_	_	_	_	_	_	_	_	O
+13	s	_	_	_	_	_	_	_	_	O
+14	Trampom	_	_	_	_	_	_	_	_	B-PER
+15	zatražio	_	_	_	_	_	_	_	_	O
+16	rakete	_	_	_	_	_	_	_	_	O
+17	Tomahok	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	,	,	PUNCT	Z	_	_	_	_	_	O
+19	čiji	_	_	_	_	_	_	_	_	O
+20	je	_	_	_	_	_	_	_	_	O
+21	domet	_	_	_	_	_	_	_	_	O
+22	do	_	_	_	_	_	_	_	_	O
+23	2.500	_	_	_	_	_	_	_	_	O
+24	kilometara	_	_	_	_	_	_	_	SpaceAfter=No	O
+25	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 7.2
+# text = Prema Kelogovim rečima, odluka o tom zahtevu još uvek nije doneta.
+1	Prema	_	_	_	_	_	_	_	_	O
+2	Kelogovim	_	_	_	_	_	_	_	_	B-PER
+3	rečima	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	odluka	_	_	_	_	_	_	_	_	O
+6	o	_	_	_	_	_	_	_	_	O
+7	tom	_	_	_	_	_	_	_	_	O
+8	zahtevu	_	_	_	_	_	_	_	_	O
+9	još	_	_	_	_	_	_	_	_	O
+10	uvek	_	_	_	_	_	_	_	_	O
+11	nije	_	_	_	_	_	_	_	_	O
+12	doneta	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	.	.	PUNCT	Z	_	_	_	_	_	O
+

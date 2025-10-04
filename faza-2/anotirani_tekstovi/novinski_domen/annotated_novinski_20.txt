@@ -1,0 +1,270 @@
+#name = ognjen
+#domen = novinski
+#url = https://forbes.n1info.rs/inovacije/ovo-su-nove-baterije-koje-ce-smanjiti-dominaciju-litijuma-bolivija-je-najvece-nalaziste-i-buduca-zvezda/
+# newpar id = 1
+# sent_id = 1.1
+# text = Hemijski inženjer i saradnik Forbes Robert Rejpijer podseća da su litijum-jonske baterije pokrenule veći deo dosadašnje revolucije u skladištenju.
+1	Hemijski	_	_	_	_	_	_	_	_	O
+2	inženjer	_	_	_	_	_	_	_	_	O
+3	i	_	_	_	_	_	_	_	_	O
+4	saradnik	_	_	_	_	_	_	_	_	O
+5	Forbes	_	_	_	_	_	_	_	_	B-ORG
+6	Robert	_	_	_	_	_	_	_	_	B-PER
+7	Rejpijer	_	_	_	_	_	_	_	_	I-PER
+8	podseća	_	_	_	_	_	_	_	_	O
+9	da	_	_	_	_	_	_	_	_	O
+10	su	_	_	_	_	_	_	_	_	O
+11	litijum-jonske	_	_	_	_	_	_	_	_	O
+12	baterije	_	_	_	_	_	_	_	_	O
+13	pokrenule	_	_	_	_	_	_	_	_	O
+14	veći	_	_	_	_	_	_	_	_	O
+15	deo	_	_	_	_	_	_	_	_	O
+16	dosadašnje	_	_	_	_	_	_	_	_	O
+17	revolucije	_	_	_	_	_	_	_	_	O
+18	u	_	_	_	_	_	_	_	_	O
+19	skladištenju	_	_	_	_	_	_	_	SpaceAfter=No	O
+20	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.2
+# text = Dominiraju svuda, od kućnih baterija do velikih sistema u elektroprivrede, zahvaljujući brzom padu cena i širokoj primeni.
+1	Dominiraju	_	_	_	_	_	_	_	_	O
+2	svuda	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	od	_	_	_	_	_	_	_	_	O
+5	kućnih	_	_	_	_	_	_	_	_	O
+6	baterija	_	_	_	_	_	_	_	_	O
+7	do	_	_	_	_	_	_	_	_	O
+8	velikih	_	_	_	_	_	_	_	_	O
+9	sistema	_	_	_	_	_	_	_	_	O
+10	u	_	_	_	_	_	_	_	_	O
+11	elektroprivrede	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	zahvaljujući	_	_	_	_	_	_	_	_	O
+14	brzom	_	_	_	_	_	_	_	_	O
+15	padu	_	_	_	_	_	_	_	_	O
+16	cena	_	_	_	_	_	_	_	_	O
+17	i	_	_	_	_	_	_	_	_	O
+18	širokoj	_	_	_	_	_	_	_	_	O
+19	primeni	_	_	_	_	_	_	_	SpaceAfter=No	O
+20	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.3
+# text = Globalni kapaciteti skladištenja su se udvostručili od 2023. i većinom zahvaljujući litijum-jonskoj tehnologiji.
+1	Globalni	_	_	_	_	_	_	_	_	O
+2	kapaciteti	_	_	_	_	_	_	_	_	O
+3	skladištenja	_	_	_	_	_	_	_	_	O
+4	su	_	_	_	_	_	_	_	_	O
+5	se	_	_	_	_	_	_	_	_	O
+6	udvostručili	_	_	_	_	_	_	_	_	O
+7	od	_	_	_	_	_	_	_	_	O
+8	2023.	_	_	_	_	_	_	_	_	O
+9	i	_	_	_	_	_	_	_	_	O
+10	većinom	_	_	_	_	_	_	_	_	O
+11	zahvaljujući	_	_	_	_	_	_	_	_	O
+12	litijum-jonskoj	_	_	_	_	_	_	_	_	O
+13	tehnologiji	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.4
+# text = Kompanije poput Tesle, LG Energy Solution i kineskog CATL-a predvodile su taj rast.
+1	Kompanije	_	_	_	_	_	_	_	_	O
+2	poput	_	_	_	_	_	_	_	_	O
+3	Tesle	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	LG	_	_	_	_	_	_	_	_	B-ORG
+6	Energy	_	_	_	_	_	_	_	_	I-ORG
+7	Solution	_	_	_	_	_	_	_	_	I-ORG
+8	i	_	_	_	_	_	_	_	_	O
+9	kineskog	_	_	_	_	_	_	_	_	B-LOC
+10	CATL-a	_	_	_	_	_	_	_	_	B-ORG
+11	predvodile	_	_	_	_	_	_	_	_	O
+12	su	_	_	_	_	_	_	_	_	O
+13	taj	_	_	_	_	_	_	_	_	O
+14	rast	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 2
+# sent_id = 2.1
+# text = „Ali, litijum-jonska tehnologija nije konačno rešenje.
+1	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+2	Ali	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	litijum-jonska	_	_	_	_	_	_	_	_	O
+5	tehnologija	_	_	_	_	_	_	_	_	O
+6	nije	_	_	_	_	_	_	_	_	O
+7	konačno	_	_	_	_	_	_	_	_	O
+8	rešenje	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.2
+# text = Ona teško može da se takmiči u primeni za ultra-dugo čuvanje, poput skladištenja energije danima ili nedeljama.
+1	Ona	_	_	_	_	_	_	_	_	O
+2	teško	_	_	_	_	_	_	_	_	O
+3	može	_	_	_	_	_	_	_	_	O
+4	da	_	_	_	_	_	_	_	_	O
+5	se	_	_	_	_	_	_	_	_	O
+6	takmiči	_	_	_	_	_	_	_	_	O
+7	u	_	_	_	_	_	_	_	_	O
+8	primeni	_	_	_	_	_	_	_	_	O
+9	za	_	_	_	_	_	_	_	_	O
+10	ultra-dugo	_	_	_	_	_	_	_	_	O
+11	čuvanje	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	poput	_	_	_	_	_	_	_	_	O
+14	skladištenja	_	_	_	_	_	_	_	_	O
+15	energije	_	_	_	_	_	_	_	_	O
+16	danima	_	_	_	_	_	_	_	_	O
+17	ili	_	_	_	_	_	_	_	_	O
+18	nedeljama	_	_	_	_	_	_	_	SpaceAfter=No	O
+19	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.3
+# text = Lanac snabdevanja snažno zavisi od litijuma, kobalta i nikla, što nosi geopolitičke rizike i cenovnu nestabilnost.
+1	Lanac	_	_	_	_	_	_	_	_	O
+2	snabdevanja	_	_	_	_	_	_	_	_	O
+3	snažno	_	_	_	_	_	_	_	_	O
+4	zavisi	_	_	_	_	_	_	_	_	O
+5	od	_	_	_	_	_	_	_	_	O
+6	litijuma	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	kobalta	_	_	_	_	_	_	_	_	O
+9	i	_	_	_	_	_	_	_	_	O
+10	nikla	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	što	_	_	_	_	_	_	_	_	O
+13	nosi	_	_	_	_	_	_	_	_	O
+14	geopolitičke	_	_	_	_	_	_	_	_	O
+15	rizike	_	_	_	_	_	_	_	_	O
+16	i	_	_	_	_	_	_	_	_	O
+17	cenovnu	_	_	_	_	_	_	_	_	O
+18	nestabilnost	_	_	_	_	_	_	_	SpaceAfter=No	O
+19	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.4
+# text = Tu je i pitanje bezbednosti.
+1	Tu	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	i	_	_	_	_	_	_	_	_	O
+4	pitanje	_	_	_	_	_	_	_	_	O
+5	bezbednosti	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.5
+# text = Litijum-jonske baterije nose rizik od požara, a reciklaža je i dalje izazov“, navodi Rejpijer.
+1	Litijum-jonske	_	_	_	_	_	_	_	_	O
+2	baterije	_	_	_	_	_	_	_	_	O
+3	nose	_	_	_	_	_	_	_	_	O
+4	rizik	_	_	_	_	_	_	_	_	O
+5	od	_	_	_	_	_	_	_	_	O
+6	požara	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	a	_	_	_	_	_	_	_	_	O
+9	reciklaža	_	_	_	_	_	_	_	_	O
+10	je	_	_	_	_	_	_	_	_	O
+11	i	_	_	_	_	_	_	_	_	O
+12	dalje	_	_	_	_	_	_	_	_	O
+13	izazov	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+15	,	,	PUNCT	Z	_	_	_	_	_	O
+16	navodi	_	_	_	_	_	_	_	_	O
+17	Rejpijer	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
+18	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 3
+# sent_id = 3.1
+# text = Ukratko, litijum-jonske baterije ostaju nezamenljive, ali neće biti jedino rešenje problema skladištenja, dodaje saradnik Forbes.
+1	Ukratko	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	litijum-jonske	_	_	_	_	_	_	_	_	O
+4	baterije	_	_	_	_	_	_	_	_	O
+5	ostaju	_	_	_	_	_	_	_	_	O
+6	nezamenljive	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	ali	_	_	_	_	_	_	_	_	O
+9	neće	_	_	_	_	_	_	_	_	O
+10	biti	_	_	_	_	_	_	_	_	O
+11	jedino	_	_	_	_	_	_	_	_	O
+12	rešenje	_	_	_	_	_	_	_	_	O
+13	problema	_	_	_	_	_	_	_	_	O
+14	skladištenja	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	,	,	PUNCT	Z	_	_	_	_	_	O
+16	dodaje	_	_	_	_	_	_	_	_	O
+17	saradnik	_	_	_	_	_	_	_	_	O
+18	Forbes	_	_	_	_	_	_	_	SpaceAfter=No	O
+19	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 4
+# sent_id = 4.1
+# text = Startapi poput Kraftblock-a eksperimentišu sa skladištenjem energije u obliku toplote u materijalima poput peska ili rastopljene soli.
+1	Startapi	_	_	_	_	_	_	_	_	O
+2	poput	_	_	_	_	_	_	_	_	O
+3	Kraftblock-a	_	_	_	_	_	_	_	_	B-ORG
+4	eksperimentišu	_	_	_	_	_	_	_	_	O
+5	sa	_	_	_	_	_	_	_	_	O
+6	skladištenjem	_	_	_	_	_	_	_	_	O
+7	energije	_	_	_	_	_	_	_	_	O
+8	u	_	_	_	_	_	_	_	_	O
+9	obliku	_	_	_	_	_	_	_	_	O
+10	toplote	_	_	_	_	_	_	_	_	O
+11	u	_	_	_	_	_	_	_	_	O
+12	materijalima	_	_	_	_	_	_	_	_	O
+13	poput	_	_	_	_	_	_	_	_	O
+14	peska	_	_	_	_	_	_	_	_	O
+15	ili	_	_	_	_	_	_	_	_	O
+16	rastopljene	_	_	_	_	_	_	_	_	O
+17	soli	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 4.2
+# text = Ovaj pristup može služiti i kao izvor industrijske ili kućne toplote.
+1	Ovaj	_	_	_	_	_	_	_	_	O
+2	pristup	_	_	_	_	_	_	_	_	O
+3	može	_	_	_	_	_	_	_	_	O
+4	služiti	_	_	_	_	_	_	_	_	O
+5	i	_	_	_	_	_	_	_	_	O
+6	kao	_	_	_	_	_	_	_	_	O
+7	izvor	_	_	_	_	_	_	_	_	O
+8	industrijske	_	_	_	_	_	_	_	_	O
+9	ili	_	_	_	_	_	_	_	_	O
+10	kućne	_	_	_	_	_	_	_	_	O
+11	toplote	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 4.3
+# text = To ga čini svestranim za tržišta kojima je potrebna i električna i toplotna energija.
+1	To	_	_	_	_	_	_	_	_	O
+2	ga	_	_	_	_	_	_	_	_	O
+3	čini	_	_	_	_	_	_	_	_	O
+4	svestranim	_	_	_	_	_	_	_	_	O
+5	za	_	_	_	_	_	_	_	_	O
+6	tržišta	_	_	_	_	_	_	_	_	O
+7	kojima	_	_	_	_	_	_	_	_	O
+8	je	_	_	_	_	_	_	_	_	O
+9	potrebna	_	_	_	_	_	_	_	_	O
+10	i	_	_	_	_	_	_	_	_	O
+11	električna	_	_	_	_	_	_	_	_	O
+12	i	_	_	_	_	_	_	_	_	O
+13	toplotna	_	_	_	_	_	_	_	_	O
+14	energija	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 4.4
+# text = Na nivou elektroprivreda, Copenhagen Infrastructure Partners finansira termalne projekte vezane za obnovljive izvore u Evropi.
+1	Na	_	_	_	_	_	_	_	_	O
+2	nivou	_	_	_	_	_	_	_	_	O
+3	elektroprivreda	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	Copenhagen	_	_	_	_	_	_	_	_	B-ORG
+6	Infrastructure	_	_	_	_	_	_	_	_	I-ORG
+7	Partners	_	_	_	_	_	_	_	_	I-ORG
+8	finansira	_	_	_	_	_	_	_	_	O
+9	termalne	_	_	_	_	_	_	_	_	O
+10	projekte	_	_	_	_	_	_	_	_	O
+11	vezane	_	_	_	_	_	_	_	_	O
+12	za	_	_	_	_	_	_	_	_	O
+13	obnovljive	_	_	_	_	_	_	_	_	O
+14	izvore	_	_	_	_	_	_	_	_	O
+15	u	_	_	_	_	_	_	_	_	O
+16	Evropi	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+17	.	.	PUNCT	Z	_	_	_	_	_	O
+

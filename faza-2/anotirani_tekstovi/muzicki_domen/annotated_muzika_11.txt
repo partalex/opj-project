@@ -1,0 +1,416 @@
+#name = ognjen
+#domen = muzika
+#url = https://balkanrock.com/reportaze/duran-duran-u-milanu-divlji-momci-jos-uvek-na-tronu/
+# newpar id = 1
+# sent_id = 1.1
+# text = Junsko sunce još uvek nije zašlo kada se, na hipodromu San Siro u okviru specifičnog festivala I Days, na bini konačno pojavio najveći britanski pop bend osamdesetih, iako je publika u trenutku bila transportovana u veoma zavodljivu noć.
+1	Junsko	_	_	_	_	_	_	_	_	O
+2	sunce	_	_	_	_	_	_	_	_	O
+3	još	_	_	_	_	_	_	_	_	O
+4	uvek	_	_	_	_	_	_	_	_	O
+5	nije	_	_	_	_	_	_	_	_	O
+6	zašlo	_	_	_	_	_	_	_	_	O
+7	kada	_	_	_	_	_	_	_	_	O
+8	se	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	na	_	_	_	_	_	_	_	_	O
+11	hipodromu	_	_	_	_	_	_	_	_	O
+12	San	_	_	_	_	_	_	_	_	B-LOC
+13	Siro	_	_	_	_	_	_	_	_	I-LOC
+14	u	_	_	_	_	_	_	_	_	O
+15	okviru	_	_	_	_	_	_	_	_	O
+16	specifičnog	_	_	_	_	_	_	_	_	O
+17	festivala	_	_	_	_	_	_	_	_	O
+18	I	_	_	_	_	_	_	_	_	B-ORG
+19	Days	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+20	,	,	PUNCT	Z	_	_	_	_	_	O
+21	na	_	_	_	_	_	_	_	_	O
+22	bini	_	_	_	_	_	_	_	_	O
+23	konačno	_	_	_	_	_	_	_	_	O
+24	pojavio	_	_	_	_	_	_	_	_	O
+25	najveći	_	_	_	_	_	_	_	_	O
+26	britanski	_	_	_	_	_	_	_	_	O
+27	pop	_	_	_	_	_	_	_	_	O
+28	bend	_	_	_	_	_	_	_	_	O
+29	osamdesetih	_	_	_	_	_	_	_	SpaceAfter=No	O
+30	,	,	PUNCT	Z	_	_	_	_	_	O
+31	iako	_	_	_	_	_	_	_	_	O
+32	je	_	_	_	_	_	_	_	_	O
+33	publika	_	_	_	_	_	_	_	_	O
+34	u	_	_	_	_	_	_	_	_	O
+35	trenutku	_	_	_	_	_	_	_	_	O
+36	bila	_	_	_	_	_	_	_	_	O
+37	transportovana	_	_	_	_	_	_	_	_	O
+38	u	_	_	_	_	_	_	_	_	O
+39	veoma	_	_	_	_	_	_	_	_	O
+40	zavodljivu	_	_	_	_	_	_	_	_	O
+41	noć	_	_	_	_	_	_	_	SpaceAfter=No	O
+42	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.2
+# text = Nakon kraćeg seta lokalnih Le Votives, benda koji se istakao u italijanskom X Factoru, a koji zapravo zvuči kako brojni wannabe The Strokes veruju da zvuče, gotovo krcat hipodrom sa ogromnim neizdržom čekao je birmingemske heroje popa da istupe na binu.
+1	Nakon	_	_	_	_	_	_	_	_	O
+2	kraćeg	_	_	_	_	_	_	_	_	O
+3	seta	_	_	_	_	_	_	_	_	O
+4	lokalnih	_	_	_	_	_	_	_	_	O
+5	Le	_	_	_	_	_	_	_	_	I-ORG
+6	Votives	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	benda	_	_	_	_	_	_	_	_	O
+9	koji	_	_	_	_	_	_	_	_	O
+10	se	_	_	_	_	_	_	_	_	O
+11	istakao	_	_	_	_	_	_	_	_	O
+12	u	_	_	_	_	_	_	_	_	O
+13	italijanskom	_	_	_	_	_	_	_	_	O
+14	X	_	_	_	_	_	_	_	_	B-ORG
+15	Factoru	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+16	,	,	PUNCT	Z	_	_	_	_	_	O
+17	a	_	_	_	_	_	_	_	_	O
+18	koji	_	_	_	_	_	_	_	_	O
+19	zapravo	_	_	_	_	_	_	_	_	O
+20	zvuči	_	_	_	_	_	_	_	_	O
+21	kako	_	_	_	_	_	_	_	_	O
+22	brojni	_	_	_	_	_	_	_	_	O
+23	wannabe	_	_	_	_	_	_	_	_	O
+24	The	_	_	_	_	_	_	_	_	B-ORG
+25	Strokes	_	_	_	_	_	_	_	_	I-ORG 
+26	veruju	_	_	_	_	_	_	_	_	O
+27	da	_	_	_	_	_	_	_	_	O
+28	zvuče	_	_	_	_	_	_	_	SpaceAfter=No	O
+29	,	,	PUNCT	Z	_	_	_	_	_	O
+30	gotovo	_	_	_	_	_	_	_	_	O
+31	krcat	_	_	_	_	_	_	_	_	O
+32	hipodrom	_	_	_	_	_	_	_	_	O
+33	sa	_	_	_	_	_	_	_	_	O
+34	ogromnim	_	_	_	_	_	_	_	_	O
+35	neizdržom	_	_	_	_	_	_	_	_	O
+36	čekao	_	_	_	_	_	_	_	_	O
+37	je	_	_	_	_	_	_	_	_	O
+38	birmingemske	_	_	_	_	_	_	_	_	O
+39	heroje	_	_	_	_	_	_	_	_	O
+40	popa	_	_	_	_	_	_	_	_	O
+41	da	_	_	_	_	_	_	_	_	O
+42	istupe	_	_	_	_	_	_	_	_	O
+43	na	_	_	_	_	_	_	_	_	O
+44	binu	_	_	_	_	_	_	_	SpaceAfter=No	O
+45	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.3
+# text = Ruku na srce, onladinci iz Le Votivesa su svoj deo programa isprangijali kao da su zvezde večeri te je publika uživala i u nešto drčnijem indie rocku.
+1	Ruku	_	_	_	_	_	_	_	_	O
+2	na	_	_	_	_	_	_	_	_	O
+3	srce	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	onladinci	_	_	_	_	_	_	_	_	O
+6	iz	_	_	_	_	_	_	_	_	O
+7	Le	_	_	_	_	_	_	_	_	B-ORG
+8	Votivesa	_	_	_	_	_	_	_	_	I-ORG
+9	su	_	_	_	_	_	_	_	_	O
+10	svoj	_	_	_	_	_	_	_	_	O
+11	deo	_	_	_	_	_	_	_	_	O
+12	programa	_	_	_	_	_	_	_	_	O
+13	isprangijali	_	_	_	_	_	_	_	_	O
+14	kao	_	_	_	_	_	_	_	_	O
+15	da	_	_	_	_	_	_	_	_	O
+16	su	_	_	_	_	_	_	_	_	O
+17	zvezde	_	_	_	_	_	_	_	_	O
+18	večeri	_	_	_	_	_	_	_	_	O
+19	te	_	_	_	_	_	_	_	_	O
+20	je	_	_	_	_	_	_	_	_	O
+21	publika	_	_	_	_	_	_	_	_	O
+22	uživala	_	_	_	_	_	_	_	_	O
+23	i	_	_	_	_	_	_	_	_	O
+24	u	_	_	_	_	_	_	_	_	O
+25	nešto	_	_	_	_	_	_	_	_	O
+26	drčnijem	_	_	_	_	_	_	_	_	O
+27	indie	_	_	_	_	_	_	_	_	O
+28	rocku	_	_	_	_	_	_	_	SpaceAfter=No	O
+29	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.4
+# text = Krajnje simpatičan miks mladalačkog bunta, energije Placeboa i odsečnosti The Strokesa čine Le Votives daleko zanimljivijim od, na primer, sunarodnika iz Måneskin.
+1	Krajnje	_	_	_	_	_	_	_	_	O
+2	simpatičan	_	_	_	_	_	_	_	_	O
+3	miks	_	_	_	_	_	_	_	_	O
+4	mladalačkog	_	_	_	_	_	_	_	_	O
+5	bunta	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	energije	_	_	_	_	_	_	_	_	O
+8	Placeboa	_	_	_	_	_	_	_	_	B-ORG
+9	i	_	_	_	_	_	_	_	_	O
+10	odsečnosti	_	_	_	_	_	_	_	_	O
+11	The	_	_	_	_	_	_	_	_	B-ORG
+12	Strokesa	_	_	_	_	_	_	_	_	I-ORG
+13	čine	_	_	_	_	_	_	_	_	O
+14	Le	_	_	_	_	_	_	_	_	B-ORG
+15	Votives	_	_	_	_	_	_	_	_	I-ORG
+16	daleko	_	_	_	_	_	_	_	_	O
+17	zanimljivijim	_	_	_	_	_	_	_	_	O
+18	od	_	_	_	_	_	_	_	SpaceAfter=No	O
+19	,	,	PUNCT	Z	_	_	_	_	_	O
+20	na	_	_	_	_	_	_	_	_	O
+21	primer	_	_	_	_	_	_	_	SpaceAfter=No	O
+22	,	,	PUNCT	Z	_	_	_	_	_	O
+23	sunarodnika	_	_	_	_	_	_	_	_	O
+24	iz	_	_	_	_	_	_	_	_	O
+25	Måneskin	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
+26	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 2
+# sent_id = 2.1
+# text = No, kada su uz zvuke “Velvet Newtona” sa razglasa i nepopravljivo štrebersku SF animaciju na ekranu na binu izašli Simon i ekipa, oduševljenje je gromoglasno odjekivalo čak i tokom uvodnih taktova “Night Boata” sa poslednjeg albuma.
+1	No	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	kada	_	_	_	_	_	_	_	_	O
+4	su	_	_	_	_	_	_	_	_	O
+5	uz	_	_	_	_	_	_	_	_	O
+6	zvuke	_	_	_	_	_	_	_	_	O
+7	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+8	Velvet	_	_	_	_	_	_	_	_	B-ORG
+9	Newtona	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+10	”	”	PUNCT	Z	_	_	_	_	_	O
+11	sa	_	_	_	_	_	_	_	_	O
+12	razglasa	_	_	_	_	_	_	_	_	O
+13	i	_	_	_	_	_	_	_	_	O
+14	nepopravljivo	_	_	_	_	_	_	_	_	O
+15	štrebersku	_	_	_	_	_	_	_	_	O
+16	SF	_	_	_	_	_	_	_	_	O
+17	animaciju	_	_	_	_	_	_	_	_	O
+18	na	_	_	_	_	_	_	_	_	O
+19	ekranu	_	_	_	_	_	_	_	_	O
+20	na	_	_	_	_	_	_	_	_	O
+21	binu	_	_	_	_	_	_	_	_	O
+22	izašli	_	_	_	_	_	_	_	_	O
+23	Simon	_	_	_	_	_	_	_	_	B-PER
+24	i	_	_	_	_	_	_	_	_	O
+25	ekipa	_	_	_	_	_	_	_	SpaceAfter=No	O
+26	,	,	PUNCT	Z	_	_	_	_	_	O
+27	oduševljenje	_	_	_	_	_	_	_	_	O
+28	je	_	_	_	_	_	_	_	_	O
+29	gromoglasno	_	_	_	_	_	_	_	_	O
+30	odjekivalo	_	_	_	_	_	_	_	_	O
+31	čak	_	_	_	_	_	_	_	_	O
+32	i	_	_	_	_	_	_	_	_	O
+33	tokom	_	_	_	_	_	_	_	_	O
+34	uvodnih	_	_	_	_	_	_	_	_	O
+35	taktova	_	_	_	_	_	_	_	_	O
+36	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+37	Night	_	_	_	_	_	_	_	_	O
+38	Boata	_	_	_	_	_	_	_	SpaceAfter=No	O
+39	”	”	PUNCT	Z	_	_	_	_	_	O
+40	sa	_	_	_	_	_	_	_	_	O
+41	poslednjeg	_	_	_	_	_	_	_	_	O
+42	albuma	_	_	_	_	_	_	_	SpaceAfter=No	O
+43	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.2
+# text = Pesma je zapravo build up koji odlično služi kao dodatno dizanje tenzije pred prvi veliki udar na koncertu.
+1	Pesma	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	zapravo	_	_	_	_	_	_	_	_	O
+4	build	_	_	_	_	_	_	_	_	O
+5	up	_	_	_	_	_	_	_	_	O
+6	koji	_	_	_	_	_	_	_	_	O
+7	odlično	_	_	_	_	_	_	_	_	O
+8	služi	_	_	_	_	_	_	_	_	O
+9	kao	_	_	_	_	_	_	_	_	O
+10	dodatno	_	_	_	_	_	_	_	_	O
+11	dizanje	_	_	_	_	_	_	_	_	O
+12	tenzije	_	_	_	_	_	_	_	_	O
+13	pred	_	_	_	_	_	_	_	_	O
+14	prvi	_	_	_	_	_	_	_	_	O
+15	veliki	_	_	_	_	_	_	_	_	O
+16	udar	_	_	_	_	_	_	_	_	O
+17	na	_	_	_	_	_	_	_	_	O
+18	koncertu	_	_	_	_	_	_	_	SpaceAfter=No	O
+19	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.3
+# text = “The Wild Boys” na publiku sleće kao pneumatski čekić.
+1	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+2	The	_	_	_	_	_	_	_	_	O
+3	Wild	_	_	_	_	_	_	_	_	O
+4	Boys	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	”	”	PUNCT	Z	_	_	_	_	_	O
+6	na	_	_	_	_	_	_	_	_	O
+7	publiku	_	_	_	_	_	_	_	_	O
+8	sleće	_	_	_	_	_	_	_	_	O
+9	kao	_	_	_	_	_	_	_	_	O
+10	pneumatski	_	_	_	_	_	_	_	_	O
+11	čekić	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.4
+# text = Ne samo da je bend podigao nivo energije do neslućenih visina, već je Le Bonov vokal bio neverovatan.
+1	Ne	_	_	_	_	_	_	_	_	O
+2	samo	_	_	_	_	_	_	_	_	O
+3	da	_	_	_	_	_	_	_	_	O
+4	je	_	_	_	_	_	_	_	_	O
+5	bend	_	_	_	_	_	_	_	_	O
+6	podigao	_	_	_	_	_	_	_	_	O
+7	nivo	_	_	_	_	_	_	_	_	O
+8	energije	_	_	_	_	_	_	_	_	O
+9	do	_	_	_	_	_	_	_	_	O
+10	neslućenih	_	_	_	_	_	_	_	_	O
+11	visina	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	već	_	_	_	_	_	_	_	_	O
+14	je	_	_	_	_	_	_	_	_	O
+15	Le	_	_	_	_	_	_	_	_	B-PER
+16	Bonov	_	_	_	_	_	_	_	_	I-PER
+17	vokal	_	_	_	_	_	_	_	_	O
+18	bio	_	_	_	_	_	_	_	_	O
+19	neverovatan	_	_	_	_	_	_	_	SpaceAfter=No	O
+20	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.5
+# text = Ta dva aspekta su do kraja večeri bila u konstantnom nadmetanju, a niko ne može da potvrdi da li je Simon bolje pevao ili su Rhodes, Taylori i Dom bolje svirali.
+1	Ta	_	_	_	_	_	_	_	_	O
+2	dva	_	_	_	_	_	_	_	_	O
+3	aspekta	_	_	_	_	_	_	_	_	O
+4	su	_	_	_	_	_	_	_	_	O
+5	do	_	_	_	_	_	_	_	_	O
+6	kraja	_	_	_	_	_	_	_	_	O
+7	večeri	_	_	_	_	_	_	_	_	O
+8	bila	_	_	_	_	_	_	_	_	O
+9	u	_	_	_	_	_	_	_	_	O
+10	konstantnom	_	_	_	_	_	_	_	_	O
+11	nadmetanju	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	a	_	_	_	_	_	_	_	_	O
+14	niko	_	_	_	_	_	_	_	_	O
+15	ne	_	_	_	_	_	_	_	_	O
+16	može	_	_	_	_	_	_	_	_	O
+17	da	_	_	_	_	_	_	_	_	O
+18	potvrdi	_	_	_	_	_	_	_	_	O
+19	da	_	_	_	_	_	_	_	_	O
+20	li	_	_	_	_	_	_	_	_	O
+21	je	_	_	_	_	_	_	_	_	O
+22	Simon	_	_	_	_	_	_	_	_	B-PER
+23	bolje	_	_	_	_	_	_	_	_	O
+24	pevao	_	_	_	_	_	_	_	_	O
+25	ili	_	_	_	_	_	_	_	_	O
+26	su	_	_	_	_	_	_	_	_	O
+27	Rhodes	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
+28	,	,	PUNCT	Z	_	_	_	_	_	O
+29	Taylori	_	_	_	_	_	_	_	_	B-PER
+30	i	_	_	_	_	_	_	_	_	O
+31	Dom	_	_	_	_	_	_	_	_	B-PER
+32	bolje	_	_	_	_	_	_	_	_	O
+33	svirali	_	_	_	_	_	_	_	SpaceAfter=No	O
+34	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.6
+# text = Uz sada već standardne namerne cringe forice koje Le Bon ispaljuje ka publici između pesama, “Hungry Like the Wolf” i “A View to a Kill” čine da svi pedesetogodišnjaci u publici rizikuju ortopedsku intervenciju, a Duranovci nekom magijom ispevaju da zvuče življe i mlađe nego osamdeset i neke.
+1	Uz	_	_	_	_	_	_	_	_	O
+2	sada	_	_	_	_	_	_	_	_	O
+3	već	_	_	_	_	_	_	_	_	O
+4	standardne	_	_	_	_	_	_	_	_	O
+5	namerne	_	_	_	_	_	_	_	_	O
+6	cringe	_	_	_	_	_	_	_	_	O
+7	forice	_	_	_	_	_	_	_	_	O
+8	koje	_	_	_	_	_	_	_	_	O
+9	Le	_	_	_	_	_	_	_	_	B-PER
+10	Bon	_	_	_	_	_	_	_	_	I-PER
+11	ispaljuje	_	_	_	_	_	_	_	_	O
+12	ka	_	_	_	_	_	_	_	_	O
+13	publici	_	_	_	_	_	_	_	_	O
+14	između	_	_	_	_	_	_	_	_	O
+15	pesama	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	,	,	PUNCT	Z	_	_	_	_	_	O
+17	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+18	Hungry	_	_	_	_	_	_	_	_	O
+19	Like	_	_	_	_	_	_	_	_	O
+20	the	_	_	_	_	_	_	_	_	O
+21	Wolf	_	_	_	_	_	_	_	SpaceAfter=No	O
+22	”	”	PUNCT	Z	_	_	_	_	_	O
+23	i	_	_	_	_	_	_	_	_	O
+24	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+25	A	_	_	_	_	_	_	_	_	O
+26	View	_	_	_	_	_	_	_	_	O
+27	to	_	_	_	_	_	_	_	_	O
+28	a	_	_	_	_	_	_	_	_	O
+29	Kill	_	_	_	_	_	_	_	SpaceAfter=No	O
+30	”	”	PUNCT	Z	_	_	_	_	_	O
+31	čine	_	_	_	_	_	_	_	_	O
+32	da	_	_	_	_	_	_	_	_	O
+33	svi	_	_	_	_	_	_	_	_	O
+34	pedesetogodišnjaci	_	_	_	_	_	_	_	_	O
+35	u	_	_	_	_	_	_	_	_	O
+36	publici	_	_	_	_	_	_	_	_	O
+37	rizikuju	_	_	_	_	_	_	_	_	O
+38	ortopedsku	_	_	_	_	_	_	_	_	O
+39	intervenciju	_	_	_	_	_	_	_	SpaceAfter=No	O
+40	,	,	PUNCT	Z	_	_	_	_	_	O
+41	a	_	_	_	_	_	_	_	_	O
+42	Duranovci	_	_	_	_	_	_	_	_	B-ORG
+43	nekom	_	_	_	_	_	_	_	_	O
+44	magijom	_	_	_	_	_	_	_	_	O
+45	ispevaju	_	_	_	_	_	_	_	_	O
+46	da	_	_	_	_	_	_	_	_	O
+47	zvuče	_	_	_	_	_	_	_	_	O
+48	življe	_	_	_	_	_	_	_	_	O
+49	i	_	_	_	_	_	_	_	_	O
+50	mlađe	_	_	_	_	_	_	_	_	O
+51	nego	_	_	_	_	_	_	_	_	O
+52	osamdeset	_	_	_	_	_	_	_	_	O
+53	i	_	_	_	_	_	_	_	_	O
+54	neke	_	_	_	_	_	_	_	SpaceAfter=No	O
+55	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.7
+# text = Neverovatno je to da, iako je tek preboleo prehladu, Le Bon zvuči kao na studijskim izdanjima, iako to godinama nije bio slučaj.
+1	Neverovatno	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	to	_	_	_	_	_	_	_	_	O
+4	da	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	iako	_	_	_	_	_	_	_	_	O
+7	je	_	_	_	_	_	_	_	_	O
+8	tek	_	_	_	_	_	_	_	_	O
+9	preboleo	_	_	_	_	_	_	_	_	O
+10	prehladu	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	Le	_	_	_	_	_	_	_	_	B-PER
+13	Bon	_	_	_	_	_	_	_	_	I-PER
+14	zvuči	_	_	_	_	_	_	_	_	O
+15	kao	_	_	_	_	_	_	_	_	O
+16	na	_	_	_	_	_	_	_	_	O
+17	studijskim	_	_	_	_	_	_	_	_	O
+18	izdanjima	_	_	_	_	_	_	_	SpaceAfter=No	O
+19	,	,	PUNCT	Z	_	_	_	_	_	O
+20	iako	_	_	_	_	_	_	_	_	O
+21	to	_	_	_	_	_	_	_	_	O
+22	godinama	_	_	_	_	_	_	_	_	O
+23	nije	_	_	_	_	_	_	_	_	O
+24	bio	_	_	_	_	_	_	_	_	O
+25	slučaj	_	_	_	_	_	_	_	SpaceAfter=No	O
+26	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.8
+# text = Svaki visoki, dugački i naporni ton bio je ispoštovan više nego što bilo ko može da traži od čoveka u srednjim šezdesetim.
+1	Svaki	_	_	_	_	_	_	_	_	O
+2	visoki	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	dugački	_	_	_	_	_	_	_	_	O
+5	i	_	_	_	_	_	_	_	_	O
+6	naporni	_	_	_	_	_	_	_	_	O
+7	ton	_	_	_	_	_	_	_	_	O
+8	bio	_	_	_	_	_	_	_	_	O
+9	je	_	_	_	_	_	_	_	_	O
+10	ispoštovan	_	_	_	_	_	_	_	_	O
+11	više	_	_	_	_	_	_	_	_	O
+12	nego	_	_	_	_	_	_	_	_	O
+13	što	_	_	_	_	_	_	_	_	O
+14	bilo	_	_	_	_	_	_	_	_	O
+15	ko	_	_	_	_	_	_	_	_	O
+16	može	_	_	_	_	_	_	_	_	O
+17	da	_	_	_	_	_	_	_	_	O
+18	traži	_	_	_	_	_	_	_	_	O
+19	od	_	_	_	_	_	_	_	_	O
+20	čoveka	_	_	_	_	_	_	_	_	O
+21	u	_	_	_	_	_	_	_	_	O
+22	srednjim	_	_	_	_	_	_	_	_	O
+23	šezdesetim	_	_	_	_	_	_	_	SpaceAfter=No	O
+24	.	.	PUNCT	Z	_	_	_	_	_	O
+

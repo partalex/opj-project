@@ -1,0 +1,463 @@
+#name = ognjen
+#domen = muzika
+#url = https://plejer.net/trivium-od-najboljeg-do-najgoreg/
+# newpar id = 1
+# sent_id = 1.1
+# text = Otkako su se pojavili krajem 1990-ih, Trivium su bili na ivici između obećanog naslednika velikana i benda koji nikad neće ispuniti očekivanja.
+1	Otkako	_	_	_	_	_	_	_	_	O
+2	su	_	_	_	_	_	_	_	_	O
+3	se	_	_	_	_	_	_	_	_	O
+4	pojavili	_	_	_	_	_	_	_	_	O
+5	krajem	_	_	_	_	_	_	_	_	O
+6	1990-ih	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	Trivium	_	_	_	_	_	_	_	_	B-ORG
+9	su	_	_	_	_	_	_	_	_	O
+10	bili	_	_	_	_	_	_	_	_	O
+11	na	_	_	_	_	_	_	_	_	O
+12	ivici	_	_	_	_	_	_	_	_	O
+13	između	_	_	_	_	_	_	_	_	O
+14	obećanog	_	_	_	_	_	_	_	_	O
+15	naslednika	_	_	_	_	_	_	_	_	O
+16	velikana	_	_	_	_	_	_	_	_	O
+17	i	_	_	_	_	_	_	_	_	O
+18	benda	_	_	_	_	_	_	_	_	O
+19	koji	_	_	_	_	_	_	_	_	O
+20	nikad	_	_	_	_	_	_	_	_	O
+21	neće	_	_	_	_	_	_	_	_	O
+22	ispuniti	_	_	_	_	_	_	_	_	O
+23	očekivanja	_	_	_	_	_	_	_	SpaceAfter=No	O
+24	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.2
+# text = Na sreću, nisu poklekli.
+1	Na	_	_	_	_	_	_	_	_	O
+2	sreću	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	nisu	_	_	_	_	_	_	_	_	O
+5	poklekli	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.3
+# text = Matt Heafy i ekipa su izgradili karijeru dugu dve decenije, prošli kroz više muzičkih faza nego što prosečan fan može da isprati i ostali verni ideji da metal treba da grmi – ali i da ima dušu.
+1	Matt	_	_	_	_	_	_	_	_	B-ORG
+2	Heafy	_	_	_	_	_	_	_	_	I-ORG
+3	i	_	_	_	_	_	_	_	_	O
+4	ekipa	_	_	_	_	_	_	_	_	O
+5	su	_	_	_	_	_	_	_	_	O
+6	izgradili	_	_	_	_	_	_	_	_	O
+7	karijeru	_	_	_	_	_	_	_	_	O
+8	dugu	_	_	_	_	_	_	_	_	O
+9	dve	_	_	_	_	_	_	_	_	O
+10	decenije	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	prošli	_	_	_	_	_	_	_	_	O
+13	kroz	_	_	_	_	_	_	_	_	O
+14	više	_	_	_	_	_	_	_	_	O
+15	muzičkih	_	_	_	_	_	_	_	_	O
+16	faza	_	_	_	_	_	_	_	_	O
+17	nego	_	_	_	_	_	_	_	_	O
+18	što	_	_	_	_	_	_	_	_	O
+19	prosečan	_	_	_	_	_	_	_	_	O
+20	fan	_	_	_	_	_	_	_	_	O
+21	može	_	_	_	_	_	_	_	_	O
+22	da	_	_	_	_	_	_	_	_	O
+23	isprati	_	_	_	_	_	_	_	_	O
+24	i	_	_	_	_	_	_	_	_	O
+25	ostali	_	_	_	_	_	_	_	_	O
+26	verni	_	_	_	_	_	_	_	_	O
+27	ideji	_	_	_	_	_	_	_	_	O
+28	da	_	_	_	_	_	_	_	_	O
+29	metal	_	_	_	_	_	_	_	_	O
+30	treba	_	_	_	_	_	_	_	_	O
+31	da	_	_	_	_	_	_	_	_	O
+32	grmi	_	_	_	_	_	_	_	_	O
+33	–	–	PUNCT	Z	_	_	_	_	_	O
+34	ali	_	_	_	_	_	_	_	_	O
+35	i	_	_	_	_	_	_	_	_	O
+36	da	_	_	_	_	_	_	_	_	O
+37	ima	_	_	_	_	_	_	_	_	O
+38	dušu	_	_	_	_	_	_	_	SpaceAfter=No	O
+39	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.4
+# text = Najavili su i novi album.
+1	Najavili	_	_	_	_	_	_	_	_	O
+2	su	_	_	_	_	_	_	_	_	O
+3	i	_	_	_	_	_	_	_	_	O
+4	novi	_	_	_	_	_	_	_	_	O
+5	album	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 2
+# sent_id = 2.1
+# text = Ovde rangiramo sve njihove studijske albume, od najsavršenijih izdanja do onih koje bismo rado zaboravili.
+1	Ovde	_	_	_	_	_	_	_	_	O
+2	rangiramo	_	_	_	_	_	_	_	_	O
+3	sve	_	_	_	_	_	_	_	_	O
+4	njihove	_	_	_	_	_	_	_	_	O
+5	studijske	_	_	_	_	_	_	_	_	O
+6	albume	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	od	_	_	_	_	_	_	_	_	O
+9	najsavršenijih	_	_	_	_	_	_	_	_	O
+10	izdanja	_	_	_	_	_	_	_	_	O
+11	do	_	_	_	_	_	_	_	_	O
+12	onih	_	_	_	_	_	_	_	_	O
+13	koje	_	_	_	_	_	_	_	_	O
+14	bismo	_	_	_	_	_	_	_	_	O
+15	rado	_	_	_	_	_	_	_	_	O
+16	zaboravili	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.2
+# text = Neki su nas lansirali u nebeske visine rifova, dok su drugi poslužili kao podsetnik da ni veliki bendovi nisu imuni na promašaje.
+1	Neki	_	_	_	_	_	_	_	_	O
+2	su	_	_	_	_	_	_	_	_	O
+3	nas	_	_	_	_	_	_	_	_	O
+4	lansirali	_	_	_	_	_	_	_	_	O
+5	u	_	_	_	_	_	_	_	_	O
+6	nebeske	_	_	_	_	_	_	_	_	O
+7	visine	_	_	_	_	_	_	_	_	O
+8	rifova	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	dok	_	_	_	_	_	_	_	_	O
+11	su	_	_	_	_	_	_	_	_	O
+12	drugi	_	_	_	_	_	_	_	_	O
+13	poslužili	_	_	_	_	_	_	_	_	O
+14	kao	_	_	_	_	_	_	_	_	O
+15	podsetnik	_	_	_	_	_	_	_	_	O
+16	da	_	_	_	_	_	_	_	_	O
+17	ni	_	_	_	_	_	_	_	_	O
+18	veliki	_	_	_	_	_	_	_	_	O
+19	bendovi	_	_	_	_	_	_	_	_	O
+20	nisu	_	_	_	_	_	_	_	_	O
+21	imuni	_	_	_	_	_	_	_	_	O
+22	na	_	_	_	_	_	_	_	_	O
+23	promašaje	_	_	_	_	_	_	_	SpaceAfter=No	O
+24	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 3
+# sent_id = 3.1
+# text = Svi studijski albumi benda Trivium – rangirani od najboljeg do najgoreg, bez uvijanja.
+1	Svi	_	_	_	_	_	_	_	_	O
+2	studijski	_	_	_	_	_	_	_	_	O
+3	albumi	_	_	_	_	_	_	_	_	O
+4	benda	_	_	_	_	_	_	_	_	O
+5	Trivium	_	_	_	_	_	_	_	_	B-ORG
+6	–	–	PUNCT	Z	_	_	_	_	_	O
+7	rangirani	_	_	_	_	_	_	_	_	O
+8	od	_	_	_	_	_	_	_	_	O
+9	najboljeg	_	_	_	_	_	_	_	_	O
+10	do	_	_	_	_	_	_	_	_	O
+11	najgoreg	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	bez	_	_	_	_	_	_	_	_	O
+14	uvijanja	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 4
+# sent_id = 4.1
+# text = Trivium je izbacio dva savršena albuma.
+1	Trivium	_	_	_	_	_	_	_	_	B-ORG
+2	je	_	_	_	_	_	_	_	_	O
+3	izbacio	_	_	_	_	_	_	_	_	O
+4	dva	_	_	_	_	_	_	_	_	O
+5	savršena	_	_	_	_	_	_	_	_	O
+6	albuma	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 4.2
+# text = Shogun je album koji definiše Trivium kao bend sposoban za epsko, tehnički besprekorno i emocionalno snažno.
+1	Shogun	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	album	_	_	_	_	_	_	_	_	O
+4	koji	_	_	_	_	_	_	_	_	O
+5	definiše	_	_	_	_	_	_	_	_	O
+6	Trivium	_	_	_	_	_	_	_	_	B-ORG
+7	kao	_	_	_	_	_	_	_	_	O
+8	bend	_	_	_	_	_	_	_	_	O
+9	sposoban	_	_	_	_	_	_	_	_	O
+10	za	_	_	_	_	_	_	_	_	O
+11	epsko	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	tehnički	_	_	_	_	_	_	_	_	O
+14	besprekorno	_	_	_	_	_	_	_	_	O
+15	i	_	_	_	_	_	_	_	_	O
+16	emocionalno	_	_	_	_	_	_	_	_	O
+17	snažno	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 4.3
+# text = Spoj mitologije, progesivnog pristupa i sirove snage.
+1	Spoj	_	_	_	_	_	_	_	_	O
+2	mitologije	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	progesivnog	_	_	_	_	_	_	_	_	O
+5	pristupa	_	_	_	_	_	_	_	_	O
+6	i	_	_	_	_	_	_	_	_	O
+7	sirove	_	_	_	_	_	_	_	_	O
+8	snage	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 4.4
+# text = Postoji reč na engleskom – masterpiece!
+1	Postoji	_	_	_	_	_	_	_	_	O
+2	reč	_	_	_	_	_	_	_	_	O
+3	na	_	_	_	_	_	_	_	_	O
+4	engleskom	_	_	_	_	_	_	_	_	O
+5	–	–	PUNCT	Z	_	_	_	_	_	O
+6	masterpiece	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	!	!	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 5
+# sent_id = 5.1
+# text = Ascendancy je zvuk jedne generacije metalcore klinaca.
+1	Ascendancy	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	zvuk	_	_	_	_	_	_	_	_	O
+4	jedne	_	_	_	_	_	_	_	_	O
+5	generacije	_	_	_	_	_	_	_	_	O
+6	metalcore	_	_	_	_	_	_	_	_	O
+7	klinaca	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 5.2
+# text = Himnično, agresivno, melodično – album koji ih je lansirao na scenu i još uvek zvuči sveže.
+1	Himnično	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	agresivno	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	melodično	_	_	_	_	_	_	_	_	O
+6	–	–	PUNCT	Z	_	_	_	_	_	O
+7	album	_	_	_	_	_	_	_	_	O
+8	koji	_	_	_	_	_	_	_	_	O
+9	ih	_	_	_	_	_	_	_	_	O
+10	je	_	_	_	_	_	_	_	_	O
+11	lansirao	_	_	_	_	_	_	_	_	O
+12	na	_	_	_	_	_	_	_	_	O
+13	scenu	_	_	_	_	_	_	_	_	O
+14	i	_	_	_	_	_	_	_	_	O
+15	još	_	_	_	_	_	_	_	_	O
+16	uvek	_	_	_	_	_	_	_	_	O
+17	zvuči	_	_	_	_	_	_	_	_	O
+18	sveže	_	_	_	_	_	_	_	SpaceAfter=No	O
+19	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 5.3
+# text = Ove godine su turnejom obeležili 20 rođendan ovog kultnog izdanja.
+1	Ove	_	_	_	_	_	_	_	_	O
+2	godine	_	_	_	_	_	_	_	_	O
+3	su	_	_	_	_	_	_	_	_	O
+4	turnejom	_	_	_	_	_	_	_	_	O
+5	obeležili	_	_	_	_	_	_	_	_	O
+6	20	_	_	_	_	_	_	_	_	O
+7	rođendan	_	_	_	_	_	_	_	_	O
+8	ovog	_	_	_	_	_	_	_	_	O
+9	kultnog	_	_	_	_	_	_	_	_	O
+10	izdanja	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 5.4
+# text = Čuli smo da je svirka bila odlična!
+1	Čuli	_	_	_	_	_	_	_	_	O
+2	smo	_	_	_	_	_	_	_	_	O
+3	da	_	_	_	_	_	_	_	_	O
+4	je	_	_	_	_	_	_	_	_	O
+5	svirka	_	_	_	_	_	_	_	_	O
+6	bila	_	_	_	_	_	_	_	_	O
+7	odlična	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	!	!	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 6
+# sent_id = 6.1
+# text = The Sin and the Sentence je odličan album kojim su se vratili u formu.
+1	The	_	_	_	_	_	_	_	_	O
+2	Sin	_	_	_	_	_	_	_	_	O
+3	and	_	_	_	_	_	_	_	_	O
+4	the	_	_	_	_	_	_	_	_	O
+5	Sentence	_	_	_	_	_	_	_	_	O
+6	je	_	_	_	_	_	_	_	_	O
+7	odličan	_	_	_	_	_	_	_	_	O
+8	album	_	_	_	_	_	_	_	_	O
+9	kojim	_	_	_	_	_	_	_	_	O
+10	su	_	_	_	_	_	_	_	_	O
+11	se	_	_	_	_	_	_	_	_	O
+12	vratili	_	_	_	_	_	_	_	_	O
+13	u	_	_	_	_	_	_	_	_	O
+14	formu	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 6.2
+# text = Jake pesme, brutalni vokali, sofisticirani rifovi i lako pevljive pesme.
+1	Jake	_	_	_	_	_	_	_	_	O
+2	pesme	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	brutalni	_	_	_	_	_	_	_	_	O
+5	vokali	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	sofisticirani	_	_	_	_	_	_	_	_	O
+8	rifovi	_	_	_	_	_	_	_	_	O
+9	i	_	_	_	_	_	_	_	_	O
+10	lako	_	_	_	_	_	_	_	_	O
+11	pevljive	_	_	_	_	_	_	_	_	O
+12	pesme	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 6.3
+# text = Trivium je prodisao punim plućima.
+1	Trivium	_	_	_	_	_	_	_	_	B-ORG
+2	je	_	_	_	_	_	_	_	_	O
+3	prodisao	_	_	_	_	_	_	_	_	O
+4	punim	_	_	_	_	_	_	_	_	O
+5	plućima	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 6.4
+# text = U istom odličnom rangu je In the Court of the Dragon, poslednje izdanje koje je neprijatno dobro za bend u dvadesetoj godini karijere.
+1	U	_	_	_	_	_	_	_	_	O
+2	istom	_	_	_	_	_	_	_	_	O
+3	odličnom	_	_	_	_	_	_	_	_	O
+4	rangu	_	_	_	_	_	_	_	_	O
+5	je	_	_	_	_	_	_	_	_	O
+6	In	_	_	_	_	_	_	_	_	O
+7	the	_	_	_	_	_	_	_	_	O
+8	Court	_	_	_	_	_	_	_	_	O
+9	of	_	_	_	_	_	_	_	_	O
+10	the	_	_	_	_	_	_	_	_	O
+11	Dragon	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	poslednje	_	_	_	_	_	_	_	_	O
+14	izdanje	_	_	_	_	_	_	_	_	O
+15	koje	_	_	_	_	_	_	_	_	O
+16	je	_	_	_	_	_	_	_	_	O
+17	neprijatno	_	_	_	_	_	_	_	_	O
+18	dobro	_	_	_	_	_	_	_	_	O
+19	za	_	_	_	_	_	_	_	_	O
+20	bend	_	_	_	_	_	_	_	_	O
+21	u	_	_	_	_	_	_	_	_	O
+22	dvadesetoj	_	_	_	_	_	_	_	_	O
+23	godini	_	_	_	_	_	_	_	_	O
+24	karijere	_	_	_	_	_	_	_	SpaceAfter=No	O
+25	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 6.5
+# text = Upečatljiva kombinacija epskog narativa i muzike koja zvuči kao da mogu da sravne grad.
+1	Upečatljiva	_	_	_	_	_	_	_	_	O
+2	kombinacija	_	_	_	_	_	_	_	_	O
+3	epskog	_	_	_	_	_	_	_	_	O
+4	narativa	_	_	_	_	_	_	_	_	O
+5	i	_	_	_	_	_	_	_	_	O
+6	muzike	_	_	_	_	_	_	_	_	O
+7	koja	_	_	_	_	_	_	_	_	O
+8	zvuči	_	_	_	_	_	_	_	_	O
+9	kao	_	_	_	_	_	_	_	_	O
+10	da	_	_	_	_	_	_	_	_	O
+11	mogu	_	_	_	_	_	_	_	_	O
+12	da	_	_	_	_	_	_	_	_	O
+13	sravne	_	_	_	_	_	_	_	_	O
+14	grad	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 6.6
+# text = Skoro kao Shogun!
+1	Skoro	_	_	_	_	_	_	_	_	O
+2	kao	_	_	_	_	_	_	_	_	O
+3	Shogun	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	!	!	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 7
+# sent_id = 7.1
+# text = What the Dead Men Say je solidan album, energičan, bez previše rizika.
+1	What	_	_	_	_	_	_	_	_	O
+2	the	_	_	_	_	_	_	_	_	O
+3	Dead	_	_	_	_	_	_	_	_	O
+4	Men	_	_	_	_	_	_	_	_	O
+5	Say	_	_	_	_	_	_	_	_	O
+6	je	_	_	_	_	_	_	_	_	O
+7	solidan	_	_	_	_	_	_	_	_	O
+8	album	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	energičan	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	bez	_	_	_	_	_	_	_	_	O
+13	previše	_	_	_	_	_	_	_	_	O
+14	rizika	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 7.2
+# text = Neki će reći da je suviše siguran, ali na njemu ima odličnih numera, kao što je The Defiant.
+1	Neki	_	_	_	_	_	_	_	_	O
+2	će	_	_	_	_	_	_	_	_	O
+3	reći	_	_	_	_	_	_	_	_	O
+4	da	_	_	_	_	_	_	_	_	O
+5	je	_	_	_	_	_	_	_	_	O
+6	suviše	_	_	_	_	_	_	_	_	O
+7	siguran	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	ali	_	_	_	_	_	_	_	_	O
+10	na	_	_	_	_	_	_	_	_	O
+11	njemu	_	_	_	_	_	_	_	_	O
+12	ima	_	_	_	_	_	_	_	_	O
+13	odličnih	_	_	_	_	_	_	_	_	O
+14	numera	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	,	,	PUNCT	Z	_	_	_	_	_	O
+16	kao	_	_	_	_	_	_	_	_	O
+17	što	_	_	_	_	_	_	_	_	O
+18	je	_	_	_	_	_	_	_	_	O
+19	The	_	_	_	_	_	_	_	_	O
+20	Defiant	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 7.3
+# text = In Waves je trenutak kada su pokušali da osvoje širu publiku.
+1	In	_	_	_	_	_	_	_	_	O
+2	Waves	_	_	_	_	_	_	_	_	O
+3	je	_	_	_	_	_	_	_	_	O
+4	trenutak	_	_	_	_	_	_	_	_	O
+5	kada	_	_	_	_	_	_	_	_	O
+6	su	_	_	_	_	_	_	_	_	O
+7	pokušali	_	_	_	_	_	_	_	_	O
+8	da	_	_	_	_	_	_	_	_	O
+9	osvoje	_	_	_	_	_	_	_	_	O
+10	širu	_	_	_	_	_	_	_	_	O
+11	publiku	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 7.4
+# text = Uspeli su delimično – album ima vrhove, ali i padove, ali je uvek dobro čuti pesme sa ovog albuma uživo.
+1	Uspeli	_	_	_	_	_	_	_	_	O
+2	su	_	_	_	_	_	_	_	_	O
+3	delimično	_	_	_	_	_	_	_	_	O
+4	–	–	PUNCT	Z	_	_	_	_	_	O
+5	album	_	_	_	_	_	_	_	_	O
+6	ima	_	_	_	_	_	_	_	_	O
+7	vrhove	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	ali	_	_	_	_	_	_	_	_	O
+10	i	_	_	_	_	_	_	_	_	O
+11	padove	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	ali	_	_	_	_	_	_	_	_	O
+14	je	_	_	_	_	_	_	_	_	O
+15	uvek	_	_	_	_	_	_	_	_	O
+16	dobro	_	_	_	_	_	_	_	_	O
+17	čuti	_	_	_	_	_	_	_	_	O
+18	pesme	_	_	_	_	_	_	_	_	O
+19	sa	_	_	_	_	_	_	_	_	O
+20	ovog	_	_	_	_	_	_	_	_	O
+21	albuma	_	_	_	_	_	_	_	_	O
+22	uživo	_	_	_	_	_	_	_	SpaceAfter=No	O
+23	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 7.5
+# text = Uvek je zabavno, a veslanje zagarantovano!
+1	Uvek	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	zabavno	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	a	_	_	_	_	_	_	_	_	O
+6	veslanje	_	_	_	_	_	_	_	_	O
+7	zagarantovano	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	!	!	PUNCT	Z	_	_	_	_	_	O
+

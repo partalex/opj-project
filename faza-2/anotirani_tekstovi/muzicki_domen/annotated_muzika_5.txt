@@ -1,0 +1,696 @@
+#name = marija
+#domen = muzika
+#url = https://balkanrock.com/autorski-clanci/recenzije/luka-smiljanic-in-balance-2025/
+# newpar id = 1
+# sent_id = 1.1
+# text = Virtuozni gitarista iz Šapca, Luka Smiljanić, objavio je svoj prvi samostalni instrumentalni album pod nazivom “In Balance”.
+1	Virtuozni	_	_	_	_	_	_	_	_	O
+2	gitarista	_	_	_	_	_	_	_	_	O
+3	iz	_	_	_	_	_	_	_	_	O
+4	Šapca	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	Luka	_	_	_	_	_	_	_	_	B-PER
+7	Smiljanić	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	objavio	_	_	_	_	_	_	_	_	O
+10	je	_	_	_	_	_	_	_	_	O
+11	svoj	_	_	_	_	_	_	_	_	O
+12	prvi	_	_	_	_	_	_	_	_	O
+13	samostalni	_	_	_	_	_	_	_	_	O
+14	instrumentalni	_	_	_	_	_	_	_	_	O
+15	album	_	_	_	_	_	_	_	_	O
+16	pod	_	_	_	_	_	_	_	_	O
+17	nazivom	_	_	_	_	_	_	_	_	O
+18	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+19	In	_	_	_	_	_	_	_	_	O
+20	Balance	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	”	”	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+22	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.2
+# text = Ovim izdanjem Luka se autentično predstavlja kao gitarista i kompozitor na progressive metal sceni, stvarajući konceptualni album koji istražuje kontraste između svetlosti i tame – i u muzici i u emocijama.
+1	Ovim	_	_	_	_	_	_	_	_	O
+2	izdanjem	_	_	_	_	_	_	_	_	O
+3	Luka	_	_	_	_	_	_	_	_	B-PER
+4	se	_	_	_	_	_	_	_	_	O
+5	autentično	_	_	_	_	_	_	_	_	O
+6	predstavlja	_	_	_	_	_	_	_	_	O
+7	kao	_	_	_	_	_	_	_	_	O
+8	gitarista	_	_	_	_	_	_	_	_	O
+9	i	_	_	_	_	_	_	_	_	O
+10	kompozitor	_	_	_	_	_	_	_	_	O
+11	na	_	_	_	_	_	_	_	_	O
+12	progressive	_	_	_	_	_	_	_	_	O
+13	metal	_	_	_	_	_	_	_	_	O
+14	sceni	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	,	,	PUNCT	Z	_	_	_	_	_	O
+16	stvarajući	_	_	_	_	_	_	_	_	O
+17	konceptualni	_	_	_	_	_	_	_	_	O
+18	album	_	_	_	_	_	_	_	_	O
+19	koji	_	_	_	_	_	_	_	_	O
+20	istražuje	_	_	_	_	_	_	_	_	O
+21	kontraste	_	_	_	_	_	_	_	_	O
+22	između	_	_	_	_	_	_	_	_	O
+23	svetlosti	_	_	_	_	_	_	_	_	O
+24	i	_	_	_	_	_	_	_	_	O
+25	tame	_	_	_	_	_	_	_	_	O
+26	–	–	PUNCT	Z	_	_	_	_	_	O
+27	i	_	_	_	_	_	_	_	_	O
+28	u	_	_	_	_	_	_	_	_	O
+29	muzici	_	_	_	_	_	_	_	_	O
+30	i	_	_	_	_	_	_	_	_	O
+31	u	_	_	_	_	_	_	_	_	O
+32	emocijama	_	_	_	_	_	_	_	SpaceAfter=No	O
+33	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.3
+# text = Objavljivajući ovaj prvijenac, Luka objedinjuje dugogodišnje iskustvo, te ga prikazuje kroz ovaj uradak.
+1	Objavljivajući	_	_	_	_	_	_	_	_	O
+2	ovaj	_	_	_	_	_	_	_	_	O
+3	prvijenac	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	Luka	_	_	_	_	_	_	_	_	O
+6	objedinjuje	_	_	_	_	_	_	_	_	O
+7	dugogodišnje	_	_	_	_	_	_	_	_	O
+8	iskustvo	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	te	_	_	_	_	_	_	_	_	O
+11	ga	_	_	_	_	_	_	_	_	O
+12	prikazuje	_	_	_	_	_	_	_	_	O
+13	kroz	_	_	_	_	_	_	_	_	O
+14	ovaj	_	_	_	_	_	_	_	_	O
+15	uradak	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 2
+# sent_id = 2.1
+# text = Za početak, treba ga izuzetno cijeniti kao samu pojavu na našim prostorima, s obzirom da se na instrumentalne albume rijetko neko odlučuje, te ih kao takvih nema u izobilju.
+1	Za	_	_	_	_	_	_	_	_	O
+2	početak	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	treba	_	_	_	_	_	_	_	_	O
+5	ga	_	_	_	_	_	_	_	_	O
+6	izuzetno	_	_	_	_	_	_	_	_	O
+7	cijeniti	_	_	_	_	_	_	_	_	O
+8	kao	_	_	_	_	_	_	_	_	O
+9	samu	_	_	_	_	_	_	_	_	O
+10	pojavu	_	_	_	_	_	_	_	_	O
+11	na	_	_	_	_	_	_	_	_	O
+12	našim	_	_	_	_	_	_	_	_	O
+13	prostorima	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	,	,	PUNCT	Z	_	_	_	_	_	O
+15	s	_	_	_	_	_	_	_	_	O
+16	obzirom	_	_	_	_	_	_	_	_	O
+17	da	_	_	_	_	_	_	_	_	O
+18	se	_	_	_	_	_	_	_	_	O
+19	na	_	_	_	_	_	_	_	_	O
+20	instrumentalne	_	_	_	_	_	_	_	_	O
+21	albume	_	_	_	_	_	_	_	_	O
+22	rijetko	_	_	_	_	_	_	_	_	O
+23	neko	_	_	_	_	_	_	_	_	O
+24	odlučuje	_	_	_	_	_	_	_	SpaceAfter=No	O
+25	,	,	PUNCT	Z	_	_	_	_	_	O
+26	te	_	_	_	_	_	_	_	_	O
+27	ih	_	_	_	_	_	_	_	_	O
+28	kao	_	_	_	_	_	_	_	_	O
+29	takvih	_	_	_	_	_	_	_	_	O
+30	nema	_	_	_	_	_	_	_	_	O
+31	u	_	_	_	_	_	_	_	_	O
+32	izobilju	_	_	_	_	_	_	_	SpaceAfter=No	O
+33	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.2
+# text = Ako čitate ovaj tekst vjerovatno ste upoznati sa jasnom podjelom albuma na tamnu i svjetlu stranu koja vodi do lakšeg razumijevanja cjeline.
+1	Ako	_	_	_	_	_	_	_	_	O
+2	čitate	_	_	_	_	_	_	_	_	O
+3	ovaj	_	_	_	_	_	_	_	_	O
+4	tekst	_	_	_	_	_	_	_	_	O
+5	vjerovatno	_	_	_	_	_	_	_	_	O
+6	ste	_	_	_	_	_	_	_	_	O
+7	upoznati	_	_	_	_	_	_	_	_	O
+8	sa	_	_	_	_	_	_	_	_	O
+9	jasnom	_	_	_	_	_	_	_	_	O
+10	podjelom	_	_	_	_	_	_	_	_	O
+11	albuma	_	_	_	_	_	_	_	_	O
+12	na	_	_	_	_	_	_	_	_	O
+13	tamnu	_	_	_	_	_	_	_	_	O
+14	i	_	_	_	_	_	_	_	_	O
+15	svjetlu	_	_	_	_	_	_	_	_	O
+16	stranu	_	_	_	_	_	_	_	_	O
+17	koja	_	_	_	_	_	_	_	_	O
+18	vodi	_	_	_	_	_	_	_	_	O
+19	do	_	_	_	_	_	_	_	_	O
+20	lakšeg	_	_	_	_	_	_	_	_	O
+21	razumijevanja	_	_	_	_	_	_	_	_	O
+22	cjeline	_	_	_	_	_	_	_	SpaceAfter=No	O
+23	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.3
+# text = Prva pjesma na albumu, “Influx of Dark”, vodi nas svojom zavodnom mističnošću do “Traumatic Noise”, koja je sve, samo ne mistična.
+1	Prva	_	_	_	_	_	_	_	_	O
+2	pjesma	_	_	_	_	_	_	_	_	O
+3	na	_	_	_	_	_	_	_	_	O
+4	albumu	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+7	Influx	_	_	_	_	_	_	_	_	O
+8	of	_	_	_	_	_	_	_	_	O
+9	Dark	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	”	”	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	vodi	_	_	_	_	_	_	_	_	O
+13	nas	_	_	_	_	_	_	_	_	O
+14	svojom	_	_	_	_	_	_	_	_	O
+15	zavodnom	_	_	_	_	_	_	_	_	O
+16	mističnošću	_	_	_	_	_	_	_	_	O
+17	do	_	_	_	_	_	_	_	_	O
+18	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+19	Traumatic	_	_	_	_	_	_	_	_	O
+20	Noise	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	”	”	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+22	,	,	PUNCT	Z	_	_	_	_	_	O
+23	koja	_	_	_	_	_	_	_	_	O
+24	je	_	_	_	_	_	_	_	_	O
+25	sve	_	_	_	_	_	_	_	SpaceAfter=No	O
+26	,	,	PUNCT	Z	_	_	_	_	_	O
+27	samo	_	_	_	_	_	_	_	_	O
+28	ne	_	_	_	_	_	_	_	_	O
+29	mistična	_	_	_	_	_	_	_	SpaceAfter=No	O
+30	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.4
+# text = Jaki riffovi i solo dionica koja sredinom pjesme izlazi iz dubina i vraća umjetno disanje pjesmi zaista donosi balans kakav joj je potreban.
+1	Jaki	_	_	_	_	_	_	_	_	O
+2	riffovi	_	_	_	_	_	_	_	_	O
+3	i	_	_	_	_	_	_	_	_	O
+4	solo	_	_	_	_	_	_	_	_	O
+5	dionica	_	_	_	_	_	_	_	_	O
+6	koja	_	_	_	_	_	_	_	_	O
+7	sredinom	_	_	_	_	_	_	_	_	O
+8	pjesme	_	_	_	_	_	_	_	_	O
+9	izlazi	_	_	_	_	_	_	_	_	O
+10	iz	_	_	_	_	_	_	_	_	O
+11	dubina	_	_	_	_	_	_	_	_	O
+12	i	_	_	_	_	_	_	_	_	O
+13	vraća	_	_	_	_	_	_	_	_	O
+14	umjetno	_	_	_	_	_	_	_	_	O
+15	disanje	_	_	_	_	_	_	_	_	O
+16	pjesmi	_	_	_	_	_	_	_	_	O
+17	zaista	_	_	_	_	_	_	_	_	O
+18	donosi	_	_	_	_	_	_	_	_	O
+19	balans	_	_	_	_	_	_	_	_	O
+20	kakav	_	_	_	_	_	_	_	_	O
+21	joj	_	_	_	_	_	_	_	_	O
+22	je	_	_	_	_	_	_	_	_	O
+23	potreban	_	_	_	_	_	_	_	SpaceAfter=No	O
+24	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.5
+# text = Sa pjesmom “Stygian Veil” završava se prvi mikrosektor albuma nakon koje slijedi lagana balada “Pressure” koja konceptualno može ličiti na Metallicain “Fade to Black” – akustična gitara na početku koju polako preuzima distorzija električne gitare, popraćene bubnjevima.
+1	Sa	_	_	_	_	_	_	_	_	O
+2	pjesmom	_	_	_	_	_	_	_	_	O
+3	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+4	Stygian	_	_	_	_	_	_	_	_	O
+5	Veil	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	”	”	PUNCT	Z	_	_	_	_	_	O
+7	završava	_	_	_	_	_	_	_	_	O
+8	se	_	_	_	_	_	_	_	_	O
+9	prvi	_	_	_	_	_	_	_	_	O
+10	mikrosektor	_	_	_	_	_	_	_	_	O
+11	albuma	_	_	_	_	_	_	_	_	O
+12	nakon	_	_	_	_	_	_	_	_	O
+13	koje	_	_	_	_	_	_	_	_	O
+14	slijedi	_	_	_	_	_	_	_	_	O
+15	lagana	_	_	_	_	_	_	_	_	O
+16	balada	_	_	_	_	_	_	_	_	O
+17	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+18	Pressure	_	_	_	_	_	_	_	SpaceAfter=No	O
+19	”	”	PUNCT	Z	_	_	_	_	_	O
+20	koja	_	_	_	_	_	_	_	_	O
+21	konceptualno	_	_	_	_	_	_	_	_	O
+22	može	_	_	_	_	_	_	_	_	O
+23	ličiti	_	_	_	_	_	_	_	_	O
+24	na	_	_	_	_	_	_	_	_	O
+25	Metallicain	_	_	_	_	_	_	_	_	B-ORG
+26	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+27	Fade	_	_	_	_	_	_	_	_	O
+28	to	_	_	_	_	_	_	_	_	O
+29	Black	_	_	_	_	_	_	_	SpaceAfter=No	O
+30	”	”	PUNCT	Z	_	_	_	_	_	O
+31	–	–	PUNCT	Z	_	_	_	_	_	O
+32	akustična	_	_	_	_	_	_	_	_	O
+33	gitara	_	_	_	_	_	_	_	_	O
+34	na	_	_	_	_	_	_	_	_	O
+35	početku	_	_	_	_	_	_	_	_	O
+36	koju	_	_	_	_	_	_	_	_	O
+37	polako	_	_	_	_	_	_	_	_	O
+38	preuzima	_	_	_	_	_	_	_	_	O
+39	distorzija	_	_	_	_	_	_	_	_	O
+40	električne	_	_	_	_	_	_	_	_	O
+41	gitare	_	_	_	_	_	_	_	SpaceAfter=No	O
+42	,	,	PUNCT	Z	_	_	_	_	_	O
+43	popraćene	_	_	_	_	_	_	_	_	O
+44	bubnjevima	_	_	_	_	_	_	_	SpaceAfter=No	O
+45	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.6
+# text = “False World” predstavlja završnu riječ tamne strane albuma u kojoj je pokazana sva njegova žestina.
+1	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+2	False	_	_	_	_	_	_	_	_	O
+3	World	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	”	”	PUNCT	Z	_	_	_	_	_	O
+5	predstavlja	_	_	_	_	_	_	_	_	O
+6	završnu	_	_	_	_	_	_	_	_	O
+7	riječ	_	_	_	_	_	_	_	_	O
+8	tamne	_	_	_	_	_	_	_	_	O
+9	strane	_	_	_	_	_	_	_	_	O
+10	albuma	_	_	_	_	_	_	_	_	O
+11	u	_	_	_	_	_	_	_	_	O
+12	kojoj	_	_	_	_	_	_	_	_	O
+13	je	_	_	_	_	_	_	_	_	O
+14	pokazana	_	_	_	_	_	_	_	_	O
+15	sva	_	_	_	_	_	_	_	_	O
+16	njegova	_	_	_	_	_	_	_	_	O
+17	žestina	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 3
+# sent_id = 3.1
+# text = Albumom plove melodije koje podsjećaju na gitarističke velikane koji su očito bili heroji autora albuma.
+1	Albumom	_	_	_	_	_	_	_	_	O
+2	plove	_	_	_	_	_	_	_	_	O
+3	melodije	_	_	_	_	_	_	_	_	O
+4	koje	_	_	_	_	_	_	_	_	O
+5	podsjećaju	_	_	_	_	_	_	_	_	O
+6	na	_	_	_	_	_	_	_	_	O
+7	gitarističke	_	_	_	_	_	_	_	_	O
+8	velikane	_	_	_	_	_	_	_	_	O
+9	koji	_	_	_	_	_	_	_	_	O
+10	su	_	_	_	_	_	_	_	_	O
+11	očito	_	_	_	_	_	_	_	_	O
+12	bili	_	_	_	_	_	_	_	_	O
+13	heroji	_	_	_	_	_	_	_	_	O
+14	autora	_	_	_	_	_	_	_	_	O
+15	albuma	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 3.2
+# text = Arpeggija, duga vibrata, barokne melodije pune motorike – sve ovo na albumu zatvara jedan živi svijet za sebe.
+1	Arpeggija	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	duga	_	_	_	_	_	_	_	_	O
+4	vibrata	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	barokne	_	_	_	_	_	_	_	_	O
+7	melodije	_	_	_	_	_	_	_	_	O
+8	pune	_	_	_	_	_	_	_	_	O
+9	motorike	_	_	_	_	_	_	_	_	O
+10	–	–	PUNCT	Z	_	_	_	_	_	O
+11	sve	_	_	_	_	_	_	_	_	O
+12	ovo	_	_	_	_	_	_	_	_	O
+13	na	_	_	_	_	_	_	_	_	O
+14	albumu	_	_	_	_	_	_	_	_	O
+15	zatvara	_	_	_	_	_	_	_	_	O
+16	jedan	_	_	_	_	_	_	_	_	O
+17	živi	_	_	_	_	_	_	_	_	O
+18	svijet	_	_	_	_	_	_	_	_	O
+19	za	_	_	_	_	_	_	_	_	O
+20	sebe	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 3.3
+# text = Česta igranja sa stereo zvukom su možda urađeni preagresivno na nekim mjestima, ali u cjelini odličan način da se u pjesmu unese još nešto što na prvu sigurno ne očekujete da će se desiti.
+1	Česta	_	_	_	_	_	_	_	_	O
+2	igranja	_	_	_	_	_	_	_	_	O
+3	sa	_	_	_	_	_	_	_	_	O
+4	stereo	_	_	_	_	_	_	_	_	O
+5	zvukom	_	_	_	_	_	_	_	_	O
+6	su	_	_	_	_	_	_	_	_	O
+7	možda	_	_	_	_	_	_	_	_	O
+8	urađeni	_	_	_	_	_	_	_	_	O
+9	preagresivno	_	_	_	_	_	_	_	_	O
+10	na	_	_	_	_	_	_	_	_	O
+11	nekim	_	_	_	_	_	_	_	_	O
+12	mjestima	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+14	ali	_	_	_	_	_	_	_	_	O
+15	u	_	_	_	_	_	_	_	_	O
+16	cjelini	_	_	_	_	_	_	_	_	O
+17	odličan	_	_	_	_	_	_	_	_	O
+18	način	_	_	_	_	_	_	_	_	O
+19	da	_	_	_	_	_	_	_	_	O
+20	se	_	_	_	_	_	_	_	_	O
+21	u	_	_	_	_	_	_	_	_	O
+22	pjesmu	_	_	_	_	_	_	_	_	O
+23	unese	_	_	_	_	_	_	_	_	O
+24	još	_	_	_	_	_	_	_	_	O
+25	nešto	_	_	_	_	_	_	_	_	O
+26	što	_	_	_	_	_	_	_	_	O
+27	na	_	_	_	_	_	_	_	_	O
+28	prvu	_	_	_	_	_	_	_	_	O
+29	sigurno	_	_	_	_	_	_	_	_	O
+30	ne	_	_	_	_	_	_	_	_	O
+31	očekujete	_	_	_	_	_	_	_	_	O
+32	da	_	_	_	_	_	_	_	_	O
+33	će	_	_	_	_	_	_	_	_	O
+34	se	_	_	_	_	_	_	_	_	O
+35	desiti	_	_	_	_	_	_	_	SpaceAfter=No	O
+36	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 3.4
+# text = Sve pjesme napisao je i snimio Luka Smiljanić, dok je miks urađen u MincStudiju u Novom Sadu, u saradnji sa producentom Dimitrijem Mladenovićem.
+1	Sve	_	_	_	_	_	_	_	_	O
+2	pjesme	_	_	_	_	_	_	_	_	O
+3	napisao	_	_	_	_	_	_	_	_	O
+4	je	_	_	_	_	_	_	_	_	O
+5	i	_	_	_	_	_	_	_	_	O
+6	snimio	_	_	_	_	_	_	_	_	O
+7	Luka	_	_	_	_	_	_	_	_	B-PER
+8	Smiljanić	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	dok	_	_	_	_	_	_	_	_	O
+11	je	_	_	_	_	_	_	_	_	O
+12	miks	_	_	_	_	_	_	_	_	O
+13	urađen	_	_	_	_	_	_	_	_	O
+14	u	_	_	_	_	_	_	_	_	O
+15	MincStudiju	_	_	_	_	_	_	_	_	B-LOC
+16	u	_	_	_	_	_	_	_	_	I-LOC
+17	Novom	_	_	_	_	_	_	_	_	I-LOC
+18	Sadu	_	_	_	_	_	_	_	SpaceAfter=No	I-LOC
+19	,	,	PUNCT	Z	_	_	_	_	_	O
+20	u	_	_	_	_	_	_	_	_	O
+21	saradnji	_	_	_	_	_	_	_	_	O
+22	sa	_	_	_	_	_	_	_	_	O
+23	producentom	_	_	_	_	_	_	_	_	O
+24	Dimitrijem	_	_	_	_	_	_	_	_	B-PER
+25	Mladenovićem	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+26	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 4
+# sent_id = 4.1
+# text = “Influx of Light” je identična pjesma onoj koja nas je uvela u album.
+1	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+2	Influx	_	_	_	_	_	_	_	_	O
+3	of	_	_	_	_	_	_	_	_	O
+4	Light	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	”	”	PUNCT	Z	_	_	_	_	_	O
+6	je	_	_	_	_	_	_	_	_	O
+7	identična	_	_	_	_	_	_	_	_	O
+8	pjesma	_	_	_	_	_	_	_	_	O
+9	onoj	_	_	_	_	_	_	_	_	O
+10	koja	_	_	_	_	_	_	_	_	O
+11	nas	_	_	_	_	_	_	_	_	O
+12	je	_	_	_	_	_	_	_	_	O
+13	uvela	_	_	_	_	_	_	_	_	O
+14	u	_	_	_	_	_	_	_	_	O
+15	album	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 4.2
+# text = Jedina razlika je akustična gitara na kojoj je odsvirana cijela pjesma, to jest, intro u svjetlu stranu albuma.
+1	Jedina	_	_	_	_	_	_	_	_	O
+2	razlika	_	_	_	_	_	_	_	_	O
+3	je	_	_	_	_	_	_	_	_	O
+4	akustična	_	_	_	_	_	_	_	_	O
+5	gitara	_	_	_	_	_	_	_	_	O
+6	na	_	_	_	_	_	_	_	_	O
+7	kojoj	_	_	_	_	_	_	_	_	O
+8	je	_	_	_	_	_	_	_	_	O
+9	odsvirana	_	_	_	_	_	_	_	_	O
+10	cijela	_	_	_	_	_	_	_	_	O
+11	pjesma	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	to	_	_	_	_	_	_	_	_	O
+14	jest	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	,	,	PUNCT	Z	_	_	_	_	_	O
+16	intro	_	_	_	_	_	_	_	_	O
+17	u	_	_	_	_	_	_	_	_	O
+18	svjetlu	_	_	_	_	_	_	_	_	O
+19	stranu	_	_	_	_	_	_	_	_	O
+20	albuma	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 4.3
+# text = “Eudamonia”, pjesma koja vodi slušaoca dalje, sigurno je i naslovna numera albuma.
+1	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+2	Eudamonia	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	”	”	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	pjesma	_	_	_	_	_	_	_	_	O
+6	koja	_	_	_	_	_	_	_	_	O
+7	vodi	_	_	_	_	_	_	_	_	O
+8	slušaoca	_	_	_	_	_	_	_	_	O
+9	dalje	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	sigurno	_	_	_	_	_	_	_	_	O
+12	je	_	_	_	_	_	_	_	_	O
+13	i	_	_	_	_	_	_	_	_	O
+14	naslovna	_	_	_	_	_	_	_	_	O
+15	numera	_	_	_	_	_	_	_	_	O
+16	albuma	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 4.4
+# text = U “Eudamoniji” sve je odmjereno milimetarski precizno.
+1	U	_	_	_	_	_	_	_	_	O
+2	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+3	Eudamoniji	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	”	”	PUNCT	Z	_	_	_	_	_	O
+5	sve	_	_	_	_	_	_	_	_	O
+6	je	_	_	_	_	_	_	_	_	O
+7	odmjereno	_	_	_	_	_	_	_	_	O
+8	milimetarski	_	_	_	_	_	_	_	_	O
+9	precizno	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 4.5
+# text = Pozadina po kojoj igra melodijski dio pjesme i gitara koja pokazuje zašto je ovo “svjetlija strana”, puna emocije i žara.
+1	Pozadina	_	_	_	_	_	_	_	_	O
+2	po	_	_	_	_	_	_	_	_	O
+3	kojoj	_	_	_	_	_	_	_	_	O
+4	igra	_	_	_	_	_	_	_	_	O
+5	melodijski	_	_	_	_	_	_	_	_	O
+6	dio	_	_	_	_	_	_	_	_	O
+7	pjesme	_	_	_	_	_	_	_	_	O
+8	i	_	_	_	_	_	_	_	_	O
+9	gitara	_	_	_	_	_	_	_	_	O
+10	koja	_	_	_	_	_	_	_	_	O
+11	pokazuje	_	_	_	_	_	_	_	_	O
+12	zašto	_	_	_	_	_	_	_	_	O
+13	je	_	_	_	_	_	_	_	_	O
+14	ovo	_	_	_	_	_	_	_	_	O
+15	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+16	svjetlija	_	_	_	_	_	_	_	_	O
+17	strana	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	”	”	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+19	,	,	PUNCT	Z	_	_	_	_	_	O
+20	puna	_	_	_	_	_	_	_	_	O
+21	emocije	_	_	_	_	_	_	_	_	O
+22	i	_	_	_	_	_	_	_	_	O
+23	žara	_	_	_	_	_	_	_	SpaceAfter=No	O
+24	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 5
+# sent_id = 5.1
+# text = Prva pjesma koja je muzikom i dušom u svjetloj strani albuma je “Pierce the Darkness”.
+1	Prva	_	_	_	_	_	_	_	_	O
+2	pjesma	_	_	_	_	_	_	_	_	O
+3	koja	_	_	_	_	_	_	_	_	O
+4	je	_	_	_	_	_	_	_	_	O
+5	muzikom	_	_	_	_	_	_	_	_	O
+6	i	_	_	_	_	_	_	_	_	O
+7	dušom	_	_	_	_	_	_	_	_	O
+8	u	_	_	_	_	_	_	_	_	O
+9	svjetloj	_	_	_	_	_	_	_	_	O
+10	strani	_	_	_	_	_	_	_	_	O
+11	albuma	_	_	_	_	_	_	_	_	O
+12	je	_	_	_	_	_	_	_	_	O
+13	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+14	Pierce	_	_	_	_	_	_	_	_	O
+15	the	_	_	_	_	_	_	_	_	O
+16	Darkness	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	”	”	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+18	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 5.2
+# text = Neke od najmelodičnijih solo dionica na albumu mogu se naći upravo u njoj.
+1	Neke	_	_	_	_	_	_	_	_	O
+2	od	_	_	_	_	_	_	_	_	O
+3	najmelodičnijih	_	_	_	_	_	_	_	_	O
+4	solo	_	_	_	_	_	_	_	_	O
+5	dionica	_	_	_	_	_	_	_	_	O
+6	na	_	_	_	_	_	_	_	_	O
+7	albumu	_	_	_	_	_	_	_	_	O
+8	mogu	_	_	_	_	_	_	_	_	O
+9	se	_	_	_	_	_	_	_	_	O
+10	naći	_	_	_	_	_	_	_	_	O
+11	upravo	_	_	_	_	_	_	_	_	O
+12	u	_	_	_	_	_	_	_	_	O
+13	njoj	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 5.3
+# text = Odlično korištenje vibrata doprinosi, u metal smislu, romantični ugođaj.
+1	Odlično	_	_	_	_	_	_	_	_	O
+2	korištenje	_	_	_	_	_	_	_	_	O
+3	vibrata	_	_	_	_	_	_	_	_	O
+4	doprinosi	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	u	_	_	_	_	_	_	_	_	O
+7	metal	_	_	_	_	_	_	_	_	O
+8	smislu	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	romantični	_	_	_	_	_	_	_	_	O
+11	ugođaj	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 5.4
+# text = Posljednja pjesma u kojoj se osjeća žar, “Cascade Flow”, nagoviješta i kraj albuma.
+1	Posljednja	_	_	_	_	_	_	_	_	O
+2	pjesma	_	_	_	_	_	_	_	_	O
+3	u	_	_	_	_	_	_	_	_	O
+4	kojoj	_	_	_	_	_	_	_	_	O
+5	se	_	_	_	_	_	_	_	_	O
+6	osjeća	_	_	_	_	_	_	_	_	O
+7	žar	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+10	Cascade	_	_	_	_	_	_	_	_	O
+11	Flow	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	”	”	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+14	nagoviješta	_	_	_	_	_	_	_	_	O
+15	i	_	_	_	_	_	_	_	_	O
+16	kraj	_	_	_	_	_	_	_	_	O
+17	albuma	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 5.5
+# text = Pjesme “Ludic View I – Unveil” i “Lucid View II – Purify”, kojima se završava album, potpuna su suprotnost svemu prije.
+1	Pjesme	_	_	_	_	_	_	_	_	O
+2	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+3	Ludic	_	_	_	_	_	_	_	_	O
+4	View	_	_	_	_	_	_	_	_	O
+5	I	_	_	_	_	_	_	_	_	O
+6	–	–	PUNCT	Z	_	_	_	_	_	O
+7	Unveil	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	”	”	PUNCT	Z	_	_	_	_	_	O
+9	i	_	_	_	_	_	_	_	_	O
+10	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+11	Lucid	_	_	_	_	_	_	_	_	O
+12	View	_	_	_	_	_	_	_	_	O
+13	II	_	_	_	_	_	_	_	_	O
+14	–	–	PUNCT	Z	_	_	_	_	_	O
+15	Purify	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	”	”	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+17	,	,	PUNCT	Z	_	_	_	_	_	O
+18	kojima	_	_	_	_	_	_	_	_	O
+19	se	_	_	_	_	_	_	_	_	O
+20	završava	_	_	_	_	_	_	_	_	O
+21	album	_	_	_	_	_	_	_	SpaceAfter=No	O
+22	,	,	PUNCT	Z	_	_	_	_	_	O
+23	potpuna	_	_	_	_	_	_	_	_	O
+24	su	_	_	_	_	_	_	_	_	O
+25	suprotnost	_	_	_	_	_	_	_	_	O
+26	svemu	_	_	_	_	_	_	_	_	O
+27	prije	_	_	_	_	_	_	_	SpaceAfter=No	O
+28	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 5.6
+# text = Akustična gitara, mekani zvuk, koji lagano kao da gasi svjetlo koje je vodilo slušaoca kroz album.
+1	Akustična	_	_	_	_	_	_	_	_	O
+2	gitara	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	mekani	_	_	_	_	_	_	_	_	O
+5	zvuk	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	koji	_	_	_	_	_	_	_	_	O
+8	lagano	_	_	_	_	_	_	_	_	O
+9	kao	_	_	_	_	_	_	_	_	O
+10	da	_	_	_	_	_	_	_	_	O
+11	gasi	_	_	_	_	_	_	_	_	O
+12	svjetlo	_	_	_	_	_	_	_	_	O
+13	koje	_	_	_	_	_	_	_	_	O
+14	je	_	_	_	_	_	_	_	_	O
+15	vodilo	_	_	_	_	_	_	_	_	O
+16	slušaoca	_	_	_	_	_	_	_	_	O
+17	kroz	_	_	_	_	_	_	_	_	O
+18	album	_	_	_	_	_	_	_	SpaceAfter=No	O
+19	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 6
+# sent_id = 6.1
+# text = S obzirom na stanje metal scene, koja kao da se zadnjih godina vraća na svoje mjesto, ovo bi mogao biti jedan od albuma koji mogu da ohrabre one koji žele nešto slično da urade.
+1	S	_	_	_	_	_	_	_	_	O
+2	obzirom	_	_	_	_	_	_	_	_	O
+3	na	_	_	_	_	_	_	_	_	O
+4	stanje	_	_	_	_	_	_	_	_	O
+5	metal	_	_	_	_	_	_	_	_	O
+6	scene	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	koja	_	_	_	_	_	_	_	_	O
+9	kao	_	_	_	_	_	_	_	_	O
+10	da	_	_	_	_	_	_	_	_	O
+11	se	_	_	_	_	_	_	_	_	O
+12	zadnjih	_	_	_	_	_	_	_	_	O
+13	godina	_	_	_	_	_	_	_	_	O
+14	vraća	_	_	_	_	_	_	_	_	O
+15	na	_	_	_	_	_	_	_	_	O
+16	svoje	_	_	_	_	_	_	_	_	O
+17	mjesto	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	,	,	PUNCT	Z	_	_	_	_	_	O
+19	ovo	_	_	_	_	_	_	_	_	O
+20	bi	_	_	_	_	_	_	_	_	O
+21	mogao	_	_	_	_	_	_	_	_	O
+22	biti	_	_	_	_	_	_	_	_	O
+23	jedan	_	_	_	_	_	_	_	_	O
+24	od	_	_	_	_	_	_	_	_	O
+25	albuma	_	_	_	_	_	_	_	_	O
+26	koji	_	_	_	_	_	_	_	_	O
+27	mogu	_	_	_	_	_	_	_	_	O
+28	da	_	_	_	_	_	_	_	_	O
+29	ohrabre	_	_	_	_	_	_	_	_	O
+30	one	_	_	_	_	_	_	_	_	O
+31	koji	_	_	_	_	_	_	_	_	O
+32	žele	_	_	_	_	_	_	_	_	O
+33	nešto	_	_	_	_	_	_	_	_	O
+34	slično	_	_	_	_	_	_	_	_	O
+35	da	_	_	_	_	_	_	_	_	O
+36	urade	_	_	_	_	_	_	_	SpaceAfter=No	O
+37	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 6.2
+# text = I za sam kraj, kad se bude diskutovalo ko je najbolji gitarista, Yngwie, Steve Vai, Satriani, upravo ste dobili novog u toj debati, Luku Smiljanića.
+1	I	_	_	_	_	_	_	_	_	O
+2	za	_	_	_	_	_	_	_	_	O
+3	sam	_	_	_	_	_	_	_	_	O
+4	kraj	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	kad	_	_	_	_	_	_	_	_	O
+7	se	_	_	_	_	_	_	_	_	O
+8	bude	_	_	_	_	_	_	_	_	O
+9	diskutovalo	_	_	_	_	_	_	_	_	O
+10	ko	_	_	_	_	_	_	_	_	O
+11	je	_	_	_	_	_	_	_	_	O
+12	najbolji	_	_	_	_	_	_	_	_	O
+13	gitarista	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	,	,	PUNCT	Z	_	_	_	_	_	O
+15	Yngwie	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
+16	,	,	PUNCT	Z	_	_	_	_	_	O
+17	Steve	_	_	_	_	_	_	_	_	B-PER
+18	Vai	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+19	,	,	PUNCT	Z	_	_	_	_	_	O
+20	Satriani	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
+21	,	,	PUNCT	Z	_	_	_	_	_	O
+22	upravo	_	_	_	_	_	_	_	_	O
+23	ste	_	_	_	_	_	_	_	_	O
+24	dobili	_	_	_	_	_	_	_	_	O
+25	novog	_	_	_	_	_	_	_	_	O
+26	u	_	_	_	_	_	_	_	_	O
+27	toj	_	_	_	_	_	_	_	_	O
+28	debati	_	_	_	_	_	_	_	SpaceAfter=No	O
+29	,	,	PUNCT	Z	_	_	_	_	_	O
+30	Luku	_	_	_	_	_	_	_	_	B-PER
+31	Smiljanića	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+32	.	.	PUNCT	Z	_	_	_	_	_	O
+

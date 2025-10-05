@@ -1,0 +1,61 @@
+#name = marija
+#domen = tviter
+#url = https://x.com/Balshone/status/1970464402467115041
+# newpar id = 1
+# sent_id = 1.1
+# text = Državna revizorska institucija utvrdila da je ministarstvo za vreme mandata Gorana Vesića potrošilo 217.000 evra na oslikavanje murala "Kad se vojska na Kosovo vrati", a naručac posla bio izvršni odbor SNS.
+1	Državna	_	_	_	_	_	_	_	_	B-ORG
+2	revizorska	_	_	_	_	_	_	_	_	I-ORG
+3	institucija	_	_	_	_	_	_	_	_	I-ORG
+4	utvrdila	_	_	_	_	_	_	_	_	O
+5	da	_	_	_	_	_	_	_	_	O
+6	je	_	_	_	_	_	_	_	_	O
+7	ministarstvo	_	_	_	_	_	_	_	_	B-ORG
+8	za	_	_	_	_	_	_	_	_	O
+9	vreme	_	_	_	_	_	_	_	_	O
+10	mandata	_	_	_	_	_	_	_	_	O
+11	Gorana	_	_	_	_	_	_	_	_	B-PER
+12	Vesića	_	_	_	_	_	_	_	_	I-PER
+13	potrošilo	_	_	_	_	_	_	_	_	O
+14	217.000	_	_	_	_	_	_	_	_	O
+15	evra	_	_	_	_	_	_	_	_	O
+16	na	_	_	_	_	_	_	_	_	O
+17	oslikavanje	_	_	_	_	_	_	_	_	O
+18	murala	_	_	_	_	_	_	_	_	O
+19	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+20	Kad	_	_	_	_	_	_	_	_	O
+21	se	_	_	_	_	_	_	_	_	O
+22	vojska	_	_	_	_	_	_	_	_	O
+23	na	_	_	_	_	_	_	_	_	O
+24	Kosovo	_	_	_	_	_	_	_	_	B-LOC
+25	vrati	_	_	_	_	_	_	_	SpaceAfter=No	O
+26	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+27	,	,	PUNCT	Z	_	_	_	_	_	O
+28	a	_	_	_	_	_	_	_	_	O
+29	naručac	_	_	_	_	_	_	_	_	O
+30	posla	_	_	_	_	_	_	_	_	O
+31	bio	_	_	_	_	_	_	_	_	O
+32	izvršni	_	_	_	_	_	_	_	_	B-ORG
+33	odbor	_	_	_	_	_	_	_	_	I-ORG
+34	SNS	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+35	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 2
+# sent_id = 2.1
+# text = Lepo.
+1	Lepo	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 3
+# sent_id = 3.1
+# text = Vama kojima se to ne sviđa mrzite Srbiju.
+1	Vama	_	_	_	_	_	_	_	_	O
+2	kojima	_	_	_	_	_	_	_	_	O
+3	se	_	_	_	_	_	_	_	_	O
+4	to	_	_	_	_	_	_	_	_	O
+5	ne	_	_	_	_	_	_	_	_	O
+6	sviđa	_	_	_	_	_	_	_	_	O
+7	mrzite	_	_	_	_	_	_	_	_	O
+8	Srbiju	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+9	.	.	PUNCT	Z	_	_	_	_	_	O
+

@@ -1,0 +1,1216 @@
+#name = marija
+#domen = pravno_administrativni
+#url = https://www.vrh.sud.rs/sr-lat/rev2-16222025-31912614
+# newpar id = 1
+# sent_id = 1.1
+# text = Vrhovni sud, u veću sastavljenom od sudija: Vesne Subić, predsednika veća, Jelice Bojanić Kerkez, Radoslave Mađarov, Zorice Bulajić i Irene Vuković, članova veća, u parnici iz radnog odnosa tužilaca AA iz ...
+1	Vrhovni	_	_	_	_	_	_	_	_	B-ORG
+2	sud	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	u	_	_	_	_	_	_	_	_	O
+5	veću	_	_	_	_	_	_	_	_	O
+6	sastavljenom	_	_	_	_	_	_	_	_	O
+7	od	_	_	_	_	_	_	_	_	O
+8	sudija	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	:	:	PUNCT	Z	_	_	_	_	_	O
+10	Vesne	_	_	_	_	_	_	_	_	B-PER
+11	Subić	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	predsednika	_	_	_	_	_	_	_	_	O
+14	veća	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	,	,	PUNCT	Z	_	_	_	_	_	O
+16	Jelice	_	_	_	_	_	_	_	_	B-PER
+17	Bojanić	_	_	_	_	_	_	_	_	I-PER
+18	Kerkez	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+19	,	,	PUNCT	Z	_	_	_	_	_	O
+20	Radoslave	_	_	_	_	_	_	_	_	B-PER
+21	Mađarov	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+22	,	,	PUNCT	Z	_	_	_	_	_	O
+23	Zorice	_	_	_	_	_	_	_	_	B-PER
+24	Bulajić	_	_	_	_	_	_	_	_	I-PER
+25	i	_	_	_	_	_	_	_	_	O
+26	Irene	_	_	_	_	_	_	_	_	B-PER
+27	Vuković	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+28	,	,	PUNCT	Z	_	_	_	_	_	O
+29	članova	_	_	_	_	_	_	_	_	O
+30	veća	_	_	_	_	_	_	_	SpaceAfter=No	O
+31	,	,	PUNCT	Z	_	_	_	_	_	O
+32	u	_	_	_	_	_	_	_	_	O
+33	parnici	_	_	_	_	_	_	_	_	O
+34	iz	_	_	_	_	_	_	_	_	O
+35	radnog	_	_	_	_	_	_	_	_	O
+36	odnosa	_	_	_	_	_	_	_	_	O
+37	tužilaca	_	_	_	_	_	_	_	_	O
+38	AA	_	_	_	_	_	_	_	_	B-PER
+39	iz	_	_	_	_	_	_	_	_	O
+40	...	...	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+
+# sent_id = 1.2
+# text = , BB iz ...
+1	,	,	PUNCT	Z	_	_	_	_	_	O
+2	BB	_	_	_	_	_	_	_	_	B-PER
+3	iz	_	_	_	_	_	_	_	_	O
+4	...	...	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+
+# sent_id = 1.3
+# text = , VV iz ...
+1	,	,	PUNCT	Z	_	_	_	_	_	O
+2	VV	_	_	_	_	_	_	_	_	B-PER
+3	iz	_	_	_	_	_	_	_	_	O
+4	...	...	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.4
+# text = i GG iz ...
+1	i	_	_	_	_	_	_	_	_	O
+2	GG	_	_	_	_	_	_	_	_	B-PER
+3	iz	_	_	_	_	_	_	_	_	O
+4	...	...	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+
+# sent_id = 1.5
+# text = , čiji su zajednički punomoćnici Aleksandar Marinković, advokat iz ...
+1	,	,	PUNCT	Z	_	_	_	_	_	O
+2	čiji	_	_	_	_	_	_	_	_	O
+3	su	_	_	_	_	_	_	_	_	O
+4	zajednički	_	_	_	_	_	_	_	_	O
+5	punomoćnici	_	_	_	_	_	_	_	_	O
+6	Aleksandar	_	_	_	_	_	_	_	_	B-PER
+7	Marinković	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	advokat	_	_	_	_	_	_	_	_	O
+10	iz	_	_	_	_	_	_	_	_	O
+11	...	...	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+
+# sent_id = 1.6
+# text = , Dejan Antelj i Milan Petrović, advokati iz ...
+1	,	,	PUNCT	Z	_	_	_	_	_	O
+2	Dejan	_	_	_	_	_	_	_	_	B-PER
+3	Antelj	_	_	_	_	_	_	_	_	I-PER
+4	i	_	_	_	_	_	_	_	_	O
+5	Milan	_	_	_	_	_	_	_	_	B-PER
+6	Petrović	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	advokati	_	_	_	_	_	_	_	_	O
+9	iz	_	_	_	_	_	_	_	_	O
+10	...	...	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+
+# sent_id = 1.7
+# text = , protiv tuženog „Elektroprivreda Srbije“ a.d. Beograd, radi utvrđenja ništavosti odredbe aneksa ugovora o radu, odlučujući o reviziji tužilaca izjavljenoj protiv presude Apelacionog suda u Beogradu Gž1 2084/24 od 13.11.2024. godine, u sednici održanoj 16.07.2025. godine, doneo je
+1	,	,	PUNCT	Z	_	_	_	_	_	O
+2	protiv	_	_	_	_	_	_	_	_	O
+3	tuženog	_	_	_	_	_	_	_	_	O
+4	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+5	Elektroprivreda	_	_	_	_	_	_	_	_	B-ORG
+6	Srbije	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+7	“	“	PUNCT	Z	_	_	_	_	_	I-ORG
+8	a.	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+9	d.	_	_	_	_	_	_	_	_	O
+10	Beograd	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	radi	_	_	_	_	_	_	_	_	O
+13	utvrđenja	_	_	_	_	_	_	_	_	O
+14	ništavosti	_	_	_	_	_	_	_	_	O
+15	odredbe	_	_	_	_	_	_	_	_	O
+16	aneksa	_	_	_	_	_	_	_	_	O
+17	ugovora	_	_	_	_	_	_	_	_	O
+18	o	_	_	_	_	_	_	_	_	O
+19	radu	_	_	_	_	_	_	_	SpaceAfter=No	O
+20	,	,	PUNCT	Z	_	_	_	_	_	O
+21	odlučujući	_	_	_	_	_	_	_	_	O
+22	o	_	_	_	_	_	_	_	_	O
+23	reviziji	_	_	_	_	_	_	_	_	O
+24	tužilaca	_	_	_	_	_	_	_	_	O
+25	izjavljenoj	_	_	_	_	_	_	_	_	O
+26	protiv	_	_	_	_	_	_	_	_	O
+27	presude	_	_	_	_	_	_	_	_	O
+28	Apelacionog	_	_	_	_	_	_	_	_	B-ORG
+29	suda	_	_	_	_	_	_	_	_	I-ORG
+30	u	_	_	_	_	_	_	_	_	O
+31	Beogradu	_	_	_	_	_	_	_	_  B-LOC
+32	Gž1	_	_	_	_	_	_	_	_	O
+33	2084/24	_	_	_	_	_	_	_	_	O
+34	od	_	_	_	_	_	_	_	_	O
+35	13.11.2024.	_	_	_	_	_	_	_	_	O
+36	godine	_	_	_	_	_	_	_	SpaceAfter=No	O
+37	,	,	PUNCT	Z	_	_	_	_	_	O
+38	u	_	_	_	_	_	_	_	_	O
+39	sednici	_	_	_	_	_	_	_	_	O
+40	održanoj	_	_	_	_	_	_	_	_	O
+41	16.07.2025.	_	_	_	_	_	_	_	_	O
+42	godine	_	_	_	_	_	_	_	SpaceAfter=No	O
+43	,	,	PUNCT	Z	_	_	_	_	_	O
+44	doneo	_	_	_	_	_	_	_	_	O
+45	je	_	_	_	_	_	_	_	_	O
+
+# newpar id = 2
+# sent_id = 2.1
+# text = R E Š E NJ E
+1	R	_	_	_	_	_	_	_	_	O
+2	E	_	_	_	_	_	_	_	_	O
+3	Š	_	_	_	_	_	_	_	_	O
+4	E	_	_	_	_	_	_	_	_	O
+5	NJ	_	_	_	_	_	_	_	_	O
+6	E	_	_	_	_	_	_	_	_	O
+
+# newpar id = 3
+# sent_id = 3.1
+# text = NE DOZVOLJAVA SE odlučivanje o posebnoj reviziji tužilaca izjavljenoj protiv presude Apelacionog suda u Beogradu Gž1 2084/24 od 13.11.2024. godine.
+1	NE	_	_	_	_	_	_	_	_	O
+2	DOZVOLJAVA	_	_	_	_	_	_	_	_	O
+3	SE	_	_	_	_	_	_	_	_	O
+4	odlučivanje	_	_	_	_	_	_	_	_	O
+5	o	_	_	_	_	_	_	_	_	O
+6	posebnoj	_	_	_	_	_	_	_	_	O
+7	reviziji	_	_	_	_	_	_	_	_	O
+8	tužilaca	_	_	_	_	_	_	_	_	O
+9	izjavljenoj	_	_	_	_	_	_	_	_	O
+10	protiv	_	_	_	_	_	_	_	_	O
+11	presude	_	_	_	_	_	_	_	_	O
+12	Apelacionog	_	_	_	_	_	_	_	_	B-ORG
+13	suda	_	_	_	_	_	_	_	_	I-ORG
+14	u	_	_	_	_	_	_	_	_	O
+15	Beogradu	_	_	_	_	_	_	_	_	B-LOC
+16	Gž1	_	_	_	_	_	_	_	_	O
+17	2084/24	_	_	_	_	_	_	_	_	O
+18	od	_	_	_	_	_	_	_	_	O
+19	13.11.2024.	_	_	_	_	_	_	_	_	O
+20	godine	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 4
+# sent_id = 4.1
+# text = ODBACUJE SE kao nedozvoljena revizija tužilaca izjavljena protiv presude Apelacionog suda u Beogradu Gž1 2084/24 od 13.01.2024. godine.
+1	ODBACUJE	_	_	_	_	_	_	_	_	O
+2	SE	_	_	_	_	_	_	_	_	O
+3	kao	_	_	_	_	_	_	_	_	O
+4	nedozvoljena	_	_	_	_	_	_	_	_	O
+5	revizija	_	_	_	_	_	_	_	_	O
+6	tužilaca	_	_	_	_	_	_	_	_	O
+7	izjavljena	_	_	_	_	_	_	_	_	O
+8	protiv	_	_	_	_	_	_	_	_	O
+9	presude	_	_	_	_	_	_	_	_	O
+10	Apelacionog	_	_	_	_	_	_	_	_	B-ORG
+11	suda	_	_	_	_	_	_	_	_	I-ORG
+12	u	_	_	_	_	_	_	_	_	O
+13	Beogradu	_	_	_	_	_	_	_	_	B-LOC
+14	Gž1	_	_	_	_	_	_	_	_	O
+15	2084/24	_	_	_	_	_	_	_	_	O
+16	od	_	_	_	_	_	_	_	_	O
+17	13.01.2024.	_	_	_	_	_	_	_	_	O
+18	godine	_	_	_	_	_	_	_	SpaceAfter=No	O
+19	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 5
+# sent_id = 5.1
+# text = O b r a z l o ž e nj e
+1	O	_	_	_	_	_	_	_	_	O
+2	b	_	_	_	_	_	_	_	_	O
+3	r	_	_	_	_	_	_	_	_	O
+4	a	_	_	_	_	_	_	_	_	O
+5	z	_	_	_	_	_	_	_	_	O
+6	l	_	_	_	_	_	_	_	_	O
+7	o	_	_	_	_	_	_	_	_	O
+8	ž	_	_	_	_	_	_	_	_	O
+9	e	_	_	_	_	_	_	_	_	O
+10	nj	_	_	_	_	_	_	_	_	O
+11	e	_	_	_	_	_	_	_	_	O
+
+# newpar id = 6
+# sent_id = 6.1
+# text = Presudom Apelacionog suda u Beogradu Gž1 2084/24 od 13.11.2024. godine, odbijena je kao neosnovana žalba tužilaca i potvrđena presuda Prvog osnovnog suda u Beogradu P1 3906/23 od 22.02.2024. godine, kojom je odbijen tužbeni zahtev tužilje AA da se utvrdi da je ništava odredba člana 4. Aneksa ugovora o radu broj ..
+1	Presudom	_	_	_	_	_	_	_	_	O
+2	Apelacionog	_	_	_	_	_	_	_	_	B-ORG
+3	suda	_	_	_	_	_	_	_	_	I-ORG
+4	u	_	_	_	_	_	_	_	_	O
+5	Beogradu	_	_	_	_	_	_	_	_	B-LOC
+6	Gž1	_	_	_	_	_	_	_	_	O
+7	2084/24	_	_	_	_	_	_	_	_	O
+8	od	_	_	_	_	_	_	_	_	O
+9	13.11.2024.	_	_	_	_	_	_	_	_	O
+10	godine	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	odbijena	_	_	_	_	_	_	_	_	O
+13	je	_	_	_	_	_	_	_	_	O
+14	kao	_	_	_	_	_	_	_	_	O
+15	neosnovana	_	_	_	_	_	_	_	_	O
+16	žalba	_	_	_	_	_	_	_	_	O
+17	tužilaca	_	_	_	_	_	_	_	_	O
+18	i	_	_	_	_	_	_	_	_	O
+19	potvrđena	_	_	_	_	_	_	_	_	O
+20	presuda	_	_	_	_	_	_	_	_	O
+21	Prvog	_	_	_	_	_	_	_	_	B-ORG
+22	osnovnog	_	_	_	_	_	_	_	_	I-ORG
+23	suda	_	_	_	_	_	_	_	_	I-ORG
+24	u	_	_	_	_	_	_	_	_	O
+25	Beogradu	_	_	_	_	_	_	_	_	B-PER
+26	P1	_	_	_	_	_	_	_	_	O
+27	3906/23	_	_	_	_	_	_	_	_	O
+28	od	_	_	_	_	_	_	_	_	O
+29	22.02.2024.	_	_	_	_	_	_	_	_	O
+30	godine	_	_	_	_	_	_	_	SpaceAfter=No	O
+31	,	,	PUNCT	Z	_	_	_	_	_	O
+32	kojom	_	_	_	_	_	_	_	_	O
+33	je	_	_	_	_	_	_	_	_	O
+34	odbijen	_	_	_	_	_	_	_	_	O
+35	tužbeni	_	_	_	_	_	_	_	_	O
+36	zahtev	_	_	_	_	_	_	_	_	O
+37	tužilje	_	_	_	_	_	_	_	_	O
+38	AA	_	_	_	_	_	_	_	_	B-PER
+39	da	_	_	_	_	_	_	_	_	O
+40	se	_	_	_	_	_	_	_	_	O
+41	utvrdi	_	_	_	_	_	_	_	_	O
+42	da	_	_	_	_	_	_	_	_	O
+43	je	_	_	_	_	_	_	_	_	O
+44	ništava	_	_	_	_	_	_	_	_	O
+45	odredba	_	_	_	_	_	_	_	_	O
+46	člana	_	_	_	_	_	_	_	_	O
+47	4.	_	_	_	_	_	_	_	_	O
+48	Aneksa	_	_	_	_	_	_	_	_	O
+49	ugovora	_	_	_	_	_	_	_	_	O
+50	o	_	_	_	_	_	_	_	_	O
+51	radu	_	_	_	_	_	_	_	_	O
+52	broj	_	_	_	_	_	_	_	_	O
+53	..	..	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 6.2
+# text = od 04.02.2025. godine, zaključenog između tužilje i privrednog društva „Rudarski basen Kolubara“ d.o.o.
+1	od	_	_	_	_	_	_	_	_	O
+2	04.02.2025.	_	_	_	_	_	_	_	_	O
+3	godine	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	zaključenog	_	_	_	_	_	_	_	_	O
+6	između	_	_	_	_	_	_	_	_	O
+7	tužilje	_	_	_	_	_	_	_	_	O
+8	i	_	_	_	_	_	_	_	_	O
+9	privrednog	_	_	_	_	_	_	_	_	B-ORG
+10	društva	_	_	_	_	_	_	_	_	I-ORG
+11	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	I-ORG
+12	Rudarski	_	_	_	_	_	_	_	_	I-ORG
+13	basen	_	_	_	_	_	_	_	_	I-ORG
+14	Kolubara	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+15	“	“	PUNCT	Z	_	_	_	_	_	I-ORG
+16	d.o.o.	_	_	_	_	_	_	_	_	I-ORG
+
+# sent_id = 6.3
+# text = Lazarevac, kao pravnog prethodnika tuženog a.d.“Elektroprivreda Srbije“ Beograd, u delu u kome je navedeno da se osnovna zarada zaposlenog određuje na osnovu koeficijenta posla od 2059, zbog povrede prava na jednaku zaradu za isti rad i rad iste vrednosti i zbog povrede zabrane diskriminacije; odbijen tužbeni zahtev tužilje BB da se utvrdi da je ništava odredba člana 4. Aneksa ugovora o radu broj ...
+1	Lazarevac	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	kao	_	_	_	_	_	_	_	_	O
+4	pravnog	_	_	_	_	_	_	_	_	O
+5	prethodnika	_	_	_	_	_	_	_	_	O
+6	tuženog	_	_	_	_	_	_	_	_	O
+7	a.	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
+8	d.	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+9	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	I-ORG
+10	Elektroprivreda	_	_	_	_	_	_	_	_	I-ORG
+11	Srbije	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+12	“	“	PUNCT	Z	_	_	_	_	_	I-ORG
+13	Beograd	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+14	,	,	PUNCT	Z	_	_	_	_	_	O
+15	u	_	_	_	_	_	_	_	_	O
+16	delu	_	_	_	_	_	_	_	_	O
+17	u	_	_	_	_	_	_	_	_	O
+18	kome	_	_	_	_	_	_	_	_	O
+19	je	_	_	_	_	_	_	_	_	O
+20	navedeno	_	_	_	_	_	_	_	_	O
+21	da	_	_	_	_	_	_	_	_	O
+22	se	_	_	_	_	_	_	_	_	O
+23	osnovna	_	_	_	_	_	_	_	_	O
+24	zarada	_	_	_	_	_	_	_	_	O
+25	zaposlenog	_	_	_	_	_	_	_	_	O
+26	određuje	_	_	_	_	_	_	_	_	O
+27	na	_	_	_	_	_	_	_	_	O
+28	osnovu	_	_	_	_	_	_	_	_	O
+29	koeficijenta	_	_	_	_	_	_	_	_	O
+30	posla	_	_	_	_	_	_	_	_	O
+31	od	_	_	_	_	_	_	_	_	O
+32	2059	_	_	_	_	_	_	_	SpaceAfter=No	O
+33	,	,	PUNCT	Z	_	_	_	_	_	O
+34	zbog	_	_	_	_	_	_	_	_	O
+35	povrede	_	_	_	_	_	_	_	_	O
+36	prava	_	_	_	_	_	_	_	_	O
+37	na	_	_	_	_	_	_	_	_	O
+38	jednaku	_	_	_	_	_	_	_	_	O
+39	zaradu	_	_	_	_	_	_	_	_	O
+40	za	_	_	_	_	_	_	_	_	O
+41	isti	_	_	_	_	_	_	_	_	O
+42	rad	_	_	_	_	_	_	_	_	O
+43	i	_	_	_	_	_	_	_	_	O
+44	rad	_	_	_	_	_	_	_	_	O
+45	iste	_	_	_	_	_	_	_	_	O
+46	vrednosti	_	_	_	_	_	_	_	_	O
+47	i	_	_	_	_	_	_	_	_	O
+48	zbog	_	_	_	_	_	_	_	_	O
+49	povrede	_	_	_	_	_	_	_	_	O
+50	zabrane	_	_	_	_	_	_	_	_	O
+51	diskriminacije	_	_	_	_	_	_	_	SpaceAfter=No	O
+52	;	;	PUNCT	Z	_	_	_	_	_	O
+53	odbijen	_	_	_	_	_	_	_	_	O
+54	tužbeni	_	_	_	_	_	_	_	_	O
+55	zahtev	_	_	_	_	_	_	_	_	O
+56	tužilje	_	_	_	_	_	_	_	_	O
+57	BB	_	_	_	_	_	_	_	_	O
+58	da	_	_	_	_	_	_	_	_	O
+59	se	_	_	_	_	_	_	_	_	O
+60	utvrdi	_	_	_	_	_	_	_	_	O
+61	da	_	_	_	_	_	_	_	_	O
+62	je	_	_	_	_	_	_	_	_	O
+63	ništava	_	_	_	_	_	_	_	_	O
+64	odredba	_	_	_	_	_	_	_	_	O
+65	člana	_	_	_	_	_	_	_	_	O
+66	4.	_	_	_	_	_	_	_	_	O
+67	Aneksa	_	_	_	_	_	_	_	_	O
+68	ugovora	_	_	_	_	_	_	_	_	O
+69	o	_	_	_	_	_	_	_	_	O
+70	radu	_	_	_	_	_	_	_	_	O
+71	broj	_	_	_	_	_	_	_	_	O
+72	...	...	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 6.4
+# text = od 06.02.2015. godine, zaključenog između tužilje i privrednog društva „Rudarski basen Kolubara“ d.o.o.
+1	od	_	_	_	_	_	_	_	_	O
+2	06.02.2015.	_	_	_	_	_	_	_	_	O
+3	godine	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	zaključenog	_	_	_	_	_	_	_	_	O
+6	između	_	_	_	_	_	_	_	_	O
+7	tužilje	_	_	_	_	_	_	_	_	O
+8	i	_	_	_	_	_	_	_	_	O
+9	privrednog	_	_	_	_	_	_	_	_	B-ORG
+10	društva	_	_	_	_	_	_	_	_	I-ORG
+11	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	I-ORG
+12	Rudarski	_	_	_	_	_	_	_	_	I-ORG
+13	basen	_	_	_	_	_	_	_	_	I-ORG
+14	Kolubara	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+15	“	“	PUNCT	Z	_	_	_	_	_	I-ORG
+16	d.o.o.	_	_	_	_	_	_	_	_	I-ORG
+
+# sent_id = 6.5
+# text = Lazarevac, kao pravnog prethodnika tuženog a.d.“Elektroprivreda Srbije“ Beograd, u delu u kome je navedeno da se osnovna zarada zaposlenog određuje na osnovu koeficijenta posla od 1973, zbog povrede prava na jednaku zaradu za isti rad i rad iste vrednosti i zbog povrede zabrane diskriminacije; odbijen tužbeni zahtev tužilje VV da se utvrdi da je ništava odredba člana 4. Aneksa ugovora o radu broj ...
+1	Lazarevac	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	kao	_	_	_	_	_	_	_	_	O
+4	pravnog	_	_	_	_	_	_	_	_	O
+5	prethodnika	_	_	_	_	_	_	_	_	O
+6	tuženog	_	_	_	_	_	_	_	_	O
+7	a.	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
+8	d.	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+9	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	I-ORG
+10	Elektroprivreda	_	_	_	_	_	_	_	_	I-ORG
+11	Srbije	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+12	“	“	PUNCT	Z	_	_	_	_	_	I-ORG
+13	Beograd	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+14	,	,	PUNCT	Z	_	_	_	_	_	O
+15	u	_	_	_	_	_	_	_	_	O
+16	delu	_	_	_	_	_	_	_	_	O
+17	u	_	_	_	_	_	_	_	_	O
+18	kome	_	_	_	_	_	_	_	_	O
+19	je	_	_	_	_	_	_	_	_	O
+20	navedeno	_	_	_	_	_	_	_	_	O
+21	da	_	_	_	_	_	_	_	_	O
+22	se	_	_	_	_	_	_	_	_	O
+23	osnovna	_	_	_	_	_	_	_	_	O
+24	zarada	_	_	_	_	_	_	_	_	O
+25	zaposlenog	_	_	_	_	_	_	_	_	O
+26	određuje	_	_	_	_	_	_	_	_	O
+27	na	_	_	_	_	_	_	_	_	O
+28	osnovu	_	_	_	_	_	_	_	_	O
+29	koeficijenta	_	_	_	_	_	_	_	_	O
+30	posla	_	_	_	_	_	_	_	_	O
+31	od	_	_	_	_	_	_	_	_	O
+32	1973	_	_	_	_	_	_	_	SpaceAfter=No	O
+33	,	,	PUNCT	Z	_	_	_	_	_	O
+34	zbog	_	_	_	_	_	_	_	_	O
+35	povrede	_	_	_	_	_	_	_	_	O
+36	prava	_	_	_	_	_	_	_	_	O
+37	na	_	_	_	_	_	_	_	_	O
+38	jednaku	_	_	_	_	_	_	_	_	O
+39	zaradu	_	_	_	_	_	_	_	_	O
+40	za	_	_	_	_	_	_	_	_	O
+41	isti	_	_	_	_	_	_	_	_	O
+42	rad	_	_	_	_	_	_	_	_	O
+43	i	_	_	_	_	_	_	_	_	O
+44	rad	_	_	_	_	_	_	_	_	O
+45	iste	_	_	_	_	_	_	_	_	O
+46	vrednosti	_	_	_	_	_	_	_	_	O
+47	i	_	_	_	_	_	_	_	_	O
+48	zbog	_	_	_	_	_	_	_	_	O
+49	povrede	_	_	_	_	_	_	_	_	O
+50	zabrane	_	_	_	_	_	_	_	_	O
+51	diskriminacije	_	_	_	_	_	_	_	SpaceAfter=No	O
+52	;	;	PUNCT	Z	_	_	_	_	_	O
+53	odbijen	_	_	_	_	_	_	_	_	O
+54	tužbeni	_	_	_	_	_	_	_	_	O
+55	zahtev	_	_	_	_	_	_	_	_	O
+56	tužilje	_	_	_	_	_	_	_	_	O
+57	VV	_	_	_	_	_	_	_	_	O
+58	da	_	_	_	_	_	_	_	_	O
+59	se	_	_	_	_	_	_	_	_	O
+60	utvrdi	_	_	_	_	_	_	_	_	O
+61	da	_	_	_	_	_	_	_	_	O
+62	je	_	_	_	_	_	_	_	_	O
+63	ništava	_	_	_	_	_	_	_	_	O
+64	odredba	_	_	_	_	_	_	_	_	O
+65	člana	_	_	_	_	_	_	_	_	O
+66	4.	_	_	_	_	_	_	_	_	O
+67	Aneksa	_	_	_	_	_	_	_	_	O
+68	ugovora	_	_	_	_	_	_	_	_	O
+69	o	_	_	_	_	_	_	_	_	O
+70	radu	_	_	_	_	_	_	_	_	O
+71	broj	_	_	_	_	_	_	_	_	O
+72	...	...	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 6.6
+# text = od 04.02.2015. godine, zaključenog između tužilje i privrednog društva „Rudarski basen Kolubara“ d.o.o.
+1	od	_	_	_	_	_	_	_	_	O
+2	04.02.2015.	_	_	_	_	_	_	_	_	O
+3	godine	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	zaključenog	_	_	_	_	_	_	_	_	O
+6	između	_	_	_	_	_	_	_	_	O
+7	tužilje	_	_	_	_	_	_	_	_	O
+8	i	_	_	_	_	_	_	_	_	O
+9	privrednog	_	_	_	_	_	_	_	_	B-ORG
+10	društva	_	_	_	_	_	_	_	_	I-ORG
+11	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	I-ORG
+12	Rudarski	_	_	_	_	_	_	_	_	I-ORG
+13	basen	_	_	_	_	_	_	_	_	I-ORG
+14	Kolubara	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+15	“	“	PUNCT	Z	_	_	_	_	_	I-ORG
+16	d.o.o.	_	_	_	_	_	_	_	_	I-ORG
+
+# sent_id = 6.7
+# text = Lazarevac, kao pravnog prethodnika tuženog a.d.“Elektroprivreda Srbije“ Beograd, u delu u kome je navedeno da se osnovna zarada zaposlenog određuje na osnovu koeficijenta posla od 1885, zbog povrede prava na jednaku zaradu za isti rad i rad iste vrednosti i zbog povrede zabrane diskriminacije i odbijen tužbeni zahtev tužioca GG da se utvrdi da je ništava odredba člana 4. Aneksa ugovora o radu broj ...
+1	Lazarevac	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	kao	_	_	_	_	_	_	_	_	O
+4	pravnog	_	_	_	_	_	_	_	_	O
+5	prethodnika	_	_	_	_	_	_	_	_	O
+6	tuženog	_	_	_	_	_	_	_	_	O
+7	a.	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
+8	d.	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+9	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	I-ORG
+10	Elektroprivreda	_	_	_	_	_	_	_	_	I-ORG
+11	Srbije	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+12	“	“	PUNCT	Z	_	_	_	_	_	I-ORG
+13	Beograd	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+14	,	,	PUNCT	Z	_	_	_	_	_	O
+15	u	_	_	_	_	_	_	_	_	O
+16	delu	_	_	_	_	_	_	_	_	O
+17	u	_	_	_	_	_	_	_	_	O
+18	kome	_	_	_	_	_	_	_	_	O
+19	je	_	_	_	_	_	_	_	_	O
+20	navedeno	_	_	_	_	_	_	_	_	O
+21	da	_	_	_	_	_	_	_	_	O
+22	se	_	_	_	_	_	_	_	_	O
+23	osnovna	_	_	_	_	_	_	_	_	O
+24	zarada	_	_	_	_	_	_	_	_	O
+25	zaposlenog	_	_	_	_	_	_	_	_	O
+26	određuje	_	_	_	_	_	_	_	_	O
+27	na	_	_	_	_	_	_	_	_	O
+28	osnovu	_	_	_	_	_	_	_	_	O
+29	koeficijenta	_	_	_	_	_	_	_	_	O
+30	posla	_	_	_	_	_	_	_	_	O
+31	od	_	_	_	_	_	_	_	_	O
+32	1885	_	_	_	_	_	_	_	SpaceAfter=No	O
+33	,	,	PUNCT	Z	_	_	_	_	_	O
+34	zbog	_	_	_	_	_	_	_	_	O
+35	povrede	_	_	_	_	_	_	_	_	O
+36	prava	_	_	_	_	_	_	_	_	O
+37	na	_	_	_	_	_	_	_	_	O
+38	jednaku	_	_	_	_	_	_	_	_	O
+39	zaradu	_	_	_	_	_	_	_	_	O
+40	za	_	_	_	_	_	_	_	_	O
+41	isti	_	_	_	_	_	_	_	_	O
+42	rad	_	_	_	_	_	_	_	_	O
+43	i	_	_	_	_	_	_	_	_	O
+44	rad	_	_	_	_	_	_	_	_	O
+45	iste	_	_	_	_	_	_	_	_	O
+46	vrednosti	_	_	_	_	_	_	_	_	O
+47	i	_	_	_	_	_	_	_	_	O
+48	zbog	_	_	_	_	_	_	_	_	O
+49	povrede	_	_	_	_	_	_	_	_	O
+50	zabrane	_	_	_	_	_	_	_	_	O
+51	diskriminacije	_	_	_	_	_	_	_	_	O
+52	i	_	_	_	_	_	_	_	_	O
+53	odbijen	_	_	_	_	_	_	_	_	O
+54	tužbeni	_	_	_	_	_	_	_	_	O
+55	zahtev	_	_	_	_	_	_	_	_	O
+56	tužioca	_	_	_	_	_	_	_	_	O
+57	GG	_	_	_	_	_	_	_	_	O
+58	da	_	_	_	_	_	_	_	_	O
+59	se	_	_	_	_	_	_	_	_	O
+60	utvrdi	_	_	_	_	_	_	_	_	O
+61	da	_	_	_	_	_	_	_	_	O
+62	je	_	_	_	_	_	_	_	_	O
+63	ništava	_	_	_	_	_	_	_	_	O
+64	odredba	_	_	_	_	_	_	_	_	O
+65	člana	_	_	_	_	_	_	_	_	O
+66	4.	_	_	_	_	_	_	_	_	O
+67	Aneksa	_	_	_	_	_	_	_	_	O
+68	ugovora	_	_	_	_	_	_	_	_	O
+69	o	_	_	_	_	_	_	_	_	O
+70	radu	_	_	_	_	_	_	_	_	O
+71	broj	_	_	_	_	_	_	_	_	O
+72	...	...	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 6.8
+# text = od 03.02.2015. godine, zaključenog između tužioca i privrednog društva „Rudarski basen Kolubara“ d.o.o.
+1	od	_	_	_	_	_	_	_	_	O
+2	03.02.2015.	_	_	_	_	_	_	_	_	O
+3	godine	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	zaključenog	_	_	_	_	_	_	_	_	O
+6	između	_	_	_	_	_	_	_	_	O
+7	tužioca	_	_	_	_	_	_	_	_	O
+8	i	_	_	_	_	_	_	_	_	O
+9	privrednog	_	_	_	_	_	_	_	_	B-ORG
+10	društva	_	_	_	_	_	_	_	_	I-ORG
+11	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	I-ORG
+12	Rudarski	_	_	_	_	_	_	_	_	I-ORG
+13	basen	_	_	_	_	_	_	_	_	I-ORG
+14	Kolubara	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+15	“	“	PUNCT	Z	_	_	_	_	_	I-ORG
+16	d.o.o.	_	_	_	_	_	_	_	_	I-ORG
+
+# sent_id = 6.9
+# text = Lazarevac, kao pravnog prethodnika tuženog a.d. “Elektroprivreda Srbije“ Beograd, u delu u kome je navedeno da se osnovna zarada zaposlenog određuje na osnovu koeficijenta posla od 2067, zbog povrede prava na jednaku zaradu za isti rad i rad iste vrednosti i zbog povrede zabrane diskriminacije i odlučeno da svaka stranka snosi svoje troškove postupka.
+1	Lazarevac	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	kao	_	_	_	_	_	_	_	_	O
+4	pravnog	_	_	_	_	_	_	_	_	O
+5	prethodnika	_	_	_	_	_	_	_	_	O
+6	tuženog	_	_	_	_	_	_	_	_	O
+7	a.	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
+8	d.	_	_	_	_	_	_	_	_	I-ORG
+9	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	I-ORG
+10	Elektroprivreda	_	_	_	_	_	_	_	_	I-ORG
+11	Srbije	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+12	“	“	PUNCT	Z	_	_	_	_	_	I-ORG
+13	Beograd	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+14	,	,	PUNCT	Z	_	_	_	_	_	O
+15	u	_	_	_	_	_	_	_	_	O
+16	delu	_	_	_	_	_	_	_	_	O
+17	u	_	_	_	_	_	_	_	_	O
+18	kome	_	_	_	_	_	_	_	_	O
+19	je	_	_	_	_	_	_	_	_	O
+20	navedeno	_	_	_	_	_	_	_	_	O
+21	da	_	_	_	_	_	_	_	_	O
+22	se	_	_	_	_	_	_	_	_	O
+23	osnovna	_	_	_	_	_	_	_	_	O
+24	zarada	_	_	_	_	_	_	_	_	O
+25	zaposlenog	_	_	_	_	_	_	_	_	O
+26	određuje	_	_	_	_	_	_	_	_	O
+27	na	_	_	_	_	_	_	_	_	O
+28	osnovu	_	_	_	_	_	_	_	_	O
+29	koeficijenta	_	_	_	_	_	_	_	_	O
+30	posla	_	_	_	_	_	_	_	_	O
+31	od	_	_	_	_	_	_	_	_	O
+32	2067	_	_	_	_	_	_	_	SpaceAfter=No	O
+33	,	,	PUNCT	Z	_	_	_	_	_	O
+34	zbog	_	_	_	_	_	_	_	_	O
+35	povrede	_	_	_	_	_	_	_	_	O
+36	prava	_	_	_	_	_	_	_	_	O
+37	na	_	_	_	_	_	_	_	_	O
+38	jednaku	_	_	_	_	_	_	_	_	O
+39	zaradu	_	_	_	_	_	_	_	_	O
+40	za	_	_	_	_	_	_	_	_	O
+41	isti	_	_	_	_	_	_	_	_	O
+42	rad	_	_	_	_	_	_	_	_	O
+43	i	_	_	_	_	_	_	_	_	O
+44	rad	_	_	_	_	_	_	_	_	O
+45	iste	_	_	_	_	_	_	_	_	O
+46	vrednosti	_	_	_	_	_	_	_	_	O
+47	i	_	_	_	_	_	_	_	_	O
+48	zbog	_	_	_	_	_	_	_	_	O
+49	povrede	_	_	_	_	_	_	_	_	O
+50	zabrane	_	_	_	_	_	_	_	_	O
+51	diskriminacije	_	_	_	_	_	_	_	_	O
+52	i	_	_	_	_	_	_	_	_	O
+53	odlučeno	_	_	_	_	_	_	_	_	O
+54	da	_	_	_	_	_	_	_	_	O
+55	svaka	_	_	_	_	_	_	_	_	O
+56	stranka	_	_	_	_	_	_	_	_	O
+57	snosi	_	_	_	_	_	_	_	_	O
+58	svoje	_	_	_	_	_	_	_	_	O
+59	troškove	_	_	_	_	_	_	_	_	O
+60	postupka	_	_	_	_	_	_	_	SpaceAfter=No	O
+61	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 6.10
+# text = Odbijen je zahtev tužilaca za naknadu troškova žalbenog postupka.
+1	Odbijen	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	zahtev	_	_	_	_	_	_	_	_	O
+4	tužilaca	_	_	_	_	_	_	_	_	O
+5	za	_	_	_	_	_	_	_	_	O
+6	naknadu	_	_	_	_	_	_	_	_	O
+7	troškova	_	_	_	_	_	_	_	_	O
+8	žalbenog	_	_	_	_	_	_	_	_	O
+9	postupka	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 7
+# sent_id = 7.1
+# text = Protiv pravnosnažne presude donete u drugom stepenu tužioci su pozivom na član 404.
+1	Protiv	_	_	_	_	_	_	_	_	O
+2	pravnosnažne	_	_	_	_	_	_	_	_	O
+3	presude	_	_	_	_	_	_	_	_	O
+4	donete	_	_	_	_	_	_	_	_	O
+5	u	_	_	_	_	_	_	_	_	O
+6	drugom	_	_	_	_	_	_	_	_	O
+7	stepenu	_	_	_	_	_	_	_	_	O
+8	tužioci	_	_	_	_	_	_	_	_	O
+9	su	_	_	_	_	_	_	_	_	O
+10	pozivom	_	_	_	_	_	_	_	_	O
+11	na	_	_	_	_	_	_	_	_	O
+12	član	_	_	_	_	_	_	_	_	O
+13	404.	_	_	_	_	_	_	_	_	O
+
+# sent_id = 7.2
+# text = ZPP, blagovremeno izjavili reviziju, zbog pogrešne primene materijalnog prava.
+1	ZPP	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	blagovremeno	_	_	_	_	_	_	_	_	O
+4	izjavili	_	_	_	_	_	_	_	_	O
+5	reviziju	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	zbog	_	_	_	_	_	_	_	_	O
+8	pogrešne	_	_	_	_	_	_	_	_	O
+9	primene	_	_	_	_	_	_	_	_	O
+10	materijalnog	_	_	_	_	_	_	_	_	O
+11	prava	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 8
+# sent_id = 8.1
+# text = Odredbom člana 404. stav 1. Zakona o parničnom postupku („Službeni glasnik RS“ br. 72/11 ...
+1	Odredbom	_	_	_	_	_	_	_	_	O
+2	člana	_	_	_	_	_	_	_	_	O
+3	404.	_	_	_	_	_	_	_	_	O
+4	stav	_	_	_	_	_	_	_	_	O
+5	1.	_	_	_	_	_	_	_	_	O
+6	Zakona	_	_	_	_	_	_	_	_	O
+7	o	_	_	_	_	_	_	_	_	O
+8	parničnom	_	_	_	_	_	_	_	_	O
+9	postupku	_	_	_	_	_	_	_	_	O
+10	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+11	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+12	Službeni	_	_	_	_	_	_	_	_	B-ORG
+13	glasnik	_	_	_	_	_	_	_	_	I-ORG
+14	RS	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+15	“	“	PUNCT	Z	_	_	_	_	_	O
+16	br.	_	_	_	_	_	_	_	_	O
+17	72/11	_	_	_	_	_	_	_	_	O
+18	...	...	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 8.2
+# text = 10/23), propisano je da je revizija izuzetno dozvoljena zbog pogrešne primene materijalnog prava i protiv drugostepene presude koja ne bi mogla da se pobija revizijom, ako je po oceni Vrhovnog suda potrebno da se razmotre pravna pitanja od opšteg interesa ili pravna pitanja u interesu ravnopravnosti građana, radi ujednačavanja sudske prakse, kao i ako je potrebno novo tumačenje prava (posebna revizija).
+1	10/23	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	)	)	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	propisano	_	_	_	_	_	_	_	_	O
+5	je	_	_	_	_	_	_	_	_	O
+6	da	_	_	_	_	_	_	_	_	O
+7	je	_	_	_	_	_	_	_	_	O
+8	revizija	_	_	_	_	_	_	_	_	O
+9	izuzetno	_	_	_	_	_	_	_	_	O
+10	dozvoljena	_	_	_	_	_	_	_	_	O
+11	zbog	_	_	_	_	_	_	_	_	O
+12	pogrešne	_	_	_	_	_	_	_	_	O
+13	primene	_	_	_	_	_	_	_	_	O
+14	materijalnog	_	_	_	_	_	_	_	_	O
+15	prava	_	_	_	_	_	_	_	_	O
+16	i	_	_	_	_	_	_	_	_	O
+17	protiv	_	_	_	_	_	_	_	_	O
+18	drugostepene	_	_	_	_	_	_	_	_	O
+19	presude	_	_	_	_	_	_	_	_	O
+20	koja	_	_	_	_	_	_	_	_	O
+21	ne	_	_	_	_	_	_	_	_	O
+22	bi	_	_	_	_	_	_	_	_	O
+23	mogla	_	_	_	_	_	_	_	_	O
+24	da	_	_	_	_	_	_	_	_	O
+25	se	_	_	_	_	_	_	_	_	O
+26	pobija	_	_	_	_	_	_	_	_	O
+27	revizijom	_	_	_	_	_	_	_	SpaceAfter=No	O
+28	,	,	PUNCT	Z	_	_	_	_	_	O
+29	ako	_	_	_	_	_	_	_	_	O
+30	je	_	_	_	_	_	_	_	_	O
+31	po	_	_	_	_	_	_	_	_	O
+32	oceni	_	_	_	_	_	_	_	_	O
+33	Vrhovnog	_	_	_	_	_	_	_	_	O
+34	suda	_	_	_	_	_	_	_	_	O
+35	potrebno	_	_	_	_	_	_	_	_	O
+36	da	_	_	_	_	_	_	_	_	O
+37	se	_	_	_	_	_	_	_	_	O
+38	razmotre	_	_	_	_	_	_	_	_	O
+39	pravna	_	_	_	_	_	_	_	_	O
+40	pitanja	_	_	_	_	_	_	_	_	O
+41	od	_	_	_	_	_	_	_	_	O
+42	opšteg	_	_	_	_	_	_	_	_	O
+43	interesa	_	_	_	_	_	_	_	_	O
+44	ili	_	_	_	_	_	_	_	_	O
+45	pravna	_	_	_	_	_	_	_	_	O
+46	pitanja	_	_	_	_	_	_	_	_	O
+47	u	_	_	_	_	_	_	_	_	O
+48	interesu	_	_	_	_	_	_	_	_	O
+49	ravnopravnosti	_	_	_	_	_	_	_	_	O
+50	građana	_	_	_	_	_	_	_	SpaceAfter=No	O
+51	,	,	PUNCT	Z	_	_	_	_	_	O
+52	radi	_	_	_	_	_	_	_	_	O
+53	ujednačavanja	_	_	_	_	_	_	_	_	O
+54	sudske	_	_	_	_	_	_	_	_	O
+55	prakse	_	_	_	_	_	_	_	SpaceAfter=No	O
+56	,	,	PUNCT	Z	_	_	_	_	_	O
+57	kao	_	_	_	_	_	_	_	_	O
+58	i	_	_	_	_	_	_	_	_	O
+59	ako	_	_	_	_	_	_	_	_	O
+60	je	_	_	_	_	_	_	_	_	O
+61	potrebno	_	_	_	_	_	_	_	_	O
+62	novo	_	_	_	_	_	_	_	_	O
+63	tumačenje	_	_	_	_	_	_	_	_	O
+64	prava	_	_	_	_	_	_	_	_	O
+65	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+66	posebna	_	_	_	_	_	_	_	_	O
+67	revizija	_	_	_	_	_	_	_	SpaceAfter=No	O
+68	)	)	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+69	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 9
+# sent_id = 9.1
+# text = Predmet tražene pravne zaštite je ocena zakonitosti dela aneksa ugovora o radu zaključenih između parničnih stranaka kojima je određen koeficijent za obračun zarada tužilaca.
+1	Predmet	_	_	_	_	_	_	_	_	O
+2	tražene	_	_	_	_	_	_	_	_	O
+3	pravne	_	_	_	_	_	_	_	_	O
+4	zaštite	_	_	_	_	_	_	_	_	O
+5	je	_	_	_	_	_	_	_	_	O
+6	ocena	_	_	_	_	_	_	_	_	O
+7	zakonitosti	_	_	_	_	_	_	_	_	O
+8	dela	_	_	_	_	_	_	_	_	O
+9	aneksa	_	_	_	_	_	_	_	_	O
+10	ugovora	_	_	_	_	_	_	_	_	O
+11	o	_	_	_	_	_	_	_	_	O
+12	radu	_	_	_	_	_	_	_	_	O
+13	zaključenih	_	_	_	_	_	_	_	_	O
+14	između	_	_	_	_	_	_	_	_	O
+15	parničnih	_	_	_	_	_	_	_	_	O
+16	stranaka	_	_	_	_	_	_	_	_	O
+17	kojima	_	_	_	_	_	_	_	_	O
+18	je	_	_	_	_	_	_	_	_	O
+19	određen	_	_	_	_	_	_	_	_	O
+20	koeficijent	_	_	_	_	_	_	_	_	O
+21	za	_	_	_	_	_	_	_	_	O
+22	obračun	_	_	_	_	_	_	_	_	O
+23	zarada	_	_	_	_	_	_	_	_	O
+24	tužilaca	_	_	_	_	_	_	_	SpaceAfter=No	O
+25	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 9.2
+# text = Pobijana odluka kojom je tužbeni zahtev tužilaca odbijen doneta je na osnovu utvrđenog činjeničnog stanja da su tužiocima, u konkretnom slučaju, koeficijenti poslova utvrđeni u skladu sa opšim aktima poslodavca - Odlukom o izmenama i dopunama Odluke o sistematizaciji poslova od 16.01.2015. godine, nakon čega je došlo do promene elemenata za utvrđivanje osnovne zarade Odlukom o izmenama i dopunama Odluke o koeficijentima poslova od 30.01.2015. godine, čija zakonitost nije osporena pred Ustavnim sudom.
+1	Pobijana	_	_	_	_	_	_	_	_	O
+2	odluka	_	_	_	_	_	_	_	_	O
+3	kojom	_	_	_	_	_	_	_	_	O
+4	je	_	_	_	_	_	_	_	_	O
+5	tužbeni	_	_	_	_	_	_	_	_	O
+6	zahtev	_	_	_	_	_	_	_	_	O
+7	tužilaca	_	_	_	_	_	_	_	_	O
+8	odbijen	_	_	_	_	_	_	_	_	O
+9	doneta	_	_	_	_	_	_	_	_	O
+10	je	_	_	_	_	_	_	_	_	O
+11	na	_	_	_	_	_	_	_	_	O
+12	osnovu	_	_	_	_	_	_	_	_	O
+13	utvrđenog	_	_	_	_	_	_	_	_	O
+14	činjeničnog	_	_	_	_	_	_	_	_	O
+15	stanja	_	_	_	_	_	_	_	_	O
+16	da	_	_	_	_	_	_	_	_	O
+17	su	_	_	_	_	_	_	_	_	O
+18	tužiocima	_	_	_	_	_	_	_	SpaceAfter=No	O
+19	,	,	PUNCT	Z	_	_	_	_	_	O
+20	u	_	_	_	_	_	_	_	_	O
+21	konkretnom	_	_	_	_	_	_	_	_	O
+22	slučaju	_	_	_	_	_	_	_	SpaceAfter=No	O
+23	,	,	PUNCT	Z	_	_	_	_	_	O
+24	koeficijenti	_	_	_	_	_	_	_	_	O
+25	poslova	_	_	_	_	_	_	_	_	O
+26	utvrđeni	_	_	_	_	_	_	_	_	O
+27	u	_	_	_	_	_	_	_	_	O
+28	skladu	_	_	_	_	_	_	_	_	O
+29	sa	_	_	_	_	_	_	_	_	O
+30	opšim	_	_	_	_	_	_	_	_	O
+31	aktima	_	_	_	_	_	_	_	_	O
+32	poslodavca	_	_	_	_	_	_	_	_	O
+33	-	-	PUNCT	Z	_	_	_	_	_	O
+34	Odlukom	_	_	_	_	_	_	_	_	O
+35	o	_	_	_	_	_	_	_	_	O
+36	izmenama	_	_	_	_	_	_	_	_	O
+37	i	_	_	_	_	_	_	_	_	O
+38	dopunama	_	_	_	_	_	_	_	_	O
+39	Odluke	_	_	_	_	_	_	_	_	O
+40	o	_	_	_	_	_	_	_	_	O
+41	sistematizaciji	_	_	_	_	_	_	_	_	O
+42	poslova	_	_	_	_	_	_	_	_	O
+43	od	_	_	_	_	_	_	_	_	O
+44	16.01.2015.	_	_	_	_	_	_	_	_	O
+45	godine	_	_	_	_	_	_	_	SpaceAfter=No	O
+46	,	,	PUNCT	Z	_	_	_	_	_	O
+47	nakon	_	_	_	_	_	_	_	_	O
+48	čega	_	_	_	_	_	_	_	_	O
+49	je	_	_	_	_	_	_	_	_	O
+50	došlo	_	_	_	_	_	_	_	_	O
+51	do	_	_	_	_	_	_	_	_	O
+52	promene	_	_	_	_	_	_	_	_	O
+53	elemenata	_	_	_	_	_	_	_	_	O
+54	za	_	_	_	_	_	_	_	_	O
+55	utvrđivanje	_	_	_	_	_	_	_	_	O
+56	osnovne	_	_	_	_	_	_	_	_	O
+57	zarade	_	_	_	_	_	_	_	_	O
+58	Odlukom	_	_	_	_	_	_	_	_	O
+59	o	_	_	_	_	_	_	_	_	O
+60	izmenama	_	_	_	_	_	_	_	_	O
+61	i	_	_	_	_	_	_	_	_	O
+62	dopunama	_	_	_	_	_	_	_	_	O
+63	Odluke	_	_	_	_	_	_	_	_	O
+64	o	_	_	_	_	_	_	_	_	O
+65	koeficijentima	_	_	_	_	_	_	_	_	O
+66	poslova	_	_	_	_	_	_	_	_	O
+67	od	_	_	_	_	_	_	_	_	O
+68	30.01.2015.	_	_	_	_	_	_	_	_	O
+69	godine	_	_	_	_	_	_	_	SpaceAfter=No	O
+70	,	,	PUNCT	Z	_	_	_	_	_	O
+71	čija	_	_	_	_	_	_	_	_	O
+72	zakonitost	_	_	_	_	_	_	_	_	O
+73	nije	_	_	_	_	_	_	_	_	O
+74	osporena	_	_	_	_	_	_	_	_	O
+75	pred	_	_	_	_	_	_	_	_	O
+76	Ustavnim	_	_	_	_	_	_	_	_	B-ORG
+77	sudom	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+78	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 9.3
+# text = Tužioci su ponude poslodavca za zaključenje aneksa, koje imaju osnov u ovim opštim aktima prihvatili, pa kada su aneksi ugovora o radu zaključeni pre 07.02.2015. godine kada je stupio na snagu Posebni kolektivni ugovor za Elektroprivredu Srbije, nema mesta retroaktivnoj primeni odredbi tog Kolektivnog ugovora.
+1	Tužioci	_	_	_	_	_	_	_	_	O
+2	su	_	_	_	_	_	_	_	_	O
+3	ponude	_	_	_	_	_	_	_	_	O
+4	poslodavca	_	_	_	_	_	_	_	_	O
+5	za	_	_	_	_	_	_	_	_	O
+6	zaključenje	_	_	_	_	_	_	_	_	O
+7	aneksa	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	koje	_	_	_	_	_	_	_	_	O
+10	imaju	_	_	_	_	_	_	_	_	O
+11	osnov	_	_	_	_	_	_	_	_	O
+12	u	_	_	_	_	_	_	_	_	O
+13	ovim	_	_	_	_	_	_	_	_	O
+14	opštim	_	_	_	_	_	_	_	_	O
+15	aktima	_	_	_	_	_	_	_	_	O
+16	prihvatili	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	,	,	PUNCT	Z	_	_	_	_	_	O
+18	pa	_	_	_	_	_	_	_	_	O
+19	kada	_	_	_	_	_	_	_	_	O
+20	su	_	_	_	_	_	_	_	_	O
+21	aneksi	_	_	_	_	_	_	_	_	O
+22	ugovora	_	_	_	_	_	_	_	_	O
+23	o	_	_	_	_	_	_	_	_	O
+24	radu	_	_	_	_	_	_	_	_	O
+25	zaključeni	_	_	_	_	_	_	_	_	O
+26	pre	_	_	_	_	_	_	_	_	O
+27	07.02.2015.	_	_	_	_	_	_	_	_	O
+28	godine	_	_	_	_	_	_	_	_	O
+29	kada	_	_	_	_	_	_	_	_	O
+30	je	_	_	_	_	_	_	_	_	O
+31	stupio	_	_	_	_	_	_	_	_	O
+32	na	_	_	_	_	_	_	_	_	O
+33	snagu	_	_	_	_	_	_	_	_	O
+34	Posebni	_	_	_	_	_	_	_	_	O
+35	kolektivni	_	_	_	_	_	_	_	_	O
+36	ugovor	_	_	_	_	_	_	_	_	O
+37	za	_	_	_	_	_	_	_	_	O
+38	Elektroprivredu	_	_	_	_	_	_	_	_	B-ORG
+39	Srbije	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+40	,	,	PUNCT	Z	_	_	_	_	_	O
+41	nema	_	_	_	_	_	_	_	_	O
+42	mesta	_	_	_	_	_	_	_	_	O
+43	retroaktivnoj	_	_	_	_	_	_	_	_	O
+44	primeni	_	_	_	_	_	_	_	_	O
+45	odredbi	_	_	_	_	_	_	_	_	O
+46	tog	_	_	_	_	_	_	_	_	O
+47	Kolektivnog	_	_	_	_	_	_	_	_	O
+48	ugovora	_	_	_	_	_	_	_	SpaceAfter=No	O
+49	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 10
+# sent_id = 10.1
+# text = Iz navedenih razloga, odluka u stavu prvom izreke doneta je na osnovu člana 404. stav 2. ZPP.
+1	Iz	_	_	_	_	_	_	_	_	O
+2	navedenih	_	_	_	_	_	_	_	_	O
+3	razloga	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	odluka	_	_	_	_	_	_	_	_	O
+6	u	_	_	_	_	_	_	_	_	O
+7	stavu	_	_	_	_	_	_	_	_	O
+8	prvom	_	_	_	_	_	_	_	_	O
+9	izreke	_	_	_	_	_	_	_	_	O
+10	doneta	_	_	_	_	_	_	_	_	O
+11	je	_	_	_	_	_	_	_	_	O
+12	na	_	_	_	_	_	_	_	_	O
+13	osnovu	_	_	_	_	_	_	_	_	O
+14	člana	_	_	_	_	_	_	_	_	O
+15	404.	_	_	_	_	_	_	_	_	O
+16	stav	_	_	_	_	_	_	_	_	O
+17	2.	_	_	_	_	_	_	_	_	O
+18	ZPP	_	_	_	_	_	_	_	SpaceAfter=No	O
+19	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 11
+# sent_id = 11.1
+# text = Ispitujući dozvoljenost revizije na osnovu članu 410. stav 2. tačka 5. ZPP, Vrhovni sud je utvrdio da je revizija nedozvoljena.
+1	Ispitujući	_	_	_	_	_	_	_	_	O
+2	dozvoljenost	_	_	_	_	_	_	_	_	O
+3	revizije	_	_	_	_	_	_	_	_	O
+4	na	_	_	_	_	_	_	_	_	O
+5	osnovu	_	_	_	_	_	_	_	_	O
+6	članu	_	_	_	_	_	_	_	_	O
+7	410.	_	_	_	_	_	_	_	_	O
+8	stav	_	_	_	_	_	_	_	_	O
+9	2.	_	_	_	_	_	_	_	_	O
+10	tačka	_	_	_	_	_	_	_	_	O
+11	5.	_	_	_	_	_	_	_	_	O
+12	ZPP	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+14	Vrhovni	_	_	_	_	_	_	_	_	B-ORG
+15	sud	_	_	_	_	_	_	_	_	I-ORG
+16	je	_	_	_	_	_	_	_	_	O
+17	utvrdio	_	_	_	_	_	_	_	_	O
+18	da	_	_	_	_	_	_	_	_	O
+19	je	_	_	_	_	_	_	_	_	O
+20	revizija	_	_	_	_	_	_	_	_	O
+21	nedozvoljena	_	_	_	_	_	_	_	SpaceAfter=No	O
+22	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 12
+# sent_id = 12.1
+# text = Odredbama glave XXIX ZPP propisana su posebna pravila za postupak u parnicama iz radnog odnosa, dok se ostale odredbe ZPP primenjuju kada odredbama ove glave nije drugačije određeno.
+1	Odredbama	_	_	_	_	_	_	_	_	O
+2	glave	_	_	_	_	_	_	_	_	O
+3	XXIX	_	_	_	_	_	_	_	_	O
+4	ZPP	_	_	_	_	_	_	_	_	O
+5	propisana	_	_	_	_	_	_	_	_	O
+6	su	_	_	_	_	_	_	_	_	O
+7	posebna	_	_	_	_	_	_	_	_	O
+8	pravila	_	_	_	_	_	_	_	_	O
+9	za	_	_	_	_	_	_	_	_	O
+10	postupak	_	_	_	_	_	_	_	_	O
+11	u	_	_	_	_	_	_	_	_	O
+12	parnicama	_	_	_	_	_	_	_	_	O
+13	iz	_	_	_	_	_	_	_	_	O
+14	radnog	_	_	_	_	_	_	_	_	O
+15	odnosa	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	,	,	PUNCT	Z	_	_	_	_	_	O
+17	dok	_	_	_	_	_	_	_	_	O
+18	se	_	_	_	_	_	_	_	_	O
+19	ostale	_	_	_	_	_	_	_	_	O
+20	odredbe	_	_	_	_	_	_	_	_	O
+21	ZPP	_	_	_	_	_	_	_	_	O
+22	primenjuju	_	_	_	_	_	_	_	_	O
+23	kada	_	_	_	_	_	_	_	_	O
+24	odredbama	_	_	_	_	_	_	_	_	O
+25	ove	_	_	_	_	_	_	_	_	O
+26	glave	_	_	_	_	_	_	_	_	O
+27	nije	_	_	_	_	_	_	_	_	O
+28	drugačije	_	_	_	_	_	_	_	_	O
+29	određeno	_	_	_	_	_	_	_	SpaceAfter=No	O
+30	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 13
+# sent_id = 13.1
+# text = U parnicama iz radnih odnosa, odredbom člana 441.
+1	U	_	_	_	_	_	_	_	_	O
+2	parnicama	_	_	_	_	_	_	_	_	O
+3	iz	_	_	_	_	_	_	_	_	O
+4	radnih	_	_	_	_	_	_	_	_	O
+5	odnosa	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	odredbom	_	_	_	_	_	_	_	_	O
+8	člana	_	_	_	_	_	_	_	_	O
+9	441.	_	_	_	_	_	_	_	_	O
+
+# sent_id = 13.2
+# text = ZPP propisano je da je revizija uvek dozvoljena u parnicama o sporovima o zasnivanju, postojanju i prestanku radnog odnosa.
+1	ZPP	_	_	_	_	_	_	_	_	O
+2	propisano	_	_	_	_	_	_	_	_	O
+3	je	_	_	_	_	_	_	_	_	O
+4	da	_	_	_	_	_	_	_	_	O
+5	je	_	_	_	_	_	_	_	_	O
+6	revizija	_	_	_	_	_	_	_	_	O
+7	uvek	_	_	_	_	_	_	_	_	O
+8	dozvoljena	_	_	_	_	_	_	_	_	O
+9	u	_	_	_	_	_	_	_	_	O
+10	parnicama	_	_	_	_	_	_	_	_	O
+11	o	_	_	_	_	_	_	_	_	O
+12	sporovima	_	_	_	_	_	_	_	_	O
+13	o	_	_	_	_	_	_	_	_	O
+14	zasnivanju	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	,	,	PUNCT	Z	_	_	_	_	_	O
+16	postojanju	_	_	_	_	_	_	_	_	O
+17	i	_	_	_	_	_	_	_	_	O
+18	prestanku	_	_	_	_	_	_	_	_	O
+19	radnog	_	_	_	_	_	_	_	_	O
+20	odnosa	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 13.3
+# text = U svim drugim slučajevima revizija nije dozvoljena, osim kada se tužbeni zahtev odnosi na potraživanje u novcu, kada se primenjuje opšti režim dopuštenosti ovog pravnog leka, prema vrednosti predmeta spora.
+1	U	_	_	_	_	_	_	_	_	O
+2	svim	_	_	_	_	_	_	_	_	O
+3	drugim	_	_	_	_	_	_	_	_	O
+4	slučajevima	_	_	_	_	_	_	_	_	O
+5	revizija	_	_	_	_	_	_	_	_	O
+6	nije	_	_	_	_	_	_	_	_	O
+7	dozvoljena	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	osim	_	_	_	_	_	_	_	_	O
+10	kada	_	_	_	_	_	_	_	_	O
+11	se	_	_	_	_	_	_	_	_	O
+12	tužbeni	_	_	_	_	_	_	_	_	O
+13	zahtev	_	_	_	_	_	_	_	_	O
+14	odnosi	_	_	_	_	_	_	_	_	O
+15	na	_	_	_	_	_	_	_	_	O
+16	potraživanje	_	_	_	_	_	_	_	_	O
+17	u	_	_	_	_	_	_	_	_	O
+18	novcu	_	_	_	_	_	_	_	SpaceAfter=No	O
+19	,	,	PUNCT	Z	_	_	_	_	_	O
+20	kada	_	_	_	_	_	_	_	_	O
+21	se	_	_	_	_	_	_	_	_	O
+22	primenjuje	_	_	_	_	_	_	_	_	O
+23	opšti	_	_	_	_	_	_	_	_	O
+24	režim	_	_	_	_	_	_	_	_	O
+25	dopuštenosti	_	_	_	_	_	_	_	_	O
+26	ovog	_	_	_	_	_	_	_	_	O
+27	pravnog	_	_	_	_	_	_	_	_	O
+28	leka	_	_	_	_	_	_	_	SpaceAfter=No	O
+29	,	,	PUNCT	Z	_	_	_	_	_	O
+30	prema	_	_	_	_	_	_	_	_	O
+31	vrednosti	_	_	_	_	_	_	_	_	O
+32	predmeta	_	_	_	_	_	_	_	_	O
+33	spora	_	_	_	_	_	_	_	SpaceAfter=No	O
+34	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 14
+# sent_id = 14.1
+# text = Spor za utvrđenje ništavosti odredbe aneksa ugovora o radu kojim je predviđena visina zarade jeste spor iz radnog odnosa, ali nije spor o zasnivanju, postojanju ili prestanku radnog odnosa da bi se o dozvoljenosti revizije odlučivalo primenom člana 441.
+1	Spor	_	_	_	_	_	_	_	_	O
+2	za	_	_	_	_	_	_	_	_	O
+3	utvrđenje	_	_	_	_	_	_	_	_	O
+4	ništavosti	_	_	_	_	_	_	_	_	O
+5	odredbe	_	_	_	_	_	_	_	_	O
+6	aneksa	_	_	_	_	_	_	_	_	O
+7	ugovora	_	_	_	_	_	_	_	_	O
+8	o	_	_	_	_	_	_	_	_	O
+9	radu	_	_	_	_	_	_	_	_	O
+10	kojim	_	_	_	_	_	_	_	_	O
+11	je	_	_	_	_	_	_	_	_	O
+12	predviđena	_	_	_	_	_	_	_	_	O
+13	visina	_	_	_	_	_	_	_	_	O
+14	zarade	_	_	_	_	_	_	_	_	O
+15	jeste	_	_	_	_	_	_	_	_	O
+16	spor	_	_	_	_	_	_	_	_	O
+17	iz	_	_	_	_	_	_	_	_	O
+18	radnog	_	_	_	_	_	_	_	_	O
+19	odnosa	_	_	_	_	_	_	_	SpaceAfter=No	O
+20	,	,	PUNCT	Z	_	_	_	_	_	O
+21	ali	_	_	_	_	_	_	_	_	O
+22	nije	_	_	_	_	_	_	_	_	O
+23	spor	_	_	_	_	_	_	_	_	O
+24	o	_	_	_	_	_	_	_	_	O
+25	zasnivanju	_	_	_	_	_	_	_	SpaceAfter=No	O
+26	,	,	PUNCT	Z	_	_	_	_	_	O
+27	postojanju	_	_	_	_	_	_	_	_	O
+28	ili	_	_	_	_	_	_	_	_	O
+29	prestanku	_	_	_	_	_	_	_	_	O
+30	radnog	_	_	_	_	_	_	_	_	O
+31	odnosa	_	_	_	_	_	_	_	_	O
+32	da	_	_	_	_	_	_	_	_	O
+33	bi	_	_	_	_	_	_	_	_	O
+34	se	_	_	_	_	_	_	_	_	O
+35	o	_	_	_	_	_	_	_	_	O
+36	dozvoljenosti	_	_	_	_	_	_	_	_	O
+37	revizije	_	_	_	_	_	_	_	_	O
+38	odlučivalo	_	_	_	_	_	_	_	_	O
+39	primenom	_	_	_	_	_	_	_	_	O
+40	člana	_	_	_	_	_	_	_	_	O
+41	441.	_	_	_	_	_	_	_	_	O
+
+# sent_id = 14.2
+# text = ZPP, što znači da revizija tužilaca nije dozvoljena.
+1	ZPP	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	što	_	_	_	_	_	_	_	_	O
+4	znači	_	_	_	_	_	_	_	_	O
+5	da	_	_	_	_	_	_	_	_	O
+6	revizija	_	_	_	_	_	_	_	_	O
+7	tužilaca	_	_	_	_	_	_	_	_	O
+8	nije	_	_	_	_	_	_	_	_	O
+9	dozvoljena	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 15
+# sent_id = 15.1
+# text = Iz navedenih razloga, na osnovu člana 413.
+1	Iz	_	_	_	_	_	_	_	_	O
+2	navedenih	_	_	_	_	_	_	_	_	O
+3	razloga	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	na	_	_	_	_	_	_	_	_	O
+6	osnovu	_	_	_	_	_	_	_	_	O
+7	člana	_	_	_	_	_	_	_	_	O
+8	413.	_	_	_	_	_	_	_	_	O
+
+# sent_id = 15.2
+# text = ZPP, odlučeno je kao u stavu drugom izreke.
+1	ZPP	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	odlučeno	_	_	_	_	_	_	_	_	O
+4	je	_	_	_	_	_	_	_	_	O
+5	kao	_	_	_	_	_	_	_	_	O
+6	u	_	_	_	_	_	_	_	_	O
+7	stavu	_	_	_	_	_	_	_	_	O
+8	drugom	_	_	_	_	_	_	_	_	O
+9	izreke	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 16
+# sent_id = 16.1
+# text = Predsednik veća – sudija
+1	Predsednik	_	_	_	_	_	_	_	_	O
+2	veća	_	_	_	_	_	_	_	_	O
+3	–	–	PUNCT	Z	_	_	_	_	_	O
+4	sudija	_	_	_	_	_	_	_	_	O
+
+# newpar id = 17
+# sent_id = 17.1
+# text = Vesna Subić, s.r.
+1	Vesna	_	_	_	_	_	_	_	_	B-PER
+2	Subić	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	s.	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	r.	_	_	_	_	_	_	_	_	O
+
+# newpar id = 18
+# sent_id = 18.1
+# text = Za tačnost otpravka
+1	Za	_	_	_	_	_	_	_	_	O
+2	tačnost	_	_	_	_	_	_	_	_	O
+3	otpravka	_	_	_	_	_	_	_	_	O
+
+# newpar id = 19
+# sent_id = 19.1
+# text = Zamenik upravitelja pisarnice
+1	Zamenik	_	_	_	_	_	_	_	_	O
+2	upravitelja	_	_	_	_	_	_	_	_	O
+3	pisarnice	_	_	_	_	_	_	_	_	O
+
+# newpar id = 20
+# sent_id = 20.1
+# text = Milanka Ranković
+1	Milanka	_	_	_	_	_	_	_	_	B-PER
+2	Ranković	_	_	_	_	_	_	_	_	I-PER
+

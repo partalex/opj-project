@@ -1,0 +1,550 @@
+#name = marija
+#domen = film_pozoriste
+#url = https://domomladine.org/predstave/premijera-predstave-vulkan/
+# newpar id = 1
+# sent_id = 1.1
+# text = Program edukativnih pozorišnih predstava za tinejdžere, koji organizuju Dom omladine Beograda i Studio Centar.
+1	Program	_	_	_	_	_	_	_	_	O
+2	edukativnih	_	_	_	_	_	_	_	_	O
+3	pozorišnih	_	_	_	_	_	_	_	_	O
+4	predstava	_	_	_	_	_	_	_	_	O
+5	za	_	_	_	_	_	_	_	_	O
+6	tinejdžere	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	koji	_	_	_	_	_	_	_	_	O
+9	organizuju	_	_	_	_	_	_	_	_	O
+10	Dom	_	_	_	_	_	_	_	_	B-ORG
+11	omladine	_	_	_	_	_	_	_	_	I-ORG
+12	Beograda	_	_	_	_	_	_	_	_	I-ORG
+13	i	_	_	_	_	_	_	_	_	O
+14	Studio	_	_	_	_	_	_	_	_	B-ORG
+15	Centar	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+16	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 2
+# sent_id = 2.1
+# text = Ulaznice su u prodaji putem eFinity mreže i onlajn.
+1	Ulaznice	_	_	_	_	_	_	_	_	O
+2	su	_	_	_	_	_	_	_	_	O
+3	u	_	_	_	_	_	_	_	_	O
+4	prodaji	_	_	_	_	_	_	_	_	O
+5	putem	_	_	_	_	_	_	_	_	O
+6	eFinity	_	_	_	_	_	_	_	_	B-ORG
+7	mreže	_	_	_	_	_	_	_	_	O
+8	i	_	_	_	_	_	_	_	_	O
+9	onlajn	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.2
+# text = Cena ulaznica u slobodnoj prodaji je 800 dinara, dok su za školske i grupne posete obezbeđeni dodatni popusti.
+1	Cena	_	_	_	_	_	_	_	_	O
+2	ulaznica	_	_	_	_	_	_	_	_	O
+3	u	_	_	_	_	_	_	_	_	O
+4	slobodnoj	_	_	_	_	_	_	_	_	O
+5	prodaji	_	_	_	_	_	_	_	_	O
+6	je	_	_	_	_	_	_	_	_	O
+7	800	_	_	_	_	_	_	_	_	O
+8	dinara	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	dok	_	_	_	_	_	_	_	_	O
+11	su	_	_	_	_	_	_	_	_	O
+12	za	_	_	_	_	_	_	_	_	O
+13	školske	_	_	_	_	_	_	_	_	O
+14	i	_	_	_	_	_	_	_	_	O
+15	grupne	_	_	_	_	_	_	_	_	O
+16	posete	_	_	_	_	_	_	_	_	O
+17	obezbeđeni	_	_	_	_	_	_	_	_	O
+18	dodatni	_	_	_	_	_	_	_	_	O
+19	popusti	_	_	_	_	_	_	_	SpaceAfter=No	O
+20	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.3
+# text = Zainteresovani za grupne popuste sve informacije mogu dobiti putem mejla studiocentar@gmail.com.
+1	Zainteresovani	_	_	_	_	_	_	_	_	O
+2	za	_	_	_	_	_	_	_	_	O
+3	grupne	_	_	_	_	_	_	_	_	O
+4	popuste	_	_	_	_	_	_	_	_	O
+5	sve	_	_	_	_	_	_	_	_	O
+6	informacije	_	_	_	_	_	_	_	_	O
+7	mogu	_	_	_	_	_	_	_	_	O
+8	dobiti	_	_	_	_	_	_	_	_	O
+9	putem	_	_	_	_	_	_	_	_	O
+10	mejla	_	_	_	_	_	_	_	_	O
+11	studiocentar@gmail.com	studiocentar@gmail.com	SYM	Xw	_	_	_	_	SpaceAfter=No	O
+12	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 3
+# sent_id = 3.1
+# text = Šta se dešava u glavama tinejdžera?
+1	Šta	_	_	_	_	_	_	_	_	O
+2	se	_	_	_	_	_	_	_	_	O
+3	dešava	_	_	_	_	_	_	_	_	O
+4	u	_	_	_	_	_	_	_	_	O
+5	glavama	_	_	_	_	_	_	_	_	O
+6	tinejdžera	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	?	?	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 3.2
+# text = Kako razmišljaju, šta ih pokreće, šta ih plaši?
+1	Kako	_	_	_	_	_	_	_	_	O
+2	razmišljaju	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	šta	_	_	_	_	_	_	_	_	O
+5	ih	_	_	_	_	_	_	_	_	O
+6	pokreće	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	šta	_	_	_	_	_	_	_	_	O
+9	ih	_	_	_	_	_	_	_	_	O
+10	plaši	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	?	?	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 3.3
+# text = „Vulkan“ je pozorišni eksperiment koji otvara vrata u svet adolescencije – svet u kome se prepliću nesigurnost i bunt, potraga za sopstvenim mestom i borba sa spoljnim očekivanjima.
+1	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+2	Vulkan	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	“	“	PUNCT	Z	_	_	_	_	_	O
+4	je	_	_	_	_	_	_	_	_	O
+5	pozorišni	_	_	_	_	_	_	_	_	O
+6	eksperiment	_	_	_	_	_	_	_	_	O
+7	koji	_	_	_	_	_	_	_	_	O
+8	otvara	_	_	_	_	_	_	_	_	O
+9	vrata	_	_	_	_	_	_	_	_	O
+10	u	_	_	_	_	_	_	_	_	O
+11	svet	_	_	_	_	_	_	_	_	O
+12	adolescencije	_	_	_	_	_	_	_	_	O
+13	–	–	PUNCT	Z	_	_	_	_	_	O
+14	svet	_	_	_	_	_	_	_	_	O
+15	u	_	_	_	_	_	_	_	_	O
+16	kome	_	_	_	_	_	_	_	_	O
+17	se	_	_	_	_	_	_	_	_	O
+18	prepliću	_	_	_	_	_	_	_	_	O
+19	nesigurnost	_	_	_	_	_	_	_	_	O
+20	i	_	_	_	_	_	_	_	_	O
+21	bunt	_	_	_	_	_	_	_	SpaceAfter=No	O
+22	,	,	PUNCT	Z	_	_	_	_	_	O
+23	potraga	_	_	_	_	_	_	_	_	O
+24	za	_	_	_	_	_	_	_	_	O
+25	sopstvenim	_	_	_	_	_	_	_	_	O
+26	mestom	_	_	_	_	_	_	_	_	O
+27	i	_	_	_	_	_	_	_	_	O
+28	borba	_	_	_	_	_	_	_	_	O
+29	sa	_	_	_	_	_	_	_	_	O
+30	spoljnim	_	_	_	_	_	_	_	_	O
+31	očekivanjima	_	_	_	_	_	_	_	SpaceAfter=No	O
+32	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 4
+# sent_id = 4.1
+# text = Ova predstava, nastala po konceptu britanskog pozorišnog projekta „Brainstorm“, već je izvedena u više od 20 zemalja sveta, a sada stiže i kod nas.
+1	Ova	_	_	_	_	_	_	_	_	O
+2	predstava	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	nastala	_	_	_	_	_	_	_	_	O
+5	po	_	_	_	_	_	_	_	_	O
+6	konceptu	_	_	_	_	_	_	_	_	O
+7	britanskog	_	_	_	_	_	_	_	_	O
+8	pozorišnog	_	_	_	_	_	_	_	_	O
+9	projekta	_	_	_	_	_	_	_	_	O
+10	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+11	Brainstorm	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+14	već	_	_	_	_	_	_	_	_	O
+15	je	_	_	_	_	_	_	_	_	O
+16	izvedena	_	_	_	_	_	_	_	_	O
+17	u	_	_	_	_	_	_	_	_	O
+18	više	_	_	_	_	_	_	_	_	O
+19	od	_	_	_	_	_	_	_	_	O
+20	20	_	_	_	_	_	_	_	_	O
+21	zemalja	_	_	_	_	_	_	_	_	O
+22	sveta	_	_	_	_	_	_	_	SpaceAfter=No	O
+23	,	,	PUNCT	Z	_	_	_	_	_	O
+24	a	_	_	_	_	_	_	_	_	O
+25	sada	_	_	_	_	_	_	_	_	O
+26	stiže	_	_	_	_	_	_	_	_	O
+27	i	_	_	_	_	_	_	_	_	O
+28	kod	_	_	_	_	_	_	_	_	O
+29	nas	_	_	_	_	_	_	_	SpaceAfter=No	O
+30	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 4.2
+# text = „Vulkan“ nije klasična pozorišna predstava – to je dokumentarni prikaz života, ličnosti i stavova samih učesnika na sceni.
+1	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+2	Vulkan	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	“	“	PUNCT	Z	_	_	_	_	_	O
+4	nije	_	_	_	_	_	_	_	_	O
+5	klasična	_	_	_	_	_	_	_	_	O
+6	pozorišna	_	_	_	_	_	_	_	_	O
+7	predstava	_	_	_	_	_	_	_	_	O
+8	–	–	PUNCT	Z	_	_	_	_	_	O
+9	to	_	_	_	_	_	_	_	_	O
+10	je	_	_	_	_	_	_	_	_	O
+11	dokumentarni	_	_	_	_	_	_	_	_	O
+12	prikaz	_	_	_	_	_	_	_	_	O
+13	života	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	,	,	PUNCT	Z	_	_	_	_	_	O
+15	ličnosti	_	_	_	_	_	_	_	_	O
+16	i	_	_	_	_	_	_	_	_	O
+17	stavova	_	_	_	_	_	_	_	_	O
+18	samih	_	_	_	_	_	_	_	_	O
+19	učesnika	_	_	_	_	_	_	_	_	O
+20	na	_	_	_	_	_	_	_	_	O
+21	sceni	_	_	_	_	_	_	_	SpaceAfter=No	O
+22	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 4.3
+# text = Kroz dijaloške, monološke i video segmente, mladi izvođači nas vode kroz svoje svakodnevne realnosti: govore o svojim sigurnim mestima, sobama u kojima provode sate, o kraju u kojem odrastaju, pravilima koja ih oblikuju, prijateljstvima, sukobima i odnosima sa roditeljima.
+1	Kroz	_	_	_	_	_	_	_	_	O
+2	dijaloške	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	monološke	_	_	_	_	_	_	_	_	O
+5	i	_	_	_	_	_	_	_	_	O
+6	video	_	_	_	_	_	_	_	_	O
+7	segmente	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	mladi	_	_	_	_	_	_	_	_	O
+10	izvođači	_	_	_	_	_	_	_	_	O
+11	nas	_	_	_	_	_	_	_	_	O
+12	vode	_	_	_	_	_	_	_	_	O
+13	kroz	_	_	_	_	_	_	_	_	O
+14	svoje	_	_	_	_	_	_	_	_	O
+15	svakodnevne	_	_	_	_	_	_	_	_	O
+16	realnosti	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	:	:	PUNCT	Z	_	_	_	_	_	O
+18	govore	_	_	_	_	_	_	_	_	O
+19	o	_	_	_	_	_	_	_	_	O
+20	svojim	_	_	_	_	_	_	_	_	O
+21	sigurnim	_	_	_	_	_	_	_	_	O
+22	mestima	_	_	_	_	_	_	_	SpaceAfter=No	O
+23	,	,	PUNCT	Z	_	_	_	_	_	O
+24	sobama	_	_	_	_	_	_	_	_	O
+25	u	_	_	_	_	_	_	_	_	O
+26	kojima	_	_	_	_	_	_	_	_	O
+27	provode	_	_	_	_	_	_	_	_	O
+28	sate	_	_	_	_	_	_	_	SpaceAfter=No	O
+29	,	,	PUNCT	Z	_	_	_	_	_	O
+30	o	_	_	_	_	_	_	_	_	O
+31	kraju	_	_	_	_	_	_	_	_	O
+32	u	_	_	_	_	_	_	_	_	O
+33	kojem	_	_	_	_	_	_	_	_	O
+34	odrastaju	_	_	_	_	_	_	_	SpaceAfter=No	O
+35	,	,	PUNCT	Z	_	_	_	_	_	O
+36	pravilima	_	_	_	_	_	_	_	_	O
+37	koja	_	_	_	_	_	_	_	_	O
+38	ih	_	_	_	_	_	_	_	_	O
+39	oblikuju	_	_	_	_	_	_	_	SpaceAfter=No	O
+40	,	,	PUNCT	Z	_	_	_	_	_	O
+41	prijateljstvima	_	_	_	_	_	_	_	SpaceAfter=No	O
+42	,	,	PUNCT	Z	_	_	_	_	_	O
+43	sukobima	_	_	_	_	_	_	_	_	O
+44	i	_	_	_	_	_	_	_	_	O
+45	odnosima	_	_	_	_	_	_	_	_	O
+46	sa	_	_	_	_	_	_	_	_	O
+47	roditeljima	_	_	_	_	_	_	_	SpaceAfter=No	O
+48	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 5
+# sent_id = 5.1
+# text = Jedinstvenost „Vulkana“ leži u njegovoj interaktivnosti – publika nije samo pasivni posmatrač već postaje deo predstave.
+1	Jedinstvenost	_	_	_	_	_	_	_	_	O
+2	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+3	Vulkana	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	“	“	PUNCT	Z	_	_	_	_	_	O
+5	leži	_	_	_	_	_	_	_	_	O
+6	u	_	_	_	_	_	_	_	_	O
+7	njegovoj	_	_	_	_	_	_	_	_	O
+8	interaktivnosti	_	_	_	_	_	_	_	_	O
+9	–	–	PUNCT	Z	_	_	_	_	_	O
+10	publika	_	_	_	_	_	_	_	_	O
+11	nije	_	_	_	_	_	_	_	_	O
+12	samo	_	_	_	_	_	_	_	_	O
+13	pasivni	_	_	_	_	_	_	_	_	O
+14	posmatrač	_	_	_	_	_	_	_	_	O
+15	već	_	_	_	_	_	_	_	_	O
+16	postaje	_	_	_	_	_	_	_	_	O
+17	deo	_	_	_	_	_	_	_	_	O
+18	predstave	_	_	_	_	_	_	_	SpaceAfter=No	O
+19	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 5.2
+# text = Kroz dinamiku izvedbe, gledalište se uvodi u misaoni i emotivni svet adolescenata, postavljajući pitanja i otvarajući prostor za dijalog.
+1	Kroz	_	_	_	_	_	_	_	_	O
+2	dinamiku	_	_	_	_	_	_	_	_	O
+3	izvedbe	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	gledalište	_	_	_	_	_	_	_	_	O
+6	se	_	_	_	_	_	_	_	_	O
+7	uvodi	_	_	_	_	_	_	_	_	O
+8	u	_	_	_	_	_	_	_	_	O
+9	misaoni	_	_	_	_	_	_	_	_	O
+10	i	_	_	_	_	_	_	_	_	O
+11	emotivni	_	_	_	_	_	_	_	_	O
+12	svet	_	_	_	_	_	_	_	_	O
+13	adolescenata	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	,	,	PUNCT	Z	_	_	_	_	_	O
+15	postavljajući	_	_	_	_	_	_	_	_	O
+16	pitanja	_	_	_	_	_	_	_	_	O
+17	i	_	_	_	_	_	_	_	_	O
+18	otvarajući	_	_	_	_	_	_	_	_	O
+19	prostor	_	_	_	_	_	_	_	_	O
+20	za	_	_	_	_	_	_	_	_	O
+21	dijalog	_	_	_	_	_	_	_	SpaceAfter=No	O
+22	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 6
+# sent_id = 6.1
+# text = U vremenu kada se mladi suočavaju sa brzim promenama, digitalnim izazovima i pritiscima društva, „Vulkan“ postaje glas njihove generacije.
+1	U	_	_	_	_	_	_	_	_	O
+2	vremenu	_	_	_	_	_	_	_	_	O
+3	kada	_	_	_	_	_	_	_	_	O
+4	se	_	_	_	_	_	_	_	_	O
+5	mladi	_	_	_	_	_	_	_	_	O
+6	suočavaju	_	_	_	_	_	_	_	_	O
+7	sa	_	_	_	_	_	_	_	_	O
+8	brzim	_	_	_	_	_	_	_	_	O
+9	promenama	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	digitalnim	_	_	_	_	_	_	_	_	O
+12	izazovima	_	_	_	_	_	_	_	_	O
+13	i	_	_	_	_	_	_	_	_	O
+14	pritiscima	_	_	_	_	_	_	_	_	O
+15	društva	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	,	,	PUNCT	Z	_	_	_	_	_	O
+17	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+18	Vulkan	_	_	_	_	_	_	_	SpaceAfter=No	O
+19	“	“	PUNCT	Z	_	_	_	_	_	O
+20	postaje	_	_	_	_	_	_	_	_	O
+21	glas	_	_	_	_	_	_	_	_	O
+22	njihove	_	_	_	_	_	_	_	_	O
+23	generacije	_	_	_	_	_	_	_	SpaceAfter=No	O
+24	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 6.2
+# text = Ova predstava je podjednako izazov za mlade i odrasle – poziv na razumevanje, slušanje i otkrivanje onoga što se dešava ispod površine.
+1	Ova	_	_	_	_	_	_	_	_	O
+2	predstava	_	_	_	_	_	_	_	_	O
+3	je	_	_	_	_	_	_	_	_	O
+4	podjednako	_	_	_	_	_	_	_	_	O
+5	izazov	_	_	_	_	_	_	_	_	O
+6	za	_	_	_	_	_	_	_	_	O
+7	mlade	_	_	_	_	_	_	_	_	O
+8	i	_	_	_	_	_	_	_	_	O
+9	odrasle	_	_	_	_	_	_	_	_	O
+10	–	–	PUNCT	Z	_	_	_	_	_	O
+11	poziv	_	_	_	_	_	_	_	_	O
+12	na	_	_	_	_	_	_	_	_	O
+13	razumevanje	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	,	,	PUNCT	Z	_	_	_	_	_	O
+15	slušanje	_	_	_	_	_	_	_	_	O
+16	i	_	_	_	_	_	_	_	_	O
+17	otkrivanje	_	_	_	_	_	_	_	_	O
+18	onoga	_	_	_	_	_	_	_	_	O
+19	što	_	_	_	_	_	_	_	_	O
+20	se	_	_	_	_	_	_	_	_	O
+21	dešava	_	_	_	_	_	_	_	_	O
+22	ispod	_	_	_	_	_	_	_	_	O
+23	površine	_	_	_	_	_	_	_	SpaceAfter=No	O
+24	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 7
+# sent_id = 7.1
+# text = Ne propustite priliku da budete deo ove jedinstvene pozorišne avanture!
+1	Ne	_	_	_	_	_	_	_	_	O
+2	propustite	_	_	_	_	_	_	_	_	O
+3	priliku	_	_	_	_	_	_	_	_	O
+4	da	_	_	_	_	_	_	_	_	O
+5	budete	_	_	_	_	_	_	_	_	O
+6	deo	_	_	_	_	_	_	_	_	O
+7	ove	_	_	_	_	_	_	_	_	O
+8	jedinstvene	_	_	_	_	_	_	_	_	O
+9	pozorišne	_	_	_	_	_	_	_	_	O
+10	avanture	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	!	!	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 8
+# sent_id = 8.1
+# text = Dobrodošli u „Vulkan“ – tamo gde misli gore, a osećanja se sudaraju!
+1	Dobrodošli	_	_	_	_	_	_	_	_	O
+2	u	_	_	_	_	_	_	_	_	O
+3	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+4	Vulkan	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	“	“	PUNCT	Z	_	_	_	_	_	O
+6	–	–	PUNCT	Z	_	_	_	_	_	O
+7	tamo	_	_	_	_	_	_	_	_	O
+8	gde	_	_	_	_	_	_	_	_	O
+9	misli	_	_	_	_	_	_	_	_	O
+10	gore	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	a	_	_	_	_	_	_	_	_	O
+13	osećanja	_	_	_	_	_	_	_	_	O
+14	se	_	_	_	_	_	_	_	_	O
+15	sudaraju	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	!	!	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 9
+# sent_id = 9.1
+# text = Koncept i režija: Ivana Vuković, Ana Vučić
+1	Koncept	_	_	_	_	_	_	_	_	O
+2	i	_	_	_	_	_	_	_	_	O
+3	režija	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	:	:	PUNCT	Z	_	_	_	_	_	O
+5	Ivana	_	_	_	_	_	_	_	_	B-PER
+6	Vuković	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	Ana	_	_	_	_	_	_	_	_	B-PER
+9	Vučić	_	_	_	_	_	_	_	_	I-PER
+
+# newpar id = 10
+# sent_id = 10.1
+# text = Mentor: Nenad Radović
+1	Mentor	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	:	:	PUNCT	Z	_	_	_	_	_	O
+3	Nenad	_	_	_	_	_	_	_	_	B-PER
+4	Radović	_	_	_	_	_	_	_	_	I-PER
+
+# newpar id = 11
+# sent_id = 11.1
+# text = Dramaturg: Đorđe Kosić
+1	Dramaturg	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	:	:	PUNCT	Z	_	_	_	_	_	O
+3	Đorđe	_	_	_	_	_	_	_	_	B-PER
+4	Kosić	_	_	_	_	_	_	_	_	I-PER
+
+# newpar id = 12
+# sent_id = 12.1
+# text = Igraju polaznici “A” grupe pozorišnog studija Studio Centra
+1	Igraju	_	_	_	_	_	_	_	_	O
+2	polaznici	_	_	_	_	_	_	_	_	O
+3	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	B-ORG
+4	A	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+5	”	”	PUNCT	Z	_	_	_	_	_	I-ORG
+6	grupe	_	_	_	_	_	_	_	_	I-ORG
+7	pozorišnog	_	_	_	_	_	_	_	_	I-ORG
+8	studija	_	_	_	_	_	_	_	_	I-ORG
+9	Studio	_	_	_	_	_	_	_	_	I-ORG
+10	Centra	_	_	_	_	_	_	_	_	I-ORG
+
+# newpar id = 13
+# sent_id = 13.1
+# text = Dom omladine Beograda i Studio Centar nastavljaju sa višegodišnjom realizacijom edukativnog pozorišnog repertoara kroz koji mlada publika, ali i njihovi roditelji, nastavnici i pedagozi, zajedno imaju priliku da pogledaju predstave koje obrađuju aktuelne teme iz života tinejdžera: narkomanija, vršnjačko i digitalno nasilje, marginalizovane grupe mladih, problemi odbacivanja, otuđenje, anksioznost i depresija, anoreksija…
+1	Dom	_	_	_	_	_	_	_	_	B-ORG
+2	omladine	_	_	_	_	_	_	_	_	I-ORG
+3	Beograda	_	_	_	_	_	_	_	_	I-ORG
+4	i	_	_	_	_	_	_	_	_	O
+5	Studio	_	_	_	_	_	_	_	_	B-ORG
+6	Centar	_	_	_	_	_	_	_	_	I-ORG
+7	nastavljaju	_	_	_	_	_	_	_	_	O
+8	sa	_	_	_	_	_	_	_	_	O
+9	višegodišnjom	_	_	_	_	_	_	_	_	O
+10	realizacijom	_	_	_	_	_	_	_	_	O
+11	edukativnog	_	_	_	_	_	_	_	_	O
+12	pozorišnog	_	_	_	_	_	_	_	_	O
+13	repertoara	_	_	_	_	_	_	_	_	O
+14	kroz	_	_	_	_	_	_	_	_	O
+15	koji	_	_	_	_	_	_	_	_	O
+16	mlada	_	_	_	_	_	_	_	_	O
+17	publika	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	,	,	PUNCT	Z	_	_	_	_	_	O
+19	ali	_	_	_	_	_	_	_	_	O
+20	i	_	_	_	_	_	_	_	_	O
+21	njihovi	_	_	_	_	_	_	_	_	O
+22	roditelji	_	_	_	_	_	_	_	SpaceAfter=No	O
+23	,	,	PUNCT	Z	_	_	_	_	_	O
+24	nastavnici	_	_	_	_	_	_	_	_	O
+25	i	_	_	_	_	_	_	_	_	O
+26	pedagozi	_	_	_	_	_	_	_	SpaceAfter=No	O
+27	,	,	PUNCT	Z	_	_	_	_	_	O
+28	zajedno	_	_	_	_	_	_	_	_	O
+29	imaju	_	_	_	_	_	_	_	_	O
+30	priliku	_	_	_	_	_	_	_	_	O
+31	da	_	_	_	_	_	_	_	_	O
+32	pogledaju	_	_	_	_	_	_	_	_	O
+33	predstave	_	_	_	_	_	_	_	_	O
+34	koje	_	_	_	_	_	_	_	_	O
+35	obrađuju	_	_	_	_	_	_	_	_	O
+36	aktuelne	_	_	_	_	_	_	_	_	O
+37	teme	_	_	_	_	_	_	_	_	O
+38	iz	_	_	_	_	_	_	_	_	O
+39	života	_	_	_	_	_	_	_	_	O
+40	tinejdžera	_	_	_	_	_	_	_	SpaceAfter=No	O
+41	:	:	PUNCT	Z	_	_	_	_	_	O
+42	narkomanija	_	_	_	_	_	_	_	SpaceAfter=No	O
+43	,	,	PUNCT	Z	_	_	_	_	_	O
+44	vršnjačko	_	_	_	_	_	_	_	_	O
+45	i	_	_	_	_	_	_	_	_	O
+46	digitalno	_	_	_	_	_	_	_	_	O
+47	nasilje	_	_	_	_	_	_	_	SpaceAfter=No	O
+48	,	,	PUNCT	Z	_	_	_	_	_	O
+49	marginalizovane	_	_	_	_	_	_	_	_	O
+50	grupe	_	_	_	_	_	_	_	_	O
+51	mladih	_	_	_	_	_	_	_	SpaceAfter=No	O
+52	,	,	PUNCT	Z	_	_	_	_	_	O
+53	problemi	_	_	_	_	_	_	_	_	O
+54	odbacivanja	_	_	_	_	_	_	_	SpaceAfter=No	O
+55	,	,	PUNCT	Z	_	_	_	_	_	O
+56	otuđenje	_	_	_	_	_	_	_	SpaceAfter=No	O
+57	,	,	PUNCT	Z	_	_	_	_	_	O
+58	anksioznost	_	_	_	_	_	_	_	_	O
+59	i	_	_	_	_	_	_	_	_	O
+60	depresija	_	_	_	_	_	_	_	SpaceAfter=No	O
+61	,	,	PUNCT	Z	_	_	_	_	_	O
+62	anoreksija	_	_	_	_	_	_	_	SpaceAfter=No	O
+63	…	…	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 13.2
+# text = Istovremeno, kroz ovaj ciklus predstava, Dom omladine i Studio Centar kreiraju platformu za razgovor o svemu onome što direktno utiče na život i sazrevanje tinejdžera.
+1	Istovremeno	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	kroz	_	_	_	_	_	_	_	_	O
+4	ovaj	_	_	_	_	_	_	_	_	O
+5	ciklus	_	_	_	_	_	_	_	_	O
+6	predstava	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	Dom	_	_	_	_	_	_	_	_	B=ORG
+9	omladine	_	_	_	_	_	_	_	_	I-ORG
+10	i	_	_	_	_	_	_	_	_	O
+11	Studio	_	_	_	_	_	_	_	_	B-ORG
+12	Centar	_	_	_	_	_	_	_	_	I-ORG
+13	kreiraju	_	_	_	_	_	_	_	_	O
+14	platformu	_	_	_	_	_	_	_	_	O
+15	za	_	_	_	_	_	_	_	_	O
+16	razgovor	_	_	_	_	_	_	_	_	O
+17	o	_	_	_	_	_	_	_	_	O
+18	svemu	_	_	_	_	_	_	_	_	O
+19	onome	_	_	_	_	_	_	_	_	O
+20	što	_	_	_	_	_	_	_	_	O
+21	direktno	_	_	_	_	_	_	_	_	O
+22	utiče	_	_	_	_	_	_	_	_	O
+23	na	_	_	_	_	_	_	_	_	O
+24	život	_	_	_	_	_	_	_	_	O
+25	i	_	_	_	_	_	_	_	_	O
+26	sazrevanje	_	_	_	_	_	_	_	_	O
+27	tinejdžera	_	_	_	_	_	_	_	SpaceAfter=No	O
+28	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 13.3
+# text = Tokom proleća 2025. publika će imati priliku da vidi premijere novih komada, koji će naći na redovnom programu od septembra meseca.
+1	Tokom	_	_	_	_	_	_	_	_	O
+2	proleća	_	_	_	_	_	_	_	_	O
+3	2025.	_	_	_	_	_	_	_	_	O
+4	publika	_	_	_	_	_	_	_	_	O
+5	će	_	_	_	_	_	_	_	_	O
+6	imati	_	_	_	_	_	_	_	_	O
+7	priliku	_	_	_	_	_	_	_	_	O
+8	da	_	_	_	_	_	_	_	_	O
+9	vidi	_	_	_	_	_	_	_	_	O
+10	premijere	_	_	_	_	_	_	_	_	O
+11	novih	_	_	_	_	_	_	_	_	O
+12	komada	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+14	koji	_	_	_	_	_	_	_	_	O
+15	će	_	_	_	_	_	_	_	_	O
+16	naći	_	_	_	_	_	_	_	_	O
+17	na	_	_	_	_	_	_	_	_	O
+18	redovnom	_	_	_	_	_	_	_	_	O
+19	programu	_	_	_	_	_	_	_	_	O
+20	od	_	_	_	_	_	_	_	_	O
+21	septembra	_	_	_	_	_	_	_	_	O
+22	meseca	_	_	_	_	_	_	_	SpaceAfter=No	O
+23	.	.	PUNCT	Z	_	_	_	_	_	O
+

@@ -1,0 +1,15 @@
+#name = marija
+#domen = tviter
+#url = https://x.com/dedalaki1/status/1969744654393393512
+# newpar id = 1
+# sent_id = 1.1
+# text = Angelina Topić plače nakon osvojene bronze u Tokiju
+1	Angelina	_	_	_	_	_	_	_	_	B-PER 
+2	Topić	_	_	_	_	_	_	_	_	I-PER 
+3	plače	_	_	_	_	_	_	_	_	O
+4	nakon	_	_	_	_	_	_	_	_	O
+5	osvojene	_	_	_	_	_	_	_	_	O
+6	bronze	_	_	_	_	_	_	_	_	O
+7	u	_	_	_	_	_	_	_	_	O
+8	Tokiju	_	_	_	_	_	_	_	_	B-LOC
+

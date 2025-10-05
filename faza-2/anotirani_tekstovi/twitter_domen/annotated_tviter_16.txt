@@ -1,0 +1,44 @@
+#name = marija
+#domen = tviter
+#url = https://x.com/Robertdreco/status/1969833696661270696
+# newpar id = 1
+# sent_id = 1.1
+# text = Na današnji dan 1996. - Na aerodromu u Bogoti, u avionu predsednika Kolumbije Ernesta Sampera, koji je bio spreman da poleti u SAD, posle anonimne prijave, pronađeno je oko četiri kilograma heroina.
+1	Na	_	_	_	_	_	_	_	_	O
+2	današnji	_	_	_	_	_	_	_	_	O
+3	dan	_	_	_	_	_	_	_	_	O
+4	1996.	_	_	_	_	_	_	_	_	O
+5	-	-	PUNCT	Z	_	_	_	_	_	O
+6	Na	_	_	_	_	_	_	_	_	O
+7	aerodromu	_	_	_	_	_	_	_	_	B-LOC
+8	u	_	_	_	_	_	_	_	_	I-LOC
+9	Bogoti	_	_	_	_	_	_	_	SpaceAfter=No	I-LOC
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	u	_	_	_	_	_	_	_	_	O
+12	avionu	_	_	_	_	_	_	_	_	O
+13	predsednika	_	_	_	_	_	_	_	_	O
+14	Kolumbije	_	_	_	_	_	_	_	_	B-LOC 
+15	Ernesta	_	_	_	_	_	_	_	_	B-PER 
+16	Sampera	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+17	,	,	PUNCT	Z	_	_	_	_	_	O
+18	koji	_	_	_	_	_	_	_	_	O
+19	je	_	_	_	_	_	_	_	_	O
+20	bio	_	_	_	_	_	_	_	_	O
+21	spreman	_	_	_	_	_	_	_	_	O
+22	da	_	_	_	_	_	_	_	_	O
+23	poleti	_	_	_	_	_	_	_	_	O
+24	u	_	_	_	_	_	_	_	_	O
+25	SAD	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC 
+26	,	,	PUNCT	Z	_	_	_	_	_	O
+27	posle	_	_	_	_	_	_	_	_	O
+28	anonimne	_	_	_	_	_	_	_	_	O
+29	prijave	_	_	_	_	_	_	_	SpaceAfter=No	O
+30	,	,	PUNCT	Z	_	_	_	_	_	O
+31	pronađeno	_	_	_	_	_	_	_	_	O
+32	je	_	_	_	_	_	_	_	_	O
+33	oko	_	_	_	_	_	_	_	_	O
+34	četiri	_	_	_	_	_	_	_	_	O
+35	kilograma	_	_	_	_	_	_	_	_	O
+36	heroina	_	_	_	_	_	_	_	SpaceAfter=No	O
+37	.	.	PUNCT	Z	_	_	_	_	_	O
+

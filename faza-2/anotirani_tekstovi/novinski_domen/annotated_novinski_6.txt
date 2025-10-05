@@ -1,0 +1,219 @@
+#name = marija
+#domen = novinski
+#url = https://n1info.rs/svet/lokalne-italijanske-vlasti-sprecile-tranzit-oruzja-namenjenog-izraelu/
+# newpar id = 1
+# sent_id = 1.1
+# text = Lokalne vlasti italijanskog grada Ravene i regiona Emilija-Romanja usprotivile su se prevozu eksploziva namenjenog Izraelu i sprečile da on bude utovaren u brod u luci u tom gradu, prenose italijanski mediji.
+1	Lokalne	_	_	_	_	_	_	_	_	O
+2	vlasti	_	_	_	_	_	_	_	_	O
+3	italijanskog	_	_	_	_	_	_	_	_	O
+4	grada	_	_	_	_	_	_	_	_	O
+5	Ravene	_	_	_	_	_	_	_	_	B-LOC 
+6	i	_	_	_	_	_	_	_	_	O
+7	regiona	_	_	_	_	_	_	_	_	O
+8	Emilija-Romanja	_	_	_	_	_	_	_	_	B-LOC 
+9	usprotivile	_	_	_	_	_	_	_	_	O
+10	su	_	_	_	_	_	_	_	_	O
+11	se	_	_	_	_	_	_	_	_	O
+12	prevozu	_	_	_	_	_	_	_	_	O
+13	eksploziva	_	_	_	_	_	_	_	_	O
+14	namenjenog	_	_	_	_	_	_	_	_	O
+15	Izraelu	_	_	_	_	_	_	_	_	B-LOC 
+16	i	_	_	_	_	_	_	_	_	O
+17	sprečile	_	_	_	_	_	_	_	_	O
+18	da	_	_	_	_	_	_	_	_	O
+19	on	_	_	_	_	_	_	_	_	O
+20	bude	_	_	_	_	_	_	_	_	O
+21	utovaren	_	_	_	_	_	_	_	_	O
+22	u	_	_	_	_	_	_	_	_	O
+23	brod	_	_	_	_	_	_	_	_	O
+24	u	_	_	_	_	_	_	_	_	O
+25	luci	_	_	_	_	_	_	_	_	O
+26	u	_	_	_	_	_	_	_	_	O
+27	tom	_	_	_	_	_	_	_	_	O
+28	gradu	_	_	_	_	_	_	_	SpaceAfter=No	O
+29	,	,	PUNCT	Z	_	_	_	_	_	O
+30	prenose	_	_	_	_	_	_	_	_	O
+31	italijanski	_	_	_	_	_	_	_	_	O
+32	mediji	_	_	_	_	_	_	_	SpaceAfter=No	O
+33	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 2
+# sent_id = 2.1
+# text = Dva kontejnera sa eksplozivom, koja su stigla u Italiju preko Austrije, trebalo je da budu utovarena na brod u Raveni i isporuče svoj tovar u izraelskoj luci Haifi, prenosi Il Fato kvotidijano.
+1	Dva	_	_	_	_	_	_	_	_	O
+2	kontejnera	_	_	_	_	_	_	_	_	O
+3	sa	_	_	_	_	_	_	_	_	O
+4	eksplozivom	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	koja	_	_	_	_	_	_	_	_	O
+7	su	_	_	_	_	_	_	_	_	O
+8	stigla	_	_	_	_	_	_	_	_	O
+9	u	_	_	_	_	_	_	_	_	O
+10	Italiju	_	_	_	_	_	_	_	_	B-LOC 
+11	preko	_	_	_	_	_	_	_	_	O
+12	Austrije	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC 
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+14	trebalo	_	_	_	_	_	_	_	_	O
+15	je	_	_	_	_	_	_	_	_	O
+16	da	_	_	_	_	_	_	_	_	O
+17	budu	_	_	_	_	_	_	_	_	O
+18	utovarena	_	_	_	_	_	_	_	_	O
+19	na	_	_	_	_	_	_	_	_	O
+20	brod	_	_	_	_	_	_	_	_	O
+21	u	_	_	_	_	_	_	_	_	O
+22	Raveni	_	_	_	_	_	_	_	_	B-LOC 
+23	i	_	_	_	_	_	_	_	_	O
+24	isporuče	_	_	_	_	_	_	_	_	O
+25	svoj	_	_	_	_	_	_	_	_	O
+26	tovar	_	_	_	_	_	_	_	_	O
+27	u	_	_	_	_	_	_	_	_	O
+28	izraelskoj	_	_	_	_	_	_	_	_	O
+29	luci	_	_	_	_	_	_	_	_	O
+30	Haifi	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC 
+31	,	,	PUNCT	Z	_	_	_	_	_	O
+32	prenosi	_	_	_	_	_	_	_	_	O
+33	Il	_	_	_	_	_	_	_	_	B-ORG 
+34	Fato	_	_	_	_	_	_	_	_	I-ORG
+35	kvotidijano	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+36	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 3
+# sent_id = 3.1
+# text = Lučki radnici su, međutim, organizovali proteste kada su to saznali, a priključili su im se gradonačelnik Ravene Alesandro Baratoni i predsednik regiona Emilija-Romanja, Mikele De Paskale.
+1	Lučki	_	_	_	_	_	_	_	_	O
+2	radnici	_	_	_	_	_	_	_	_	O
+3	su	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	međutim	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	organizovali	_	_	_	_	_	_	_	_	O
+8	proteste	_	_	_	_	_	_	_	_	O
+9	kada	_	_	_	_	_	_	_	_	O
+10	su	_	_	_	_	_	_	_	_	O
+11	to	_	_	_	_	_	_	_	_	O
+12	saznali	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+14	a	_	_	_	_	_	_	_	_	O
+15	priključili	_	_	_	_	_	_	_	_	O
+16	su	_	_	_	_	_	_	_	_	O
+17	im	_	_	_	_	_	_	_	_	O
+18	se	_	_	_	_	_	_	_	_	O
+19	gradonačelnik	_	_	_	_	_	_	_	_	O
+20	Ravene	_	_	_	_	_	_	_	_	B-LOC 
+21	Alesandro	_	_	_	_	_	_	_	_	B-PER 
+22	Baratoni	_	_	_	_	_	_	_	_	I-PER
+23	i	_	_	_	_	_	_	_	_	O
+24	predsednik	_	_	_	_	_	_	_	_	O
+25	regiona	_	_	_	_	_	_	_	_	O
+26	Emilija-Romanja	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC 
+27	,	,	PUNCT	Z	_	_	_	_	_	O
+28	Mikele	_	_	_	_	_	_	_	_	B-PER
+29	De	_	_	_	_	_	_	_	_	I-PER
+30	Paskale	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+31	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 4
+# sent_id = 4.1
+# text = Zvaničnici su uputili pismo rukovodstvu kompanije Sapir koja je operator lučkog terminal u Raveni, zatraživši da se spreči tranzit oružja i municije, češke i mađarske proizvodnje, namenjene Izraelu.
+1	Zvaničnici	_	_	_	_	_	_	_	_	O
+2	su	_	_	_	_	_	_	_	_	O
+3	uputili	_	_	_	_	_	_	_	_	O
+4	pismo	_	_	_	_	_	_	_	_	O
+5	rukovodstvu	_	_	_	_	_	_	_	_	O
+6	kompanije	_	_	_	_	_	_	_	_	O
+7	Sapir	_	_	_	_	_	_	_	_	B-ORG
+8	koja	_	_	_	_	_	_	_	_	O
+9	je	_	_	_	_	_	_	_	_	O
+10	operator	_	_	_	_	_	_	_	_	O
+11	lučkog	_	_	_	_	_	_	_	_	O
+12	terminal	_	_	_	_	_	_	_	_	O
+13	u	_	_	_	_	_	_	_	_	O
+14	Raveni	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+15	,	,	PUNCT	Z	_	_	_	_	_	O
+16	zatraživši	_	_	_	_	_	_	_	_	O
+17	da	_	_	_	_	_	_	_	_	O
+18	se	_	_	_	_	_	_	_	_	O
+19	spreči	_	_	_	_	_	_	_	_	O
+20	tranzit	_	_	_	_	_	_	_	_	O
+21	oružja	_	_	_	_	_	_	_	_	O
+22	i	_	_	_	_	_	_	_	_	O
+23	municije	_	_	_	_	_	_	_	SpaceAfter=No	O
+24	,	,	PUNCT	Z	_	_	_	_	_	O
+25	češke	_	_	_	_	_	_	_	_	O
+26	i	_	_	_	_	_	_	_	_	O
+27	mađarske	_	_	_	_	_	_	_	_	O
+28	proizvodnje	_	_	_	_	_	_	_	SpaceAfter=No	O
+29	,	,	PUNCT	Z	_	_	_	_	_	O
+30	namenjene	_	_	_	_	_	_	_	_	O
+31	Izraelu	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC 
+32	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 5
+# sent_id = 5.1
+# text = Punu podršku lokalnim zvaničnicima uputila je Demokratska partija, koja je istakla da već duže vreme zahteva uvođenje totalnog embargo na oružje za i iz Izraela.
+1	Punu	_	_	_	_	_	_	_	_	O
+2	podršku	_	_	_	_	_	_	_	_	O
+3	lokalnim	_	_	_	_	_	_	_	_	O
+4	zvaničnicima	_	_	_	_	_	_	_	_	O
+5	uputila	_	_	_	_	_	_	_	_	O
+6	je	_	_	_	_	_	_	_	_	O
+7	Demokratska	_	_	_	_	_	_	_	_	B-ORG
+8	partija	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	koja	_	_	_	_	_	_	_	_	O
+11	je	_	_	_	_	_	_	_	_	O
+12	istakla	_	_	_	_	_	_	_	_	O
+13	da	_	_	_	_	_	_	_	_	O
+14	već	_	_	_	_	_	_	_	_	O
+15	duže	_	_	_	_	_	_	_	_	O
+16	vreme	_	_	_	_	_	_	_	_	O
+17	zahteva	_	_	_	_	_	_	_	_	O
+18	uvođenje	_	_	_	_	_	_	_	_	O
+19	totalnog	_	_	_	_	_	_	_	_	O
+20	embargo	_	_	_	_	_	_	_	_	O
+21	na	_	_	_	_	_	_	_	_	O
+22	oružje	_	_	_	_	_	_	_	_	O
+23	za	_	_	_	_	_	_	_	_	O
+24	i	_	_	_	_	_	_	_	_	O
+25	iz	_	_	_	_	_	_	_	_	O
+26	Izraela	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC 
+27	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 6
+# sent_id = 6.1
+# text = Senator pokreta Pet zvezda, Marko Kroati, takođe je osudio tranzit i izvoz oružja namenjenog izraelskoj vojsci, kritikujući zbog toga šefa italijanske diplomatije Antonija Tajanija, preneo je italijanski list.
+1	Senator	_	_	_	_	_	_	_	_	O
+2	pokreta	_	_	_	_	_	_	_	_	O
+3	Pet	_	_	_	_	_	_	_	_	B-ORG
+4	zvezda	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	Marko	_	_	_	_	_	_	_	_	B-PER 
+7	Kroati	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	takođe	_	_	_	_	_	_	_	_	O
+10	je	_	_	_	_	_	_	_	_	O
+11	osudio	_	_	_	_	_	_	_	_	O
+12	tranzit	_	_	_	_	_	_	_	_	O
+13	i	_	_	_	_	_	_	_	_	O
+14	izvoz	_	_	_	_	_	_	_	_	O
+15	oružja	_	_	_	_	_	_	_	_	O
+16	namenjenog	_	_	_	_	_	_	_	_	O
+17	izraelskoj	_	_	_	_	_	_	_	_	O
+18	vojsci	_	_	_	_	_	_	_	SpaceAfter=No	O
+19	,	,	PUNCT	Z	_	_	_	_	_	O
+20	kritikujući	_	_	_	_	_	_	_	_	O
+21	zbog	_	_	_	_	_	_	_	_	O
+22	toga	_	_	_	_	_	_	_	_	O
+23	šefa	_	_	_	_	_	_	_	_	O
+24	italijanske	_	_	_	_	_	_	_	_	O
+25	diplomatije	_	_	_	_	_	_	_	_	O
+26	Antonija	_	_	_	_	_	_	_	_	B-PER 
+27	Tajanija	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+28	,	,	PUNCT	Z	_	_	_	_	_	O
+29	preneo	_	_	_	_	_	_	_	_	O
+30	je	_	_	_	_	_	_	_	_	O
+31	italijanski	_	_	_	_	_	_	_	_	O
+32	list	_	_	_	_	_	_	_	SpaceAfter=No	O
+33	.	.	PUNCT	Z	_	_	_	_	_	O
+

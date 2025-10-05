@@ -1,0 +1,2330 @@
+#name = marija
+#domen = knjizevni
+#url = /*prazno*/
+# newpar id = 1
+# sent_id = 1.1
+# text = Pre dve godine sam se opet bio zapio - dešava mi se to povremeno - i, onako pijan,
+1	Pre	_	_	_	_	_	_	_	_	O
+2	dve	_	_	_	_	_	_	_	_	O
+3	godine	_	_	_	_	_	_	_	_	O
+4	sam	_	_	_	_	_	_	_	_	O
+5	se	_	_	_	_	_	_	_	_	O
+6	opet	_	_	_	_	_	_	_	_	O
+7	bio	_	_	_	_	_	_	_	_	O
+8	zapio	_	_	_	_	_	_	_	_	O
+9	-	-	PUNCT	Z	_	_	_	_	_	O
+10	dešava	_	_	_	_	_	_	_	_	O
+11	mi	_	_	_	_	_	_	_	_	O
+12	se	_	_	_	_	_	_	_	_	O
+13	to	_	_	_	_	_	_	_	_	O
+14	povremeno	_	_	_	_	_	_	_	_	O
+15	-	-	PUNCT	Z	_	_	_	_	_	O
+16	i	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	,	,	PUNCT	Z	_	_	_	_	_	O
+18	onako	_	_	_	_	_	_	_	_	O
+19	pijan	_	_	_	_	_	_	_	SpaceAfter=No	O
+20	,	,	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 2
+# sent_id = 2.1
+# text = samo sam seo za volan i odjurio pravo za Jugoslaviju.
+1	samo	_	_	_	_	_	_	_	_	O
+2	sam	_	_	_	_	_	_	_	_	O
+3	seo	_	_	_	_	_	_	_	_	O
+4	za	_	_	_	_	_	_	_	_	O
+5	volan	_	_	_	_	_	_	_	_	O
+6	i	_	_	_	_	_	_	_	_	O
+7	odjurio	_	_	_	_	_	_	_	_	O
+8	pravo	_	_	_	_	_	_	_	_	O
+9	za	_	_	_	_	_	_	_	_	O
+10	Jugoslaviju	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+11	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.2
+# text = Osam dana nisam dolazio na
+1	Osam	_	_	_	_	_	_	_	_	O
+2	dana	_	_	_	_	_	_	_	_	O
+3	nisam	_	_	_	_	_	_	_	_	O
+4	dolazio	_	_	_	_	_	_	_	_	O
+5	na	_	_	_	_	_	_	_	_	O
+
+# newpar id = 3
+# sent_id = 3.1
+# text = posao.
+1	posao	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 3.2
+# text = I mirno sam primio otkaz.
+1	I	_	_	_	_	_	_	_	_	O
+2	mirno	_	_	_	_	_	_	_	_	O
+3	sam	_	_	_	_	_	_	_	_	O
+4	primio	_	_	_	_	_	_	_	_	O
+5	otkaz	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 3.3
+# text = Kriv sam, šta imam da se bunim?
+1	Kriv	_	_	_	_	_	_	_	_	O
+2	sam	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	šta	_	_	_	_	_	_	_	_	O
+5	imam	_	_	_	_	_	_	_	_	O
+6	da	_	_	_	_	_	_	_	_	O
+7	se	_	_	_	_	_	_	_	_	O
+8	bunim	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	?	?	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 3.4
+# text = Ali moj sindikat
+1	Ali	_	_	_	_	_	_	_	_	O
+2	moj	_	_	_	_	_	_	_	_	O
+3	sindikat	_	_	_	_	_	_	_	_	B-ORG
+
+
+# newpar id = 4
+# sent_id = 4.1
+# text = se pobunio; a ovde je sindikat veoma jak.
+1	se	_	_	_	_	_	_	_	_	O
+2	pobunio	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	;	;	PUNCT	Z	_	_	_	_	_	O
+4	a	_	_	_	_	_	_	_	_	O
+5	ovde	_	_	_	_	_	_	_	_	O
+6	je	_	_	_	_	_	_	_	_	O
+7	sindikat	_	_	_	_	_	_	_	_	B-ORG
+8	veoma	_	_	_	_	_	_	_	_	O
+9	jak	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 4.2
+# text = "On", kažu, "ima pravo da vidi svoju
+1	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+2	On	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	kažu	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+8	ima	_	_	_	_	_	_	_	_	O
+9	pravo	_	_	_	_	_	_	_	_	O
+10	da	_	_	_	_	_	_	_	_	O
+11	vidi	_	_	_	_	_	_	_	_	O
+12	svoju	_	_	_	_	_	_	_	_	O
+
+# newpar id = 5
+# sent_id = 5.1
+# text = domovinu.
+1	domovinu	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 5.2
+# text = On ima pravo da vidi svoje more.
+1	On	_	_	_	_	_	_	_	_	O
+2	ima	_	_	_	_	_	_	_	_	O
+3	pravo	_	_	_	_	_	_	_	_	O
+4	da	_	_	_	_	_	_	_	_	O
+5	vidi	_	_	_	_	_	_	_	_	O
+6	svoje	_	_	_	_	_	_	_	_	O
+7	more	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 5.3
+# text = Kakva smo mi zemlja ako našem
+1	Kakva	_	_	_	_	_	_	_	_	O
+2	smo	_	_	_	_	_	_	_	_	O
+3	mi	_	_	_	_	_	_	_	_	O
+4	zemlja	_	_	_	_	_	_	_	_	O
+5	ako	_	_	_	_	_	_	_	_	O
+6	našem	_	_	_	_	_	_	_	_	O
+
+# newpar id = 6
+# sent_id = 6.1
+# text = najboljem radniku ne možemo da dozvolimo da vidi svoje more?
+1	najboljem	_	_	_	_	_	_	_	_	O
+2	radniku	_	_	_	_	_	_	_	_	O
+3	ne	_	_	_	_	_	_	_	_	O
+4	možemo	_	_	_	_	_	_	_	_	O
+5	da	_	_	_	_	_	_	_	_	O
+6	dozvolimo	_	_	_	_	_	_	_	_	O
+7	da	_	_	_	_	_	_	_	_	O
+8	vidi	_	_	_	_	_	_	_	_	O
+9	svoje	_	_	_	_	_	_	_	_	O
+10	more	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	?	?	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+
+# sent_id = 6.2
+# text = " A ja, kažem, nisam
+1	"	"	PUNCT	Z	_	_	_	_	_	O
+2	A	_	_	_	_	_	_	_	_	O
+3	ja	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	kažem	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	nisam	_	_	_	_	_	_	_	_	O
+
+# newpar id = 7
+# sent_id = 7.1
+# text = imao pravo, a nisam imao ni volje nikoga da molim, iako mi se posao baš nije
+1	imao	_	_	_	_	_	_	_	_	O
+2	pravo	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	a	_	_	_	_	_	_	_	_	O
+5	nisam	_	_	_	_	_	_	_	_	O
+6	imao	_	_	_	_	_	_	_	_	O
+7	ni	_	_	_	_	_	_	_	_	O
+8	volje	_	_	_	_	_	_	_	_	O
+9	nikoga	_	_	_	_	_	_	_	_	O
+10	da	_	_	_	_	_	_	_	_	O
+11	molim	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	iako	_	_	_	_	_	_	_	_	O
+14	mi	_	_	_	_	_	_	_	_	O
+15	se	_	_	_	_	_	_	_	_	O
+16	posao	_	_	_	_	_	_	_	_	O
+17	baš	_	_	_	_	_	_	_	_	O
+18	nije	_	_	_	_	_	_	_	_	O
+
+# newpar id = 8
+# sent_id = 8.1
+# text = menjao: svih osam godina sam u istoj fabrici.
+1	menjao	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	:	:	PUNCT	Z	_	_	_	_	_	O
+3	svih	_	_	_	_	_	_	_	_	O
+4	osam	_	_	_	_	_	_	_	_	O
+5	godina	_	_	_	_	_	_	_	_	O
+6	sam	_	_	_	_	_	_	_	_	O
+7	u	_	_	_	_	_	_	_	_	O
+8	istoj	_	_	_	_	_	_	_	_	O
+9	fabrici	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 8.2
+# text = I lepo im, ljudski kažem: "Šta se, bre,
+1	I	_	_	_	_	_	_	_	_	O
+2	lepo	_	_	_	_	_	_	_	_	O
+3	im	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	ljudski	_	_	_	_	_	_	_	_	O
+6	kažem	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	:	:	PUNCT	Z	_	_	_	_	_	O
+8	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+9	Šta	_	_	_	_	_	_	_	_	O
+10	se	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	bre	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 9
+# sent_id = 9.1
+# text = zezate?
+1	zezate	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	?	?	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 9.2
+# text = Kakvo more, kakvi bakrači!
+1	Kakvo	_	_	_	_	_	_	_	_	O
+2	more	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	kakvi	_	_	_	_	_	_	_	_	O
+5	bakrači	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	!	!	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 9.3
+# text = Niti sam na more išao niti koji đavo.
+1	Niti	_	_	_	_	_	_	_	_	O
+2	sam	_	_	_	_	_	_	_	_	O
+3	na	_	_	_	_	_	_	_	_	O
+4	more	_	_	_	_	_	_	_	_	O
+5	išao	_	_	_	_	_	_	_	_	O
+6	niti	_	_	_	_	_	_	_	_	O
+7	koji	_	_	_	_	_	_	_	_	O
+8	đavo	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 9.4
+# text = Bio sam se
+1	Bio	_	_	_	_	_	_	_	_	O
+2	sam	_	_	_	_	_	_	_	_	O
+3	se	_	_	_	_	_	_	_	_	O
+
+# newpar id = 10
+# sent_id = 10.1
+# text = naždrekao.
+1	naždrekao	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 10.2
+# text = Zato bi me i u mojoj Jugovini najurili.
+1	Zato	_	_	_	_	_	_	_	_	O
+2	bi	_	_	_	_	_	_	_	_	O
+3	me	_	_	_	_	_	_	_	_	O
+4	i	_	_	_	_	_	_	_	_	O
+5	u	_	_	_	_	_	_	_	_	O
+6	mojoj	_	_	_	_	_	_	_	_	O
+7	Jugovini	_	_	_	_	_	_	_	_	B-LOC
+8	najurili	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	.	.	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+
+# sent_id = 10.3
+# text = " "A ne", kažu oni.
+1	"	"	PUNCT	Z	_	_	_	_	_	O
+2	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+3	A	_	_	_	_	_	_	_	_	O
+4	ne	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	kažu	_	_	_	_	_	_	_	_	O
+8	oni	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 10.4
+# text = "Svoje doušnike
+1	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+2	Svoje	_	_	_	_	_	_	_	_	O
+3	doušnike	_	_	_	_	_	_	_	_	O
+
+# newpar id = 11
+# sent_id = 11.1
+# text = zato ne otpušaju.
+1	zato	_	_	_	_	_	_	_	_	O
+2	ne	_	_	_	_	_	_	_	_	O
+3	otpušaju	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 11.2
+# text = Otpustili su te zato što si sindikalista.
+1	Otpustili	_	_	_	_	_	_	_	_	O
+2	su	_	_	_	_	_	_	_	_	O
+3	te	_	_	_	_	_	_	_	_	O
+4	zato	_	_	_	_	_	_	_	_	O
+5	što	_	_	_	_	_	_	_	_	O
+6	si	_	_	_	_	_	_	_	_	O
+7	sindikalista	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 11.3
+# text = A uz to ti si još bio i bolestan!
+1	A	_	_	_	_	_	_	_	_	O
+2	uz	_	_	_	_	_	_	_	_	O
+3	to	_	_	_	_	_	_	_	_	O
+4	ti	_	_	_	_	_	_	_	_	O
+5	si	_	_	_	_	_	_	_	_	O
+6	još	_	_	_	_	_	_	_	_	O
+7	bio	_	_	_	_	_	_	_	_	O
+8	i	_	_	_	_	_	_	_	_	O
+9	bolestan	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	!	!	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 12
+# sent_id = 12.1
+# text = Mi to možemo i da dokažemo!
+1	Mi	_	_	_	_	_	_	_	_	O
+2	to	_	_	_	_	_	_	_	_	O
+3	možemo	_	_	_	_	_	_	_	_	O
+4	i	_	_	_	_	_	_	_	_	O
+5	da	_	_	_	_	_	_	_	_	O
+6	dokažemo	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	!	!	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 12.2
+# text = Ne smeju zbog toga da te otpuste.
+1	Ne	_	_	_	_	_	_	_	_	O
+2	smeju	_	_	_	_	_	_	_	_	O
+3	zbog	_	_	_	_	_	_	_	_	O
+4	toga	_	_	_	_	_	_	_	_	O
+5	da	_	_	_	_	_	_	_	_	O
+6	te	_	_	_	_	_	_	_	_	O
+7	otpuste	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	.	.	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+
+# sent_id = 12.3
+# text = "
+1	"	"	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 13
+# sent_id = 13.1
+# text = Glavu dajem ako je iko od njih išta od toga shvatio.
+1	Glavu	_	_	_	_	_	_	_	_	O
+2	dajem	_	_	_	_	_	_	_	_	O
+3	ako	_	_	_	_	_	_	_	_	O
+4	je	_	_	_	_	_	_	_	_	O
+5	iko	_	_	_	_	_	_	_	_	O
+6	od	_	_	_	_	_	_	_	_	O
+7	njih	_	_	_	_	_	_	_	_	O
+8	išta	_	_	_	_	_	_	_	_	O
+9	od	_	_	_	_	_	_	_	_	O
+10	toga	_	_	_	_	_	_	_	_	O
+11	shvatio	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 13.2
+# text = Oni prosto misle da smo svi mi
+1	Oni	_	_	_	_	_	_	_	_	O
+2	prosto	_	_	_	_	_	_	_	_	O
+3	misle	_	_	_	_	_	_	_	_	O
+4	da	_	_	_	_	_	_	_	_	O
+5	smo	_	_	_	_	_	_	_	_	O
+6	svi	_	_	_	_	_	_	_	_	O
+7	mi	_	_	_	_	_	_	_	_	O
+
+# newpar id = 14
+# sent_id = 14.1
+# text = udareni, keve mi!
+1	udareni	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	keve	_	_	_	_	_	_	_	_	O
+4	mi	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	!	!	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 14.2
+# text = I kad prođu ovuda i čuju kako urličemo naše pesme i ovakve suze
+1	I	_	_	_	_	_	_	_	_	O
+2	kad	_	_	_	_	_	_	_	_	O
+3	prođu	_	_	_	_	_	_	_	_	O
+4	ovuda	_	_	_	_	_	_	_	_	O
+5	i	_	_	_	_	_	_	_	_	O
+6	čuju	_	_	_	_	_	_	_	_	O
+7	kako	_	_	_	_	_	_	_	_	O
+8	urličemo	_	_	_	_	_	_	_	_	O
+9	naše	_	_	_	_	_	_	_	_	O
+10	pesme	_	_	_	_	_	_	_	_	O
+11	i	_	_	_	_	_	_	_	_	O
+12	ovakve	_	_	_	_	_	_	_	_	O
+13	suze	_	_	_	_	_	_	_	_	O
+
+# newpar id = 15
+# sent_id = 15.1
+# text = valjamo, oni misle - nismo čitavi.
+1	valjamo	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	oni	_	_	_	_	_	_	_	_	O
+4	misle	_	_	_	_	_	_	_	_	O
+5	-	-	PUNCT	Z	_	_	_	_	_	O
+6	nismo	_	_	_	_	_	_	_	_	O
+7	čitavi	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 15.2
+# text = 'Leba mi, veze nemaju.
+1	'	'	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+2	Leba	_	_	_	_	_	_	_	_	O
+3	mi	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	veze	_	_	_	_	_	_	_	_	O
+6	nemaju	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 15.3
+# text = Ali, ovako rezonuju: ako si
+1	Ali	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	ovako	_	_	_	_	_	_	_	_	O
+4	rezonuju	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	:	:	PUNCT	Z	_	_	_	_	_	O
+6	ako	_	_	_	_	_	_	_	_	O
+7	si	_	_	_	_	_	_	_	_	O
+
+# newpar id = 16
+# sent_id = 16.1
+# text = ti lud, slobodno i to možeš da budeš, i imaš pravo na to, samo nemoj da napraviš neki
+1	ti	_	_	_	_	_	_	_	_	O
+2	lud	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	slobodno	_	_	_	_	_	_	_	_	O
+5	i	_	_	_	_	_	_	_	_	O
+6	to	_	_	_	_	_	_	_	_	O
+7	možeš	_	_	_	_	_	_	_	_	O
+8	da	_	_	_	_	_	_	_	_	O
+9	budeš	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	i	_	_	_	_	_	_	_	_	O
+12	imaš	_	_	_	_	_	_	_	_	O
+13	pravo	_	_	_	_	_	_	_	_	O
+14	na	_	_	_	_	_	_	_	_	O
+15	to	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	,	,	PUNCT	Z	_	_	_	_	_	O
+17	samo	_	_	_	_	_	_	_	_	O
+18	nemoj	_	_	_	_	_	_	_	_	O
+19	da	_	_	_	_	_	_	_	_	O
+20	napraviš	_	_	_	_	_	_	_	_	O
+21	neki	_	_	_	_	_	_	_	_	O
+
+# newpar id = 17
+# sent_id = 17.1
+# text = izgred.
+1	izgred	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 17.2
+# text = A za mene su ovako mislili: taj sigurno jeste udaren, ali kad to njemu dođe, on
+1	A	_	_	_	_	_	_	_	_	O
+2	za	_	_	_	_	_	_	_	_	O
+3	mene	_	_	_	_	_	_	_	_	O
+4	su	_	_	_	_	_	_	_	_	O
+5	ovako	_	_	_	_	_	_	_	_	O
+6	mislili	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	:	:	PUNCT	Z	_	_	_	_	_	O
+8	taj	_	_	_	_	_	_	_	_	O
+9	sigurno	_	_	_	_	_	_	_	_	O
+10	jeste	_	_	_	_	_	_	_	_	O
+11	udaren	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	ali	_	_	_	_	_	_	_	_	O
+14	kad	_	_	_	_	_	_	_	_	O
+15	to	_	_	_	_	_	_	_	_	O
+16	njemu	_	_	_	_	_	_	_	_	O
+17	dođe	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	,	,	PUNCT	Z	_	_	_	_	_	O
+19	on	_	_	_	_	_	_	_	_	O
+
+# newpar id = 18
+# sent_id = 18.1
+# text = predoseti, pa sedne u kola i ode u njegovu ludu Jugoslaviju.
+1	predoseti	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	pa	_	_	_	_	_	_	_	_	O
+4	sedne	_	_	_	_	_	_	_	_	O
+5	u	_	_	_	_	_	_	_	_	O
+6	kola	_	_	_	_	_	_	_	_	O
+7	i	_	_	_	_	_	_	_	_	O
+8	ode	_	_	_	_	_	_	_	_	O
+9	u	_	_	_	_	_	_	_	_	O
+10	njegovu	_	_	_	_	_	_	_	_	O
+11	ludu	_	_	_	_	_	_	_	_	O
+12	Jugoslaviju	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+13	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 18.2
+# text = Je li napravio neki
+1	Je	_	_	_	_	_	_	_	_	O
+2	li	_	_	_	_	_	_	_	_	O
+3	napravio	_	_	_	_	_	_	_	_	O
+4	neki	_	_	_	_	_	_	_	_	O
+
+# newpar id = 19
+# sent_id = 19.1
+# text = saobračajni prekršaj ?
+1	saobračajni	_	_	_	_	_	_	_	_	O
+2	prekršaj	_	_	_	_	_	_	_	_	O
+3	?	?	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 19.2
+# text = Nije.
+1	Nije	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 19.3
+# text = Je li učinio nešto drugo?
+1	Je	_	_	_	_	_	_	_	_	O
+2	li	_	_	_	_	_	_	_	_	O
+3	učinio	_	_	_	_	_	_	_	_	O
+4	nešto	_	_	_	_	_	_	_	_	O
+5	drugo	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	?	?	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 19.4
+# text = Nije.
+1	Nije	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 19.5
+# text = E, pa onda, u redu!
+1	E	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	pa	_	_	_	_	_	_	_	_	O
+4	onda	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	u	_	_	_	_	_	_	_	_	O
+7	redu	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	!	!	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 19.6
+# text = Zar za
+1	Zar	_	_	_	_	_	_	_	_	O
+2	za	_	_	_	_	_	_	_	_	O
+
+# newpar id = 20
+# sent_id = 20.1
+# text = nas nije još i bolje što je otišao?
+1	nas	_	_	_	_	_	_	_	_	O
+2	nije	_	_	_	_	_	_	_	_	O
+3	još	_	_	_	_	_	_	_	_	O
+4	i	_	_	_	_	_	_	_	_	O
+5	bolje	_	_	_	_	_	_	_	_	O
+6	što	_	_	_	_	_	_	_	_	O
+7	je	_	_	_	_	_	_	_	_	O
+8	otišao	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	?	?	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 21
+# sent_id = 21.1
+# text = I prilična se gužva oko toga napravila.
+1	I	_	_	_	_	_	_	_	_	O
+2	prilična	_	_	_	_	_	_	_	_	O
+3	se	_	_	_	_	_	_	_	_	O
+4	gužva	_	_	_	_	_	_	_	_	O
+5	oko	_	_	_	_	_	_	_	_	O
+6	toga	_	_	_	_	_	_	_	_	O
+7	napravila	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 21.2
+# text = Čak su i neke sindikalne novine počele da me
+1	Čak	_	_	_	_	_	_	_	_	O
+2	su	_	_	_	_	_	_	_	_	O
+3	i	_	_	_	_	_	_	_	_	O
+4	neke	_	_	_	_	_	_	_	_	O
+5	sindikalne	_	_	_	_	_	_	_	_	O
+6	novine	_	_	_	_	_	_	_	_	O
+7	počele	_	_	_	_	_	_	_	_	O
+8	da	_	_	_	_	_	_	_	_	O
+9	me	_	_	_	_	_	_	_	_	O
+
+# newpar id = 22
+# sent_id = 22.1
+# text = brane - izlazi ovde jedan takav listić: on je, kažu, bio bolestan.
+1	brane	_	_	_	_	_	_	_	_	O
+2	-	-	PUNCT	Z	_	_	_	_	_	O
+3	izlazi	_	_	_	_	_	_	_	_	O
+4	ovde	_	_	_	_	_	_	_	_	O
+5	jedan	_	_	_	_	_	_	_	_	O
+6	takav	_	_	_	_	_	_	_	_	O
+7	listić	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	:	:	PUNCT	Z	_	_	_	_	_	O
+9	on	_	_	_	_	_	_	_	_	O
+10	je	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	kažu	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+14	bio	_	_	_	_	_	_	_	_	O
+15	bolestan	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 22.2
+# text = Došao neki dasa iz tih
+1	Došao	_	_	_	_	_	_	_	_	O
+2	neki	_	_	_	_	_	_	_	_	O
+3	dasa	_	_	_	_	_	_	_	_	O
+4	iz	_	_	_	_	_	_	_	_	O
+5	tih	_	_	_	_	_	_	_	_	O
+
+# newpar id = 23
+# sent_id = 23.1
+# text = novina.
+1	novina	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 23.2
+# text = "Ma, jok", kažem mu ja, "niti sam bio bolestan niti je uopšte potrebno da se
+1	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+2	Ma	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	jok	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	kažem	_	_	_	_	_	_	_	_	O
+8	mu	_	_	_	_	_	_	_	_	O
+9	ja	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+12	niti	_	_	_	_	_	_	_	_	O
+13	sam	_	_	_	_	_	_	_	_	O
+14	bio	_	_	_	_	_	_	_	_	O
+15	bolestan	_	_	_	_	_	_	_	_	O
+16	niti	_	_	_	_	_	_	_	_	O
+17	je	_	_	_	_	_	_	_	_	O
+18	uopšte	_	_	_	_	_	_	_	_	O
+19	potrebno	_	_	_	_	_	_	_	_	O
+20	da	_	_	_	_	_	_	_	_	O
+21	se	_	_	_	_	_	_	_	_	O
+
+# newpar id = 24
+# sent_id = 24.1
+# text = oko toga pravi neka gužva.
+1	oko	_	_	_	_	_	_	_	_	O
+2	toga	_	_	_	_	_	_	_	_	O
+3	pravi	_	_	_	_	_	_	_	_	O
+4	neka	_	_	_	_	_	_	_	_	O
+5	gužva	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 24.2
+# text = Naći ću drugi posao.
+1	Naći	_	_	_	_	_	_	_	_	O
+2	ću	_	_	_	_	_	_	_	_	O
+3	drugi	_	_	_	_	_	_	_	_	O
+4	posao	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	.	.	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+
+# sent_id = 24.3
+# text = " I stvarno sam to odmah mogao.
+1	"	"	PUNCT	Z	_	_	_	_	_	O
+2	I	_	_	_	_	_	_	_	_	O
+3	stvarno	_	_	_	_	_	_	_	_	O
+4	sam	_	_	_	_	_	_	_	_	O
+5	to	_	_	_	_	_	_	_	_	O
+6	odmah	_	_	_	_	_	_	_	_	O
+7	mogao	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 24.4
+# text = Ali
+1	Ali	_	_	_	_	_	_	_	_	O
+
+# newpar id = 25
+# sent_id = 25.1
+# text = onda mi moja Inge kaže: "Kažeš da si kriv.
+1	onda	_	_	_	_	_	_	_	_	O
+2	mi	_	_	_	_	_	_	_	_	O
+3	moja	_	_	_	_	_	_	_	_	O
+4	Inge	_	_	_	_	_	_	_	_	B-PER
+5	kaže	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	:	:	PUNCT	Z	_	_	_	_	_	O
+7	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+8	Kažeš	_	_	_	_	_	_	_	_	O
+9	da	_	_	_	_	_	_	_	_	O
+10	si	_	_	_	_	_	_	_	_	O
+11	kriv	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 25.2
+# text = A ja tebi opet kažem da mi to ne možemo
+1	A	_	_	_	_	_	_	_	_	O
+2	ja	_	_	_	_	_	_	_	_	O
+3	tebi	_	_	_	_	_	_	_	_	O
+4	opet	_	_	_	_	_	_	_	_	O
+5	kažem	_	_	_	_	_	_	_	_	O
+6	da	_	_	_	_	_	_	_	_	O
+7	mi	_	_	_	_	_	_	_	_	O
+8	to	_	_	_	_	_	_	_	_	O
+9	ne	_	_	_	_	_	_	_	_	O
+10	možemo	_	_	_	_	_	_	_	_	O
+
+# newpar id = 26
+# sent_id = 26.1
+# text = da razumemo.
+1	da	_	_	_	_	_	_	_	_	O
+2	razumemo	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 26.2
+# text = Kako možeš da budeš kriv?
+1	Kako	_	_	_	_	_	_	_	_	O
+2	možeš	_	_	_	_	_	_	_	_	O
+3	da	_	_	_	_	_	_	_	_	O
+4	budeš	_	_	_	_	_	_	_	_	O
+5	kriv	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	?	?	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 26.3
+# text = Ne možeš da budeš kriv.
+1	Ne	_	_	_	_	_	_	_	_	O
+2	možeš	_	_	_	_	_	_	_	_	O
+3	da	_	_	_	_	_	_	_	_	O
+4	budeš	_	_	_	_	_	_	_	_	O
+5	kriv	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 26.4
+# text = Bio si bolestan!
+1	Bio	_	_	_	_	_	_	_	_	O
+2	si	_	_	_	_	_	_	_	_	O
+3	bolestan	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	!	!	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 27
+# sent_id = 27.1
+# text = Jer kad neko usred radnog vremena iznenada zaustavi mašinu, baci kombinezon i ode
+1	Jer	_	_	_	_	_	_	_	_	O
+2	kad	_	_	_	_	_	_	_	_	O
+3	neko	_	_	_	_	_	_	_	_	O
+4	usred	_	_	_	_	_	_	_	_	O
+5	radnog	_	_	_	_	_	_	_	_	O
+6	vremena	_	_	_	_	_	_	_	_	O
+7	iznenada	_	_	_	_	_	_	_	_	O
+8	zaustavi	_	_	_	_	_	_	_	_	O
+9	mašinu	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	baci	_	_	_	_	_	_	_	_	O
+12	kombinezon	_	_	_	_	_	_	_	_	O
+13	i	_	_	_	_	_	_	_	_	O
+14	ode	_	_	_	_	_	_	_	_	O
+
+# newpar id = 28
+# sent_id = 28.1
+# text = u fabrički klub i tamo za tri sata popije dvadeset flaša piva, i poslovođu, koji dođe da
+1	u	_	_	_	_	_	_	_	_	O
+2	fabrički	_	_	_	_	_	_	_	_	O
+3	klub	_	_	_	_	_	_	_	_	O
+4	i	_	_	_	_	_	_	_	_	O
+5	tamo	_	_	_	_	_	_	_	_	O
+6	za	_	_	_	_	_	_	_	_	O
+7	tri	_	_	_	_	_	_	_	_	O
+8	sata	_	_	_	_	_	_	_	_	O
+9	popije	_	_	_	_	_	_	_	_	O
+10	dvadeset	_	_	_	_	_	_	_	_	O
+11	flaša	_	_	_	_	_	_	_	_	O
+12	piva	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+14	i	_	_	_	_	_	_	_	_	O
+15	poslovođu	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	,	,	PUNCT	Z	_	_	_	_	_	O
+17	koji	_	_	_	_	_	_	_	_	O
+18	dođe	_	_	_	_	_	_	_	_	O
+19	da	_	_	_	_	_	_	_	_	O
+
+# newpar id = 29
+# sent_id = 29.1
+# text = ga pozove da se vrati, otera u materinu i gađa praznom flašom, a onda, onako u
+1	ga	_	_	_	_	_	_	_	_	O
+2	pozove	_	_	_	_	_	_	_	_	O
+3	da	_	_	_	_	_	_	_	_	O
+4	se	_	_	_	_	_	_	_	_	O
+5	vrati	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	otera	_	_	_	_	_	_	_	_	O
+8	u	_	_	_	_	_	_	_	_	O
+9	materinu	_	_	_	_	_	_	_	_	O
+10	i	_	_	_	_	_	_	_	_	O
+11	gađa	_	_	_	_	_	_	_	_	O
+12	praznom	_	_	_	_	_	_	_	_	O
+13	flašom	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	,	,	PUNCT	Z	_	_	_	_	_	O
+15	a	_	_	_	_	_	_	_	_	O
+16	onda	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	,	,	PUNCT	Z	_	_	_	_	_	O
+18	onako	_	_	_	_	_	_	_	_	O
+19	u	_	_	_	_	_	_	_	_	O
+
+# newpar id = 30
+# sent_id = 30.1
+# text = košulji po hladnoći, sedne u kola i nekud odjuri, tako da mu žena i dete pet dana ne
+1	košulji	_	_	_	_	_	_	_	_	O
+2	po	_	_	_	_	_	_	_	_	O
+3	hladnoći	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	sedne	_	_	_	_	_	_	_	_	O
+6	u	_	_	_	_	_	_	_	_	O
+7	kola	_	_	_	_	_	_	_	_	O
+8	i	_	_	_	_	_	_	_	_	O
+9	nekud	_	_	_	_	_	_	_	_	O
+10	odjuri	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	tako	_	_	_	_	_	_	_	_	O
+13	da	_	_	_	_	_	_	_	_	O
+14	mu	_	_	_	_	_	_	_	_	O
+15	žena	_	_	_	_	_	_	_	_	O
+16	i	_	_	_	_	_	_	_	_	O
+17	dete	_	_	_	_	_	_	_	_	O
+18	pet	_	_	_	_	_	_	_	_	O
+19	dana	_	_	_	_	_	_	_	_	O
+20	ne	_	_	_	_	_	_	_	_	O
+
+# newpar id = 31
+# sent_id = 31.1
+# text = znaju gde je, i tek se petog dana, ko zna koliko daleko odatle, negde u Austriji osvesti
+1	znaju	_	_	_	_	_	_	_	_	O
+2	gde	_	_	_	_	_	_	_	_	O
+3	je	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	i	_	_	_	_	_	_	_	_	O
+6	tek	_	_	_	_	_	_	_	_	O
+7	se	_	_	_	_	_	_	_	_	O
+8	petog	_	_	_	_	_	_	_	_	O
+9	dana	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	ko	_	_	_	_	_	_	_	_	O
+12	zna	_	_	_	_	_	_	_	_	O
+13	koliko	_	_	_	_	_	_	_	_	O
+14	daleko	_	_	_	_	_	_	_	_	O
+15	odatle	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	,	,	PUNCT	Z	_	_	_	_	_	O
+17	negde	_	_	_	_	_	_	_	_	O
+18	u	_	_	_	_	_	_	_	_	O
+19	Austriji	_	_	_	_	_	_	_	_	B-LOC
+20	osvesti	_	_	_	_	_	_	_	_	O
+
+# newpar id = 32
+# sent_id = 32.1
+# text = i javi telegramom, i zatim se mirno vrati kao da se ništa nije ni desilo, onda to stvarno
+1	i	_	_	_	_	_	_	_	_	O
+2	javi	_	_	_	_	_	_	_	_	O
+3	telegramom	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	i	_	_	_	_	_	_	_	_	O
+6	zatim	_	_	_	_	_	_	_	_	O
+7	se	_	_	_	_	_	_	_	_	O
+8	mirno	_	_	_	_	_	_	_	_	O
+9	vrati	_	_	_	_	_	_	_	_	O
+10	kao	_	_	_	_	_	_	_	_	O
+11	da	_	_	_	_	_	_	_	_	O
+12	se	_	_	_	_	_	_	_	_	O
+13	ništa	_	_	_	_	_	_	_	_	O
+14	nije	_	_	_	_	_	_	_	_	O
+15	ni	_	_	_	_	_	_	_	_	O
+16	desilo	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	,	,	PUNCT	Z	_	_	_	_	_	O
+18	onda	_	_	_	_	_	_	_	_	O
+19	to	_	_	_	_	_	_	_	_	O
+20	stvarno	_	_	_	_	_	_	_	_	O
+
+# newpar id = 33
+# sent_id = 33.1
+# text = niko živi ovde ne može da shvati.
+1	niko	_	_	_	_	_	_	_	_	O
+2	živi	_	_	_	_	_	_	_	_	O
+3	ovde	_	_	_	_	_	_	_	_	O
+4	ne	_	_	_	_	_	_	_	_	O
+5	može	_	_	_	_	_	_	_	_	O
+6	da	_	_	_	_	_	_	_	_	O
+7	shvati	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 33.2
+# text = Ko to ovde radi?
+1	Ko	_	_	_	_	_	_	_	_	O
+2	to	_	_	_	_	_	_	_	_	O
+3	ovde	_	_	_	_	_	_	_	_	O
+4	radi	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	?	?	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 33.3
+# text = Ko je to ovde ikad uradio?
+1	Ko	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	to	_	_	_	_	_	_	_	_	O
+4	ovde	_	_	_	_	_	_	_	_	O
+5	ikad	_	_	_	_	_	_	_	_	O
+6	uradio	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	?	?	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 33.4
+# text = I baš
+1	I	_	_	_	_	_	_	_	_	O
+2	baš	_	_	_	_	_	_	_	_	O
+
+# newpar id = 34
+# sent_id = 34.1
+# text = zato što ne možemo da razumemo, mi moramo da mislimo da si bio bolestan.
+1	zato	_	_	_	_	_	_	_	_	O
+2	što	_	_	_	_	_	_	_	_	O
+3	ne	_	_	_	_	_	_	_	_	O
+4	možemo	_	_	_	_	_	_	_	_	O
+5	da	_	_	_	_	_	_	_	_	O
+6	razumemo	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	mi	_	_	_	_	_	_	_	_	O
+9	moramo	_	_	_	_	_	_	_	_	O
+10	da	_	_	_	_	_	_	_	_	O
+11	mislimo	_	_	_	_	_	_	_	_	O
+12	da	_	_	_	_	_	_	_	_	O
+13	si	_	_	_	_	_	_	_	_	O
+14	bio	_	_	_	_	_	_	_	_	O
+15	bolestan	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 35
+# sent_id = 35.1
+# text = To je - kao nekakva menstruacija.
+1	To	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	-	-	PUNCT	Z	_	_	_	_	_	O
+4	kao	_	_	_	_	_	_	_	_	O
+5	nekakva	_	_	_	_	_	_	_	_	O
+6	menstruacija	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 35.2
+# text = Kod vas ih, izgleda, imaju i muškarci.
+1	Kod	_	_	_	_	_	_	_	_	O
+2	vas	_	_	_	_	_	_	_	_	O
+3	ih	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	izgleda	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	imaju	_	_	_	_	_	_	_	_	O
+8	i	_	_	_	_	_	_	_	_	O
+9	muškarci	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 35.3
+# text = I kad ih već imaju,
+1	I	_	_	_	_	_	_	_	_	O
+2	kad	_	_	_	_	_	_	_	_	O
+3	ih	_	_	_	_	_	_	_	_	O
+4	već	_	_	_	_	_	_	_	_	O
+5	imaju	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 36
+# sent_id = 36.1
+# text = imaju i pravo na njih.
+1	imaju	_	_	_	_	_	_	_	_	O
+2	i	_	_	_	_	_	_	_	_	O
+3	pravo	_	_	_	_	_	_	_	_	O
+4	na	_	_	_	_	_	_	_	_	O
+5	njih	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 36.2
+# text = Zato, pusti ti njih neka oni to samo teraju, nemoj ih zadržavati.
+1	Zato	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	pusti	_	_	_	_	_	_	_	_	O
+4	ti	_	_	_	_	_	_	_	_	O
+5	njih	_	_	_	_	_	_	_	_	O
+6	neka	_	_	_	_	_	_	_	_	O
+7	oni	_	_	_	_	_	_	_	_	O
+8	to	_	_	_	_	_	_	_	_	O
+9	samo	_	_	_	_	_	_	_	_	O
+10	teraju	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	nemoj	_	_	_	_	_	_	_	_	O
+13	ih	_	_	_	_	_	_	_	_	O
+14	zadržavati	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	.	.	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+
+# sent_id = 36.3
+# text = "
+1	"	"	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 37
+# sent_id = 37.1
+# text = I stvarno su me vratili.
+1	I	_	_	_	_	_	_	_	_	O
+2	stvarno	_	_	_	_	_	_	_	_	O
+3	su	_	_	_	_	_	_	_	_	O
+4	me	_	_	_	_	_	_	_	_	O
+5	vratili	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 37.2
+# text = A kad sam prvi put došao na posao, samo što mi na ulazu nisu
+1	A	_	_	_	_	_	_	_	_	O
+2	kad	_	_	_	_	_	_	_	_	O
+3	sam	_	_	_	_	_	_	_	_	O
+4	prvi	_	_	_	_	_	_	_	_	O
+5	put	_	_	_	_	_	_	_	_	O
+6	došao	_	_	_	_	_	_	_	_	O
+7	na	_	_	_	_	_	_	_	_	O
+8	posao	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	samo	_	_	_	_	_	_	_	_	O
+11	što	_	_	_	_	_	_	_	_	O
+12	mi	_	_	_	_	_	_	_	_	O
+13	na	_	_	_	_	_	_	_	_	O
+14	ulazu	_	_	_	_	_	_	_	_	O
+15	nisu	_	_	_	_	_	_	_	_	O
+
+# newpar id = 38
+# sent_id = 38.1
+# text = slavoluk bili postavili.
+1	slavoluk	_	_	_	_	_	_	_	_	O
+2	bili	_	_	_	_	_	_	_	_	O
+3	postavili	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 39
+# sent_id = 39.1
+# text = U stvari, ja sam ovde, pomalo, popularan.
+1	U	_	_	_	_	_	_	_	_	O
+2	stvari	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	ja	_	_	_	_	_	_	_	_	O
+5	sam	_	_	_	_	_	_	_	_	O
+6	ovde	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	pomalo	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	popularan	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 39.2
+# text = Opet zbog boksa.
+1	Opet	_	_	_	_	_	_	_	_	O
+2	zbog	_	_	_	_	_	_	_	_	O
+3	boksa	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 39.3
+# text = Treniram fabrički klub.
+1	Treniram	_	_	_	_	_	_	_	_	O
+2	fabrički	_	_	_	_	_	_	_	_	B-ORG
+3	klub	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+4	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 39.4
+# text = A
+1	A	_	_	_	_	_	_	_	_	O
+
+# newpar id = 40
+# sent_id = 40.1
+# text = osim toga, radim i ono što u Jugoslaviji nikad nisam ni pomislio - u sindikatu.
+1	osim	_	_	_	_	_	_	_	_	O
+2	toga	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	radim	_	_	_	_	_	_	_	_	O
+5	i	_	_	_	_	_	_	_	_	O
+6	ono	_	_	_	_	_	_	_	_	O
+7	što	_	_	_	_	_	_	_	_	O
+8	u	_	_	_	_	_	_	_	_	O
+9	Jugoslaviji	_	_	_	_	_	_	_	_	B-LOC
+10	nikad	_	_	_	_	_	_	_	_	O
+11	nisam	_	_	_	_	_	_	_	_	O
+12	ni	_	_	_	_	_	_	_	_	O
+13	pomislio	_	_	_	_	_	_	_	_	O
+14	-	-	PUNCT	Z	_	_	_	_	_	O
+15	u	_	_	_	_	_	_	_	_	O
+16	sindikatu	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
+17	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 40.2
+# text = Kad
+1	Kad	_	_	_	_	_	_	_	_	O
+
+# newpar id = 41
+# sent_id = 41.1
+# text = smo se burazer Vlada i ja pre tri godine sreli u Italiji i ja mu to ispričao, on se prosto
+1	smo	_	_	_	_	_	_	_	_	O
+2	se	_	_	_	_	_	_	_	_	O
+3	burazer	_	_	_	_	_	_	_	_	O
+4	Vlada	_	_	_	_	_	_	_	_	B-ORG
+5	i	_	_	_	_	_	_	_	_	O
+6	ja	_	_	_	_	_	_	_	_	O
+7	pre	_	_	_	_	_	_	_	_	O
+8	tri	_	_	_	_	_	_	_	_	O
+9	godine	_	_	_	_	_	_	_	_	O
+10	sreli	_	_	_	_	_	_	_	_	O
+11	u	_	_	_	_	_	_	_	_	O
+12	Italiji	_	_	_	_	_	_	_	_	B-LOC
+13	i	_	_	_	_	_	_	_	_	O
+14	ja	_	_	_	_	_	_	_	_	O
+15	mu	_	_	_	_	_	_	_	_	O
+16	to	_	_	_	_	_	_	_	_	O
+17	ispričao	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	,	,	PUNCT	Z	_	_	_	_	_	O
+19	on	_	_	_	_	_	_	_	_	O
+20	se	_	_	_	_	_	_	_	_	O
+21	prosto	_	_	_	_	_	_	_	_	O
+
+# newpar id = 42
+# sent_id = 42.1
+# text = upišao od smeha; u Jugoslaviji stvarno ni za šta drugo osim za cure nisam znao; i za
+1	upišao	_	_	_	_	_	_	_	_	O
+2	od	_	_	_	_	_	_	_	_	O
+3	smeha	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	;	;	PUNCT	Z	_	_	_	_	_	O
+5	u	_	_	_	_	_	_	_	_	O
+6	Jugoslaviji	_	_	_	_	_	_	_	_	B-LOC
+7	stvarno	_	_	_	_	_	_	_	_	O
+8	ni	_	_	_	_	_	_	_	_	O
+9	za	_	_	_	_	_	_	_	_	O
+10	šta	_	_	_	_	_	_	_	_	O
+11	drugo	_	_	_	_	_	_	_	_	O
+12	osim	_	_	_	_	_	_	_	_	O
+13	za	_	_	_	_	_	_	_	_	O
+14	cure	_	_	_	_	_	_	_	_	O
+15	nisam	_	_	_	_	_	_	_	_	O
+16	znao	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	;	;	PUNCT	Z	_	_	_	_	_	O
+18	i	_	_	_	_	_	_	_	_	O
+19	za	_	_	_	_	_	_	_	_	O
+
+# newpar id = 43
+# sent_id = 43.1
+# text = boks, dabome.
+1	boks	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	dabome	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 44
+# sent_id = 44.1
+# text = Kod kuće, naravno, imam naše ploče.
+1	Kod	_	_	_	_	_	_	_	_	O
+2	kuće	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	naravno	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	imam	_	_	_	_	_	_	_	_	O
+7	naše	_	_	_	_	_	_	_	_	O
+8	ploče	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 44.2
+# text = Ali tamo ne volim da ih slušam.
+1	Ali	_	_	_	_	_	_	_	_	O
+2	tamo	_	_	_	_	_	_	_	_	O
+3	ne	_	_	_	_	_	_	_	_	O
+4	volim	_	_	_	_	_	_	_	_	O
+5	da	_	_	_	_	_	_	_	_	O
+6	ih	_	_	_	_	_	_	_	_	O
+7	slušam	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 44.3
+# text = Rastužim se.
+1	Rastužim	_	_	_	_	_	_	_	_	O
+2	se	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 45
+# sent_id = 45.1
+# text = Ne volim da uznemiravam Arnea i Inge.
+1	Ne	_	_	_	_	_	_	_	_	O
+2	volim	_	_	_	_	_	_	_	_	O
+3	da	_	_	_	_	_	_	_	_	O
+4	uznemiravam	_	_	_	_	_	_	_	_	O
+5	Arnea	_	_	_	_	_	_	_	_	B-PER
+6	i	_	_	_	_	_	_	_	_	O
+7	Inge	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
+8	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 45.2
+# text = On, moj sin, izgleda, voli ih.
+1	On	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	moj	_	_	_	_	_	_	_	_	O
+4	sin	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	izgleda	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	voli	_	_	_	_	_	_	_	_	O
+9	ih	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 45.3
+# text = U početku ih je
+1	U	_	_	_	_	_	_	_	_	O
+2	početku	_	_	_	_	_	_	_	_	O
+3	ih	_	_	_	_	_	_	_	_	O
+4	je	_	_	_	_	_	_	_	_	O
+
+# newpar id = 46
+# sent_id = 46.1
+# text = puštao da bi, valjda, meni ugodio.
+1	puštao	_	_	_	_	_	_	_	_	O
+2	da	_	_	_	_	_	_	_	_	O
+3	bi	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	valjda	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	meni	_	_	_	_	_	_	_	_	O
+8	ugodio	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 46.2
+# text = A posle ih zavoleo.
+1	A	_	_	_	_	_	_	_	_	O
+2	posle	_	_	_	_	_	_	_	_	O
+3	ih	_	_	_	_	_	_	_	_	O
+4	zavoleo	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 46.3
+# text = A ja, kad se zaželim, dolazim
+1	A	_	_	_	_	_	_	_	_	O
+2	ja	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	kad	_	_	_	_	_	_	_	_	O
+5	se	_	_	_	_	_	_	_	_	O
+6	zaželim	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	dolazim	_	_	_	_	_	_	_	_	O
+
+# newpar id = 47
+# sent_id = 47.1
+# text = ovamo.
+1	ovamo	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 47.2
+# text = Malo mi je lakše otkako ovde ima naših.
+1	Malo	_	_	_	_	_	_	_	_	O
+2	mi	_	_	_	_	_	_	_	_	O
+3	je	_	_	_	_	_	_	_	_	O
+4	lakše	_	_	_	_	_	_	_	_	O
+5	otkako	_	_	_	_	_	_	_	_	O
+6	ovde	_	_	_	_	_	_	_	_	O
+7	ima	_	_	_	_	_	_	_	_	O
+8	naših	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 47.3
+# text = Gotovo šest godina bio sam jedini
+1	Gotovo	_	_	_	_	_	_	_	_	O
+2	šest	_	_	_	_	_	_	_	_	O
+3	godina	_	_	_	_	_	_	_	_	O
+4	bio	_	_	_	_	_	_	_	_	O
+5	sam	_	_	_	_	_	_	_	_	O
+6	jedini	_	_	_	_	_	_	_	_	O
+
+# newpar id = 48
+# sent_id = 48.1
+# text = Jugosloven u celom Estersundu.
+1	Jugosloven	_	_	_	_	_	_	_	_	O
+2	u	_	_	_	_	_	_	_	_	O
+3	celom	_	_	_	_	_	_	_	_	O
+4	Estersundu	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+5	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 48.2
+# text = A sad nas ima gotovo šeststo.
+1	A	_	_	_	_	_	_	_	_	O
+2	sad	_	_	_	_	_	_	_	_	O
+3	nas	_	_	_	_	_	_	_	_	O
+4	ima	_	_	_	_	_	_	_	_	O
+5	gotovo	_	_	_	_	_	_	_	_	O
+6	šeststo	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 48.3
+# text = Kad su počeli da
+1	Kad	_	_	_	_	_	_	_	_	O
+2	su	_	_	_	_	_	_	_	_	O
+3	počeli	_	_	_	_	_	_	_	_	O
+4	da	_	_	_	_	_	_	_	_	O
+
+# newpar id = 49
+# sent_id = 49.1
+# text = dolaze, očima nisam mogao da verujem.
+1	dolaze	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	očima	_	_	_	_	_	_	_	_	O
+4	nisam	_	_	_	_	_	_	_	_	O
+5	mogao	_	_	_	_	_	_	_	_	O
+6	da	_	_	_	_	_	_	_	_	O
+7	verujem	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 49.2
+# text = I - ovde malo žvalavimo po naški, malo
+1	I	_	_	_	_	_	_	_	_	O
+2	-	-	PUNCT	Z	_	_	_	_	_	O
+3	ovde	_	_	_	_	_	_	_	_	O
+4	malo	_	_	_	_	_	_	_	_	O
+5	žvalavimo	_	_	_	_	_	_	_	_	O
+6	po	_	_	_	_	_	_	_	_	O
+7	naški	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	malo	_	_	_	_	_	_	_	_	O
+
+# newpar id = 50
+# sent_id = 50.1
+# text = pevamo po naški i malo plačemo po naški.
+1	pevamo	_	_	_	_	_	_	_	_	O
+2	po	_	_	_	_	_	_	_	_	O
+3	naški	_	_	_	_	_	_	_	_	O
+4	i	_	_	_	_	_	_	_	_	O
+5	malo	_	_	_	_	_	_	_	_	O
+6	plačemo	_	_	_	_	_	_	_	_	O
+7	po	_	_	_	_	_	_	_	_	O
+8	naški	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 50.2
+# text = A onda odemo svako na svoju stranu.
+1	A	_	_	_	_	_	_	_	_	O
+2	onda	_	_	_	_	_	_	_	_	O
+3	odemo	_	_	_	_	_	_	_	_	O
+4	svako	_	_	_	_	_	_	_	_	O
+5	na	_	_	_	_	_	_	_	_	O
+6	svoju	_	_	_	_	_	_	_	_	O
+7	stranu	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 51
+# sent_id = 51.1
+# text = U stvari, ja im ovde dođem - kao nekakav drveni advokat.
+1	U	_	_	_	_	_	_	_	_	O
+2	stvari	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	ja	_	_	_	_	_	_	_	_	O
+5	im	_	_	_	_	_	_	_	_	O
+6	ovde	_	_	_	_	_	_	_	_	O
+7	dođem	_	_	_	_	_	_	_	_	O
+8	-	-	PUNCT	Z	_	_	_	_	_	O
+9	kao	_	_	_	_	_	_	_	_	O
+10	nekakav	_	_	_	_	_	_	_	_	O
+11	drveni	_	_	_	_	_	_	_	_	O
+12	advokat	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 51.2
+# text = Kazujem im kakvi su
+1	Kazujem	_	_	_	_	_	_	_	_	O
+2	im	_	_	_	_	_	_	_	_	O
+3	kakvi	_	_	_	_	_	_	_	_	O
+4	su	_	_	_	_	_	_	_	_	O
+
+# newpar id = 52
+# sent_id = 52.1
+# text = švedski zakoni: na šta imaju pravo, na šta nemaju; prevodim im kad im šta zatreba;
+1	švedski	_	_	_	_	_	_	_	_	O
+2	zakoni	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	:	:	PUNCT	Z	_	_	_	_	_	O
+4	na	_	_	_	_	_	_	_	_	O
+5	šta	_	_	_	_	_	_	_	_	O
+6	imaju	_	_	_	_	_	_	_	_	O
+7	pravo	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	na	_	_	_	_	_	_	_	_	O
+10	šta	_	_	_	_	_	_	_	_	O
+11	nemaju	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	;	;	PUNCT	Z	_	_	_	_	_	O
+13	prevodim	_	_	_	_	_	_	_	_	O
+14	im	_	_	_	_	_	_	_	_	O
+15	kad	_	_	_	_	_	_	_	_	O
+16	im	_	_	_	_	_	_	_	_	O
+17	šta	_	_	_	_	_	_	_	_	O
+18	zatreba	_	_	_	_	_	_	_	SpaceAfter=No	O
+19	;	;	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 53
+# sent_id = 53.1
+# text = ovaj klub, tu prostoriju, švedski sindikati su im dali: ja sam im to sredio; dosta njih
+1	ovaj	_	_	_	_	_	_	_	_	O
+2	klub	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	tu	_	_	_	_	_	_	_	_	O
+5	prostoriju	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	švedski	_	_	_	_	_	_	_	_	O
+8	sindikati	_	_	_	_	_	_	_	_	O
+9	su	_	_	_	_	_	_	_	_	O
+10	im	_	_	_	_	_	_	_	_	O
+11	dali	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	:	:	PUNCT	Z	_	_	_	_	_	O
+13	ja	_	_	_	_	_	_	_	_	O
+14	sam	_	_	_	_	_	_	_	_	O
+15	im	_	_	_	_	_	_	_	_	O
+16	to	_	_	_	_	_	_	_	_	O
+17	sredio	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	;	;	PUNCT	Z	_	_	_	_	_	O
+19	dosta	_	_	_	_	_	_	_	_	O
+20	njih	_	_	_	_	_	_	_	_	O
+
+# newpar id = 54
+# sent_id = 54.1
+# text = sam u fabrici u kojoj radim zaposlio; kad se pripremaju one naše priredbe, ja im za
+1	sam	_	_	_	_	_	_	_	_	O
+2	u	_	_	_	_	_	_	_	_	O
+3	fabrici	_	_	_	_	_	_	_	_	O
+4	u	_	_	_	_	_	_	_	_	O
+5	kojoj	_	_	_	_	_	_	_	_	O
+6	radim	_	_	_	_	_	_	_	_	O
+7	zaposlio	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	;	;	PUNCT	Z	_	_	_	_	_	O
+9	kad	_	_	_	_	_	_	_	_	O
+10	se	_	_	_	_	_	_	_	_	O
+11	pripremaju	_	_	_	_	_	_	_	_	O
+12	one	_	_	_	_	_	_	_	_	O
+13	naše	_	_	_	_	_	_	_	_	O
+14	priredbe	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	,	,	PUNCT	Z	_	_	_	_	_	O
+16	ja	_	_	_	_	_	_	_	_	O
+17	im	_	_	_	_	_	_	_	_	O
+18	za	_	_	_	_	_	_	_	_	O
+
+# newpar id = 55
+# sent_id = 55.1
+# text = folklor obezbeđujem narodne nošnje: i to pozajmljujem od Šveđana; njihove su muške
+1	folklor	_	_	_	_	_	_	_	_	O
+2	obezbeđujem	_	_	_	_	_	_	_	_	O
+3	narodne	_	_	_	_	_	_	_	_	O
+4	nošnje	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	:	:	PUNCT	Z	_	_	_	_	_	O
+6	i	_	_	_	_	_	_	_	_	O
+7	to	_	_	_	_	_	_	_	_	O
+8	pozajmljujem	_	_	_	_	_	_	_	_	O
+9	od	_	_	_	_	_	_	_	_	O
+10	Šveđana	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	;	;	PUNCT	Z	_	_	_	_	_	O
+12	njihove	_	_	_	_	_	_	_	_	O
+13	su	_	_	_	_	_	_	_	_	O
+14	muške	_	_	_	_	_	_	_	_	O
+
+# newpar id = 56
+# sent_id = 56.1
+# text = nošnje slične slovenačkim: snalazimo se kako umemo.
+1	nošnje	_	_	_	_	_	_	_	_	O
+2	slične	_	_	_	_	_	_	_	_	O
+3	slovenačkim	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	:	:	PUNCT	Z	_	_	_	_	_	O
+5	snalazimo	_	_	_	_	_	_	_	_	O
+6	se	_	_	_	_	_	_	_	_	O
+7	kako	_	_	_	_	_	_	_	_	O
+8	umemo	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 56.2
+# text = I tako, često sam ovde.
+1	I	_	_	_	_	_	_	_	_	O
+2	tako	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	često	_	_	_	_	_	_	_	_	O
+5	sam	_	_	_	_	_	_	_	_	O
+6	ovde	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 56.3
+# text = Često
+1	Često	_	_	_	_	_	_	_	_	O
+
+# newpar id = 57
+# sent_id = 57.1
+# text = sam ovde, i sačekujem one koji dolaze, ispraćam one koji odlaze.
+1	sam	_	_	_	_	_	_	_	_	O
+2	ovde	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	i	_	_	_	_	_	_	_	_	O
+5	sačekujem	_	_	_	_	_	_	_	_	O
+6	one	_	_	_	_	_	_	_	_	O
+7	koji	_	_	_	_	_	_	_	_	O
+8	dolaze	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	ispraćam	_	_	_	_	_	_	_	_	O
+11	one	_	_	_	_	_	_	_	_	O
+12	koji	_	_	_	_	_	_	_	_	O
+13	odlaze	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 57.2
+# text = A oni dolaze, i
+1	A	_	_	_	_	_	_	_	_	O
+2	oni	_	_	_	_	_	_	_	_	O
+3	dolaze	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	i	_	_	_	_	_	_	_	_	O
+
+# newpar id = 58
+# sent_id = 58.1
+# text = odlaze, a ja ostajem.
+1	odlaze	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	a	_	_	_	_	_	_	_	_	O
+4	ja	_	_	_	_	_	_	_	_	O
+5	ostajem	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 59
+# sent_id = 59.1
+# text = I kad me uhvati moje ludilo, kad se smračim, Inge i Arne hodaju oko mene na
+1	I	_	_	_	_	_	_	_	_	O
+2	kad	_	_	_	_	_	_	_	_	O
+3	me	_	_	_	_	_	_	_	_	O
+4	uhvati	_	_	_	_	_	_	_	_	O
+5	moje	_	_	_	_	_	_	_	_	O
+6	ludilo	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	kad	_	_	_	_	_	_	_	_	O
+9	se	_	_	_	_	_	_	_	_	O
+10	smračim	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	Inge	_	_	_	_	_	_	_	_	B-PER
+13	i	_	_	_	_	_	_	_	_	O
+14	Arne	_	_	_	_	_	_	_	_	B-PER
+15	hodaju	_	_	_	_	_	_	_	_	O
+16	oko	_	_	_	_	_	_	_	_	O
+17	mene	_	_	_	_	_	_	_	_	O
+18	na	_	_	_	_	_	_	_	_	O
+
+# newpar id = 60
+# sent_id = 60.1
+# text = prstima.
+1	prstima	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 60.2
+# text = "Inge", tada kažem mojoj ženi, "Inge, srce mi puca.
+1	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+2	Inge	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
+3	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	tada	_	_	_	_	_	_	_	_	O
+6	kažem	_	_	_	_	_	_	_	_	O
+7	mojoj	_	_	_	_	_	_	_	_	O
+8	ženi	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+11	Inge	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	srce	_	_	_	_	_	_	_	_	O
+14	mi	_	_	_	_	_	_	_	_	O
+15	puca	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	.	.	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+
+# sent_id = 60.3
+# text = " A ona kaže: "Vidim,
+1	"	"	PUNCT	Z	_	_	_	_	_	O
+2	A	_	_	_	_	_	_	_	_	O
+3	ona	_	_	_	_	_	_	_	_	O
+4	kaže	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	:	:	PUNCT	Z	_	_	_	_	_	O
+6	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+7	Vidim	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 61
+# sent_id = 61.1
+# text = Ljuba.
+1	Ljuba	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
+2	.	.	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+
+# sent_id = 61.2
+# text = " U početku je strahovala da ću otići; unastrahovala se, jadnica, pored mene.
+1	"	"	PUNCT	Z	_	_	_	_	_	O
+2	U	_	_	_	_	_	_	_	_	O
+3	početku	_	_	_	_	_	_	_	_	O
+4	je	_	_	_	_	_	_	_	_	O
+5	strahovala	_	_	_	_	_	_	_	_	O
+6	da	_	_	_	_	_	_	_	_	O
+7	ću	_	_	_	_	_	_	_	_	O
+8	otići	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	;	;	PUNCT	Z	_	_	_	_	_	O
+10	unastrahovala	_	_	_	_	_	_	_	_	O
+11	se	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	jadnica	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	,	,	PUNCT	Z	_	_	_	_	_	O
+15	pored	_	_	_	_	_	_	_	_	O
+16	mene	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 62
+# sent_id = 62.1
+# text = "Ti, ćeš, Ljuba", kaže, "jednom otići od nas.
+1	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+2	Ti	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	ćeš	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	Ljuba	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
+7	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	kaže	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+12	jednom	_	_	_	_	_	_	_	_	O
+13	otići	_	_	_	_	_	_	_	_	O
+14	od	_	_	_	_	_	_	_	_	O
+15	nas	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 62.2
+# text = Sešćeš na voz, i ostavićeš nam tvoja kola
+1	Sešćeš	_	_	_	_	_	_	_	_	O
+2	na	_	_	_	_	_	_	_	_	O
+3	voz	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	i	_	_	_	_	_	_	_	_	O
+6	ostavićeš	_	_	_	_	_	_	_	_	O
+7	nam	_	_	_	_	_	_	_	_	O
+8	tvoja	_	_	_	_	_	_	_	_	O
+9	kola	_	_	_	_	_	_	_	_	O
+
+# newpar id = 63
+# sent_id = 63.1
+# text = i tvoju kuću, i nećeš se vratiti.
+1	i	_	_	_	_	_	_	_	_	O
+2	tvoju	_	_	_	_	_	_	_	_	O
+3	kuću	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	i	_	_	_	_	_	_	_	_	O
+6	nećeš	_	_	_	_	_	_	_	_	O
+7	se	_	_	_	_	_	_	_	_	O
+8	vratiti	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 63.2
+# text = Ostavićeš nam kola i kuću umesto sebe.
+1	Ostavićeš	_	_	_	_	_	_	_	_	O
+2	nam	_	_	_	_	_	_	_	_	O
+3	kola	_	_	_	_	_	_	_	_	O
+4	i	_	_	_	_	_	_	_	_	O
+5	kuću	_	_	_	_	_	_	_	_	O
+6	umesto	_	_	_	_	_	_	_	_	O
+7	sebe	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 63.3
+# text = A šta će nama
+1	A	_	_	_	_	_	_	_	_	O
+2	šta	_	_	_	_	_	_	_	_	O
+3	će	_	_	_	_	_	_	_	_	O
+4	nama	_	_	_	_	_	_	_	_	O
+
+# newpar id = 64
+# sent_id = 64.1
+# text = kola i kuća umesto tebe?
+1	kola	_	_	_	_	_	_	_	_	O
+2	i	_	_	_	_	_	_	_	_	O
+3	kuća	_	_	_	_	_	_	_	_	O
+4	umesto	_	_	_	_	_	_	_	_	O
+5	tebe	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	?	?	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+
+# sent_id = 64.2
+# text = " "Ne budi luda", kažem ja njoj; a ona mi još ne veruje.
+1	"	"	PUNCT	Z	_	_	_	_	_	O
+2	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+3	Ne	_	_	_	_	_	_	_	_	O
+4	budi	_	_	_	_	_	_	_	_	O
+5	luda	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	kažem	_	_	_	_	_	_	_	_	O
+9	ja	_	_	_	_	_	_	_	_	O
+10	njoj	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	;	;	PUNCT	Z	_	_	_	_	_	O
+12	a	_	_	_	_	_	_	_	_	O
+13	ona	_	_	_	_	_	_	_	_	O
+14	mi	_	_	_	_	_	_	_	_	O
+15	još	_	_	_	_	_	_	_	_	O
+16	ne	_	_	_	_	_	_	_	_	O
+17	veruje	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 64.3
+# text = "Ne
+1	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+2	Ne	_	_	_	_	_	_	_	_	O
+
+# newpar id = 65
+# sent_id = 65.1
+# text = budi luda, nikud ja neću otići.
+1	budi	_	_	_	_	_	_	_	_	O
+2	luda	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	nikud	_	_	_	_	_	_	_	_	O
+5	ja	_	_	_	_	_	_	_	_	O
+6	neću	_	_	_	_	_	_	_	_	O
+7	otići	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 65.2
+# text = Nikud ja bez tebe i Arnea neću poći.
+1	Nikud	_	_	_	_	_	_	_	_	O
+2	ja	_	_	_	_	_	_	_	_	O
+3	bez	_	_	_	_	_	_	_	_	O
+4	tebe	_	_	_	_	_	_	_	_	O
+5	i	_	_	_	_	_	_	_	_	O
+6	Arnea	_	_	_	_	_	_	_	_	B-PER
+7	neću	_	_	_	_	_	_	_	_	O
+8	poći	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	.	.	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+
+# sent_id = 65.3
+# text = " I, kažem, u
+1	"	"	PUNCT	Z	_	_	_	_	_	O
+2	I	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	kažem	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	u	_	_	_	_	_	_	_	_	O
+
+# newpar id = 66
+# sent_id = 66.1
+# text = početku mi nije verovala, a sad zna: to mora tako da bude; proći će me.
+1	početku	_	_	_	_	_	_	_	_	O
+2	mi	_	_	_	_	_	_	_	_	O
+3	nije	_	_	_	_	_	_	_	_	O
+4	verovala	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	a	_	_	_	_	_	_	_	_	O
+7	sad	_	_	_	_	_	_	_	_	O
+8	zna	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	:	:	PUNCT	Z	_	_	_	_	_	O
+10	to	_	_	_	_	_	_	_	_	O
+11	mora	_	_	_	_	_	_	_	_	O
+12	tako	_	_	_	_	_	_	_	_	O
+13	da	_	_	_	_	_	_	_	_	O
+14	bude	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	;	;	PUNCT	Z	_	_	_	_	_	O
+16	proći	_	_	_	_	_	_	_	_	O
+17	će	_	_	_	_	_	_	_	_	O
+18	me	_	_	_	_	_	_	_	SpaceAfter=No	O
+19	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 66.2
+# text = I kad me vidi
+1	I	_	_	_	_	_	_	_	_	O
+2	kad	_	_	_	_	_	_	_	_	O
+3	me	_	_	_	_	_	_	_	_	O
+4	vidi	_	_	_	_	_	_	_	_	O
+
+# newpar id = 67
+# sent_id = 67.1
+# text = takvog, srpski mi kaže: i ona se uči da govori srpski: "Pa, Ljuba, idi malo u tvoja
+1	takvog	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	srpski	_	_	_	_	_	_	_	_	O
+4	mi	_	_	_	_	_	_	_	_	O
+5	kaže	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	:	:	PUNCT	Z	_	_	_	_	_	O
+7	i	_	_	_	_	_	_	_	_	O
+8	ona	_	_	_	_	_	_	_	_	O
+9	se	_	_	_	_	_	_	_	_	O
+10	uči	_	_	_	_	_	_	_	_	O
+11	da	_	_	_	_	_	_	_	_	O
+12	govori	_	_	_	_	_	_	_	_	O
+13	srpski	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	:	:	PUNCT	Z	_	_	_	_	_	O
+15	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+16	Pa	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	,	,	PUNCT	Z	_	_	_	_	_	O
+18	Ljuba	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
+19	,	,	PUNCT	Z	_	_	_	_	_	O
+20	idi	_	_	_	_	_	_	_	_	O
+21	malo	_	_	_	_	_	_	_	_	O
+22	u	_	_	_	_	_	_	_	_	O
+23	tvoja	_	_	_	_	_	_	_	_	O
+
+# newpar id = 68
+# sent_id = 68.1
+# text = Jugoslavija.
+1	Jugoslavija	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+2	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 68.2
+# text = Sverije je dobar, ali za tebe je Jugoslavija najbolji na svet.
+1	Sverije	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	dobar	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	ali	_	_	_	_	_	_	_	_	O
+6	za	_	_	_	_	_	_	_	_	O
+7	tebe	_	_	_	_	_	_	_	_	O
+8	je	_	_	_	_	_	_	_	_	O
+9	Jugoslavija	_	_	_	_	_	_	_	_	B-LOC
+10	najbolji	_	_	_	_	_	_	_	_	O
+11	na	_	_	_	_	_	_	_	_	O
+12	svet	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 68.3
+# text = Idi malo u naša
+1	Idi	_	_	_	_	_	_	_	_	O
+2	malo	_	_	_	_	_	_	_	_	O
+3	u	_	_	_	_	_	_	_	_	O
+4	naša	_	_	_	_	_	_	_	_	O
+
+# newpar id = 69
+# sent_id = 69.1
+# text = Jugoslavija.
+1	Jugoslavija	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+2	.	.	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+
+# sent_id = 69.2
+# text = " - To naša Jugoslavija ona kaže zato što svi mi, i ona, i Arne i ja, imamo
+1	"	"	PUNCT	Z	_	_	_	_	_	O
+2	-	-	PUNCT	Z	_	_	_	_	_	O
+3	To	_	_	_	_	_	_	_	_	O
+4	naša	_	_	_	_	_	_	_	_	O
+5	Jugoslavija	_	_	_	_	_	_	_	_	B-LOC
+6	ona	_	_	_	_	_	_	_	_	O
+7	kaže	_	_	_	_	_	_	_	_	O
+8	zato	_	_	_	_	_	_	_	_	O
+9	što	_	_	_	_	_	_	_	_	O
+10	svi	_	_	_	_	_	_	_	_	O
+11	mi	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	i	_	_	_	_	_	_	_	_	O
+14	ona	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	,	,	PUNCT	Z	_	_	_	_	_	O
+16	i	_	_	_	_	_	_	_	_	O
+17	Arne	_	_	_	_	_	_	_	_	B-PER
+18	i	_	_	_	_	_	_	_	_	O
+19	ja	_	_	_	_	_	_	_	SpaceAfter=No	O
+20	,	,	PUNCT	Z	_	_	_	_	_	O
+21	imamo	_	_	_	_	_	_	_	_	O
+
+# newpar id = 70
+# sent_id = 70.1
+# text = dvojno državljanstvo, i švedsko i jugoslovensko.
+1	dvojno	_	_	_	_	_	_	_	_	O
+2	državljanstvo	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	i	_	_	_	_	_	_	_	_	O
+5	švedsko	_	_	_	_	_	_	_	_	O
+6	i	_	_	_	_	_	_	_	_	O
+7	jugoslovensko	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 70.2
+# text = To sam takođe sredio.
+1	To	_	_	_	_	_	_	_	_	O
+2	sam	_	_	_	_	_	_	_	_	O
+3	takođe	_	_	_	_	_	_	_	_	O
+4	sredio	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 70.3
+# text = - A ja joj
+1	-	-	PUNCT	Z	_	_	_	_	_	O
+2	A	_	_	_	_	_	_	_	_	O
+3	ja	_	_	_	_	_	_	_	_	O
+4	joj	_	_	_	_	_	_	_	_	O
+
+# newpar id = 71
+# sent_id = 71.1
+# text = kažem: "Ti, Inge, kao da si se na Dušanovcu rodila.
+1	kažem	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	:	:	PUNCT	Z	_	_	_	_	_	O
+3	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+4	Ti	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	Inge	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	kao	_	_	_	_	_	_	_	_	O
+9	da	_	_	_	_	_	_	_	_	O
+10	si	_	_	_	_	_	_	_	_	O
+11	se	_	_	_	_	_	_	_	_	O
+12	na	_	_	_	_	_	_	_	_	O
+13	Dušanovcu	_	_	_	_	_	_	_	_	B-LOC
+14	rodila	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	.	.	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+
+# sent_id = 71.2
+# text = "
+1	"	"	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 72
+# sent_id = 72.1
+# text = Tada uzmem od fabrike nekoliko dana neplaćenog odsustva - i oni su na to navikli, pa
+1	Tada	_	_	_	_	_	_	_	_	O
+2	uzmem	_	_	_	_	_	_	_	_	O
+3	od	_	_	_	_	_	_	_	_	O
+4	fabrike	_	_	_	_	_	_	_	_	O
+5	nekoliko	_	_	_	_	_	_	_	_	O
+6	dana	_	_	_	_	_	_	_	_	O
+7	neplaćenog	_	_	_	_	_	_	_	_	O
+8	odsustva	_	_	_	_	_	_	_	_	O
+9	-	-	PUNCT	Z	_	_	_	_	_	O
+10	i	_	_	_	_	_	_	_	_	O
+11	oni	_	_	_	_	_	_	_	_	O
+12	su	_	_	_	_	_	_	_	_	O
+13	na	_	_	_	_	_	_	_	_	O
+14	to	_	_	_	_	_	_	_	_	O
+15	navikli	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	,	,	PUNCT	Z	_	_	_	_	_	O
+17	pa	_	_	_	_	_	_	_	_	O
+
+# newpar id = 73
+# sent_id = 73.1
+# text = mi više ne prave pitanje - i sednem u kola, pa po tri dana i tri noći vozim kao lud.
+1	mi	_	_	_	_	_	_	_	_	O
+2	više	_	_	_	_	_	_	_	_	O
+3	ne	_	_	_	_	_	_	_	_	O
+4	prave	_	_	_	_	_	_	_	_	O
+5	pitanje	_	_	_	_	_	_	_	_	O
+6	-	-	PUNCT	Z	_	_	_	_	_	O
+7	i	_	_	_	_	_	_	_	_	O
+8	sednem	_	_	_	_	_	_	_	_	O
+9	u	_	_	_	_	_	_	_	_	O
+10	kola	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	pa	_	_	_	_	_	_	_	_	O
+13	po	_	_	_	_	_	_	_	_	O
+14	tri	_	_	_	_	_	_	_	_	O
+15	dana	_	_	_	_	_	_	_	_	O
+16	i	_	_	_	_	_	_	_	_	O
+17	tri	_	_	_	_	_	_	_	_	O
+18	noći	_	_	_	_	_	_	_	_	O
+19	vozim	_	_	_	_	_	_	_	_	O
+20	kao	_	_	_	_	_	_	_	_	O
+21	lud	_	_	_	_	_	_	_	SpaceAfter=No	O
+22	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 73.2
+# text = Ja
+1	Ja	_	_	_	_	_	_	_	_	O
+
+# newpar id = 74
+# sent_id = 74.1
+# text = sam, inače, pažljiv, oprezan vozač, i ne volim da jurim, ali tada nemam vremena ni za
+1	sam	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	inače	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	pažljiv	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	oprezan	_	_	_	_	_	_	_	_	O
+8	vozač	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	i	_	_	_	_	_	_	_	_	O
+11	ne	_	_	_	_	_	_	_	_	O
+12	volim	_	_	_	_	_	_	_	_	O
+13	da	_	_	_	_	_	_	_	_	O
+14	jurim	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	,	,	PUNCT	Z	_	_	_	_	_	O
+16	ali	_	_	_	_	_	_	_	_	O
+17	tada	_	_	_	_	_	_	_	_	O
+18	nemam	_	_	_	_	_	_	_	_	O
+19	vremena	_	_	_	_	_	_	_	_	O
+20	ni	_	_	_	_	_	_	_	_	O
+21	za	_	_	_	_	_	_	_	_	O
+
+# newpar id = 75
+# sent_id = 75.1
+# text = spavanje.
+1	spavanje	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 75.2
+# text = Za volanom samo po dva-tri sata odremam.
+1	Za	_	_	_	_	_	_	_	_	O
+2	volanom	_	_	_	_	_	_	_	_	O
+3	samo	_	_	_	_	_	_	_	_	O
+4	po	_	_	_	_	_	_	_	_	O
+5	dva-tri	_	_	_	_	_	_	_	_	O
+6	sata	_	_	_	_	_	_	_	_	O
+7	odremam	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 75.3
+# text = Tek kad dođem do austrijske i
+1	Tek	_	_	_	_	_	_	_	_	O
+2	kad	_	_	_	_	_	_	_	_	O
+3	dođem	_	_	_	_	_	_	_	_	O
+4	do	_	_	_	_	_	_	_	_	O
+5	austrijske	_	_	_	_	_	_	_	_	O
+6	i	_	_	_	_	_	_	_	_	O
+
+# newpar id = 76
+# sent_id = 76.1
+# text = naše granice, zaustavim se.
+1	naše	_	_	_	_	_	_	_	_	O
+2	granice	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	zaustavim	_	_	_	_	_	_	_	_	O
+5	se	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 76.2
+# text = Svratim u neki motel, okupam se, ljudski se ispavam -
+1	Svratim	_	_	_	_	_	_	_	_	O
+2	u	_	_	_	_	_	_	_	_	O
+3	neki	_	_	_	_	_	_	_	_	O
+4	motel	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	okupam	_	_	_	_	_	_	_	_	O
+7	se	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	ljudski	_	_	_	_	_	_	_	_	O
+10	se	_	_	_	_	_	_	_	_	O
+11	ispavam	_	_	_	_	_	_	_	_	O
+12	-	-	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 77
+# sent_id = 77.1
+# text = jedanput sam tako šesnaest sati prespavao - obrijem se, presvučem.
+1	jedanput	_	_	_	_	_	_	_	_	O
+2	sam	_	_	_	_	_	_	_	_	O
+3	tako	_	_	_	_	_	_	_	_	O
+4	šesnaest	_	_	_	_	_	_	_	_	O
+5	sati	_	_	_	_	_	_	_	_	O
+6	prespavao	_	_	_	_	_	_	_	_	O
+7	-	-	PUNCT	Z	_	_	_	_	_	O
+8	obrijem	_	_	_	_	_	_	_	_	O
+9	se	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	presvučem	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 77.2
+# text = I, polako, pređem
+1	I	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	polako	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	pređem	_	_	_	_	_	_	_	_	O
+
+# newpar id = 78
+# sent_id = 78.1
+# text = preko granice.
+1	preko	_	_	_	_	_	_	_	_	O
+2	granice	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 79
+# sent_id = 79.1
+# text = Tada uđem u Ljubljanu, ili u Celje ili Maribor - niže da idem nemam hrabrosti: o
+1	Tada	_	_	_	_	_	_	_	_	O
+2	uđem	_	_	_	_	_	_	_	_	O
+3	u	_	_	_	_	_	_	_	_	O
+4	Ljubljanu	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	ili	_	_	_	_	_	_	_	_	O
+7	u	_	_	_	_	_	_	_	_	O
+8	Celje	_	_	_	_	_	_	_	_	B-LOC
+9	ili	_	_	_	_	_	_	_	_	O
+10	Maribor	_	_	_	_	_	_	_	_	B-LOC
+11	-	-	PUNCT	Z	_	_	_	_	_	O
+12	niže	_	_	_	_	_	_	_	_	O
+13	da	_	_	_	_	_	_	_	_	O
+14	idem	_	_	_	_	_	_	_	_	O
+15	nemam	_	_	_	_	_	_	_	_	O
+16	hrabrosti	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	:	:	PUNCT	Z	_	_	_	_	_	O
+18	o	_	_	_	_	_	_	_	_	O
+
+# newpar id = 80
+# sent_id = 80.1
+# text = Beogradu da vam i ne pričam - zastanem i parkiram se pored trotoara.
+1	Beogradu	_	_	_	_	_	_	_	_	B-LOC
+2	da	_	_	_	_	_	_	_	_	O
+3	vam	_	_	_	_	_	_	_	_	O
+4	i	_	_	_	_	_	_	_	_	O
+5	ne	_	_	_	_	_	_	_	_	O
+6	pričam	_	_	_	_	_	_	_	_	O
+7	-	-	PUNCT	Z	_	_	_	_	_	O
+8	zastanem	_	_	_	_	_	_	_	_	O
+9	i	_	_	_	_	_	_	_	_	O
+10	parkiram	_	_	_	_	_	_	_	_	O
+11	se	_	_	_	_	_	_	_	_	O
+12	pored	_	_	_	_	_	_	_	_	O
+13	trotoara	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 80.2
+# text = I tako ostanem
+1	I	_	_	_	_	_	_	_	_	O
+2	tako	_	_	_	_	_	_	_	_	O
+3	ostanem	_	_	_	_	_	_	_	_	O
+
+# newpar id = 81
+# sent_id = 81.1
+# text = u kolima.
+1	u	_	_	_	_	_	_	_	_	O
+2	kolima	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 81.2
+# text = Spustim prozore, gledanm oko sebe i - slušam.
+1	Spustim	_	_	_	_	_	_	_	_	O
+2	prozore	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	gledanm	_	_	_	_	_	_	_	_	O
+5	oko	_	_	_	_	_	_	_	_	O
+6	sebe	_	_	_	_	_	_	_	_	O
+7	i	_	_	_	_	_	_	_	_	O
+8	-	-	PUNCT	Z	_	_	_	_	_	O
+9	slušam	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 81.3
+# text = I, verujte, Slovenci sasvim
+1	I	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	verujte	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	Slovenci	_	_	_	_	_	_	_	_	O
+6	sasvim	_	_	_	_	_	_	_	_	O
+
+# newpar id = 82
+# sent_id = 82.1
+# text = dobro žvalave po naški, ništa se ne razlikuju.
+1	dobro	_	_	_	_	_	_	_	_	O
+2	žvalave	_	_	_	_	_	_	_	_	O
+3	po	_	_	_	_	_	_	_	_	O
+4	naški	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	ništa	_	_	_	_	_	_	_	_	O
+7	se	_	_	_	_	_	_	_	_	O
+8	ne	_	_	_	_	_	_	_	_	O
+9	razlikuju	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 83
+# sent_id = 83.1
+# text = I tako, ne izlazeći iz kola, presedim po pola sata, ili sat ili dva.
+1	I	_	_	_	_	_	_	_	_	O
+2	tako	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	ne	_	_	_	_	_	_	_	_	O
+5	izlazeći	_	_	_	_	_	_	_	_	O
+6	iz	_	_	_	_	_	_	_	_	O
+7	kola	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	presedim	_	_	_	_	_	_	_	_	O
+10	po	_	_	_	_	_	_	_	_	O
+11	pola	_	_	_	_	_	_	_	_	O
+12	sata	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+14	ili	_	_	_	_	_	_	_	_	O
+15	sat	_	_	_	_	_	_	_	_	O
+16	ili	_	_	_	_	_	_	_	_	O
+17	dva	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 84
+# sent_id = 84.1
+# text = Onda polako krenem natrag.
+1	Onda	_	_	_	_	_	_	_	_	O
+2	polako	_	_	_	_	_	_	_	_	O
+3	krenem	_	_	_	_	_	_	_	_	O
+4	natrag	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 84.2
+# text = U povratku negde na benzinskoj pumpi napunim
+1	U	_	_	_	_	_	_	_	_	O
+2	povratku	_	_	_	_	_	_	_	_	O
+3	negde	_	_	_	_	_	_	_	_	O
+4	na	_	_	_	_	_	_	_	_	O
+5	benzinskoj	_	_	_	_	_	_	_	_	O
+6	pumpi	_	_	_	_	_	_	_	_	O
+7	napunim	_	_	_	_	_	_	_	_	O
+
+# newpar id = 85
+# sent_id = 85.1
+# text = rezervoar benzinom.
+1	rezervoar	_	_	_	_	_	_	_	_	O
+2	benzinom	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 85.2
+# text = Zatim pređem austrijsku granicu, zastanem, pa iz dovoda
+1	Zatim	_	_	_	_	_	_	_	_	O
+2	pređem	_	_	_	_	_	_	_	_	O
+3	austrijsku	_	_	_	_	_	_	_	_	O
+4	granicu	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	zastanem	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	pa	_	_	_	_	_	_	_	_	O
+9	iz	_	_	_	_	_	_	_	_	O
+10	dovoda	_	_	_	_	_	_	_	_	O
+
+# newpar id = 86
+# sent_id = 86.1
+# text = natočim po punu šaku.
+1	natočim	_	_	_	_	_	_	_	_	O
+2	po	_	_	_	_	_	_	_	_	O
+3	punu	_	_	_	_	_	_	_	_	O
+4	šaku	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 86.2
+# text = Trljam ga, njušim: i on mi miriše na Jugoslaviju.
+1	Trljam	_	_	_	_	_	_	_	_	O
+2	ga	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	njušim	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	:	:	PUNCT	Z	_	_	_	_	_	O
+6	i	_	_	_	_	_	_	_	_	O
+7	on	_	_	_	_	_	_	_	_	O
+8	mi	_	_	_	_	_	_	_	_	O
+9	miriše	_	_	_	_	_	_	_	_	O
+10	na	_	_	_	_	_	_	_	_	O
+11	Jugoslaviju	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 86.3
+# text = Namažem se
+1	Namažem	_	_	_	_	_	_	_	_	O
+2	se	_	_	_	_	_	_	_	_	O
+
+# newpar id = 87
+# sent_id = 87.1
+# text = po licu, po kosi, po grudima ...
+1	po	_	_	_	_	_	_	_	_	O
+2	licu	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	po	_	_	_	_	_	_	_	_	O
+5	kosi	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	po	_	_	_	_	_	_	_	_	O
+8	grudima	_	_	_	_	_	_	_	_	O
+9	...	...	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 88
+# sent_id = 88.1
+# text = Kući se vratim umoran kao kuče.
+1	Kući	_	_	_	_	_	_	_	_	O
+2	se	_	_	_	_	_	_	_	_	O
+3	vratim	_	_	_	_	_	_	_	_	O
+4	umoran	_	_	_	_	_	_	_	_	O
+5	kao	_	_	_	_	_	_	_	_	O
+6	kuče	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 88.2
+# text = A moja žena mi kaže: "Ti si se, Ljuba, podmladio.
+1	A	_	_	_	_	_	_	_	_	O
+2	moja	_	_	_	_	_	_	_	_	O
+3	žena	_	_	_	_	_	_	_	_	O
+4	mi	_	_	_	_	_	_	_	_	O
+5	kaže	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	:	:	PUNCT	Z	_	_	_	_	_	O
+7	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+8	Ti	_	_	_	_	_	_	_	_	O
+9	si	_	_	_	_	_	_	_	_	O
+10	se	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	Ljuba	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+14	podmladio	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	.	.	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+
+# sent_id = 88.3
+# text = "
+1	"	"	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 89
+# sent_id = 89.1
+# text = A o tome kako sam došao ovamo, o tome joj ne pričam.
+1	A	_	_	_	_	_	_	_	_	O
+2	o	_	_	_	_	_	_	_	_	O
+3	tome	_	_	_	_	_	_	_	_	O
+4	kako	_	_	_	_	_	_	_	_	O
+5	sam	_	_	_	_	_	_	_	_	O
+6	došao	_	_	_	_	_	_	_	_	O
+7	ovamo	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	o	_	_	_	_	_	_	_	_	O
+10	tome	_	_	_	_	_	_	_	_	O
+11	joj	_	_	_	_	_	_	_	_	O
+12	ne	_	_	_	_	_	_	_	_	O
+13	pričam	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 89.2
+# text = Šta će njoj
+1	Šta	_	_	_	_	_	_	_	_	O
+2	će	_	_	_	_	_	_	_	_	O
+3	njoj	_	_	_	_	_	_	_	_	O
+
+# newpar id = 90
+# sent_id = 90.1
+# text = I to?
+1	I	_	_	_	_	_	_	_	_	O
+2	to	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	?	?	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 90.2
+# text = Nije ni potrebno da zna.
+1	Nije	_	_	_	_	_	_	_	_	O
+2	ni	_	_	_	_	_	_	_	_	O
+3	potrebno	_	_	_	_	_	_	_	_	O
+4	da	_	_	_	_	_	_	_	_	O
+5	zna	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 90.3
+# text = To ću sam nositi.
+1	To	_	_	_	_	_	_	_	_	O
+2	ću	_	_	_	_	_	_	_	_	O
+3	sam	_	_	_	_	_	_	_	_	O
+4	nositi	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 90.4
+# text = To je moja stvar.
+1	To	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	moja	_	_	_	_	_	_	_	_	O
+4	stvar	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	.	.	PUNCT	Z	_	_	_	_	_	O
+

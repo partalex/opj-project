@@ -1,0 +1,1475 @@
+#name = aleksandar
+#domen = knjizevni
+#url = https://laguna.rs/n6362_knjiga_nacionalisticka_geografija_satiricni_putopisi_laguna.html
+# newpar id = 1
+# sent_id = 1.1
+# text = Japan je, inače, smeštaj od Boga dobio na četiri velika i oko hiljadu malih ostrva.
+1	Japan	_	_	_	_	_	_	_	_	B-LOC
+2	je	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	inače	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	smeštaj	_	_	_	_	_	_	_	_	O
+7	od	_	_	_	_	_	_	_	_	O
+8	Boga	_	_	_	_	_	_	_	_	O
+9	dobio	_	_	_	_	_	_	_	_	O
+10	na	_	_	_	_	_	_	_	_	O
+11	četiri	_	_	_	_	_	_	_	_	O
+12	velika	_	_	_	_	_	_	_	_	O
+13	i	_	_	_	_	_	_	_	_	O
+14	oko	_	_	_	_	_	_	_	_	O
+15	hiljadu	_	_	_	_	_	_	_	_	O
+16	malih	_	_	_	_	_	_	_	_	O
+17	ostrva	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.2
+# text = Tu su se šćućurili, na malom prostoru, i nekako se snalaze jer ih ima mnogo.
+1	Tu	_	_	_	_	_	_	_	_	O
+2	su	_	_	_	_	_	_	_	_	O
+3	se	_	_	_	_	_	_	_	_	O
+4	šćućurili	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	na	_	_	_	_	_	_	_	_	O
+7	malom	_	_	_	_	_	_	_	_	O
+8	prostoru	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	i	_	_	_	_	_	_	_	_	O
+11	nekako	_	_	_	_	_	_	_	_	O
+12	se	_	_	_	_	_	_	_	_	O
+13	snalaze	_	_	_	_	_	_	_	_	O
+14	jer	_	_	_	_	_	_	_	_	O
+15	ih	_	_	_	_	_	_	_	_	O
+16	ima	_	_	_	_	_	_	_	_	O
+17	mnogo	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.3
+# text = Nisam stigao da ih prebrojim jer toliko se brzo kreću i zuje po ulicama da se čoveku zavrti u glavi.
+1	Nisam	_	_	_	_	_	_	_	_	O
+2	stigao	_	_	_	_	_	_	_	_	O
+3	da	_	_	_	_	_	_	_	_	O
+4	ih	_	_	_	_	_	_	_	_	O
+5	prebrojim	_	_	_	_	_	_	_	_	O
+6	jer	_	_	_	_	_	_	_	_	O
+7	toliko	_	_	_	_	_	_	_	_	O
+8	se	_	_	_	_	_	_	_	_	O
+9	brzo	_	_	_	_	_	_	_	_	O
+10	kreću	_	_	_	_	_	_	_	_	O
+11	i	_	_	_	_	_	_	_	_	O
+12	zuje	_	_	_	_	_	_	_	_	O
+13	po	_	_	_	_	_	_	_	_	O
+14	ulicama	_	_	_	_	_	_	_	_	O
+15	da	_	_	_	_	_	_	_	_	O
+16	se	_	_	_	_	_	_	_	_	O
+17	čoveku	_	_	_	_	_	_	_	_	O
+18	zavrti	_	_	_	_	_	_	_	_	O
+19	u	_	_	_	_	_	_	_	_	O
+20	glavi	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.4
+# text = Na jednom velikom trgu u Tokiju video sam i pešačke zebre u dijagonali.
+1	Na	_	_	_	_	_	_	_	_	O
+2	jednom	_	_	_	_	_	_	_	_	O
+3	velikom	_	_	_	_	_	_	_	_	O
+4	trgu	_	_	_	_	_	_	_	_	O
+5	u	_	_	_	_	_	_	_	_	O
+6	Tokiju	_	_	_	_	_	_	_	_	B-LOC
+7	video	_	_	_	_	_	_	_	_	O
+8	sam	_	_	_	_	_	_	_	_	O
+9	i	_	_	_	_	_	_	_	_	O
+10	pešačke	_	_	_	_	_	_	_	_	O
+11	zebre	_	_	_	_	_	_	_	_	O
+12	u	_	_	_	_	_	_	_	_	O
+13	dijagonali	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.5
+# text = Tamo me je ponela plima mase, a ja sam osetio da nešto nije u redu.
+1	Tamo	_	_	_	_	_	_	_	_	O
+2	me	_	_	_	_	_	_	_	_	O
+3	je	_	_	_	_	_	_	_	_	O
+4	ponela	_	_	_	_	_	_	_	_	O
+5	plima	_	_	_	_	_	_	_	_	O
+6	mase	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	a	_	_	_	_	_	_	_	_	O
+9	ja	_	_	_	_	_	_	_	_	O
+10	sam	_	_	_	_	_	_	_	_	O
+11	osetio	_	_	_	_	_	_	_	_	O
+12	da	_	_	_	_	_	_	_	_	O
+13	nešto	_	_	_	_	_	_	_	_	O
+14	nije	_	_	_	_	_	_	_	_	O
+15	u	_	_	_	_	_	_	_	_	O
+16	redu	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.6
+# text = Onda sam shvatio da je to gotovo tišina.
+1	Onda	_	_	_	_	_	_	_	_	O
+2	sam	_	_	_	_	_	_	_	_	O
+3	shvatio	_	_	_	_	_	_	_	_	O
+4	da	_	_	_	_	_	_	_	_	O
+5	je	_	_	_	_	_	_	_	_	O
+6	to	_	_	_	_	_	_	_	_	O
+7	gotovo	_	_	_	_	_	_	_	_	O
+8	tišina	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.7
+# text = Niko se ne gura, ne viče, mimoilaze se kompjuterski precizno, i usred zgusnute gomile čujete samo nekakvo šuštanje koraka i šapata.
+1	Niko	_	_	_	_	_	_	_	_	O
+2	se	_	_	_	_	_	_	_	_	O
+3	ne	_	_	_	_	_	_	_	_	O
+4	gura	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	ne	_	_	_	_	_	_	_	_	O
+7	viče	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	mimoilaze	_	_	_	_	_	_	_	_	O
+10	se	_	_	_	_	_	_	_	_	O
+11	kompjuterski	_	_	_	_	_	_	_	_	O
+12	precizno	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+14	i	_	_	_	_	_	_	_	_	O
+15	usred	_	_	_	_	_	_	_	_	O
+16	zgusnute	_	_	_	_	_	_	_	_	O
+17	gomile	_	_	_	_	_	_	_	_	O
+18	čujete	_	_	_	_	_	_	_	_	O
+19	samo	_	_	_	_	_	_	_	_	O
+20	nekakvo	_	_	_	_	_	_	_	_	O
+21	šuštanje	_	_	_	_	_	_	_	_	O
+22	koraka	_	_	_	_	_	_	_	_	O
+23	i	_	_	_	_	_	_	_	_	O
+24	šapata	_	_	_	_	_	_	_	SpaceAfter=No	O
+25	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.8
+# text = I na ta četiri velika – Hokaido, Honšu, Šikoku i Kjušju – i na onih hiljadu malih ostrva svaki santimetar je iskorišćen.
+1	I	_	_	_	_	_	_	_	_	O
+2	na	_	_	_	_	_	_	_	_	O
+3	ta	_	_	_	_	_	_	_	_	O
+4	četiri	_	_	_	_	_	_	_	_	O
+5	velika	_	_	_	_	_	_	_	_	O
+6	–	–	PUNCT	Z	_	_	_	_	_	O
+7	Hokaido	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	Honšu	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	Šikoku	_	_	_	_	_	_	_	_	B-LOC
+12	i	_	_	_	_	_	_	_	_	O
+13	Kjušju	_	_	_	_	_	_	_	_	B-LOC
+14	–	–	PUNCT	Z	_	_	_	_	_	O
+15	i	_	_	_	_	_	_	_	_	O
+16	na	_	_	_	_	_	_	_	_	O
+17	onih	_	_	_	_	_	_	_	_	O
+18	hiljadu	_	_	_	_	_	_	_	_	O
+19	malih	_	_	_	_	_	_	_	_	O
+20	ostrva	_	_	_	_	_	_	_	_	O
+21	svaki	_	_	_	_	_	_	_	_	O
+22	santimetar	_	_	_	_	_	_	_	_	O
+23	je	_	_	_	_	_	_	_	_	O
+24	iskorišćen	_	_	_	_	_	_	_	SpaceAfter=No	O
+25	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.9
+# text = I to svrsishodno.
+1	I	_	_	_	_	_	_	_	_	O
+2	to	_	_	_	_	_	_	_	_	O
+3	svrsishodno	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.10
+# text = To je tako, možda, zato što su kod njih i Osma sednica i tranzicija izvedeni još pre dve hiljade godina, pa je sada gotovo sve privatno, a svi Japanci su pod jednom trešnjom.
+1	To	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	tako	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	možda	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	zato	_	_	_	_	_	_	_	_	O
+8	što	_	_	_	_	_	_	_	_	O
+9	su	_	_	_	_	_	_	_	_	O
+10	kod	_	_	_	_	_	_	_	_	O
+11	njih	_	_	_	_	_	_	_	_	O
+12	i	_	_	_	_	_	_	_	_	O
+13	Osma	_	_	_	_	_	_	_	_	O
+14	sednica	_	_	_	_	_	_	_	_	O
+15	i	_	_	_	_	_	_	_	_	O
+16	tranzicija	_	_	_	_	_	_	_	_	O
+17	izvedeni	_	_	_	_	_	_	_	_	O
+18	još	_	_	_	_	_	_	_	_	O
+19	pre	_	_	_	_	_	_	_	_	O
+20	dve	_	_	_	_	_	_	_	_	O
+21	hiljade	_	_	_	_	_	_	_	_	O
+22	godina	_	_	_	_	_	_	_	SpaceAfter=No	O
+23	,	,	PUNCT	Z	_	_	_	_	_	O
+24	pa	_	_	_	_	_	_	_	_	O
+25	je	_	_	_	_	_	_	_	_	O
+26	sada	_	_	_	_	_	_	_	_	O
+27	gotovo	_	_	_	_	_	_	_	_	O
+28	sve	_	_	_	_	_	_	_	_	O
+29	privatno	_	_	_	_	_	_	_	SpaceAfter=No	O
+30	,	,	PUNCT	Z	_	_	_	_	_	O
+31	a	_	_	_	_	_	_	_	_	O
+32	svi	_	_	_	_	_	_	_	_	O
+33	Japanci	_	_	_	_	_	_	_	_	O
+34	su	_	_	_	_	_	_	_	_	O
+35	pod	_	_	_	_	_	_	_	_	O
+36	jednom	_	_	_	_	_	_	_	_	O
+37	trešnjom	_	_	_	_	_	_	_	SpaceAfter=No	O
+38	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.11
+# text = Ima ih, naime, 97 odsto etnički čistih.
+1	Ima	_	_	_	_	_	_	_	_	O
+2	ih	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	naime	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	97	_	_	_	_	_	_	_	_	O
+7	odsto	_	_	_	_	_	_	_	_	O
+8	etnički	_	_	_	_	_	_	_	_	O
+9	čistih	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.12
+# text = Čak više nego Hrvata u Hrvatskoj i Albanaca na Kosovu.
+1	Čak	_	_	_	_	_	_	_	_	O
+2	više	_	_	_	_	_	_	_	_	O
+3	nego	_	_	_	_	_	_	_	_	O
+4	Hrvata	_	_	_	_	_	_	_	_	O
+5	u	_	_	_	_	_	_	_	_	O
+6	Hrvatskoj	_	_	_	_	_	_	_	_	B-LOC
+7	i	_	_	_	_	_	_	_	_	O
+8	Albanaca	_	_	_	_	_	_	_	_	B-LOC
+9	na	_	_	_	_	_	_	_	_	O
+10	Kosovu	_	_	_	_	_	_	_	SpaceAfter=No	B-LOCS
+11	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.13
+# text = I ne kolju se međusobno, iako, što se Boga tiče, ima i šintoista, i budista, pa čak i mrvica hrišćana.
+1	I	_	_	_	_	_	_	_	_	O
+2	ne	_	_	_	_	_	_	_	_	O
+3	kolju	_	_	_	_	_	_	_	_	O
+4	se	_	_	_	_	_	_	_	_	O
+5	međusobno	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	iako	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	što	_	_	_	_	_	_	_	_	O
+10	se	_	_	_	_	_	_	_	_	O
+11	Boga	_	_	_	_	_	_	_	_	O
+12	tiče	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+14	ima	_	_	_	_	_	_	_	_	O
+15	i	_	_	_	_	_	_	_	_	O
+16	šintoista	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	,	,	PUNCT	Z	_	_	_	_	_	O
+18	i	_	_	_	_	_	_	_	_	O
+19	budista	_	_	_	_	_	_	_	SpaceAfter=No	O
+20	,	,	PUNCT	Z	_	_	_	_	_	O
+21	pa	_	_	_	_	_	_	_	_	O
+22	čak	_	_	_	_	_	_	_	_	O
+23	i	_	_	_	_	_	_	_	_	O
+24	mrvica	_	_	_	_	_	_	_	_	O
+25	hrišćana	_	_	_	_	_	_	_	SpaceAfter=No	O
+26	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.14
+# text = Zato ih je, valjda, i Bog pogledao, pa dva puta pustio kamikaze, to jest, božanski vetar, koji je počistio kinesko-mongolsko brodovlje pre nekoliko vekova, te su Japanci ostali svoj na svome.
+1	Zato	_	_	_	_	_	_	_	_	O
+2	ih	_	_	_	_	_	_	_	_	O
+3	je	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	valjda	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	i	_	_	_	_	_	_	_	_	O
+8	Bog	_	_	_	_	_	_	_	_	O
+9	pogledao	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	pa	_	_	_	_	_	_	_	_	O
+12	dva	_	_	_	_	_	_	_	_	O
+13	puta	_	_	_	_	_	_	_	_	O
+14	pustio	_	_	_	_	_	_	_	_	O
+15	kamikaze	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	,	,	PUNCT	Z	_	_	_	_	_	O
+17	to	_	_	_	_	_	_	_	_	O
+18	jest	_	_	_	_	_	_	_	SpaceAfter=No	O
+19	,	,	PUNCT	Z	_	_	_	_	_	O
+20	božanski	_	_	_	_	_	_	_	_	O
+21	vetar	_	_	_	_	_	_	_	SpaceAfter=No	O
+22	,	,	PUNCT	Z	_	_	_	_	_	O
+23	koji	_	_	_	_	_	_	_	_	O
+24	je	_	_	_	_	_	_	_	_	O
+25	počistio	_	_	_	_	_	_	_	_	O
+26	kinesko-mongolsko	_	_	_	_	_	_	_	_	O
+27	brodovlje	_	_	_	_	_	_	_	_	O
+28	pre	_	_	_	_	_	_	_	_	O
+29	nekoliko	_	_	_	_	_	_	_	_	O
+30	vekova	_	_	_	_	_	_	_	SpaceAfter=No	O
+31	,	,	PUNCT	Z	_	_	_	_	_	O
+32	te	_	_	_	_	_	_	_	_	O
+33	su	_	_	_	_	_	_	_	_	O
+34	Japanci	_	_	_	_	_	_	_	_	O
+35	ostali	_	_	_	_	_	_	_	_	O
+36	svoj	_	_	_	_	_	_	_	_	O
+37	na	_	_	_	_	_	_	_	_	O
+38	svome	_	_	_	_	_	_	_	SpaceAfter=No	O
+39	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.15
+# text = Doduše, malo u izolaciji, kao onomad mi, mimo sveta, ali nisu stajali po redovima za vize.
+1	Doduše	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	malo	_	_	_	_	_	_	_	_	O
+4	u	_	_	_	_	_	_	_	_	O
+5	izolaciji	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	kao	_	_	_	_	_	_	_	_	O
+8	onomad	_	_	_	_	_	_	_	_	O
+9	mi	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	mimo	_	_	_	_	_	_	_	_	O
+12	sveta	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+14	ali	_	_	_	_	_	_	_	_	O
+15	nisu	_	_	_	_	_	_	_	_	O
+16	stajali	_	_	_	_	_	_	_	_	O
+17	po	_	_	_	_	_	_	_	_	O
+18	redovima	_	_	_	_	_	_	_	_	O
+19	za	_	_	_	_	_	_	_	_	O
+20	vize	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.16
+# text = Bili su dovoljni sami sebi.
+1	Bili	_	_	_	_	_	_	_	_	O
+2	su	_	_	_	_	_	_	_	_	O
+3	dovoljni	_	_	_	_	_	_	_	_	O
+4	sami	_	_	_	_	_	_	_	_	O
+5	sebi	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.17
+# text = Kao naši radikali.
+1	Kao	_	_	_	_	_	_	_	_	O
+2	naši	_	_	_	_	_	_	_	_	O
+3	radikali	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.18
+# text = I ti Japanci ne odiru se baš od visine.
+1	I	_	_	_	_	_	_	_	_	O
+2	ti	_	_	_	_	_	_	_	_	O
+3	Japanci	_	_	_	_	_	_	_	_	O
+4	ne	_	_	_	_	_	_	_	_	O
+5	odiru	_	_	_	_	_	_	_	_	O
+6	se	_	_	_	_	_	_	_	_	O
+7	baš	_	_	_	_	_	_	_	_	O
+8	od	_	_	_	_	_	_	_	_	O
+9	visine	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.19
+# text = Nemaju ni one dugonoge sponzoruše po svojim splavovima.
+1	Nemaju	_	_	_	_	_	_	_	_	O
+2	ni	_	_	_	_	_	_	_	_	O
+3	one	_	_	_	_	_	_	_	_	O
+4	dugonoge	_	_	_	_	_	_	_	_	O
+5	sponzoruše	_	_	_	_	_	_	_	_	O
+6	po	_	_	_	_	_	_	_	_	O
+7	svojim	_	_	_	_	_	_	_	_	O
+8	splavovima	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.20
+# text = Njihove se zovu gejše, i znaju šta je Iran, a šta Irak.
+1	Njihove	_	_	_	_	_	_	_	_	O
+2	se	_	_	_	_	_	_	_	_	O
+3	zovu	_	_	_	_	_	_	_	_	O
+4	gejše	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	i	_	_	_	_	_	_	_	_	O
+7	znaju	_	_	_	_	_	_	_	_	O
+8	šta	_	_	_	_	_	_	_	_	O
+9	je	_	_	_	_	_	_	_	_	B-LOC
+10	Iran	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	a	_	_	_	_	_	_	_	_	O
+13	šta	_	_	_	_	_	_	_	_	O
+14	Irak	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+15	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.21
+# text = Plus poznaju jezike i umetnost.
+1	Plus	_	_	_	_	_	_	_	_	O
+2	poznaju	_	_	_	_	_	_	_	_	O
+3	jezike	_	_	_	_	_	_	_	_	O
+4	i	_	_	_	_	_	_	_	_	O
+5	umetnost	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.22
+# text = Pa i onu umetnost koja zadivljuje muškarce.
+1	Pa	_	_	_	_	_	_	_	_	O
+2	i	_	_	_	_	_	_	_	_	O
+3	onu	_	_	_	_	_	_	_	_	O
+4	umetnost	_	_	_	_	_	_	_	_	O
+5	koja	_	_	_	_	_	_	_	_	O
+6	zadivljuje	_	_	_	_	_	_	_	_	O
+7	muškarce	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.23
+# text = Kad ideš ulicom, glava ti štrči, pa moraš da paziš da ti neki jakuza ne oduzme tu prednost.
+1	Kad	_	_	_	_	_	_	_	_	O
+2	ideš	_	_	_	_	_	_	_	_	O
+3	ulicom	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	glava	_	_	_	_	_	_	_	_	O
+6	ti	_	_	_	_	_	_	_	_	O
+7	štrči	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	pa	_	_	_	_	_	_	_	_	O
+10	moraš	_	_	_	_	_	_	_	_	O
+11	da	_	_	_	_	_	_	_	_	O
+12	paziš	_	_	_	_	_	_	_	_	O
+13	da	_	_	_	_	_	_	_	_	O
+14	ti	_	_	_	_	_	_	_	_	O
+15	neki	_	_	_	_	_	_	_	_	O
+16	jakuza	_	_	_	_	_	_	_	_	O
+17	ne	_	_	_	_	_	_	_	_	O
+18	oduzme	_	_	_	_	_	_	_	_	O
+19	tu	_	_	_	_	_	_	_	_	O
+20	prednost	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.24
+# text = Jakuze su, inače, oni žestoki momci, sa obaveznim sunčanim naočarima i bez jednog prsta.
+1	Jakuze	_	_	_	_	_	_	_	_	O
+2	su	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	inače	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	oni	_	_	_	_	_	_	_	_	O
+7	žestoki	_	_	_	_	_	_	_	_	O
+8	momci	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	sa	_	_	_	_	_	_	_	_	O
+11	obaveznim	_	_	_	_	_	_	_	_	O
+12	sunčanim	_	_	_	_	_	_	_	_	O
+13	naočarima	_	_	_	_	_	_	_	_	O
+14	i	_	_	_	_	_	_	_	_	O
+15	bez	_	_	_	_	_	_	_	_	O
+16	jednog	_	_	_	_	_	_	_	_	O
+17	prsta	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.25
+# text = Ne one jakuze iz Kruševca, kako nazivaju navijače Napretka, koji imaju sve prste i mešaju ih u rad kluba.
+1	Ne	_	_	_	_	_	_	_	_	O
+2	one	_	_	_	_	_	_	_	_	O
+3	jakuze	_	_	_	_	_	_	_	_	O
+4	iz	_	_	_	_	_	_	_	_	O
+5	Kruševca	_	_	_	_	_	_	_	SpaceAfter=No	B-LOCs
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	kako	_	_	_	_	_	_	_	_	O
+8	nazivaju	_	_	_	_	_	_	_	_	O
+9	navijače	_	_	_	_	_	_	_	_	O
+10	Napretka	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	koji	_	_	_	_	_	_	_	_	O
+13	imaju	_	_	_	_	_	_	_	_	O
+14	sve	_	_	_	_	_	_	_	_	O
+15	prste	_	_	_	_	_	_	_	_	O
+16	i	_	_	_	_	_	_	_	_	O
+17	mešaju	_	_	_	_	_	_	_	_	O
+18	ih	_	_	_	_	_	_	_	_	O
+19	u	_	_	_	_	_	_	_	_	O
+20	rad	_	_	_	_	_	_	_	_	O
+21	kluba	_	_	_	_	_	_	_	SpaceAfter=No	O
+22	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.26
+# text = I tako, idem ulicama Tokija kad ispred hotela Takanava princ vidim Gulivera.
+1	I	_	_	_	_	_	_	_	_	O
+2	tako	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	idem	_	_	_	_	_	_	_	_	O
+5	ulicama	_	_	_	_	_	_	_	_	O
+6	Tokija	_	_	_	_	_	_	_	_	O
+7	kad	_	_	_	_	_	_	_	_	O
+8	ispred	_	_	_	_	_	_	_	_	O
+9	hotela	_	_	_	_	_	_	_	_	O
+10	Takanava	_	_	_	_	_	_	_	_	O
+11	princ	_	_	_	_	_	_	_	_	O
+12	vidim	_	_	_	_	_	_	_	_	O
+13	Gulivera	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.27
+# text = Da li to ja sanjam?
+1	Da	_	_	_	_	_	_	_	_	O
+2	li	_	_	_	_	_	_	_	_	O
+3	to	_	_	_	_	_	_	_	_	O
+4	ja	_	_	_	_	_	_	_	_	O
+5	sanjam	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	?	?	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.28
+# text = Običnim Evropljanima su Japanci do ramena, a ovom deliji do pasa.
+1	Običnim	_	_	_	_	_	_	_	_	O
+2	Evropljanima	_	_	_	_	_	_	_	_	O
+3	su	_	_	_	_	_	_	_	_	O
+4	Japanci	_	_	_	_	_	_	_	_	O
+5	do	_	_	_	_	_	_	_	_	O
+6	ramena	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	a	_	_	_	_	_	_	_	_	O
+9	ovom	_	_	_	_	_	_	_	_	O
+10	deliji	_	_	_	_	_	_	_	_	O
+11	do	_	_	_	_	_	_	_	_	O
+12	pasa	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.29
+# text = Skupim hrabrost i banem pred njega, kad ono onaj Vlade iz Prijepolja.
+1	Skupim	_	_	_	_	_	_	_	_	O
+2	hrabrost	_	_	_	_	_	_	_	_	O
+3	i	_	_	_	_	_	_	_	_	O
+4	banem	_	_	_	_	_	_	_	_	O
+5	pred	_	_	_	_	_	_	_	_	O
+6	njega	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	kad	_	_	_	_	_	_	_	_	O
+9	ono	_	_	_	_	_	_	_	_	O
+10	onaj	_	_	_	_	_	_	_	_	O
+11	Vlade	_	_	_	_	_	_	_	_	O
+12	iz	_	_	_	_	_	_	_	_	O
+13	Prijepolja	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.30
+# text = Divac.
+1	Divac	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.31
+# text = I to sa suprugom Snežanom.
+1	I	_	_	_	_	_	_	_	_	O
+2	to	_	_	_	_	_	_	_	_	O
+3	sa	_	_	_	_	_	_	_	_	O
+4	suprugom	_	_	_	_	_	_	_	_	O
+5	Snežanom	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.32
+# text = Došao čovek na sesiju MOK-a da podrži kandidaturu Beograda za neku Olimpijadu, zaboravio sam koju, a i MOK je tada zaboravio na nas.
+1	Došao	_	_	_	_	_	_	_	_	O
+2	čovek	_	_	_	_	_	_	_	_	O
+3	na	_	_	_	_	_	_	_	_	O
+4	sesiju	_	_	_	_	_	_	_	_	O
+5	MOK-a	_	_	_	_	_	_	_	_	O
+6	da	_	_	_	_	_	_	_	_	O
+7	podrži	_	_	_	_	_	_	_	_	O
+8	kandidaturu	_	_	_	_	_	_	_	_	O
+9	Beograda	_	_	_	_	_	_	_	_	O
+10	za	_	_	_	_	_	_	_	_	O
+11	neku	_	_	_	_	_	_	_	_	O
+12	Olimpijadu	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+14	zaboravio	_	_	_	_	_	_	_	_	O
+15	sam	_	_	_	_	_	_	_	_	O
+16	koju	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	,	,	PUNCT	Z	_	_	_	_	_	O
+18	a	_	_	_	_	_	_	_	_	O
+19	i	_	_	_	_	_	_	_	_	O
+20	MOK	_	_	_	_	_	_	_	_	O
+21	je	_	_	_	_	_	_	_	_	O
+22	tada	_	_	_	_	_	_	_	_	O
+23	zaboravio	_	_	_	_	_	_	_	_	O
+24	na	_	_	_	_	_	_	_	_	O
+25	nas	_	_	_	_	_	_	_	SpaceAfter=No	O
+26	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.33
+# text = Popismo piće, ko ljudi, pa u šoping.
+1	Popismo	_	_	_	_	_	_	_	_	O
+2	piće	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	ko	_	_	_	_	_	_	_	_	O
+5	ljudi	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	pa	_	_	_	_	_	_	_	_	O
+8	u	_	_	_	_	_	_	_	_	O
+9	šoping	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.34
+# text = I to podzemnom, koja ide 250 na sat, ali u čiji se vagon Vlade jedva spakovao, dok je ostalim putnicima donja vilica pala na grudi.
+1	I	_	_	_	_	_	_	_	_	O
+2	to	_	_	_	_	_	_	_	_	O
+3	podzemnom	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	koja	_	_	_	_	_	_	_	_	O
+6	ide	_	_	_	_	_	_	_	_	O
+7	250	_	_	_	_	_	_	_	_	O
+8	na	_	_	_	_	_	_	_	_	O
+9	sat	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	ali	_	_	_	_	_	_	_	_	O
+12	u	_	_	_	_	_	_	_	_	O
+13	čiji	_	_	_	_	_	_	_	_	O
+14	se	_	_	_	_	_	_	_	_	O
+15	vagon	_	_	_	_	_	_	_	_	O
+16	Vlade	_	_	_	_	_	_	_	_	O
+17	jedva	_	_	_	_	_	_	_	_	O
+18	spakovao	_	_	_	_	_	_	_	SpaceAfter=No	O
+19	,	,	PUNCT	Z	_	_	_	_	_	O
+20	dok	_	_	_	_	_	_	_	_	O
+21	je	_	_	_	_	_	_	_	_	O
+22	ostalim	_	_	_	_	_	_	_	_	O
+23	putnicima	_	_	_	_	_	_	_	_	O
+24	donja	_	_	_	_	_	_	_	_	O
+25	vilica	_	_	_	_	_	_	_	_	O
+26	pala	_	_	_	_	_	_	_	_	O
+27	na	_	_	_	_	_	_	_	_	O
+28	grudi	_	_	_	_	_	_	_	SpaceAfter=No	O
+29	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.35
+# text = Ja sam bio moderator, spona između njih i njega.
+1	Ja	_	_	_	_	_	_	_	_	O
+2	sam	_	_	_	_	_	_	_	_	O
+3	bio	_	_	_	_	_	_	_	_	O
+4	moderator	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	spona	_	_	_	_	_	_	_	_	O
+7	između	_	_	_	_	_	_	_	_	O
+8	njih	_	_	_	_	_	_	_	_	O
+9	i	_	_	_	_	_	_	_	_	O
+10	njega	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.36
+# text = Viši od njih, niži od Divca.
+1	Viši	_	_	_	_	_	_	_	_	O
+2	od	_	_	_	_	_	_	_	_	O
+3	njih	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	niži	_	_	_	_	_	_	_	_	O
+6	od	_	_	_	_	_	_	_	_	O
+7	Divca	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.37
+# text = Taman.
+1	Taman	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.38
+# text = Čak sam naučio i nekoliko reči japanskog.
+1	Čak	_	_	_	_	_	_	_	_	O
+2	sam	_	_	_	_	_	_	_	_	O
+3	naučio	_	_	_	_	_	_	_	_	O
+4	i	_	_	_	_	_	_	_	_	O
+5	nekoliko	_	_	_	_	_	_	_	_	O
+6	reči	_	_	_	_	_	_	_	_	O
+7	japanskog	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.39
+# text = Novine nisam čitao jer da bi Japanac mogao da čita obične novine, mora da poznaje čak tri hiljade ideograma.
+1	Novine	_	_	_	_	_	_	_	_	O
+2	nisam	_	_	_	_	_	_	_	_	O
+3	čitao	_	_	_	_	_	_	_	_	O
+4	jer	_	_	_	_	_	_	_	_	O
+5	da	_	_	_	_	_	_	_	_	O
+6	bi	_	_	_	_	_	_	_	_	O
+7	Japanac	_	_	_	_	_	_	_	_	O
+8	mogao	_	_	_	_	_	_	_	_	O
+9	da	_	_	_	_	_	_	_	_	O
+10	čita	_	_	_	_	_	_	_	_	O
+11	obične	_	_	_	_	_	_	_	_	O
+12	novine	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+14	mora	_	_	_	_	_	_	_	_	O
+15	da	_	_	_	_	_	_	_	_	O
+16	poznaje	_	_	_	_	_	_	_	_	O
+17	čak	_	_	_	_	_	_	_	_	O
+18	tri	_	_	_	_	_	_	_	_	O
+19	hiljade	_	_	_	_	_	_	_	_	O
+20	ideograma	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.40
+# text = Mnogo, brate, i za nas Srbe.
+1	Mnogo	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	brate	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	i	_	_	_	_	_	_	_	_	O
+6	za	_	_	_	_	_	_	_	_	O
+7	nas	_	_	_	_	_	_	_	_	O
+8	Srbe	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.41
+# text = Tako sam se na japanskom sporazumevao kao Mogli, a pomagao se tečnim Tarzan inglišom.
+1	Tako	_	_	_	_	_	_	_	_	O
+2	sam	_	_	_	_	_	_	_	_	O
+3	se	_	_	_	_	_	_	_	_	O
+4	na	_	_	_	_	_	_	_	_	O
+5	japanskom	_	_	_	_	_	_	_	_	O
+6	sporazumevao	_	_	_	_	_	_	_	_	O
+7	kao	_	_	_	_	_	_	_	_	O
+8	Mogli	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	a	_	_	_	_	_	_	_	_	O
+11	pomagao	_	_	_	_	_	_	_	_	O
+12	se	_	_	_	_	_	_	_	_	O
+13	tečnim	_	_	_	_	_	_	_	_	O
+14	Tarzan	_	_	_	_	_	_	_	_	O
+15	inglišom	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.42
+# text = Ali tu je bio i jedan baja iz Beograda, da ne kažem iz Velikog Gradišta.
+1	Ali	_	_	_	_	_	_	_	_	O
+2	tu	_	_	_	_	_	_	_	_	O
+3	je	_	_	_	_	_	_	_	_	O
+4	bio	_	_	_	_	_	_	_	_	O
+5	i	_	_	_	_	_	_	_	_	O
+6	jedan	_	_	_	_	_	_	_	_	O
+7	baja	_	_	_	_	_	_	_	_	O
+8	iz	_	_	_	_	_	_	_	_	O
+9	Beograda	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	da	_	_	_	_	_	_	_	_	O
+12	ne	_	_	_	_	_	_	_	_	O
+13	kažem	_	_	_	_	_	_	_	_	O
+14	iz	_	_	_	_	_	_	_	_	O
+15	Velikog	_	_	_	_	_	_	_	_	O
+16	Gradišta	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.43
+# text = Taj moj drugar Dragan Milenković pravi je doktor za japanski.
+1	Taj	_	_	_	_	_	_	_	_	O
+2	moj	_	_	_	_	_	_	_	_	O
+3	drugar	_	_	_	_	_	_	_	_	O
+4	Dragan	_	_	_	_	_	_	_	_	O
+5	Milenković	_	_	_	_	_	_	_	_	O
+6	pravi	_	_	_	_	_	_	_	_	O
+7	je	_	_	_	_	_	_	_	_	O
+8	doktor	_	_	_	_	_	_	_	_	O
+9	za	_	_	_	_	_	_	_	_	O
+10	japanski	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.44
+# text = Bio je čak i dopisnik Tanjuga iz Tokija, a njegovoj deci japanski je maternji.
+1	Bio	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	čak	_	_	_	_	_	_	_	_	O
+4	i	_	_	_	_	_	_	_	_	O
+5	dopisnik	_	_	_	_	_	_	_	_	O
+6	Tanjuga	_	_	_	_	_	_	_	_	O
+7	iz	_	_	_	_	_	_	_	_	O
+8	Tokija	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	a	_	_	_	_	_	_	_	_	O
+11	njegovoj	_	_	_	_	_	_	_	_	O
+12	deci	_	_	_	_	_	_	_	_	O
+13	japanski	_	_	_	_	_	_	_	_	O
+14	je	_	_	_	_	_	_	_	_	O
+15	maternji	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.45
+# text = Kako?
+1	Kako	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	?	?	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.46
+# text = Pa majka im je Japanka po imenu Secuko, sada Beograđanka iz Mirijeva.
+1	Pa	_	_	_	_	_	_	_	_	O
+2	majka	_	_	_	_	_	_	_	_	O
+3	im	_	_	_	_	_	_	_	_	O
+4	je	_	_	_	_	_	_	_	_	O
+5	Japanka	_	_	_	_	_	_	_	_	O
+6	po	_	_	_	_	_	_	_	_	O
+7	imenu	_	_	_	_	_	_	_	_	O
+8	Secuko	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	sada	_	_	_	_	_	_	_	_	O
+11	Beograđanka	_	_	_	_	_	_	_	_	O
+12	iz	_	_	_	_	_	_	_	_	O
+13	Mirijeva	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.47
+# text = Elem, kad taj Drakče progovori japanski, bez stranog naglaska, gotovo akademski, svi, ili u hotelu, ili u prodavnici, ili na ulici, stanu, okupe se oko njega i zevaju u čudo neviđeno.
+1	Elem	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	kad	_	_	_	_	_	_	_	_	O
+4	taj	_	_	_	_	_	_	_	_	O
+5	Drakče	_	_	_	_	_	_	_	_	O
+6	progovori	_	_	_	_	_	_	_	_	O
+7	japanski	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	bez	_	_	_	_	_	_	_	_	O
+10	stranog	_	_	_	_	_	_	_	_	O
+11	naglaska	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	gotovo	_	_	_	_	_	_	_	_	O
+14	akademski	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	,	,	PUNCT	Z	_	_	_	_	_	O
+16	svi	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	,	,	PUNCT	Z	_	_	_	_	_	O
+18	ili	_	_	_	_	_	_	_	_	O
+19	u	_	_	_	_	_	_	_	_	O
+20	hotelu	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	,	,	PUNCT	Z	_	_	_	_	_	O
+22	ili	_	_	_	_	_	_	_	_	O
+23	u	_	_	_	_	_	_	_	_	O
+24	prodavnici	_	_	_	_	_	_	_	SpaceAfter=No	O
+25	,	,	PUNCT	Z	_	_	_	_	_	O
+26	ili	_	_	_	_	_	_	_	_	O
+27	na	_	_	_	_	_	_	_	_	O
+28	ulici	_	_	_	_	_	_	_	SpaceAfter=No	O
+29	,	,	PUNCT	Z	_	_	_	_	_	O
+30	stanu	_	_	_	_	_	_	_	SpaceAfter=No	O
+31	,	,	PUNCT	Z	_	_	_	_	_	O
+32	okupe	_	_	_	_	_	_	_	_	O
+33	se	_	_	_	_	_	_	_	_	O
+34	oko	_	_	_	_	_	_	_	_	O
+35	njega	_	_	_	_	_	_	_	_	O
+36	i	_	_	_	_	_	_	_	_	O
+37	zevaju	_	_	_	_	_	_	_	_	O
+38	u	_	_	_	_	_	_	_	_	O
+39	čudo	_	_	_	_	_	_	_	_	O
+40	neviđeno	_	_	_	_	_	_	_	SpaceAfter=No	O
+41	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.48
+# text = Jednom je, priča mi on, japanski ambasador u Rumuniji, prolazio sa svitom kroz Gradište na Dunavu, pa su malo zalutali i meštane pitali, naravno na engleskom, gde je put za Đerdap.
+1	Jednom	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	priča	_	_	_	_	_	_	_	_	O
+5	mi	_	_	_	_	_	_	_	_	O
+6	on	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	japanski	_	_	_	_	_	_	_	_	O
+9	ambasador	_	_	_	_	_	_	_	_	O
+10	u	_	_	_	_	_	_	_	_	O
+11	Rumuniji	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	prolazio	_	_	_	_	_	_	_	_	O
+14	sa	_	_	_	_	_	_	_	_	O
+15	svitom	_	_	_	_	_	_	_	_	O
+16	kroz	_	_	_	_	_	_	_	_	O
+17	Gradište	_	_	_	_	_	_	_	_	O
+18	na	_	_	_	_	_	_	_	_	O
+19	Dunavu	_	_	_	_	_	_	_	SpaceAfter=No	O
+20	,	,	PUNCT	Z	_	_	_	_	_	O
+21	pa	_	_	_	_	_	_	_	_	O
+22	su	_	_	_	_	_	_	_	_	O
+23	malo	_	_	_	_	_	_	_	_	O
+24	zalutali	_	_	_	_	_	_	_	_	O
+25	i	_	_	_	_	_	_	_	_	O
+26	meštane	_	_	_	_	_	_	_	_	O
+27	pitali	_	_	_	_	_	_	_	SpaceAfter=No	O
+28	,	,	PUNCT	Z	_	_	_	_	_	O
+29	naravno	_	_	_	_	_	_	_	_	O
+30	na	_	_	_	_	_	_	_	_	O
+31	engleskom	_	_	_	_	_	_	_	SpaceAfter=No	O
+32	,	,	PUNCT	Z	_	_	_	_	_	O
+33	gde	_	_	_	_	_	_	_	_	O
+34	je	_	_	_	_	_	_	_	_	O
+35	put	_	_	_	_	_	_	_	_	O
+36	za	_	_	_	_	_	_	_	_	O
+37	Đerdap	_	_	_	_	_	_	_	SpaceAfter=No	O
+38	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.49
+# text = Meštani su odložili pivo, slegali ramenima i vrteli kačkete na glavi.
+1	Meštani	_	_	_	_	_	_	_	_	O
+2	su	_	_	_	_	_	_	_	_	O
+3	odložili	_	_	_	_	_	_	_	_	O
+4	pivo	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	slegali	_	_	_	_	_	_	_	_	O
+7	ramenima	_	_	_	_	_	_	_	_	O
+8	i	_	_	_	_	_	_	_	_	O
+9	vrteli	_	_	_	_	_	_	_	_	O
+10	kačkete	_	_	_	_	_	_	_	_	O
+11	na	_	_	_	_	_	_	_	_	O
+12	glavi	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.50
+# text = Utom banu Dragan san, na kršu od bicikla, bos, u atletskoj majici.
+1	Utom	_	_	_	_	_	_	_	_	O
+2	banu	_	_	_	_	_	_	_	_	O
+3	Dragan	_	_	_	_	_	_	_	_	O
+4	san	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	na	_	_	_	_	_	_	_	_	O
+7	kršu	_	_	_	_	_	_	_	_	O
+8	od	_	_	_	_	_	_	_	_	O
+9	bicikla	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	bos	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	u	_	_	_	_	_	_	_	_	O
+14	atletskoj	_	_	_	_	_	_	_	_	O
+15	majici	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.51
+# text = I onda im na savršenom japanskom opiše pravac, sedne na bicikl i odjezdi.
+1	I	_	_	_	_	_	_	_	_	O
+2	onda	_	_	_	_	_	_	_	_	O
+3	im	_	_	_	_	_	_	_	_	O
+4	na	_	_	_	_	_	_	_	_	O
+5	savršenom	_	_	_	_	_	_	_	_	O
+6	japanskom	_	_	_	_	_	_	_	_	O
+7	opiše	_	_	_	_	_	_	_	_	O
+8	pravac	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	sedne	_	_	_	_	_	_	_	_	O
+11	na	_	_	_	_	_	_	_	_	O
+12	bicikl	_	_	_	_	_	_	_	_	O
+13	i	_	_	_	_	_	_	_	_	O
+14	odjezdi	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.52
+# text = Svi iz dva auta izlete, pitaju prisutne ko je ovaj čovek, ali iako svi znaju Dragana, ne znaju engleski, a kamoli japanski.
+1	Svi	_	_	_	_	_	_	_	_	O
+2	iz	_	_	_	_	_	_	_	_	O
+3	dva	_	_	_	_	_	_	_	_	O
+4	auta	_	_	_	_	_	_	_	_	O
+5	izlete	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	pitaju	_	_	_	_	_	_	_	_	O
+8	prisutne	_	_	_	_	_	_	_	_	O
+9	ko	_	_	_	_	_	_	_	_	O
+10	je	_	_	_	_	_	_	_	_	O
+11	ovaj	_	_	_	_	_	_	_	_	O
+12	čovek	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+14	ali	_	_	_	_	_	_	_	_	O
+15	iako	_	_	_	_	_	_	_	_	O
+16	svi	_	_	_	_	_	_	_	_	O
+17	znaju	_	_	_	_	_	_	_	_	O
+18	Dragana	_	_	_	_	_	_	_	SpaceAfter=No	O
+19	,	,	PUNCT	Z	_	_	_	_	_	O
+20	ne	_	_	_	_	_	_	_	_	O
+21	znaju	_	_	_	_	_	_	_	_	O
+22	engleski	_	_	_	_	_	_	_	SpaceAfter=No	O
+23	,	,	PUNCT	Z	_	_	_	_	_	O
+24	a	_	_	_	_	_	_	_	_	O
+25	kamoli	_	_	_	_	_	_	_	_	O
+26	japanski	_	_	_	_	_	_	_	SpaceAfter=No	O
+27	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.53
+# text = Posle mi je Dragan objašnjavao: „Neka misle da svaki seljak u Srbiji zna japanski.
+1	Posle	_	_	_	_	_	_	_	_	O
+2	mi	_	_	_	_	_	_	_	_	O
+3	je	_	_	_	_	_	_	_	_	O
+4	Dragan	_	_	_	_	_	_	_	_	O
+5	objašnjavao	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	:	:	PUNCT	Z	_	_	_	_	_	O
+7	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+8	Neka	_	_	_	_	_	_	_	_	O
+9	misle	_	_	_	_	_	_	_	_	O
+10	da	_	_	_	_	_	_	_	_	O
+11	svaki	_	_	_	_	_	_	_	_	O
+12	seljak	_	_	_	_	_	_	_	_	O
+13	u	_	_	_	_	_	_	_	_	O
+14	Srbiji	_	_	_	_	_	_	_	_	O
+15	zna	_	_	_	_	_	_	_	_	O
+16	japanski	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	.	.	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+
+# sent_id = 1.54
+# text = “ Taj naš Japanac me je vodao po Tokiju kao mečku, pokazujući mi prestonicu To-kjo, isti osnov kao stara prestonica Kjoto, Kjo-to, samo obrnuto.
+1	“	“	PUNCT	Z	_	_	_	_	_	O
+2	Taj	_	_	_	_	_	_	_	_	O
+3	naš	_	_	_	_	_	_	_	_	O
+4	Japanac	_	_	_	_	_	_	_	_	O
+5	me	_	_	_	_	_	_	_	_	O
+6	je	_	_	_	_	_	_	_	_	O
+7	vodao	_	_	_	_	_	_	_	_	O
+8	po	_	_	_	_	_	_	_	_	O
+9	Tokiju	_	_	_	_	_	_	_	_	O
+10	kao	_	_	_	_	_	_	_	_	O
+11	mečku	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	pokazujući	_	_	_	_	_	_	_	_	O
+14	mi	_	_	_	_	_	_	_	_	O
+15	prestonicu	_	_	_	_	_	_	_	_	O
+16	To-kjo	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	,	,	PUNCT	Z	_	_	_	_	_	O
+18	isti	_	_	_	_	_	_	_	_	O
+19	osnov	_	_	_	_	_	_	_	_	O
+20	kao	_	_	_	_	_	_	_	_	O
+21	stara	_	_	_	_	_	_	_	_	O
+22	prestonica	_	_	_	_	_	_	_	_	O
+23	Kjoto	_	_	_	_	_	_	_	SpaceAfter=No	O
+24	,	,	PUNCT	Z	_	_	_	_	_	O
+25	Kjo-to	_	_	_	_	_	_	_	SpaceAfter=No	O
+26	,	,	PUNCT	Z	_	_	_	_	_	O
+27	samo	_	_	_	_	_	_	_	_	O
+28	obrnuto	_	_	_	_	_	_	_	SpaceAfter=No	O
+29	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.55
+# text = Taj doktor za japanski dobio je i japansku nagradu za prevodilaštvo, ali, u to vreme, niko da ga angažuje kao novinara ili diplomatu.
+1	Taj	_	_	_	_	_	_	_	_	O
+2	doktor	_	_	_	_	_	_	_	_	O
+3	za	_	_	_	_	_	_	_	_	O
+4	japanski	_	_	_	_	_	_	_	_	O
+5	dobio	_	_	_	_	_	_	_	_	O
+6	je	_	_	_	_	_	_	_	_	O
+7	i	_	_	_	_	_	_	_	_	O
+8	japansku	_	_	_	_	_	_	_	_	O
+9	nagradu	_	_	_	_	_	_	_	_	O
+10	za	_	_	_	_	_	_	_	_	O
+11	prevodilaštvo	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	ali	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	,	,	PUNCT	Z	_	_	_	_	_	O
+15	u	_	_	_	_	_	_	_	_	O
+16	to	_	_	_	_	_	_	_	_	O
+17	vreme	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	,	,	PUNCT	Z	_	_	_	_	_	O
+19	niko	_	_	_	_	_	_	_	_	O
+20	da	_	_	_	_	_	_	_	_	O
+21	ga	_	_	_	_	_	_	_	_	O
+22	angažuje	_	_	_	_	_	_	_	_	O
+23	kao	_	_	_	_	_	_	_	_	O
+24	novinara	_	_	_	_	_	_	_	_	O
+25	ili	_	_	_	_	_	_	_	_	O
+26	diplomatu	_	_	_	_	_	_	_	SpaceAfter=No	O
+27	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.56
+# text = Bio je ronin, samuraj bez gospodara.
+1	Bio	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	ronin	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	samuraj	_	_	_	_	_	_	_	_	O
+6	bez	_	_	_	_	_	_	_	_	O
+7	gospodara	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.57
+# text = A bio je samuraj i po.
+1	A	_	_	_	_	_	_	_	_	O
+2	bio	_	_	_	_	_	_	_	_	O
+3	je	_	_	_	_	_	_	_	_	O
+4	samuraj	_	_	_	_	_	_	_	_	O
+5	i	_	_	_	_	_	_	_	_	O
+6	po.	_	_	_	_	_	_	_	_	O
+
+# sent_id = 1.58
+# text = I sada, iako penzioner, novinarski je i literarni ronin.
+1	I	_	_	_	_	_	_	_	_	O
+2	sada	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	iako	_	_	_	_	_	_	_	_	O
+5	penzioner	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	novinarski	_	_	_	_	_	_	_	_	O
+8	je	_	_	_	_	_	_	_	_	O
+9	i	_	_	_	_	_	_	_	_	O
+10	literarni	_	_	_	_	_	_	_	_	O
+11	ronin	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.59
+# text = Japan je druga ekonomska sila na svetu.
+1	Japan	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	druga	_	_	_	_	_	_	_	_	O
+4	ekonomska	_	_	_	_	_	_	_	_	O
+5	sila	_	_	_	_	_	_	_	_	O
+6	na	_	_	_	_	_	_	_	_	O
+7	svetu	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.60
+# text = U to „moje vreme“ od oko sedamsto industrijskih robota, koliko ih je ukupno bilo na kugli zemaljskoj, oko četiristo ih je bilo u Japanu.
+1	U	_	_	_	_	_	_	_	_	O
+2	to	_	_	_	_	_	_	_	_	O
+3	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+4	moje	_	_	_	_	_	_	_	_	O
+5	vreme	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	“	“	PUNCT	Z	_	_	_	_	_	O
+7	od	_	_	_	_	_	_	_	_	O
+8	oko	_	_	_	_	_	_	_	_	O
+9	sedamsto	_	_	_	_	_	_	_	_	O
+10	industrijskih	_	_	_	_	_	_	_	_	O
+11	robota	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	koliko	_	_	_	_	_	_	_	_	O
+14	ih	_	_	_	_	_	_	_	_	O
+15	je	_	_	_	_	_	_	_	_	O
+16	ukupno	_	_	_	_	_	_	_	_	O
+17	bilo	_	_	_	_	_	_	_	_	O
+18	na	_	_	_	_	_	_	_	_	O
+19	kugli	_	_	_	_	_	_	_	_	O
+20	zemaljskoj	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	,	,	PUNCT	Z	_	_	_	_	_	O
+22	oko	_	_	_	_	_	_	_	_	O
+23	četiristo	_	_	_	_	_	_	_	_	O
+24	ih	_	_	_	_	_	_	_	_	O
+25	je	_	_	_	_	_	_	_	_	O
+26	bilo	_	_	_	_	_	_	_	_	O
+27	u	_	_	_	_	_	_	_	_	O
+28	Japanu	_	_	_	_	_	_	_	SpaceAfter=No	O
+29	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.61
+# text = O automobilskoj industriji da i ne govorim.
+1	O	_	_	_	_	_	_	_	_	O
+2	automobilskoj	_	_	_	_	_	_	_	_	O
+3	industriji	_	_	_	_	_	_	_	_	O
+4	da	_	_	_	_	_	_	_	_	O
+5	i	_	_	_	_	_	_	_	_	O
+6	ne	_	_	_	_	_	_	_	_	O
+7	govorim	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.62
+# text = Čak i jedan ja, ubogi satiričar, vozim macudu, što vam je mazda.
+1	Čak	_	_	_	_	_	_	_	_	O
+2	i	_	_	_	_	_	_	_	_	O
+3	jedan	_	_	_	_	_	_	_	_	O
+4	ja	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	ubogi	_	_	_	_	_	_	_	_	O
+7	satiričar	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	vozim	_	_	_	_	_	_	_	_	O
+10	macudu	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	što	_	_	_	_	_	_	_	_	O
+13	vam	_	_	_	_	_	_	_	_	O
+14	je	_	_	_	_	_	_	_	_	O
+15	mazda	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.63
+# text = Prvi po onome, drugi po ovome, treći po svemu…
+1	Prvi	_	_	_	_	_	_	_	_	O
+2	po	_	_	_	_	_	_	_	_	O
+3	onome	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	drugi	_	_	_	_	_	_	_	_	O
+6	po	_	_	_	_	_	_	_	_	O
+7	ovome	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	treći	_	_	_	_	_	_	_	_	O
+10	po	_	_	_	_	_	_	_	_	O
+11	svemu	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	…	…	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.64
+# text = a naročito po tome što se svi, pre svega, osećaju kao Japanci.
+1	a	_	_	_	_	_	_	_	_	O
+2	naročito	_	_	_	_	_	_	_	_	O
+3	po	_	_	_	_	_	_	_	_	O
+4	tome	_	_	_	_	_	_	_	_	O
+5	što	_	_	_	_	_	_	_	_	O
+6	se	_	_	_	_	_	_	_	_	O
+7	svi	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	pre	_	_	_	_	_	_	_	_	O
+10	svega	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	osećaju	_	_	_	_	_	_	_	_	O
+13	kao	_	_	_	_	_	_	_	_	O
+14	Japanci	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.65
+# text = I svi su za cara i otadžbinu, još od njihovog Majskog prevrata ili Osme sednice, kada su razni šoguni ili povili glave, ili ih izgubili.
+1	I	_	_	_	_	_	_	_	_	O
+2	svi	_	_	_	_	_	_	_	_	O
+3	su	_	_	_	_	_	_	_	_	O
+4	za	_	_	_	_	_	_	_	_	O
+5	cara	_	_	_	_	_	_	_	_	O
+6	i	_	_	_	_	_	_	_	_	O
+7	otadžbinu	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	još	_	_	_	_	_	_	_	_	O
+10	od	_	_	_	_	_	_	_	_	O
+11	njihovog	_	_	_	_	_	_	_	_	O
+12	Majskog	_	_	_	_	_	_	_	_	O
+13	prevrata	_	_	_	_	_	_	_	_	O
+14	ili	_	_	_	_	_	_	_	_	O
+15	Osme	_	_	_	_	_	_	_	_	O
+16	sednice	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	,	,	PUNCT	Z	_	_	_	_	_	O
+18	kada	_	_	_	_	_	_	_	_	O
+19	su	_	_	_	_	_	_	_	_	O
+20	razni	_	_	_	_	_	_	_	_	O
+21	šoguni	_	_	_	_	_	_	_	_	O
+22	ili	_	_	_	_	_	_	_	_	O
+23	povili	_	_	_	_	_	_	_	_	O
+24	glave	_	_	_	_	_	_	_	SpaceAfter=No	O
+25	,	,	PUNCT	Z	_	_	_	_	_	O
+26	ili	_	_	_	_	_	_	_	_	O
+27	ih	_	_	_	_	_	_	_	_	O
+28	izgubili	_	_	_	_	_	_	_	SpaceAfter=No	O
+29	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.66
+# text = Patriotizam je na najvećoj visini, kao onaj u Izraelu.
+1	Patriotizam	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	na	_	_	_	_	_	_	_	_	O
+4	najvećoj	_	_	_	_	_	_	_	_	O
+5	visini	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	kao	_	_	_	_	_	_	_	_	O
+8	onaj	_	_	_	_	_	_	_	_	O
+9	u	_	_	_	_	_	_	_	_	O
+10	Izraelu	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.67
+# text = Nisu hteli da popuste Amerima, sve dok ovi nisu izvukli onu Enolu gej, pa tras na Hirošimu i Nagasaki.
+1	Nisu	_	_	_	_	_	_	_	_	O
+2	hteli	_	_	_	_	_	_	_	_	O
+3	da	_	_	_	_	_	_	_	_	O
+4	popuste	_	_	_	_	_	_	_	_	O
+5	Amerima	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	sve	_	_	_	_	_	_	_	_	O
+8	dok	_	_	_	_	_	_	_	_	O
+9	ovi	_	_	_	_	_	_	_	_	O
+10	nisu	_	_	_	_	_	_	_	_	O
+11	izvukli	_	_	_	_	_	_	_	_	O
+12	onu	_	_	_	_	_	_	_	_	O
+13	Enolu	_	_	_	_	_	_	_	_	O
+14	gej	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	,	,	PUNCT	Z	_	_	_	_	_	O
+16	pa	_	_	_	_	_	_	_	_	O
+17	tras	_	_	_	_	_	_	_	_	O
+18	na	_	_	_	_	_	_	_	_	O
+19	Hirošimu	_	_	_	_	_	_	_	_	O
+20	i	_	_	_	_	_	_	_	_	O
+21	Nagasaki	_	_	_	_	_	_	_	SpaceAfter=No	O
+22	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.68
+# text = Tek onda je došlo do njihovog Kumanovskog sporazuma.
+1	Tek	_	_	_	_	_	_	_	_	O
+2	onda	_	_	_	_	_	_	_	_	O
+3	je	_	_	_	_	_	_	_	_	O
+4	došlo	_	_	_	_	_	_	_	_	O
+5	do	_	_	_	_	_	_	_	_	O
+6	njihovog	_	_	_	_	_	_	_	_	O
+7	Kumanovskog	_	_	_	_	_	_	_	_	O
+8	sporazuma	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.69
+# text = Ali borbeni duh ih nije ostavio.
+1	Ali	_	_	_	_	_	_	_	_	O
+2	borbeni	_	_	_	_	_	_	_	_	O
+3	duh	_	_	_	_	_	_	_	_	O
+4	ih	_	_	_	_	_	_	_	_	O
+5	nije	_	_	_	_	_	_	_	_	O
+6	ostavio	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.70
+# text = Najpopularniji ljudi Japana, osim carske porodice, jesu kraljevi sumo rvanja.
+1	Najpopularniji	_	_	_	_	_	_	_	_	O
+2	ljudi	_	_	_	_	_	_	_	_	O
+3	Japana	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	osim	_	_	_	_	_	_	_	_	O
+6	carske	_	_	_	_	_	_	_	_	O
+7	porodice	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	jesu	_	_	_	_	_	_	_	_	O
+10	kraljevi	_	_	_	_	_	_	_	_	O
+11	sumo	_	_	_	_	_	_	_	_	O
+12	rvanja	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.71
+# text = Ceo Japan živi za šest grend slem turnira u ovom sportu.
+1	Ceo	_	_	_	_	_	_	_	_	O
+2	Japan	_	_	_	_	_	_	_	_	O
+3	živi	_	_	_	_	_	_	_	_	O
+4	za	_	_	_	_	_	_	_	_	O
+5	šest	_	_	_	_	_	_	_	_	O
+6	grend	_	_	_	_	_	_	_	_	O
+7	slem	_	_	_	_	_	_	_	_	O
+8	turnira	_	_	_	_	_	_	_	_	O
+9	u	_	_	_	_	_	_	_	_	O
+10	ovom	_	_	_	_	_	_	_	_	O
+11	sportu	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.72
+# text = Treniraju i aikido i druge borilačke veštine, pa sve mislim da će, jednog dana, ponovo krenuti na Perl Harbor.
+1	Treniraju	_	_	_	_	_	_	_	_	O
+2	i	_	_	_	_	_	_	_	_	O
+3	aikido	_	_	_	_	_	_	_	_	O
+4	i	_	_	_	_	_	_	_	_	O
+5	druge	_	_	_	_	_	_	_	_	O
+6	borilačke	_	_	_	_	_	_	_	_	O
+7	veštine	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	pa	_	_	_	_	_	_	_	_	O
+10	sve	_	_	_	_	_	_	_	_	O
+11	mislim	_	_	_	_	_	_	_	_	O
+12	da	_	_	_	_	_	_	_	_	O
+13	će	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	,	,	PUNCT	Z	_	_	_	_	_	O
+15	jednog	_	_	_	_	_	_	_	_	O
+16	dana	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	,	,	PUNCT	Z	_	_	_	_	_	O
+18	ponovo	_	_	_	_	_	_	_	_	O
+19	krenuti	_	_	_	_	_	_	_	_	O
+20	na	_	_	_	_	_	_	_	_	O
+21	Perl	_	_	_	_	_	_	_	_	O
+22	Harbor	_	_	_	_	_	_	_	SpaceAfter=No	O
+23	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.73
+# text = Zasad su jedini nosioci ordena atomske bombe u svetu, baš kao i mi osiromašenog uranijuma u Evropi.
+1	Zasad	_	_	_	_	_	_	_	_	O
+2	su	_	_	_	_	_	_	_	_	O
+3	jedini	_	_	_	_	_	_	_	_	O
+4	nosioci	_	_	_	_	_	_	_	_	O
+5	ordena	_	_	_	_	_	_	_	_	O
+6	atomske	_	_	_	_	_	_	_	_	O
+7	bombe	_	_	_	_	_	_	_	_	O
+8	u	_	_	_	_	_	_	_	_	O
+9	svetu	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	baš	_	_	_	_	_	_	_	_	O
+12	kao	_	_	_	_	_	_	_	_	O
+13	i	_	_	_	_	_	_	_	_	O
+14	mi	_	_	_	_	_	_	_	_	O
+15	osiromašenog	_	_	_	_	_	_	_	_	O
+16	uranijuma	_	_	_	_	_	_	_	_	O
+17	u	_	_	_	_	_	_	_	_	O
+18	Evropi	_	_	_	_	_	_	_	SpaceAfter=No	O
+19	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.74
+# text = Možda je to simbolično i tajna njihovog uspeha, a našeg kraha.
+1	Možda	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	to	_	_	_	_	_	_	_	_	O
+4	simbolično	_	_	_	_	_	_	_	_	O
+5	i	_	_	_	_	_	_	_	_	O
+6	tajna	_	_	_	_	_	_	_	_	O
+7	njihovog	_	_	_	_	_	_	_	_	O
+8	uspeha	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	a	_	_	_	_	_	_	_	_	O
+11	našeg	_	_	_	_	_	_	_	_	O
+12	kraha	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.75
+# text = Oni su dobili obogaćenu atomsku bombu, a mi osiromašeni uranijum.
+1	Oni	_	_	_	_	_	_	_	_	O
+2	su	_	_	_	_	_	_	_	_	O
+3	dobili	_	_	_	_	_	_	_	_	O
+4	obogaćenu	_	_	_	_	_	_	_	_	O
+5	atomsku	_	_	_	_	_	_	_	_	O
+6	bombu	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	a	_	_	_	_	_	_	_	_	O
+9	mi	_	_	_	_	_	_	_	_	O
+10	osiromašeni	_	_	_	_	_	_	_	_	O
+11	uranijum	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.76
+# text = Donatori sad merkaju Iran i Rusiju.
+1	Donatori	_	_	_	_	_	_	_	_	O
+2	sad	_	_	_	_	_	_	_	_	O
+3	merkaju	_	_	_	_	_	_	_	_	O
+4	Iran	_	_	_	_	_	_	_	_	O
+5	i	_	_	_	_	_	_	_	_	O
+6	Rusiju	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.77
+# text = Valjda će nas i Japance ostaviti na miru.
+1	Valjda	_	_	_	_	_	_	_	_	O
+2	će	_	_	_	_	_	_	_	_	O
+3	nas	_	_	_	_	_	_	_	_	O
+4	i	_	_	_	_	_	_	_	_	O
+5	Japance	_	_	_	_	_	_	_	_	O
+6	ostaviti	_	_	_	_	_	_	_	_	O
+7	na	_	_	_	_	_	_	_	_	O
+8	miru	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.78
+# text = Kad sam uzleteo sa aerodroma Narita, ostavio sam pod sobom jedan mravinjak, bolje reći pčelinjak, u kojem se tačno zna ko šta radi.
+1	Kad	_	_	_	_	_	_	_	_	O
+2	sam	_	_	_	_	_	_	_	_	O
+3	uzleteo	_	_	_	_	_	_	_	_	O
+4	sa	_	_	_	_	_	_	_	_	O
+5	aerodroma	_	_	_	_	_	_	_	_	O
+6	Narita	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	ostavio	_	_	_	_	_	_	_	_	O
+9	sam	_	_	_	_	_	_	_	_	O
+10	pod	_	_	_	_	_	_	_	_	O
+11	sobom	_	_	_	_	_	_	_	_	O
+12	jedan	_	_	_	_	_	_	_	_	O
+13	mravinjak	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	,	,	PUNCT	Z	_	_	_	_	_	O
+15	bolje	_	_	_	_	_	_	_	_	O
+16	reći	_	_	_	_	_	_	_	_	O
+17	pčelinjak	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	,	,	PUNCT	Z	_	_	_	_	_	O
+19	u	_	_	_	_	_	_	_	_	O
+20	kojem	_	_	_	_	_	_	_	_	O
+21	se	_	_	_	_	_	_	_	_	O
+22	tačno	_	_	_	_	_	_	_	_	O
+23	zna	_	_	_	_	_	_	_	_	O
+24	ko	_	_	_	_	_	_	_	_	O
+25	šta	_	_	_	_	_	_	_	_	O
+26	radi	_	_	_	_	_	_	_	SpaceAfter=No	O
+27	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.79
+# text = A radi se, bogami, muški.
+1	A	_	_	_	_	_	_	_	_	O
+2	radi	_	_	_	_	_	_	_	_	O
+3	se	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	bogami	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	muški	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.80
+# text = Samo zuji.
+1	Samo	_	_	_	_	_	_	_	_	O
+2	zuji	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	.	.	PUNCT	Z	_	_	_	_	_	O
+

@@ -1,0 +1,617 @@
+#name = teodora
+#domen = knjizevni
+#url = https://laguna.rs/odlomak_8327_bes_bogova.html
+# newpar id = 1
+# sent_id = 1.1
+# text = Orkin suprug Torkel ubijen je, a njen sin Breka otet.
+1	Orkin	_	_	_	_	_	_	_	_	B-PER
+2	suprug	_	_	_	_	_	_	_	_	O
+3	Torkel	_	_	_	_	_	_	_	_	B-PER
+4	ubijen	_	_	_	_	_	_	_	_	O
+5	je	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	a	_	_	_	_	_	_	_	_	O
+8	njen	_	_	_	_	_	_	_	_	O
+9	sin	_	_	_	_	_	_	_	_	O
+10	Breka	_	_	_	_	_	_	_	_	B-PER
+11	otet	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.2
+# text = Sa svo-jim saputnicima Lifom i Mordom ona je ušla Breki u trag i pratila ga sve do Sumorišta, tvrđave na severu Vigrida.
+1	Sa	_	_	_	_	_	_	_	_	O
+2	svo-jim	_	_	_	_	_	_	_	_	O
+3	saputnicima	_	_	_	_	_	_	_	_	O
+4	Lifom	_	_	_	_	_	_	_	_	B-PER
+5	i	_	_	_	_	_	_	_	_	O
+6	Mordom	_	_	_	_	_	_	_	_	B-PER
+7	ona	_	_	_	_	_	_	_	_	O
+8	je	_	_	_	_	_	_	_	_	O
+9	ušla	_	_	_	_	_	_	_	_	O
+10	Breki	_	_	_	_	_	_	_	_	B-PER
+11	u	_	_	_	_	_	_	_	_	O
+12	trag	_	_	_	_	_	_	_	_	O
+13	i	_	_	_	_	_	_	_	_	O
+14	pratila	_	_	_	_	_	_	_	_	O
+15	ga	_	_	_	_	_	_	_	_	O
+16	sve	_	_	_	_	_	_	_	_	O
+17	do	_	_	_	_	_	_	_	_	O
+18	Sumorišta	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+19	,	,	PUNCT	Z	_	_	_	_	_	O
+20	tvrđave	_	_	_	_	_	_	_	_	O
+21	na	_	_	_	_	_	_	_	_	O
+22	severu	_	_	_	_	_	_	_	_	O
+23	Vigrida	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+24	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.3
+# text = Orku tamo zaro-bljava galduranin Skalk, ali uz pomoć vesena Sperta i Vesli ona se oslobađa, pa pušta s lanca vuka u svojoj krvi da kida, cepa i čereči.
+1	Orku	_	_	_	_	_	_	_	_	B-PER
+2	tamo	_	_	_	_	_	_	_	_	O
+3	zaro-bljava	_	_	_	_	_	_	_	_	O
+4	galduranin	_	_	_	_	_	_	_	_	O
+5	Skalk	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	ali	_	_	_	_	_	_	_	_	O
+8	uz	_	_	_	_	_	_	_	_	O
+9	pomoć	_	_	_	_	_	_	_	_	O
+10	vesena	_	_	_	_	_	_	_	_	O
+11	Sperta	_	_	_	_	_	_	_	_	B-PER
+12	i	_	_	_	_	_	_	_	_	O
+13	Vesli	_	_	_	_	_	_	_	_	B-PER
+14	ona	_	_	_	_	_	_	_	_	O
+15	se	_	_	_	_	_	_	_	_	O
+16	oslobađa	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	,	,	PUNCT	Z	_	_	_	_	_	O
+18	pa	_	_	_	_	_	_	_	_	O
+19	pušta	_	_	_	_	_	_	_	_	O
+20	s	_	_	_	_	_	_	_	_	O
+21	lanca	_	_	_	_	_	_	_	_	O
+22	vuka	_	_	_	_	_	_	_	_	O
+23	u	_	_	_	_	_	_	_	_	O
+24	svojoj	_	_	_	_	_	_	_	_	O
+25	krvi	_	_	_	_	_	_	_	_	O
+26	da	_	_	_	_	_	_	_	_	O
+27	kida	_	_	_	_	_	_	_	SpaceAfter=No	O
+28	,	,	PUNCT	Z	_	_	_	_	_	O
+29	cepa	_	_	_	_	_	_	_	_	O
+30	i	_	_	_	_	_	_	_	_	O
+31	čereči	_	_	_	_	_	_	_	SpaceAfter=No	O
+32	.	.	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+
+# sent_id = 1.4
+# text = Orka otkriva da Breka nije tu, premda zatiče čitav niz Izopače-ne dece u zarobljeništvu.
+1	Orka	_	_	_	_	_	_	_	_	B-PER
+2	otkriva	_	_	_	_	_	_	_	_	O
+3	da	_	_	_	_	_	_	_	_	O
+4	Breka	_	_	_	_	_	_	_	_	B-PER
+5	nije	_	_	_	_	_	_	_	_	O
+6	tu	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	premda	_	_	_	_	_	_	_	_	O
+9	zatiče	_	_	_	_	_	_	_	_	O
+10	čitav	_	_	_	_	_	_	_	_	O
+11	niz	_	_	_	_	_	_	_	_	O
+12	Izopače-ne	_	_	_	_	_	_	_	_	B-ORG
+13	dece	_	_	_	_	_	_	_	_	I-ORG
+14	u	_	_	_	_	_	_	_	_	O
+15	zarobljeništvu	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.5
+# text = U Sumorištu se ponovo sastaje s Krvo-zavetnicima, najamničkom družinom koju je nekada predvodila služeći se imenom Orka Glavocep.
+1	U	_	_	_	_	_	_	_	_	O
+2	Sumorištu	_	_	_	_	_	_	_	_	B-LOC
+3	se	_	_	_	_	_	_	_	_	O
+4	ponovo	_	_	_	_	_	_	_	_	O
+5	sastaje	_	_	_	_	_	_	_	_	O
+6	s	_	_	_	_	_	_	_	_	O
+7	Krvo-zavetnicima	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	najamničkom	_	_	_	_	_	_	_	_	O
+10	družinom	_	_	_	_	_	_	_	_	O
+11	koju	_	_	_	_	_	_	_	_	O
+12	je	_	_	_	_	_	_	_	_	O
+13	nekada	_	_	_	_	_	_	_	_	O
+14	predvodila	_	_	_	_	_	_	_	_	O
+15	služeći	_	_	_	_	_	_	_	_	O
+16	se	_	_	_	_	_	_	_	_	O
+17	imenom	_	_	_	_	_	_	_	_	O
+18	Orka	_	_	_	_	_	_	_	_	B-PER
+19	Glavocep	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+20	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.6
+# text = Novi poglavar Krvozavetnika Glornir Štitolomac brat je Orkinog ubijenog supruga.
+1	Novi	_	_	_	_	_	_	_	_	O
+2	poglavar	_	_	_	_	_	_	_	_	O
+3	Krvozavetnika	_	_	_	_	_	_	_	_	B-ORG
+4	Glornir	_	_	_	_	_	_	_	_	B-PER
+5	Štitolomac	_	_	_	_	_	_	_	_	I-PER
+6	brat	_	_	_	_	_	_	_	_	O
+7	je	_	_	_	_	_	_	_	_	O
+8	Orkinog	_	_	_	_	_	_	_	_	B-PER
+9	ubijenog	_	_	_	_	_	_	_	_	O
+10	supruga	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	.	.	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+
+# sent_id = 1.7
+# text = Dok su u Sumorištu, Orka i Krvozavetnici saznaju da je zmaj-ska  boginja  Lik-Rifa  oslobođena  iz  sužanjstva  podno  korenja  drevnog jasenovog drveta Oskutreda.
+1	Dok	_	_	_	_	_	_	_	_	O
+2	su	_	_	_	_	_	_	_	_	O
+3	u	_	_	_	_	_	_	_	_	O
+4	Sumorištu	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	Orka	_	_	_	_	_	_	_	_	B-PER
+7	i	_	_	_	_	_	_	_	_	O
+8	Krvozavetnici	_	_	_	_	_	_	_	_	B-ORG
+9	saznaju	_	_	_	_	_	_	_	_	O
+10	da	_	_	_	_	_	_	_	_	O
+11	je	_	_	_	_	_	_	_	_	O
+12	zmaj-ska	_	_	_	_	_	_	_	_	O
+13	boginja	_	_	_	_	_	_	_	_	O
+14	Lik-Rifa	_	_	_	_	_	_	_	_	B-PER
+15	oslobođena	_	_	_	_	_	_	_	_	O
+16	iz	_	_	_	_	_	_	_	_	O
+17	sužanjstva	_	_	_	_	_	_	_	_	O
+18	podno	_	_	_	_	_	_	_	_	O
+19	korenja	_	_	_	_	_	_	_	_	O
+20	drevnog	_	_	_	_	_	_	_	_	O
+21	jasenovog	_	_	_	_	_	_	_	_	O
+22	drveta	_	_	_	_	_	_	_	_	O
+23	Oskutreda	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
+24	.	.	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+
+# sent_id = 1.8
+# text = Glornir proganja Skalka, darlskog galduranina, jer je on oteo Glornirovu ženu, sejdr-vešticu Vol.
+1	Glornir	_	_	_	_	_	_	_	_	B-PER
+2	proganja	_	_	_	_	_	_	_	_	O
+3	Skalka	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	darlskog	_	_	_	_	_	_	_	_	O
+6	galduranina	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	jer	_	_	_	_	_	_	_	_	O
+9	je	_	_	_	_	_	_	_	_	O
+10	on	_	_	_	_	_	_	_	_	O
+11	oteo	_	_	_	_	_	_	_	_	O
+12	Glornirovu	_	_	_	_	_	_	_	_	B-PER
+13	ženu	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	,	,	PUNCT	Z	_	_	_	_	_	O
+15	sejdr-vešticu	_	_	_	_	_	_	_	_	O
+16	Vol	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
+17	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.9
+# text = On pita Orku da pođe s nji-ma, ali ona odbija, pošto je čula da su se Glornir i Krvozavetnici borili protiv zmajorodnih kod nedavno otkrivene odaje pacovskog boga Rote.
+1	On	_	_	_	_	_	_	_	_	O
+2	pita	_	_	_	_	_	_	_	_	O
+3	Orku	_	_	_	_	_	_	_	_	B-PER
+4	da	_	_	_	_	_	_	_	_	O
+5	pođe	_	_	_	_	_	_	_	_	O
+6	s	_	_	_	_	_	_	_	_	O
+7	nji-ma	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	ali	_	_	_	_	_	_	_	_	O
+10	ona	_	_	_	_	_	_	_	_	O
+11	odbija	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	pošto	_	_	_	_	_	_	_	_	O
+14	je	_	_	_	_	_	_	_	_	O
+15	čula	_	_	_	_	_	_	_	_	O
+16	da	_	_	_	_	_	_	_	_	O
+17	su	_	_	_	_	_	_	_	_	O
+18	se	_	_	_	_	_	_	_	_	O
+19	Glornir	_	_	_	_	_	_	_	_	B-PER
+20	i	_	_	_	_	_	_	_	_	O
+21	Krvozavetnici	_	_	_	_	_	_	_	_	B-ORG
+22	borili	_	_	_	_	_	_	_	_	O
+23	protiv	_	_	_	_	_	_	_	_	O
+24	zmajorodnih	_	_	_	_	_	_	_	_	O
+25	kod	_	_	_	_	_	_	_	_	O
+26	nedavno	_	_	_	_	_	_	_	_	O
+27	otkrivene	_	_	_	_	_	_	_	_	O
+28	odaje	_	_	_	_	_	_	_	_	O
+29	pacovskog	_	_	_	_	_	_	_	_	O
+30	boga	_	_	_	_	_	_	_	_	O
+31	Rote	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
+32	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.10
+# text = Orka se nada da će tamo naći tragove koji bi joj otkrili gde joj se sin nalazi.
+1	Orka	_	_	_	_	_	_	_	_	B-PER
+2	se	_	_	_	_	_	_	_	_	O
+3	nada	_	_	_	_	_	_	_	_	O
+4	da	_	_	_	_	_	_	_	_	O
+5	će	_	_	_	_	_	_	_	_	O
+6	tamo	_	_	_	_	_	_	_	_	O
+7	naći	_	_	_	_	_	_	_	_	O
+8	tragove	_	_	_	_	_	_	_	_	O
+9	koji	_	_	_	_	_	_	_	_	O
+10	bi	_	_	_	_	_	_	_	_	O
+11	joj	_	_	_	_	_	_	_	_	O
+12	otkrili	_	_	_	_	_	_	_	_	O
+13	gde	_	_	_	_	_	_	_	_	O
+14	joj	_	_	_	_	_	_	_	_	O
+15	se	_	_	_	_	_	_	_	_	O
+16	sin	_	_	_	_	_	_	_	_	O
+17	nalazi	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.11
+# text = Glornir šalje nekoliko Krvozavetnika da joj pokažu  put  do  Rotine  odaje  i  onda  se  rastaju  polazeći  svako  u  svoju potragu.
+1	Glornir	_	_	_	_	_	_	_	_	B-PER
+2	šalje	_	_	_	_	_	_	_	_	O
+3	nekoliko	_	_	_	_	_	_	_	_	O
+4	Krvozavetnika	_	_	_	_	_	_	_	_	O
+5	da	_	_	_	_	_	_	_	_	O
+6	joj	_	_	_	_	_	_	_	_	O
+7	pokažu	_	_	_	_	_	_	_	_	O
+8	put	_	_	_	_	_	_	_	_	O
+9	do	_	_	_	_	_	_	_	_	O
+10	Rotine	_	_	_	_	_	_	_	_	B-PER
+11	odaje	_	_	_	_	_	_	_	_	O
+12	i	_	_	_	_	_	_	_	_	O
+13	onda	_	_	_	_	_	_	_	_	O
+14	se	_	_	_	_	_	_	_	_	O
+15	rastaju	_	_	_	_	_	_	_	_	O
+16	polazeći	_	_	_	_	_	_	_	_	O
+17	svako	_	_	_	_	_	_	_	_	O
+18	u	_	_	_	_	_	_	_	_	O
+19	svoju	_	_	_	_	_	_	_	_	O
+20	potragu	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 2
+# sent_id = 2.1
+# text = Džon GvinKod  Rotine  odaje  Orka  i  njeni  sadruzi  nalaze  dokaze  da  su  deca tu nedavno držana u zatočeništvu.
+1	Džon	_	_	_	_	_	_	_	_	B-PER
+2	GvinKod	_	_	_	_	_	_	_	_	I-PER
+3	Rotine	_	_	_	_	_	_	_	_	B-LOC
+4	odaje	_	_	_	_	_	_	_	_	I-LOC
+5	Orka	_	_	_	_	_	_	_	_	B-PER
+6	i	_	_	_	_	_	_	_	_	O
+7	njeni	_	_	_	_	_	_	_	_	O
+8	sadruzi	_	_	_	_	_	_	_	_	O
+9	nalaze	_	_	_	_	_	_	_	_	O
+10	dokaze	_	_	_	_	_	_	_	_	O
+11	da	_	_	_	_	_	_	_	_	O
+12	su	_	_	_	_	_	_	_	_	O
+13	deca	_	_	_	_	_	_	_	_	O
+14	tu	_	_	_	_	_	_	_	_	O
+15	nedavno	_	_	_	_	_	_	_	_	O
+16	držana	_	_	_	_	_	_	_	_	O
+17	u	_	_	_	_	_	_	_	_	O
+18	zatočeništvu	_	_	_	_	_	_	_	SpaceAfter=No	O
+19	.	.	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+
+# sent_id = 2.2
+# text = Dok  su  oni  u  blizini  odaje,  dolazi  Mirk  iz  Gavranhranitelja.
+1	Dok	_	_	_	_	_	_	_	_	O
+2	su	_	_	_	_	_	_	_	_	O
+3	oni	_	_	_	_	_	_	_	_	O
+4	u	_	_	_	_	_	_	_	_	O
+5	blizini	_	_	_	_	_	_	_	_	O
+6	odaje	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	dolazi	_	_	_	_	_	_	_	_	O
+9	Mirk	_	_	_	_	_	_	_	_	B-PER
+10	iz	_	_	_	_	_	_	_	_	O
+11	Gavranhranitelja	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+12	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.3
+# text = Ona  je  zmajorodna,  sestra  Ilske  Okrutne  i  Drekra,  koji  je  ubio  Orkinog  supruga  i  oteo  Breku,  a  predvodi  malu  skupinu  Ga-vranhranitelja.
+1	Ona	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	zmajorodna	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	sestra	_	_	_	_	_	_	_	_	O
+6	Ilske	_	_	_	_	_	_	_	_	B-PER
+7	Okrutne	_	_	_	_	_	_	_	_	I-PER
+8	i	_	_	_	_	_	_	_	_	O
+9	Drekra	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	koji	_	_	_	_	_	_	_	_	O
+12	je	_	_	_	_	_	_	_	_	O
+13	ubio	_	_	_	_	_	_	_	_	O
+14	Orkinog	_	_	_	_	_	_	_	_	B-PER
+15	supruga	_	_	_	_	_	_	_	_	O
+16	i	_	_	_	_	_	_	_	_	O
+17	oteo	_	_	_	_	_	_	_	_	O
+18	Breku	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
+19	,	,	PUNCT	Z	_	_	_	_	_	O
+20	a	_	_	_	_	_	_	_	_	O
+21	predvodi	_	_	_	_	_	_	_	_	O
+22	malu	_	_	_	_	_	_	_	_	O
+23	skupinu	_	_	_	_	_	_	_	_	O
+24	Ga-vranhranitelja	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
+25	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.4
+# text = Mirk pronalazi telo svog oca, kojeg je ubio Varg Bezrazumni iz Krvozavetnika.
+1	Mirk	_	_	_	_	_	_	_	_	B-PER
+2	pronalazi	_	_	_	_	_	_	_	_	O
+3	telo	_	_	_	_	_	_	_	_	O
+4	svog	_	_	_	_	_	_	_	_	O
+5	oca	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	kojeg	_	_	_	_	_	_	_	_	O
+8	je	_	_	_	_	_	_	_	_	O
+9	ubio	_	_	_	_	_	_	_	_	O
+10	Varg	_	_	_	_	_	_	_	_	B-PER
+11	Bezrazumni	_	_	_	_	_	_	_	_	I-PER
+12	iz	_	_	_	_	_	_	_	_	O
+13	Krvozavetnika	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
+14	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.5
+# text = I Orka i Mirk traže odgovore, svaka na svoja pitanja.
+1	I	_	_	_	_	_	_	_	_	O
+2	Orka	_	_	_	_	_	_	_	_	B-PER
+3	i	_	_	_	_	_	_	_	_	O
+4	Mirk	_	_	_	_	_	_	_	_	B-PER
+5	traže	_	_	_	_	_	_	_	_	O
+6	odgovore	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	svaka	_	_	_	_	_	_	_	_	O
+9	na	_	_	_	_	_	_	_	_	O
+10	svoja	_	_	_	_	_	_	_	_	O
+11	pitanja	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.6
+# text = Dolazi do borbe, a Orki pritiče u pomoć šačica Krvozavetnika  koji  su  s  njom.
+1	Dolazi	_	_	_	_	_	_	_	_	O
+2	do	_	_	_	_	_	_	_	_	O
+3	borbe	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	a	_	_	_	_	_	_	_	_	O
+6	Orki	_	_	_	_	_	_	_	_	B-PER
+7	pritiče	_	_	_	_	_	_	_	_	O
+8	u	_	_	_	_	_	_	_	_	O
+9	pomoć	_	_	_	_	_	_	_	_	O
+10	šačica	_	_	_	_	_	_	_	_	O
+11	Krvozavetnika	_	_	_	_	_	_	_	_	B-ORG
+12	koji	_	_	_	_	_	_	_	_	O
+13	su	_	_	_	_	_	_	_	_	O
+14	s	_	_	_	_	_	_	_	_	O
+15	njom	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.7
+# text = Oni  skupa  odnose  prevagu  nad  Gavranhraniteljima i Mirk biva zarobljena.
+1	Oni	_	_	_	_	_	_	_	_	O
+2	skupa	_	_	_	_	_	_	_	_	O
+3	odnose	_	_	_	_	_	_	_	_	O
+4	prevagu	_	_	_	_	_	_	_	_	O
+5	nad	_	_	_	_	_	_	_	_	O
+6	Gavranhraniteljima	_	_	_	_	_	_	_	_	B-ORG
+7	i	_	_	_	_	_	_	_	_	O
+8	Mirk	_	_	_	_	_	_	_	_	B-PER
+9	biva	_	_	_	_	_	_	_	_	O
+10	zarobljena	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	.	.	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+
+# sent_id = 2.8
+# text = Mirk pristaje da odvede Orku i njene saputnike do Breke, a da zauzvrat sazna ko joj je ubio oca.
+1	Mirk	_	_	_	_	_	_	_	_	B-PER
+2	pristaje	_	_	_	_	_	_	_	_	O
+3	da	_	_	_	_	_	_	_	_	O
+4	odvede	_	_	_	_	_	_	_	_	O
+5	Orku	_	_	_	_	_	_	_	_	B-PER
+6	i	_	_	_	_	_	_	_	_	O
+7	njene	_	_	_	_	_	_	_	_	O
+8	saputnike	_	_	_	_	_	_	_	_	O
+9	do	_	_	_	_	_	_	_	_	O
+10	Breke	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	a	_	_	_	_	_	_	_	_	O
+13	da	_	_	_	_	_	_	_	_	O
+14	zauzvrat	_	_	_	_	_	_	_	_	O
+15	sazna	_	_	_	_	_	_	_	_	O
+16	ko	_	_	_	_	_	_	_	_	O
+17	joj	_	_	_	_	_	_	_	_	O
+18	je	_	_	_	_	_	_	_	_	O
+19	ubio	_	_	_	_	_	_	_	_	O
+20	oca	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.9
+# text = Putuju u Starl, trgovački grad na jezeru Horndal, gde se Orka susreće s Elvar i Ratnicima-Turob-nicima, kao i s Ulfrirom, vučjim bogom koji je postao tral.
+1	Putuju	_	_	_	_	_	_	_	_	O
+2	u	_	_	_	_	_	_	_	_	O
+3	Starl	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	trgovački	_	_	_	_	_	_	_	_	O
+6	grad	_	_	_	_	_	_	_	_	O
+7	na	_	_	_	_	_	_	_	_	O
+8	jezeru	_	_	_	_	_	_	_	_	B-LOC
+9	Horndal	_	_	_	_	_	_	_	SpaceAfter=No	I-LOC
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	gde	_	_	_	_	_	_	_	_	O
+12	se	_	_	_	_	_	_	_	_	O
+13	Orka	_	_	_	_	_	_	_	_	B-PER
+14	susreće	_	_	_	_	_	_	_	_	O
+15	s	_	_	_	_	_	_	_	_	O
+16	Elvar	_	_	_	_	_	_	_	_	B-PER
+17	i	_	_	_	_	_	_	_	_	O
+18	Ratnicima-Turob-nicima	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
+19	,	,	PUNCT	Z	_	_	_	_	_	O
+20	kao	_	_	_	_	_	_	_	_	O
+21	i	_	_	_	_	_	_	_	_	O
+22	s	_	_	_	_	_	_	_	_	O
+23	Ulfrirom	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
+24	,	,	PUNCT	Z	_	_	_	_	_	O
+25	vučjim	_	_	_	_	_	_	_	_	O
+26	bogom	_	_	_	_	_	_	_	_	O
+27	koji	_	_	_	_	_	_	_	_	O
+28	je	_	_	_	_	_	_	_	_	O
+29	postao	_	_	_	_	_	_	_	_	O
+30	tral	_	_	_	_	_	_	_	SpaceAfter=No	O
+31	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.10
+# text = Ona otkriva da je Mirk vodi lažnim tragom, pa sklapa pogodbu s Elvar i Turobnicima.
+1	Ona	_	_	_	_	_	_	_	_	O
+2	otkriva	_	_	_	_	_	_	_	_	O
+3	da	_	_	_	_	_	_	_	_	O
+4	je	_	_	_	_	_	_	_	_	O
+5	Mirk	_	_	_	_	_	_	_	_	B-PER
+6	vodi	_	_	_	_	_	_	_	_	O
+7	lažnim	_	_	_	_	_	_	_	_	O
+8	tragom	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	pa	_	_	_	_	_	_	_	_	O
+11	sklapa	_	_	_	_	_	_	_	_	O
+12	pogodbu	_	_	_	_	_	_	_	_	O
+13	s	_	_	_	_	_	_	_	_	O
+14	Elvar	_	_	_	_	_	_	_	_	B-PER
+15	i	_	_	_	_	_	_	_	_	O
+16	Turobnicima	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
+17	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.11
+# text = Oni joj pomažu da upriliči da Mirk pobegne, a Orka će zauzvrat poslati glas Glorniru i Krvozavetnicima da Elvar hoće da ih unajmi da se bore protiv zmajske boginje Lik-Rife.
+1	Oni	_	_	_	_	_	_	_	_	O
+2	joj	_	_	_	_	_	_	_	_	O
+3	pomažu	_	_	_	_	_	_	_	_	O
+4	da	_	_	_	_	_	_	_	_	O
+5	upriliči	_	_	_	_	_	_	_	_	O
+6	da	_	_	_	_	_	_	_	_	O
+7	Mirk	_	_	_	_	_	_	_	_	B-PER
+8	pobegne	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	a	_	_	_	_	_	_	_	_	O
+11	Orka	_	_	_	_	_	_	_	_	B-PER
+12	će	_	_	_	_	_	_	_	_	O
+13	zauzvrat	_	_	_	_	_	_	_	_	O
+14	poslati	_	_	_	_	_	_	_	_	O
+15	glas	_	_	_	_	_	_	_	_	O
+16	Glorniru	_	_	_	_	_	_	_	_	B-PER
+17	i	_	_	_	_	_	_	_	_	O
+18	Krvozavetnicima	_	_	_	_	_	_	_	_	B-ORG
+19	da	_	_	_	_	_	_	_	_	O
+20	Elvar	_	_	_	_	_	_	_	_	B-PER
+21	hoće	_	_	_	_	_	_	_	_	O
+22	da	_	_	_	_	_	_	_	_	O
+23	ih	_	_	_	_	_	_	_	_	O
+24	unajmi	_	_	_	_	_	_	_	_	O
+25	da	_	_	_	_	_	_	_	_	O
+26	se	_	_	_	_	_	_	_	_	O
+27	bore	_	_	_	_	_	_	_	_	O
+28	protiv	_	_	_	_	_	_	_	_	O
+29	zmajske	_	_	_	_	_	_	_	_	O
+30	boginje	_	_	_	_	_	_	_	_	O
+31	Lik-Rife	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
+32	.	.	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+
+# sent_id = 2.12
+# text = Mirk  beži,  a  Orka  je  prati  i  sledi  sve  do  Nastrandira,  dvora  Lik-Rifinih, a onda do Svelgarta, gde ratnici i veseni pod zapoved-ništvom pacovskog boga Rote napadaju utvrđeni grad.
+1	Mirk	_	_	_	_	_	_	_	_	B-PER
+2	beži	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	a	_	_	_	_	_	_	_	_	O
+5	Orka	_	_	_	_	_	_	_	_	B-PER
+6	je	_	_	_	_	_	_	_	_	O
+7	prati	_	_	_	_	_	_	_	_	O
+8	i	_	_	_	_	_	_	_	_	O
+9	sledi	_	_	_	_	_	_	_	_	O
+10	sve	_	_	_	_	_	_	_	_	O
+11	do	_	_	_	_	_	_	_	_	O
+12	Nastrandira	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+14	dvora	_	_	_	_	_	_	_	_	B-LOC
+15	Lik-Rifinih	_	_	_	_	_	_	_	SpaceAfter=No	I-LOC
+16	,	,	PUNCT	Z	_	_	_	_	_	O
+17	a	_	_	_	_	_	_	_	_	O
+18	onda	_	_	_	_	_	_	_	_	O
+19	do	_	_	_	_	_	_	_	_	O
+20	Svelgarta	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+21	,	,	PUNCT	Z	_	_	_	_	_	O
+22	gde	_	_	_	_	_	_	_	_	O
+23	ratnici	_	_	_	_	_	_	_	_	O
+24	i	_	_	_	_	_	_	_	_	O
+25	veseni	_	_	_	_	_	_	_	_	O
+26	pod	_	_	_	_	_	_	_	_	O
+27	zapoved-ništvom	_	_	_	_	_	_	_	_	O
+28	pacovskog	_	_	_	_	_	_	_	_	O
+29	boga	_	_	_	_	_	_	_	_	O
+30	Rote	_	_	_	_	_	_	_	_	B-PER
+31	napadaju	_	_	_	_	_	_	_	_	O
+32	utvrđeni	_	_	_	_	_	_	_	_	O
+33	grad	_	_	_	_	_	_	_	SpaceAfter=No	O
+34	.	.	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+
+# sent_id = 2.13
+# text = Orka se uvlači u logor dok je napad u toku, nalazi Breku i beži skupa s njim.
+1	Orka	_	_	_	_	_	_	_	_	B-PER
+2	se	_	_	_	_	_	_	_	_	O
+3	uvlači	_	_	_	_	_	_	_	_	O
+4	u	_	_	_	_	_	_	_	_	O
+5	logor	_	_	_	_	_	_	_	_	O
+6	dok	_	_	_	_	_	_	_	_	O
+7	je	_	_	_	_	_	_	_	_	O
+8	napad	_	_	_	_	_	_	_	_	O
+9	u	_	_	_	_	_	_	_	_	O
+10	toku	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	nalazi	_	_	_	_	_	_	_	_	O
+13	Breku	_	_	_	_	_	_	_	_	B-PER
+14	i	_	_	_	_	_	_	_	_	O
+15	beži	_	_	_	_	_	_	_	_	O
+16	skupa	_	_	_	_	_	_	_	_	O
+17	s	_	_	_	_	_	_	_	_	O
+18	njim	_	_	_	_	_	_	_	SpaceAfter=No	O
+19	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.14
+# text = Proganjaju je i sustižu mraz-pauci pa je ujedaju tako da otrov sipi kroz nju.
+1	Proganjaju	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	i	_	_	_	_	_	_	_	_	O
+4	sustižu	_	_	_	_	_	_	_	_	O
+5	mraz-pauci	_	_	_	_	_	_	_	_	O
+6	pa	_	_	_	_	_	_	_	_	O
+7	je	_	_	_	_	_	_	_	_	O
+8	ujedaju	_	_	_	_	_	_	_	_	O
+9	tako	_	_	_	_	_	_	_	_	O
+10	da	_	_	_	_	_	_	_	_	O
+11	otrov	_	_	_	_	_	_	_	_	O
+12	sipi	_	_	_	_	_	_	_	_	O
+13	kroz	_	_	_	_	_	_	_	_	O
+14	nju	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.15
+# text = Poslednjim ostacima snage ona baca Breku u reku, nadajući se da će ga struja odneti do mesta gde je trebalo da se ponovo sastane sa svojim saputnicima.
+1	Poslednjim	_	_	_	_	_	_	_	_	O
+2	ostacima	_	_	_	_	_	_	_	_	O
+3	snage	_	_	_	_	_	_	_	_	O
+4	ona	_	_	_	_	_	_	_	_	O
+5	baca	_	_	_	_	_	_	_	_	O
+6	Breku	_	_	_	_	_	_	_	_	B-PER
+7	u	_	_	_	_	_	_	_	_	O
+8	reku	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	nadajući	_	_	_	_	_	_	_	_	O
+11	se	_	_	_	_	_	_	_	_	O
+12	da	_	_	_	_	_	_	_	_	O
+13	će	_	_	_	_	_	_	_	_	O
+14	ga	_	_	_	_	_	_	_	_	O
+15	struja	_	_	_	_	_	_	_	_	O
+16	odneti	_	_	_	_	_	_	_	_	O
+17	do	_	_	_	_	_	_	_	_	O
+18	mesta	_	_	_	_	_	_	_	_	O
+19	gde	_	_	_	_	_	_	_	_	O
+20	je	_	_	_	_	_	_	_	_	O
+21	trebalo	_	_	_	_	_	_	_	_	O
+22	da	_	_	_	_	_	_	_	_	O
+23	se	_	_	_	_	_	_	_	_	O
+24	ponovo	_	_	_	_	_	_	_	_	O
+25	sastane	_	_	_	_	_	_	_	_	O
+26	sa	_	_	_	_	_	_	_	_	O
+27	svojim	_	_	_	_	_	_	_	_	O
+28	saputnicima	_	_	_	_	_	_	_	SpaceAfter=No	O
+29	.	.	PUNCT	Z	_	_	_	_	_	O
+

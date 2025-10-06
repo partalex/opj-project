@@ -1,0 +1,4 @@
+#name = ognjen
+#domen = tviter
+#url = https://x.com/burek/status/1969827649183785086
+#text = Nebojša je jedan malo atipičan arhitekta, pa je zbog toga dobar deo života proveo radeći atipične stvari, efektivno učestvujući u stvaranju čitave nove oblasti arhitekture i jake veze između nekretnina, gejminga i programiranja. Bilo je zadovoljstvo :)

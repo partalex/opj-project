@@ -1,0 +1,4 @@
+#name = ognjen
+#domen = tviter
+#url = https://x.com/kvestkosmos/status/950661680979173376
+#text = spomenik zmajoubici Petru Šarenom očnom linijom gleda u prvi sprat krčme gde je uzidana bista njegove neostvane ljubavi Lenke da je gleda i u svom bronzanom zagrobnom životu Lenku niko ništa nije pitao

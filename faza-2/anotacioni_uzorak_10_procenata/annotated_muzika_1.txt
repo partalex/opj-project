@@ -750,3 +750,353 @@
 29	pevanjem	_	_	_	_	_	_	_	SpaceAfter=No	O
 30	.	.	PUNCT	Z	_	_	_	_	_	O
 
+#name = marija
+#domen = muzika
+#url = https://balkanrock.com/autorski-clanci/recenzije/buc-kesidi-moderne-veze-2025/
+# newpar id = 1
+
+
+# newpar id = 3
+# sent_id = 3.1
+# text = Nakon više preslušavanja albuma, ne možete da otmete utisku da Buč Kesidi potajno ne želi da vi ovaj album slušate (pre)više puta.
+1	Nakon	_	_	_	_	_	_	_	_	O
+2	više	_	_	_	_	_	_	_	_	O
+3	preslušavanja	_	_	_	_	_	_	_	_	O
+4	albuma	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	ne	_	_	_	_	_	_	_	_	O
+7	možete	_	_	_	_	_	_	_	_	O
+8	da	_	_	_	_	_	_	_	_	O
+9	otmete	_	_	_	_	_	_	_	_	O
+10	utisku	_	_	_	_	_	_	_	_	O
+11	da	_	_	_	_	_	_	_	_	O
+12	Buč	_	_	_	_	_	_	_	_	O
+13	Kesidi	_	_	_	_	_	_	_	_	O
+14	potajno	_	_	_	_	_	_	_	_	O
+15	ne	_	_	_	_	_	_	_	_	O
+16	želi	_	_	_	_	_	_	_	_	O
+17	da	_	_	_	_	_	_	_	_	O
+18	vi	_	_	_	_	_	_	_	_	O
+19	ovaj	_	_	_	_	_	_	_	_	O
+20	album	_	_	_	_	_	_	_	_	O
+21	slušate	_	_	_	_	_	_	_	_	O
+22	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+23	pre	_	_	_	_	_	_	_	SpaceAfter=No	O
+24	)	)	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+25	više	_	_	_	_	_	_	_	_	O
+26	puta	_	_	_	_	_	_	_	SpaceAfter=No	O
+27	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 3.2
+# text = Čak i u lossless formatu (koji je redakcija dobila), album zvuči kao da je smiksan tek da bi bio smiksan.
+1	Čak	_	_	_	_	_	_	_	_	O
+2	i	_	_	_	_	_	_	_	_	O
+3	u	_	_	_	_	_	_	_	_	O
+4	lossless	_	_	_	_	_	_	_	_	O
+5	formatu	_	_	_	_	_	_	_	_	O
+6	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+7	koji	_	_	_	_	_	_	_	_	O
+8	je	_	_	_	_	_	_	_	_	O
+9	redakcija	_	_	_	_	_	_	_	_	O
+10	dobila	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	)	)	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	album	_	_	_	_	_	_	_	_	O
+14	zvuči	_	_	_	_	_	_	_	_	O
+15	kao	_	_	_	_	_	_	_	_	O
+16	da	_	_	_	_	_	_	_	_	O
+17	je	_	_	_	_	_	_	_	_	O
+18	smiksan	_	_	_	_	_	_	_	_	O
+19	tek	_	_	_	_	_	_	_	_	O
+20	da	_	_	_	_	_	_	_	_	O
+21	bi	_	_	_	_	_	_	_	_	O
+22	bio	_	_	_	_	_	_	_	_	O
+23	smiksan	_	_	_	_	_	_	_	SpaceAfter=No	O
+24	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 3.3
+# text = Cela zvučna slika je nekako gurnuta napred te ionako mušičave pesme ne mogu jadne ni da dišu.
+1	Cela	_	_	_	_	_	_	_	_	O
+2	zvučna	_	_	_	_	_	_	_	_	O
+3	slika	_	_	_	_	_	_	_	_	O
+4	je	_	_	_	_	_	_	_	_	O
+5	nekako	_	_	_	_	_	_	_	_	O
+6	gurnuta	_	_	_	_	_	_	_	_	O
+7	napred	_	_	_	_	_	_	_	_	O
+8	te	_	_	_	_	_	_	_	_	O
+9	ionako	_	_	_	_	_	_	_	_	O
+10	mušičave	_	_	_	_	_	_	_	_	O
+11	pesme	_	_	_	_	_	_	_	_	O
+12	ne	_	_	_	_	_	_	_	_	O
+13	mogu	_	_	_	_	_	_	_	_	O
+14	jadne	_	_	_	_	_	_	_	_	O
+15	ni	_	_	_	_	_	_	_	_	O
+16	da	_	_	_	_	_	_	_	_	O
+17	dišu	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 3.4
+# text = Zašto i kako je ispalo tako, nije nam jasno, posebno jer je bend proveo godine na bini i postao uigraniji od mnogih starijih kolega.
+1	Zašto	_	_	_	_	_	_	_	_	O
+2	i	_	_	_	_	_	_	_	_	O
+3	kako	_	_	_	_	_	_	_	_	O
+4	je	_	_	_	_	_	_	_	_	O
+5	ispalo	_	_	_	_	_	_	_	_	O
+6	tako	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	nije	_	_	_	_	_	_	_	_	O
+9	nam	_	_	_	_	_	_	_	_	O
+10	jasno	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	posebno	_	_	_	_	_	_	_	_	O
+13	jer	_	_	_	_	_	_	_	_	O
+14	je	_	_	_	_	_	_	_	_	O
+15	bend	_	_	_	_	_	_	_	_	O
+16	proveo	_	_	_	_	_	_	_	_	O
+17	godine	_	_	_	_	_	_	_	_	O
+18	na	_	_	_	_	_	_	_	_	O
+19	bini	_	_	_	_	_	_	_	_	O
+20	i	_	_	_	_	_	_	_	_	O
+21	postao	_	_	_	_	_	_	_	_	O
+22	uigraniji	_	_	_	_	_	_	_	_	O
+23	od	_	_	_	_	_	_	_	_	O
+24	mnogih	_	_	_	_	_	_	_	_	O
+25	starijih	_	_	_	_	_	_	_	_	O
+26	kolega	_	_	_	_	_	_	_	SpaceAfter=No	O
+27	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 3.5
+# text = Bend kao da juri za stadionskim zvukom živih nastupa u okvirima studija.
+1	Bend	_	_	_	_	_	_	_	_	O
+2	kao	_	_	_	_	_	_	_	_	O
+3	da	_	_	_	_	_	_	_	_	O
+4	juri	_	_	_	_	_	_	_	_	O
+5	za	_	_	_	_	_	_	_	_	O
+6	stadionskim	_	_	_	_	_	_	_	_	O
+7	zvukom	_	_	_	_	_	_	_	_	O
+8	živih	_	_	_	_	_	_	_	_	O
+9	nastupa	_	_	_	_	_	_	_	_	O
+10	u	_	_	_	_	_	_	_	_	O
+11	okvirima	_	_	_	_	_	_	_	_	O
+12	studija	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 3.6
+# text = Sve, opet, u cilju podizanja kredibiliteta pesmama koje ionako pišu čekove koje ne mogu da unovče.
+1	Sve	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	opet	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	u	_	_	_	_	_	_	_	_	O
+6	cilju	_	_	_	_	_	_	_	_	O
+7	podizanja	_	_	_	_	_	_	_	_	O
+8	kredibiliteta	_	_	_	_	_	_	_	_	O
+9	pesmama	_	_	_	_	_	_	_	_	O
+10	koje	_	_	_	_	_	_	_	_	O
+11	ionako	_	_	_	_	_	_	_	_	O
+12	pišu	_	_	_	_	_	_	_	_	O
+13	čekove	_	_	_	_	_	_	_	_	O
+14	koje	_	_	_	_	_	_	_	_	O
+15	ne	_	_	_	_	_	_	_	_	O
+16	mogu	_	_	_	_	_	_	_	_	O
+17	da	_	_	_	_	_	_	_	_	O
+18	unovče	_	_	_	_	_	_	_	SpaceAfter=No	O
+19	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 4
+# sent_id = 4.1
+# text = Tema ovog albuma je raskid, tačnije, prilično jednodimenzionalno viđenje kraja jednog emotivnog odnosa.
+1	Tema	_	_	_	_	_	_	_	_	O
+2	ovog	_	_	_	_	_	_	_	_	O
+3	albuma	_	_	_	_	_	_	_	_	O
+4	je	_	_	_	_	_	_	_	_	O
+5	raskid	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	tačnije	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	prilično	_	_	_	_	_	_	_	_	O
+10	jednodimenzionalno	_	_	_	_	_	_	_	_	O
+11	viđenje	_	_	_	_	_	_	_	_	O
+12	kraja	_	_	_	_	_	_	_	_	O
+13	jednog	_	_	_	_	_	_	_	_	O
+14	emotivnog	_	_	_	_	_	_	_	_	O
+15	odnosa	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 4.2
+# text = Dok su nas na prvom albumu oduševili duhovitom manipulacijom reči, a na drugom pravilno doziranim cinizmom, ovde nas Luka i Zoran, blago rečeno, potcenjuju.
+1	Dok	_	_	_	_	_	_	_	_	O
+2	su	_	_	_	_	_	_	_	_	O
+3	nas	_	_	_	_	_	_	_	_	O
+4	na	_	_	_	_	_	_	_	_	O
+5	prvom	_	_	_	_	_	_	_	_	O
+6	albumu	_	_	_	_	_	_	_	_	O
+7	oduševili	_	_	_	_	_	_	_	_	O
+8	duhovitom	_	_	_	_	_	_	_	_	O
+9	manipulacijom	_	_	_	_	_	_	_	_	O
+10	reči	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	a	_	_	_	_	_	_	_	_	O
+13	na	_	_	_	_	_	_	_	_	O
+14	drugom	_	_	_	_	_	_	_	_	O
+15	pravilno	_	_	_	_	_	_	_	_	O
+16	doziranim	_	_	_	_	_	_	_	_	O
+17	cinizmom	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	,	,	PUNCT	Z	_	_	_	_	_	O
+19	ovde	_	_	_	_	_	_	_	_	O
+20	nas	_	_	_	_	_	_	_	_	O
+21	Luka	_	_	_	_	_	_	_	_	B-PER
+22	i	_	_	_	_	_	_	_	_	O
+23	Zoran	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
+24	,	,	PUNCT	Z	_	_	_	_	_	O
+25	blago	_	_	_	_	_	_	_	_	O
+26	rečeno	_	_	_	_	_	_	_	SpaceAfter=No	O
+27	,	,	PUNCT	Z	_	_	_	_	_	O
+28	potcenjuju	_	_	_	_	_	_	_	SpaceAfter=No	O
+29	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 4.3
+# text = Nema drugog objašnjenja za to što je gotovo svaki tekst na albumu na nivou kasne osnovne ili rane srednje škole.
+1	Nema	_	_	_	_	_	_	_	_	O
+2	drugog	_	_	_	_	_	_	_	_	O
+3	objašnjenja	_	_	_	_	_	_	_	_	O
+4	za	_	_	_	_	_	_	_	_	O
+5	to	_	_	_	_	_	_	_	_	O
+6	što	_	_	_	_	_	_	_	_	O
+7	je	_	_	_	_	_	_	_	_	O
+8	gotovo	_	_	_	_	_	_	_	_	O
+9	svaki	_	_	_	_	_	_	_	_	O
+10	tekst	_	_	_	_	_	_	_	_	O
+11	na	_	_	_	_	_	_	_	_	O
+12	albumu	_	_	_	_	_	_	_	_	O
+13	na	_	_	_	_	_	_	_	_	O
+14	nivou	_	_	_	_	_	_	_	_	O
+15	kasne	_	_	_	_	_	_	_	_	O
+16	osnovne	_	_	_	_	_	_	_	_	O
+17	ili	_	_	_	_	_	_	_	_	O
+18	rane	_	_	_	_	_	_	_	_	O
+19	srednje	_	_	_	_	_	_	_	_	O
+20	škole	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 4.4
+# text = Cinik u potpisniku ovih redova bi rekao da se Buč Kesidi samouvereno preorijentisao tako da zadobije srce mlađeg dela ženske publike.
+1	Cinik	_	_	_	_	_	_	_	_	O
+2	u	_	_	_	_	_	_	_	_	O
+3	potpisniku	_	_	_	_	_	_	_	_	O
+4	ovih	_	_	_	_	_	_	_	_	O
+5	redova	_	_	_	_	_	_	_	_	O
+6	bi	_	_	_	_	_	_	_	_	O
+7	rekao	_	_	_	_	_	_	_	_	O
+8	da	_	_	_	_	_	_	_	_	O
+9	se	_	_	_	_	_	_	_	_	O
+10	Buč	_	_	_	_	_	_	_	_	B-ORG
+11	Kesidi	_	_	_	_	_	_	_	_	I-ORG
+12	samouvereno	_	_	_	_	_	_	_	_	O
+13	preorijentisao	_	_	_	_	_	_	_	_	O
+14	tako	_	_	_	_	_	_	_	_	O
+15	da	_	_	_	_	_	_	_	_	O
+16	zadobije	_	_	_	_	_	_	_	_	O
+17	srce	_	_	_	_	_	_	_	_	O
+18	mlađeg	_	_	_	_	_	_	_	_	O
+19	dela	_	_	_	_	_	_	_	_	O
+20	ženske	_	_	_	_	_	_	_	_	O
+21	publike	_	_	_	_	_	_	_	SpaceAfter=No	O
+22	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 4.5
+# text = Uz izuzetak jedne pesme „Pusti da gori“, sve otpevano zvuči kao nešto što bi četrnaestogodišnji školarci napisali u poruci.
+1	Uz	_	_	_	_	_	_	_	_	O
+2	izuzetak	_	_	_	_	_	_	_	_	O
+3	jedne	_	_	_	_	_	_	_	_	O
+4	pesme	_	_	_	_	_	_	_	_	O
+5	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+6	Pusti	_	_	_	_	_	_	_	_	O
+7	da	_	_	_	_	_	_	_	_	O
+8	gori	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	sve	_	_	_	_	_	_	_	_	O
+12	otpevano	_	_	_	_	_	_	_	_	O
+13	zvuči	_	_	_	_	_	_	_	_	O
+14	kao	_	_	_	_	_	_	_	_	O
+15	nešto	_	_	_	_	_	_	_	_	O
+16	što	_	_	_	_	_	_	_	_	O
+17	bi	_	_	_	_	_	_	_	_	O
+18	četrnaestogodišnji	_	_	_	_	_	_	_	_	O
+19	školarci	_	_	_	_	_	_	_	_	O
+20	napisali	_	_	_	_	_	_	_	_	O
+21	u	_	_	_	_	_	_	_	_	O
+22	poruci	_	_	_	_	_	_	_	SpaceAfter=No	O
+23	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 4.6
+# text = Najcrnje od svega je što album počne strofom koja (lažno) nagoveštava da stvari nisu toliko loše.
+1	Najcrnje	_	_	_	_	_	_	_	_	O
+2	od	_	_	_	_	_	_	_	_	O
+3	svega	_	_	_	_	_	_	_	_	O
+4	je	_	_	_	_	_	_	_	_	O
+5	što	_	_	_	_	_	_	_	_	O
+6	album	_	_	_	_	_	_	_	_	O
+7	počne	_	_	_	_	_	_	_	_	O
+8	strofom	_	_	_	_	_	_	_	_	O
+9	koja	_	_	_	_	_	_	_	_	O
+10	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+11	lažno	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	)	)	PUNCT	Z	_	_	_	_	_	O
+13	nagoveštava	_	_	_	_	_	_	_	_	O
+14	da	_	_	_	_	_	_	_	_	O
+15	stvari	_	_	_	_	_	_	_	_	O
+16	nisu	_	_	_	_	_	_	_	_	O
+17	toliko	_	_	_	_	_	_	_	_	O
+18	loše	_	_	_	_	_	_	_	SpaceAfter=No	O
+19	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 5
+# sent_id = 5.1
+# text = Umesto britkog Buč Kesidija iz „Kafe aparata”, dobili smo bend sa pesmama naivnijim nego što je to bio prvi album znatno mlađih momaka iz Drama (koji su u međuvremenu odrasli preko noći, prim.
+1	Umesto	_	_	_	_	_	_	_	_	O
+2	britkog	_	_	_	_	_	_	_	_	O
+3	Buč	_	_	_	_	_	_	_	_	B-ORG
+4	Kesidija	_	_	_	_	_	_	_	_	I-ORG
+5	iz	_	_	_	_	_	_	_	_	O
+6	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+7	Kafe	_	_	_	_	_	_	_	_	O
+8	aparata	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	”	”	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	dobili	_	_	_	_	_	_	_	_	O
+12	smo	_	_	_	_	_	_	_	_	O
+13	bend	_	_	_	_	_	_	_	_	O
+14	sa	_	_	_	_	_	_	_	_	O
+15	pesmama	_	_	_	_	_	_	_	_	O
+16	naivnijim	_	_	_	_	_	_	_	_	O
+17	nego	_	_	_	_	_	_	_	_	O
+18	što	_	_	_	_	_	_	_	_	O
+19	je	_	_	_	_	_	_	_	_	O
+20	to	_	_	_	_	_	_	_	_	O
+21	bio	_	_	_	_	_	_	_	_	O
+22	prvi	_	_	_	_	_	_	_	_	O
+23	album	_	_	_	_	_	_	_	_	O
+24	znatno	_	_	_	_	_	_	_	_	O
+25	mlađih	_	_	_	_	_	_	_	_	O
+26	momaka	_	_	_	_	_	_	_	_	O
+27	iz	_	_	_	_	_	_	_	_	O
+28	Drama	_	_	_	_	_	_	_	_	B-ORG
+29	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+30	koji	_	_	_	_	_	_	_	_	O
+31	su	_	_	_	_	_	_	_	_	O
+32	u	_	_	_	_	_	_	_	_	O
+33	međuvremenu	_	_	_	_	_	_	_	_	O
+34	odrasli	_	_	_	_	_	_	_	_	O
+35	preko	_	_	_	_	_	_	_	_	O
+36	noći	_	_	_	_	_	_	_	SpaceAfter=No	O
+37	,	,	PUNCT	Z	_	_	_	_	_	O
+38	prim	_	_	_	_	_	_	_	SpaceAfter=No	O
+39	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 5.2
+# text = aut).
+1	aut	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	)	)	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+3	.	.	PUNCT	Z	_	_	_	_	_	O

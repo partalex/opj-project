@@ -4,7 +4,7 @@
 # newpar id = 1
 # sent_id = 1.1
 # text = Kalak obiđe kameni greben i zateturavši se stade ispred tela umirućeg gromoslomljenog.
-1	Kalak	_	_	_	_	_	_	_	_	O
+1	Kalak	_	_	_	_	_	_	_	_	B-PER
 2	obiđe	_	_	_	_	_	_	_	_	O
 3	kameni	_	_	_	_	_	_	_	_	O
 4	greben	_	_	_	_	_	_	_	_	O
@@ -112,7 +112,7 @@
 5	tih	_	_	_	_	_	_	_	_	O
 6	stoleća	_	_	_	_	_	_	_	SpaceAfter=No	O
 7	,	,	PUNCT	Z	_	_	_	_	_	O
-8	Kalak	_	_	_	_	_	_	_	_	O
+8	Kalak	_	_	_	_	_	_	_	_	B-PER
 9	se	_	_	_	_	_	_	_	_	O
 10	naježio	_	_	_	_	_	_	_	_	O
 11	kada	_	_	_	_	_	_	_	_	O
@@ -264,7 +264,7 @@
 11	gde	_	_	_	_	_	_	_	_	O
 12	su	_	_	_	_	_	_	_	_	O
 13	se	_	_	_	_	_	_	_	_	O
-14	gromovnici	_	_	_	_	_	_	_	_	O
+14	gromovnici	_	_	_	_	_	_	_	_	B-ORG
 15	otrgli	_	_	_	_	_	_	_	_	O
 16	iz	_	_	_	_	_	_	_	_	O
 17	kamena	_	_	_	_	_	_	_	_	O
@@ -375,7 +375,7 @@
 
 # sent_id = 1.25
 # text = Prahonosci su dali sve od sebe.
-1	Prahonosci	_	_	_	_	_	_	_	_	O
+1	Prahonosci	_	_	_	_	_	_	_	_	B-ORG
 2	su	_	_	_	_	_	_	_	_	O
 3	dali	_	_	_	_	_	_	_	_	O
 4	sve	_	_	_	_	_	_	_	_	O
@@ -392,7 +392,7 @@
 5	,	,	PUNCT	Z	_	_	_	_	_	O
 6	pomislio	_	_	_	_	_	_	_	_	O
 7	je	_	_	_	_	_	_	_	_	O
-8	Kalak	_	_	_	_	_	_	_	_	O
+8	Kalak	_	_	_	_	_	_	_	_	B-PER
 9	držeći	_	_	_	_	_	_	_	_	O
 10	se	_	_	_	_	_	_	_	_	O
 11	za	_	_	_	_	_	_	_	_	O
@@ -569,7 +569,7 @@
 
 # sent_id = 1.40
 # text = Džezrijen.
-1	Džezrijen	_	_	_	_	_	_	_	SpaceAfter=No	O
+1	Džezrijen	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 2	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 1.41
@@ -618,7 +618,7 @@
 
 # sent_id = 1.46
 # text = Kalak se namršti prilazeći podnožju tornja.
-1	Kalak	_	_	_	_	_	_	_	_	O
+1	Kalak	_	_	_	_	_	_	_	_	B-PER
 2	se	_	_	_	_	_	_	_	_	O
 3	namršti	_	_	_	_	_	_	_	_	O
 4	prilazeći	_	_	_	_	_	_	_	_	O
@@ -711,7 +711,7 @@
 
 # sent_id = 1.54
 # text = Džezrijen je stajao izvan prstena mačeva i gledao ka istoku.
-1	Džezrijen	_	_	_	_	_	_	_	_	O
+1	Džezrijen	_	_	_	_	_	_	_	_	B-PER
 2	je	_	_	_	_	_	_	_	_	O
 3	stajao	_	_	_	_	_	_	_	_	O
 4	izvan	_	_	_	_	_	_	_	_	O
@@ -726,7 +726,7 @@
 # sent_id = 1.55
 # text = „Džezrijene?
 1	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
-2	Džezrijene	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	Džezrijene	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 3	?	?	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 
 # sent_id = 1.56
@@ -753,7 +753,7 @@
 5	tih	_	_	_	_	_	_	_	_	O
 6	vekova	_	_	_	_	_	_	_	SpaceAfter=No	O
 7	,	,	PUNCT	Z	_	_	_	_	_	O
-8	Džezrijen	_	_	_	_	_	_	_	_	O
+8	Džezrijen	_	_	_	_	_	_	_	_	B-PER
 9	je	_	_	_	_	_	_	_	_	O
 10	delovao	_	_	_	_	_	_	_	_	O
 11	mladoliko	_	_	_	_	_	_	_	SpaceAfter=No	O
@@ -771,7 +771,7 @@
 
 # sent_id = 1.58
 # text = Kratka crna brada bila mu je uredno potkresana, mada mu je nekada lepa odeća bila oprljena i umrljana krvlju.
-1	Kratka	_	_	_	_	_	_	_	_	O
+1	Kratka	_	_	_	_	_	_	_	_	B-PER
 2	crna	_	_	_	_	_	_	_	_	O
 3	brada	_	_	_	_	_	_	_	_	O
 4	bila	_	_	_	_	_	_	_	_	O
@@ -805,13 +805,13 @@
 8	se	_	_	_	_	_	_	_	_	O
 9	da	_	_	_	_	_	_	_	_	O
 10	pogleda	_	_	_	_	_	_	_	_	O
-11	Kalaka	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	Kalaka	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 12	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 1.60
 # text = „Džezrijene, šta je ovo?
 1	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
-2	Džezrijene	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	Džezrijene	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 3	,	,	PUNCT	Z	_	_	_	_	_	O
 4	šta	_	_	_	_	_	_	_	_	O
 5	je	_	_	_	_	_	_	_	_	O
@@ -823,7 +823,7 @@
 1	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 2	,	,	PUNCT	Z	_	_	_	_	_	O
 3	upita	_	_	_	_	_	_	_	_	O
-4	Kalak	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	Kalak	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 5	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 1.62
@@ -845,7 +845,7 @@
 # sent_id = 1.64
 # text = “ Džezrijenov glas je bio spokojan, dubok i dostojanstven.
 1	“	“	PUNCT	Z	_	_	_	_	_	O
-2	Džezrijenov	_	_	_	_	_	_	_	_	O
+2	Džezrijenov	_	_	_	_	_	_	_	_	B-PER
 3	glas	_	_	_	_	_	_	_	_	O
 4	je	_	_	_	_	_	_	_	_	O
 5	bio	_	_	_	_	_	_	_	_	O
@@ -912,11 +912,11 @@
 # text = “ „Talenel“, primeti Kalak.
 1	“	“	PUNCT	Z	_	_	_	_	_	O
 2	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
-3	Talenel	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	Talenel	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 4	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 5	,	,	PUNCT	Z	_	_	_	_	_	O
 6	primeti	_	_	_	_	_	_	_	_	O
-7	Kalak	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	Kalak	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 8	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 1.70
@@ -953,13 +953,13 @@
 # sent_id = 1.73
 # text = “ Kalak klimnu.
 1	“	“	PUNCT	Z	_	_	_	_	_	O
-2	Kalak	_	_	_	_	_	_	_	_	O
+2	Kalak	_	_	_	_	_	_	_	_	B-PER
 3	klimnu	_	_	_	_	_	_	_	SpaceAfter=No	O
 4	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 1.74
 # text = Taln ima običaj da bira naizgled beznadežne bitke i da ih dobija.
-1	Taln	_	_	_	_	_	_	_	_	O
+1	Taln	_	_	_	_	_	_	_	_	B-PER
 2	ima	_	_	_	_	_	_	_	_	O
 3	običaj	_	_	_	_	_	_	_	_	O
 4	da	_	_	_	_	_	_	_	_	O
@@ -1030,7 +1030,7 @@
 # sent_id = 1.80
 # text = „Džezrijene, ovoga puta ne mogu da se vratim.
 1	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
-2	Džezrijene	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	Džezrijene	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 3	,	,	PUNCT	Z	_	_	_	_	_	O
 4	ovoga	_	_	_	_	_	_	_	_	O
 5	puta	_	_	_	_	_	_	_	_	O
@@ -1044,7 +1044,7 @@
 # sent_id = 1.81
 # text = “ Kalak je prošaptao te reči prilazeći drugom čoveku i hvatajući ga za ruku.
 1	“	“	PUNCT	Z	_	_	_	_	_	O
-2	Kalak	_	_	_	_	_	_	_	_	O
+2	Kalak	_	_	_	_	_	_	_	_	B-PER
 3	je	_	_	_	_	_	_	_	_	O
 4	prošaptao	_	_	_	_	_	_	_	_	O
 5	te	_	_	_	_	_	_	_	_	O
@@ -1069,7 +1069,7 @@
 # sent_id = 1.83
 # text = “ Kalak oseti kako se od tog priznanja nešto slama u njemu.
 1	“	“	PUNCT	Z	_	_	_	_	_	O
-2	Kalak	_	_	_	_	_	_	_	_	O
+2	Kalak	_	_	_	_	_	_	_	_	B-PER
 3	oseti	_	_	_	_	_	_	_	_	O
 4	kako	_	_	_	_	_	_	_	_	O
 5	se	_	_	_	_	_	_	_	_	O
@@ -1175,7 +1175,7 @@
 5	,	,	PUNCT	Z	_	_	_	_	_	O
 6	reče	_	_	_	_	_	_	_	_	O
 7	mu	_	_	_	_	_	_	_	_	O
-8	Džezrijen	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	Džezrijen	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 9	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 1.92
@@ -1187,7 +1187,7 @@
 # sent_id = 1.93
 # text = “ Džezrijen klimnu da pokaže prsten od oružja.
 1	“	“	PUNCT	Z	_	_	_	_	_	O
-2	Džezrijen	_	_	_	_	_	_	_	_	O
+2	Džezrijen	_	_	_	_	_	_	_	_	B-PER
 3	klimnu	_	_	_	_	_	_	_	_	O
 4	da	_	_	_	_	_	_	_	_	O
 5	pokaže	_	_	_	_	_	_	_	_	O
@@ -1243,7 +1243,7 @@
 # sent_id = 1.99
 # text = “ Kalak oseti kako ga probada užas.
 1	“	“	PUNCT	Z	_	_	_	_	_	O
-2	Kalak	_	_	_	_	_	_	_	_	O
+2	Kalak	_	_	_	_	_	_	_	_	B-PER
 3	oseti	_	_	_	_	_	_	_	_	O
 4	kako	_	_	_	_	_	_	_	_	O
 5	ga	_	_	_	_	_	_	_	_	O
@@ -1265,7 +1265,7 @@
 # text = “ „Išar smatra da će biti dovoljno da postoji jedan od nas koji je i dalje vezan Zavetom.
 1	“	“	PUNCT	Z	_	_	_	_	_	O
 2	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
-3	Išar	_	_	_	_	_	_	_	_	O
+3	Išar	_	_	_	_	_	_	_	_	B-PER
 4	smatra	_	_	_	_	_	_	_	_	O
 5	da	_	_	_	_	_	_	_	_	O
 6	će	_	_	_	_	_	_	_	_	O
@@ -1297,7 +1297,7 @@
 # sent_id = 1.103
 # text = “ Kalak pogleda besmrtnog kralja pravo u oči.
 1	“	“	PUNCT	Z	_	_	_	_	_	O
-2	Kalak	_	_	_	_	_	_	_	_	O
+2	Kalak	_	_	_	_	_	_	_	_	B-PER
 3	pogleda	_	_	_	_	_	_	_	_	O
 4	besmrtnog	_	_	_	_	_	_	_	_	O
 5	kralja	_	_	_	_	_	_	_	_	O
@@ -1331,9 +1331,9 @@
 # sent_id = 1.106
 # text = U Džezrijenovim očima Kalak ugleda jad i bol.
 1	U	_	_	_	_	_	_	_	_	O
-2	Džezrijenovim	_	_	_	_	_	_	_	_	O
+2	Džezrijenovim	_	_	_	_	_	_	_	_	B-PER
 3	očima	_	_	_	_	_	_	_	_	O
-4	Kalak	_	_	_	_	_	_	_	_	O
+4	Kalak	_	_	_	_	_	_	_	_	B-PER
 5	ugleda	_	_	_	_	_	_	_	_	O
 6	jad	_	_	_	_	_	_	_	_	O
 7	i	_	_	_	_	_	_	_	_	O
@@ -1369,7 +1369,7 @@
 4	,	,	PUNCT	Z	_	_	_	_	_	O
 5	pomislio	_	_	_	_	_	_	_	_	O
 6	je	_	_	_	_	_	_	_	_	O
-7	Kalak	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	Kalak	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 8	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 1.110
@@ -1393,7 +1393,7 @@
 
 # sent_id = 1.112
 # text = Kalak se okrenu i pođe u stranu, do mesta gde se s niskog grebena pružao pogled na bojište.
-1	Kalak	_	_	_	_	_	_	_	_	O
+1	Kalak	_	_	_	_	_	_	_	_	B-PER
 2	se	_	_	_	_	_	_	_	_	O
 3	okrenu	_	_	_	_	_	_	_	_	O
 4	i	_	_	_	_	_	_	_	_	O
@@ -1497,7 +1497,7 @@
 
 # sent_id = 1.117
 # text = Džezrijen mu priđe i stade pored njega.
-1	Džezrijen	_	_	_	_	_	_	_	_	O
+1	Džezrijen	_	_	_	_	_	_	_	_	B-PER
 2	mu	_	_	_	_	_	_	_	_	O
 3	priđe	_	_	_	_	_	_	_	_	O
 4	i	_	_	_	_	_	_	_	_	O
@@ -1517,13 +1517,13 @@
 7	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 8	,	,	PUNCT	Z	_	_	_	_	_	O
 9	prošapta	_	_	_	_	_	_	_	_	O
-10	Kalak	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	Kalak	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 11	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 1.119
 # text = „Džezrijene, oni se uzdaju u nas.
 1	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
-2	Džezrijene	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	Džezrijene	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 3	,	,	PUNCT	Z	_	_	_	_	_	O
 4	oni	_	_	_	_	_	_	_	_	O
 5	se	_	_	_	_	_	_	_	_	O
@@ -1546,7 +1546,7 @@
 1	“	“	PUNCT	Z	_	_	_	_	_	O
 2	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 3	Imaju	_	_	_	_	_	_	_	_	O
-4	Blistave	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	Blistave	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
 5	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 1.122
@@ -1560,7 +1560,7 @@
 # sent_id = 1.123
 # text = “ Kalak odmahnu glavom.
 1	“	“	PUNCT	Z	_	_	_	_	_	O
-2	Kalak	_	_	_	_	_	_	_	_	O
+2	Kalak	_	_	_	_	_	_	_	_	B-PER
 3	odmahnu	_	_	_	_	_	_	_	_	O
 4	glavom	_	_	_	_	_	_	_	SpaceAfter=No	O
 5	.	.	PUNCT	Z	_	_	_	_	_	O
@@ -1623,7 +1623,7 @@
 # text = „A Taln?
 1	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 2	A	_	_	_	_	_	_	_	_	O
-3	Taln	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	Taln	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 4	?	?	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 
 # sent_id = 1.131
@@ -1631,7 +1631,7 @@
 1	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 2	,	,	PUNCT	Z	_	_	_	_	_	O
 3	upita	_	_	_	_	_	_	_	_	O
-4	Kalak	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	Kalak	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 5	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 1.132
@@ -1668,7 +1668,7 @@
 9	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 10	,	,	PUNCT	Z	_	_	_	_	_	O
 11	prošapta	_	_	_	_	_	_	_	_	O
-12	Džezrijen	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	Džezrijen	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 13	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 1.136
@@ -1708,7 +1708,7 @@
 
 # sent_id = 1.138
 # text = Džezrijen se vrati do prstena od mačeva.
-1	Džezrijen	_	_	_	_	_	_	_	_	O
+1	Džezrijen	_	_	_	_	_	_	_	_	B-PER
 2	se	_	_	_	_	_	_	_	_	O
 3	vrati	_	_	_	_	_	_	_	_	O
 4	do	_	_	_	_	_	_	_	_	O
@@ -1742,7 +1742,7 @@
 2	Odlučeno	_	_	_	_	_	_	_	_	O
 3	je	_	_	_	_	_	_	_	SpaceAfter=No	O
 4	,	,	PUNCT	Z	_	_	_	_	_	O
-5	Kalače	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	Kalače	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 6	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 1.141
@@ -1793,7 +1793,7 @@
 
 # sent_id = 1.145
 # text = Džezrijen se pokoleba, gledajući svoj mač, pa pognu glavu i okrenu se – kao da je posramljen.
-1	Džezrijen	_	_	_	_	_	_	_	_	O
+1	Džezrijen	_	_	_	_	_	_	_	_	B-PER
 2	se	_	_	_	_	_	_	_	_	O
 3	pokoleba	_	_	_	_	_	_	_	SpaceAfter=No	O
 4	,	,	PUNCT	Z	_	_	_	_	_	O
@@ -1851,7 +1851,7 @@
 7	kažemo	_	_	_	_	_	_	_	_	O
 8	narodu	_	_	_	_	_	_	_	SpaceAfter=No	O
 9	,	,	PUNCT	Z	_	_	_	_	_	O
-10	Džezrijene	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	Džezrijene	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 11	?	?	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 
 # sent_id = 1.149
@@ -1859,7 +1859,7 @@
 1	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 2	,	,	PUNCT	Z	_	_	_	_	_	O
 3	upita	_	_	_	_	_	_	_	_	O
-4	Kalak	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	Kalak	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 5	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 1.150
@@ -1886,7 +1886,7 @@
 8	,	,	PUNCT	Z	_	_	_	_	_	O
 9	odgovori	_	_	_	_	_	_	_	_	O
 10	mu	_	_	_	_	_	_	_	_	O
-11	Džezrijen	_	_	_	_	_	_	_	_	O
+11	Džezrijen	_	_	_	_	_	_	_	_	B-PER
 12	odlazeći	_	_	_	_	_	_	_	SpaceAfter=No	O
 13	.	.	PUNCT	Z	_	_	_	_	_	O
 
@@ -1927,10 +1927,10 @@
 # sent_id = 1.156
 # text = “ Kalak je gledao Džezrijena kako odlazi preko spaljenog krajolika.
 1	“	“	PUNCT	Z	_	_	_	_	_	O
-2	Kalak	_	_	_	_	_	_	_	_	O
+2	Kalak	_	_	_	_	_	_	_	_	B-PER
 3	je	_	_	_	_	_	_	_	_	O
 4	gledao	_	_	_	_	_	_	_	_	O
-5	Džezrijena	_	_	_	_	_	_	_	_	O
+5	Džezrijena	_	_	_	_	_	_	_	_	B-PER
 6	kako	_	_	_	_	_	_	_	_	O
 7	odlazi	_	_	_	_	_	_	_	_	O
 8	preko	_	_	_	_	_	_	_	_	O
@@ -1973,7 +1973,7 @@
 11	kojem	_	_	_	_	_	_	_	_	O
 12	je	_	_	_	_	_	_	_	_	O
 13	krenuo	_	_	_	_	_	_	_	_	O
-14	Džezrijen	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	Džezrijen	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 15	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 1.159
@@ -2035,7 +2035,7 @@
 2	nam	_	_	_	_	_	_	_	SpaceAfter=No	O
 3	,	,	PUNCT	Z	_	_	_	_	_	O
 4	pomisli	_	_	_	_	_	_	_	_	O
-5	Kalak	_	_	_	_	_	_	_	_	O
+5	Kalak	_	_	_	_	_	_	_	_	B-PER
 6	i	_	_	_	_	_	_	_	_	O
 7	ode	_	_	_	_	_	_	_	SpaceAfter=No	O
 8	.	.	PUNCT	Z	_	_	_	_	_	O
@@ -2043,11 +2043,11 @@
 # newpar id = 2
 # sent_id = 2.1
 # text = Szet-sin-sin-Valano, neistiniti iz Šinovara, nosio je belo na dan kada je trebalo da ubije kralja.
-1	Szet-sin-sin-Valano	_	_	_	_	_	_	_	SpaceAfter=No	O
+1	Szet-sin-sin-Valano	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 2	,	,	PUNCT	Z	_	_	_	_	_	O
 3	neistiniti	_	_	_	_	_	_	_	_	O
 4	iz	_	_	_	_	_	_	_	_	O
-5	Šinovara	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	Šinovara	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 6	,	,	PUNCT	Z	_	_	_	_	_	O
 7	nosio	_	_	_	_	_	_	_	_	O
 8	je	_	_	_	_	_	_	_	_	O
@@ -2071,7 +2071,7 @@
 5	u	_	_	_	_	_	_	_	_	O
 6	skladu	_	_	_	_	_	_	_	_	O
 7	s	_	_	_	_	_	_	_	_	O
-8	paršendskom	_	_	_	_	_	_	_	_	O
+8	paršendskom	_	_	_	_	_	_	_	_	B-ORG
 9	tradicijom	_	_	_	_	_	_	_	SpaceAfter=No	O
 10	,	,	PUNCT	Z	_	_	_	_	_	O
 11	njemu	_	_	_	_	_	_	_	_	O
@@ -2106,7 +2106,7 @@
 
 # sent_id = 2.4
 # text = Szet se držao podalje od naslednika, krećući se uza sam zid i prolazeći pored bubnjara.
-1	Szet	_	_	_	_	_	_	_	_	O
+1	Szet	_	_	_	_	_	_	_	_	B-PER
 2	se	_	_	_	_	_	_	_	_	O
 3	držao	_	_	_	_	_	_	_	_	O
 4	podalje	_	_	_	_	_	_	_	_	O
@@ -2150,7 +2150,7 @@
 1	Bubnjari	_	_	_	_	_	_	_	_	O
 2	su	_	_	_	_	_	_	_	_	O
 3	primetili	_	_	_	_	_	_	_	_	O
-4	Szeta	_	_	_	_	_	_	_	_	O
+4	Szeta	_	_	_	_	_	_	_	_	B-PER
 5	dok	_	_	_	_	_	_	_	_	O
 6	je	_	_	_	_	_	_	_	_	O
 7	prolazio	_	_	_	_	_	_	_	_	O
@@ -2168,7 +2168,7 @@
 6	sa	_	_	_	_	_	_	_	_	O
 7	svim	_	_	_	_	_	_	_	_	O
 8	ostalim	_	_	_	_	_	_	_	_	O
-9	Paršendijima	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	Paršendijima	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
 10	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 2.8
@@ -2209,7 +2209,7 @@
 4	smisla	_	_	_	_	_	_	_	SpaceAfter=No	O
 5	,	,	PUNCT	Z	_	_	_	_	_	O
 6	ali	_	_	_	_	_	_	_	_	O
-7	Szet	_	_	_	_	_	_	_	_	O
+7	Szet	_	_	_	_	_	_	_	_	B-PER
 8	ne	_	_	_	_	_	_	_	_	O
 9	postavlja	_	_	_	_	_	_	_	_	O
 10	nikakva	_	_	_	_	_	_	_	_	O
@@ -2296,7 +2296,7 @@
 8	se	_	_	_	_	_	_	_	_	O
 9	da	_	_	_	_	_	_	_	_	O
 10	su	_	_	_	_	_	_	_	_	O
-11	aletski	_	_	_	_	_	_	_	_	O
+11	aletski	_	_	_	_	_	_	_	_	B-ORG
 12	učenjaci	_	_	_	_	_	_	_	_	O
 13	blizu	_	_	_	_	_	_	_	_	O
 14	toga	_	_	_	_	_	_	_	_	O
@@ -2308,7 +2308,7 @@
 
 # sent_id = 2.18
 # text = Szet se iskreno nadao da je to samo hvalisanje i priželjkivanje nemogućeg.
-1	Szet	_	_	_	_	_	_	_	_	O
+1	Szet	_	_	_	_	_	_	_	_	B-PER
 2	se	_	_	_	_	_	_	_	_	O
 3	iskreno	_	_	_	_	_	_	_	_	O
 4	nadao	_	_	_	_	_	_	_	_	O
@@ -2352,24 +2352,24 @@
 11	–	–	PUNCT	Z	_	_	_	_	_	O
 12	od	_	_	_	_	_	_	_	_	O
 13	daleke	_	_	_	_	_	_	_	_	O
-14	Tajlene	_	_	_	_	_	_	_	_	O
+14	Tajlene	_	_	_	_	_	_	_	_	B-LOC
 15	pa	_	_	_	_	_	_	_	_	O
 16	do	_	_	_	_	_	_	_	_	O
 17	visokog	_	_	_	_	_	_	_	_	O
-18	Džah	_	_	_	_	_	_	_	_	O
-19	Keveda	_	_	_	_	_	_	_	_	O
+18	Džah	_	_	_	_	_	_	_	_	B-LOC
+19	Keveda	_	_	_	_	_	_	_	_	I-LOC
 20	–	–	PUNCT	Z	_	_	_	_	_	O
 21	svojoj	_	_	_	_	_	_	_	_	O
 22	deci	_	_	_	_	_	_	_	_	O
 23	pričati	_	_	_	_	_	_	_	_	O
-24	aletski	_	_	_	_	_	_	_	_	O
+24	aletski	_	_	_	_	_	_	_	_	B-ORG
 25	jezik	_	_	_	_	_	_	_	SpaceAfter=No	O
 26	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 2.21
 # text = Ti Aleti su veličanstven narod.
 1	Ti	_	_	_	_	_	_	_	_	O
-2	Aleti	_	_	_	_	_	_	_	_	O
+2	Aleti	_	_	_	_	_	_	_	_	B-ORG
 3	su	_	_	_	_	_	_	_	_	O
 4	veličanstven	_	_	_	_	_	_	_	_	O
 5	narod	_	_	_	_	_	_	_	SpaceAfter=No	O

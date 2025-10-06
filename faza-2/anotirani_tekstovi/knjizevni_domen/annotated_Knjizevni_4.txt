@@ -56,9 +56,9 @@
 12	je	_	_	_	_	_	_	_	_	O
 13	sledovalo	_	_	_	_	_	_	_	_	O
 14	vešanje	_	_	_	_	_	_	_	_	O
-15	Vlaža	_	_	_	_	_	_	_	_	O
-16	fon	_	_	_	_	_	_	_	_	O
-17	Lipvig	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	Vlaža	_	_	_	_	_	_	_	_	B-PER
+16	fon	_	_	_	_	_	_	_	_	I-PER
+17	Lipvig	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 18	,	,	PUNCT	Z	_	_	_	_	_	O
 19	ali	_	_	_	_	_	_	_	_	O
 20	on	_	_	_	_	_	_	_	_	O
@@ -111,8 +111,8 @@
 18	on	_	_	_	_	_	_	_	_	O
 19	je	_	_	_	_	_	_	_	_	O
 20	bio	_	_	_	_	_	_	_	_	O
-21	Albert	_	_	_	_	_	_	_	_	O
-22	Spangler	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	Albert	_	_	_	_	_	_	_	_	B-PER
+22	Spangler	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 23	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 1.4
@@ -205,7 +205,7 @@
 # text = Trenutno je Vlaža bio zaokupljen jednim velikim i teškim kamenom, u koji je u nekom trenutku neko ukucao ogromnu alku, za koju je trebalo zakačiti okove.
 1	Trenutno	_	_	_	_	_	_	_	_	O
 2	je	_	_	_	_	_	_	_	_	O
-3	Vlaža	_	_	_	_	_	_	_	_	O
+3	Vlaža	_	_	_	_	_	_	_	_	B-PER
 4	bio	_	_	_	_	_	_	_	_	O
 5	zaokupljen	_	_	_	_	_	_	_	_	O
 6	jednim	_	_	_	_	_	_	_	_	O
@@ -235,7 +235,7 @@
 
 # sent_id = 1.8
 # text = Vlaža je seo licem prema zidu, ščepao je gvozdenu alku obema rukama, nogama se odupro o kamenove sa obe strane, i povukao.
-1	Vlaža	_	_	_	_	_	_	_	_	O
+1	Vlaža	_	_	_	_	_	_	_	_	B-PER
 2	je	_	_	_	_	_	_	_	_	O
 3	seo	_	_	_	_	_	_	_	_	O
 4	licem	_	_	_	_	_	_	_	_	O
@@ -293,7 +293,7 @@
 
 # sent_id = 1.10
 # text = Vlaža uspe da ga izvadi iz rupe i zaviri unutra.
-1	Vlaža	_	_	_	_	_	_	_	_	O
+1	Vlaža	_	_	_	_	_	_	_	_	B-PER
 2	uspe	_	_	_	_	_	_	_	_	O
 3	da	_	_	_	_	_	_	_	_	O
 4	ga	_	_	_	_	_	_	_	_	O
@@ -392,7 +392,7 @@
 4	vera	_	_	_	_	_	_	_	SpaceAfter=No	O
 5	,	,	PUNCT	Z	_	_	_	_	_	O
 6	gospodine	_	_	_	_	_	_	_	_	O
-7	Spangleru	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	Spangleru	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 8	!	!	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 
 # sent_id = 1.17
@@ -406,7 +406,7 @@
 # sent_id = 1.18
 # text = „Ron mi dođe pet dolara!
 1	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
-2	Ron	_	_	_	_	_	_	_	_	O
+2	Ron	_	_	_	_	_	_	_	_	B-PER
 3	mi	_	_	_	_	_	_	_	_	O
 4	dođe	_	_	_	_	_	_	_	_	O
 5	pet	_	_	_	_	_	_	_	_	O
@@ -447,7 +447,7 @@
 9	a	_	_	_	_	_	_	_	SpaceAfter=No	O
 10	,	,	PUNCT	Z	_	_	_	_	_	O
 11	gospodine	_	_	_	_	_	_	_	_	O
-12	Vilkinsone	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	Vilkinsone	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 13	?	?	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 
 # sent_id = 1.22
@@ -455,7 +455,7 @@
 1	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 2	,	,	PUNCT	Z	_	_	_	_	_	O
 3	zapita	_	_	_	_	_	_	_	_	O
-4	Vlaža	_	_	_	_	_	_	_	_	O
+4	Vlaža	_	_	_	_	_	_	_	_	B-PER
 5	slabašno	_	_	_	_	_	_	_	SpaceAfter=No	O
 6	,	,	PUNCT	Z	_	_	_	_	_	O
 7	zagledan	_	_	_	_	_	_	_	_	O
@@ -480,8 +480,8 @@
 
 # sent_id = 1.24
 # text = Lord Vetinari je naredio.
-1	Lord	_	_	_	_	_	_	_	_	O
-2	Vetinari	_	_	_	_	_	_	_	_	O
+1	Lord	_	_	_	_	_	_	_	_	B-PER
+2	Vetinari	_	_	_	_	_	_	_	_	I-PER
 3	je	_	_	_	_	_	_	_	_	O
 4	naredio	_	_	_	_	_	_	_	SpaceAfter=No	O
 5	.	.	PUNCT	Z	_	_	_	_	_	O
@@ -582,7 +582,7 @@
 8	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 9	,	,	PUNCT	Z	_	_	_	_	_	O
 10	reče	_	_	_	_	_	_	_	_	O
-11	Vlaža	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	Vlaža	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 12	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 1.33
@@ -685,7 +685,7 @@
 15	surovo	_	_	_	_	_	_	_	SpaceAfter=No	O
 16	,	,	PUNCT	Z	_	_	_	_	_	O
 17	gospodine	_	_	_	_	_	_	_	_	O
-18	Vilkinsone	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	Vilkinsone	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 19	.	.	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 
 # sent_id = 1.39
@@ -764,7 +764,7 @@
 4	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 5	,	,	PUNCT	Z	_	_	_	_	_	O
 6	progunđa	_	_	_	_	_	_	_	_	O
-7	Vlaža	_	_	_	_	_	_	_	_	O
+7	Vlaža	_	_	_	_	_	_	_	_	B-PER
 8	sumorno	_	_	_	_	_	_	_	SpaceAfter=No	O
 9	.	.	PUNCT	Z	_	_	_	_	_	O
 
@@ -789,7 +789,7 @@
 # sent_id = 1.45
 # text = Gospodine Vilkinsone, zašto bih se naljutio?
 1	Gospodine	_	_	_	_	_	_	_	_	O
-2	Vilkinsone	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	Vilkinsone	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 3	,	,	PUNCT	Z	_	_	_	_	_	O
 4	zašto	_	_	_	_	_	_	_	_	O
 5	bih	_	_	_	_	_	_	_	_	O
@@ -837,7 +837,7 @@
 # sent_id = 1.49
 # text = “ Vlaža pogleda malenu rešetku u podu.
 1	“	“	PUNCT	Z	_	_	_	_	_	O
-2	Vlaža	_	_	_	_	_	_	_	_	O
+2	Vlaža	_	_	_	_	_	_	_	_	B-PER
 3	pogleda	_	_	_	_	_	_	_	_	O
 4	malenu	_	_	_	_	_	_	_	_	O
 5	rešetku	_	_	_	_	_	_	_	_	O
@@ -974,7 +974,7 @@
 2	da	_	_	_	_	_	_	_	SpaceAfter=No	O
 3	,	,	PUNCT	Z	_	_	_	_	_	O
 4	gospođa	_	_	_	_	_	_	_	_	O
-5	Vilkinson	_	_	_	_	_	_	_	_	O
+5	Vilkinson	_	_	_	_	_	_	_	_	B-PER
 6	kaže	_	_	_	_	_	_	_	_	O
 7	puno	_	_	_	_	_	_	_	_	O
 8	fala	_	_	_	_	_	_	_	_	O
@@ -1007,7 +1007,7 @@
 5	to	_	_	_	_	_	_	_	SpaceAfter=No	O
 6	,	,	PUNCT	Z	_	_	_	_	_	O
 7	gospodine	_	_	_	_	_	_	_	_	O
-8	Vilkinsone	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	Vilkinsone	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 9	.	.	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 
 # sent_id = 1.66
@@ -1082,11 +1082,11 @@
 9	dopalo	_	_	_	_	_	_	_	SpaceAfter=No	O
 10	,	,	PUNCT	Z	_	_	_	_	_	O
 11	gospodine	_	_	_	_	_	_	_	_	O
-12	Vilkinsone	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	Vilkinsone	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 13	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 14	,	,	PUNCT	Z	_	_	_	_	_	O
 15	reče	_	_	_	_	_	_	_	_	O
-16	Vlaža	_	_	_	_	_	_	_	_	O
+16	Vlaža	_	_	_	_	_	_	_	_	B-PER
 17	odsutno	_	_	_	_	_	_	_	SpaceAfter=No	O
 18	.	.	PUNCT	Z	_	_	_	_	_	O
 
@@ -1107,7 +1107,7 @@
 13	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 14	,	,	PUNCT	Z	_	_	_	_	_	O
 15	a	_	_	_	_	_	_	_	_	O
-16	Vlaža	_	_	_	_	_	_	_	_	O
+16	Vlaža	_	_	_	_	_	_	_	_	B-PER
 17	je	_	_	_	_	_	_	_	_	O
 18	uvek	_	_	_	_	_	_	_	_	O
 19	polagao	_	_	_	_	_	_	_	_	O
@@ -1142,7 +1142,7 @@
 10	,	,	PUNCT	Z	_	_	_	_	_	O
 11	reče	_	_	_	_	_	_	_	_	O
 12	gospodin	_	_	_	_	_	_	_	_	O
-13	Vilkinson	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	Vilkinson	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 14	,	,	PUNCT	Z	_	_	_	_	_	O
 15	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 16	ja	_	_	_	_	_	_	_	_	O
@@ -1211,7 +1211,7 @@
 4	nipošto	_	_	_	_	_	_	_	SpaceAfter=No	O
 5	,	,	PUNCT	Z	_	_	_	_	_	O
 6	gospodine	_	_	_	_	_	_	_	_	O
-7	Vilkinsone	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	Vilkinsone	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 8	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 9	,	,	PUNCT	Z	_	_	_	_	_	O
 10	reče	_	_	_	_	_	_	_	_	O
@@ -1283,7 +1283,7 @@
 24	,	,	PUNCT	Z	_	_	_	_	_	O
 25	reče	_	_	_	_	_	_	_	_	O
 26	gospodin	_	_	_	_	_	_	_	_	O
-27	Vilkinson	_	_	_	_	_	_	_	SpaceAfter=No	O
+27	Vilkinson	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 28	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 1.79
@@ -1335,7 +1335,7 @@
 18	pitanju	_	_	_	_	_	_	_	SpaceAfter=No	O
 19	,	,	PUNCT	Z	_	_	_	_	_	O
 20	gospodine	_	_	_	_	_	_	_	_	O
-21	Spangleru	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	Spangleru	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 22	.	.	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 
 # sent_id = 1.82
@@ -1364,7 +1364,7 @@
 
 # sent_id = 1.83
 # text = Vlaža shvati da posmatra samog sebe izdaleka, kao da neki deo njega lebdi van tela, poput dečjeg balona spremnog da on, takoreći, pusti kanap.
-1	Vlaža	_	_	_	_	_	_	_	_	O
+1	Vlaža	_	_	_	_	_	_	_	_	B-PER
 2	shvati	_	_	_	_	_	_	_	_	O
 3	da	_	_	_	_	_	_	_	_	O
 4	posmatra	_	_	_	_	_	_	_	_	O
@@ -1451,7 +1451,7 @@
 14	jutro	_	_	_	_	_	_	_	SpaceAfter=No	O
 15	,	,	PUNCT	Z	_	_	_	_	_	O
 16	gospodine	_	_	_	_	_	_	_	_	O
-17	Spangleru	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	Spangleru	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 18	.	.	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 
 # sent_id = 1.87
@@ -1471,10 +1471,10 @@
 4	,	,	PUNCT	Z	_	_	_	_	_	O
 5	gospodine	_	_	_	_	_	_	_	SpaceAfter=No	O
 6	,	,	PUNCT	Z	_	_	_	_	_	O
-7	Danijel	_	_	_	_	_	_	_	_	O
-8	’	’	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
-9	Jedan	_	_	_	_	_	_	_	_	O
-10	Cim	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	Danijel	_	_	_	_	_	_	_	_	B-PER
+8	’	’	PUNCT	Z	_	_	_	_	SpaceAfter=No	I-PER
+9	Jedan	_	_	_	_	_	_	_	_	I-PER
+10	Cim	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 11	’	’	PUNCT	Z	_	_	_	_	_	O
 12	Truper	_	_	_	_	_	_	_	SpaceAfter=No	O
 13	.	.	PUNCT	Z	_	_	_	_	_	O
@@ -1519,7 +1519,7 @@
 # text = “ „Dene, je l’ istina da ako neko posle trećeg pokušaja ne umre na vešalima, dobija oproštaj?
 1	“	“	PUNCT	Z	_	_	_	_	_	O
 2	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
-3	Dene	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	Dene	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 4	,	,	PUNCT	Z	_	_	_	_	_	O
 5	je	_	_	_	_	_	_	_	_	O
 6	l	_	_	_	_	_	_	_	SpaceAfter=No	O
@@ -1545,7 +1545,7 @@
 1	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 2	,	,	PUNCT	Z	_	_	_	_	_	O
 3	upita	_	_	_	_	_	_	_	_	O
-4	Vlaža	_	_	_	_	_	_	_	_	O
+4	Vlaža	_	_	_	_	_	_	_	_	B-PER
 5	dok	_	_	_	_	_	_	_	_	O
 6	je	_	_	_	_	_	_	_	_	O
 7	dželat	_	_	_	_	_	_	_	_	O
@@ -1653,7 +1653,7 @@
 # text = Juče u Novostima izašao fin članak o vama, ako mene pitate.
 1	Juče	_	_	_	_	_	_	_	_	O
 2	u	_	_	_	_	_	_	_	_	O
-3	Novostima	_	_	_	_	_	_	_	_	O
+3	Novostima	_	_	_	_	_	_	_	_	B-ORG
 4	izašao	_	_	_	_	_	_	_	_	O
 5	fin	_	_	_	_	_	_	_	_	O
 6	članak	_	_	_	_	_	_	_	_	O
@@ -1728,7 +1728,7 @@
 1	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 2	,	,	PUNCT	Z	_	_	_	_	_	O
 3	reče	_	_	_	_	_	_	_	_	O
-4	Vlaža	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	Vlaža	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 5	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 1.110
@@ -1877,7 +1877,7 @@
 1	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 2	,	,	PUNCT	Z	_	_	_	_	_	O
 3	zapita	_	_	_	_	_	_	_	_	O
-4	Vlaža	_	_	_	_	_	_	_	_	O
+4	Vlaža	_	_	_	_	_	_	_	_	B-PER
 5	i	_	_	_	_	_	_	_	_	O
 6	uze	_	_	_	_	_	_	_	_	O
 7	penkalo	_	_	_	_	_	_	_	SpaceAfter=No	O
@@ -1894,7 +1894,7 @@
 # sent_id = 1.125
 # text = Gospodin Truper ga je gledao kako se potpisuje duž užeta i srećno je klimao glavom.
 1	Gospodin	_	_	_	_	_	_	_	_	O
-2	Truper	_	_	_	_	_	_	_	_	O
+2	Truper	_	_	_	_	_	_	_	_	B-PER
 3	ga	_	_	_	_	_	_	_	_	O
 4	je	_	_	_	_	_	_	_	_	O
 5	gledao	_	_	_	_	_	_	_	_	O
@@ -1946,7 +1946,7 @@
 5	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 6	,	,	PUNCT	Z	_	_	_	_	_	O
 7	kaza	_	_	_	_	_	_	_	_	O
-8	Vlaža	_	_	_	_	_	_	_	_	O
+8	Vlaža	_	_	_	_	_	_	_	_	B-PER
 9	žurno	_	_	_	_	_	_	_	SpaceAfter=No	O
 10	,	,	PUNCT	Z	_	_	_	_	_	O
 11	što	_	_	_	_	_	_	_	_	O
@@ -1964,12 +1964,12 @@
 4	krvavi	_	_	_	_	_	_	_	SpaceAfter=No	O
 5	,	,	PUNCT	Z	_	_	_	_	_	O
 6	gospodine	_	_	_	_	_	_	_	_	O
-7	Spangleru	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	Spangleru	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 8	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 9	,	,	PUNCT	Z	_	_	_	_	_	O
 10	reče	_	_	_	_	_	_	_	_	O
 11	gospodin	_	_	_	_	_	_	_	_	O
-12	Vilkinson	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	Vilkinson	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 13	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 1.131
@@ -1997,7 +1997,7 @@
 6	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 7	,	,	PUNCT	Z	_	_	_	_	_	O
 8	reče	_	_	_	_	_	_	_	_	O
-9	Vlaža	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	Vlaža	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 10	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 1.133
@@ -2018,7 +2018,7 @@
 
 # sent_id = 1.134
 # text = Vlaža uzdahnu.
-1	Vlaža	_	_	_	_	_	_	_	_	O
+1	Vlaža	_	_	_	_	_	_	_	_	B-PER
 2	uzdahnu	_	_	_	_	_	_	_	SpaceAfter=No	O
 3	.	.	PUNCT	Z	_	_	_	_	_	O
 
@@ -2034,7 +2034,7 @@
 8	zločin	_	_	_	_	_	_	_	SpaceAfter=No	O
 9	,	,	PUNCT	Z	_	_	_	_	_	O
 10	gospodine	_	_	_	_	_	_	_	_	O
-11	Truperu	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	Truperu	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 12	?	?	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 
 # sent_id = 1.136
@@ -2111,7 +2111,7 @@
 1	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 2	,	,	PUNCT	Z	_	_	_	_	_	O
 3	zapita	_	_	_	_	_	_	_	_	O
-4	Vlaža	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	Vlaža	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 5	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 1.141
@@ -2214,7 +2214,7 @@
 6	njegovih	_	_	_	_	_	_	_	_	O
 7	zlodela	_	_	_	_	_	_	_	SpaceAfter=No	O
 8	,	,	PUNCT	Z	_	_	_	_	_	O
-9	Vlaža	_	_	_	_	_	_	_	_	O
+9	Vlaža	_	_	_	_	_	_	_	_	B-PER
 10	je	_	_	_	_	_	_	_	_	O
 11	piljio	_	_	_	_	_	_	_	_	O
 12	preda	_	_	_	_	_	_	_	_	O
@@ -2318,7 +2318,7 @@
 7	,	,	PUNCT	Z	_	_	_	_	_	O
 8	reče	_	_	_	_	_	_	_	_	O
 9	gospodin	_	_	_	_	_	_	_	_	O
-10	Truper	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	Truper	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 11	,	,	PUNCT	Z	_	_	_	_	_	O
 12	pa	_	_	_	_	_	_	_	_	O
 13	prebaci	_	_	_	_	_	_	_	_	O
@@ -2353,10 +2353,10 @@
 9	i	_	_	_	_	_	_	_	_	O
 10	tu	_	_	_	_	_	_	_	_	O
 11	su	_	_	_	_	_	_	_	_	O
-12	Novosti	_	_	_	_	_	_	_	_	O
+12	Novosti	_	_	_	_	_	_	_	_	B-ORG
 13	i	_	_	_	_	_	_	_	_	O
-14	Pseuedopoliski	_	_	_	_	_	_	_	_	O
-15	glasnik	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	Pseuedopoliski	_	_	_	_	_	_	_	_	B-ORG
+15	glasnik	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 16	,	,	PUNCT	Z	_	_	_	_	_	O
 17	verovatno	_	_	_	_	_	_	_	_	O
 18	zbog	_	_	_	_	_	_	_	_	O
@@ -2375,9 +2375,9 @@
 31	i	_	_	_	_	_	_	_	_	O
 32	neko	_	_	_	_	_	_	_	_	O
 33	iz	_	_	_	_	_	_	_	_	O
-34	Trgovca	_	_	_	_	_	_	_	_	O
-35	ravnice	_	_	_	_	_	_	_	_	O
-36	Sto	_	_	_	_	_	_	_	SpaceAfter=No	O
+34	Trgovca	_	_	_	_	_	_	_	_	B-ORG
+35	ravnice	_	_	_	_	_	_	_	_	I-ORG
+36	Sto	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 37	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 1.157
@@ -2412,7 +2412,7 @@
 # sent_id = 1.159
 # text = “ Vlaža je bio svestan da se pri začelju gomile zaustavila jedna crna kočija.
 1	“	“	PUNCT	Z	_	_	_	_	_	O
-2	Vlaža	_	_	_	_	_	_	_	_	O
+2	Vlaža	_	_	_	_	_	_	_	_	B-PER
 3	je	_	_	_	_	_	_	_	_	O
 4	bio	_	_	_	_	_	_	_	_	O
 5	svestan	_	_	_	_	_	_	_	_	O
@@ -2446,8 +2446,8 @@
 15	da	_	_	_	_	_	_	_	_	O
 16	se	_	_	_	_	_	_	_	_	O
 17	grb	_	_	_	_	_	_	_	_	O
-18	lorda	_	_	_	_	_	_	_	_	O
-19	Vetinarija	_	_	_	_	_	_	_	_	O
+18	lorda	_	_	_	_	_	_	_	_	B-PER
+19	Vetinarija	_	_	_	_	_	_	_	_	I-PER
 20	sastoji	_	_	_	_	_	_	_	_	O
 21	od	_	_	_	_	_	_	_	_	O
 22	samurnocrnog	_	_	_	_	_	_	_	_	O
@@ -2506,7 +2506,7 @@
 6	reči	_	_	_	_	_	_	_	SpaceAfter=No	O
 7	,	,	PUNCT	Z	_	_	_	_	_	O
 8	gospodine	_	_	_	_	_	_	_	_	O
-9	Spangleru	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	Spangleru	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 10	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 11	,	,	PUNCT	Z	_	_	_	_	_	O
 12	reče	_	_	_	_	_	_	_	_	O
@@ -2542,7 +2542,7 @@
 9	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 10	,	,	PUNCT	Z	_	_	_	_	_	O
 11	reče	_	_	_	_	_	_	_	_	O
-12	Vlaža	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	Vlaža	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 13	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 1.170
@@ -2587,7 +2587,7 @@
 9	,	,	PUNCT	Z	_	_	_	_	_	O
 10	reče	_	_	_	_	_	_	_	_	O
 11	gospodin	_	_	_	_	_	_	_	_	O
-12	Vilkinson	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	Vilkinson	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 13	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 1.174
@@ -2603,7 +2603,7 @@
 # sent_id = 1.175
 # text = “ Vlaža suzi oči.
 1	“	“	PUNCT	Z	_	_	_	_	_	O
-2	Vlaža	_	_	_	_	_	_	_	_	O
+2	Vlaža	_	_	_	_	_	_	_	_	B-PER
 3	suzi	_	_	_	_	_	_	_	_	O
 4	oči	_	_	_	_	_	_	_	SpaceAfter=No	O
 5	.	.	PUNCT	Z	_	_	_	_	_	O
@@ -2722,7 +2722,7 @@
 
 # sent_id = 1.187
 # text = Vetinari je hteo da ga zastraši, to je to.
-1	Vetinari	_	_	_	_	_	_	_	_	O
+1	Vetinari	_	_	_	_	_	_	_	_	B-PER
 2	je	_	_	_	_	_	_	_	_	O
 3	hteo	_	_	_	_	_	_	_	_	O
 4	da	_	_	_	_	_	_	_	_	O
@@ -2746,7 +2746,7 @@
 8	onome	_	_	_	_	_	_	_	_	O
 9	što	_	_	_	_	_	_	_	_	O
 10	je	_	_	_	_	_	_	_	_	O
-11	Vlaža	_	_	_	_	_	_	_	_	O
+11	Vlaža	_	_	_	_	_	_	_	_	B-PER
 12	čuo	_	_	_	_	_	_	_	SpaceAfter=No	O
 13	.	.	PUNCT	Z	_	_	_	_	_	O
 
@@ -2791,7 +2791,7 @@
 # text = „Gospodine Spangleru, biste li mogli malo da ubrzate?
 1	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 2	Gospodine	_	_	_	_	_	_	_	_	O
-3	Spangleru	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	Spangleru	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 4	,	,	PUNCT	Z	_	_	_	_	_	O
 5	biste	_	_	_	_	_	_	_	_	O
 6	li	_	_	_	_	_	_	_	_	O
@@ -2832,7 +2832,7 @@
 8	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 9	,	,	PUNCT	Z	_	_	_	_	_	O
 10	reče	_	_	_	_	_	_	_	_	O
-11	Vlaža	_	_	_	_	_	_	_	_	O
+11	Vlaža	_	_	_	_	_	_	_	_	B-PER
 12	oholo	_	_	_	_	_	_	_	SpaceAfter=No	O
 13	,	,	PUNCT	Z	_	_	_	_	_	O
 14	gledajući	_	_	_	_	_	_	_	_	O
@@ -2913,7 +2913,7 @@
 5	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 6	,	,	PUNCT	Z	_	_	_	_	_	O
 7	reče	_	_	_	_	_	_	_	_	O
-8	Spangler	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	Spangler	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 9	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 1.202
@@ -2969,7 +2969,7 @@
 3	poruku	_	_	_	_	_	_	_	_	O
 4	od	_	_	_	_	_	_	_	_	O
 5	lorda	_	_	_	_	_	_	_	_	O
-6	Vetinarija	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	Vetinarija	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 7	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 8	,	,	PUNCT	Z	_	_	_	_	_	O
 9	viknu	_	_	_	_	_	_	_	_	O
@@ -2988,7 +2988,7 @@
 1	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 2	,	,	PUNCT	Z	_	_	_	_	_	O
 3	reče	_	_	_	_	_	_	_	_	O
-4	Vlaža	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	Vlaža	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 5	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 1.209
@@ -3019,7 +3019,7 @@
 3	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 4	,	,	PUNCT	Z	_	_	_	_	_	O
 5	kaza	_	_	_	_	_	_	_	_	O
-6	Vlaža	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	Vlaža	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 7	,	,	PUNCT	Z	_	_	_	_	_	O
 8	zagledan	_	_	_	_	_	_	_	_	O
 9	u	_	_	_	_	_	_	_	_	O
@@ -3030,7 +3030,7 @@
 # sent_id = 1.212
 # text = Pogani Vetinari ima isti smisao za humor kao i zatvorski čuvari.
 1	Pogani	_	_	_	_	_	_	_	_	O
-2	Vetinari	_	_	_	_	_	_	_	_	O
+2	Vetinari	_	_	_	_	_	_	_	_	B-PER
 3	ima	_	_	_	_	_	_	_	_	O
 4	isti	_	_	_	_	_	_	_	_	O
 5	smisao	_	_	_	_	_	_	_	_	O
@@ -3048,7 +3048,7 @@
 2	Hajte	_	_	_	_	_	_	_	SpaceAfter=No	O
 3	,	,	PUNCT	Z	_	_	_	_	_	O
 4	gospodine	_	_	_	_	_	_	_	_	O
-5	Spangleru	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	Spangleru	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 6	,	,	PUNCT	Z	_	_	_	_	_	O
 7	nećete	_	_	_	_	_	_	_	_	O
 8	valjda	_	_	_	_	_	_	_	_	O

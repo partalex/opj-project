@@ -1,0 +1,41 @@
+#name = ognjen
+#domen = tviter
+#url = https://x.com/kvestkosmos/status/951386475907747840
+# newpar id = 1
+# sent_id = 1.1
+# text = zapisano na prvoj stranici pesmarice nepoznatog autora, onda kada je video gospođicu Zahariju, najveću lepoticu nemrtvog grada Nepočina, njen ljupki hod i mlečno bele zigomatikume o spreman sam za reset bože
+1	zapisano	_	_	_	_	_	_	_	_	O
+2	na	_	_	_	_	_	_	_	_	O
+3	prvoj	_	_	_	_	_	_	_	_	O
+4	stranici	_	_	_	_	_	_	_	_	O
+5	pesmarice	_	_	_	_	_	_	_	_	O
+6	nepoznatog	_	_	_	_	_	_	_	_	O
+7	autora	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	onda	_	_	_	_	_	_	_	_	O
+10	kada	_	_	_	_	_	_	_	_	O
+11	je	_	_	_	_	_	_	_	_	O
+12	video	_	_	_	_	_	_	_	_	O
+13	gospođicu	_	_	_	_	_	_	_	_	O
+14	Zahariju	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	,	,	PUNCT	Z	_	_	_	_	_	O
+16	najveću	_	_	_	_	_	_	_	_	O
+17	lepoticu	_	_	_	_	_	_	_	_	O
+18	nemrtvog	_	_	_	_	_	_	_	_	O
+19	grada	_	_	_	_	_	_	_	_	O
+20	Nepočina	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	,	,	PUNCT	Z	_	_	_	_	_	O
+22	njen	_	_	_	_	_	_	_	_	O
+23	ljupki	_	_	_	_	_	_	_	_	O
+24	hod	_	_	_	_	_	_	_	_	O
+25	i	_	_	_	_	_	_	_	_	O
+26	mlečno	_	_	_	_	_	_	_	_	O
+27	bele	_	_	_	_	_	_	_	_	O
+28	zigomatikume	_	_	_	_	_	_	_	_	O
+29	o	_	_	_	_	_	_	_	_	O
+30	spreman	_	_	_	_	_	_	_	_	O
+31	sam	_	_	_	_	_	_	_	_	O
+32	za	_	_	_	_	_	_	_	_	O
+33	reset	_	_	_	_	_	_	_	_	O
+34	bože	_	_	_	_	_	_	_	_	O
+

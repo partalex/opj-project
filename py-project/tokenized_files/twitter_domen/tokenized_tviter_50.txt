@@ -1,0 +1,50 @@
+#name = ognjen
+#domen = tviter
+#url = https://x.com/burek/status/1954604565438804295
+# newpar id = 1
+# sent_id = 1.1
+# text = Dugo nam je trebalo da se uklopimo, ali konačno jesmo i očekuje vas dve epizode zaista sjajnog razgovora sa Milovanom Dekićem, čovekom koga znate kao autora knjige o Design thinking metodologiji, i osobom koja je prethodnih deceniju u Nordeusu…
+1	Dugo	_	_	_	_	_	_	_	_	O
+2	nam	_	_	_	_	_	_	_	_	O
+3	je	_	_	_	_	_	_	_	_	O
+4	trebalo	_	_	_	_	_	_	_	_	O
+5	da	_	_	_	_	_	_	_	_	O
+6	se	_	_	_	_	_	_	_	_	O
+7	uklopimo	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	ali	_	_	_	_	_	_	_	_	O
+10	konačno	_	_	_	_	_	_	_	_	O
+11	jesmo	_	_	_	_	_	_	_	_	O
+12	i	_	_	_	_	_	_	_	_	O
+13	očekuje	_	_	_	_	_	_	_	_	O
+14	vas	_	_	_	_	_	_	_	_	O
+15	dve	_	_	_	_	_	_	_	_	O
+16	epizode	_	_	_	_	_	_	_	_	O
+17	zaista	_	_	_	_	_	_	_	_	O
+18	sjajnog	_	_	_	_	_	_	_	_	O
+19	razgovora	_	_	_	_	_	_	_	_	O
+20	sa	_	_	_	_	_	_	_	_	O
+21	Milovanom	_	_	_	_	_	_	_	_	O
+22	Dekićem	_	_	_	_	_	_	_	SpaceAfter=No	O
+23	,	,	PUNCT	Z	_	_	_	_	_	O
+24	čovekom	_	_	_	_	_	_	_	_	O
+25	koga	_	_	_	_	_	_	_	_	O
+26	znate	_	_	_	_	_	_	_	_	O
+27	kao	_	_	_	_	_	_	_	_	O
+28	autora	_	_	_	_	_	_	_	_	O
+29	knjige	_	_	_	_	_	_	_	_	O
+30	o	_	_	_	_	_	_	_	_	O
+31	Design	_	_	_	_	_	_	_	_	O
+32	thinking	_	_	_	_	_	_	_	_	O
+33	metodologiji	_	_	_	_	_	_	_	SpaceAfter=No	O
+34	,	,	PUNCT	Z	_	_	_	_	_	O
+35	i	_	_	_	_	_	_	_	_	O
+36	osobom	_	_	_	_	_	_	_	_	O
+37	koja	_	_	_	_	_	_	_	_	O
+38	je	_	_	_	_	_	_	_	_	O
+39	prethodnih	_	_	_	_	_	_	_	_	O
+40	deceniju	_	_	_	_	_	_	_	_	O
+41	u	_	_	_	_	_	_	_	_	O
+42	Nordeusu	_	_	_	_	_	_	_	SpaceAfter=No	O
+43	…	…	PUNCT	Z	_	_	_	_	_	O
+

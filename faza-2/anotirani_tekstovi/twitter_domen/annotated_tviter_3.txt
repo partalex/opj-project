@@ -7,15 +7,15 @@
 1	U	_	_	_	_	_	_	_	_	O
 2	emisiji	_	_	_	_	_	_	_	_	O
 3	na	_	_	_	_	_	_	_	_	O
-4	N1	_	_	_	_	_	_	_	_	O
+4	N1	_	_	_	_	_	_	_	_	B-ORG
 5	u	_	_	_	_	_	_	_	_	O
-6	Hrvatskoj	_	_	_	_	_	_	_	_	O
+6	Hrvatskoj	_	_	_	_	_	_	_	_	B-LOC
 7	za	_	_	_	_	_	_	_	_	O
 8	nacionalizam	_	_	_	_	_	_	_	_	O
 9	me	_	_	_	_	_	_	_	_	O
 10	je	_	_	_	_	_	_	_	_	O
 11	optužio	_	_	_	_	_	_	_	_	O
-12	Picula	_	_	_	_	_	_	_	_	O
+12	Picula	_	_	_	_	_	_	_	_	B-PER
 13	-	-	PUNCT	Z	_	_	_	_	_	O
 14	čovek	_	_	_	_	_	_	_	_	O
 15	koji	_	_	_	_	_	_	_	_	O
@@ -80,7 +80,7 @@
 9	već	_	_	_	_	_	_	_	_	O
 10	i	_	_	_	_	_	_	_	_	O
 11	za	_	_	_	_	_	_	_	_	O
-12	EU	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	EU	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
 13	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 2
@@ -105,7 +105,7 @@
 17	oca	_	_	_	_	_	_	_	_	O
 18	i	_	_	_	_	_	_	_	_	O
 19	memoranduma	_	_	_	_	_	_	_	_	O
-20	SANU	_	_	_	_	_	_	_	SpaceAfter=No	O
+20	SANU	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
 21	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 2.2
@@ -125,7 +125,7 @@
 13	vrata	_	_	_	_	_	_	_	_	O
 14	i	_	_	_	_	_	_	_	_	O
 15	prozore	_	_	_	_	_	_	_	_	O
-16	Vučiću	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	Vučiću	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 17	,	,	PUNCT	Z	_	_	_	_	_	O
 18	ponavljajući	_	_	_	_	_	_	_	_	O
 19	tu	_	_	_	_	_	_	_	_	O
@@ -144,7 +144,7 @@
 32	ključno	_	_	_	_	_	_	_	_	O
 33	uticala	_	_	_	_	_	_	_	_	O
 34	na	_	_	_	_	_	_	_	_	O
-35	Vučićev	_	_	_	_	_	_	_	_	O
+35	Vučićev	_	_	_	_	_	_	_	_	B-PER
 36	dolazak	_	_	_	_	_	_	_	_	O
 37	na	_	_	_	_	_	_	_	_	O
 38	vlast	_	_	_	_	_	_	_	_	O
@@ -160,7 +160,7 @@
 1	Tragično	_	_	_	_	_	_	_	_	O
 2	je	_	_	_	_	_	_	_	_	O
 3	da	_	_	_	_	_	_	_	_	O
-4	EU	_	_	_	_	_	_	_	_	O
+4	EU	_	_	_	_	_	_	_	_	B-ORG
 5	predstavlja	_	_	_	_	_	_	_	_	O
 6	čovek	_	_	_	_	_	_	_	_	O
 7	koji	_	_	_	_	_	_	_	_	O
@@ -241,7 +241,7 @@
 22	,	,	PUNCT	Z	_	_	_	_	_	O
 23	u	_	_	_	_	_	_	_	_	O
 24	ustoličenju	_	_	_	_	_	_	_	_	O
-25	Vučića	_	_	_	_	_	_	_	SpaceAfter=No	O
+25	Vučića	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 26	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 3.3
@@ -265,7 +265,7 @@
 17	kritičar	_	_	_	_	_	_	_	_	O
 18	režima	_	_	_	_	_	_	_	_	O
 19	u	_	_	_	_	_	_	_	_	O
-20	Srbiji	_	_	_	_	_	_	_	_	O
+20	Srbiji	_	_	_	_	_	_	_	_	B-LOC
 21	i	_	_	_	_	_	_	_	_	O
 22	poznavalac	_	_	_	_	_	_	_	_	O
 23	ove	_	_	_	_	_	_	_	_	O
@@ -308,9 +308,9 @@
 31	čovek	_	_	_	_	_	_	_	_	O
 32	pritom	_	_	_	_	_	_	_	_	O
 33	izvestilac	_	_	_	_	_	_	_	_	O
-34	EU	_	_	_	_	_	_	_	_	O
+34	EU	_	_	_	_	_	_	_	_	B-ORG
 35	za	_	_	_	_	_	_	_	_	O
-36	Srbiju	_	_	_	_	_	_	_	SpaceAfter=No	O
+36	Srbiju	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 37	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 5
@@ -324,10 +324,10 @@
 6	i	_	_	_	_	_	_	_	_	O
 7	da	_	_	_	_	_	_	_	_	O
 8	li	_	_	_	_	_	_	_	_	O
-9	EU	_	_	_	_	_	_	_	_	O
+9	EU	_	_	_	_	_	_	_	_	B-ORG
 10	reagovati	_	_	_	_	_	_	_	_	O
 11	na	_	_	_	_	_	_	_	_	O
-12	Piculine	_	_	_	_	_	_	_	_	O
+12	Piculine	_	_	_	_	_	_	_	_	B-PER
 13	nastupe	_	_	_	_	_	_	_	_	O
 14	ili	_	_	_	_	_	_	_	_	O
 15	će	_	_	_	_	_	_	_	_	O
@@ -339,10 +339,10 @@
 21	piculizacije	_	_	_	_	_	_	_	SpaceAfter=No	O
 22	”	”	PUNCT	Z	_	_	_	_	_	O
 23	politike	_	_	_	_	_	_	_	_	O
-24	EU	_	_	_	_	_	_	_	_	O
+24	EU	_	_	_	_	_	_	_	_	B-ORG
 25	na	_	_	_	_	_	_	_	_	O
-26	Zapadnom	_	_	_	_	_	_	_	_	O
-27	Balkanu	_	_	_	_	_	_	_	SpaceAfter=No	O
+26	Zapadnom	_	_	_	_	_	_	_	_	B-LOC
+27	Balkanu	_	_	_	_	_	_	_	SpaceAfter=No	I
 28	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 6
@@ -383,7 +383,7 @@
 33	i	_	_	_	_	_	_	_	_	O
 34	sa	_	_	_	_	_	_	_	_	O
 35	zvaničnicima	_	_	_	_	_	_	_	_	O
-36	Hrvatske	_	_	_	_	_	_	_	SpaceAfter=No	O
+36	Hrvatske	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 37	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 6.2
@@ -392,7 +392,7 @@
 2	je	_	_	_	_	_	_	_	_	O
 3	važno	_	_	_	_	_	_	_	_	O
 4	jer	_	_	_	_	_	_	_	_	O
-5	Picula	_	_	_	_	_	_	_	_	O
+5	Picula	_	_	_	_	_	_	_	_	B-PER
 6	svojom	_	_	_	_	_	_	_	_	O
 7	izjavom	_	_	_	_	_	_	_	_	O
 8	ne	_	_	_	_	_	_	_	_	O
@@ -425,7 +425,7 @@
 5	bilo	_	_	_	_	_	_	_	_	O
 6	otvaranje	_	_	_	_	_	_	_	_	O
 7	vrata	_	_	_	_	_	_	_	_	O
-8	Vučiću	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	Vučiću	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 9	,	,	PUNCT	Z	_	_	_	_	_	O
 10	već	_	_	_	_	_	_	_	_	O
 11	upravo	_	_	_	_	_	_	_	_	O
@@ -437,7 +437,7 @@
 17	iz	_	_	_	_	_	_	_	_	O
 18	temelja	_	_	_	_	_	_	_	_	O
 19	nakon	_	_	_	_	_	_	_	_	O
-20	Vučićevih	_	_	_	_	_	_	_	_	O
+20	Vučićevih	_	_	_	_	_	_	_	_	B-PER
 21	devedesetih	_	_	_	_	_	_	_	SpaceAfter=No	O
 22	.	.	PUNCT	Z	_	_	_	_	_	O
 
@@ -483,7 +483,7 @@
 9	pretencioznosti	_	_	_	_	_	_	_	SpaceAfter=No	O
 10	,	,	PUNCT	Z	_	_	_	_	_	O
 11	poput	_	_	_	_	_	_	_	_	O
-12	Picule	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	Picule	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 13	,	,	PUNCT	Z	_	_	_	_	_	O
 14	za	_	_	_	_	_	_	_	_	O
 15	liderske	_	_	_	_	_	_	_	_	O

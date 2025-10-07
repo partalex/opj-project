@@ -15,9 +15,9 @@
 9	čukundede	_	_	_	_	_	_	_	SpaceAfter=No	O
 10	,	,	PUNCT	Z	_	_	_	_	_	O
 11	kralja	_	_	_	_	_	_	_	_	O
-12	Petra	_	_	_	_	_	_	_	_	O
-13	I	_	_	_	_	_	_	_	_	O
-14	Karađorđevića	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	Petra	_	_	_	_	_	_	_	_	B-PER
+13	I	_	_	_	_	_	_	_	_	I
+14	Karađorđevića	_	_	_	_	_	_	_	SpaceAfter=No	I
 15	,	,	PUNCT	Z	_	_	_	_	_	O
 16	vladara	_	_	_	_	_	_	_	_	O
 17	koga	_	_	_	_	_	_	_	_	O
@@ -43,8 +43,8 @@
 # sent_id = 2.1
 # text = Kralj Petar I nije bio samo vladar, već i duboki vernik u ideale slobode i ljudskog dostojanstva.
 1	Kralj	_	_	_	_	_	_	_	_	O
-2	Petar	_	_	_	_	_	_	_	_	O
-3	I	_	_	_	_	_	_	_	_	O
+2	Petar	_	_	_	_	_	_	_	_	B-PER
+3	I	_	_	_	_	_	_	_	_	I
 4	nije	_	_	_	_	_	_	_	_	O
 5	bio	_	_	_	_	_	_	_	_	O
 6	samo	_	_	_	_	_	_	_	_	O
@@ -73,9 +73,9 @@
 7	preveo	_	_	_	_	_	_	_	_	O
 8	je	_	_	_	_	_	_	_	_	O
 9	delo	_	_	_	_	_	_	_	_	O
-10	Džona	_	_	_	_	_	_	_	_	O
-11	Stjuarta	_	_	_	_	_	_	_	_	O
-12	Mila	_	_	_	_	_	_	_	_	O
+10	Džona	_	_	_	_	_	_	_	_	B-PER
+11	Stjuarta	_	_	_	_	_	_	_	_	I
+12	Mila	_	_	_	_	_	_	_	_	I
 13	O	_	_	_	_	_	_	_	_	O
 14	slobodi	_	_	_	_	_	_	_	SpaceAfter=No	O
 15	,	,	PUNCT	Z	_	_	_	_	_	O
@@ -99,7 +99,7 @@
 2	njegove	_	_	_	_	_	_	_	_	O
 3	vladavine	_	_	_	_	_	_	_	SpaceAfter=No	O
 4	,	,	PUNCT	Z	_	_	_	_	_	O
-5	Srbija	_	_	_	_	_	_	_	_	O
+5	Srbija	_	_	_	_	_	_	_	_	B-LOC
 6	je	_	_	_	_	_	_	_	_	O
 7	živela	_	_	_	_	_	_	_	_	O
 8	pod	_	_	_	_	_	_	_	_	O
@@ -136,8 +136,8 @@
 18	odgovornost	_	_	_	_	_	_	_	_	O
 19	vlade	_	_	_	_	_	_	_	_	O
 20	pred	_	_	_	_	_	_	_	_	O
-21	Narodnom	_	_	_	_	_	_	_	_	O
-22	skupštinom	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	Narodnom	_	_	_	_	_	_	_	_	B-ORG
+22	skupštinom	_	_	_	_	_	_	_	SpaceAfter=No	I
 23	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 2.5
@@ -146,7 +146,7 @@
 2	to	_	_	_	_	_	_	_	_	O
 3	vreme	_	_	_	_	_	_	_	SpaceAfter=No	O
 4	,	,	PUNCT	Z	_	_	_	_	_	O
-5	Srbija	_	_	_	_	_	_	_	_	O
+5	Srbija	_	_	_	_	_	_	_	_	B-LOC
 6	je	_	_	_	_	_	_	_	_	O
 7	bila	_	_	_	_	_	_	_	_	O
 8	prepoznata	_	_	_	_	_	_	_	_	O
@@ -160,7 +160,7 @@
 16	,	,	PUNCT	Z	_	_	_	_	_	O
 17	a	_	_	_	_	_	_	_	_	O
 18	kralj	_	_	_	_	_	_	_	_	O
-19	Petar	_	_	_	_	_	_	_	_	O
+19	Petar	_	_	_	_	_	_	_	_	B-PER
 20	je	_	_	_	_	_	_	_	_	O
 21	dosledno	_	_	_	_	_	_	_	_	O
 22	poštovao	_	_	_	_	_	_	_	_	O
@@ -194,11 +194,11 @@
 10	devet	_	_	_	_	_	_	_	_	O
 11	meseci	_	_	_	_	_	_	_	_	O
 12	širom	_	_	_	_	_	_	_	_	O
-13	Srbije	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	Srbije	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 14	,	,	PUNCT	Z	_	_	_	_	_	O
 15	nasleđe	_	_	_	_	_	_	_	_	O
 16	kralja	_	_	_	_	_	_	_	_	O
-17	Petra	_	_	_	_	_	_	_	_	O
+17	Petra	_	_	_	_	_	_	_	_	B-PER
 18	se	_	_	_	_	_	_	_	_	O
 19	otkriva	_	_	_	_	_	_	_	_	O
 20	kao	_	_	_	_	_	_	_	_	O
@@ -266,9 +266,9 @@
 1	Sećanje	_	_	_	_	_	_	_	_	O
 2	na	_	_	_	_	_	_	_	_	O
 3	kralja	_	_	_	_	_	_	_	_	O
-4	Petra	_	_	_	_	_	_	_	_	O
-5	I	_	_	_	_	_	_	_	_	O
-6	Karađorđevića	_	_	_	_	_	_	_	_	O
+4	Petra	_	_	_	_	_	_	_	_	B-PER
+5	I	_	_	_	_	_	_	_	_	I
+6	Karađorđevića	_	_	_	_	_	_	_	_	I
 7	ne	_	_	_	_	_	_	_	_	O
 8	sme	_	_	_	_	_	_	_	_	O
 9	ostati	_	_	_	_	_	_	_	_	O
@@ -277,7 +277,7 @@
 12	njegovom	_	_	_	_	_	_	_	_	O
 13	sarkofagu	_	_	_	_	_	_	_	_	O
 14	u	_	_	_	_	_	_	_	_	O
-15	Oplencu	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	Oplencu	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 16	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 4.2
@@ -344,7 +344,7 @@
 7	i	_	_	_	_	_	_	_	_	O
 8	putokaz	_	_	_	_	_	_	_	_	O
 9	budućnosti	_	_	_	_	_	_	_	_	O
-10	Srbije	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	Srbije	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 11	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 5.3
@@ -357,7 +357,7 @@
 6	moj	_	_	_	_	_	_	_	_	O
 7	otac	_	_	_	_	_	_	_	_	O
 8	Prestolonaslednik	_	_	_	_	_	_	_	_	O
-9	Aleksandar	_	_	_	_	_	_	_	_	O
+9	Aleksandar	_	_	_	_	_	_	_	_	B-PER
 10	u	_	_	_	_	_	_	_	_	O
 11	čije	_	_	_	_	_	_	_	_	O
 12	sam	_	_	_	_	_	_	_	_	O

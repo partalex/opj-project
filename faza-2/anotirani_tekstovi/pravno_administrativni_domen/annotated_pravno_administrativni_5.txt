@@ -11,11 +11,11 @@
 # newpar id = 2
 # sent_id = 2.1
 # text = Vrhovni sud Srbije u Beogradu, u veću sastavljenom od sudija: Dragomira Milojevića, predsednika veća, Predraga Gligorijevića i Zorana Tatalovića, članova veća i savetnika Dragane Vuksanović, kao zapisničara, u krivičnom predmetu osuđenog AA, zbog krivičnog dela iz člana 171. stav 2. u vezi stava 1. Krivičnog zakona Republike Srbije, odlučujući o zahtevu osuđenog za vanredno ublažavanje kazne, izrečene pravnosnažnom presudom Opštinskog suda u Lajkovcu Kv.
-1	Vrhovni	_	_	_	_	_	_	_	_	O
-2	sud	_	_	_	_	_	_	_	_	O
-3	Srbije	_	_	_	_	_	_	_	_	O
+1	Vrhovni	_	_	_	_	_	_	_	_	B-ORG
+2	sud	_	_	_	_	_	_	_	_	I
+3	Srbije	_	_	_	_	_	_	_	_	I
 4	u	_	_	_	_	_	_	_	_	O
-5	Beogradu	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	Beogradu	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 6	,	,	PUNCT	Z	_	_	_	_	_	O
 7	u	_	_	_	_	_	_	_	_	O
 8	veću	_	_	_	_	_	_	_	_	O
@@ -23,24 +23,24 @@
 10	od	_	_	_	_	_	_	_	_	O
 11	sudija	_	_	_	_	_	_	_	SpaceAfter=No	O
 12	:	:	PUNCT	Z	_	_	_	_	_	O
-13	Dragomira	_	_	_	_	_	_	_	_	O
-14	Milojevića	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	Dragomira	_	_	_	_	_	_	_	_	B-PER
+14	Milojevića	_	_	_	_	_	_	_	SpaceAfter=No	I
 15	,	,	PUNCT	Z	_	_	_	_	_	O
 16	predsednika	_	_	_	_	_	_	_	_	O
 17	veća	_	_	_	_	_	_	_	SpaceAfter=No	O
 18	,	,	PUNCT	Z	_	_	_	_	_	O
-19	Predraga	_	_	_	_	_	_	_	_	O
-20	Gligorijevića	_	_	_	_	_	_	_	_	O
+19	Predraga	_	_	_	_	_	_	_	_	B-PER
+20	Gligorijevića	_	_	_	_	_	_	_	_	I
 21	i	_	_	_	_	_	_	_	_	O
-22	Zorana	_	_	_	_	_	_	_	_	O
-23	Tatalovića	_	_	_	_	_	_	_	SpaceAfter=No	O
+22	Zorana	_	_	_	_	_	_	_	_	B-PER
+23	Tatalovića	_	_	_	_	_	_	_	SpaceAfter=No	I
 24	,	,	PUNCT	Z	_	_	_	_	_	O
 25	članova	_	_	_	_	_	_	_	_	O
 26	veća	_	_	_	_	_	_	_	_	O
 27	i	_	_	_	_	_	_	_	_	O
 28	savetnika	_	_	_	_	_	_	_	_	O
-29	Dragane	_	_	_	_	_	_	_	_	O
-30	Vuksanović	_	_	_	_	_	_	_	SpaceAfter=No	O
+29	Dragane	_	_	_	_	_	_	_	_	B-PER
+30	Vuksanović	_	_	_	_	_	_	_	SpaceAfter=No	I
 31	,	,	PUNCT	Z	_	_	_	_	_	O
 32	kao	_	_	_	_	_	_	_	_	O
 33	zapisničara	_	_	_	_	_	_	_	SpaceAfter=No	O
@@ -65,8 +65,8 @@
 52	1.	_	_	_	_	_	_	_	_	O
 53	Krivičnog	_	_	_	_	_	_	_	_	O
 54	zakona	_	_	_	_	_	_	_	_	O
-55	Republike	_	_	_	_	_	_	_	_	O
-56	Srbije	_	_	_	_	_	_	_	SpaceAfter=No	O
+55	Republike	_	_	_	_	_	_	_	_	B-LOC
+56	Srbije	_	_	_	_	_	_	_	SpaceAfter=No	I
 57	,	,	PUNCT	Z	_	_	_	_	_	O
 58	odlučujući	_	_	_	_	_	_	_	_	O
 59	o	_	_	_	_	_	_	_	_	O
@@ -80,10 +80,10 @@
 67	izrečene	_	_	_	_	_	_	_	_	O
 68	pravnosnažnom	_	_	_	_	_	_	_	_	O
 69	presudom	_	_	_	_	_	_	_	_	O
-70	Opštinskog	_	_	_	_	_	_	_	_	O
-71	suda	_	_	_	_	_	_	_	_	O
+70	Opštinskog	_	_	_	_	_	_	_	_	B-ORG
+71	suda	_	_	_	_	_	_	_	_	I
 72	u	_	_	_	_	_	_	_	_	O
-73	Lajkovcu	_	_	_	_	_	_	_	_	O
+73	Lajkovcu	_	_	_	_	_	_	_	_	B-LOC
 74	Kv	_	_	_	_	_	_	_	SpaceAfter=No	O
 75	.	.	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 
@@ -135,10 +135,10 @@
 15	,	,	PUNCT	Z	_	_	_	_	_	O
 16	pravnosnažna	_	_	_	_	_	_	_	_	O
 17	presuda	_	_	_	_	_	_	_	_	O
-18	Opštinskog	_	_	_	_	_	_	_	_	O
-19	suda	_	_	_	_	_	_	_	_	O
+18	Opštinskog	_	_	_	_	_	_	_	_	B-ORG
+19	suda	_	_	_	_	_	_	_	_	I
 20	u	_	_	_	_	_	_	_	_	O
-21	Lajkovcu	_	_	_	_	_	_	_	_	O
+21	Lajkovcu	_	_	_	_	_	_	_	_	B-LOC
 22	Kv	_	_	_	_	_	_	_	SpaceAfter=No	O
 23	.	.	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 
@@ -151,8 +151,8 @@
 5	,	,	PUNCT	Z	_	_	_	_	_	O
 6	tako	_	_	_	_	_	_	_	_	O
 7	što	_	_	_	_	_	_	_	_	O
-8	Vrhovni	_	_	_	_	_	_	_	_	O
-9	sud	_	_	_	_	_	_	_	_	O
+8	Vrhovni	_	_	_	_	_	_	_	_	B-ORG
+9	sud	_	_	_	_	_	_	_	_	I
 10	osuđenog	_	_	_	_	_	_	_	_	O
 11	AA	_	_	_	_	_	_	_	SpaceAfter=No	O
 12	,	,	PUNCT	Z	_	_	_	_	_	O
@@ -205,10 +205,10 @@
 # sent_id = 6.1
 # text = Presudom Okružnog suda u Valjevu Kž.
 1	Presudom	_	_	_	_	_	_	_	_	O
-2	Okružnog	_	_	_	_	_	_	_	_	O
-3	suda	_	_	_	_	_	_	_	_	O
+2	Okružnog	_	_	_	_	_	_	_	_	B-ORG
+3	suda	_	_	_	_	_	_	_	_	I
 4	u	_	_	_	_	_	_	_	_	O
-5	Valjevu	_	_	_	_	_	_	_	_	O
+5	Valjevu	_	_	_	_	_	_	_	_	B-LOC
 6	Kž	_	_	_	_	_	_	_	SpaceAfter=No	O
 7	.	.	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 
@@ -231,10 +231,10 @@
 15	sankciji	_	_	_	_	_	_	_	_	O
 16	preinačena	_	_	_	_	_	_	_	_	O
 17	presuda	_	_	_	_	_	_	_	_	O
-18	Opštinskog	_	_	_	_	_	_	_	_	O
-19	suda	_	_	_	_	_	_	_	_	O
+18	Opštinskog	_	_	_	_	_	_	_	_	B-ORG
+19	suda	_	_	_	_	_	_	_	_	I
 20	u	_	_	_	_	_	_	_	_	O
-21	Lajkovcu	_	_	_	_	_	_	_	_	O
+21	Lajkovcu	_	_	_	_	_	_	_	_	B-LOC
 22	K.	_	_	_	_	_	_	_	SpaceAfter=No	O
 23	104/02	_	_	_	_	_	_	_	_	O
 24	od	_	_	_	_	_	_	_	_	O
@@ -341,15 +341,15 @@
 9	određenom	_	_	_	_	_	_	_	_	O
 10	navedenom	_	_	_	_	_	_	_	_	O
 11	presudom	_	_	_	_	_	_	_	_	O
-12	Okružnog	_	_	_	_	_	_	_	_	O
-13	suda	_	_	_	_	_	_	_	_	O
+12	Okružnog	_	_	_	_	_	_	_	_	B-ORG
+13	suda	_	_	_	_	_	_	_	_	I
 14	u	_	_	_	_	_	_	_	_	O
-15	Valjevu	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	Valjevu	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 16	,	,	PUNCT	Z	_	_	_	_	_	O
-17	Opštinski	_	_	_	_	_	_	_	_	O
-18	sud	_	_	_	_	_	_	_	_	O
+17	Opštinski	_	_	_	_	_	_	_	_	B-ORG
+18	sud	_	_	_	_	_	_	_	_	I
 19	u	_	_	_	_	_	_	_	_	O
-20	Lajkovcu	_	_	_	_	_	_	_	_	O
+20	Lajkovcu	_	_	_	_	_	_	_	_	B-LOC
 21	je	_	_	_	_	_	_	_	_	O
 22	presudom	_	_	_	_	_	_	_	_	O
 23	Kv	_	_	_	_	_	_	_	SpaceAfter=No	O
@@ -399,8 +399,8 @@
 # newpar id = 9
 # sent_id = 9.1
 # text = Vrhovni sud je razmotrio spise predmeta, sa zahtevom osuđenog, obrazloženim predlogom Opštinskog suda u Lajkovcu da se zahtev odbije i predlogom Republičkog javnog tužioca Ktr.
-1	Vrhovni	_	_	_	_	_	_	_	_	O
-2	sud	_	_	_	_	_	_	_	_	O
+1	Vrhovni	_	_	_	_	_	_	_	_	B-ORG
+2	sud	_	_	_	_	_	_	_	_	I
 3	je	_	_	_	_	_	_	_	_	O
 4	razmotrio	_	_	_	_	_	_	_	_	O
 5	spise	_	_	_	_	_	_	_	_	O
@@ -412,10 +412,10 @@
 11	,	,	PUNCT	Z	_	_	_	_	_	O
 12	obrazloženim	_	_	_	_	_	_	_	_	O
 13	predlogom	_	_	_	_	_	_	_	_	O
-14	Opštinskog	_	_	_	_	_	_	_	_	O
-15	suda	_	_	_	_	_	_	_	_	O
+14	Opštinskog	_	_	_	_	_	_	_	_	B-ORG
+15	suda	_	_	_	_	_	_	_	_	I
 16	u	_	_	_	_	_	_	_	_	O
-17	Lajkovcu	_	_	_	_	_	_	_	_	O
+17	Lajkovcu	_	_	_	_	_	_	_	_	B-LOC
 18	da	_	_	_	_	_	_	_	_	O
 19	se	_	_	_	_	_	_	_	_	O
 20	zahtev	_	_	_	_	_	_	_	_	O
@@ -535,8 +535,8 @@
 15	sudova	_	_	_	_	_	_	_	_	O
 16	vrata	_	_	_	_	_	_	_	_	O
 17	u	_	_	_	_	_	_	_	_	O
-18	KBC	_	_	_	_	_	_	_	_	O
-19	Zvezdara	_	_	_	_	_	_	_	_	O
+18	KBC	_	_	_	_	_	_	_	_	B-ORG
+19	Zvezdara	_	_	_	_	_	_	_	_	I
 20	i	_	_	_	_	_	_	_	_	O
 21	da	_	_	_	_	_	_	_	_	O
 22	to	_	_	_	_	_	_	_	_	O
@@ -607,9 +607,9 @@
 # text = Na zahtev Vrhovnog suda Srbije, dostavljen je i nalaz i mišljenje veštaka neuropsihijatra dr Julijane Kostić od 31.03.2009. godine, iz koga proizilazi da je osuđeni dva puta bolnički lečen u KBC Zvezdara.
 1	Na	_	_	_	_	_	_	_	_	O
 2	zahtev	_	_	_	_	_	_	_	_	O
-3	Vrhovnog	_	_	_	_	_	_	_	_	O
-4	suda	_	_	_	_	_	_	_	_	O
-5	Srbije	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	Vrhovnog	_	_	_	_	_	_	_	_	B-ORG
+4	suda	_	_	_	_	_	_	_	_	I
+5	Srbije	_	_	_	_	_	_	_	SpaceAfter=No	I
 6	,	,	PUNCT	Z	_	_	_	_	_	O
 7	dostavljen	_	_	_	_	_	_	_	_	O
 8	je	_	_	_	_	_	_	_	_	O
@@ -620,8 +620,8 @@
 13	veštaka	_	_	_	_	_	_	_	_	O
 14	neuropsihijatra	_	_	_	_	_	_	_	_	O
 15	dr	_	_	_	_	_	_	_	_	O
-16	Julijane	_	_	_	_	_	_	_	_	O
-17	Kostić	_	_	_	_	_	_	_	_	O
+16	Julijane	_	_	_	_	_	_	_	_	B-PER
+17	Kostić	_	_	_	_	_	_	_	_	I
 18	od	_	_	_	_	_	_	_	_	O
 19	31.03.2009.	_	_	_	_	_	_	_	_	O
 20	godine	_	_	_	_	_	_	_	SpaceAfter=No	O
@@ -637,8 +637,8 @@
 30	bolnički	_	_	_	_	_	_	_	_	O
 31	lečen	_	_	_	_	_	_	_	_	O
 32	u	_	_	_	_	_	_	_	_	O
-33	KBC	_	_	_	_	_	_	_	_	O
-34	Zvezdara	_	_	_	_	_	_	_	SpaceAfter=No	O
+33	KBC	_	_	_	_	_	_	_	_	B-ORG
+34	Zvezdara	_	_	_	_	_	_	_	SpaceAfter=No	I
 35	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 13.2
@@ -786,8 +786,8 @@
 1	U	_	_	_	_	_	_	_	_	O
 2	trećem	_	_	_	_	_	_	_	_	O
 3	nalazu	_	_	_	_	_	_	_	_	O
-4	KBC	_	_	_	_	_	_	_	_	O
-5	Zvezdara	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	KBC	_	_	_	_	_	_	_	_	B-ORG
+5	Zvezdara	_	_	_	_	_	_	_	SpaceAfter=No	I
 6	,	,	PUNCT	Z	_	_	_	_	_	O
 7	konstatovane	_	_	_	_	_	_	_	_	O
 8	su	_	_	_	_	_	_	_	_	O
@@ -851,8 +851,8 @@
 5	veštaka	_	_	_	_	_	_	_	_	O
 6	neuropsihijatra	_	_	_	_	_	_	_	_	O
 7	dr	_	_	_	_	_	_	_	_	O
-8	Julijane	_	_	_	_	_	_	_	_	O
-9	Kostić	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	Julijane	_	_	_	_	_	_	_	_	B-PER
+9	Kostić	_	_	_	_	_	_	_	SpaceAfter=No	I
 10	,	,	PUNCT	Z	_	_	_	_	_	O
 11	iz	_	_	_	_	_	_	_	_	O
 12	medicinske	_	_	_	_	_	_	_	_	O
@@ -941,8 +941,8 @@
 # newpar id = 16
 # sent_id = 16.1
 # text = Vrhovni sud nalazi da izmenjeno zdravstveno stanje osuđenog, s obzirom na težinu i prirodu bolesti, koje su napred navedene, a koje su se kod njega pojavile nakon okončanja redovnog krivičnog postupka, zbog čega je njegovo zdravstveno stanje ozbiljno narušeno, predstavlja novu okolnost koja opravdava vanredno ublažavanje kazne osuđenom.
-1	Vrhovni	_	_	_	_	_	_	_	_	O
-2	sud	_	_	_	_	_	_	_	_	O
+1	Vrhovni	_	_	_	_	_	_	_	_	B-ORG
+2	sud	_	_	_	_	_	_	_	_	I
 3	nalazi	_	_	_	_	_	_	_	_	O
 4	da	_	_	_	_	_	_	_	_	O
 5	izmenjeno	_	_	_	_	_	_	_	_	O
@@ -1001,8 +1001,8 @@
 # text = Stoga je Vrhovni sud, ceneći ovu novu okolnost u sklopu okolnosti cenjenih u redovnom postupku, u smislu člana 41.
 1	Stoga	_	_	_	_	_	_	_	_	O
 2	je	_	_	_	_	_	_	_	_	O
-3	Vrhovni	_	_	_	_	_	_	_	_	O
-4	sud	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	Vrhovni	_	_	_	_	_	_	_	_	B-ORG
+4	sud	_	_	_	_	_	_	_	SpaceAfter=No	I
 5	,	,	PUNCT	Z	_	_	_	_	_	O
 6	ceneći	_	_	_	_	_	_	_	_	O
 7	ovu	_	_	_	_	_	_	_	_	O

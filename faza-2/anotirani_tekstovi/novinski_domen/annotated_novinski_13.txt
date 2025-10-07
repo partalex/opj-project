@@ -9,16 +9,16 @@
 3	agencija	_	_	_	_	_	_	_	_	O
 4	za	_	_	_	_	_	_	_	_	O
 5	zapošljavanje	_	_	_	_	_	_	_	_	O
-6	Adeko	_	_	_	_	_	_	_	_	O
+6	Adeko	_	_	_	_	_	_	_	_	B-ORG
 7	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
-8	Adecco	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	Adecco	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
 9	)	)	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 10	,	,	PUNCT	Z	_	_	_	_	_	O
 11	kao	_	_	_	_	_	_	_	_	O
 12	deo	_	_	_	_	_	_	_	_	O
 13	globalne	_	_	_	_	_	_	_	_	O
-14	Adeko	_	_	_	_	_	_	_	_	O
-15	Grupe	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	Adeko	_	_	_	_	_	_	_	_	B-ORG
+15	Grupe	_	_	_	_	_	_	_	SpaceAfter=No	I
 16	,	,	PUNCT	Z	_	_	_	_	_	O
 17	ove	_	_	_	_	_	_	_	_	O
 18	godine	_	_	_	_	_	_	_	_	O
@@ -28,7 +28,7 @@
 22	poslovanja	_	_	_	_	_	_	_	_	O
 23	na	_	_	_	_	_	_	_	_	O
 24	teritoriji	_	_	_	_	_	_	_	_	O
-25	Srbije	_	_	_	_	_	_	_	_	O
+25	Srbije	_	_	_	_	_	_	_	_	B-LOC
 26	tokom	_	_	_	_	_	_	_	_	O
 27	kojih	_	_	_	_	_	_	_	_	O
 28	je	_	_	_	_	_	_	_	_	O
@@ -50,7 +50,7 @@
 44	koje	_	_	_	_	_	_	_	_	O
 45	su	_	_	_	_	_	_	_	_	O
 46	odabrale	_	_	_	_	_	_	_	_	O
-47	Adeko	_	_	_	_	_	_	_	_	O
+47	Adeko	_	_	_	_	_	_	_	_	B-ORG
 48	kao	_	_	_	_	_	_	_	_	O
 49	pouzdanog	_	_	_	_	_	_	_	_	O
 50	partnera	_	_	_	_	_	_	_	_	O
@@ -79,8 +79,8 @@
 9	godina	_	_	_	_	_	_	_	_	O
 10	uspešnog	_	_	_	_	_	_	_	_	O
 11	poslovanja	_	_	_	_	_	_	_	_	O
-12	Adeko	_	_	_	_	_	_	_	_	O
-13	Srbija	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	Adeko	_	_	_	_	_	_	_	_	B-ORG
+13	Srbija	_	_	_	_	_	_	_	SpaceAfter=No	I
 14	,	,	PUNCT	Z	_	_	_	_	_	O
 15	od	_	_	_	_	_	_	_	_	O
 16	osnivanja	_	_	_	_	_	_	_	_	O
@@ -121,9 +121,9 @@
 7	20	_	_	_	_	_	_	_	_	O
 8	godina	_	_	_	_	_	_	_	_	O
 9	rada	_	_	_	_	_	_	_	_	O
-10	Adeko	_	_	_	_	_	_	_	_	O
+10	Adeko	_	_	_	_	_	_	_	_	B-ORG
 11	u	_	_	_	_	_	_	_	_	O
-12	Srbiji	_	_	_	_	_	_	_	_	O
+12	Srbiji	_	_	_	_	_	_	_	_	B-LOC
 13	kroz	_	_	_	_	_	_	_	_	O
 14	saradnju	_	_	_	_	_	_	_	_	O
 15	sa	_	_	_	_	_	_	_	_	O
@@ -170,7 +170,7 @@
 56	podršku	_	_	_	_	_	_	_	_	O
 57	kompanijama	_	_	_	_	_	_	_	_	O
 58	u	_	_	_	_	_	_	_	_	O
-59	Srbiji	_	_	_	_	_	_	_	SpaceAfter=No	O
+59	Srbiji	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 60	,	,	PUNCT	Z	_	_	_	_	_	O
 61	omogućivši	_	_	_	_	_	_	_	_	O
 62	im	_	_	_	_	_	_	_	_	O
@@ -203,7 +203,7 @@
 7	pomažući	_	_	_	_	_	_	_	_	O
 8	kandidatima	_	_	_	_	_	_	_	_	O
 9	iz	_	_	_	_	_	_	_	_	O
-10	Srbije	_	_	_	_	_	_	_	_	O
+10	Srbije	_	_	_	_	_	_	_	_	B-LOC
 11	da	_	_	_	_	_	_	_	_	O
 12	pronađu	_	_	_	_	_	_	_	_	O
 13	adekvatne	_	_	_	_	_	_	_	_	O
@@ -224,7 +224,7 @@
 28	najbolje	_	_	_	_	_	_	_	_	O
 29	kompanije	_	_	_	_	_	_	_	_	O
 30	u	_	_	_	_	_	_	_	_	O
-31	Srbiji	_	_	_	_	_	_	_	SpaceAfter=No	O
+31	Srbiji	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 32	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 5
@@ -232,37 +232,37 @@
 # text = Viši potpredsednik Adeka i rukovodilac za EEMEA region Majank Patel (SVP Adecco & Head of EEMEA Question) na pitanje Tanjuga kako vidi razvoj uloge Srbije u okviru šire strategije Adeko grupe u narednoj deceniji, kazao je da je ponosan na ono što je tim u Srbiji do sada postigao naglašavajući da je Srbija postala jedno od najagilnijih i najzanimljivijih tržišta u regionu.
 1	Viši	_	_	_	_	_	_	_	_	O
 2	potpredsednik	_	_	_	_	_	_	_	_	O
-3	Adeka	_	_	_	_	_	_	_	_	O
+3	Adeka	_	_	_	_	_	_	_	_	B-ORG
 4	i	_	_	_	_	_	_	_	_	O
 5	rukovodilac	_	_	_	_	_	_	_	_	O
 6	za	_	_	_	_	_	_	_	_	O
-7	EEMEA	_	_	_	_	_	_	_	_	O
+7	EEMEA	_	_	_	_	_	_	_	_	B-LOC
 8	region	_	_	_	_	_	_	_	_	O
-9	Majank	_	_	_	_	_	_	_	_	O
-10	Patel	_	_	_	_	_	_	_	_	O
+9	Majank	_	_	_	_	_	_	_	_	B-PER
+10	Patel	_	_	_	_	_	_	_	_	I
 11	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 12	SVP	_	_	_	_	_	_	_	_	O
 13	Adecco	_	_	_	_	_	_	_	_	O
 14	&	&	SYM	Z	_	_	_	_	_	O
 15	Head	_	_	_	_	_	_	_	_	O
 16	of	_	_	_	_	_	_	_	_	O
-17	EEMEA	_	_	_	_	_	_	_	_	O
+17	EEMEA	_	_	_	_	_	_	_	_	B-LOC
 18	Question	_	_	_	_	_	_	_	SpaceAfter=No	O
 19	)	)	PUNCT	Z	_	_	_	_	_	O
 20	na	_	_	_	_	_	_	_	_	O
 21	pitanje	_	_	_	_	_	_	_	_	O
-22	Tanjuga	_	_	_	_	_	_	_	_	O
+22	Tanjuga	_	_	_	_	_	_	_	_	B-ORG
 23	kako	_	_	_	_	_	_	_	_	O
 24	vidi	_	_	_	_	_	_	_	_	O
 25	razvoj	_	_	_	_	_	_	_	_	O
 26	uloge	_	_	_	_	_	_	_	_	O
-27	Srbije	_	_	_	_	_	_	_	_	O
+27	Srbije	_	_	_	_	_	_	_	_	B-LOC
 28	u	_	_	_	_	_	_	_	_	O
 29	okviru	_	_	_	_	_	_	_	_	O
 30	šire	_	_	_	_	_	_	_	_	O
 31	strategije	_	_	_	_	_	_	_	_	O
-32	Adeko	_	_	_	_	_	_	_	_	O
-33	grupe	_	_	_	_	_	_	_	_	O
+32	Adeko	_	_	_	_	_	_	_	_	B-ORG
+33	grupe	_	_	_	_	_	_	_	_	I
 34	u	_	_	_	_	_	_	_	_	O
 35	narednoj	_	_	_	_	_	_	_	_	O
 36	deceniji	_	_	_	_	_	_	_	SpaceAfter=No	O
@@ -278,14 +278,14 @@
 46	je	_	_	_	_	_	_	_	_	O
 47	tim	_	_	_	_	_	_	_	_	O
 48	u	_	_	_	_	_	_	_	_	O
-49	Srbiji	_	_	_	_	_	_	_	_	O
+49	Srbiji	_	_	_	_	_	_	_	_	B-LOC
 50	do	_	_	_	_	_	_	_	_	O
 51	sada	_	_	_	_	_	_	_	_	O
 52	postigao	_	_	_	_	_	_	_	_	O
 53	naglašavajući	_	_	_	_	_	_	_	_	O
 54	da	_	_	_	_	_	_	_	_	O
 55	je	_	_	_	_	_	_	_	_	O
-56	Srbija	_	_	_	_	_	_	_	_	O
+56	Srbija	_	_	_	_	_	_	_	_	B-LOC
 57	postala	_	_	_	_	_	_	_	_	O
 58	jedno	_	_	_	_	_	_	_	_	O
 59	od	_	_	_	_	_	_	_	_	O
@@ -343,7 +343,7 @@
 8	c	_	_	_	_	_	_	_	SpaceAfter=No	O
 9	́	_	_	_	_	_	_	_	SpaceAfter=No	O
 10	e	_	_	_	_	_	_	_	_	O
-11	Srbija	_	_	_	_	_	_	_	_	O
+11	Srbija	_	_	_	_	_	_	_	_	B-LOC
 12	igrati	_	_	_	_	_	_	_	_	O
 13	još	_	_	_	_	_	_	_	_	O
 14	vec	_	_	_	_	_	_	_	SpaceAfter=No	O
@@ -359,11 +359,11 @@
 24	HR	_	_	_	_	_	_	_	_	O
 25	usluge	_	_	_	_	_	_	_	_	O
 26	širom	_	_	_	_	_	_	_	_	O
-27	Istočne	_	_	_	_	_	_	_	_	O
-28	Evrope	_	_	_	_	_	_	_	_	O
+27	Istočne	_	_	_	_	_	_	_	_	B-LOC
+28	Evrope	_	_	_	_	_	_	_	_	I
 29	i	_	_	_	_	_	_	_	_	O
-30	Bliskog	_	_	_	_	_	_	_	_	O
-31	istoka	_	_	_	_	_	_	_	SpaceAfter=No	O
+30	Bliskog	_	_	_	_	_	_	_	_	B-LOC
+31	istoka	_	_	_	_	_	_	_	SpaceAfter=No	I
 32	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 6.3
@@ -394,24 +394,24 @@
 1	Glavni	_	_	_	_	_	_	_	_	O
 2	finansijski	_	_	_	_	_	_	_	_	O
 3	direktor	_	_	_	_	_	_	_	_	O
-4	Adeko	_	_	_	_	_	_	_	_	O
-5	Srbija	_	_	_	_	_	_	_	_	O
-6	Filip	_	_	_	_	_	_	_	_	O
-7	Milisavljević	_	_	_	_	_	_	_	_	O
+4	Adeko	_	_	_	_	_	_	_	_	B-ORG
+5	Srbija	_	_	_	_	_	_	_	_	I
+6	Filip	_	_	_	_	_	_	_	_	B-PER
+7	Milisavljević	_	_	_	_	_	_	_	_	I
 8	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 9	Chief	_	_	_	_	_	_	_	_	O
 10	Financial	_	_	_	_	_	_	_	_	O
 11	Officer	_	_	_	_	_	_	_	_	O
-12	Adecco	_	_	_	_	_	_	_	_	O
-13	Serbia	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	Adecco	_	_	_	_	_	_	_	_	B-ORG
+13	Serbia	_	_	_	_	_	_	_	SpaceAfter=No	I
 14	)	)	PUNCT	Z	_	_	_	_	_	O
 15	rekao	_	_	_	_	_	_	_	_	O
 16	je	_	_	_	_	_	_	_	_	O
 17	da	_	_	_	_	_	_	_	_	O
 18	gledano	_	_	_	_	_	_	_	_	O
 19	unazad	_	_	_	_	_	_	_	_	O
-20	Adeko	_	_	_	_	_	_	_	_	O
-21	Srbija	_	_	_	_	_	_	_	_	O
+20	Adeko	_	_	_	_	_	_	_	_	B-ORG
+21	Srbija	_	_	_	_	_	_	_	_	I
 22	može	_	_	_	_	_	_	_	_	O
 23	biti	_	_	_	_	_	_	_	_	O
 24	ponosna	_	_	_	_	_	_	_	_	O
@@ -508,13 +508,13 @@
 28	doprinele	_	_	_	_	_	_	_	_	O
 29	ekonomskom	_	_	_	_	_	_	_	_	O
 30	razvoju	_	_	_	_	_	_	_	_	O
-31	Sribije	_	_	_	_	_	_	_	SpaceAfter=No	O
+31	Sribije	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 32	”	”	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 33	,	,	PUNCT	Z	_	_	_	_	_	O
 34	rekao	_	_	_	_	_	_	_	_	O
 35	je	_	_	_	_	_	_	_	_	O
 36	on	_	_	_	_	_	_	_	_	O
-37	Tanjugu	_	_	_	_	_	_	_	SpaceAfter=No	O
+37	Tanjugu	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
 38	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 9
@@ -522,15 +522,15 @@
 # text = Menadžer prodaje Adeko Srbija Ivan Vučićević (Sales Manager Adecco Serbia), objašnjavajući kako se menja potražnja za HR uslugama u Srbiji, posebno u kontekstu saradnje sa tehnološkim kompanijama rekao je da se tržište menja iz dana u dan i da tehnološke kompanije traže brza, fleksibilna rešenja ne samo da popune pozicije, već da grade timove koji mogu da rastu i razvijaju se.
 1	Menadžer	_	_	_	_	_	_	_	_	O
 2	prodaje	_	_	_	_	_	_	_	_	O
-3	Adeko	_	_	_	_	_	_	_	_	O
-4	Srbija	_	_	_	_	_	_	_	_	O
-5	Ivan	_	_	_	_	_	_	_	_	O
-6	Vučićević	_	_	_	_	_	_	_	_	O
+3	Adeko	_	_	_	_	_	_	_	_	B-ORG
+4	Srbija	_	_	_	_	_	_	_	_	I
+5	Ivan	_	_	_	_	_	_	_	_	B-PER
+6	Vučićević	_	_	_	_	_	_	_	_	I
 7	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 8	Sales	_	_	_	_	_	_	_	_	O
 9	Manager	_	_	_	_	_	_	_	_	O
-10	Adecco	_	_	_	_	_	_	_	_	O
-11	Serbia	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	Adecco	_	_	_	_	_	_	_	_	B-ORG
+11	Serbia	_	_	_	_	_	_	_	SpaceAfter=No	I
 12	)	)	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 13	,	,	PUNCT	Z	_	_	_	_	_	O
 14	objašnjavajući	_	_	_	_	_	_	_	_	O
@@ -542,7 +542,7 @@
 20	HR	_	_	_	_	_	_	_	_	O
 21	uslugama	_	_	_	_	_	_	_	_	O
 22	u	_	_	_	_	_	_	_	_	O
-23	Srbiji	_	_	_	_	_	_	_	SpaceAfter=No	O
+23	Srbiji	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 24	,	,	PUNCT	Z	_	_	_	_	_	O
 25	posebno	_	_	_	_	_	_	_	_	O
 26	u	_	_	_	_	_	_	_	_	O
@@ -653,7 +653,7 @@
 9	,	,	PUNCT	Z	_	_	_	_	_	O
 10	rekao	_	_	_	_	_	_	_	_	O
 11	je	_	_	_	_	_	_	_	_	O
-12	Vučićević	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	Vučićević	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 13	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 11
@@ -664,12 +664,12 @@
 3	naglasio	_	_	_	_	_	_	_	_	O
 4	da	_	_	_	_	_	_	_	_	O
 5	je	_	_	_	_	_	_	_	_	O
-6	Srbija	_	_	_	_	_	_	_	_	O
+6	Srbija	_	_	_	_	_	_	_	_	B-LOC
 7	definitivno	_	_	_	_	_	_	_	_	O
 8	mesto	_	_	_	_	_	_	_	_	O
 9	gde	_	_	_	_	_	_	_	_	O
 10	biznis	_	_	_	_	_	_	_	_	O
-11	Adeka	_	_	_	_	_	_	_	_	O
+11	Adeka	_	_	_	_	_	_	_	_	B-ORG
 12	može	_	_	_	_	_	_	_	_	O
 13	drastično	_	_	_	_	_	_	_	_	O
 14	da	_	_	_	_	_	_	_	_	O
@@ -683,7 +683,7 @@
 22	veruje	_	_	_	_	_	_	_	_	O
 23	da	_	_	_	_	_	_	_	_	O
 24	će	_	_	_	_	_	_	_	_	O
-25	Adeko	_	_	_	_	_	_	_	_	O
+25	Adeko	_	_	_	_	_	_	_	_	B-ORG
 26	biti	_	_	_	_	_	_	_	_	O
 27	itekako	_	_	_	_	_	_	_	_	O
 28	važan	_	_	_	_	_	_	_	_	O
@@ -695,7 +695,7 @@
 34	poslovne	_	_	_	_	_	_	_	_	O
 35	situacije	_	_	_	_	_	_	_	_	O
 36	u	_	_	_	_	_	_	_	_	O
-37	Srbiji	_	_	_	_	_	_	_	_	O
+37	Srbiji	_	_	_	_	_	_	_	_	B-LOC
 38	u	_	_	_	_	_	_	_	_	O
 39	narednih	_	_	_	_	_	_	_	_	O
 40	pet	_	_	_	_	_	_	_	_	O
@@ -790,7 +790,7 @@
 20	,	,	PUNCT	Z	_	_	_	_	_	O
 21	rekao	_	_	_	_	_	_	_	_	O
 22	je	_	_	_	_	_	_	_	_	O
-23	Vučićević	_	_	_	_	_	_	_	SpaceAfter=No	O
+23	Vučićević	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 24	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 13
@@ -798,15 +798,15 @@
 # text = Menadžer operacija Adeko Srbija Nataša Tadić (Operations Manager Adecco Serbia) kazala je da kada je reč o operativnim izazovima i uspešnim praksama koje su obeležile rad Adeka u Srbiji, da je u operacijama uvek izazov da sve funkcioniše besprekorno, odnosno da su procesi efikasni, da su klijenti zadovoljni, i da tim ima podršku.
 1	Menadžer	_	_	_	_	_	_	_	_	O
 2	operacija	_	_	_	_	_	_	_	_	O
-3	Adeko	_	_	_	_	_	_	_	_	O
-4	Srbija	_	_	_	_	_	_	_	_	O
-5	Nataša	_	_	_	_	_	_	_	_	O
-6	Tadić	_	_	_	_	_	_	_	_	O
+3	Adeko	_	_	_	_	_	_	_	_	B-ORG
+4	Srbija	_	_	_	_	_	_	_	_	I
+5	Nataša	_	_	_	_	_	_	_	_	B-PER
+6	Tadić	_	_	_	_	_	_	_	_	I
 7	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 8	Operations	_	_	_	_	_	_	_	_	O
 9	Manager	_	_	_	_	_	_	_	_	O
-10	Adecco	_	_	_	_	_	_	_	_	O
-11	Serbia	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	Adecco	_	_	_	_	_	_	_	_	B-ORG
+11	Serbia	_	_	_	_	_	_	_	SpaceAfter=No	I
 12	)	)	PUNCT	Z	_	_	_	_	_	O
 13	kazala	_	_	_	_	_	_	_	_	O
 14	je	_	_	_	_	_	_	_	_	O
@@ -824,9 +824,9 @@
 26	su	_	_	_	_	_	_	_	_	O
 27	obeležile	_	_	_	_	_	_	_	_	O
 28	rad	_	_	_	_	_	_	_	_	O
-29	Adeka	_	_	_	_	_	_	_	_	O
+29	Adeka	_	_	_	_	_	_	_	_	B-ORG
 30	u	_	_	_	_	_	_	_	_	O
-31	Srbiji	_	_	_	_	_	_	_	SpaceAfter=No	O
+31	Srbiji	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 32	,	,	PUNCT	Z	_	_	_	_	_	O
 33	da	_	_	_	_	_	_	_	_	O
 34	je	_	_	_	_	_	_	_	_	O
@@ -934,7 +934,7 @@
 30	je	_	_	_	_	_	_	_	_	O
 31	ona	_	_	_	_	_	_	_	_	O
 32	za	_	_	_	_	_	_	_	_	O
-33	Tanjug	_	_	_	_	_	_	_	SpaceAfter=No	O
+33	Tanjug	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
 34	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 15
@@ -944,35 +944,35 @@
 2	ljudskih	_	_	_	_	_	_	_	_	O
 3	resursa	_	_	_	_	_	_	_	_	O
 4	za	_	_	_	_	_	_	_	_	O
-5	MEA	_	_	_	_	_	_	_	_	O
-6	Turska	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	MEA	_	_	_	_	_	_	_	_	B-LOC
+6	Turska	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 7	,	,	PUNCT	Z	_	_	_	_	_	O
-8	Slovenija	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	Slovenija	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 9	,	,	PUNCT	Z	_	_	_	_	_	O
-10	Srbija	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	Srbija	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 11	,	,	PUNCT	Z	_	_	_	_	_	O
-12	Crna	_	_	_	_	_	_	_	_	O
-13	Gora	_	_	_	_	_	_	_	_	O
-14	Nataša	_	_	_	_	_	_	_	_	O
-15	Živanović	_	_	_	_	_	_	_	_	O
+12	Crna	_	_	_	_	_	_	_	_	B-LOC
+13	Gora	_	_	_	_	_	_	_	_	I
+14	Nataša	_	_	_	_	_	_	_	_	B-PER
+15	Živanović	_	_	_	_	_	_	_	_	I
 16	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 17	Head	_	_	_	_	_	_	_	_	O
 18	of	_	_	_	_	_	_	_	_	O
 19	HR	_	_	_	_	_	_	_	_	O
-20	MEA	_	_	_	_	_	_	_	SpaceAfter=No	O
+20	MEA	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 21	,	,	PUNCT	Z	_	_	_	_	_	O
-22	Turkey	_	_	_	_	_	_	_	SpaceAfter=No	O
+22	Turkey	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 23	,	,	PUNCT	Z	_	_	_	_	_	O
-24	Slovenia	_	_	_	_	_	_	_	SpaceAfter=No	O
+24	Slovenia	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 25	,	,	PUNCT	Z	_	_	_	_	_	O
-26	Serbia	_	_	_	_	_	_	_	SpaceAfter=No	O
+26	Serbia	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 27	,	,	PUNCT	Z	_	_	_	_	_	O
-28	Montenegro	_	_	_	_	_	_	_	SpaceAfter=No	O
+28	Montenegro	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 29	)	)	PUNCT	Z	_	_	_	_	_	O
 30	odgovarajući	_	_	_	_	_	_	_	_	O
 31	na	_	_	_	_	_	_	_	_	O
 32	pitanje	_	_	_	_	_	_	_	_	O
-33	Tanjuga	_	_	_	_	_	_	_	_	O
+33	Tanjuga	_	_	_	_	_	_	_	_	B-ORG
 34	koje	_	_	_	_	_	_	_	_	O
 35	HR	_	_	_	_	_	_	_	_	O
 36	prakse	_	_	_	_	_	_	_	_	O
@@ -985,7 +985,7 @@
 43	tržišta	_	_	_	_	_	_	_	_	O
 44	rada	_	_	_	_	_	_	_	_	O
 45	u	_	_	_	_	_	_	_	_	O
-46	Srbiji	_	_	_	_	_	_	_	_	O
+46	Srbiji	_	_	_	_	_	_	_	_	B-LOC
 47	i	_	_	_	_	_	_	_	_	O
 48	kako	_	_	_	_	_	_	_	_	O
 49	planiraju	_	_	_	_	_	_	_	_	O
@@ -1012,7 +1012,7 @@
 70	gleda	_	_	_	_	_	_	_	_	O
 71	na	_	_	_	_	_	_	_	_	O
 72	usluge	_	_	_	_	_	_	_	_	O
-73	Adeka	_	_	_	_	_	_	_	_	O
+73	Adeka	_	_	_	_	_	_	_	_	B-ORG
 74	kao	_	_	_	_	_	_	_	_	O
 75	strateške	_	_	_	_	_	_	_	SpaceAfter=No	O
 76	,	,	PUNCT	Z	_	_	_	_	_	O
@@ -1108,7 +1108,7 @@
 26	grade	_	_	_	_	_	_	_	_	O
 27	karijeru	_	_	_	_	_	_	_	_	O
 28	u	_	_	_	_	_	_	_	_	O
-29	Srbiji	_	_	_	_	_	_	_	SpaceAfter=No	O
+29	Srbiji	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 30	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 16.4
@@ -1135,12 +1135,12 @@
 2	godini	_	_	_	_	_	_	_	_	O
 3	jubileja	_	_	_	_	_	_	_	_	O
 4	u	_	_	_	_	_	_	_	_	O
-5	Adeku	_	_	_	_	_	_	_	_	O
+5	Adeku	_	_	_	_	_	_	_	_	B-ORG
 6	ističu	_	_	_	_	_	_	_	_	O
 7	da	_	_	_	_	_	_	_	_	O
 8	oni	_	_	_	_	_	_	_	_	O
 9	u	_	_	_	_	_	_	_	_	O
-10	Srbiji	_	_	_	_	_	_	_	_	O
+10	Srbiji	_	_	_	_	_	_	_	_	B-LOC
 11	prate	_	_	_	_	_	_	_	_	O
 12	makro	_	_	_	_	_	_	_	_	O
 13	ekonomske	_	_	_	_	_	_	_	_	O
@@ -1189,7 +1189,7 @@
 5	sa	_	_	_	_	_	_	_	_	O
 6	tim	_	_	_	_	_	_	_	SpaceAfter=No	O
 7	,	,	PUNCT	Z	_	_	_	_	_	O
-8	Adeko	_	_	_	_	_	_	_	_	O
+8	Adeko	_	_	_	_	_	_	_	_	B-ORG
 9	nastavlja	_	_	_	_	_	_	_	_	O
 10	sa	_	_	_	_	_	_	_	_	O
 11	širenjem	_	_	_	_	_	_	_	_	O

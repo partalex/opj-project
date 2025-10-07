@@ -1,7 +1,7 @@
 #name = milena
 #domen = muzika
 #url = https://www.klasicnimirko.com/muzicke-kritike/mocartov-rekvijem-i-violinski-koncert-cajkovskog-na-kolarcu-virtuozni-simovic-i-dirljivi-rts
-#text =Dan Velike dvorane Kolarčeve zadužbine proslavljen je veličanstveno, uz dva kapitalna dela evropske klasične muzike – Mocartov Rekvijem i Koncert za violinu u D-duru, op. 35 Čajkovskog. Koncert je bio izuzetna prilika za predstavljanje Simfonijskog orkestra i Hora RTS-a, sjajnih solista i nedavno imenovanog šefa dirigenta, Srboljuba Dinića.
+#text = Dan Velike dvorane Kolarčeve zadužbine proslavljen je veličanstveno, uz dva kapitalna dela evropske klasične muzike – Mocartov Rekvijem i Koncert za violinu u D-duru, op. 35 Čajkovskog. Koncert je bio izuzetna prilika za predstavljanje Simfonijskog orkestra i Hora RTS-a, sjajnih solista i nedavno imenovanog šefa dirigenta, Srboljuba Dinića.
 Svečani zvuk Mocartovog Rekvijema
 
 Koncert je otvoren svečanim zvukom Mocartovog poslednjeg dela, nedovršenog Rekvijema, u uobičajenoj dopuni Zismajera. Iako smo imali priliku da ovo delo slušamo u izvođenju Simfonijskog orkestra i Hora RTS-a pod različitim dirigentskim palicama, ovaj koncert doneo je svež, drugačiji zvuk i nov pristup interpretaciji. Umesto romantizovane vizije Rekvijema, izvođači su doneli strože, stabilnije građenje forme, s jasnim osećajem za Mocartovu strukturalnu preciznost.

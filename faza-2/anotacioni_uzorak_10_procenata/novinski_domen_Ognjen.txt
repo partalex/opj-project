@@ -96,35 +96,35 @@
 #url = https://rts.rs/magazin/kultura/nesto-drugo/5790953/sajam-savremene-umetnosti-bec-srpsko-poreklo.html
 # newpar id = 1
 # sent_id = 1.1
-# text = Овог пута су се на Сајму појавиле и институције, као аукцијска кућа Доротеум, новопостављени Музеј бечког акционизма (флуксус/нео-дада) или Факултет примењених уметности.
-1	Овог	_	_	_	_	_	_	_	_	O
-2	пута	_	_	_	_	_	_	_	_	O
-3	су	_	_	_	_	_	_	_	_	O
-4	се	_	_	_	_	_	_	_	_	O
-5	на	_	_	_	_	_	_	_	_	O
-6	Сајму	_	_	_	_	_	_	_	_	O
-7	појавиле	_	_	_	_	_	_	_	_	O
-8	и	_	_	_	_	_	_	_	_	O
-9	институције	_	_	_	_	_	_	_	SpaceAfter=No	O
+# text = Ovog puta su se na Sajmu pojavile i institucije, kao aukcijska kuća Doroteum, novopostavljeni Muzej bečkog akcionizma (fluksus/neo-dada) ili Fakultet primenjenih umetnosti.
+1	Ovog	_	_	_	_	_	_	_	_	O
+2	puta	_	_	_	_	_	_	_	_	O
+3	su	_	_	_	_	_	_	_	_	O
+4	se	_	_	_	_	_	_	_	_	O
+5	na	_	_	_	_	_	_	_	_	O
+6	Sajmu	_	_	_	_	_	_	_	_	O
+7	pojavile	_	_	_	_	_	_	_	_	O
+8	i	_	_	_	_	_	_	_	_	O
+9	institucije	_	_	_	_	_	_	_	SpaceAfter=No	O
 10	,	,	PUNCT	Z	_	_	_	_	_	O
-11	као	_	_	_	_	_	_	_	_	O
-12	аукцијска	_	_	_	_	_	_	_	_	O
-13	кућа	_	_	_	_	_	_	_	_	O
-14	Доротеум	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	kao	_	_	_	_	_	_	_	_	O
+12	aukcijska	_	_	_	_	_	_	_	_	O
+13	kuća	_	_	_	_	_	_	_	_	O
+14	Doroteum	_	_	_	_	_	_	_	SpaceAfter=No	O
 15	,	,	PUNCT	Z	_	_	_	_	_	O
-16	новопостављени	_	_	_	_	_	_	_	_	O
-17	Музеј	_	_	_	_	_	_	_	_	O
-18	бечког	_	_	_	_	_	_	_	_	O
-19	акционизма	_	_	_	_	_	_	_	_	O
+16	novopostavljeni	_	_	_	_	_	_	_	_	O
+17	Muzej	_	_	_	_	_	_	_	_	O
+18	bečkog	_	_	_	_	_	_	_	_	O
+19	akcionizma	_	_	_	_	_	_	_	_	O
 20	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
-21	флуксус	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	fluksus	_	_	_	_	_	_	_	SpaceAfter=No	O
 22	/	/	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
-23	нео-дада	_	_	_	_	_	_	_	SpaceAfter=No	O
+23	neo-dada	_	_	_	_	_	_	_	SpaceAfter=No	O
 24	)	)	PUNCT	Z	_	_	_	_	_	O
-25	или	_	_	_	_	_	_	_	_	O
-26	Факултет	_	_	_	_	_	_	_	_	O
-27	примењених	_	_	_	_	_	_	_	_	O
-28	уметности	_	_	_	_	_	_	_	SpaceAfter=No	O
+25	ili	_	_	_	_	_	_	_	_	O
+26	Fakultet	_	_	_	_	_	_	_	_	O
+27	primenjenih	_	_	_	_	_	_	_	_	O
+28	umetnosti	_	_	_	_	_	_	_	SpaceAfter=No	O
 29	.	.	PUNCT	Z	_	_	_	_	_	O
 
 #name = ognjen

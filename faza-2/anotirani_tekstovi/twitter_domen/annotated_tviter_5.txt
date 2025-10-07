@@ -1,0 +1,519 @@
+#name = aleksandar
+#domen = tviter
+#url = https://x.com/PavleGrbovic/status/1966217698704036108
+# newpar id = 1
+# sent_id = 1.1
+# text = Nekoliko realnih činjenica o EU koje će mnoge iznervirati, ali možda će dopreti do onih do kojih treba.
+1	Nekoliko	_	_	_	_	_	_	_	_	O
+2	realnih	_	_	_	_	_	_	_	_	O
+3	činjenica	_	_	_	_	_	_	_	_	O
+4	o	_	_	_	_	_	_	_	_	O
+5	EU	_	_	_	_	_	_	_	_	O
+6	koje	_	_	_	_	_	_	_	_	O
+7	će	_	_	_	_	_	_	_	_	O
+8	mnoge	_	_	_	_	_	_	_	_	O
+9	iznervirati	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	ali	_	_	_	_	_	_	_	_	O
+12	možda	_	_	_	_	_	_	_	_	O
+13	će	_	_	_	_	_	_	_	_	O
+14	dopreti	_	_	_	_	_	_	_	_	O
+15	do	_	_	_	_	_	_	_	_	O
+16	onih	_	_	_	_	_	_	_	_	O
+17	do	_	_	_	_	_	_	_	_	O
+18	kojih	_	_	_	_	_	_	_	_	O
+19	treba	_	_	_	_	_	_	_	SpaceAfter=No	O
+20	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 2
+# sent_id = 2.1
+# text = EU ne podržava Vučića - Da nije tako, potvrđuje činjenica da 4 godine Srbija ne beleži bilo kakav napredak.
+1	EU	_	_	_	_	_	_	_	_	O
+2	ne	_	_	_	_	_	_	_	_	O
+3	podržava	_	_	_	_	_	_	_	_	O
+4	Vučića	_	_	_	_	_	_	_	_	O
+5	-	-	PUNCT	Z	_	_	_	_	_	O
+6	Da	_	_	_	_	_	_	_	_	O
+7	nije	_	_	_	_	_	_	_	_	O
+8	tako	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	potvrđuje	_	_	_	_	_	_	_	_	O
+11	činjenica	_	_	_	_	_	_	_	_	O
+12	da	_	_	_	_	_	_	_	_	O
+13	4	_	_	_	_	_	_	_	_	O
+14	godine	_	_	_	_	_	_	_	_	O
+15	Srbija	_	_	_	_	_	_	_	_	O
+16	ne	_	_	_	_	_	_	_	_	O
+17	beleži	_	_	_	_	_	_	_	_	O
+18	bilo	_	_	_	_	_	_	_	_	O
+19	kakav	_	_	_	_	_	_	_	_	O
+20	napredak	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.2
+# text = Izveštaji Evropskog parlamenta i Evropske komisije detaljno i tačno detektuju šta sve ne valja i zbog čega tog napretka nema.
+1	Izveštaji	_	_	_	_	_	_	_	_	O
+2	Evropskog	_	_	_	_	_	_	_	_	O
+3	parlamenta	_	_	_	_	_	_	_	_	O
+4	i	_	_	_	_	_	_	_	_	O
+5	Evropske	_	_	_	_	_	_	_	_	O
+6	komisije	_	_	_	_	_	_	_	_	O
+7	detaljno	_	_	_	_	_	_	_	_	O
+8	i	_	_	_	_	_	_	_	_	O
+9	tačno	_	_	_	_	_	_	_	_	O
+10	detektuju	_	_	_	_	_	_	_	_	O
+11	šta	_	_	_	_	_	_	_	_	O
+12	sve	_	_	_	_	_	_	_	_	O
+13	ne	_	_	_	_	_	_	_	_	O
+14	valja	_	_	_	_	_	_	_	_	O
+15	i	_	_	_	_	_	_	_	_	O
+16	zbog	_	_	_	_	_	_	_	_	O
+17	čega	_	_	_	_	_	_	_	_	O
+18	tog	_	_	_	_	_	_	_	_	O
+19	napretka	_	_	_	_	_	_	_	_	O
+20	nema	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.3
+# text = Oni svoj deo posla u tom pogledu ispunjavaju.
+1	Oni	_	_	_	_	_	_	_	_	O
+2	svoj	_	_	_	_	_	_	_	_	O
+3	deo	_	_	_	_	_	_	_	_	O
+4	posla	_	_	_	_	_	_	_	_	O
+5	u	_	_	_	_	_	_	_	_	O
+6	tom	_	_	_	_	_	_	_	_	O
+7	pogledu	_	_	_	_	_	_	_	_	O
+8	ispunjavaju	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.4
+# text = Zašto nisu angažovaniji, o tome ćemo u nastavku teksta.
+1	Zašto	_	_	_	_	_	_	_	_	O
+2	nisu	_	_	_	_	_	_	_	_	O
+3	angažovaniji	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	o	_	_	_	_	_	_	_	_	O
+6	tome	_	_	_	_	_	_	_	_	O
+7	ćemo	_	_	_	_	_	_	_	_	O
+8	u	_	_	_	_	_	_	_	_	O
+9	nastavku	_	_	_	_	_	_	_	_	O
+10	teksta	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 3
+# sent_id = 3.1
+# text = Države članice sarađuju sa vlašću SNS u granicama svojih interesa - Da, to je tačno.
+1	Države	_	_	_	_	_	_	_	_	O
+2	članice	_	_	_	_	_	_	_	_	O
+3	sarađuju	_	_	_	_	_	_	_	_	O
+4	sa	_	_	_	_	_	_	_	_	O
+5	vlašću	_	_	_	_	_	_	_	_	O
+6	SNS	_	_	_	_	_	_	_	_	O
+7	u	_	_	_	_	_	_	_	_	O
+8	granicama	_	_	_	_	_	_	_	_	O
+9	svojih	_	_	_	_	_	_	_	_	O
+10	interesa	_	_	_	_	_	_	_	_	O
+11	-	-	PUNCT	Z	_	_	_	_	_	O
+12	Da	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+14	to	_	_	_	_	_	_	_	_	O
+15	je	_	_	_	_	_	_	_	_	O
+16	tačno	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 3.2
+# text = Ali to ne znači da ga žele u svom društvu niti da bi dopustili da Srbija pod takvim vođstvom bude među donosiocima odluka jer takvi režimi kontaminiraju svako društvo u kom se nađu.
+1	Ali	_	_	_	_	_	_	_	_	O
+2	to	_	_	_	_	_	_	_	_	O
+3	ne	_	_	_	_	_	_	_	_	O
+4	znači	_	_	_	_	_	_	_	_	O
+5	da	_	_	_	_	_	_	_	_	O
+6	ga	_	_	_	_	_	_	_	_	O
+7	žele	_	_	_	_	_	_	_	_	O
+8	u	_	_	_	_	_	_	_	_	O
+9	svom	_	_	_	_	_	_	_	_	O
+10	društvu	_	_	_	_	_	_	_	_	O
+11	niti	_	_	_	_	_	_	_	_	O
+12	da	_	_	_	_	_	_	_	_	O
+13	bi	_	_	_	_	_	_	_	_	O
+14	dopustili	_	_	_	_	_	_	_	_	O
+15	da	_	_	_	_	_	_	_	_	O
+16	Srbija	_	_	_	_	_	_	_	_	O
+17	pod	_	_	_	_	_	_	_	_	O
+18	takvim	_	_	_	_	_	_	_	_	O
+19	vođstvom	_	_	_	_	_	_	_	_	O
+20	bude	_	_	_	_	_	_	_	_	O
+21	među	_	_	_	_	_	_	_	_	O
+22	donosiocima	_	_	_	_	_	_	_	_	O
+23	odluka	_	_	_	_	_	_	_	_	O
+24	jer	_	_	_	_	_	_	_	_	O
+25	takvi	_	_	_	_	_	_	_	_	O
+26	režimi	_	_	_	_	_	_	_	_	O
+27	kontaminiraju	_	_	_	_	_	_	_	_	O
+28	svako	_	_	_	_	_	_	_	_	O
+29	društvo	_	_	_	_	_	_	_	_	O
+30	u	_	_	_	_	_	_	_	_	O
+31	kom	_	_	_	_	_	_	_	_	O
+32	se	_	_	_	_	_	_	_	_	O
+33	nađu	_	_	_	_	_	_	_	SpaceAfter=No	O
+34	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 3.3
+# text = Jasno se vidi da je AV izopšten iz svakog planiranja ili odlučivanja (npr Bled)
+1	Jasno	_	_	_	_	_	_	_	_	O
+2	se	_	_	_	_	_	_	_	_	O
+3	vidi	_	_	_	_	_	_	_	_	O
+4	da	_	_	_	_	_	_	_	_	O
+5	je	_	_	_	_	_	_	_	_	O
+6	AV	_	_	_	_	_	_	_	_	O
+7	izopšten	_	_	_	_	_	_	_	_	O
+8	iz	_	_	_	_	_	_	_	_	O
+9	svakog	_	_	_	_	_	_	_	_	O
+10	planiranja	_	_	_	_	_	_	_	_	O
+11	ili	_	_	_	_	_	_	_	_	O
+12	odlučivanja	_	_	_	_	_	_	_	_	O
+13	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+14	npr	_	_	_	_	_	_	_	_	O
+15	Bled	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	)	)	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 4
+# sent_id = 4.1
+# text = Gde je EU u pogledu svega što se dešava u Srbiji?
+1	Gde	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	EU	_	_	_	_	_	_	_	_	O
+4	u	_	_	_	_	_	_	_	_	O
+5	pogledu	_	_	_	_	_	_	_	_	O
+6	svega	_	_	_	_	_	_	_	_	O
+7	što	_	_	_	_	_	_	_	_	O
+8	se	_	_	_	_	_	_	_	_	O
+9	dešava	_	_	_	_	_	_	_	_	O
+10	u	_	_	_	_	_	_	_	_	O
+11	Srbiji	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	?	?	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 4.2
+# text = Tamo gde su postavljeni - Da bi se EU aktivno uključila u rešavanje naših problema neophodan je preduslov da su ovde ugrožene osnovne evropske vrednosti.
+1	Tamo	_	_	_	_	_	_	_	_	O
+2	gde	_	_	_	_	_	_	_	_	O
+3	su	_	_	_	_	_	_	_	_	O
+4	postavljeni	_	_	_	_	_	_	_	_	O
+5	-	-	PUNCT	Z	_	_	_	_	_	O
+6	Da	_	_	_	_	_	_	_	_	O
+7	bi	_	_	_	_	_	_	_	_	O
+8	se	_	_	_	_	_	_	_	_	O
+9	EU	_	_	_	_	_	_	_	_	O
+10	aktivno	_	_	_	_	_	_	_	_	O
+11	uključila	_	_	_	_	_	_	_	_	O
+12	u	_	_	_	_	_	_	_	_	O
+13	rešavanje	_	_	_	_	_	_	_	_	O
+14	naših	_	_	_	_	_	_	_	_	O
+15	problema	_	_	_	_	_	_	_	_	O
+16	neophodan	_	_	_	_	_	_	_	_	O
+17	je	_	_	_	_	_	_	_	_	O
+18	preduslov	_	_	_	_	_	_	_	_	O
+19	da	_	_	_	_	_	_	_	_	O
+20	su	_	_	_	_	_	_	_	_	O
+21	ovde	_	_	_	_	_	_	_	_	O
+22	ugrožene	_	_	_	_	_	_	_	_	O
+23	osnovne	_	_	_	_	_	_	_	_	O
+24	evropske	_	_	_	_	_	_	_	_	O
+25	vrednosti	_	_	_	_	_	_	_	SpaceAfter=No	O
+26	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 4.3
+# text = I taj preduslov je ispunjen, ali nije dovoljan.
+1	I	_	_	_	_	_	_	_	_	O
+2	taj	_	_	_	_	_	_	_	_	O
+3	preduslov	_	_	_	_	_	_	_	_	O
+4	je	_	_	_	_	_	_	_	_	O
+5	ispunjen	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	ali	_	_	_	_	_	_	_	_	O
+8	nije	_	_	_	_	_	_	_	_	O
+9	dovoljan	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 4.4
+# text = Potrebno je i sledeće:
+1	Potrebno	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	i	_	_	_	_	_	_	_	_	O
+4	sledeće	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	:	:	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 5
+# sent_id = 5.1
+# text = Da postoji jasna alternativa aktuelnom režimu
+1	Da	_	_	_	_	_	_	_	_	O
+2	postoji	_	_	_	_	_	_	_	_	O
+3	jasna	_	_	_	_	_	_	_	_	O
+4	alternativa	_	_	_	_	_	_	_	_	O
+5	aktuelnom	_	_	_	_	_	_	_	_	O
+6	režimu	_	_	_	_	_	_	_	_	O
+
+# newpar id = 6
+# sent_id = 6.1
+# text = Da postoji jasna vizija te alternative u pogledu evropske budućnosti Srbije i konstruktivnog doprinosa zajedničkim ciljevima i interesima
+1	Da	_	_	_	_	_	_	_	_	O
+2	postoji	_	_	_	_	_	_	_	_	O
+3	jasna	_	_	_	_	_	_	_	_	O
+4	vizija	_	_	_	_	_	_	_	_	O
+5	te	_	_	_	_	_	_	_	_	O
+6	alternative	_	_	_	_	_	_	_	_	O
+7	u	_	_	_	_	_	_	_	_	O
+8	pogledu	_	_	_	_	_	_	_	_	O
+9	evropske	_	_	_	_	_	_	_	_	O
+10	budućnosti	_	_	_	_	_	_	_	_	O
+11	Srbije	_	_	_	_	_	_	_	_	O
+12	i	_	_	_	_	_	_	_	_	O
+13	konstruktivnog	_	_	_	_	_	_	_	_	O
+14	doprinosa	_	_	_	_	_	_	_	_	O
+15	zajedničkim	_	_	_	_	_	_	_	_	O
+16	ciljevima	_	_	_	_	_	_	_	_	O
+17	i	_	_	_	_	_	_	_	_	O
+18	interesima	_	_	_	_	_	_	_	_	O
+
+# newpar id = 7
+# sent_id = 7.1
+# text = Da postoji volja i poziv da se sarađuje
+1	Da	_	_	_	_	_	_	_	_	O
+2	postoji	_	_	_	_	_	_	_	_	O
+3	volja	_	_	_	_	_	_	_	_	O
+4	i	_	_	_	_	_	_	_	_	O
+5	poziv	_	_	_	_	_	_	_	_	O
+6	da	_	_	_	_	_	_	_	_	O
+7	se	_	_	_	_	_	_	_	_	O
+8	sarađuje	_	_	_	_	_	_	_	_	O
+
+# newpar id = 8
+# sent_id = 8.1
+# text = EU ne uvodi evropske vrednosti po službenoj dužnosti niti protivno volji.
+1	EU	_	_	_	_	_	_	_	_	O
+2	ne	_	_	_	_	_	_	_	_	O
+3	uvodi	_	_	_	_	_	_	_	_	O
+4	evropske	_	_	_	_	_	_	_	_	O
+5	vrednosti	_	_	_	_	_	_	_	_	O
+6	po	_	_	_	_	_	_	_	_	O
+7	službenoj	_	_	_	_	_	_	_	_	O
+8	dužnosti	_	_	_	_	_	_	_	_	O
+9	niti	_	_	_	_	_	_	_	_	O
+10	protivno	_	_	_	_	_	_	_	_	O
+11	volji	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 9
+# sent_id = 9.1
+# text = Ako ne komuniciraš sa njima, ako ne pokazuješ da si pouzdan partner za budućnost, onda se neće uključiti.
+1	Ako	_	_	_	_	_	_	_	_	O
+2	ne	_	_	_	_	_	_	_	_	O
+3	komuniciraš	_	_	_	_	_	_	_	_	O
+4	sa	_	_	_	_	_	_	_	_	O
+5	njima	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	ako	_	_	_	_	_	_	_	_	O
+8	ne	_	_	_	_	_	_	_	_	O
+9	pokazuješ	_	_	_	_	_	_	_	_	O
+10	da	_	_	_	_	_	_	_	_	O
+11	si	_	_	_	_	_	_	_	_	O
+12	pouzdan	_	_	_	_	_	_	_	_	O
+13	partner	_	_	_	_	_	_	_	_	O
+14	za	_	_	_	_	_	_	_	_	O
+15	budućnost	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	,	,	PUNCT	Z	_	_	_	_	_	O
+17	onda	_	_	_	_	_	_	_	_	O
+18	se	_	_	_	_	_	_	_	_	O
+19	neće	_	_	_	_	_	_	_	_	O
+20	uključiti	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 10
+# sent_id = 10.1
+# text = Nije realno očekivati podršku bez jasnog stava da želiš da postaneš deo tog projekta i da prihvataš i prava i obaveze koji iz toga proističu.
+1	Nije	_	_	_	_	_	_	_	_	O
+2	realno	_	_	_	_	_	_	_	_	O
+3	očekivati	_	_	_	_	_	_	_	_	O
+4	podršku	_	_	_	_	_	_	_	_	O
+5	bez	_	_	_	_	_	_	_	_	O
+6	jasnog	_	_	_	_	_	_	_	_	O
+7	stava	_	_	_	_	_	_	_	_	O
+8	da	_	_	_	_	_	_	_	_	O
+9	želiš	_	_	_	_	_	_	_	_	O
+10	da	_	_	_	_	_	_	_	_	O
+11	postaneš	_	_	_	_	_	_	_	_	O
+12	deo	_	_	_	_	_	_	_	_	O
+13	tog	_	_	_	_	_	_	_	_	O
+14	projekta	_	_	_	_	_	_	_	_	O
+15	i	_	_	_	_	_	_	_	_	O
+16	da	_	_	_	_	_	_	_	_	O
+17	prihvataš	_	_	_	_	_	_	_	_	O
+18	i	_	_	_	_	_	_	_	_	O
+19	prava	_	_	_	_	_	_	_	_	O
+20	i	_	_	_	_	_	_	_	_	O
+21	obaveze	_	_	_	_	_	_	_	_	O
+22	koji	_	_	_	_	_	_	_	_	O
+23	iz	_	_	_	_	_	_	_	_	O
+24	toga	_	_	_	_	_	_	_	_	O
+25	proističu	_	_	_	_	_	_	_	SpaceAfter=No	O
+26	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 11
+# sent_id = 11.1
+# text = Ne postoji politički neutralna Vlada.
+1	Ne	_	_	_	_	_	_	_	_	O
+2	postoji	_	_	_	_	_	_	_	_	O
+3	politički	_	_	_	_	_	_	_	_	O
+4	neutralna	_	_	_	_	_	_	_	_	O
+5	Vlada	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 12
+# sent_id = 12.1
+# text = Ovo nije pitanje o kom ćemo se izjašnjavati “posle”.
+1	Ovo	_	_	_	_	_	_	_	_	O
+2	nije	_	_	_	_	_	_	_	_	O
+3	pitanje	_	_	_	_	_	_	_	_	O
+4	o	_	_	_	_	_	_	_	_	O
+5	kom	_	_	_	_	_	_	_	_	O
+6	ćemo	_	_	_	_	_	_	_	_	O
+7	se	_	_	_	_	_	_	_	_	O
+8	izjašnjavati	_	_	_	_	_	_	_	_	O
+9	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+10	posle	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	”	”	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+12	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 12.2
+# text = Ovo pitanje je politička vododelnica i nijedna buduća vlast ne može da odlaže određivanje po istom.
+1	Ovo	_	_	_	_	_	_	_	_	O
+2	pitanje	_	_	_	_	_	_	_	_	O
+3	je	_	_	_	_	_	_	_	_	O
+4	politička	_	_	_	_	_	_	_	_	O
+5	vododelnica	_	_	_	_	_	_	_	_	O
+6	i	_	_	_	_	_	_	_	_	O
+7	nijedna	_	_	_	_	_	_	_	_	O
+8	buduća	_	_	_	_	_	_	_	_	O
+9	vlast	_	_	_	_	_	_	_	_	O
+10	ne	_	_	_	_	_	_	_	_	O
+11	može	_	_	_	_	_	_	_	_	O
+12	da	_	_	_	_	_	_	_	_	O
+13	odlaže	_	_	_	_	_	_	_	_	O
+14	određivanje	_	_	_	_	_	_	_	_	O
+15	po	_	_	_	_	_	_	_	_	O
+16	istom	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 12.3
+# text = I niko u međunarodnoj zajednici neće podržati takvu neizvesnost.
+1	I	_	_	_	_	_	_	_	_	O
+2	niko	_	_	_	_	_	_	_	_	O
+3	u	_	_	_	_	_	_	_	_	O
+4	međunarodnoj	_	_	_	_	_	_	_	_	O
+5	zajednici	_	_	_	_	_	_	_	_	O
+6	neće	_	_	_	_	_	_	_	_	O
+7	podržati	_	_	_	_	_	_	_	_	O
+8	takvu	_	_	_	_	_	_	_	_	O
+9	neizvesnost	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 13
+# sent_id = 13.1
+# text = Ako nema jasnog opredeljenja - neće biti ni odlučnije reakcije.
+1	Ako	_	_	_	_	_	_	_	_	O
+2	nema	_	_	_	_	_	_	_	_	O
+3	jasnog	_	_	_	_	_	_	_	_	O
+4	opredeljenja	_	_	_	_	_	_	_	_	O
+5	-	-	PUNCT	Z	_	_	_	_	_	O
+6	neće	_	_	_	_	_	_	_	_	O
+7	biti	_	_	_	_	_	_	_	_	O
+8	ni	_	_	_	_	_	_	_	_	O
+9	odlučnije	_	_	_	_	_	_	_	_	O
+10	reakcije	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 14
+# sent_id = 14.1
+# text = To ne znači da će “podržavati Vučića”.
+1	To	_	_	_	_	_	_	_	_	O
+2	ne	_	_	_	_	_	_	_	_	O
+3	znači	_	_	_	_	_	_	_	_	O
+4	da	_	_	_	_	_	_	_	_	O
+5	će	_	_	_	_	_	_	_	_	O
+6	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+7	podržavati	_	_	_	_	_	_	_	_	O
+8	Vučića	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	”	”	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+10	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 14.2
+# text = Neće, samo će raditi svoj posao na dosadašnji način.
+1	Neće	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	samo	_	_	_	_	_	_	_	_	O
+4	će	_	_	_	_	_	_	_	_	O
+5	raditi	_	_	_	_	_	_	_	_	O
+6	svoj	_	_	_	_	_	_	_	_	O
+7	posao	_	_	_	_	_	_	_	_	O
+8	na	_	_	_	_	_	_	_	_	O
+9	dosadašnji	_	_	_	_	_	_	_	_	O
+10	način	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 14.3
+# text = Držati nas u hodniku, evidentirati sve naše propuste, predložiti kako da ispravimo greške ali će nam pustiti na slobodnu volju da li želimo da ostanemo u žabokrečini u kojoj se nalazimo 13 godina.
+1	Držati	_	_	_	_	_	_	_	_	O
+2	nas	_	_	_	_	_	_	_	_	O
+3	u	_	_	_	_	_	_	_	_	O
+4	hodniku	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	evidentirati	_	_	_	_	_	_	_	_	O
+7	sve	_	_	_	_	_	_	_	_	O
+8	naše	_	_	_	_	_	_	_	_	O
+9	propuste	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	predložiti	_	_	_	_	_	_	_	_	O
+12	kako	_	_	_	_	_	_	_	_	O
+13	da	_	_	_	_	_	_	_	_	O
+14	ispravimo	_	_	_	_	_	_	_	_	O
+15	greške	_	_	_	_	_	_	_	_	O
+16	ali	_	_	_	_	_	_	_	_	O
+17	će	_	_	_	_	_	_	_	_	O
+18	nam	_	_	_	_	_	_	_	_	O
+19	pustiti	_	_	_	_	_	_	_	_	O
+20	na	_	_	_	_	_	_	_	_	O
+21	slobodnu	_	_	_	_	_	_	_	_	O
+22	volju	_	_	_	_	_	_	_	_	O
+23	da	_	_	_	_	_	_	_	_	O
+24	li	_	_	_	_	_	_	_	_	O
+25	želimo	_	_	_	_	_	_	_	_	O
+26	da	_	_	_	_	_	_	_	_	O
+27	ostanemo	_	_	_	_	_	_	_	_	O
+28	u	_	_	_	_	_	_	_	_	O
+29	žabokrečini	_	_	_	_	_	_	_	_	O
+30	u	_	_	_	_	_	_	_	_	O
+31	kojoj	_	_	_	_	_	_	_	_	O
+32	se	_	_	_	_	_	_	_	_	O
+33	nalazimo	_	_	_	_	_	_	_	_	O
+34	13	_	_	_	_	_	_	_	_	O
+35	godina	_	_	_	_	_	_	_	SpaceAfter=No	O
+36	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 15
+# sent_id = 15.1
+# text = Reagovaće samo ako i kada to počne da se izliva i ugrožava druge.
+1	Reagovaće	_	_	_	_	_	_	_	_	O
+2	samo	_	_	_	_	_	_	_	_	O
+3	ako	_	_	_	_	_	_	_	_	O
+4	i	_	_	_	_	_	_	_	_	O
+5	kada	_	_	_	_	_	_	_	_	O
+6	to	_	_	_	_	_	_	_	_	O
+7	počne	_	_	_	_	_	_	_	_	O
+8	da	_	_	_	_	_	_	_	_	O
+9	se	_	_	_	_	_	_	_	_	O
+10	izliva	_	_	_	_	_	_	_	_	O
+11	i	_	_	_	_	_	_	_	_	O
+12	ugrožava	_	_	_	_	_	_	_	_	O
+13	druge	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	.	.	PUNCT	Z	_	_	_	_	_	O
+

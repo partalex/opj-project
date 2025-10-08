@@ -6,7 +6,7 @@
 # text = KOMBINA ZA NIS:
 1	KOMBINA	_	_	_	_	_	_	_	_	O
 2	ZA	_	_	_	_	_	_	_	_	O
-3	NIS	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	NIS	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
 4	:	:	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 2
@@ -14,14 +14,14 @@
 # text = umesto da Srbija otkupi 11% udela Gasproma u NIS-u, i poveća svoj udeo na 40%, taj udeo je preko beogradske berze besplatno otišao u ruke gaspromovog fonda Intelidžens u Lenjingrad.
 1	umesto	_	_	_	_	_	_	_	_	O
 2	da	_	_	_	_	_	_	_	_	O
-3	Srbija	_	_	_	_	_	_	_	_	O
+3	Srbija	_	_	_	_	_	_	_	_	B-LOC
 4	otkupi	_	_	_	_	_	_	_	_	O
 5	11	_	_	_	_	_	_	_	SpaceAfter=No	O
 6	%	%	SYM	Z	_	_	_	_	_	O
 7	udela	_	_	_	_	_	_	_	_	O
-8	Gasproma	_	_	_	_	_	_	_	_	O
+8	Gasproma	_	_	_	_	_	_	_	_	B-ORG
 9	u	_	_	_	_	_	_	_	_	O
-10	NIS-u	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	NIS-u	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
 11	,	,	PUNCT	Z	_	_	_	_	_	O
 12	i	_	_	_	_	_	_	_	_	O
 13	poveća	_	_	_	_	_	_	_	_	O
@@ -35,17 +35,17 @@
 21	udeo	_	_	_	_	_	_	_	_	O
 22	je	_	_	_	_	_	_	_	_	O
 23	preko	_	_	_	_	_	_	_	_	O
-24	beogradske	_	_	_	_	_	_	_	_	O
-25	berze	_	_	_	_	_	_	_	_	O
+24	beogradske	_	_	_	_	_	_	_	_	B-ORG
+25	berze	_	_	_	_	_	_	_	_	I-ORG
 26	besplatno	_	_	_	_	_	_	_	_	O
 27	otišao	_	_	_	_	_	_	_	_	O
 28	u	_	_	_	_	_	_	_	_	O
 29	ruke	_	_	_	_	_	_	_	_	O
 30	gaspromovog	_	_	_	_	_	_	_	_	O
 31	fonda	_	_	_	_	_	_	_	_	O
-32	Intelidžens	_	_	_	_	_	_	_	_	O
+32	Intelidžens	_	_	_	_	_	_	_	_	B-ORG
 33	u	_	_	_	_	_	_	_	_	O
-34	Lenjingrad	_	_	_	_	_	_	_	SpaceAfter=No	O
+34	Lenjingrad	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 35	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 3
@@ -61,7 +61,7 @@
 8	da	_	_	_	_	_	_	_	_	O
 9	čuju	_	_	_	_	_	_	_	_	O
 10	da	_	_	_	_	_	_	_	_	O
-11	Srbija	_	_	_	_	_	_	_	_	O
+11	Srbija	_	_	_	_	_	_	_	_	B-LOC
 12	otkupi	_	_	_	_	_	_	_	_	O
 13	nazad	_	_	_	_	_	_	_	_	O
 14	deo	_	_	_	_	_	_	_	_	O
@@ -128,7 +128,7 @@
 6	piše	_	_	_	_	_	_	_	_	O
 7	hr	_	_	_	_	_	_	_	_	O
 8	novinar	_	_	_	_	_	_	_	_	O
-9	Margetić	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	Margetić	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 10	,	,	PUNCT	Z	_	_	_	_	_	O
 11	da	_	_	_	_	_	_	_	_	O
 12	će	_	_	_	_	_	_	_	_	O
@@ -136,13 +136,13 @@
 14	biti	_	_	_	_	_	_	_	_	O
 15	hrvatski	_	_	_	_	_	_	_	_	O
 16	tajkun	_	_	_	_	_	_	_	_	O
-17	Ivan	_	_	_	_	_	_	_	_	O
-18	Čermak	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	Ivan	_	_	_	_	_	_	_	_	B-PER
+18	Čermak	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 19	,	,	PUNCT	Z	_	_	_	_	_	O
 20	koji	_	_	_	_	_	_	_	_	O
 21	je	_	_	_	_	_	_	_	_	O
 22	PAZI	_	_	_	_	_	_	_	_	O
-23	SAD	_	_	_	_	_	_	_	_	O
+23	SAD	_	_	_	_	_	_	_	_	B-LOC
 24	KO	_	_	_	_	_	_	_	_	O
 25	NE	_	_	_	_	_	_	_	_	O
 26	ZNA	_	_	_	_	_	_	_	SpaceAfter=No	O
@@ -158,20 +158,20 @@
 36	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 37	čistio	_	_	_	_	_	_	_	SpaceAfter=No	O
 38	"	"	PUNCT	Z	_	_	_	_	_	O
-39	Knin	_	_	_	_	_	_	_	_	O
+39	Knin	_	_	_	_	_	_	_	_	B-LOC
 40	za	_	_	_	_	_	_	_	_	O
 41	šta	_	_	_	_	_	_	_	_	O
 42	je	_	_	_	_	_	_	_	_	O
 43	bio	_	_	_	_	_	_	_	_	O
 44	optužen	_	_	_	_	_	_	_	_	O
 45	u	_	_	_	_	_	_	_	_	O
-46	Hagu	_	_	_	_	_	_	_	SpaceAfter=No	O
+46	Hagu	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 47	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 6
 # sent_id = 6.1
 # text = Čermak već masno zaraðuje na ovim polusankcijama jer transport nafte do NIS-a ide preko JANAF-a tj preko Hr i njegove kompanije Delta-oil gde se nafta skladišti.
-1	Čermak	_	_	_	_	_	_	_	_	O
+1	Čermak	_	_	_	_	_	_	_	_	B-PER
 2	već	_	_	_	_	_	_	_	_	O
 3	masno	_	_	_	_	_	_	_	_	O
 4	zaraðuje	_	_	_	_	_	_	_	_	O
@@ -182,17 +182,17 @@
 9	transport	_	_	_	_	_	_	_	_	O
 10	nafte	_	_	_	_	_	_	_	_	O
 11	do	_	_	_	_	_	_	_	_	O
-12	NIS-a	_	_	_	_	_	_	_	_	O
+12	NIS-a	_	_	_	_	_	_	_	_	B-ORG
 13	ide	_	_	_	_	_	_	_	_	O
 14	preko	_	_	_	_	_	_	_	_	O
-15	JANAF-a	_	_	_	_	_	_	_	_	O
+15	JANAF-a	_	_	_	_	_	_	_	_	B-ORG
 16	tj	_	_	_	_	_	_	_	_	O
 17	preko	_	_	_	_	_	_	_	_	O
 18	Hr	_	_	_	_	_	_	_	_	O
 19	i	_	_	_	_	_	_	_	_	O
 20	njegove	_	_	_	_	_	_	_	_	O
 21	kompanije	_	_	_	_	_	_	_	_	O
-22	Delta-oil	_	_	_	_	_	_	_	_	O
+22	Delta-oil	_	_	_	_	_	_	_	_	B-ORG
 23	gde	_	_	_	_	_	_	_	_	O
 24	se	_	_	_	_	_	_	_	_	O
 25	nafta	_	_	_	_	_	_	_	_	O
@@ -218,7 +218,7 @@
 14	tajkun	_	_	_	_	_	_	_	_	O
 15	da	_	_	_	_	_	_	_	_	O
 16	preuzme	_	_	_	_	_	_	_	_	O
-17	NIS	_	_	_	_	_	_	_	_	O
+17	NIS	_	_	_	_	_	_	_	_	B-ORG
 18	umesto	_	_	_	_	_	_	_	_	O
 19	njih	_	_	_	_	_	_	_	SpaceAfter=No	O
 20	,	,	PUNCT	Z	_	_	_	_	_	O
@@ -299,7 +299,7 @@
 16	u	_	_	_	_	_	_	_	_	O
 17	ovom	_	_	_	_	_	_	_	_	O
 18	delu	_	_	_	_	_	_	_	_	O
-19	Evrope	_	_	_	_	_	_	_	SpaceAfter=No	O
+19	Evrope	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 20	,	,	PUNCT	Z	_	_	_	_	_	O
 21	a	_	_	_	_	_	_	_	_	O
 22	i	_	_	_	_	_	_	_	_	O
@@ -314,7 +314,7 @@
 31	i	_	_	_	_	_	_	_	_	O
 32	gnušamo	_	_	_	_	_	_	_	_	O
 33	se	_	_	_	_	_	_	_	_	O
-34	EU	_	_	_	_	_	_	_	_	O
+34	EU	_	_	_	_	_	_	_	_	B-ORG
 35	pravila	_	_	_	_	_	_	_	SpaceAfter=No	O
 36	,	,	PUNCT	Z	_	_	_	_	_	O
 37	jer	_	_	_	_	_	_	_	_	O
@@ -334,7 +334,7 @@
 1	za	_	_	_	_	_	_	_	_	O
 2	to	_	_	_	_	_	_	_	_	O
 3	vreme	_	_	_	_	_	_	_	_	O
-4	NIS	_	_	_	_	_	_	_	_	O
+4	NIS	_	_	_	_	_	_	_	_	B-ORG
 5	u	_	_	_	_	_	_	_	_	O
 6	prvih	_	_	_	_	_	_	_	_	O
 7	6	_	_	_	_	_	_	_	_	O

@@ -5,7 +5,7 @@
 # sent_id = 1.1
 # text = Predsednik Vučić jeste bio pozvan na večernji prijem kod predsednika Trampa za šefove država i vlada, zvanično, i to još 2. septembra.
 1	Predsednik	_	_	_	_	_	_	_	_	O
-2	Vučić	_	_	_	_	_	_	_	_	O
+2	Vučić	_	_	_	_	_	_	_	_	B-PER
 3	jeste	_	_	_	_	_	_	_	_	O
 4	bio	_	_	_	_	_	_	_	_	O
 5	pozvan	_	_	_	_	_	_	_	_	O
@@ -14,7 +14,7 @@
 8	prijem	_	_	_	_	_	_	_	_	O
 9	kod	_	_	_	_	_	_	_	_	O
 10	predsednika	_	_	_	_	_	_	_	_	O
-11	Trampa	_	_	_	_	_	_	_	_	O
+11	Trampa	_	_	_	_	_	_	_	_	B-PER
 12	za	_	_	_	_	_	_	_	_	O
 13	šefove	_	_	_	_	_	_	_	_	O
 14	država	_	_	_	_	_	_	_	_	O
@@ -63,7 +63,7 @@
 1	je	_	_	_	_	_	_	_	_	O
 2	uz	_	_	_	_	_	_	_	_	O
 3	ministra	_	_	_	_	_	_	_	_	O
-4	Lavrova	_	_	_	_	_	_	_	_	O
+4	Lavrova	_	_	_	_	_	_	_	_	B-PER
 5	jedini	_	_	_	_	_	_	_	_	O
 6	evropski	_	_	_	_	_	_	_	_	O
 7	lider	_	_	_	_	_	_	_	_	O
@@ -76,9 +76,9 @@
 14	sa	_	_	_	_	_	_	_	_	O
 15	državnim	_	_	_	_	_	_	_	_	O
 16	sekretarom	_	_	_	_	_	_	_	_	O
-17	SAD	_	_	_	_	_	_	_	_	O
-18	Markom	_	_	_	_	_	_	_	_	O
-19	Rubiom	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	SAD	_	_	_	_	_	_	_	_	B-LOC
+18	Markom	_	_	_	_	_	_	_	_	B-PER
+19	Rubiom	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 20	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 3.2
@@ -174,8 +174,8 @@
 17	u	_	_	_	_	_	_	_	_	O
 18	javnost	_	_	_	_	_	_	_	_	O
 19	plasira	_	_	_	_	_	_	_	_	O
-20	Borko	_	_	_	_	_	_	_	_	O
-21	Stefanović	_	_	_	_	_	_	_	SpaceAfter=No	O
+20	Borko	_	_	_	_	_	_	_	_	B-PER
+21	Stefanović	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 22	,	,	PUNCT	Z	_	_	_	_	_	O
 23	zato	_	_	_	_	_	_	_	_	O
 24	što	_	_	_	_	_	_	_	_	O
@@ -214,20 +214,20 @@
 9	da	_	_	_	_	_	_	_	_	O
 10	vidi	_	_	_	_	_	_	_	_	O
 11	i	_	_	_	_	_	_	_	_	O
-12	Rubija	_	_	_	_	_	_	_	_	O
+12	Rubija	_	_	_	_	_	_	_	_	B-PER
 13	i	_	_	_	_	_	_	_	_	O
-14	Trampa	_	_	_	_	_	_	_	_	O
+14	Trampa	_	_	_	_	_	_	_	_	B-PER
 15	i	_	_	_	_	_	_	_	_	O
-16	Lavrova	_	_	_	_	_	_	_	_	O
+16	Lavrova	_	_	_	_	_	_	_	_	B-PER
 17	i	_	_	_	_	_	_	_	_	O
-18	Putina	_	_	_	_	_	_	_	_	O
+18	Putina	_	_	_	_	_	_	_	_	B-PER
 19	su	_	_	_	_	_	_	_	_	O
 20	tuđe	_	_	_	_	_	_	_	_	O
 21	fotografije	_	_	_	_	_	_	_	_	O
 22	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 23	najčešće	_	_	_	_	_	_	_	_	O
 24	predsednika	_	_	_	_	_	_	_	_	O
-25	Vučića	_	_	_	_	_	_	_	_	O
+25	Vučića	_	_	_	_	_	_	_	_	B-PER
 26	sa	_	_	_	_	_	_	_	_	O
 27	sastanaka	_	_	_	_	_	_	_	_	O
 28	sa	_	_	_	_	_	_	_	_	O

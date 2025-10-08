@@ -1,0 +1,147 @@
+#name = ognjen
+#domen = film_pozoriste
+#url = https://www.narodnopozoriste.rs/lat/predstave/magbet?m=x00c69811999697efe52924e4ba00f765
+# newpar id = 1
+# sent_id = 1.1
+# text = Jagoš Mar­ko­vić (Pod­go­ri­ca, 1966) je jedan od naj­i­stak­nu­ti­jih pozo­ri­šnih redi­te­lja naše zemlje, kao i čita­vog regi­o­na.
+1	Jagoš	_	_	_	_	_	_	_	_	B-PER
+2	Mar­ko­vić	_	_	_	_	_	_	_	_	I-PER
+3	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+4	Pod­go­ri­ca	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	1966	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	)	)	PUNCT	Z	_	_	_	_	_	O
+8	je	_	_	_	_	_	_	_	_	O
+9	jedan	_	_	_	_	_	_	_	_	O
+10	od	_	_	_	_	_	_	_	_	O
+11	naj­i­stak­nu­ti­jih	_	_	_	_	_	_	_	_	O
+12	pozo­ri­šnih	_	_	_	_	_	_	_	_	O
+13	redi­te­lja	_	_	_	_	_	_	_	_	O
+14	naše	_	_	_	_	_	_	_	_	O
+15	zemlje	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	,	,	PUNCT	Z	_	_	_	_	_	O
+17	kao	_	_	_	_	_	_	_	_	O
+18	i	_	_	_	_	_	_	_	_	O
+19	čita­vog	_	_	_	_	_	_	_	_	O
+20	regi­o­na	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.2
+# text = Diplo­mi­rao je na Fakul­te­tu dram­skih umet­no­sti u Beo­gra­du (1987), u kla­si prof. Bor­ja­ne Pro­da­no­vić i Sve­to­za­ra Rapa­ji­ća.
+1	Diplo­mi­rao	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	na	_	_	_	_	_	_	_	_	O
+4	Fakul­te­tu	_	_	_	_	_	_	_	_	B-ORG
+5	dram­skih	_	_	_	_	_	_	_	_	I-ORG
+6	umet­no­sti	_	_	_	_	_	_	_	_	I-ORG
+7	u	_	_	_	_	_	_	_	_	O
+8	Beo­gra­du	_	_	_	_	_	_	_	_	B-LOC
+9	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+10	1987	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	)	)	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	u	_	_	_	_	_	_	_	_	O
+14	kla­si	_	_	_	_	_	_	_	_	O
+15	prof.	_	_	_	_	_	_	_	_	O
+16	Bor­ja­ne	_	_	_	_	_	_	_	_	B-PER
+17	Pro­da­no­vić	_	_	_	_	_	_	_	_	I-PER
+18	i	_	_	_	_	_	_	_	_	O
+19	Sve­to­za­ra	_	_	_	_	_	_	_	_	B-PER
+20	Rapa­ji­ća	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+21	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.3
+# text = U Narod­nom pozo­ri­štu u Beo­gra­du, čiji je stal­ni redi­telj od 2008 godi­ne, reži­ra naj­zna­čaj­ni­je naslo­ve
+1	U	_	_	_	_	_	_	_	_	O
+2	Narod­nom	_	_	_	_	_	_	_	_	B-ORG
+3	pozo­ri­štu	_	_	_	_	_	_	_	_	I-ORG
+4	u	_	_	_	_	_	_	_	_	O
+5	Beo­gra­du	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	čiji	_	_	_	_	_	_	_	_	O
+8	je	_	_	_	_	_	_	_	_	O
+9	stal­ni	_	_	_	_	_	_	_	_	O
+10	redi­telj	_	_	_	_	_	_	_	_	O
+11	od	_	_	_	_	_	_	_	_	O
+12	2008	_	_	_	_	_	_	_	_	O
+13	godi­ne	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	,	,	PUNCT	Z	_	_	_	_	_	O
+15	reži­ra	_	_	_	_	_	_	_	_	O
+16	naj­zna­čaj­ni­je	_	_	_	_	_	_	_	_	O
+17	naslo­ve	_	_	_	_	_	_	_	_	O
+
+#name = ognjen
+#domen = film_pozoriste
+#url = https://www.univerzitetskiodjek.com/kultura/film-i-tv/covek-ptica-birdman-2014
+# newpar id = 1
+# sent_id = 1.1
+# text = „Čovek ptica“ je, najblaže rečeno, neobično ostvarenje meksičkog režisera Injaritua, poznatog po ostvarenju „Pasji život“ (Amores Perros, 2000.) koje je kritika proglasila (matematički pogrešno, doduše) za prvo filmsko remek-delo 21. veka.
+1	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+2	Čovek	_	_	_	_	_	_	_	_	O
+3	ptica	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	“	“	PUNCT	Z	_	_	_	_	_	O
+5	je	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	najblaže	_	_	_	_	_	_	_	_	O
+8	rečeno	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	neobično	_	_	_	_	_	_	_	_	O
+11	ostvarenje	_	_	_	_	_	_	_	_	O
+12	meksičkog	_	_	_	_	_	_	_	_	O
+13	režisera	_	_	_	_	_	_	_	_	O
+14	Injaritua	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
+15	,	,	PUNCT	Z	_	_	_	_	_	O
+16	poznatog	_	_	_	_	_	_	_	_	O
+17	po	_	_	_	_	_	_	_	_	O
+18	ostvarenju	_	_	_	_	_	_	_	_	O
+19	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+20	Pasji	_	_	_	_	_	_	_	_	O
+21	život	_	_	_	_	_	_	_	SpaceAfter=No	O
+22	“	“	PUNCT	Z	_	_	_	_	_	O
+23	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+24	Amores	_	_	_	_	_	_	_	_	O
+25	Perros	_	_	_	_	_	_	_	SpaceAfter=No	O
+26	,	,	PUNCT	Z	_	_	_	_	_	O
+27	2000.	_	_	_	_	_	_	_	SpaceAfter=No	O
+28	)	)	PUNCT	Z	_	_	_	_	_	O
+29	koje	_	_	_	_	_	_	_	_	O
+30	je	_	_	_	_	_	_	_	_	O
+31	kritika	_	_	_	_	_	_	_	_	O
+32	proglasila	_	_	_	_	_	_	_	_	O
+33	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+34	matematički	_	_	_	_	_	_	_	_	O
+35	pogrešno	_	_	_	_	_	_	_	SpaceAfter=No	O
+36	,	,	PUNCT	Z	_	_	_	_	_	O
+37	doduše	_	_	_	_	_	_	_	SpaceAfter=No	O
+38	)	)	PUNCT	Z	_	_	_	_	_	O
+39	za	_	_	_	_	_	_	_	_	O
+40	prvo	_	_	_	_	_	_	_	_	O
+41	filmsko	_	_	_	_	_	_	_	_	O
+42	remek-delo	_	_	_	_	_	_	_	_	O
+43	21.	_	_	_	_	_	_	_	_	O
+44	veka	_	_	_	_	_	_	_	SpaceAfter=No	O
+45	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 2
+# sent_id = 2.1
+# text = Film koji se opire konkretnoj žanrovskoj podeli o posrnulom glumcu sa krizom srednjih godina koji pokušava da vrati svoj ugled
+1	Film	_	_	_	_	_	_	_	_	O
+2	koji	_	_	_	_	_	_	_	_	O
+3	se	_	_	_	_	_	_	_	_	O
+4	opire	_	_	_	_	_	_	_	_	O
+5	konkretnoj	_	_	_	_	_	_	_	_	O
+6	žanrovskoj	_	_	_	_	_	_	_	_	O
+7	podeli	_	_	_	_	_	_	_	_	O
+8	o	_	_	_	_	_	_	_	_	O
+9	posrnulom	_	_	_	_	_	_	_	_	O
+10	glumcu	_	_	_	_	_	_	_	_	O
+11	sa	_	_	_	_	_	_	_	_	O
+12	krizom	_	_	_	_	_	_	_	_	O
+13	srednjih	_	_	_	_	_	_	_	_	O
+14	godina	_	_	_	_	_	_	_	_	O
+15	koji	_	_	_	_	_	_	_	_	O
+16	pokušava	_	_	_	_	_	_	_	_	O
+17	da	_	_	_	_	_	_	_	_	O
+18	vrati	_	_	_	_	_	_	_	_	O
+19	svoj	_	_	_	_	_	_	_	_	O
+20	ugled	_	_	_	_	_	_	_	_	O

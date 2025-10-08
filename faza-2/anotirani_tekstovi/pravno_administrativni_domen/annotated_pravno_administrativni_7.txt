@@ -1120,8 +1120,8 @@
 3	vidu	_	_	_	_	_	_	_	_	O
 4	navedeno	_	_	_	_	_	_	_	SpaceAfter=No	O
 5	,	,	PUNCT	Z	_	_	_	_	_	O
-6	Vrhovni	_	_	_	_	_	_	_	_	O
-7	sud	_	_	_	_	_	_	_	_	O
+6	Vrhovni	_	_	_	_	_	_	_	_	B-ORG
+7	sud	_	_	_	_	_	_	_	_	I-ORG
 8	nalazi	_	_	_	_	_	_	_	_	O
 9	da	_	_	_	_	_	_	_	_	O
 10	je	_	_	_	_	_	_	_	_	O
@@ -1190,8 +1190,8 @@
 3	,	,	PUNCT	Z	_	_	_	_	_	O
 4	po	_	_	_	_	_	_	_	_	O
 5	nalaženju	_	_	_	_	_	_	_	_	O
-6	Vrhovnog	_	_	_	_	_	_	_	_	O
-7	suda	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	Vrhovnog	_	_	_	_	_	_	_	_	B-ORG
+7	suda	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 8	,	,	PUNCT	Z	_	_	_	_	_	O
 9	nema	_	_	_	_	_	_	_	_	O
 10	bitne	_	_	_	_	_	_	_	_	O
@@ -1321,10 +1321,10 @@
 20	određen	_	_	_	_	_	_	_	_	O
 21	staratelj	_	_	_	_	_	_	_	_	O
 22	rešenjem	_	_	_	_	_	_	_	_	O
-23	Centra	_	_	_	_	_	_	_	_	O
-24	za	_	_	_	_	_	_	_	_	O
-25	socijalni	_	_	_	_	_	_	_	_	O
-26	rad	_	_	_	_	_	_	_	SpaceAfter=No	O
+23	Centra	_	_	_	_	_	_	_	_	B-ORG
+24	za	_	_	_	_	_	_	_	_	I-ORG
+25	socijalni	_	_	_	_	_	_	_	_	I-ORG
+26	rad	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 27	,	,	PUNCT	Z	_	_	_	_	_	O
 28	da	_	_	_	_	_	_	_	_	O
 29	je	_	_	_	_	_	_	_	_	O
@@ -1359,8 +1359,8 @@
 4	za	_	_	_	_	_	_	_	_	O
 5	zaštitu	_	_	_	_	_	_	_	_	O
 6	zakonitosti	_	_	_	_	_	_	_	_	O
-7	Vrhovni	_	_	_	_	_	_	_	_	O
-8	sud	_	_	_	_	_	_	_	_	O
+7	Vrhovni	_	_	_	_	_	_	_	_	B-ORG
+8	sud	_	_	_	_	_	_	_	_	I-ORG
 9	ocenjuje	_	_	_	_	_	_	_	_	O
 10	kao	_	_	_	_	_	_	_	_	O
 11	neosnovane	_	_	_	_	_	_	_	_	O
@@ -1513,7 +1513,7 @@
 44	opšte	_	_	_	_	_	_	_	_	O
 45	bolnice	_	_	_	_	_	_	_	_	O
 46	u	_	_	_	_	_	_	_	_	O
-47	Loznici	_	_	_	_	_	_	_	SpaceAfter=No	O
+47	Loznici	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 48	,	,	PUNCT	Z	_	_	_	_	_	O
 49	a	_	_	_	_	_	_	_	_	O
 50	koji	_	_	_	_	_	_	_	_	O
@@ -1692,15 +1692,15 @@
 22	to	_	_	_	_	_	_	_	_	O
 23	ispitivanje	_	_	_	_	_	_	_	_	O
 24	radnika	_	_	_	_	_	_	_	_	O
-25	Centra	_	_	_	_	_	_	_	_	O
-26	za	_	_	_	_	_	_	_	_	O
-27	socijalni	_	_	_	_	_	_	_	_	O
-28	rad	_	_	_	_	_	_	_	_	O
+25	Centra	_	_	_	_	_	_	_	_	B-ORG
+26	za	_	_	_	_	_	_	_	_	I-ORG
+27	socijalni	_	_	_	_	_	_	_	_	I-ORG
+28	rad	_	_	_	_	_	_	_	_	I-ORG
 29	GG	_	_	_	_	_	_	_	SpaceAfter=No	O
 30	,	,	PUNCT	Z	_	_	_	_	_	O
 31	advokata	_	_	_	_	_	_	_	_	O
-32	Stanoja	_	_	_	_	_	_	_	_	O
-33	Filipovića	_	_	_	_	_	_	_	SpaceAfter=No	O
+32	Stanoja	_	_	_	_	_	_	_	_	B-PER
+33	Filipovića	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 34	,	,	PUNCT	Z	_	_	_	_	_	O
 35	svedoka	_	_	_	_	_	_	_	_	O
 36	DD	_	_	_	_	_	_	_	SpaceAfter=No	O
@@ -1961,8 +1961,8 @@
 5	razmatranja	_	_	_	_	_	_	_	_	O
 6	od	_	_	_	_	_	_	_	_	O
 7	strane	_	_	_	_	_	_	_	_	O
-8	Vrhovnog	_	_	_	_	_	_	_	_	O
-9	suda	_	_	_	_	_	_	_	_	O
+8	Vrhovnog	_	_	_	_	_	_	_	_	B-ORG
+9	suda	_	_	_	_	_	_	_	_	I-ORG
 10	u	_	_	_	_	_	_	_	_	O
 11	postupku	_	_	_	_	_	_	_	_	O
 12	po	_	_	_	_	_	_	_	_	O
@@ -2000,8 +2000,8 @@
 44	zbog	_	_	_	_	_	_	_	_	O
 45	čega	_	_	_	_	_	_	_	_	O
 46	je	_	_	_	_	_	_	_	_	O
-47	Vrhovni	_	_	_	_	_	_	_	_	O
-48	sud	_	_	_	_	_	_	_	SpaceAfter=No	O
+47	Vrhovni	_	_	_	_	_	_	_	_	B-ORG
+48	sud	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 49	,	,	PUNCT	Z	_	_	_	_	_	O
 50	zahtev	_	_	_	_	_	_	_	_	O
 51	za	_	_	_	_	_	_	_	_	O
@@ -2037,8 +2037,8 @@
 13	stav	_	_	_	_	_	_	_	_	O
 14	4.	_	_	_	_	_	_	_	_	O
 15	Ustava	_	_	_	_	_	_	_	_	O
-16	Republike	_	_	_	_	_	_	_	_	O
-17	Srbije	_	_	_	_	_	_	_	_	O
+16	Republike	_	_	_	_	_	_	_	_	B-LOC
+17	Srbije	_	_	_	_	_	_	_	_	I
 18	i	_	_	_	_	_	_	_	_	O
 19	članova	_	_	_	_	_	_	_	_	O
 20	6.	_	_	_	_	_	_	_	_	O
@@ -2083,14 +2083,14 @@
 # sent_id = 26.2
 # text = Ustava RS i 21.
 1	Ustava	_	_	_	_	_	_	_	_	O
-2	RS	_	_	_	_	_	_	_	_	O
+2	RS	_	_	_	_	_	_	_	_	B-LOC
 3	i	_	_	_	_	_	_	_	_	O
 4	21.	_	_	_	_	_	_	_	_	O
 
 # sent_id = 26.3
 # text = Ustava RS.
 1	Ustava	_	_	_	_	_	_	_	_	O
-2	RS	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	RS	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 3	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 26.4
@@ -2134,11 +2134,11 @@
 6	dostaviti	_	_	_	_	_	_	_	_	O
 7	i	_	_	_	_	_	_	_	_	O
 8	odluka	_	_	_	_	_	_	_	_	O
-9	Ustavnog	_	_	_	_	_	_	_	_	O
-10	suda	_	_	_	_	_	_	_	_	O
+9	Ustavnog	_	_	_	_	_	_	_	_	B-ORG
+10	suda	_	_	_	_	_	_	_	_	I-ORG
 11	ili	_	_	_	_	_	_	_	_	O
-12	Evropskog	_	_	_	_	_	_	_	_	O
-13	suda	_	_	_	_	_	_	_	_	O
+12	Evropskog	_	_	_	_	_	_	_	_	B-ORG
+13	suda	_	_	_	_	_	_	_	_	I-ORG
 14	za	_	_	_	_	_	_	_	_	O
 15	ljudska	_	_	_	_	_	_	_	_	O
 16	prava	_	_	_	_	_	_	_	_	O
@@ -2196,11 +2196,11 @@
 15	nije	_	_	_	_	_	_	_	_	O
 16	dostavio	_	_	_	_	_	_	_	_	O
 17	odluku	_	_	_	_	_	_	_	_	O
-18	Ustavnog	_	_	_	_	_	_	_	_	O
-19	suda	_	_	_	_	_	_	_	_	O
+18	Ustavnog	_	_	_	_	_	_	_	_	B-ORG
+19	suda	_	_	_	_	_	_	_	_	I-ORG
 20	ili	_	_	_	_	_	_	_	_	O
-21	Evropskog	_	_	_	_	_	_	_	_	O
-22	suda	_	_	_	_	_	_	_	_	O
+21	Evropskog	_	_	_	_	_	_	_	_	B-ORG
+22	suda	_	_	_	_	_	_	_	_	I-ORG
 23	za	_	_	_	_	_	_	_	_	O
 24	ljudska	_	_	_	_	_	_	_	_	O
 25	prava	_	_	_	_	_	_	_	SpaceAfter=No	O
@@ -2229,8 +2229,8 @@
 1	Iz	_	_	_	_	_	_	_	_	O
 2	iznetih	_	_	_	_	_	_	_	_	O
 3	razloga	_	_	_	_	_	_	_	_	O
-4	Vrhovni	_	_	_	_	_	_	_	_	O
-5	sud	_	_	_	_	_	_	_	_	O
+4	Vrhovni	_	_	_	_	_	_	_	_	B-ORG
+5	sud	_	_	_	_	_	_	_	_	I-ORG
 6	je	_	_	_	_	_	_	_	_	O
 7	na	_	_	_	_	_	_	_	_	O
 8	osnovu	_	_	_	_	_	_	_	_	O

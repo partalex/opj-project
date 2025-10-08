@@ -12,7 +12,7 @@
 # sent_id = 2.1
 # text = Dejan Milovanović (1984 – 2025)
 1	Dejan	_	_	_	_	_	_	_	_	B-PER
-2	Milovanović	_	_	_	_	_	_	_	_	I
+2	Milovanović	_	_	_	_	_	_	_	_	I-PER
 3	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 4	1984	_	_	_	_	_	_	_	_	O
 5	–	–	PUNCT	Z	_	_	_	_	_	O
@@ -42,12 +42,12 @@
 8	preminuo	_	_	_	_	_	_	_	_	O
 9	je	_	_	_	_	_	_	_	_	O
 10	Dejan	_	_	_	_	_	_	_	_	B-PER
-11	Milovanović	_	_	_	_	_	_	_	SpaceAfter=No	I
+11	Milovanović	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 12	,	,	PUNCT	Z	_	_	_	_	_	O
 13	nekadašnji	_	_	_	_	_	_	_	_	O
 14	fudbaler	_	_	_	_	_	_	_	_	O
 15	Crvene	_	_	_	_	_	_	_	_	B-ORG
-16	zvezde	_	_	_	_	_	_	_	_	I
+16	zvezde	_	_	_	_	_	_	_	_	I-ORG
 17	i	_	_	_	_	_	_	_	_	O
 18	reprezentativac	_	_	_	_	_	_	_	_	O
 19	naše	_	_	_	_	_	_	_	_	O
@@ -123,7 +123,7 @@
 10	predvodio	_	_	_	_	_	_	_	_	O
 11	selektor	_	_	_	_	_	_	_	_	O
 12	Vladimir	_	_	_	_	_	_	_	_	B-PER
-13	Petrović	_	_	_	_	_	_	_	SpaceAfter=No	I
+13	Petrović	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 14	,	,	PUNCT	Z	_	_	_	_	_	O
 15	postigao	_	_	_	_	_	_	_	_	O
 16	je	_	_	_	_	_	_	_	_	O
@@ -152,7 +152,7 @@
 9	vođstvom	_	_	_	_	_	_	_	_	O
 10	selektora	_	_	_	_	_	_	_	_	O
 11	Miroslava	_	_	_	_	_	_	_	_	B-PER
-12	Đukića	_	_	_	_	_	_	_	SpaceAfter=No	I
+12	Đukića	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 13	,	,	PUNCT	Z	_	_	_	_	_	O
 14	ponovo	_	_	_	_	_	_	_	_	O
 15	je	_	_	_	_	_	_	_	_	O
@@ -204,7 +204,7 @@
 14	komandom	_	_	_	_	_	_	_	_	O
 15	selektora	_	_	_	_	_	_	_	_	O
 16	Miroslava	_	_	_	_	_	_	_	_	B-PER
-17	Đukića	_	_	_	_	_	_	_	SpaceAfter=No	I
+17	Đukića	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 18	,	,	PUNCT	Z	_	_	_	_	_	O
 19	protiv	_	_	_	_	_	_	_	_	O
 20	Rusije	_	_	_	_	_	_	_	_	B-LOC
@@ -219,7 +219,7 @@
 2	takođe	_	_	_	_	_	_	_	_	O
 3	legendarnog	_	_	_	_	_	_	_	_	O
 4	Đorđa	_	_	_	_	_	_	_	_	B-PER
-5	Milovanovića	_	_	_	_	_	_	_	SpaceAfter=No	I
+5	Milovanovića	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 6	,	,	PUNCT	Z	_	_	_	_	_	O
 7	prve	_	_	_	_	_	_	_	_	O
 8	fudbalske	_	_	_	_	_	_	_	_	O
@@ -229,7 +229,7 @@
 12	u	_	_	_	_	_	_	_	_	O
 13	petlićima	_	_	_	_	_	_	_	_	O
 14	Crvene	_	_	_	_	_	_	_	_	B-ORG
-15	zvezde	_	_	_	_	_	_	_	SpaceAfter=No	I
+15	zvezde	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 16	,	,	PUNCT	Z	_	_	_	_	_	O
 17	gde	_	_	_	_	_	_	_	_	O
 18	je	_	_	_	_	_	_	_	_	O
@@ -254,19 +254,19 @@
 1	Zajedno	_	_	_	_	_	_	_	_	O
 2	sa	_	_	_	_	_	_	_	_	O
 3	Boškom	_	_	_	_	_	_	_	_	B-PER
-4	Jankovićem	_	_	_	_	_	_	_	SpaceAfter=No	I
+4	Jankovićem	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 5	,	,	PUNCT	Z	_	_	_	_	_	O
 6	Aleksandrom	_	_	_	_	_	_	_	_	B-PER
-7	Lukovićem	_	_	_	_	_	_	_	SpaceAfter=No	I
+7	Lukovićem	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 8	,	,	PUNCT	Z	_	_	_	_	_	O
 9	Draganom	_	_	_	_	_	_	_	_	B-PER
-10	Mrđom	_	_	_	_	_	_	_	SpaceAfter=No	I
+10	Mrđom	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 11	,	,	PUNCT	Z	_	_	_	_	_	O
 12	Dušanom	_	_	_	_	_	_	_	_	B-PER
 13	Bastom	_	_	_	_	_	_	_	_	I
 14	i	_	_	_	_	_	_	_	_	O
 15	Markom	_	_	_	_	_	_	_	_	B-PER
-16	Perovićem	_	_	_	_	_	_	_	SpaceAfter=No	I
+16	Perovićem	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 17	,	,	PUNCT	Z	_	_	_	_	_	O
 18	Deki	_	_	_	_	_	_	_	_	B-PER
 19	je	_	_	_	_	_	_	_	_	O
@@ -291,8 +291,8 @@
 # sent_id = 9.1
 # text = Fudbalski savez Srbije izražava najdublje saučešće porodici, prijateljima i saigračima Dejana Milovanovića.
 1	Fudbalski	_	_	_	_	_	_	_	_	B-ORG
-2	savez	_	_	_	_	_	_	_	_	I
-3	Srbije	_	_	_	_	_	_	_	_	I
+2	savez	_	_	_	_	_	_	_	_	I-ORG
+3	Srbije	_	_	_	_	_	_	_	_	I-ORG
 4	izražava	_	_	_	_	_	_	_	_	O
 5	najdublje	_	_	_	_	_	_	_	_	O
 6	saučešće	_	_	_	_	_	_	_	_	O
@@ -302,7 +302,7 @@
 10	i	_	_	_	_	_	_	_	_	O
 11	saigračima	_	_	_	_	_	_	_	_	O
 12	Dejana	_	_	_	_	_	_	_	_	B-PER
-13	Milovanovića	_	_	_	_	_	_	_	SpaceAfter=No	I
+13	Milovanovića	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 14	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 9.2

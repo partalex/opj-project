@@ -25,11 +25,11 @@
 8	u	_	_	_	_	_	_	_	_	O
 9	režiji	_	_	_	_	_	_	_	_	O
 10	Dragana	_	_	_	_	_	_	_	_	B-PER
-11	Bjelogrlića	_	_	_	_	_	_	_	_	I
+11	Bjelogrlića	_	_	_	_	_	_	_	_	I-PER
 12	i	_	_	_	_	_	_	_	_	O
 13	korežiji	_	_	_	_	_	_	_	_	O
 14	Zorana	_	_	_	_	_	_	_	_	B-PER
-15	Lisinca	_	_	_	_	_	_	_	SpaceAfter=No	I
+15	Lisinca	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 16	,	,	PUNCT	Z	_	_	_	_	_	O
 17	imao	_	_	_	_	_	_	_	_	O
 18	je	_	_	_	_	_	_	_	_	O
@@ -115,8 +115,8 @@
 36	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 37	pored	_	_	_	_	_	_	_	_	O
 38	Tomislava	_	_	_	_	_	_	_	_	B-PER
-39	Tome	_	_	_	_	_	_	_	_	I
-40	Zdravkovića	_	_	_	_	_	_	_	SpaceAfter=No	I
+39	Tome	_	_	_	_	_	_	_	_	I-PER
+40	Zdravkovića	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 41	,	,	PUNCT	Z	_	_	_	_	_	O
 42	tu	_	_	_	_	_	_	_	_	O
 43	su	_	_	_	_	_	_	_	_	O
@@ -379,7 +379,7 @@
 8	snažna	_	_	_	_	_	_	_	_	O
 9	pleća	_	_	_	_	_	_	_	_	O
 10	Milana	_	_	_	_	_	_	_	_	B-PER
-11	Marića	_	_	_	_	_	_	_	_	I
+11	Marića	_	_	_	_	_	_	_	_	I-PER
 12	koji	_	_	_	_	_	_	_	_	O
 13	tumači	_	_	_	_	_	_	_	_	O
 14	naslovnu	_	_	_	_	_	_	_	_	O
@@ -457,12 +457,12 @@
 2	je	_	_	_	_	_	_	_	_	O
 3	kao	_	_	_	_	_	_	_	_	O
 4	Sergej	_	_	_	_	_	_	_	_	B-PER
-5	Dovlatov	_	_	_	_	_	_	_	_	I
+5	Dovlatov	_	_	_	_	_	_	_	_	I-PER
 6	u	_	_	_	_	_	_	_	_	O
 7	filmu	_	_	_	_	_	_	_	_	O
 8	Alekseja	_	_	_	_	_	_	_	_	B-PER
-9	Germana	_	_	_	_	_	_	_	_	I
-10	mlađeg	_	_	_	_	_	_	_	_	I
+9	Germana	_	_	_	_	_	_	_	_	I-PER
+10	mlađeg	_	_	_	_	_	_	_	_	I-PER
 11	bio	_	_	_	_	_	_	_	_	O
 12	slika	_	_	_	_	_	_	_	_	O
 13	i	_	_	_	_	_	_	_	_	O
@@ -599,7 +599,7 @@
 7	u	_	_	_	_	_	_	_	_	O
 8	kojima	_	_	_	_	_	_	_	_	O
 9	Toma	_	_	_	_	_	_	_	_	B-PER
-10	Zdravković	_	_	_	_	_	_	_	_	I
+10	Zdravković	_	_	_	_	_	_	_	_	I-PER
 11	peva	_	_	_	_	_	_	_	SpaceAfter=No	O
 12	.	.	PUNCT	Z	_	_	_	_	_	O
 
@@ -609,7 +609,7 @@
 2	folk	_	_	_	_	_	_	_	_	O
 3	pevač	_	_	_	_	_	_	_	_	O
 4	Aco	_	_	_	_	_	_	_	_	B-PER
-5	Pejović	_	_	_	_	_	_	_	_	I
+5	Pejović	_	_	_	_	_	_	_	_	I-PER
 6	je	_	_	_	_	_	_	_	_	O
 7	filmskom	_	_	_	_	_	_	_	_	O
 8	Zdravkoviću	_	_	_	_	_	_	_	_	B-PER
@@ -637,7 +637,7 @@
 2	u	_	_	_	_	_	_	_	_	O
 3	kojim	_	_	_	_	_	_	_	_	O
 4	Toma	_	_	_	_	_	_	_	_	B-PER
-5	Zdravković	_	_	_	_	_	_	_	_	I
+5	Zdravković	_	_	_	_	_	_	_	_	I-PER
 6	neizmenično	_	_	_	_	_	_	_	_	O
 7	peva	_	_	_	_	_	_	_	_	O
 8	i	_	_	_	_	_	_	_	_	O
@@ -704,13 +704,13 @@
 4	originalna	_	_	_	_	_	_	_	_	O
 5	muzika	_	_	_	_	_	_	_	_	O
 6	Željka	_	_	_	_	_	_	_	_	B-PER
-7	Joksimovića	_	_	_	_	_	_	_	_	I
+7	Joksimovića	_	_	_	_	_	_	_	_	I-PER
 8	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 9	koji	_	_	_	_	_	_	_	_	O
 10	je	_	_	_	_	_	_	_	_	O
 11	uz	_	_	_	_	_	_	_	_	O
 12	Dragana	_	_	_	_	_	_	_	_	B-PER
-13	Bjelogrlića	_	_	_	_	_	_	_	_	I
+13	Bjelogrlića	_	_	_	_	_	_	_	_	I-PER
 14	jedan	_	_	_	_	_	_	_	_	O
 15	do	_	_	_	_	_	_	_	_	O
 16	dvojice	_	_	_	_	_	_	_	_	O
@@ -743,8 +743,8 @@
 43	izvođenju	_	_	_	_	_	_	_	_	O
 44	grupe	_	_	_	_	_	_	_	_	O
 45	The	_	_	_	_	_	_	_	_	B-ORG
-46	Moody	_	_	_	_	_	_	_	_	I
-47	Blues	_	_	_	_	_	_	_	_	I
+46	Moody	_	_	_	_	_	_	_	_	I-ORG
+47	Blues	_	_	_	_	_	_	_	_	I-ORG
 48	koja	_	_	_	_	_	_	_	_	O
 49	je	_	_	_	_	_	_	_	SpaceAfter=No	O
 50	,	,	PUNCT	Z	_	_	_	_	_	O
@@ -789,7 +789,7 @@
 1	U	_	_	_	_	_	_	_	_	O
 2	fotografiji	_	_	_	_	_	_	_	_	O
 3	Gorana	_	_	_	_	_	_	_	_	B-PER
-4	Volarevića	_	_	_	_	_	_	_	_	I
+4	Volarevića	_	_	_	_	_	_	_	_	I-PER
 5	prevagu	_	_	_	_	_	_	_	_	O
 6	odnose	_	_	_	_	_	_	_	_	O
 7	jarke	_	_	_	_	_	_	_	_	O
@@ -809,7 +809,7 @@
 21	:	:	PUNCT	Z	_	_	_	_	_	O
 22	kostimi	_	_	_	_	_	_	_	_	O
 23	Borisa	_	_	_	_	_	_	_	_	B-PER
-24	Čakširana	_	_	_	_	_	_	_	_	I
+24	Čakširana	_	_	_	_	_	_	_	_	I-PER
 25	su	_	_	_	_	_	_	_	_	O
 26	veoma	_	_	_	_	_	_	_	_	O
 27	dobri	_	_	_	_	_	_	_	SpaceAfter=No	O
@@ -836,7 +836,7 @@
 48	pojela	_	_	_	_	_	_	_	SpaceAfter=No	O
 49	“	“	PUNCT	Z	_	_	_	_	_	O
 50	Sanju	_	_	_	_	_	_	_	_	B-PER
-51	Marković	_	_	_	_	_	_	_	_	I
+51	Marković	_	_	_	_	_	_	_	_	I-PER
 52	koja	_	_	_	_	_	_	_	_	O
 53	tumači	_	_	_	_	_	_	_	_	O
 54	Tominu	_	_	_	_	_	_	_	_	B-PER
@@ -885,10 +885,10 @@
 6	su	_	_	_	_	_	_	_	_	O
 7	napisali	_	_	_	_	_	_	_	_	O
 8	Nikola	_	_	_	_	_	_	_	_	B-PER
-9	Pejaković	_	_	_	_	_	_	_	_	I
+9	Pejaković	_	_	_	_	_	_	_	_	I-PER
 10	i	_	_	_	_	_	_	_	_	O
 11	Zoran	_	_	_	_	_	_	_	_	B-PER
-12	Lisinac	_	_	_	_	_	_	_	SpaceAfter=No	I
+12	Lisinac	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 13	,	,	PUNCT	Z	_	_	_	_	_	O
 14	a	_	_	_	_	_	_	_	_	O
 15	tu	_	_	_	_	_	_	_	_	O
@@ -1042,18 +1042,18 @@
 7	vremena	_	_	_	_	_	_	_	SpaceAfter=No	O
 8	:	:	PUNCT	Z	_	_	_	_	_	O
 9	Lepa	_	_	_	_	_	_	_	_	B-PER
-10	Lukić	_	_	_	_	_	_	_	SpaceAfter=No	I
+10	Lukić	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 11	,	,	PUNCT	Z	_	_	_	_	_	O
 12	Predrag	_	_	_	_	_	_	_	_	B-PER
-13	Cune	_	_	_	_	_	_	_	_	I
-14	Gojković	_	_	_	_	_	_	_	SpaceAfter=No	I
+13	Cune	_	_	_	_	_	_	_	_	I-PER
+14	Gojković	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 15	,	,	PUNCT	Z	_	_	_	_	_	O
 16	Predrag	_	_	_	_	_	_	_	_	B-PER
-17	Živković	_	_	_	_	_	_	_	_	I
-18	Tozovac	_	_	_	_	_	_	_	SpaceAfter=No	I
+17	Živković	_	_	_	_	_	_	_	_	I-PER
+18	Tozovac	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 19	,	,	PUNCT	Z	_	_	_	_	_	O
 20	Zoran	_	_	_	_	_	_	_	_	B-PER
-21	Kalezić	_	_	_	_	_	_	_	_	I
+21	Kalezić	_	_	_	_	_	_	_	_	I-PER
 22	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 23	koji	_	_	_	_	_	_	_	_	O
 24	su	_	_	_	_	_	_	_	_	O
@@ -1069,19 +1069,19 @@
 34	,	,	PUNCT	Z	_	_	_	_	_	O
 35	te	_	_	_	_	_	_	_	_	O
 36	Zoran	_	_	_	_	_	_	_	_	B-PER
-37	Radmilović	_	_	_	_	_	_	_	SpaceAfter=No	I
+37	Radmilović	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 38	,	,	PUNCT	Z	_	_	_	_	_	O
 39	Mika	_	_	_	_	_	_	_	_	B-PER
-40	Antić	_	_	_	_	_	_	_	SpaceAfter=No	I
+40	Antić	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 41	,	,	PUNCT	Z	_	_	_	_	_	O
 42	Davorin	_	_	_	_	_	_	_	_	B-PER
-43	Popović	_	_	_	_	_	_	_	SpaceAfter=No	I
+43	Popović	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 44	,	,	PUNCT	Z	_	_	_	_	_	O
 45	Kemal	_	_	_	_	_	_	_	_	B-PER
-46	Monteno	_	_	_	_	_	_	_	SpaceAfter=No	I
+46	Monteno	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 47	,	,	PUNCT	Z	_	_	_	_	_	O
 48	Zdravko	_	_	_	_	_	_	_	_	B-PER
-49	Čolić	_	_	_	_	_	_	_	SpaceAfter=No	I
+49	Čolić	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 50	…	…	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 1.30
@@ -1134,11 +1134,11 @@
 # sent_id = 1.31
 # text = Silvana Armenulić u tumačenju Tamare Dragičević je, pored Marićevog Tome, jedan od rethih likova u filmu koji dobija dovoljno prostora i kakvu-takvu priliku za dvodimenzionalnost.
 1	Silvana	_	_	_	_	_	_	_	_	B-PER
-2	Armenulić	_	_	_	_	_	_	_	_	I
+2	Armenulić	_	_	_	_	_	_	_	_	I-PER
 3	u	_	_	_	_	_	_	_	_	O
 4	tumačenju	_	_	_	_	_	_	_	_	O
 5	Tamare	_	_	_	_	_	_	_	_	B-PER
-6	Dragičević	_	_	_	_	_	_	_	_	I
+6	Dragičević	_	_	_	_	_	_	_	_	I-PER
 7	je	_	_	_	_	_	_	_	SpaceAfter=No	O
 8	,	,	PUNCT	Z	_	_	_	_	_	O
 9	pored	_	_	_	_	_	_	_	_	O
@@ -1210,7 +1210,7 @@
 44	i	_	_	_	_	_	_	_	_	O
 45	tenisera	_	_	_	_	_	_	_	_	O
 46	Radmila	_	_	_	_	_	_	_	_	B-PER
-47	Armenulića	_	_	_	_	_	_	_	SpaceAfter=No	I
+47	Armenulića	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 48	,	,	PUNCT	Z	_	_	_	_	_	O
 49	kao	_	_	_	_	_	_	_	_	O
 50	i	_	_	_	_	_	_	_	_	O
@@ -1220,7 +1220,7 @@
 54	sa	_	_	_	_	_	_	_	_	O
 55	rediteljem	_	_	_	_	_	_	_	_	O
 56	Dragoslavom	_	_	_	_	_	_	_	_	B-PER
-57	Lazićem	_	_	_	_	_	_	_	SpaceAfter=No	I
+57	Lazićem	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 58	,	,	PUNCT	Z	_	_	_	_	_	O
 59	nisu	_	_	_	_	_	_	_	_	O
 60	osvetljeni	_	_	_	_	_	_	_	_	O
@@ -1232,7 +1232,7 @@
 # sent_id = 1.33
 # text = Milena Radulović je ostavarila veoma, veoma sočnu epizodu kao jedna od Tominih supruga (njena Nada baš „prodrma“ film, na desetak minuta ga ispuni erotikom i intrigama), a značajnije uloge imaju Petar Benčina (kao Tomin doktor) i Paulina Manov (kao doktorova supruga Ljiljana koja je, eto koincidencije, u isto vreme kada i Toma bolesna od raka).
 1	Milena	_	_	_	_	_	_	_	_	B-PER
-2	Radulović	_	_	_	_	_	_	_	_	I
+2	Radulović	_	_	_	_	_	_	_	_	I-PER
 3	je	_	_	_	_	_	_	_	_	O
 4	ostavarila	_	_	_	_	_	_	_	_	O
 5	veoma	_	_	_	_	_	_	_	SpaceAfter=No	O
@@ -1269,7 +1269,7 @@
 36	uloge	_	_	_	_	_	_	_	_	O
 37	imaju	_	_	_	_	_	_	_	_	O
 38	Petar	_	_	_	_	_	_	_	_	B-PER
-39	Benčina	_	_	_	_	_	_	_	_	I
+39	Benčina	_	_	_	_	_	_	_	_	I-PER
 40	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 41	kao	_	_	_	_	_	_	_	_	O
 42	Tomin	_	_	_	_	_	_	_	_	B-PER
@@ -1277,7 +1277,7 @@
 44	)	)	PUNCT	Z	_	_	_	_	_	O
 45	i	_	_	_	_	_	_	_	_	O
 46	Paulina	_	_	_	_	_	_	_	_	B-PER
-47	Manov	_	_	_	_	_	_	_	_	I
+47	Manov	_	_	_	_	_	_	_	_	I-PER
 48	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 49	kao	_	_	_	_	_	_	_	_	O
 50	doktorova	_	_	_	_	_	_	_	_	O

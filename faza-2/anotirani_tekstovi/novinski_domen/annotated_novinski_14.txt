@@ -5,11 +5,11 @@
 # sent_id = 1.1
 # text = SLAVONSKI BROD – Policija Brodsko-posavske županije saopštila je da je pronašla i uhapsila muškarca koji je danas oko 18 sati u Šušnjevcima ubio bivšeg narodnog poslanika iz HDZ-a, Zorana Grgića.
 1	SLAVONSKI	_	_	_	_	_	_	_	_	B-LOC
-2	BROD	_	_	_	_	_	_	_	_	I
+2	BROD	_	_	_	_	_	_	_	_	I-LOC
 3	–	–	PUNCT	Z	_	_	_	_	_	O
 4	Policija	_	_	_	_	_	_	_	_	B-ORG
-5	Brodsko-posavske	_	_	_	_	_	_	_	_	I
-6	županije	_	_	_	_	_	_	_	_	I
+5	Brodsko-posavske	_	_	_	_	_	_	_	_	I-ORG
+6	županije	_	_	_	_	_	_	_	_	I-ORG
 7	saopštila	_	_	_	_	_	_	_	_	O
 8	je	_	_	_	_	_	_	_	_	O
 9	da	_	_	_	_	_	_	_	_	O
@@ -34,7 +34,7 @@
 28	HDZ-a	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
 29	,	,	PUNCT	Z	_	_	_	_	_	O
 30	Zorana	_	_	_	_	_	_	_	_	B-PER
-31	Grgića	_	_	_	_	_	_	_	SpaceAfter=No	I
+31	Grgića	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 32	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 2
@@ -64,8 +64,8 @@
 # sent_id = 3.1
 # text = Policija Brodsko-posavske županije je saopštila da je muškarac koji je ranjen u pucnjavi preminuo uprkos pokušajima reanimacije, a da je napadač bio u bekstvu, prenosi Tanjug.
 1	Policija	_	_	_	_	_	_	_	_	B-ORG
-2	Brodsko-posavske	_	_	_	_	_	_	_	_	I
-3	županije	_	_	_	_	_	_	_	_	I
+2	Brodsko-posavske	_	_	_	_	_	_	_	_	I-ORG
+3	županije	_	_	_	_	_	_	_	_	I-ORG
 4	je	_	_	_	_	_	_	_	_	O
 5	saopštila	_	_	_	_	_	_	_	_	O
 6	da	_	_	_	_	_	_	_	_	O

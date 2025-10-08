@@ -7,8 +7,8 @@
 1	Sokoj	_	_	_	_	_	_	_	_	B-ORG
 2	i	_	_	_	_	_	_	_	_	O
 3	Udruženje	_	_	_	_	_	_	_	_	B-ORG
-4	kompozitora	_	_	_	_	_	_	_	_	I
-5	Srbije	_	_	_	_	_	_	_	_	I
+4	kompozitora	_	_	_	_	_	_	_	_	I-ORG
+5	Srbije	_	_	_	_	_	_	_	_	I-ORG
 6	poklonili	_	_	_	_	_	_	_	_	O
 7	su	_	_	_	_	_	_	_	_	O
 8	beogradskoj	_	_	_	_	_	_	_	_	O
@@ -16,7 +16,7 @@
 10	koncert	_	_	_	_	_	_	_	_	O
 11	pijaniste	_	_	_	_	_	_	_	_	O
 12	Kemala	_	_	_	_	_	_	_	_	B-PER
-13	Gekića	_	_	_	_	_	_	_	SpaceAfter=No	I
+13	Gekića	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 14	,	,	PUNCT	Z	_	_	_	_	_	O
 15	obeležavajući	_	_	_	_	_	_	_	_	O
 16	time	_	_	_	_	_	_	_	_	O
@@ -32,15 +32,15 @@
 26	80	_	_	_	_	_	_	_	_	O
 27	godina	_	_	_	_	_	_	_	_	O
 28	Udruženja	_	_	_	_	_	_	_	_	B-ORG
-29	kompozitora	_	_	_	_	_	_	_	_	I
-30	Srbije	_	_	_	_	_	_	_	SpaceAfter=No	I
+29	kompozitora	_	_	_	_	_	_	_	_	I-ORG
+30	Srbije	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 31	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 2
 # sent_id = 2.1
 # text = Kemal Gekić (62), nakon studija na Akademiji umetnosti u Novom Sadu, otisnuo se u svet, u kojem danas živi na dve adrese – u Sjedinjenim Američkim Državama i Japanu – a koncertira širom sveta.
 1	Kemal	_	_	_	_	_	_	_	_	B-PER
-2	Gekić	_	_	_	_	_	_	_	_	I
+2	Gekić	_	_	_	_	_	_	_	_	I-PER
 3	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 4	62	_	_	_	_	_	_	_	SpaceAfter=No	O
 5	)	)	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
@@ -49,10 +49,10 @@
 8	studija	_	_	_	_	_	_	_	_	O
 9	na	_	_	_	_	_	_	_	_	O
 10	Akademiji	_	_	_	_	_	_	_	_	B-ORG
-11	umetnosti	_	_	_	_	_	_	_	_	I
+11	umetnosti	_	_	_	_	_	_	_	_	I-ORG
 12	u	_	_	_	_	_	_	_	_	O
 13	Novom	_	_	_	_	_	_	_	_	B-LOC
-14	Sadu	_	_	_	_	_	_	_	SpaceAfter=No	I
+14	Sadu	_	_	_	_	_	_	_	SpaceAfter=No	I-LOC
 15	,	,	PUNCT	Z	_	_	_	_	_	O
 16	otisnuo	_	_	_	_	_	_	_	_	O
 17	se	_	_	_	_	_	_	_	_	O
@@ -69,8 +69,8 @@
 28	–	–	PUNCT	Z	_	_	_	_	_	O
 29	u	_	_	_	_	_	_	_	_	O
 30	Sjedinjenim	_	_	_	_	_	_	_	_	B-LOC
-31	Američkim	_	_	_	_	_	_	_	_	I
-32	Državama	_	_	_	_	_	_	_	_	I
+31	Američkim	_	_	_	_	_	_	_	_	I-LOC
+32	Državama	_	_	_	_	_	_	_	_	I-LOC
 33	i	_	_	_	_	_	_	_	_	O
 34	Japanu	_	_	_	_	_	_	_	_	B-LOC
 35	–	–	PUNCT	Z	_	_	_	_	_	O
@@ -230,7 +230,7 @@
 3	otvorila	_	_	_	_	_	_	_	_	O
 4	Umbra	_	_	_	_	_	_	_	_	O
 5	Isidore	_	_	_	_	_	_	_	_	B-PER
-6	Žebeljan	_	_	_	_	_	_	_	SpaceAfter=No	I
+6	Žebeljan	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 7	,	,	PUNCT	Z	_	_	_	_	_	O
 8	a	_	_	_	_	_	_	_	_	O
 9	nastavio	_	_	_	_	_	_	_	_	O
@@ -239,13 +239,13 @@
 12	stavom	_	_	_	_	_	_	_	_	O
 13	Sonate	_	_	_	_	_	_	_	_	O
 14	Petra	_	_	_	_	_	_	_	_	B-PER
-15	Ozgijana	_	_	_	_	_	_	_	SpaceAfter=No	I
+15	Ozgijana	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 16	,	,	PUNCT	Z	_	_	_	_	_	O
 17	Sedam	_	_	_	_	_	_	_	_	O
 18	balkanskih	_	_	_	_	_	_	_	_	O
 19	igara	_	_	_	_	_	_	_	_	O
 20	Marka	_	_	_	_	_	_	_	_	B-PER
-21	Tajčevića	_	_	_	_	_	_	_	SpaceAfter=No	I
+21	Tajčevića	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 22	,	,	PUNCT	Z	_	_	_	_	_	O
 23	izborom	_	_	_	_	_	_	_	_	O
 24	stavova	_	_	_	_	_	_	_	_	O
@@ -253,41 +253,41 @@
 26	Kosovske	_	_	_	_	_	_	_	_	O
 27	svite	_	_	_	_	_	_	_	_	O
 28	Miloja	_	_	_	_	_	_	_	_	B-PER
-29	Milojevića	_	_	_	_	_	_	_	SpaceAfter=No	I
+29	Milojevića	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 30	,	,	PUNCT	Z	_	_	_	_	_	O
 31	Hilandarskim	_	_	_	_	_	_	_	_	O
 32	zvonima	_	_	_	_	_	_	_	_	O
 33	Vuka	_	_	_	_	_	_	_	_	B-PER
-34	Kulenovića	_	_	_	_	_	_	_	SpaceAfter=No	I
+34	Kulenovića	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 35	,	,	PUNCT	Z	_	_	_	_	_	O
 36	Empromptijem	_	_	_	_	_	_	_	_	O
 37	br.	_	_	_	_	_	_	_	_	O
 38	3	_	_	_	_	_	_	_	_	O
 39	Vlastimira	_	_	_	_	_	_	_	_	B-PER
-40	Trajkovića	_	_	_	_	_	_	_	SpaceAfter=No	I
+40	Trajkovića	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 41	,	,	PUNCT	Z	_	_	_	_	_	O
 42	delom	_	_	_	_	_	_	_	_	O
 43	Iz	_	_	_	_	_	_	_	_	O
 44	Jugoslavije	_	_	_	_	_	_	_	_	O
 45	Josipa	_	_	_	_	_	_	_	_	B-PER
-46	Slavenskog	_	_	_	_	_	_	_	SpaceAfter=No	I
+46	Slavenskog	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 47	,	,	PUNCT	Z	_	_	_	_	_	O
 48	Nokturnom	_	_	_	_	_	_	_	_	O
 49	Dejana	_	_	_	_	_	_	_	_	B-PER
-50	Despića	_	_	_	_	_	_	_	SpaceAfter=No	I
+50	Despića	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 51	,	,	PUNCT	Z	_	_	_	_	_	O
 52	Šest	_	_	_	_	_	_	_	_	O
 53	igara	_	_	_	_	_	_	_	_	O
 54	Vasilija	_	_	_	_	_	_	_	_	B-PER
-55	Mokranjca	_	_	_	_	_	_	_	SpaceAfter=No	I
+55	Mokranjca	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 56	,	,	PUNCT	Z	_	_	_	_	_	O
 57	Brankovim	_	_	_	_	_	_	_	_	O
 58	kolom	_	_	_	_	_	_	_	_	O
 59	Ljubice	_	_	_	_	_	_	_	_	B-PER
-60	Marić	_	_	_	_	_	_	_	_	I
+60	Marić	_	_	_	_	_	_	_	_	I-PER
 61	i	_	_	_	_	_	_	_	_	O
 62	Tokatom	_	_	_	_	_	_	_	_	O
 63	Zorana	_	_	_	_	_	_	_	_	B-PER
-64	Hristića	_	_	_	_	_	_	_	SpaceAfter=No	I
+64	Hristića	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 65	.	.	PUNCT	Z	_	_	_	_	_	O
 

@@ -54,10 +54,10 @@
 # text = Izveštaji Evropskog parlamenta i Evropske komisije detaljno i tačno detektuju šta sve ne valja i zbog čega tog napretka nema.
 1	Izveštaji	_	_	_	_	_	_	_	_	O
 2	Evropskog	_	_	_	_	_	_	_	_	B-ORG
-3	parlamenta	_	_	_	_	_	_	_	_	I
+3	parlamenta	_	_	_	_	_	_	_	_	I-ORG
 4	i	_	_	_	_	_	_	_	_	O
 5	Evropske	_	_	_	_	_	_	_	_	B-ORG
-6	komisije	_	_	_	_	_	_	_	_	I
+6	komisije	_	_	_	_	_	_	_	_	I-ORG
 7	detaljno	_	_	_	_	_	_	_	_	O
 8	i	_	_	_	_	_	_	_	_	O
 9	tačno	_	_	_	_	_	_	_	_	O

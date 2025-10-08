@@ -8,7 +8,7 @@
 2	Velike	_	_	_	_	_	_	_	_	O
 3	dvorane	_	_	_	_	_	_	_	_	O
 4	Kolarčeve	_	_	_	_	_	_	_	_	B-LOC
-5	zadužbine	_	_	_	_	_	_	_	_	I
+5	zadužbine	_	_	_	_	_	_	_	_	I-LOC
 6	proslavljen	_	_	_	_	_	_	_	_	O
 7	je	_	_	_	_	_	_	_	_	O
 8	veličanstveno	_	_	_	_	_	_	_	SpaceAfter=No	O
@@ -45,10 +45,10 @@
 6	za	_	_	_	_	_	_	_	_	O
 7	predstavljanje	_	_	_	_	_	_	_	_	O
 8	Simfonijskog	_	_	_	_	_	_	_	_	B-ORG
-9	orkestra	_	_	_	_	_	_	_	_	I
+9	orkestra	_	_	_	_	_	_	_	_	I-ORG
 10	i	_	_	_	_	_	_	_	_	O
 11	Hora	_	_	_	_	_	_	_	_	B-ORG
-12	RTS-a	_	_	_	_	_	_	_	SpaceAfter=No	I
+12	RTS-a	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 13	,	,	PUNCT	Z	_	_	_	_	_	O
 14	sjajnih	_	_	_	_	_	_	_	_	O
 15	solista	_	_	_	_	_	_	_	_	O
@@ -59,7 +59,7 @@
 20	dirigenta	_	_	_	_	_	_	_	SpaceAfter=No	O
 21	,	,	PUNCT	Z	_	_	_	_	_	O
 22	Srboljuba	_	_	_	_	_	_	_	_	B-PER
-23	Dinića	_	_	_	_	_	_	_	SpaceAfter=No	I
+23	Dinića	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 24	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 2
@@ -104,10 +104,10 @@
 9	u	_	_	_	_	_	_	_	_	O
 10	izvođenju	_	_	_	_	_	_	_	_	O
 11	Simfonijskog	_	_	_	_	_	_	_	_	B-ORG
-12	orkestra	_	_	_	_	_	_	_	_	I
+12	orkestra	_	_	_	_	_	_	_	_	I-ORG
 13	i	_	_	_	_	_	_	_	_	O
 14	Hora	_	_	_	_	_	_	_	_	B-ORG
-15	RTS-a	_	_	_	_	_	_	_	_	I
+15	RTS-a	_	_	_	_	_	_	_	_	I-ORG
 16	pod	_	_	_	_	_	_	_	_	O
 17	različitim	_	_	_	_	_	_	_	_	O
 18	dirigentskim	_	_	_	_	_	_	_	_	O
@@ -263,15 +263,15 @@
 9	:	:	PUNCT	Z	_	_	_	_	_	O
 10	sopran	_	_	_	_	_	_	_	_	O
 11	Biljanu	_	_	_	_	_	_	_	_	B-PER
-12	Jovanović	_	_	_	_	_	_	_	SpaceAfter=No	I
+12	Jovanović	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 13	,	,	PUNCT	Z	_	_	_	_	_	O
 14	mecosopran	_	_	_	_	_	_	_	_	O
 15	Ivanu	_	_	_	_	_	_	_	_	B-PER
-16	Srbljan	_	_	_	_	_	_	_	SpaceAfter=No	I
+16	Srbljan	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 17	,	,	PUNCT	Z	_	_	_	_	_	O
 18	tenora	_	_	_	_	_	_	_	_	O
 19	Marka	_	_	_	_	_	_	_	_	B-PER
-20	Živkovića	_	_	_	_	_	_	_	_	I
+20	Živkovića	_	_	_	_	_	_	_	_	I-PER
 21	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 22	koji	_	_	_	_	_	_	_	_	O
 23	je	_	_	_	_	_	_	_	_	O
@@ -283,12 +283,12 @@
 29	zamena	_	_	_	_	_	_	_	_	O
 30	za	_	_	_	_	_	_	_	_	O
 31	Miloša	_	_	_	_	_	_	_	_	B-PER
-32	Bulajića	_	_	_	_	_	_	_	SpaceAfter=No	I
+32	Bulajića	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 33	)	)	PUNCT	Z	_	_	_	_	_	O
 34	i	_	_	_	_	_	_	_	_	O
 35	basa	_	_	_	_	_	_	_	_	O
 36	Savu	_	_	_	_	_	_	_	_	B-PER
-37	Vemića	_	_	_	_	_	_	_	SpaceAfter=No	I
+37	Vemića	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 38	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 5.2
@@ -303,7 +303,7 @@
 8	sopran	_	_	_	_	_	_	_	SpaceAfter=No	O
 9	,	,	PUNCT	Z	_	_	_	_	_	O
 10	Biljana	_	_	_	_	_	_	_	_	B-PER
-11	Jovanović	_	_	_	_	_	_	_	_	I
+11	Jovanović	_	_	_	_	_	_	_	_	I-PER
 12	istakla	_	_	_	_	_	_	_	_	O
 13	se	_	_	_	_	_	_	_	_	O
 14	bogatim	_	_	_	_	_	_	_	SpaceAfter=No	O
@@ -326,7 +326,7 @@
 4	deonicama	_	_	_	_	_	_	_	SpaceAfter=No	O
 5	,	,	PUNCT	Z	_	_	_	_	_	O
 6	Ivana	_	_	_	_	_	_	_	_	B-PER
-7	Srbljan	_	_	_	_	_	_	_	_	I
+7	Srbljan	_	_	_	_	_	_	_	_	I-PER
 8	donela	_	_	_	_	_	_	_	_	O
 9	je	_	_	_	_	_	_	_	_	O
 10	snažan	_	_	_	_	_	_	_	SpaceAfter=No	O
@@ -431,8 +431,8 @@
 33	op.	_	_	_	_	_	_	_	_	O
 34	35	_	_	_	_	_	_	_	_	O
 35	Petra	_	_	_	_	_	_	_	_	B-PER
-36	Iljiča	_	_	_	_	_	_	_	_	I
-37	Čajkovskog	_	_	_	_	_	_	_	SpaceAfter=No	I
+36	Iljiča	_	_	_	_	_	_	_	_	I-PER
+37	Čajkovskog	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 38	,	,	PUNCT	Z	_	_	_	_	_	O
 39	u	_	_	_	_	_	_	_	_	O
 40	kome	_	_	_	_	_	_	_	_	O
@@ -443,14 +443,14 @@
 45	sjajni	_	_	_	_	_	_	_	_	O
 46	virtuoz	_	_	_	_	_	_	_	_	O
 47	Roman	_	_	_	_	_	_	_	_	B-PER
-48	Simović	_	_	_	_	_	_	_	SpaceAfter=No	I
+48	Simović	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 49	,	,	PUNCT	Z	_	_	_	_	_	O
 50	koncertmajstor	_	_	_	_	_	_	_	_	O
 51	i	_	_	_	_	_	_	_	_	O
 52	solista	_	_	_	_	_	_	_	_	O
 53	Londonskog	_	_	_	_	_	_	_	_	B-ORG
-54	simfonijskog	_	_	_	_	_	_	_	_	I
-55	orkestra	_	_	_	_	_	_	_	SpaceAfter=No	I
+54	simfonijskog	_	_	_	_	_	_	_	_	I-ORG
+55	orkestra	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 56	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 7.2
@@ -499,10 +499,10 @@
 3	u	_	_	_	_	_	_	_	_	O
 4	izvođenju	_	_	_	_	_	_	_	_	O
 5	Simfonijskog	_	_	_	_	_	_	_	_	B-ORG
-6	orkestra	_	_	_	_	_	_	_	_	I
+6	orkestra	_	_	_	_	_	_	_	_	I-ORG
 7	i	_	_	_	_	_	_	_	_	O
 8	Romana	_	_	_	_	_	_	_	_	B-PER
-9	Simovića	_	_	_	_	_	_	_	_	I
+9	Simovića	_	_	_	_	_	_	_	_	I-PER
 10	bilo	_	_	_	_	_	_	_	_	O
 11	izuzetno	_	_	_	_	_	_	_	_	O
 12	koherentno	_	_	_	_	_	_	_	SpaceAfter=No	O

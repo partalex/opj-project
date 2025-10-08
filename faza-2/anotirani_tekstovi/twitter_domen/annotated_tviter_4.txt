@@ -33,7 +33,7 @@
 27	bolnicu	_	_	_	_	_	_	_	_	O
 28	u	_	_	_	_	_	_	_	_	O
 29	Centralni	_	_	_	_	_	_	_	_	B-ORG
-30	zatvor	_	_	_	_	_	_	_	SpaceAfter=No	I
+30	zatvor	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 31	,	,	PUNCT	Z	_	_	_	_	_	O
 32	u	_	_	_	_	_	_	_	_	O
 33	Beograd	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC

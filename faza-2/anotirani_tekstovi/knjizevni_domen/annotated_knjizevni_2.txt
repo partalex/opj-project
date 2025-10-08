@@ -66,7 +66,7 @@
 # sent_id = 1.3
 # text = Alipašini izvori su iza Gusinja, na dnu naše zemlje, u ćošku, u podnožju Prokletija, u samoći, na samku, kod vodenice i restorana, kod štale i zapuštene kuće, a izvori odsvakud, na nekoliko desetina metara, ključaju iz zemlje, razlivaju se i odmah prave reku.
 1	Alipašini	_	_	_	_	_	_	_	_	B-LOC
-2	izvori	_	_	_	_	_	_	_	_	I
+2	izvori	_	_	_	_	_	_	_	_	I-LOC
 3	su	_	_	_	_	_	_	_	_	O
 4	iza	_	_	_	_	_	_	_	_	O
 5	Gusinja	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
@@ -631,7 +631,7 @@
 6	čuo	_	_	_	_	_	_	_	_	O
 7	u	_	_	_	_	_	_	_	_	O
 8	Domu	_	_	_	_	_	_	_	_	B-LOC
-9	kulture	_	_	_	_	_	_	_	SpaceAfter=No	I
+9	kulture	_	_	_	_	_	_	_	SpaceAfter=No	I-LOC
 10	,	,	PUNCT	Z	_	_	_	_	_	O
 11	u	_	_	_	_	_	_	_	_	O
 12	Plavu	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
@@ -656,7 +656,7 @@
 31	,	,	PUNCT	Z	_	_	_	_	_	O
 32	i	_	_	_	_	_	_	_	_	O
 33	Šerba	_	_	_	_	_	_	_	_	B-PER
-34	Rastodera	_	_	_	_	_	_	_	SpaceAfter=No	I
+34	Rastodera	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 35	,	,	PUNCT	Z	_	_	_	_	_	O
 36	istoričara	_	_	_	_	_	_	_	SpaceAfter=No	O
 37	,	,	PUNCT	Z	_	_	_	_	_	O
@@ -673,15 +673,15 @@
 48	je	_	_	_	_	_	_	_	SpaceAfter=No	O
 49	:	:	PUNCT	Z	_	_	_	_	_	O
 50	Dukljanska	_	_	_	_	_	_	_	_	B-ORG
-51	akademija	_	_	_	_	_	_	_	_	I
-52	nauka	_	_	_	_	_	_	_	_	I
-53	i	_	_	_	_	_	_	_	_	I
-54	umjetnosti	_	_	_	_	_	_	_	SpaceAfter=No	I
+51	akademija	_	_	_	_	_	_	_	_	I-ORG
+52	nauka	_	_	_	_	_	_	_	_	I-ORG
+53	i	_	_	_	_	_	_	_	_	I-ORG
+54	umjetnosti	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 55	,	,	PUNCT	Z	_	_	_	_	_	O
 56	više	_	_	_	_	_	_	_	_	O
 57	stranka	_	_	_	_	_	_	_	_	O
 58	Jevrema	_	_	_	_	_	_	_	_	B-PER
-59	Brkovića	_	_	_	_	_	_	_	_	I
+59	Brkovića	_	_	_	_	_	_	_	_	I-PER
 60	i	_	_	_	_	_	_	_	_	O
 61	ostalih	_	_	_	_	_	_	_	SpaceAfter=No	O
 62	,	,	PUNCT	Z	_	_	_	_	_	O
@@ -689,13 +689,13 @@
 64	im	_	_	_	_	_	_	_	_	O
 65	je	_	_	_	_	_	_	_	_	O
 66	Crnogorska	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
-67	…	…	PUNCT	Z	_	_	_	_	_	I
+67	…	…	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 1.29
 # text = (CANU) previše srpska, zato je ovde zagrada u zagradi, da može i što ne može, da mogu i Rastoderi u Dukljane i obrnuto).
-1	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	I
-2	CANU	_	_	_	_	_	_	_	SpaceAfter=No	I
-3	)	)	PUNCT	Z	_	_	_	_	_	I
+1	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+2	CANU	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
+3	)	)	PUNCT	Z	_	_	_	_	_	O
 4	previše	_	_	_	_	_	_	_	_	O
 5	srpska	_	_	_	_	_	_	_	SpaceAfter=No	O
 6	,	,	PUNCT	Z	_	_	_	_	_	O
@@ -770,7 +770,7 @@
 # sent_id = 1.31
 # text = Šerbo Rastoder zahvalno priznaje tu izreku kao svoju, pa biva jasno otkud Novak u Sarajevu i otkud Šerbo u Novakovom Nikšiću.
 1	Šerbo	_	_	_	_	_	_	_	_	B-PER
-2	Rastoder	_	_	_	_	_	_	_	_	I
+2	Rastoder	_	_	_	_	_	_	_	_	I-PER
 3	zahvalno	_	_	_	_	_	_	_	_	O
 4	priznaje	_	_	_	_	_	_	_	_	O
 5	tu	_	_	_	_	_	_	_	_	O
@@ -823,7 +823,7 @@
 # sent_id = 1.34
 # text = Husein Bašić, Plavljanin, preplavio je uveče svojim romanima, petinom u nizu, celu varoš gde je rođen, gde je predavao, predsednikovao, pisao, a potom stigao do pomoćnika ministra i do DANU, do takvog akademika.
 1	Husein	_	_	_	_	_	_	_	_	B-PER
-2	Bašić	_	_	_	_	_	_	_	SpaceAfter=No	I
+2	Bašić	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 3	,	,	PUNCT	Z	_	_	_	_	_	O
 4	Plavljanin	_	_	_	_	_	_	_	SpaceAfter=No	O
 5	,	,	PUNCT	Z	_	_	_	_	_	O
@@ -880,7 +880,7 @@
 10	Bašić	_	_	_	_	_	_	_	_	B-PER
 11	za	_	_	_	_	_	_	_	_	O
 12	Turskim	_	_	_	_	_	_	_	_	B-ORG
-13	carstvom	_	_	_	_	_	_	_	_	I
+13	carstvom	_	_	_	_	_	_	_	_	I-ORG
 14	i	_	_	_	_	_	_	_	_	O
 15	propašću	_	_	_	_	_	_	_	_	O
 16	tog	_	_	_	_	_	_	_	_	O
@@ -891,7 +891,7 @@
 21	karavan	_	_	_	_	_	_	_	_	O
 22	prolazio	_	_	_	_	_	_	_	_	O
 23	plavsko-gusinjskom	_	_	_	_	_	_	_	_	B-LOC
-24	kotlinom	_	_	_	_	_	_	_	SpaceAfter=No	I
+24	kotlinom	_	_	_	_	_	_	_	SpaceAfter=No	I-LOC
 25	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 1.36
@@ -913,7 +913,7 @@
 15	je	_	_	_	_	_	_	_	_	O
 16	dao	_	_	_	_	_	_	_	_	O
 17	Šerbo	_	_	_	_	_	_	_	_	B-PER
-18	Rastoder	_	_	_	_	_	_	_	_	I
+18	Rastoder	_	_	_	_	_	_	_	_	I-PER
 19	nije	_	_	_	_	_	_	_	_	O
 20	mi	_	_	_	_	_	_	_	_	O
 21	se	_	_	_	_	_	_	_	_	O
@@ -927,7 +927,7 @@
 3	u	_	_	_	_	_	_	_	_	O
 4	maniru	_	_	_	_	_	_	_	_	O
 5	Evlije	_	_	_	_	_	_	_	_	B-PER
-6	Čelebije	_	_	_	_	_	_	_	SpaceAfter=No	I
+6	Čelebije	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 7	,	,	PUNCT	Z	_	_	_	_	_	O
 8	đegda	_	_	_	_	_	_	_	_	O
 9	i	_	_	_	_	_	_	_	_	O
@@ -946,7 +946,7 @@
 22	i	_	_	_	_	_	_	_	_	O
 23	u	_	_	_	_	_	_	_	_	O
 24	Crnoj	_	_	_	_	_	_	_	_	B-LOC
-25	Gori	_	_	_	_	_	_	_	SpaceAfter=No	I
+25	Gori	_	_	_	_	_	_	_	SpaceAfter=No	I-LOC
 26	,	,	PUNCT	Z	_	_	_	_	_	O
 27	ali	_	_	_	_	_	_	_	_	O
 28	samo	_	_	_	_	_	_	_	_	O
@@ -1021,7 +1021,7 @@
 7	najbolji	_	_	_	_	_	_	_	_	O
 8	podupirač	_	_	_	_	_	_	_	_	O
 9	Rajko	_	_	_	_	_	_	_	_	B-PER
-10	Cerović	_	_	_	_	_	_	_	SpaceAfter=No	I
+10	Cerović	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 11	,	,	PUNCT	Z	_	_	_	_	_	O
 12	sav	_	_	_	_	_	_	_	_	O
 13	rastopljen	_	_	_	_	_	_	_	SpaceAfter=No	O
@@ -1041,7 +1041,7 @@
 27	,	,	PUNCT	Z	_	_	_	_	_	O
 28	skromni	_	_	_	_	_	_	_	_	O
 29	Isak	_	_	_	_	_	_	_	_	B-PER
-30	Kalpačina	_	_	_	_	_	_	_	SpaceAfter=No	I
+30	Kalpačina	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 31	,	,	PUNCT	Z	_	_	_	_	_	O
 32	domaćin	_	_	_	_	_	_	_	_	O
 33	svih	_	_	_	_	_	_	_	_	O
@@ -1215,7 +1215,7 @@
 2	mi	_	_	_	_	_	_	_	_	O
 3	ulagivanje	_	_	_	_	_	_	_	_	O
 4	Rajka	_	_	_	_	_	_	_	_	B-PER
-5	Cerovića	_	_	_	_	_	_	_	SpaceAfter=No	I
+5	Cerovića	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 6	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 1.47
@@ -1376,7 +1376,7 @@
 2	nekoliko	_	_	_	_	_	_	_	SpaceAfter=No	O
 3	,	,	PUNCT	Z	_	_	_	_	_	O
 4	Žarko	_	_	_	_	_	_	_	_	B-PER
-5	Đurović	_	_	_	_	_	_	_	SpaceAfter=No	I
+5	Đurović	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 6	,	,	PUNCT	Z	_	_	_	_	_	O
 7	uvek	_	_	_	_	_	_	_	_	O
 8	jednako	_	_	_	_	_	_	_	_	O
@@ -1386,7 +1386,7 @@
 12	pošten	_	_	_	_	_	_	_	SpaceAfter=No	O
 13	,	,	PUNCT	Z	_	_	_	_	_	O
 14	Milo	_	_	_	_	_	_	_	_	B-PER
-15	Kralj	_	_	_	_	_	_	_	SpaceAfter=No	I
+15	Kralj	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 16	,	,	PUNCT	Z	_	_	_	_	_	O
 17	uvek	_	_	_	_	_	_	_	_	O
 18	jednako	_	_	_	_	_	_	_	_	O
@@ -1401,7 +1401,7 @@
 27	o	_	_	_	_	_	_	_	_	O
 28	neizbežnom	_	_	_	_	_	_	_	_	O
 29	Čedu	_	_	_	_	_	_	_	_	B-PER
-30	Vukoviću	_	_	_	_	_	_	_	_	I
+30	Vukoviću	_	_	_	_	_	_	_	_	I-PER
 31	koji	_	_	_	_	_	_	_	_	O
 32	je	_	_	_	_	_	_	_	_	O
 33	u	_	_	_	_	_	_	_	_	O
@@ -1414,7 +1414,7 @@
 40	i	_	_	_	_	_	_	_	_	O
 41	daroviti	_	_	_	_	_	_	_	_	O
 42	Petar	_	_	_	_	_	_	_	_	B-PER
-43	V.	_	_	_	_	_	_	_	_	I
-44	Arbutina	_	_	_	_	_	_	_	SpaceAfter=No	I
+43	V.	_	_	_	_	_	_	_	_	I-PER
+44	Arbutina	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 45	,	,	PUNCT	Z	_	_	_	_	_	O
 

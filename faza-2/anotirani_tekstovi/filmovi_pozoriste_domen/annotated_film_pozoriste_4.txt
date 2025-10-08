@@ -11,7 +11,7 @@
 5	telo	_	_	_	_	_	_	_	_	O
 6	kojim	_	_	_	_	_	_	_	_	O
 7	Dejan	_	_	_	_	_	_	_	_	B-PER
-8	Mijač	_	_	_	_	_	_	_	SpaceAfter=No	I
+8	Mijač	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 9	,	,	PUNCT	Z	_	_	_	_	_	O
 10	hteo	_	_	_	_	_	_	_	_	O
 11	–	–	PUNCT	Z	_	_	_	_	_	O
@@ -47,7 +47,7 @@
 6	se	_	_	_	_	_	_	_	_	O
 7	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 8	Ujka	_	_	_	_	_	_	_	_	B-PER
-9	Vanja	_	_	_	_	_	_	_	SpaceAfter=No	I
+9	Vanja	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 10	”	”	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 11	,	,	PUNCT	Z	_	_	_	_	_	O
 12	u	_	_	_	_	_	_	_	_	O
@@ -94,7 +94,7 @@
 9	je	_	_	_	_	_	_	_	_	O
 10	scenografija	_	_	_	_	_	_	_	_	O
 11	Darka	_	_	_	_	_	_	_	_	B-PER
-12	Nedeljkovića	_	_	_	_	_	_	_	_	I
+12	Nedeljkovića	_	_	_	_	_	_	_	_	I-PER
 13	parafraza	_	_	_	_	_	_	_	SpaceAfter=No	O
 14	,	,	PUNCT	Z	_	_	_	_	_	O
 15	tako	_	_	_	_	_	_	_	_	O
@@ -683,7 +683,7 @@
 # sent_id = 2.2
 # text = Peter Štajn svoje “Tri sestre” režira 1984. godine.
 1	Peter	_	_	_	_	_	_	_	_	B-PER
-2	Štajn	_	_	_	_	_	_	_	_	I
+2	Štajn	_	_	_	_	_	_	_	_	I-PER
 3	svoje	_	_	_	_	_	_	_	_	O
 4	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 5	Tri	_	_	_	_	_	_	_	_	O
@@ -775,7 +775,7 @@
 # sent_id = 2.5
 # text = Jirgen Goš kao što je već rečeno, prvo stvara ozbiljnu konceptualnu platformu da bi Čehova interpretirao onako kako bi to Čehov voleo.
 1	Jirgen	_	_	_	_	_	_	_	_	B-PER
-2	Goš	_	_	_	_	_	_	_	_	I
+2	Goš	_	_	_	_	_	_	_	_	I-PER
 3	kao	_	_	_	_	_	_	_	_	O
 4	što	_	_	_	_	_	_	_	_	O
 5	je	_	_	_	_	_	_	_	_	O
@@ -887,7 +887,7 @@
 22	na	_	_	_	_	_	_	_	_	O
 23	primeru	_	_	_	_	_	_	_	_	O
 24	Borisa	_	_	_	_	_	_	_	_	B-PER
-25	Isakovića	_	_	_	_	_	_	_	_	I
+25	Isakovića	_	_	_	_	_	_	_	_	I-PER
 26	kao	_	_	_	_	_	_	_	_	O
 27	trgovca	_	_	_	_	_	_	_	_	O
 28	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
@@ -898,7 +898,7 @@
 33	na	_	_	_	_	_	_	_	_	O
 34	primeru	_	_	_	_	_	_	_	_	O
 35	Bojana	_	_	_	_	_	_	_	_	B-PER
-36	Dimitrijevića	_	_	_	_	_	_	_	_	I
+36	Dimitrijevića	_	_	_	_	_	_	_	_	I-PER
 37	kao	_	_	_	_	_	_	_	_	O
 38	večitog	_	_	_	_	_	_	_	_	O
 39	studenta	_	_	_	_	_	_	_	_	O
@@ -965,7 +965,7 @@
 # sent_id = 4.1
 # text = Jasna Đuričić, za koju je već dugo jasno da je jedinstvena pojava u srpskom glumištu, kao Ranjevska je verovatno bila zbunjena neodlučnošću režisera, pa neodmereno urla sećajući se mrtvog Griše, da bi ubrzo zatim, u izvođačkom smislu jedina zanimljiva Nada Šargin kao Šarlota, postala comic relief koji kao da je vođen palicom Franka Kastorfa.
 1	Jasna	_	_	_	_	_	_	_	_	B-PER
-2	Đuričić	_	_	_	_	_	_	_	SpaceAfter=No	I
+2	Đuričić	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 3	,	,	PUNCT	Z	_	_	_	_	_	O
 4	za	_	_	_	_	_	_	_	_	O
 5	koju	_	_	_	_	_	_	_	_	O
@@ -1009,7 +1009,7 @@
 43	jedina	_	_	_	_	_	_	_	_	O
 44	zanimljiva	_	_	_	_	_	_	_	_	O
 45	Nada	_	_	_	_	_	_	_	_	B-PER
-46	Šargin	_	_	_	_	_	_	_	_	I
+46	Šargin	_	_	_	_	_	_	_	_	I-PER
 47	kao	_	_	_	_	_	_	_	_	O
 48	Šarlota	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 49	,	,	PUNCT	Z	_	_	_	_	_	O
@@ -1023,7 +1023,7 @@
 57	vođen	_	_	_	_	_	_	_	_	O
 58	palicom	_	_	_	_	_	_	_	_	O
 59	Franka	_	_	_	_	_	_	_	_	B-PER
-60	Kastorfa	_	_	_	_	_	_	_	SpaceAfter=No	I
+60	Kastorfa	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 61	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 4.2
@@ -1051,7 +1051,7 @@
 21	ga	_	_	_	_	_	_	_	_	O
 22	tumači	_	_	_	_	_	_	_	_	O
 23	Svetozar	_	_	_	_	_	_	_	_	B-PER
-24	Cvetković	_	_	_	_	_	_	_	SpaceAfter=No	I
+24	Cvetković	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 25	,	,	PUNCT	Z	_	_	_	_	_	O
 26	a	_	_	_	_	_	_	_	_	O
 27	koga	_	_	_	_	_	_	_	_	O
@@ -1083,7 +1083,7 @@
 # sent_id = 4.3
 # text = Hana Selimović (Dunjaša) igra lošu farsu i svoj lik svodi na nekoliko epiteta, kao uostalom i Branko Cvejić (Piščik) za koga, doduše, nije jasno ni koje bi mu tačno epitete pripisali.
 1	Hana	_	_	_	_	_	_	_	_	B-PER
-2	Selimović	_	_	_	_	_	_	_	_	I
+2	Selimović	_	_	_	_	_	_	_	_	I-PER
 3	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 4	Dunjaša	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 5	)	)	PUNCT	Z	_	_	_	_	_	O
@@ -1102,7 +1102,7 @@
 18	uostalom	_	_	_	_	_	_	_	_	O
 19	i	_	_	_	_	_	_	_	_	O
 20	Branko	_	_	_	_	_	_	_	_	B-PER
-21	Cvejić	_	_	_	_	_	_	_	_	I
+21	Cvejić	_	_	_	_	_	_	_	_	I-PER
 22	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 23	Piščik	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 24	)	)	PUNCT	Z	_	_	_	_	_	O
@@ -1288,7 +1288,7 @@
 16	Plima	_	_	_	_	_	_	_	_	B-ORG
 17	iz	_	_	_	_	_	_	_	_	O
 18	Crne	_	_	_	_	_	_	_	_	B-LOC
-19	Gore	_	_	_	_	_	_	_	SpaceAfter=No	I
+19	Gore	_	_	_	_	_	_	_	SpaceAfter=No	I-LOC
 20	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 6.3
@@ -1306,7 +1306,7 @@
 11	2013	_	_	_	_	_	_	_	SpaceAfter=No	O
 12	"	"	PUNCT	Z	_	_	_	_	_	O
 13	Evropske	_	_	_	_	_	_	_	_	B-ORG
-14	komisije	_	_	_	_	_	_	_	SpaceAfter=No	I
+14	komisije	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 15	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 6.4
@@ -1338,6 +1338,6 @@
 11	odražava	_	_	_	_	_	_	_	_	O
 12	gledišta	_	_	_	_	_	_	_	_	O
 13	Evropske	_	_	_	_	_	_	_	_	B-ORG
-14	unije	_	_	_	_	_	_	_	SpaceAfter=No	I
+14	unije	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 15	.	.	PUNCT	Z	_	_	_	_	_	O
 

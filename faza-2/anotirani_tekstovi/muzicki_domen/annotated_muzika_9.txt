@@ -181,18 +181,18 @@
 # sent_id = 3.2
 # text = Orkestrom Umetničkog ansambla Ministarstva odbrane „Stanislav Binički“ dirigovao je Klajd Mičel, dirigent za koga je navedeno da deluje u Kanadi i Sjedinjenim Američkim Državama.
 1	Orkestrom	_	_	_	_	_	_	_	_	B-ORG
-2	Umetničkog	_	_	_	_	_	_	_	_	I
-3	ansambla	_	_	_	_	_	_	_	_	I
-4	Ministarstva	_	_	_	_	_	_	_	_	I
-5	odbrane	_	_	_	_	_	_	_	_	I
+2	Umetničkog	_	_	_	_	_	_	_	_	I-ORG
+3	ansambla	_	_	_	_	_	_	_	_	I-ORG
+4	Ministarstva	_	_	_	_	_	_	_	_	I-ORG
+5	odbrane	_	_	_	_	_	_	_	_	I-ORG
 6	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 7	Stanislav	_	_	_	_	_	_	_	_	B-PER
-8	Binički	_	_	_	_	_	_	_	SpaceAfter=No	I
+8	Binički	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 9	“	“	PUNCT	Z	_	_	_	_	_	O
 10	dirigovao	_	_	_	_	_	_	_	_	O
 11	je	_	_	_	_	_	_	_	_	O
 12	Klajd	_	_	_	_	_	_	_	_	B-PER
-13	Mičel	_	_	_	_	_	_	_	SpaceAfter=No	I
+13	Mičel	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 14	,	,	PUNCT	Z	_	_	_	_	_	O
 15	dirigent	_	_	_	_	_	_	_	_	O
 16	za	_	_	_	_	_	_	_	_	O
@@ -205,8 +205,8 @@
 23	Kanadi	_	_	_	_	_	_	_	_	B-LOC
 24	i	_	_	_	_	_	_	_	_	O
 25	Sjedinjenim	_	_	_	_	_	_	_	_	B-LOC
-26	Američkim	_	_	_	_	_	_	_	_	I
-27	Državama	_	_	_	_	_	_	_	SpaceAfter=No	I
+26	Američkim	_	_	_	_	_	_	_	_	I-LOC
+27	Državama	_	_	_	_	_	_	_	SpaceAfter=No	I-LOC
 28	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 4
@@ -215,7 +215,7 @@
 1	Dva	_	_	_	_	_	_	_	_	O
 2	koncerta	_	_	_	_	_	_	_	_	O
 3	Antonija	_	_	_	_	_	_	_	_	B-PER
-4	Vivaldija	_	_	_	_	_	_	_	_	I
+4	Vivaldija	_	_	_	_	_	_	_	_	I-PER
 5	primer	_	_	_	_	_	_	_	_	O
 6	su	_	_	_	_	_	_	_	_	O
 7	virtuoznosti	_	_	_	_	_	_	_	_	O
@@ -238,10 +238,10 @@
 3	pikolo	_	_	_	_	_	_	_	_	O
 4	flautistkinje	_	_	_	_	_	_	_	_	O
 5	Biljana	_	_	_	_	_	_	_	_	B-PER
-6	Beara	_	_	_	_	_	_	_	_	I
+6	Beara	_	_	_	_	_	_	_	_	I-PER
 7	i	_	_	_	_	_	_	_	_	O
 8	Aleksandra	_	_	_	_	_	_	_	_	B-PER
-9	Tolić	_	_	_	_	_	_	_	_	I
+9	Tolić	_	_	_	_	_	_	_	_	I-PER
 10	su	_	_	_	_	_	_	_	_	O
 11	u	_	_	_	_	_	_	_	_	O
 12	izvođenju	_	_	_	_	_	_	_	_	O
@@ -342,7 +342,7 @@
 1	Solo	_	_	_	_	_	_	_	_	O
 2	pikolistkinja	_	_	_	_	_	_	_	_	O
 3	Sara	_	_	_	_	_	_	_	_	B-PER
-4	Džekson	_	_	_	_	_	_	_	SpaceAfter=No	I
+4	Džekson	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 5	,	,	PUNCT	Z	_	_	_	_	_	O
 6	odsvirala	_	_	_	_	_	_	_	_	O
 7	je	_	_	_	_	_	_	_	_	O
@@ -367,9 +367,9 @@
 1	Solo	_	_	_	_	_	_	_	_	O
 2	pikolistkinja	_	_	_	_	_	_	_	_	O
 3	Filharmonije	_	_	_	_	_	_	_	_	B-ORG
-4	iz	_	_	_	_	_	_	_	_	I
-5	Los	_	_	_	_	_	_	_	_	I
-6	Anđelesa	_	_	_	_	_	_	_	SpaceAfter=No	I
+4	iz	_	_	_	_	_	_	_	_	I-ORG
+5	Los	_	_	_	_	_	_	_	_	I-ORG
+6	Anđelesa	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 7	,	,	PUNCT	Z	_	_	_	_	_	O
 8	prikazala	_	_	_	_	_	_	_	_	O
 9	se	_	_	_	_	_	_	_	_	O
@@ -426,7 +426,7 @@
 5	koncerta	_	_	_	_	_	_	_	SpaceAfter=No	O
 6	,	,	PUNCT	Z	_	_	_	_	_	O
 7	Sara	_	_	_	_	_	_	_	_	B-PER
-8	Džekson	_	_	_	_	_	_	_	_	I
+8	Džekson	_	_	_	_	_	_	_	_	I-PER
 9	je	_	_	_	_	_	_	_	_	O
 10	pokazala	_	_	_	_	_	_	_	_	O
 11	da	_	_	_	_	_	_	_	_	O
@@ -468,13 +468,13 @@
 1	Predvođeni	_	_	_	_	_	_	_	_	O
 2	dirigentom	_	_	_	_	_	_	_	_	O
 3	Klajdom	_	_	_	_	_	_	_	_	B-PER
-4	Mičelom	_	_	_	_	_	_	_	SpaceAfter=No	I
+4	Mičelom	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 5	,	,	PUNCT	Z	_	_	_	_	_	O
 6	gudački	_	_	_	_	_	_	_	_	O
 7	ansambl	_	_	_	_	_	_	_	_	O
 8	orkestra	_	_	_	_	_	_	_	_	O
 9	Stanislav	_	_	_	_	_	_	_	_	B-PER
-10	Binički	_	_	_	_	_	_	_	_	I
+10	Binički	_	_	_	_	_	_	_	_	I-PER
 11	delovao	_	_	_	_	_	_	_	_	O
 12	je	_	_	_	_	_	_	_	_	O
 13	nadahnuto	_	_	_	_	_	_	_	_	O
@@ -495,7 +495,7 @@
 28	finalne	_	_	_	_	_	_	_	_	O
 29	večeri	_	_	_	_	_	_	_	_	O
 30	Pikolo	_	_	_	_	_	_	_	_	B-ORG
-31	vikenda	_	_	_	_	_	_	_	SpaceAfter=No	I
+31	vikenda	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 32	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 6.2
@@ -503,10 +503,10 @@
 1	Pikolo	_	_	_	_	_	_	_	_	O
 2	flautista	_	_	_	_	_	_	_	_	O
 3	Frankfurtskog	_	_	_	_	_	_	_	_	B-ORG
-4	operskog	_	_	_	_	_	_	_	_	I
+4	operskog	_	_	_	_	_	_	_	_	I-ORG
 5	orkestra	_	_	_	_	_	_	_	_	O
 6	Đovani	_	_	_	_	_	_	_	_	B-PER
-7	Gandolfo	_	_	_	_	_	_	_	SpaceAfter=No	I
+7	Gandolfo	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 8	,	,	PUNCT	Z	_	_	_	_	_	O
 9	izveo	_	_	_	_	_	_	_	_	O
 10	je	_	_	_	_	_	_	_	_	O
@@ -520,8 +520,8 @@
 18	f	_	_	_	_	_	_	_	_	O
 19	molu	_	_	_	_	_	_	_	_	O
 20	Johana	_	_	_	_	_	_	_	_	B-PER
-21	Sebastijana	_	_	_	_	_	_	_	_	I
-22	Baha	_	_	_	_	_	_	_	SpaceAfter=No	I
+21	Sebastijana	_	_	_	_	_	_	_	_	I-PER
+22	Baha	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 23	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 6.3
@@ -631,17 +631,17 @@
 # sent_id = 7.2
 # text = Ivana Brkljačića, pripala je Snježani Pavićević, solo pikolistkinji Beogradske filharmonije.
 1	Ivana	_	_	_	_	_	_	_	_	B-PER
-2	Brkljačića	_	_	_	_	_	_	_	SpaceAfter=No	I
+2	Brkljačića	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 3	,	,	PUNCT	Z	_	_	_	_	_	O
 4	pripala	_	_	_	_	_	_	_	_	O
 5	je	_	_	_	_	_	_	_	_	O
 6	Snježani	_	_	_	_	_	_	_	_	B-PER
-7	Pavićević	_	_	_	_	_	_	_	SpaceAfter=No	I
+7	Pavićević	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 8	,	,	PUNCT	Z	_	_	_	_	_	O
 9	solo	_	_	_	_	_	_	_	_	O
 10	pikolistkinji	_	_	_	_	_	_	_	_	O
 11	Beogradske	_	_	_	_	_	_	_	_	B-ORG
-12	filharmonije	_	_	_	_	_	_	_	SpaceAfter=No	I
+12	filharmonije	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 13	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 7.3
@@ -861,7 +861,7 @@
 # text = Solistkinja Snježana Pavićević, pokazala se kao izuzetan virtuoz, najpre u središnjoj kadenci koncerta u kojoj je instrument delovao poput ptičjeg peva, pri tom, prikazanog inovativno.
 1	Solistkinja	_	_	_	_	_	_	_	_	O
 2	Snježana	_	_	_	_	_	_	_	_	B-PER
-3	Pavićević	_	_	_	_	_	_	_	SpaceAfter=No	I
+3	Pavićević	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 4	,	,	PUNCT	Z	_	_	_	_	_	O
 5	pokazala	_	_	_	_	_	_	_	_	O
 6	se	_	_	_	_	_	_	_	_	O
@@ -953,7 +953,7 @@
 6	da	_	_	_	_	_	_	_	_	O
 7	je	_	_	_	_	_	_	_	_	O
 8	Snježana	_	_	_	_	_	_	_	_	B-PER
-9	Pavićević	_	_	_	_	_	_	_	_	I
+9	Pavićević	_	_	_	_	_	_	_	_	I-PER
 10	uspela	_	_	_	_	_	_	_	_	O
 11	da	_	_	_	_	_	_	_	_	O
 12	prodorni	_	_	_	_	_	_	_	_	O
@@ -987,7 +987,7 @@
 # text = Kompozitor Ivan Brkljačić, zaista je uspeo da stvori delo koje ne samo da tehnički briljira, već i emocionalno rezonira sa publikom, prikazujući pikolo flautu, za većinu nas, u jednom potpuno novom i intrigantnom svetlu.
 1	Kompozitor	_	_	_	_	_	_	_	_	O
 2	Ivan	_	_	_	_	_	_	_	_	B-PER
-3	Brkljačić	_	_	_	_	_	_	_	SpaceAfter=No	I
+3	Brkljačić	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 4	,	,	PUNCT	Z	_	_	_	_	_	O
 5	zaista	_	_	_	_	_	_	_	_	O
 6	je	_	_	_	_	_	_	_	_	O
@@ -1038,7 +1038,7 @@
 8	izvanrednoj	_	_	_	_	_	_	_	_	O
 9	interpretaciji	_	_	_	_	_	_	_	_	O
 10	Snježane	_	_	_	_	_	_	_	_	B-PER
-11	Pavićević	_	_	_	_	_	_	_	_	I
+11	Pavićević	_	_	_	_	_	_	_	_	I-PER
 12	koja	_	_	_	_	_	_	_	_	O
 13	je	_	_	_	_	_	_	_	_	O
 14	bez	_	_	_	_	_	_	_	_	O

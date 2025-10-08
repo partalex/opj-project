@@ -342,7 +342,7 @@
 24	EU	_	_	_	_	_	_	_	_	B-ORG
 25	na	_	_	_	_	_	_	_	_	O
 26	Zapadnom	_	_	_	_	_	_	_	_	B-LOC
-27	Balkanu	_	_	_	_	_	_	_	SpaceAfter=No	I
+27	Balkanu	_	_	_	_	_	_	_	SpaceAfter=No	I-LOC
 28	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 6

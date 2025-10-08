@@ -18,7 +18,7 @@
 12	deo	_	_	_	_	_	_	_	_	O
 13	globalne	_	_	_	_	_	_	_	_	O
 14	Adeko	_	_	_	_	_	_	_	_	B-ORG
-15	Grupe	_	_	_	_	_	_	_	SpaceAfter=No	I
+15	Grupe	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 16	,	,	PUNCT	Z	_	_	_	_	_	O
 17	ove	_	_	_	_	_	_	_	_	O
 18	godine	_	_	_	_	_	_	_	_	O
@@ -80,7 +80,7 @@
 10	uspešnog	_	_	_	_	_	_	_	_	O
 11	poslovanja	_	_	_	_	_	_	_	_	O
 12	Adeko	_	_	_	_	_	_	_	_	B-ORG
-13	Srbija	_	_	_	_	_	_	_	SpaceAfter=No	I
+13	Srbija	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 14	,	,	PUNCT	Z	_	_	_	_	_	O
 15	od	_	_	_	_	_	_	_	_	O
 16	osnivanja	_	_	_	_	_	_	_	_	O
@@ -239,7 +239,7 @@
 7	EEMEA	_	_	_	_	_	_	_	_	B-LOC
 8	region	_	_	_	_	_	_	_	_	O
 9	Majank	_	_	_	_	_	_	_	_	B-PER
-10	Patel	_	_	_	_	_	_	_	_	I
+10	Patel	_	_	_	_	_	_	_	_	I-PER
 11	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 12	SVP	_	_	_	_	_	_	_	_	O
 13	Adecco	_	_	_	_	_	_	_	_	O
@@ -262,7 +262,7 @@
 30	šire	_	_	_	_	_	_	_	_	O
 31	strategije	_	_	_	_	_	_	_	_	O
 32	Adeko	_	_	_	_	_	_	_	_	B-ORG
-33	grupe	_	_	_	_	_	_	_	_	I
+33	grupe	_	_	_	_	_	_	_	_	I-ORG
 34	u	_	_	_	_	_	_	_	_	O
 35	narednoj	_	_	_	_	_	_	_	_	O
 36	deceniji	_	_	_	_	_	_	_	SpaceAfter=No	O
@@ -360,10 +360,10 @@
 25	usluge	_	_	_	_	_	_	_	_	O
 26	širom	_	_	_	_	_	_	_	_	O
 27	Istočne	_	_	_	_	_	_	_	_	B-LOC
-28	Evrope	_	_	_	_	_	_	_	_	I
+28	Evrope	_	_	_	_	_	_	_	_	I-LOC
 29	i	_	_	_	_	_	_	_	_	O
 30	Bliskog	_	_	_	_	_	_	_	_	B-LOC
-31	istoka	_	_	_	_	_	_	_	SpaceAfter=No	I
+31	istoka	_	_	_	_	_	_	_	SpaceAfter=No	I-LOC
 32	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 6.3
@@ -395,15 +395,15 @@
 2	finansijski	_	_	_	_	_	_	_	_	O
 3	direktor	_	_	_	_	_	_	_	_	O
 4	Adeko	_	_	_	_	_	_	_	_	B-ORG
-5	Srbija	_	_	_	_	_	_	_	_	I
+5	Srbija	_	_	_	_	_	_	_	_	I-ORG
 6	Filip	_	_	_	_	_	_	_	_	B-PER
-7	Milisavljević	_	_	_	_	_	_	_	_	I
+7	Milisavljević	_	_	_	_	_	_	_	_	I-PER
 8	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 9	Chief	_	_	_	_	_	_	_	_	O
 10	Financial	_	_	_	_	_	_	_	_	O
 11	Officer	_	_	_	_	_	_	_	_	O
 12	Adecco	_	_	_	_	_	_	_	_	B-ORG
-13	Serbia	_	_	_	_	_	_	_	SpaceAfter=No	I
+13	Serbia	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 14	)	)	PUNCT	Z	_	_	_	_	_	O
 15	rekao	_	_	_	_	_	_	_	_	O
 16	je	_	_	_	_	_	_	_	_	O
@@ -411,7 +411,7 @@
 18	gledano	_	_	_	_	_	_	_	_	O
 19	unazad	_	_	_	_	_	_	_	_	O
 20	Adeko	_	_	_	_	_	_	_	_	B-ORG
-21	Srbija	_	_	_	_	_	_	_	_	I
+21	Srbija	_	_	_	_	_	_	_	_	I-ORG
 22	može	_	_	_	_	_	_	_	_	O
 23	biti	_	_	_	_	_	_	_	_	O
 24	ponosna	_	_	_	_	_	_	_	_	O
@@ -523,14 +523,14 @@
 1	Menadžer	_	_	_	_	_	_	_	_	O
 2	prodaje	_	_	_	_	_	_	_	_	O
 3	Adeko	_	_	_	_	_	_	_	_	B-ORG
-4	Srbija	_	_	_	_	_	_	_	_	I
+4	Srbija	_	_	_	_	_	_	_	_	I-ORG
 5	Ivan	_	_	_	_	_	_	_	_	B-PER
-6	Vučićević	_	_	_	_	_	_	_	_	I
+6	Vučićević	_	_	_	_	_	_	_	_	I-PER
 7	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 8	Sales	_	_	_	_	_	_	_	_	O
 9	Manager	_	_	_	_	_	_	_	_	O
 10	Adecco	_	_	_	_	_	_	_	_	B-ORG
-11	Serbia	_	_	_	_	_	_	_	SpaceAfter=No	I
+11	Serbia	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 12	)	)	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 13	,	,	PUNCT	Z	_	_	_	_	_	O
 14	objašnjavajući	_	_	_	_	_	_	_	_	O
@@ -799,14 +799,14 @@
 1	Menadžer	_	_	_	_	_	_	_	_	O
 2	operacija	_	_	_	_	_	_	_	_	O
 3	Adeko	_	_	_	_	_	_	_	_	B-ORG
-4	Srbija	_	_	_	_	_	_	_	_	I
+4	Srbija	_	_	_	_	_	_	_	_	I-ORG
 5	Nataša	_	_	_	_	_	_	_	_	B-PER
-6	Tadić	_	_	_	_	_	_	_	_	I
+6	Tadić	_	_	_	_	_	_	_	_	I-PER
 7	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 8	Operations	_	_	_	_	_	_	_	_	O
 9	Manager	_	_	_	_	_	_	_	_	O
 10	Adecco	_	_	_	_	_	_	_	_	B-ORG
-11	Serbia	_	_	_	_	_	_	_	SpaceAfter=No	I
+11	Serbia	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 12	)	)	PUNCT	Z	_	_	_	_	_	O
 13	kazala	_	_	_	_	_	_	_	_	O
 14	je	_	_	_	_	_	_	_	_	O
@@ -952,9 +952,9 @@
 10	Srbija	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 11	,	,	PUNCT	Z	_	_	_	_	_	O
 12	Crna	_	_	_	_	_	_	_	_	B-LOC
-13	Gora	_	_	_	_	_	_	_	_	I
+13	Gora	_	_	_	_	_	_	_	_	I-LOC
 14	Nataša	_	_	_	_	_	_	_	_	B-PER
-15	Živanović	_	_	_	_	_	_	_	_	I
+15	Živanović	_	_	_	_	_	_	_	_	I-PER
 16	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 17	Head	_	_	_	_	_	_	_	_	O
 18	of	_	_	_	_	_	_	_	_	O

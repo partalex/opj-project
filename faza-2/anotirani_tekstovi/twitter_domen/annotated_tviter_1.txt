@@ -263,7 +263,7 @@
 10	Mrđom	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 11	,	,	PUNCT	Z	_	_	_	_	_	O
 12	Dušanom	_	_	_	_	_	_	_	_	B-PER
-13	Bastom	_	_	_	_	_	_	_	_	I
+13	Bastom	_	_	_	_	_	_	_	_	I-PER
 14	i	_	_	_	_	_	_	_	_	O
 15	Markom	_	_	_	_	_	_	_	_	B-PER
 16	Perovićem	_	_	_	_	_	_	_	SpaceAfter=No	I-PER

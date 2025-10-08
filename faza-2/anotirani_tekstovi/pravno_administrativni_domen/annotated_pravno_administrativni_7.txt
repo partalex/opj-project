@@ -2038,7 +2038,7 @@
 14	4.	_	_	_	_	_	_	_	_	O
 15	Ustava	_	_	_	_	_	_	_	_	O
 16	Republike	_	_	_	_	_	_	_	_	B-LOC
-17	Srbije	_	_	_	_	_	_	_	_	I
+17	Srbije	_	_	_	_	_	_	_	_	I-LOC
 18	i	_	_	_	_	_	_	_	_	O
 19	članova	_	_	_	_	_	_	_	_	O
 20	6.	_	_	_	_	_	_	_	_	O

@@ -5,7 +5,7 @@
 # sent_id = 1.1
 # text = Vrhovni sud, u veću sastavljenom od sudija: Svetlane Tomić Jokić, predsednika veća, Bojane Paunović i Dijane Janković, članova veća, sa savetnikom Irinom Ristić, kao zapisničarem, u krivičnom predmetu okrivljenog AA, zbog produženog krivičnog dela obljuba zloupotrebom položaja iz člana 181. stav 2. u vezi člana 61.
 1	Vrhovni	_	_	_	_	_	_	_	_	B-ORG
-2	sud	_	_	_	_	_	_	_	SpaceAfter=No	I
+2	sud	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 3	,	,	PUNCT	Z	_	_	_	_	_	O
 4	u	_	_	_	_	_	_	_	_	O
 5	veću	_	_	_	_	_	_	_	_	O
@@ -14,17 +14,17 @@
 8	sudija	_	_	_	_	_	_	_	SpaceAfter=No	O
 9	:	:	PUNCT	Z	_	_	_	_	_	O
 10	Svetlane	_	_	_	_	_	_	_	_	B-PER
-11	Tomić	_	_	_	_	_	_	_	_	I
-12	Jokić	_	_	_	_	_	_	_	SpaceAfter=No	I
+11	Tomić	_	_	_	_	_	_	_	_	I-PER
+12	Jokić	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 13	,	,	PUNCT	Z	_	_	_	_	_	O
 14	predsednika	_	_	_	_	_	_	_	_	O
 15	veća	_	_	_	_	_	_	_	SpaceAfter=No	O
 16	,	,	PUNCT	Z	_	_	_	_	_	O
 17	Bojane	_	_	_	_	_	_	_	_	B-PER
-18	Paunović	_	_	_	_	_	_	_	_	I
+18	Paunović	_	_	_	_	_	_	_	_	I-PER
 19	i	_	_	_	_	_	_	_	_	O
 20	Dijane	_	_	_	_	_	_	_	_	B-PER
-21	Janković	_	_	_	_	_	_	_	SpaceAfter=No	I
+21	Janković	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 22	,	,	PUNCT	Z	_	_	_	_	_	O
 23	članova	_	_	_	_	_	_	_	_	O
 24	veća	_	_	_	_	_	_	_	SpaceAfter=No	O
@@ -32,7 +32,7 @@
 26	sa	_	_	_	_	_	_	_	_	O
 27	savetnikom	_	_	_	_	_	_	_	_	O
 28	Irinom	_	_	_	_	_	_	_	_	B-PER
-29	Ristić	_	_	_	_	_	_	_	SpaceAfter=No	I
+29	Ristić	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 30	,	,	PUNCT	Z	_	_	_	_	_	O
 31	kao	_	_	_	_	_	_	_	_	O
 32	zapisničarem	_	_	_	_	_	_	_	SpaceAfter=No	O
@@ -120,7 +120,7 @@
 14	nadležnosti	_	_	_	_	_	_	_	_	O
 15	sa	_	_	_	_	_	_	_	_	O
 16	Višeg	_	_	_	_	_	_	_	_	B-ORG
-17	suda	_	_	_	_	_	_	_	_	I
+17	suda	_	_	_	_	_	_	_	_	I-ORG
 18	u	_	_	_	_	_	_	_	_	O
 19	Beogradu	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 20	,	,	PUNCT	Z	_	_	_	_	_	O
@@ -150,14 +150,14 @@
 1	Javni	_	_	_	_	_	_	_	_	O
 2	tužilac	_	_	_	_	_	_	_	_	O
 3	Višeg	_	_	_	_	_	_	_	_	B-ORG
-4	javnog	_	_	_	_	_	_	_	_	I
-5	tužilaštva	_	_	_	_	_	_	_	_	I
+4	javnog	_	_	_	_	_	_	_	_	I-ORG
+5	tužilaštva	_	_	_	_	_	_	_	_	I-ORG
 6	u	_	_	_	_	_	_	_	_	O
 7	Beogradu	_	_	_	_	_	_	_	_	B-LOC
 8	podneo	_	_	_	_	_	_	_	_	O
 9	je	_	_	_	_	_	_	_	_	O
 10	Višem	_	_	_	_	_	_	_	_	B-ORG
-11	sudu	_	_	_	_	_	_	_	_	I
+11	sudu	_	_	_	_	_	_	_	_	I-ORG
 12	u	_	_	_	_	_	_	_	_	O
 13	Beogradu	_	_	_	_	_	_	_	_	B-LOC
 14	optužnicu	_	_	_	_	_	_	_	_	O
@@ -217,7 +217,7 @@
 16	izuzeće	_	_	_	_	_	_	_	_	O
 17	kompletnog	_	_	_	_	_	_	_	_	O
 18	Višeg	_	_	_	_	_	_	_	_	B-ORG
-19	suda	_	_	_	_	_	_	_	_	I
+19	suda	_	_	_	_	_	_	_	_	I-ORG
 20	u	_	_	_	_	_	_	_	_	O
 21	Beogradu	_	_	_	_	_	_	_	_	B-LOC
 22	i	_	_	_	_	_	_	_	_	O
@@ -225,7 +225,7 @@
 24	za	_	_	_	_	_	_	_	_	O
 25	nenadležnost	_	_	_	_	_	_	_	_	O
 26	Višeg	_	_	_	_	_	_	_	_	B-ORG
-27	suda	_	_	_	_	_	_	_	_	I
+27	suda	_	_	_	_	_	_	_	_	I-ORG
 28	u	_	_	_	_	_	_	_	_	O
 29	Beogradu	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 30	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
@@ -242,7 +242,7 @@
 41	nadležnosti	_	_	_	_	_	_	_	_	O
 42	sa	_	_	_	_	_	_	_	_	O
 43	Višeg	_	_	_	_	_	_	_	_	B-ORG
-44	suda	_	_	_	_	_	_	_	_	I
+44	suda	_	_	_	_	_	_	_	_	I-ORG
 45	u	_	_	_	_	_	_	_	_	O
 46	Beogradu	_	_	_	_	_	_	_	_	B-LOC
 47	u	_	_	_	_	_	_	_	_	O
@@ -251,7 +251,7 @@
 50	295/25	_	_	_	_	_	_	_	_	O
 51	na	_	_	_	_	_	_	_	_	O
 52	Viši	_	_	_	_	_	_	_	_	B-ORG
-53	sud	_	_	_	_	_	_	_	_	I
+53	sud	_	_	_	_	_	_	_	_	I-ORG
 54	u	_	_	_	_	_	_	_	_	O
 55	Smederevu	_	_	_	_	_	_	_	_	B-LOC
 56	ili	_	_	_	_	_	_	_	_	O
@@ -260,7 +260,7 @@
 59	koji	_	_	_	_	_	_	_	_	O
 60	drugi	_	_	_	_	_	_	_	_	O
 61	Viši	_	_	_	_	_	_	_	_	B-ORG
-62	sud	_	_	_	_	_	_	_	_	I
+62	sud	_	_	_	_	_	_	_	_	I-ORG
 63	u	_	_	_	_	_	_	_	_	O
 64	Srbiji	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 65	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
@@ -270,7 +270,7 @@
 # sent_id = 7.1
 # text = Vrhovni sud je razmotrio spise predmeta, pa je našao da je predlog okrivljenog AA nedozvoljen.
 1	Vrhovni	_	_	_	_	_	_	_	_	B-ORG
-2	sud	_	_	_	_	_	_	_	_	I
+2	sud	_	_	_	_	_	_	_	_	I-ORG
 3	je	_	_	_	_	_	_	_	_	O
 4	razmotrio	_	_	_	_	_	_	_	_	O
 5	spise	_	_	_	_	_	_	_	_	O
@@ -358,7 +358,7 @@
 29	ovlašćen	_	_	_	_	_	_	_	SpaceAfter=No	O
 30	,	,	PUNCT	Z	_	_	_	_	_	O
 31	Vrhovni	_	_	_	_	_	_	_	_	B-ORG
-32	sud	_	_	_	_	_	_	_	_	I
+32	sud	_	_	_	_	_	_	_	_	I-ORG
 33	je	_	_	_	_	_	_	_	_	O
 34	predlog	_	_	_	_	_	_	_	_	O
 35	okrivljenog	_	_	_	_	_	_	_	_	O
@@ -387,7 +387,7 @@
 1	ZKP	_	_	_	_	_	_	_	SpaceAfter=No	O
 2	,	,	PUNCT	Z	_	_	_	_	_	O
 3	Vrhovni	_	_	_	_	_	_	_	_	B-ORG
-4	sud	_	_	_	_	_	_	_	_	I
+4	sud	_	_	_	_	_	_	_	_	I-ORG
 5	je	_	_	_	_	_	_	_	_	O
 6	odlučio	_	_	_	_	_	_	_	_	O
 7	kao	_	_	_	_	_	_	_	_	O

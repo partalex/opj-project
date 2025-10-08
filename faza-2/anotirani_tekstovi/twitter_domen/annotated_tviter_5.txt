@@ -8,7 +8,7 @@
 2	realnih	_	_	_	_	_	_	_	_	O
 3	činjenica	_	_	_	_	_	_	_	_	O
 4	o	_	_	_	_	_	_	_	_	O
-5	EU	_	_	_	_	_	_	_	_	O
+5	EU	_	_	_	_	_	_	_	_	B-ORG
 6	koje	_	_	_	_	_	_	_	_	O
 7	će	_	_	_	_	_	_	_	_	O
 8	mnoge	_	_	_	_	_	_	_	_	O
@@ -28,10 +28,10 @@
 # newpar id = 2
 # sent_id = 2.1
 # text = EU ne podržava Vučića - Da nije tako, potvrđuje činjenica da 4 godine Srbija ne beleži bilo kakav napredak.
-1	EU	_	_	_	_	_	_	_	_	O
+1	EU	_	_	_	_	_	_	_	_	B-ORG
 2	ne	_	_	_	_	_	_	_	_	O
 3	podržava	_	_	_	_	_	_	_	_	O
-4	Vučića	_	_	_	_	_	_	_	_	O
+4	Vučića	_	_	_	_	_	_	_	_	B-PER
 5	-	-	PUNCT	Z	_	_	_	_	_	O
 6	Da	_	_	_	_	_	_	_	_	O
 7	nije	_	_	_	_	_	_	_	_	O
@@ -42,7 +42,7 @@
 12	da	_	_	_	_	_	_	_	_	O
 13	4	_	_	_	_	_	_	_	_	O
 14	godine	_	_	_	_	_	_	_	_	O
-15	Srbija	_	_	_	_	_	_	_	_	O
+15	Srbija	_	_	_	_	_	_	_	_	B-ORG
 16	ne	_	_	_	_	_	_	_	_	O
 17	beleži	_	_	_	_	_	_	_	_	O
 18	bilo	_	_	_	_	_	_	_	_	O
@@ -53,11 +53,11 @@
 # sent_id = 2.2
 # text = Izveštaji Evropskog parlamenta i Evropske komisije detaljno i tačno detektuju šta sve ne valja i zbog čega tog napretka nema.
 1	Izveštaji	_	_	_	_	_	_	_	_	O
-2	Evropskog	_	_	_	_	_	_	_	_	O
-3	parlamenta	_	_	_	_	_	_	_	_	O
+2	Evropskog	_	_	_	_	_	_	_	_	B-ORG
+3	parlamenta	_	_	_	_	_	_	_	_	I
 4	i	_	_	_	_	_	_	_	_	O
-5	Evropske	_	_	_	_	_	_	_	_	O
-6	komisije	_	_	_	_	_	_	_	_	O
+5	Evropske	_	_	_	_	_	_	_	_	B-ORG
+6	komisije	_	_	_	_	_	_	_	_	I
 7	detaljno	_	_	_	_	_	_	_	_	O
 8	i	_	_	_	_	_	_	_	_	O
 9	tačno	_	_	_	_	_	_	_	_	O
@@ -108,7 +108,7 @@
 3	sarađuju	_	_	_	_	_	_	_	_	O
 4	sa	_	_	_	_	_	_	_	_	O
 5	vlašću	_	_	_	_	_	_	_	_	O
-6	SNS	_	_	_	_	_	_	_	_	O
+6	SNS	_	_	_	_	_	_	_	_	B-ORG
 7	u	_	_	_	_	_	_	_	_	O
 8	granicama	_	_	_	_	_	_	_	_	O
 9	svojih	_	_	_	_	_	_	_	_	O
@@ -138,7 +138,7 @@
 13	bi	_	_	_	_	_	_	_	_	O
 14	dopustili	_	_	_	_	_	_	_	_	O
 15	da	_	_	_	_	_	_	_	_	O
-16	Srbija	_	_	_	_	_	_	_	_	O
+16	Srbija	_	_	_	_	_	_	_	_	B-ORG
 17	pod	_	_	_	_	_	_	_	_	O
 18	takvim	_	_	_	_	_	_	_	_	O
 19	vođstvom	_	_	_	_	_	_	_	_	O
@@ -165,7 +165,7 @@
 3	vidi	_	_	_	_	_	_	_	_	O
 4	da	_	_	_	_	_	_	_	_	O
 5	je	_	_	_	_	_	_	_	_	O
-6	AV	_	_	_	_	_	_	_	_	O
+6	AV	_	_	_	_	_	_	_	_	B-PER
 7	izopšten	_	_	_	_	_	_	_	_	O
 8	iz	_	_	_	_	_	_	_	_	O
 9	svakog	_	_	_	_	_	_	_	_	O
@@ -174,7 +174,7 @@
 12	odlučivanja	_	_	_	_	_	_	_	_	O
 13	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 14	npr	_	_	_	_	_	_	_	_	O
-15	Bled	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	Bled	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 16	)	)	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 4
@@ -182,7 +182,7 @@
 # text = Gde je EU u pogledu svega što se dešava u Srbiji?
 1	Gde	_	_	_	_	_	_	_	_	O
 2	je	_	_	_	_	_	_	_	_	O
-3	EU	_	_	_	_	_	_	_	_	O
+3	EU	_	_	_	_	_	_	_	_	B-ORG
 4	u	_	_	_	_	_	_	_	_	O
 5	pogledu	_	_	_	_	_	_	_	_	O
 6	svega	_	_	_	_	_	_	_	_	O
@@ -190,7 +190,7 @@
 8	se	_	_	_	_	_	_	_	_	O
 9	dešava	_	_	_	_	_	_	_	_	O
 10	u	_	_	_	_	_	_	_	_	O
-11	Srbiji	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	Srbiji	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
 12	?	?	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 4.2
@@ -203,7 +203,7 @@
 6	Da	_	_	_	_	_	_	_	_	O
 7	bi	_	_	_	_	_	_	_	_	O
 8	se	_	_	_	_	_	_	_	_	O
-9	EU	_	_	_	_	_	_	_	_	O
+9	EU	_	_	_	_	_	_	_	_	B-ORG
 10	aktivno	_	_	_	_	_	_	_	_	O
 11	uključila	_	_	_	_	_	_	_	_	O
 12	u	_	_	_	_	_	_	_	_	O
@@ -266,7 +266,7 @@
 8	pogledu	_	_	_	_	_	_	_	_	O
 9	evropske	_	_	_	_	_	_	_	_	O
 10	budućnosti	_	_	_	_	_	_	_	_	O
-11	Srbije	_	_	_	_	_	_	_	_	O
+11	Srbije	_	_	_	_	_	_	_	_	B-ORG
 12	i	_	_	_	_	_	_	_	_	O
 13	konstruktivnog	_	_	_	_	_	_	_	_	O
 14	doprinosa	_	_	_	_	_	_	_	_	O
@@ -290,7 +290,7 @@
 # newpar id = 8
 # sent_id = 8.1
 # text = EU ne uvodi evropske vrednosti po službenoj dužnosti niti protivno volji.
-1	EU	_	_	_	_	_	_	_	_	O
+1	EU	_	_	_	_	_	_	_	_	B-ORG
 2	ne	_	_	_	_	_	_	_	_	O
 3	uvodi	_	_	_	_	_	_	_	_	O
 4	evropske	_	_	_	_	_	_	_	_	O
@@ -365,7 +365,7 @@
 2	postoji	_	_	_	_	_	_	_	_	O
 3	politički	_	_	_	_	_	_	_	_	O
 4	neutralna	_	_	_	_	_	_	_	_	O
-5	Vlada	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	Vlada	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
 6	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 12
@@ -442,7 +442,7 @@
 5	će	_	_	_	_	_	_	_	_	O
 6	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 7	podržavati	_	_	_	_	_	_	_	_	O
-8	Vučića	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	Vučića	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 9	”	”	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 10	.	.	PUNCT	Z	_	_	_	_	_	O
 

@@ -16,20 +16,20 @@
 10	radnom	_	_	_	_	_	_	_	_	O
 11	zadatku	_	_	_	_	_	_	_	_	O
 12	na	_	_	_	_	_	_	_	_	O
-13	Ozrenu	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	Ozrenu	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 14	,	,	PUNCT	Z	_	_	_	_	_	O
 15	poginuli	_	_	_	_	_	_	_	_	O
 16	su	_	_	_	_	_	_	_	_	O
 17	radnici	_	_	_	_	_	_	_	_	O
-18	Radio	_	_	_	_	_	_	_	_	O
-19	televizije	_	_	_	_	_	_	_	_	O
-20	Republike	_	_	_	_	_	_	_	_	O
-21	Srpske	_	_	_	_	_	_	_	_	O
-22	Saša	_	_	_	_	_	_	_	_	O
-23	Kolevski	_	_	_	_	_	_	_	_	O
+18	Radio	_	_	_	_	_	_	_	_	B-ORG
+19	televizije	_	_	_	_	_	_	_	_	I
+20	Republike	_	_	_	_	_	_	_	_	I
+21	Srpske	_	_	_	_	_	_	_	_	I
+22	Saša	_	_	_	_	_	_	_	_	B-PER
+23	Kolevski	_	_	_	_	_	_	_	_	I
 24	i	_	_	_	_	_	_	_	_	O
-25	Goran	_	_	_	_	_	_	_	_	O
-26	Pejčinović	_	_	_	_	_	_	_	SpaceAfter=No	O
+25	Goran	_	_	_	_	_	_	_	_	B-PER
+26	Pejčinović	_	_	_	_	_	_	_	SpaceAfter=No	I
 27	,	,	PUNCT	Z	_	_	_	_	_	O
 28	na	_	_	_	_	_	_	_	_	O
 29	čiji	_	_	_	_	_	_	_	_	O
@@ -63,7 +63,7 @@
 # newpar id = 3
 # sent_id = 3.1
 # text = RTRS je imala važnu ulogu u ratu i danas u miru neguje kulturu sećanja.
-1	RTRS	_	_	_	_	_	_	_	_	O
+1	RTRS	_	_	_	_	_	_	_	_	B-ORG
 2	je	_	_	_	_	_	_	_	_	O
 3	imala	_	_	_	_	_	_	_	_	O
 4	važnu	_	_	_	_	_	_	_	_	O
@@ -87,9 +87,9 @@
 3	vozilo	_	_	_	_	_	_	_	_	O
 4	kojim	_	_	_	_	_	_	_	_	O
 5	su	_	_	_	_	_	_	_	_	O
-6	Kolevski	_	_	_	_	_	_	_	_	O
+6	Kolevski	_	_	_	_	_	_	_	_	B-PER
 7	i	_	_	_	_	_	_	_	_	O
-8	Pejčinović	_	_	_	_	_	_	_	_	O
+8	Pejčinović	_	_	_	_	_	_	_	_	B-PER
 9	krenuli	_	_	_	_	_	_	_	_	O
 10	na	_	_	_	_	_	_	_	_	O
 11	snimanje	_	_	_	_	_	_	_	_	O
@@ -99,8 +99,8 @@
 15	,	,	PUNCT	Z	_	_	_	_	_	O
 16	pripadnici	_	_	_	_	_	_	_	_	O
 17	takozvane	_	_	_	_	_	_	_	_	O
-18	Armije	_	_	_	_	_	_	_	_	O
-19	BiH	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	Armije	_	_	_	_	_	_	_	_	B-ORG
+19	BiH	_	_	_	_	_	_	_	SpaceAfter=No	I
 20	,	,	PUNCT	Z	_	_	_	_	_	O
 21	ipak	_	_	_	_	_	_	_	_	O
 22	su	_	_	_	_	_	_	_	_	O
@@ -113,20 +113,20 @@
 # text = Priču o Saši Kolevskom, Goranu Pejčinoviću, Mladenu Obradoviću, Ljubi Kerkezu i Draganu Klačaru, radnicima ove medijske kuće stradalim tokom rata na radnim zadacima, Radio televizija Republike Srpske zabeležila je kroz dokumentarni film "Spavajte, mladići".
 1	Priču	_	_	_	_	_	_	_	_	O
 2	o	_	_	_	_	_	_	_	_	O
-3	Saši	_	_	_	_	_	_	_	_	O
-4	Kolevskom	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	Saši	_	_	_	_	_	_	_	_	B-PER
+4	Kolevskom	_	_	_	_	_	_	_	SpaceAfter=No	I
 5	,	,	PUNCT	Z	_	_	_	_	_	O
-6	Goranu	_	_	_	_	_	_	_	_	O
-7	Pejčinoviću	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	Goranu	_	_	_	_	_	_	_	_	B-PER
+7	Pejčinoviću	_	_	_	_	_	_	_	SpaceAfter=No	I
 8	,	,	PUNCT	Z	_	_	_	_	_	O
-9	Mladenu	_	_	_	_	_	_	_	_	O
-10	Obradoviću	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	Mladenu	_	_	_	_	_	_	_	_	B-PER
+10	Obradoviću	_	_	_	_	_	_	_	SpaceAfter=No	I
 11	,	,	PUNCT	Z	_	_	_	_	_	O
-12	Ljubi	_	_	_	_	_	_	_	_	O
-13	Kerkezu	_	_	_	_	_	_	_	_	O
+12	Ljubi	_	_	_	_	_	_	_	_	B-PER
+13	Kerkezu	_	_	_	_	_	_	_	_	I
 14	i	_	_	_	_	_	_	_	_	O
-15	Draganu	_	_	_	_	_	_	_	_	O
-16	Klačaru	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	Draganu	_	_	_	_	_	_	_	_	B-PER
+16	Klačaru	_	_	_	_	_	_	_	SpaceAfter=No	I
 17	,	,	PUNCT	Z	_	_	_	_	_	O
 18	radnicima	_	_	_	_	_	_	_	_	O
 19	ove	_	_	_	_	_	_	_	_	O
@@ -139,10 +139,10 @@
 26	radnim	_	_	_	_	_	_	_	_	O
 27	zadacima	_	_	_	_	_	_	_	SpaceAfter=No	O
 28	,	,	PUNCT	Z	_	_	_	_	_	O
-29	Radio	_	_	_	_	_	_	_	_	O
-30	televizija	_	_	_	_	_	_	_	_	O
-31	Republike	_	_	_	_	_	_	_	_	O
-32	Srpske	_	_	_	_	_	_	_	_	O
+29	Radio	_	_	_	_	_	_	_	_	B-ORG
+30	televizija	_	_	_	_	_	_	_	_	I
+31	Republike	_	_	_	_	_	_	_	_	I
+32	Srpske	_	_	_	_	_	_	_	_	I
 33	zabeležila	_	_	_	_	_	_	_	_	O
 34	je	_	_	_	_	_	_	_	_	O
 35	kroz	_	_	_	_	_	_	_	_	O
@@ -183,7 +183,7 @@
 4	je	_	_	_	_	_	_	_	_	O
 5	i	_	_	_	_	_	_	_	_	O
 6	na	_	_	_	_	_	_	_	_	O
-7	Ozrenu	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	Ozrenu	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 8	,	,	PUNCT	Z	_	_	_	_	_	O
 9	na	_	_	_	_	_	_	_	_	O
 10	mestu	_	_	_	_	_	_	_	_	O

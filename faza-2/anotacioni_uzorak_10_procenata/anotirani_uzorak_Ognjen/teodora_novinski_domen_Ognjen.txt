@@ -1,4 +1,5 @@
 #name = ognjen
+#anotator = teodora
 #domen = novinski
 #url = https://nova.rs/magazin/putovanja/turisti-u-ljubljani-odusevljeni-kreacijom-koju-lokalci-gaze-na-putu-do-ribarnice-ovo-je-svetsko-remek-delo-ali-vam-niko-o-tome-ne-prica/
 # newpar id = 1

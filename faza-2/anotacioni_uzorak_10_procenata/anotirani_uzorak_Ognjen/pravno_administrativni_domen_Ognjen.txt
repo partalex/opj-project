@@ -1,11 +1,12 @@
 #name = ognjen
+#anotator = ognjen
 #domen = pravno_administrativni
 #url = https://www.vrh.sud.rs/sr-lat/kd-2592025-24111
 # newpar id = 1
 # sent_id = 1.1
 # text = Vrhovni sud, u veću sastavljenom od sudija: Svetlane Tomić Jokić, predsednika veća, Bojane Paunović i Dijane Janković, članova veća, sa savetnikom Irinom Ristić, kao zapisničarem, u krivičnom predmetu okrivljenog AA, zbog produženog krivičnog dela obljuba zloupotrebom položaja iz člana 181. stav 2. u vezi člana 61.
-1	Vrhovni	_	_	_	_	_	_	_	_	O
-2	sud	_	_	_	_	_	_	_	SpaceAfter=No	O
+1	Vrhovni	_	_	_	_	_	_	_	_	B-ORG
+2	sud	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 3	,	,	PUNCT	Z	_	_	_	_	_	O
 4	u	_	_	_	_	_	_	_	_	O
 5	veću	_	_	_	_	_	_	_	_	O
@@ -13,26 +14,26 @@
 7	od	_	_	_	_	_	_	_	_	O
 8	sudija	_	_	_	_	_	_	_	SpaceAfter=No	O
 9	:	:	PUNCT	Z	_	_	_	_	_	O
-10	Svetlane	_	_	_	_	_	_	_	_	O
-11	Tomić	_	_	_	_	_	_	_	_	O
-12	Jokić	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	Svetlane	_	_	_	_	_	_	_	_	B-PER
+11	Tomić	_	_	_	_	_	_	_	_	I-PER
+12	Jokić	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 13	,	,	PUNCT	Z	_	_	_	_	_	O
 14	predsednika	_	_	_	_	_	_	_	_	O
 15	veća	_	_	_	_	_	_	_	SpaceAfter=No	O
 16	,	,	PUNCT	Z	_	_	_	_	_	O
-17	Bojane	_	_	_	_	_	_	_	_	O
-18	Paunović	_	_	_	_	_	_	_	_	O
+17	Bojane	_	_	_	_	_	_	_	_	B-PER
+18	Paunović	_	_	_	_	_	_	_	_	I-PER
 19	i	_	_	_	_	_	_	_	_	O
-20	Dijane	_	_	_	_	_	_	_	_	O
-21	Janković	_	_	_	_	_	_	_	SpaceAfter=No	O
+20	Dijane	_	_	_	_	_	_	_	_	B-PER
+21	Janković	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 22	,	,	PUNCT	Z	_	_	_	_	_	O
 23	članova	_	_	_	_	_	_	_	_	O
 24	veća	_	_	_	_	_	_	_	SpaceAfter=No	O
 25	,	,	PUNCT	Z	_	_	_	_	_	O
 26	sa	_	_	_	_	_	_	_	_	O
 27	savetnikom	_	_	_	_	_	_	_	_	O
-28	Irinom	_	_	_	_	_	_	_	_	O
-29	Ristić	_	_	_	_	_	_	_	SpaceAfter=No	O
+28	Irinom	_	_	_	_	_	_	_	_	B-PER
+29	Ristić	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 30	,	,	PUNCT	Z	_	_	_	_	_	O
 31	kao	_	_	_	_	_	_	_	_	O
 32	zapisničarem	_	_	_	_	_	_	_	SpaceAfter=No	O
@@ -41,7 +42,7 @@
 35	krivičnom	_	_	_	_	_	_	_	_	O
 36	predmetu	_	_	_	_	_	_	_	_	O
 37	okrivljenog	_	_	_	_	_	_	_	_	O
-38	AA	_	_	_	_	_	_	_	SpaceAfter=No	O
+38	AA	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 39	,	,	PUNCT	Z	_	_	_	_	_	O
 40	zbog	_	_	_	_	_	_	_	_	O
 41	produženog	_	_	_	_	_	_	_	_	O
@@ -73,8 +74,8 @@
 # newpar id = 2
 # sent_id = 2.1
 # text = Vrhovni sud, u veću sastavljenom od sudija: Milene Rašić, predsednika veća, Gordane Kojić, Aleksandra Stepanovića, Tatjane Vuković i Bojane Paunović, članova veća, sa savetnikom Vrhovnog suda Snežanom Lazin, kao zapisničarem, u krivičnom predmetu okrivljenog AA, zbog krivičnog dela laka telesna povreda iz člana 122. stav 2. u vezi stava 1. Krivičnog zakonika, odlučujući o zahtevu za zaštitu zakonitosti branioca okrivljenog AA - advokata Zlatana Kurtovića, podnetom protiv pravnosnažnih rešenja Osnovnog suda u Novom Pazaru, Sudska jedinica u Tutinu 15K.br.525/23 od 10.10.2024. godine i Osnovnog suda u Novom Pazaru 21Kv.
-1	Vrhovni	_	_	_	_	_	_	_	_	O
-2	sud	_	_	_	_	_	_	_	SpaceAfter=No	O
+1	Vrhovni	_	_	_	_	_	_	_	_	B-ORG
+2	sud	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 3	,	,	PUNCT	Z	_	_	_	_	_	O
 4	u	_	_	_	_	_	_	_	_	O
 5	veću	_	_	_	_	_	_	_	_	O
@@ -82,33 +83,33 @@
 7	od	_	_	_	_	_	_	_	_	O
 8	sudija	_	_	_	_	_	_	_	SpaceAfter=No	O
 9	:	:	PUNCT	Z	_	_	_	_	_	O
-10	Milene	_	_	_	_	_	_	_	_	O
-11	Rašić	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	Milene	_	_	_	_	_	_	_	_	B-PER
+11	Rašić	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 12	,	,	PUNCT	Z	_	_	_	_	_	O
 13	predsednika	_	_	_	_	_	_	_	_	O
 14	veća	_	_	_	_	_	_	_	SpaceAfter=No	O
 15	,	,	PUNCT	Z	_	_	_	_	_	O
-16	Gordane	_	_	_	_	_	_	_	_	O
-17	Kojić	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	Gordane	_	_	_	_	_	_	_	_	B-PER
+17	Kojić	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 18	,	,	PUNCT	Z	_	_	_	_	_	O
-19	Aleksandra	_	_	_	_	_	_	_	_	O
-20	Stepanovića	_	_	_	_	_	_	_	SpaceAfter=No	O
+19	Aleksandra	_	_	_	_	_	_	_	_	B-PER
+20	Stepanovića	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 21	,	,	PUNCT	Z	_	_	_	_	_	O
-22	Tatjane	_	_	_	_	_	_	_	_	O
-23	Vuković	_	_	_	_	_	_	_	_	O
+22	Tatjane	_	_	_	_	_	_	_	_	B-PER
+23	Vuković	_	_	_	_	_	_	_	_	I-PER
 24	i	_	_	_	_	_	_	_	_	O
-25	Bojane	_	_	_	_	_	_	_	_	O
-26	Paunović	_	_	_	_	_	_	_	SpaceAfter=No	O
+25	Bojane	_	_	_	_	_	_	_	_	B-PER
+26	Paunović	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 27	,	,	PUNCT	Z	_	_	_	_	_	O
 28	članova	_	_	_	_	_	_	_	_	O
 29	veća	_	_	_	_	_	_	_	SpaceAfter=No	O
 30	,	,	PUNCT	Z	_	_	_	_	_	O
 31	sa	_	_	_	_	_	_	_	_	O
 32	savetnikom	_	_	_	_	_	_	_	_	O
-33	Vrhovnog	_	_	_	_	_	_	_	_	O
-34	suda	_	_	_	_	_	_	_	_	O
-35	Snežanom	_	_	_	_	_	_	_	_	O
-36	Lazin	_	_	_	_	_	_	_	SpaceAfter=No	O
+33	Vrhovnog	_	_	_	_	_	_	_	_	B-ORG
+34	suda	_	_	_	_	_	_	_	_	I-ORG
+35	Snežanom	_	_	_	_	_	_	_	_	B-PER
+36	Lazin	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 37	,	,	PUNCT	Z	_	_	_	_	_	O
 38	kao	_	_	_	_	_	_	_	_	O
 39	zapisničarem	_	_	_	_	_	_	_	SpaceAfter=No	O
@@ -117,7 +118,7 @@
 42	krivičnom	_	_	_	_	_	_	_	_	O
 43	predmetu	_	_	_	_	_	_	_	_	O
 44	okrivljenog	_	_	_	_	_	_	_	_	O
-45	AA	_	_	_	_	_	_	_	SpaceAfter=No	O
+45	AA	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 46	,	,	PUNCT	Z	_	_	_	_	_	O
 47	zbog	_	_	_	_	_	_	_	_	O
 48	krivičnog	_	_	_	_	_	_	_	_	O
@@ -145,26 +146,26 @@
 70	zakonitosti	_	_	_	_	_	_	_	_	O
 71	branioca	_	_	_	_	_	_	_	_	O
 72	okrivljenog	_	_	_	_	_	_	_	_	O
-73	AA	_	_	_	_	_	_	_	_	O
+73	AA	_	_	_	_	_	_	_	_	B-PER
 74	-	-	PUNCT	Z	_	_	_	_	_	O
 75	advokata	_	_	_	_	_	_	_	_	O
-76	Zlatana	_	_	_	_	_	_	_	_	O
-77	Kurtovića	_	_	_	_	_	_	_	SpaceAfter=No	O
+76	Zlatana	_	_	_	_	_	_	_	_	B-PER
+77	Kurtovića	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 78	,	,	PUNCT	Z	_	_	_	_	_	O
 79	podnetom	_	_	_	_	_	_	_	_	O
 80	protiv	_	_	_	_	_	_	_	_	O
 81	pravnosnažnih	_	_	_	_	_	_	_	_	O
 82	rešenja	_	_	_	_	_	_	_	_	O
-83	Osnovnog	_	_	_	_	_	_	_	_	O
-84	suda	_	_	_	_	_	_	_	_	O
+83	Osnovnog	_	_	_	_	_	_	_	_	B-ORG
+84	suda	_	_	_	_	_	_	_	_	I-ORG
 85	u	_	_	_	_	_	_	_	_	O
-86	Novom	_	_	_	_	_	_	_	_	O
-87	Pazaru	_	_	_	_	_	_	_	SpaceAfter=No	O
+86	Novom	_	_	_	_	_	_	_	_	B-LOC
+87	Pazaru	_	_	_	_	_	_	_	SpaceAfter=No	I-LOC
 88	,	,	PUNCT	Z	_	_	_	_	_	O
 89	Sudska	_	_	_	_	_	_	_	_	O
 90	jedinica	_	_	_	_	_	_	_	_	O
 91	u	_	_	_	_	_	_	_	_	O
-92	Tutinu	_	_	_	_	_	_	_	_	O
+92	Tutinu	_	_	_	_	_	_	_	_	B-LOC
 93	15	_	_	_	_	_	_	_	SpaceAfter=No	O
 94	K.	_	_	_	_	_	_	_	SpaceAfter=No	O
 95	br.	_	_	_	_	_	_	_	SpaceAfter=No	O
@@ -173,11 +174,11 @@
 98	10.10.2024.	_	_	_	_	_	_	_	_	O
 99	godine	_	_	_	_	_	_	_	_	O
 100	i	_	_	_	_	_	_	_	_	O
-101	Osnovnog	_	_	_	_	_	_	_	_	O
-102	suda	_	_	_	_	_	_	_	_	O
+101	Osnovnog	_	_	_	_	_	_	_	_	B-ORG
+102	suda	_	_	_	_	_	_	_	_	I-ORG
 103	u	_	_	_	_	_	_	_	_	O
-104	Novom	_	_	_	_	_	_	_	_	O
-105	Pazaru	_	_	_	_	_	_	_	_	O
+104	Novom	_	_	_	_	_	_	_	_	B-LOC
+105	Pazaru	_	_	_	_	_	_	_	_	I-LOC
 106	21	_	_	_	_	_	_	_	SpaceAfter=No	O
 107	Kv	_	_	_	_	_	_	_	SpaceAfter=No	O
 108	.	.	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
@@ -220,8 +221,8 @@
 # newpar id = 1
 # sent_id = 1.1
 # text = Vrhovni sud, u veću sastavljenom od sudija: dr Ilije Zinodovića, predsednika veća, Dobrile Strajina, Dragane Mirosvljević, Nadežde Vidić i Ivane Rađenović, članova veća, u parnici tužilje-protivtužene AA iz ...
-1	Vrhovni	_	_	_	_	_	_	_	_	O
-2	sud	_	_	_	_	_	_	_	SpaceAfter=No	O
+1	Vrhovni	_	_	_	_	_	_	_	_	B-ORG
+2	sud	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 3	,	,	PUNCT	Z	_	_	_	_	_	O
 4	u	_	_	_	_	_	_	_	_	O
 5	veću	_	_	_	_	_	_	_	_	O
@@ -229,24 +230,24 @@
 7	od	_	_	_	_	_	_	_	_	O
 8	sudija	_	_	_	_	_	_	_	SpaceAfter=No	O
 9	:	:	PUNCT	Z	_	_	_	_	_	O
-10	dr	_	_	_	_	_	_	_	_	O
-11	Ilije	_	_	_	_	_	_	_	_	O
-12	Zinodovića	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	dr	_	_	_	_	_	_	_	_	B-PER
+11	Ilije	_	_	_	_	_	_	_	_	I-PER
+12	Zinodovića	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 13	,	,	PUNCT	Z	_	_	_	_	_	O
 14	predsednika	_	_	_	_	_	_	_	_	O
 15	veća	_	_	_	_	_	_	_	SpaceAfter=No	O
 16	,	,	PUNCT	Z	_	_	_	_	_	O
-17	Dobrile	_	_	_	_	_	_	_	_	O
-18	Strajina	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	Dobrile	_	_	_	_	_	_	_	_	B-PER
+18	Strajina	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 19	,	,	PUNCT	Z	_	_	_	_	_	O
-20	Dragane	_	_	_	_	_	_	_	_	O
-21	Mirosvljević	_	_	_	_	_	_	_	SpaceAfter=No	O
+20	Dragane	_	_	_	_	_	_	_	_	B-PER
+21	Mirosvljević	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 22	,	,	PUNCT	Z	_	_	_	_	_	O
-23	Nadežde	_	_	_	_	_	_	_	_	O
-24	Vidić	_	_	_	_	_	_	_	_	O
+23	Nadežde	_	_	_	_	_	_	_	_	B-PER
+24	Vidić	_	_	_	_	_	_	_	_	I-PER
 25	i	_	_	_	_	_	_	_	_	O
-26	Ivane	_	_	_	_	_	_	_	_	O
-27	Rađenović	_	_	_	_	_	_	_	SpaceAfter=No	O
+26	Ivane	_	_	_	_	_	_	_	_	B-PER
+27	Rađenović	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 28	,	,	PUNCT	Z	_	_	_	_	_	O
 29	članova	_	_	_	_	_	_	_	_	O
 30	veća	_	_	_	_	_	_	_	SpaceAfter=No	O
@@ -254,7 +255,7 @@
 32	u	_	_	_	_	_	_	_	_	O
 33	parnici	_	_	_	_	_	_	_	_	O
 34	tužilje-protivtužene	_	_	_	_	_	_	_	_	O
-35	AA	_	_	_	_	_	_	_	_	O
+35	AA	_	_	_	_	_	_	_	_	B-PER
 36	iz	_	_	_	_	_	_	_	_	O
 37	...	...	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 
@@ -265,8 +266,8 @@
 3	je	_	_	_	_	_	_	_	_	O
 4	punomoćnik	_	_	_	_	_	_	_	_	O
 5	advokat	_	_	_	_	_	_	_	_	O
-6	Ismet	_	_	_	_	_	_	_	_	O
-7	Hadžić	_	_	_	_	_	_	_	_	O
+6	Ismet	_	_	_	_	_	_	_	_	B-PER
+7	Hadžić	_	_	_	_	_	_	_	_	I-PER
 8	iz	_	_	_	_	_	_	_	_	O
 9	...	...	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 
@@ -275,14 +276,14 @@
 1	,	,	PUNCT	Z	_	_	_	_	_	O
 2	protiv	_	_	_	_	_	_	_	_	O
 3	tuženog-protivtužioca	_	_	_	_	_	_	_	_	O
-4	BB	_	_	_	_	_	_	_	_	O
+4	BB	_	_	_	_	_	_	_	_	B-PER
 5	iz	_	_	_	_	_	_	_	_	O
 6	...	...	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 1.4
 # text = i VV iz ...
 1	i	_	_	_	_	_	_	_	_	O
-2	VV	_	_	_	_	_	_	_	_	O
+2	VV	_	_	_	_	_	_	_	_	B-PER
 3	iz	_	_	_	_	_	_	_	_	O
 4	...	...	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 
@@ -294,8 +295,8 @@
 4	zajednički	_	_	_	_	_	_	_	_	O
 5	punomoćnik	_	_	_	_	_	_	_	_	O
 6	advokat	_	_	_	_	_	_	_	_	O
-7	Ermedin	_	_	_	_	_	_	_	_	O
-8	Ćućević	_	_	_	_	_	_	_	_	O
+7	Ermedin	_	_	_	_	_	_	_	_	B-PER
+8	Ćućević	_	_	_	_	_	_	_	_	I-PER
 9	iz	_	_	_	_	_	_	_	_	O
 10	...	...	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 
@@ -307,6 +308,6 @@
 4	tuženog	_	_	_	_	_	_	_	SpaceAfter=No	O
 5	-	-	PUNCT	Z	_	_	_	_	_	O
 6	protivtužioca	_	_	_	_	_	_	_	_	O
-7	BB	_	_	_	_	_	_	_	_	O
+7	BB	_	_	_	_	_	_	_	_	B-PER
 8	iz	_	_	_	_	_	_	_	_	O
 9	...	...	PUNCT	Z	_	_	_	_	SpaceAfter=No	O

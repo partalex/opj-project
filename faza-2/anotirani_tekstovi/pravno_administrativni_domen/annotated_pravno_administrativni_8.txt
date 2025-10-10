@@ -17,6 +17,7 @@
 11	Tomić	_	_	_	_	_	_	_	_	I-PER
 12	Jokić	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 13	,	,	PUNCT	Z	_	_	_	_	_	O
+14	predsednika	_	_	_	_	_	_	_	_	O
 15	veća	_	_	_	_	_	_	_	SpaceAfter=No	O
 16	,	,	PUNCT	Z	_	_	_	_	_	O
 17	Bojane	_	_	_	_	_	_	_	_	B-PER

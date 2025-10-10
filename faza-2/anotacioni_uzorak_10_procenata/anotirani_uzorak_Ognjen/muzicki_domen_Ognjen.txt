@@ -1,4 +1,5 @@
 #name = ognjen
+#anotator = ognjen
 #domen = muzika
 #url = https://balkanrock.com/reportaze/duran-duran-u-milanu-divlji-momci-jos-uvek-na-tronu/
 # newpar id = 1
@@ -15,14 +16,14 @@
 9	,	,	PUNCT	Z	_	_	_	_	_	O
 10	na	_	_	_	_	_	_	_	_	O
 11	hipodromu	_	_	_	_	_	_	_	_	O
-12	San	_	_	_	_	_	_	_	_	O
-13	Siro	_	_	_	_	_	_	_	_	O
+12	San	_	_	_	_	_	_	_	_	B-LOC
+13	Siro	_	_	_	_	_	_	_	_	I-LOC
 14	u	_	_	_	_	_	_	_	_	O
 15	okviru	_	_	_	_	_	_	_	_	O
 16	specifičnog	_	_	_	_	_	_	_	_	O
 17	festivala	_	_	_	_	_	_	_	_	O
-18	I	_	_	_	_	_	_	_	_	O
-19	Days	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	I	_	_	_	_	_	_	_	_	B-ORG
+19	Days	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 20	,	,	PUNCT	Z	_	_	_	_	_	O
 21	na	_	_	_	_	_	_	_	_	O
 22	bini	_	_	_	_	_	_	_	_	O
@@ -57,10 +58,10 @@
 2	,	,	PUNCT	Z	_	_	_	_	_	O
 3	osamnaesti	_	_	_	_	_	_	_	_	O
 4	broj	_	_	_	_	_	_	_	_	O
-5	Out	_	_	_	_	_	_	_	_	O
-6	of	_	_	_	_	_	_	_	_	O
-7	the	_	_	_	_	_	_	_	_	O
-8	Darkness	_	_	_	_	_	_	_	_	O
+5	Out	_	_	_	_	_	_	_	_	B-ORG
+6	of	_	_	_	_	_	_	_	_	I-ORG
+7	the	_	_	_	_	_	_	_	_	I-ORG
+8	Darkness	_	_	_	_	_	_	_	_	I-ORG
 9	fanzina	_	_	_	_	_	_	_	_	O
 10	donosi	_	_	_	_	_	_	_	_	O
 11	svežu	_	_	_	_	_	_	_	_	O
@@ -87,7 +88,7 @@
 32	sa	_	_	_	_	_	_	_	_	O
 33	podgoričkim	_	_	_	_	_	_	_	_	O
 34	dvojcem	_	_	_	_	_	_	_	_	O
-35	Mučin	_	_	_	_	_	_	_	SpaceAfter=No	O
+35	Mučin	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
 36	,	,	PUNCT	Z	_	_	_	_	_	O
 37	koji	_	_	_	_	_	_	_	SpaceAfter=No	O
 38	,	,	PUNCT	Z	_	_	_	_	_	O
@@ -132,8 +133,8 @@
 14	Burana	_	_	_	_	_	_	_	_	O
 15	nemačkog	_	_	_	_	_	_	_	_	O
 16	kompozitora	_	_	_	_	_	_	_	_	O
-17	Karla	_	_	_	_	_	_	_	_	O
-18	Orfa	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	Karla	_	_	_	_	_	_	_	_	B-PER
+18	Orfa	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 19	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 1.2
@@ -208,7 +209,7 @@
 5	krajem	_	_	_	_	_	_	_	_	O
 6	1990-ih	_	_	_	_	_	_	_	SpaceAfter=No	O
 7	,	,	PUNCT	Z	_	_	_	_	_	O
-8	Trivium	_	_	_	_	_	_	_	_	O
+8	Trivium	_	_	_	_	_	_	_	_	B-ORG
 9	su	_	_	_	_	_	_	_	_	O
 10	bili	_	_	_	_	_	_	_	_	O
 11	na	_	_	_	_	_	_	_	_	O

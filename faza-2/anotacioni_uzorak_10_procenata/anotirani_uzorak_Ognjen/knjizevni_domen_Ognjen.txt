@@ -1,4 +1,5 @@
 #name = ognjen
+#anotator = ognjen
 #domen = knjizevni
 #url = https://delfi.rs/_img/artikli/2017/06/postasavili.pdf
 # newpar id = 1
@@ -56,9 +57,9 @@
 12	je	_	_	_	_	_	_	_	_	O
 13	sledovalo	_	_	_	_	_	_	_	_	O
 14	vešanje	_	_	_	_	_	_	_	_	O
-15	Vlaža	_	_	_	_	_	_	_	_	O
-16	fon	_	_	_	_	_	_	_	_	O
-17	Lipvig	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	Vlaža	_	_	_	_	_	_	_	_	B-PER
+16	fon	_	_	_	_	_	_	_	_	I-PER
+17	Lipvig	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 18	,	,	PUNCT	Z	_	_	_	_	_	O
 19	ali	_	_	_	_	_	_	_	_	O
 20	on	_	_	_	_	_	_	_	_	O
@@ -111,8 +112,8 @@
 18	on	_	_	_	_	_	_	_	_	O
 19	je	_	_	_	_	_	_	_	_	O
 20	bio	_	_	_	_	_	_	_	_	O
-21	Albert	_	_	_	_	_	_	_	_	O
-22	Spangler	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	Albert	_	_	_	_	_	_	_	_	B-PER
+22	Spangler	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 23	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 1.4
@@ -205,7 +206,7 @@
 # text = Trenutno je Vlaža bio zaokupljen jednim velikim i teškim kamenom, u koji je u nekom trenutku neko ukucao ogromnu alku, za koju je trebalo zakačiti okove.
 1	Trenutno	_	_	_	_	_	_	_	_	O
 2	je	_	_	_	_	_	_	_	_	O
-3	Vlaža	_	_	_	_	_	_	_	_	O
+3	Vlaža	_	_	_	_	_	_	_	_	B-PER
 4	bio	_	_	_	_	_	_	_	_	O
 5	zaokupljen	_	_	_	_	_	_	_	_	O
 6	jednim	_	_	_	_	_	_	_	_	O
@@ -235,7 +236,7 @@
 
 # sent_id = 1.8
 # text = Vlaža je seo licem prema zidu, ščepao je gvozdenu alku obema rukama, nogama se odupro o kamenove sa obe strane, i povukao.
-1	Vlaža	_	_	_	_	_	_	_	_	O
+1	Vlaža	_	_	_	_	_	_	_	_	B-PER
 2	je	_	_	_	_	_	_	_	_	O
 3	seo	_	_	_	_	_	_	_	_	O
 4	licem	_	_	_	_	_	_	_	_	O
@@ -293,7 +294,7 @@
 
 # sent_id = 1.10
 # text = Vlaža uspe da ga izvadi iz rupe i zaviri unutra.
-1	Vlaža	_	_	_	_	_	_	_	_	O
+1	Vlaža	_	_	_	_	_	_	_	_	B-PER
 2	uspe	_	_	_	_	_	_	_	_	O
 3	da	_	_	_	_	_	_	_	_	O
 4	ga	_	_	_	_	_	_	_	_	O
@@ -312,7 +313,7 @@
 # newpar id = 1
 # sent_id = 1.1
 # text = Kalak obiđe kameni greben i zateturavši se stade ispred tela umirućeg gromoslomljenog.
-1	Kalak	_	_	_	_	_	_	_	_	O
+1	Kalak	_	_	_	_	_	_	_	_	B-PER
 2	obiđe	_	_	_	_	_	_	_	_	O
 3	kameni	_	_	_	_	_	_	_	_	O
 4	greben	_	_	_	_	_	_	_	_	O
@@ -420,7 +421,7 @@
 5	tih	_	_	_	_	_	_	_	_	O
 6	stoleća	_	_	_	_	_	_	_	SpaceAfter=No	O
 7	,	,	PUNCT	Z	_	_	_	_	_	O
-8	Kalak	_	_	_	_	_	_	_	_	O
+8	Kalak	_	_	_	_	_	_	_	_	B-PER
 9	se	_	_	_	_	_	_	_	_	O
 10	naježio	_	_	_	_	_	_	_	_	O
 11	kada	_	_	_	_	_	_	_	_	O

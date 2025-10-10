@@ -1,4 +1,5 @@
 #name = ognjen
+#anotator = teodora
 #domen = knjizevni
 #url = https://delfi.rs/_img/artikli/2017/06/postasavili.pdf
 # newpar id = 1

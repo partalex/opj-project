@@ -1,4 +1,5 @@
 #name = ognjen
+#anotator = teodora
 #domen = pravno_administrativni
 #url = https://www.vrh.sud.rs/sr-lat/kd-2592025-24111
 # newpar id = 1

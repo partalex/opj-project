@@ -1,4 +1,5 @@
 #name = ognjen
+#anotator = teodora
 #domen = muzika
 #url = https://balkanrock.com/reportaze/duran-duran-u-milanu-divlji-momci-jos-uvek-na-tronu/
 # newpar id = 1

@@ -1,4 +1,5 @@
 #name = ognjen
+#anotator = ognjen
 #domen = film_pozoriste
 #url = https://www.narodnopozoriste.rs/lat/predstave/magbet?m=x00c69811999697efe52924e4ba00f765
 # newpar id = 1

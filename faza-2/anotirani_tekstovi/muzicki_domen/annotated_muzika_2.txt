@@ -16,7 +16,7 @@
 10	put	_	_	_	_	_	_	_	_	O
 11	svraćali	_	_	_	_	_	_	_	_	O
 12	u	_	_	_	_	_	_	_	_	O
-13	Beograd	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	Beograd	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 14	,	,	PUNCT	Z	_	_	_	_	_	O
 15	ljubav	_	_	_	_	_	_	_	_	O
 16	prema	_	_	_	_	_	_	_	_	O
@@ -25,8 +25,8 @@
 19	death	_	_	_	_	_	_	_	_	O
 20	metala	_	_	_	_	_	_	_	_	O
 21	sastava	_	_	_	_	_	_	_	_	O
-22	Dying	_	_	_	_	_	_	_	_	O
-23	Fetus	_	_	_	_	_	_	_	_	O
+22	Dying	_	_	_	_	_	_	_	_	B-ORG
+23	Fetus	_	_	_	_	_	_	_	_	I-ORG
 24	ne	_	_	_	_	_	_	_	_	O
 25	jenjava	_	_	_	_	_	_	_	_	O
 26	na	_	_	_	_	_	_	_	_	O
@@ -47,13 +47,13 @@
 9	kapacitet	_	_	_	_	_	_	_	_	O
 10	letnje	_	_	_	_	_	_	_	_	O
 11	bašte	_	_	_	_	_	_	_	_	O
-12	KST-a	_	_	_	_	_	_	_	_	O
+12	KST-a	_	_	_	_	_	_	_	_	B-ORG
 13	govori	_	_	_	_	_	_	_	_	O
 14	sama	_	_	_	_	_	_	_	_	O
 15	za	_	_	_	_	_	_	_	_	O
 16	sebe	_	_	_	_	_	_	_	_	O
 17	–	–	PUNCT	Z	_	_	_	_	_	O
-18	beogradskoj	_	_	_	_	_	_	_	_	O
+18	beogradskoj	_	_	_	_	_	_	_	_	B-LOC
 19	publici	_	_	_	_	_	_	_	SpaceAfter=No	O
 20	,	,	PUNCT	Z	_	_	_	_	_	O
 21	pa	_	_	_	_	_	_	_	_	O
@@ -100,12 +100,12 @@
 19	čiste	_	_	_	_	_	_	_	SpaceAfter=No	O
 20	”	”	PUNCT	Z	_	_	_	_	_	O
 21	vokale	_	_	_	_	_	_	_	_	O
-22	Andyja	_	_	_	_	_	_	_	_	O
-23	Thomasa	_	_	_	_	_	_	_	SpaceAfter=No	O
+22	Andyja	_	_	_	_	_	_	_	_	B-PER
+23	Thomasa	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 24	,	,	PUNCT	Z	_	_	_	_	_	O
 25	basista	_	_	_	_	_	_	_	_	O
-26	Adam	_	_	_	_	_	_	_	_	O
-27	Biggs	_	_	_	_	_	_	_	_	O
+26	Adam	_	_	_	_	_	_	_	_	B-PER
+27	Biggs	_	_	_	_	_	_	_	_	I-PER
 28	je	_	_	_	_	_	_	_	_	O
 29	izvlačio	_	_	_	_	_	_	_	_	O
 30	ostalo	_	_	_	_	_	_	_	SpaceAfter=No	O
@@ -130,8 +130,8 @@
 49	rad	_	_	_	_	_	_	_	_	O
 50	sastava	_	_	_	_	_	_	_	_	O
 51	poput	_	_	_	_	_	_	_	_	O
-52	Fallujah	_	_	_	_	_	_	_	_	O
-53	i	_	_	_	_	_	_	_	_	O
-54	Gojira	_	_	_	_	_	_	_	SpaceAfter=No	O
+52	Fallujah	_	_	_	_	_	_	_	_	B-ORG
+53	i	_	_	_	_	_	_	_	_	I-ORG
+54	Gojira	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 55	.	.	PUNCT	Z	_	_	_	_	_	O
 

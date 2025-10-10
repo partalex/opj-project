@@ -8,16 +8,16 @@
 2	komesarka	_	_	_	_	_	_	_	_	O
 3	za	_	_	_	_	_	_	_	_	O
 4	proširenje	_	_	_	_	_	_	_	_	O
-5	Marta	_	_	_	_	_	_	_	_	O
-6	Kos	_	_	_	_	_	_	_	_	O
+5	Marta	_	_	_	_	_	_	_	_	B-PER
+6	Kos	_	_	_	_	_	_	_	_	I-PER
 7	izjavila	_	_	_	_	_	_	_	_	O
 8	je	_	_	_	_	_	_	_	_	O
 9	danas	_	_	_	_	_	_	_	_	O
 10	da	_	_	_	_	_	_	_	_	O
-11	Evropska	_	_	_	_	_	_	_	_	O
-12	unija	_	_	_	_	_	_	_	_	O
+11	Evropska	_	_	_	_	_	_	_	_	B-ORG
+12	unija	_	_	_	_	_	_	_	_	I-ORG
 13	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
-14	EU	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	EU	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
 15	)	)	PUNCT	Z	_	_	_	_	_	O
 16	ostaje	_	_	_	_	_	_	_	_	O
 17	zabrinuta	_	_	_	_	_	_	_	_	O
@@ -81,12 +81,12 @@
 22	,	,	PUNCT	Z	_	_	_	_	_	O
 23	rekla	_	_	_	_	_	_	_	_	O
 24	je	_	_	_	_	_	_	_	_	O
-25	Kos	_	_	_	_	_	_	_	_	O
+25	Kos	_	_	_	_	_	_	_	_	B-PER
 26	novinarima	_	_	_	_	_	_	_	_	O
 27	na	_	_	_	_	_	_	_	_	O
 28	konferenciji	_	_	_	_	_	_	_	_	O
-29	Saveta	_	_	_	_	_	_	_	_	O
-30	EU	_	_	_	_	_	_	_	_	O
+29	Saveta	_	_	_	_	_	_	_	_	B-ORG
+30	EU	_	_	_	_	_	_	_	_	I-ORG
 31	za	_	_	_	_	_	_	_	_	O
 32	opšte	_	_	_	_	_	_	_	_	O
 33	poslove	_	_	_	_	_	_	_	SpaceAfter=No	O
@@ -105,7 +105,7 @@
 46	vladavini	_	_	_	_	_	_	_	_	O
 47	prava	_	_	_	_	_	_	_	_	O
 48	u	_	_	_	_	_	_	_	_	O
-49	EU	_	_	_	_	_	_	_	SpaceAfter=No	O
+49	EU	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
 50	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 2
@@ -115,7 +115,7 @@
 2	Savetom	_	_	_	_	_	_	_	_	O
 3	trenutno	_	_	_	_	_	_	_	_	O
 4	predsedava	_	_	_	_	_	_	_	_	O
-5	Danska	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	Danska	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 6	,	,	PUNCT	Z	_	_	_	_	_	O
 7	a	_	_	_	_	_	_	_	_	O
 8	njena	_	_	_	_	_	_	_	_	O
@@ -123,8 +123,8 @@
 10	za	_	_	_	_	_	_	_	_	O
 11	evropske	_	_	_	_	_	_	_	_	O
 12	poslove	_	_	_	_	_	_	_	_	O
-13	Mari	_	_	_	_	_	_	_	_	O
-14	Bjere	_	_	_	_	_	_	_	_	O
+13	Mari	_	_	_	_	_	_	_	_	B-PER
+14	Bjere	_	_	_	_	_	_	_	_	I-PER
 15	izjavila	_	_	_	_	_	_	_	_	O
 16	je	_	_	_	_	_	_	_	_	O
 17	da	_	_	_	_	_	_	_	_	O
@@ -132,7 +132,7 @@
 19	vladavina	_	_	_	_	_	_	_	_	O
 20	prava	_	_	_	_	_	_	_	_	O
 21	u	_	_	_	_	_	_	_	_	O
-22	EU	_	_	_	_	_	_	_	_	O
+22	EU	_	_	_	_	_	_	_	_	B-ORG
 23	trenutno	_	_	_	_	_	_	_	_	O
 24	njena	_	_	_	_	_	_	_	_	O
 25	najvažnija	_	_	_	_	_	_	_	_	O
@@ -142,7 +142,7 @@
 # newpar id = 3
 # sent_id = 3.1
 # text = Bjere je rekla da su ministri tokom diskusije razgovarali o stanju vladavine prava u državama Zapadnog Balkana, sa osvrtom na Izveštaj koji je na tu temu Evropska komisija (EK) objavila u julu ove godine.
-1	Bjere	_	_	_	_	_	_	_	_	O
+1	Bjere	_	_	_	_	_	_	_	_	B-PER
 2	je	_	_	_	_	_	_	_	_	O
 3	rekla	_	_	_	_	_	_	_	_	O
 4	da	_	_	_	_	_	_	_	_	O
@@ -157,8 +157,8 @@
 13	prava	_	_	_	_	_	_	_	_	O
 14	u	_	_	_	_	_	_	_	_	O
 15	državama	_	_	_	_	_	_	_	_	O
-16	Zapadnog	_	_	_	_	_	_	_	_	O
-17	Balkana	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	Zapadnog	_	_	_	_	_	_	_	_	B-LOC
+17	Balkana	_	_	_	_	_	_	_	SpaceAfter=No	I-LOC
 18	,	,	PUNCT	Z	_	_	_	_	_	O
 19	sa	_	_	_	_	_	_	_	_	O
 20	osvrtom	_	_	_	_	_	_	_	_	O
@@ -169,10 +169,10 @@
 25	na	_	_	_	_	_	_	_	_	O
 26	tu	_	_	_	_	_	_	_	_	O
 27	temu	_	_	_	_	_	_	_	_	O
-28	Evropska	_	_	_	_	_	_	_	_	O
-29	komisija	_	_	_	_	_	_	_	_	O
+28	Evropska	_	_	_	_	_	_	_	_	B-ORG
+29	komisija	_	_	_	_	_	_	_	_	I-ORG
 30	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
-31	EK	_	_	_	_	_	_	_	SpaceAfter=No	O
+31	EK	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
 32	)	)	PUNCT	Z	_	_	_	_	_	O
 33	objavila	_	_	_	_	_	_	_	_	O
 34	u	_	_	_	_	_	_	_	_	O
@@ -186,8 +186,8 @@
 # text = Na diskusiji Saveta EU učestvovali su i ministri za evropske integracije Srbije, Albanije, Crne Gore i Severne Makedonije, koji se nisu oglasili o ishodu razgovora.
 1	Na	_	_	_	_	_	_	_	_	O
 2	diskusiji	_	_	_	_	_	_	_	_	O
-3	Saveta	_	_	_	_	_	_	_	_	O
-4	EU	_	_	_	_	_	_	_	_	O
+3	Saveta	_	_	_	_	_	_	_	_	B-ORG
+4	EU	_	_	_	_	_	_	_	_	I-ORG
 5	učestvovali	_	_	_	_	_	_	_	_	O
 6	su	_	_	_	_	_	_	_	_	O
 7	i	_	_	_	_	_	_	_	_	O
@@ -195,15 +195,15 @@
 9	za	_	_	_	_	_	_	_	_	O
 10	evropske	_	_	_	_	_	_	_	_	O
 11	integracije	_	_	_	_	_	_	_	_	O
-12	Srbije	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	Srbije	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 13	,	,	PUNCT	Z	_	_	_	_	_	O
-14	Albanije	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	Albanije	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 15	,	,	PUNCT	Z	_	_	_	_	_	O
-16	Crne	_	_	_	_	_	_	_	_	O
-17	Gore	_	_	_	_	_	_	_	_	O
+16	Crne	_	_	_	_	_	_	_	_	B-LOC
+17	Gore	_	_	_	_	_	_	_	_	I-LOC
 18	i	_	_	_	_	_	_	_	_	O
-19	Severne	_	_	_	_	_	_	_	_	O
-20	Makedonije	_	_	_	_	_	_	_	SpaceAfter=No	O
+19	Severne	_	_	_	_	_	_	_	_	B-LOC
+20	Makedonije	_	_	_	_	_	_	_	SpaceAfter=No	I-LOC
 21	,	,	PUNCT	Z	_	_	_	_	_	O
 22	koji	_	_	_	_	_	_	_	_	O
 23	se	_	_	_	_	_	_	_	_	O
@@ -217,13 +217,13 @@
 # newpar id = 5
 # sent_id = 5.1
 # text = Kos je dodala da se članice EU oslanjaju na vladavinu prava, koja podrazumeva nezavisno pravosuđe, izbore i medije, kao i da zemlje koje pretenduju na članstvo, a ne mogu da garantuju određen nivo vladavine prava, ne mogu da uđu u Uniju.
-1	Kos	_	_	_	_	_	_	_	_	O
+1	Kos	_	_	_	_	_	_	_	_	B-PER
 2	je	_	_	_	_	_	_	_	_	O
 3	dodala	_	_	_	_	_	_	_	_	O
 4	da	_	_	_	_	_	_	_	_	O
 5	se	_	_	_	_	_	_	_	_	O
 6	članice	_	_	_	_	_	_	_	_	O
-7	EU	_	_	_	_	_	_	_	_	O
+7	EU	_	_	_	_	_	_	_	_	B-ORG
 8	oslanjaju	_	_	_	_	_	_	_	_	O
 9	na	_	_	_	_	_	_	_	_	O
 10	vladavinu	_	_	_	_	_	_	_	_	O
@@ -275,8 +275,8 @@
 5	da	_	_	_	_	_	_	_	_	O
 6	su	_	_	_	_	_	_	_	_	O
 7	države	_	_	_	_	_	_	_	_	O
-8	Zapadnog	_	_	_	_	_	_	_	_	O
-9	Balkana	_	_	_	_	_	_	_	_	O
+8	Zapadnog	_	_	_	_	_	_	_	_	B-LOC
+9	Balkana	_	_	_	_	_	_	_	_	I-LOC
 10	trenutno	_	_	_	_	_	_	_	_	O
 11	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 12	u	_	_	_	_	_	_	_	_	O
@@ -324,18 +324,18 @@
 20	da	_	_	_	_	_	_	_	_	O
 21	budu	_	_	_	_	_	_	_	_	O
 22	članovi	_	_	_	_	_	_	_	_	O
-23	Unije	_	_	_	_	_	_	_	SpaceAfter=No	O
+23	Unije	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
 24	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 25	,	,	PUNCT	Z	_	_	_	_	_	O
 26	rekla	_	_	_	_	_	_	_	_	O
 27	je	_	_	_	_	_	_	_	_	O
-28	Kos	_	_	_	_	_	_	_	SpaceAfter=No	O
+28	Kos	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 29	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 8
 # sent_id = 8.1
 # text = EK je u Izveštaju o vladavini prava za 2025. godinu u julu za Srbiju navela da je pad nadstrešnice na Železničkoj stanici u Novom Sadu postao simbol slabosti pravnog i institucionalnog poretka Srbije, kao i da je pokrenuo masovne studentske i građanske proteste, koji su doveli do ostavke premijera i pada Vlade.
-1	EK	_	_	_	_	_	_	_	_	O
+1	EK	_	_	_	_	_	_	_	_	B-ORG
 2	je	_	_	_	_	_	_	_	_	O
 3	u	_	_	_	_	_	_	_	_	O
 4	Izveštaju	_	_	_	_	_	_	_	_	O
@@ -348,7 +348,7 @@
 11	u	_	_	_	_	_	_	_	_	O
 12	julu	_	_	_	_	_	_	_	_	O
 13	za	_	_	_	_	_	_	_	_	O
-14	Srbiju	_	_	_	_	_	_	_	_	O
+14	Srbiju	_	_	_	_	_	_	_	_	B-LOC
 15	navela	_	_	_	_	_	_	_	_	O
 16	da	_	_	_	_	_	_	_	_	O
 17	je	_	_	_	_	_	_	_	_	O
@@ -358,8 +358,8 @@
 21	Železničkoj	_	_	_	_	_	_	_	_	O
 22	stanici	_	_	_	_	_	_	_	_	O
 23	u	_	_	_	_	_	_	_	_	O
-24	Novom	_	_	_	_	_	_	_	_	O
-25	Sadu	_	_	_	_	_	_	_	_	O
+24	Novom	_	_	_	_	_	_	_	_	B-LOC
+25	Sadu	_	_	_	_	_	_	_	_	I-LOC
 26	postao	_	_	_	_	_	_	_	_	O
 27	simbol	_	_	_	_	_	_	_	_	O
 28	slabosti	_	_	_	_	_	_	_	_	O
@@ -367,7 +367,7 @@
 30	i	_	_	_	_	_	_	_	_	O
 31	institucionalnog	_	_	_	_	_	_	_	_	O
 32	poretka	_	_	_	_	_	_	_	_	O
-33	Srbije	_	_	_	_	_	_	_	SpaceAfter=No	O
+33	Srbije	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 34	,	,	PUNCT	Z	_	_	_	_	_	O
 35	kao	_	_	_	_	_	_	_	_	O
 36	i	_	_	_	_	_	_	_	_	O
@@ -388,7 +388,7 @@
 51	premijera	_	_	_	_	_	_	_	_	O
 52	i	_	_	_	_	_	_	_	_	O
 53	pada	_	_	_	_	_	_	_	_	O
-54	Vlade	_	_	_	_	_	_	_	SpaceAfter=No	O
+54	Vlade	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
 55	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 9
@@ -414,7 +414,7 @@
 18	,	,	PUNCT	Z	_	_	_	_	_	O
 19	a	_	_	_	_	_	_	_	_	O
 20	za	_	_	_	_	_	_	_	_	O
-21	Srbiju	_	_	_	_	_	_	_	_	O
+21	Srbiju	_	_	_	_	_	_	_	_	B-LOC
 22	se	_	_	_	_	_	_	_	_	O
 23	u	_	_	_	_	_	_	_	_	O
 24	skoro	_	_	_	_	_	_	_	_	O
@@ -435,9 +435,9 @@
 # newpar id = 10
 # sent_id = 10.1
 # text = Bjere i Kos su govorile i o uvođenju dodatnih sankcija Rusiji, a one su zaključile da je potrebna jača evropska podrška Ukrajini, kao i jači otpor Rusiji.
-1	Bjere	_	_	_	_	_	_	_	_	O
+1	Bjere	_	_	_	_	_	_	_	_	B=PER
 2	i	_	_	_	_	_	_	_	_	O
-3	Kos	_	_	_	_	_	_	_	_	O
+3	Kos	_	_	_	_	_	_	_	_	B-PER
 4	su	_	_	_	_	_	_	_	_	O
 5	govorile	_	_	_	_	_	_	_	_	O
 6	i	_	_	_	_	_	_	_	_	O
@@ -445,7 +445,7 @@
 8	uvođenju	_	_	_	_	_	_	_	_	O
 9	dodatnih	_	_	_	_	_	_	_	_	O
 10	sankcija	_	_	_	_	_	_	_	_	O
-11	Rusiji	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	Rusiji	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 12	,	,	PUNCT	Z	_	_	_	_	_	O
 13	a	_	_	_	_	_	_	_	_	O
 14	one	_	_	_	_	_	_	_	_	O
@@ -457,24 +457,24 @@
 20	jača	_	_	_	_	_	_	_	_	O
 21	evropska	_	_	_	_	_	_	_	_	O
 22	podrška	_	_	_	_	_	_	_	_	O
-23	Ukrajini	_	_	_	_	_	_	_	SpaceAfter=No	O
+23	Ukrajini	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 24	,	,	PUNCT	Z	_	_	_	_	_	O
 25	kao	_	_	_	_	_	_	_	_	O
 26	i	_	_	_	_	_	_	_	_	O
 27	jači	_	_	_	_	_	_	_	_	O
 28	otpor	_	_	_	_	_	_	_	_	O
-29	Rusiji	_	_	_	_	_	_	_	SpaceAfter=No	O
+29	Rusiji	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 30	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 11
 # sent_id = 11.1
 # text = „Rusija je pretnja po EU.
 1	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
-2	Rusija	_	_	_	_	_	_	_	_	O
+2	Rusija	_	_	_	_	_	_	_	_	B-LOC
 3	je	_	_	_	_	_	_	_	_	O
 4	pretnja	_	_	_	_	_	_	_	_	O
 5	po	_	_	_	_	_	_	_	_	O
-6	EU	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	EU	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
 7	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 11.2
@@ -493,6 +493,6 @@
 12	,	,	PUNCT	Z	_	_	_	_	_	O
 13	rekla	_	_	_	_	_	_	_	_	O
 14	je	_	_	_	_	_	_	_	_	O
-15	Bjere	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	Bjere	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 16	.	.	PUNCT	Z	_	_	_	_	_	O
 

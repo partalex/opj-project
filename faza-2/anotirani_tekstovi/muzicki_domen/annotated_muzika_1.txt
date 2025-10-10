@@ -14,10 +14,10 @@
 8	program	_	_	_	_	_	_	_	_	O
 9	šestog	_	_	_	_	_	_	_	_	O
 10	izdanja	_	_	_	_	_	_	_	_	O
-11	Hills	_	_	_	_	_	_	_	_	O
-12	of	_	_	_	_	_	_	_	_	O
-13	Rock	_	_	_	_	_	_	_	_	O
-14	festivala	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	Hills	_	_	_	_	_	_	_	_	B-ORG
+12	of	_	_	_	_	_	_	_	_	I-ORG
+13	Rock	_	_	_	_	_	_	_	_	I-ORG
+14	festivala	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 15	,	,	PUNCT	Z	_	_	_	_	_	O
 16	autor	_	_	_	_	_	_	_	_	O
 17	ovih	_	_	_	_	_	_	_	_	O
@@ -53,7 +53,7 @@
 47	kakvo	_	_	_	_	_	_	_	_	O
 48	samo	_	_	_	_	_	_	_	_	O
 49	u	_	_	_	_	_	_	_	_	O
-50	Plovdivu	_	_	_	_	_	_	_	SpaceAfter=No	O
+50	Plovdivu	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 51	,	,	PUNCT	Z	_	_	_	_	_	O
 52	domaćinu	_	_	_	_	_	_	_	_	O
 53	festivala	_	_	_	_	_	_	_	SpaceAfter=No	O
@@ -120,7 +120,7 @@
 23	neke	_	_	_	_	_	_	_	_	O
 24	premijerno	_	_	_	_	_	_	_	_	O
 25	u	_	_	_	_	_	_	_	_	O
-26	Bugarskoj	_	_	_	_	_	_	_	SpaceAfter=No	O
+26	Bugarskoj	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 27	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 2
@@ -145,10 +145,10 @@
 17	/	/	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 18	rap-metal	_	_	_	_	_	_	_	_	O
 19	bendu	_	_	_	_	_	_	_	_	O
-20	Rise	_	_	_	_	_	_	_	_	O
-21	of	_	_	_	_	_	_	_	_	O
-22	the	_	_	_	_	_	_	_	_	O
-23	Northstar	_	_	_	_	_	_	_	SpaceAfter=No	O
+20	Rise	_	_	_	_	_	_	_	_	B-ORG
+21	of	_	_	_	_	_	_	_	_	I-ORG
+22	the	_	_	_	_	_	_	_	_	I-ORG
+23	Northstar	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 24	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 2.2
@@ -158,9 +158,9 @@
 3	na	_	_	_	_	_	_	_	_	O
 4	festivalskom	_	_	_	_	_	_	_	_	O
 5	programu	_	_	_	_	_	_	_	_	O
-6	Hills	_	_	_	_	_	_	_	_	O
-7	of	_	_	_	_	_	_	_	_	O
-8	Rocka	_	_	_	_	_	_	_	_	O
+6	Hills	_	_	_	_	_	_	_	_	B-ORG
+7	of	_	_	_	_	_	_	_	_	I-ORG
+8	Rocka	_	_	_	_	_	_	_	_	I-ORG
 9	kad	_	_	_	_	_	_	_	_	O
 10	se	_	_	_	_	_	_	_	_	O
 11	desila	_	_	_	_	_	_	_	_	O
@@ -213,13 +213,13 @@
 23	rifova	_	_	_	_	_	_	_	_	O
 24	u	_	_	_	_	_	_	_	_	O
 25	maniru	_	_	_	_	_	_	_	_	O
-26	Slipknot	_	_	_	_	_	_	_	_	O
+26	Slipknot	_	_	_	_	_	_	_	_	B-ORG
 27	i	_	_	_	_	_	_	_	_	O
-28	Suicidal	_	_	_	_	_	_	_	_	O
-29	Tendencies	_	_	_	_	_	_	_	SpaceAfter=No	O
+28	Suicidal	_	_	_	_	_	_	_	_	B-ORG
+29	Tendencies	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 30	,	,	PUNCT	Z	_	_	_	_	_	O
 31	začinjen	_	_	_	_	_	_	_	_	O
-32	Slayer	_	_	_	_	_	_	_	_	O
+32	Slayer	_	_	_	_	_	_	_	_	B-ORG
 33	solažama	_	_	_	_	_	_	_	SpaceAfter=No	O
 34	,	,	PUNCT	Z	_	_	_	_	_	O
 35	uz	_	_	_	_	_	_	_	_	O
@@ -239,19 +239,19 @@
 6	američke	_	_	_	_	_	_	_	_	O
 7	rock	_	_	_	_	_	_	_	_	O
 8	veterane	_	_	_	_	_	_	_	_	O
-9	Extreme	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	Extreme	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
 10	,	,	PUNCT	Z	_	_	_	_	_	O
 11	čiji	_	_	_	_	_	_	_	_	O
 12	je	_	_	_	_	_	_	_	_	O
 13	gitarista	_	_	_	_	_	_	_	_	O
-14	Nuno	_	_	_	_	_	_	_	_	O
-15	Bettencount	_	_	_	_	_	_	_	_	O
+14	Nuno	_	_	_	_	_	_	_	_	B-PER
+15	Bettencount	_	_	_	_	_	_	_	_	I-PER
 16	dve	_	_	_	_	_	_	_	_	O
 17	nedelje	_	_	_	_	_	_	_	_	O
 18	ranije	_	_	_	_	_	_	_	_	O
 19	nastupao	_	_	_	_	_	_	_	_	O
 20	na	_	_	_	_	_	_	_	_	O
-21	Ozzyjevom	_	_	_	_	_	_	_	_	O
+21	Ozzyjevom	_	_	_	_	_	_	_	_	B-PER
 22	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 23	Back	_	_	_	_	_	_	_	_	O
 24	to	_	_	_	_	_	_	_	_	O
@@ -261,7 +261,7 @@
 28	oproštajnom	_	_	_	_	_	_	_	_	O
 29	koncertu	_	_	_	_	_	_	_	_	O
 30	u	_	_	_	_	_	_	_	_	O
-31	Birmingemu	_	_	_	_	_	_	_	SpaceAfter=No	O
+31	Birmingemu	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 32	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 3.2
@@ -270,7 +270,7 @@
 2	je	_	_	_	_	_	_	_	_	O
 3	reč	_	_	_	_	_	_	_	_	O
 4	o	_	_	_	_	_	_	_	_	O
-5	Ozzyju	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	Ozzyju	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 6	,	,	PUNCT	Z	_	_	_	_	_	O
 7	skoro	_	_	_	_	_	_	_	_	O
 8	svaki	_	_	_	_	_	_	_	_	O
@@ -293,9 +293,9 @@
 25	,	,	PUNCT	Z	_	_	_	_	_	O
 26	ili	_	_	_	_	_	_	_	_	O
 27	sviranjem	_	_	_	_	_	_	_	_	O
-28	Sabbath	_	_	_	_	_	_	_	_	O
+28	Sabbath	_	_	_	_	_	_	_	_	B-ORG
 29	ili	_	_	_	_	_	_	_	_	O
-30	Ozzy	_	_	_	_	_	_	_	_	O
+30	Ozzy	_	_	_	_	_	_	_	_	B-PER
 31	obrada	_	_	_	_	_	_	_	SpaceAfter=No	O
 32	.	.	PUNCT	Z	_	_	_	_	_	O
 
@@ -307,7 +307,7 @@
 4	se	_	_	_	_	_	_	_	_	O
 5	vratiti	_	_	_	_	_	_	_	_	O
 6	na	_	_	_	_	_	_	_	_	O
-7	Extreme	_	_	_	_	_	_	_	_	O
+7	Extreme	_	_	_	_	_	_	_	_	B-ORG
 8	–	–	PUNCT	Z	_	_	_	_	_	O
 9	jedan	_	_	_	_	_	_	_	_	O
 10	od	_	_	_	_	_	_	_	_	O
@@ -323,12 +323,12 @@
 20	uz	_	_	_	_	_	_	_	_	O
 21	rame	_	_	_	_	_	_	_	_	O
 22	sa	_	_	_	_	_	_	_	_	O
-23	Guns	_	_	_	_	_	_	_	_	O
-24	‘	‘	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
-25	n	_	_	_	_	_	_	_	_	O
-26	Roses	_	_	_	_	_	_	_	_	O
+23	Guns	_	_	_	_	_	_	_	_	B-ORG
+24	‘	‘	PUNCT	Z	_	_	_	_	SpaceAfter=No	I-ORG
+25	n	_	_	_	_	_	_	_	_	I-ORG
+26	Roses	_	_	_	_	_	_	_	_	I-ORG
 27	i	_	_	_	_	_	_	_	_	O
-28	Aerosmith	_	_	_	_	_	_	_	SpaceAfter=No	O
+28	Aerosmith	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
 29	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 3.4
@@ -342,8 +342,8 @@
 7	festival	_	_	_	_	_	_	_	_	O
 8	održava	_	_	_	_	_	_	_	_	O
 9	u	_	_	_	_	_	_	_	_	O
-10	Las	_	_	_	_	_	_	_	_	O
-11	Vegasu	_	_	_	_	_	_	_	_	O
+10	Las	_	_	_	_	_	_	_	_	B-LOC
+11	Vegasu	_	_	_	_	_	_	_	_	I-LOC
 12	ispod	_	_	_	_	_	_	_	_	O
 13	šarenih	_	_	_	_	_	_	_	_	O
 14	neonskih	_	_	_	_	_	_	_	_	O
@@ -421,7 +421,7 @@
 86	”	”	PUNCT	Z	_	_	_	_	_	O
 87	s	_	_	_	_	_	_	_	_	O
 88	prvog	_	_	_	_	_	_	_	_	O
-89	Ozzyjevog	_	_	_	_	_	_	_	_	O
+89	Ozzyjevog	_	_	_	_	_	_	_	_	B-PER
 90	albuma	_	_	_	_	_	_	_	SpaceAfter=No	O
 91	.	.	PUNCT	Z	_	_	_	_	_	O
 
@@ -440,12 +440,12 @@
 10	uz	_	_	_	_	_	_	_	_	O
 11	koji	_	_	_	_	_	_	_	_	O
 12	se	_	_	_	_	_	_	_	_	O
-13	Fear	_	_	_	_	_	_	_	_	O
-14	Factory	_	_	_	_	_	_	_	_	O
+13	Fear	_	_	_	_	_	_	_	_	B-ORG
+14	Factory	_	_	_	_	_	_	_	_	I-ORG
 15	pojavljuje	_	_	_	_	_	_	_	_	O
 16	premijerno	_	_	_	_	_	_	_	_	O
 17	u	_	_	_	_	_	_	_	_	O
-18	Bugarskoj	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	Bugarskoj	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 19	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 4.2
@@ -466,7 +466,7 @@
 14	prošla	_	_	_	_	_	_	_	_	O
 15	i	_	_	_	_	_	_	_	_	O
 16	kroz	_	_	_	_	_	_	_	_	O
-17	Beograd	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	Beograd	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 18	,	,	PUNCT	Z	_	_	_	_	_	O
 19	i	_	_	_	_	_	_	_	_	O
 20	obeležava	_	_	_	_	_	_	_	_	O
@@ -581,26 +581,26 @@
 6	ostao	_	_	_	_	_	_	_	_	O
 7	samo	_	_	_	_	_	_	_	_	O
 8	gitarista	_	_	_	_	_	_	_	_	O
-9	Dino	_	_	_	_	_	_	_	_	O
-10	Cazares	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	Dino	_	_	_	_	_	_	_	_	B-PER
+10	Cazares	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 11	,	,	PUNCT	Z	_	_	_	_	_	O
 12	a	_	_	_	_	_	_	_	_	O
 13	pored	_	_	_	_	_	_	_	_	O
 14	njega	_	_	_	_	_	_	_	_	O
 15	su	_	_	_	_	_	_	_	_	O
 16	tur-basista	_	_	_	_	_	_	_	_	O
-17	Ricky	_	_	_	_	_	_	_	_	O
-18	Bonanzza	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	Ricky	_	_	_	_	_	_	_	_	B-PER
+18	Bonanzza	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 19	,	,	PUNCT	Z	_	_	_	_	_	O
 20	bubnjar	_	_	_	_	_	_	_	_	O
-21	Pete	_	_	_	_	_	_	_	_	O
-22	Webber	_	_	_	_	_	_	_	_	O
+21	Pete	_	_	_	_	_	_	_	_	B-PER
+22	Webber	_	_	_	_	_	_	_	_	I-PER
 23	i	_	_	_	_	_	_	_	_	O
 24	novi	_	_	_	_	_	_	_	_	O
 25	pevač	_	_	_	_	_	_	_	SpaceAfter=No	O
 26	,	,	PUNCT	Z	_	_	_	_	_	O
-27	Milo	_	_	_	_	_	_	_	_	O
-28	Silvestro	_	_	_	_	_	_	_	SpaceAfter=No	O
+27	Milo	_	_	_	_	_	_	_	_	B-PER
+28	Silvestro	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 29	,	,	PUNCT	Z	_	_	_	_	_	O
 30	koji	_	_	_	_	_	_	_	_	O
 31	solidno	_	_	_	_	_	_	_	_	O
@@ -617,7 +617,7 @@
 42	nekako	_	_	_	_	_	_	_	_	O
 43	nema	_	_	_	_	_	_	_	_	O
 44	harizmu	_	_	_	_	_	_	_	_	O
-45	Burtona	_	_	_	_	_	_	_	SpaceAfter=No	O
+45	Burtona	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 46	,	,	PUNCT	Z	_	_	_	_	_	O
 47	originalnog	_	_	_	_	_	_	_	_	O
 48	pevača	_	_	_	_	_	_	_	SpaceAfter=No	O
@@ -626,7 +626,7 @@
 51	je	_	_	_	_	_	_	_	_	O
 52	nastupao	_	_	_	_	_	_	_	_	O
 53	na	_	_	_	_	_	_	_	_	O
-54	Exit-u	_	_	_	_	_	_	_	_	O
+54	Exit-u	_	_	_	_	_	_	_	_	B-ORG
 55	pre	_	_	_	_	_	_	_	_	O
 56	deset	_	_	_	_	_	_	_	_	O
 57	godina	_	_	_	_	_	_	_	SpaceAfter=No	O
@@ -634,13 +634,13 @@
 
 # sent_id = 4.7
 # text = Burton je Burton, lice Fear Factoryja, uprkos svojim vokalnih manama.
-1	Burton	_	_	_	_	_	_	_	_	O
+1	Burton	_	_	_	_	_	_	_	_	B-PER
 2	je	_	_	_	_	_	_	_	_	O
-3	Burton	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	Burton	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 4	,	,	PUNCT	Z	_	_	_	_	_	O
 5	lice	_	_	_	_	_	_	_	_	O
-6	Fear	_	_	_	_	_	_	_	_	O
-7	Factoryja	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	Fear	_	_	_	_	_	_	_	_	B-ORG
+7	Factoryja	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 8	,	,	PUNCT	Z	_	_	_	_	_	O
 9	uprkos	_	_	_	_	_	_	_	_	O
 10	svojim	_	_	_	_	_	_	_	_	O
@@ -650,7 +650,7 @@
 
 # sent_id = 4.8
 # text = Bend je odsvirao ceo “Demanufacture” redom, а kao finale se mogla čuti pesma “Archetype” s istoimenog albuma izdatog 2004.
-1	Bend	_	_	_	_	_	_	_	_	O
+1	Bend	_	_	_	_	_	_	_	_	B-ORG
 2	je	_	_	_	_	_	_	_	_	O
 3	odsvirao	_	_	_	_	_	_	_	_	O
 4	ceo	_	_	_	_	_	_	_	_	O
@@ -685,29 +685,29 @@
 5	i	_	_	_	_	_	_	_	_	O
 6	tokom	_	_	_	_	_	_	_	_	O
 7	nastupa	_	_	_	_	_	_	_	_	O
-8	While	_	_	_	_	_	_	_	_	O
-9	She	_	_	_	_	_	_	_	_	O
-10	Sleeps	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	While	_	_	_	_	_	_	_	_	B-ORG
+9	She	_	_	_	_	_	_	_	_	I-ORG
+10	Sleeps	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 11	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 5.2
 # text = Metalcore bend iz Šefilda je poznat publici u Bugarskoj iz par navrata, a u Beogradu su se mogli videti jednom 2016. godine.
 1	Metalcore	_	_	_	_	_	_	_	_	O
-2	bend	_	_	_	_	_	_	_	_	O
+2	bend	_	_	_	_	_	_	_	_	B-ORG
 3	iz	_	_	_	_	_	_	_	_	O
-4	Šefilda	_	_	_	_	_	_	_	_	O
+4	Šefilda	_	_	_	_	_	_	_	_	B-LOC
 5	je	_	_	_	_	_	_	_	_	O
 6	poznat	_	_	_	_	_	_	_	_	O
 7	publici	_	_	_	_	_	_	_	_	O
 8	u	_	_	_	_	_	_	_	_	O
-9	Bugarskoj	_	_	_	_	_	_	_	_	O
+9	Bugarskoj	_	_	_	_	_	_	_	_	B-LOC
 10	iz	_	_	_	_	_	_	_	_	O
 11	par	_	_	_	_	_	_	_	_	O
 12	navrata	_	_	_	_	_	_	_	SpaceAfter=No	O
 13	,	,	PUNCT	Z	_	_	_	_	_	O
 14	a	_	_	_	_	_	_	_	_	O
 15	u	_	_	_	_	_	_	_	_	O
-16	Beogradu	_	_	_	_	_	_	_	_	O
+16	Beogradu	_	_	_	_	_	_	_	_	B-LOC
 17	su	_	_	_	_	_	_	_	_	O
 18	se	_	_	_	_	_	_	_	_	O
 19	mogli	_	_	_	_	_	_	_	_	O
@@ -721,7 +721,7 @@
 # text = Zapravo, bend je popularniji kod mlađeg dela publike i uvek nudi energičan šou, ispunjen moshovanjem, circle pitovima, wall of deathovima, skakanjem i zajedničkim pevanjem.
 1	Zapravo	_	_	_	_	_	_	_	SpaceAfter=No	O
 2	,	,	PUNCT	Z	_	_	_	_	_	O
-3	bend	_	_	_	_	_	_	_	_	O
+3	bend	_	_	_	_	_	_	_	_	B-ORG
 4	je	_	_	_	_	_	_	_	_	O
 5	popularniji	_	_	_	_	_	_	_	_	O
 6	kod	_	_	_	_	_	_	_	_	O

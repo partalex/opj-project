@@ -9,9 +9,9 @@
 3	godine	_	_	_	_	_	_	_	_	O
 4	do	_	_	_	_	_	_	_	_	O
 5	danas	_	_	_	_	_	_	_	_	O
-6	Državna	_	_	_	_	_	_	_	_	O
-7	revizorska	_	_	_	_	_	_	_	_	O
-8	institucija	_	_	_	_	_	_	_	_	O
+6	Državna	_	_	_	_	_	_	_	_	B-ORG
+7	revizorska	_	_	_	_	_	_	_	_	I-ORG
+8	institucija	_	_	_	_	_	_	_	_	I-ORG
 9	podnela	_	_	_	_	_	_	_	_	O
 10	je	_	_	_	_	_	_	_	_	O
 11	zahteve	_	_	_	_	_	_	_	_	O
@@ -37,19 +37,19 @@
 6	sadašnji	_	_	_	_	_	_	_	_	O
 7	ministar	_	_	_	_	_	_	_	_	O
 8	pravde	_	_	_	_	_	_	_	_	O
-9	Nenad	_	_	_	_	_	_	_	_	O
-10	Vujić	_	_	_	_	_	_	_	_	O
+9	Nenad	_	_	_	_	_	_	_	_	B-PER
+10	Vujić	_	_	_	_	_	_	_	_	I-PER
 11	-	-	PUNCT	Z	_	_	_	_	_	O
 12	tada	_	_	_	_	_	_	_	_	O
 13	na	_	_	_	_	_	_	_	_	O
 14	čelu	_	_	_	_	_	_	_	_	O
-15	Pravosudne	_	_	_	_	_	_	_	_	O
-16	akademije	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	Pravosudne	_	_	_	_	_	_	_	_	B-ORG
+16	akademije	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 17	,	,	PUNCT	Z	_	_	_	_	_	O
 18	čiji	_	_	_	_	_	_	_	_	O
 19	je	_	_	_	_	_	_	_	_	O
-20	Upravni	_	_	_	_	_	_	_	_	O
-21	odbor	_	_	_	_	_	_	_	_	O
+20	Upravni	_	_	_	_	_	_	_	_	B-ORG
+21	odbor	_	_	_	_	_	_	_	_	I-ORG
 22	-	-	PUNCT	Z	_	_	_	_	_	O
 23	odbio	_	_	_	_	_	_	_	_	O
 24	zahtev	_	_	_	_	_	_	_	_	O
@@ -59,9 +59,9 @@
 # sent_id = 1.3
 # text = Gradonačelnik Beograda Aleksandar Šapić nije jedini javni funkcioner čiju je smenu tražila Državna revizorska institucija.
 1	Gradonačelnik	_	_	_	_	_	_	_	_	O
-2	Beograda	_	_	_	_	_	_	_	_	O
-3	Aleksandar	_	_	_	_	_	_	_	_	O
-4	Šapić	_	_	_	_	_	_	_	_	O
+2	Beograda	_	_	_	_	_	_	_	_	B-LOC
+3	Aleksandar	_	_	_	_	_	_	_	_	B-PER
+4	Šapić	_	_	_	_	_	_	_	_	I-PER
 5	nije	_	_	_	_	_	_	_	_	O
 6	jedini	_	_	_	_	_	_	_	_	O
 7	javni	_	_	_	_	_	_	_	_	O
@@ -70,9 +70,9 @@
 10	je	_	_	_	_	_	_	_	_	O
 11	smenu	_	_	_	_	_	_	_	_	O
 12	tražila	_	_	_	_	_	_	_	_	O
-13	Državna	_	_	_	_	_	_	_	_	O
-14	revizorska	_	_	_	_	_	_	_	_	O
-15	institucija	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	Državna	_	_	_	_	_	_	_	_	B-ORG
+14	revizorska	_	_	_	_	_	_	_	_	I-ORG
+15	institucija	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 16	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 2
@@ -86,7 +86,7 @@
 6	do	_	_	_	_	_	_	_	_	O
 7	2025.	_	_	_	_	_	_	_	_	O
 8	godine	_	_	_	_	_	_	_	_	O
-9	DRI	_	_	_	_	_	_	_	_	O
+9	DRI	_	_	_	_	_	_	_	_	B-ORG
 10	je	_	_	_	_	_	_	_	_	O
 11	uputila	_	_	_	_	_	_	_	_	O
 12	ukupno	_	_	_	_	_	_	_	_	O
@@ -103,56 +103,56 @@
 23	direktora	_	_	_	_	_	_	_	SpaceAfter=No	O
 24	)	)	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 25	:	:	PUNCT	Z	_	_	_	_	_	O
-26	Instituta	_	_	_	_	_	_	_	_	O
-27	ekonomskih	_	_	_	_	_	_	_	_	O
-28	nauka	_	_	_	_	_	_	_	SpaceAfter=No	O
+26	Instituta	_	_	_	_	_	_	_	_	B-ORG
+27	ekonomskih	_	_	_	_	_	_	_	_	I-ORG
+28	nauka	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 29	,	,	PUNCT	Z	_	_	_	_	_	O
-30	Specijalne	_	_	_	_	_	_	_	_	O
-31	bolnice	_	_	_	_	_	_	_	_	O
-32	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
-33	Rusanda	_	_	_	_	_	_	_	SpaceAfter=No	O
-34	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+30	Specijalne	_	_	_	_	_	_	_	_	B-ORG
+31	bolnice	_	_	_	_	_	_	_	_	I-ORG
+32	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	I-ORG
+33	Rusanda	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+34	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	I-ORG
 35	,	,	PUNCT	Z	_	_	_	_	_	O
-36	Javnog	_	_	_	_	_	_	_	_	O
-37	preduzeća	_	_	_	_	_	_	_	_	O
-38	Nacionalni	_	_	_	_	_	_	_	_	O
-39	park	_	_	_	_	_	_	_	_	O
-40	Fruška	_	_	_	_	_	_	_	_	O
-41	gora	_	_	_	_	_	_	_	SpaceAfter=No	O
+36	Javnog	_	_	_	_	_	_	_	_	B-ORG
+37	preduzeća	_	_	_	_	_	_	_	_	I-ORG
+38	Nacionalni	_	_	_	_	_	_	_	_	I-ORG
+39	park	_	_	_	_	_	_	_	_	I-ORG
+40	Fruška	_	_	_	_	_	_	_	_	I-ORG
+41	gora	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 42	,	,	PUNCT	Z	_	_	_	_	_	O
-43	Pravosudne	_	_	_	_	_	_	_	_	O
-44	akademije	_	_	_	_	_	_	_	SpaceAfter=No	O
+43	Pravosudne	_	_	_	_	_	_	_	_	B-ORG
+44	akademije	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 45	,	,	PUNCT	Z	_	_	_	_	_	O
-46	Zavoda	_	_	_	_	_	_	_	_	O
-47	za	_	_	_	_	_	_	_	_	O
-48	izgradnju	_	_	_	_	_	_	_	_	O
-49	grada	_	_	_	_	_	_	_	_	O
-50	Beograda	_	_	_	_	_	_	_	SpaceAfter=No	O
+46	Zavoda	_	_	_	_	_	_	_	_	B-ORG
+47	za	_	_	_	_	_	_	_	_	I-ORG
+48	izgradnju	_	_	_	_	_	_	_	_	I-ORG
+49	grada	_	_	_	_	_	_	_	_	I-ORG
+50	Beograda	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 51	,	,	PUNCT	Z	_	_	_	_	_	O
-52	Zdravstvenog	_	_	_	_	_	_	_	_	O
-53	centra	_	_	_	_	_	_	_	_	O
-54	Surdulica	_	_	_	_	_	_	_	SpaceAfter=No	O
+52	Zdravstvenog	_	_	_	_	_	_	_	_	B-ORG
+53	centra	_	_	_	_	_	_	_	_	I-ORG
+54	Surdulica	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 55	,	,	PUNCT	Z	_	_	_	_	_	O
-56	Republičke	_	_	_	_	_	_	_	_	O
-57	direkcije	_	_	_	_	_	_	_	_	O
-58	za	_	_	_	_	_	_	_	_	O
-59	robne	_	_	_	_	_	_	_	_	O
-60	rezerve	_	_	_	_	_	_	_	SpaceAfter=No	O
+56	Republičke	_	_	_	_	_	_	_	_	B-ORG
+57	direkcije	_	_	_	_	_	_	_	_	I-ORG
+58	za	_	_	_	_	_	_	_	_	I-ORG
+59	robne	_	_	_	_	_	_	_	_	I-ORG
+60	rezerve	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 61	,	,	PUNCT	Z	_	_	_	_	_	O
-62	Saobraćajnog	_	_	_	_	_	_	_	_	O
-63	preduzeća	_	_	_	_	_	_	_	_	O
-64	Lasta	_	_	_	_	_	_	_	_	O
+62	Saobraćajnog	_	_	_	_	_	_	_	_	B-ORG
+63	preduzeća	_	_	_	_	_	_	_	_	I-ORG
+64	Lasta	_	_	_	_	_	_	_	_	I-ORG
 65	i	_	_	_	_	_	_	_	_	O
-66	Grada	_	_	_	_	_	_	_	_	O
-67	Beograda	_	_	_	_	_	_	_	SpaceAfter=No	O
+66	Grada	_	_	_	_	_	_	_	_	B-ORG
+67	Beograda	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 68	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 69	,	,	PUNCT	Z	_	_	_	_	_	O
 70	kažu	_	_	_	_	_	_	_	_	O
 71	u	_	_	_	_	_	_	_	_	O
-72	DRI	_	_	_	_	_	_	_	_	O
+72	DRI	_	_	_	_	_	_	_	_	B-ORG
 73	za	_	_	_	_	_	_	_	_	O
 74	portal	_	_	_	_	_	_	_	_	O
-75	N1	_	_	_	_	_	_	_	SpaceAfter=No	O
+75	N1	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
 76	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 3
@@ -188,18 +188,18 @@
 2	je	_	_	_	_	_	_	_	_	O
 3	o	_	_	_	_	_	_	_	_	O
 4	direktoru	_	_	_	_	_	_	_	_	O
-5	Specijalne	_	_	_	_	_	_	_	_	O
-6	bolnice	_	_	_	_	_	_	_	_	O
-7	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
-8	Rusanda	_	_	_	_	_	_	_	SpaceAfter=No	O
-9	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+5	Specijalne	_	_	_	_	_	_	_	_	B-ORG
+6	bolnice	_	_	_	_	_	_	_	_	I-ORG
+7	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	I-ORG
+8	Rusanda	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+9	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	I-ORG
 10	,	,	PUNCT	Z	_	_	_	_	_	O
 11	dok	_	_	_	_	_	_	_	_	O
 12	je	_	_	_	_	_	_	_	_	O
 13	direktor	_	_	_	_	_	_	_	_	O
-14	Saobraćajnog	_	_	_	_	_	_	_	_	O
-15	preduzeća	_	_	_	_	_	_	_	_	O
-16	Lasta	_	_	_	_	_	_	_	_	O
+14	Saobraćajnog	_	_	_	_	_	_	_	_	B-ORG
+15	preduzeća	_	_	_	_	_	_	_	_	I-ORG
+16	Lasta	_	_	_	_	_	_	_	_	I-ORG
 17	sam	_	_	_	_	_	_	_	_	O
 18	podneo	_	_	_	_	_	_	_	_	O
 19	ostavku	_	_	_	_	_	_	_	SpaceAfter=No	O
@@ -216,21 +216,21 @@
 6	ovoj	_	_	_	_	_	_	_	_	O
 7	listi	_	_	_	_	_	_	_	_	O
 8	i	_	_	_	_	_	_	_	_	O
-9	Nenad	_	_	_	_	_	_	_	_	O
-10	Vujić	_	_	_	_	_	_	_	_	O
+9	Nenad	_	_	_	_	_	_	_	_	B-PER
+10	Vujić	_	_	_	_	_	_	_	_	I-PER
 11	-	-	PUNCT	Z	_	_	_	_	_	O
 12	tada	_	_	_	_	_	_	_	_	O
 13	direktor	_	_	_	_	_	_	_	_	O
-14	Pravosudne	_	_	_	_	_	_	_	_	O
-15	akademije	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	Pravosudne	_	_	_	_	_	_	_	_	B-ORG
+15	akademije	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 16	,	,	PUNCT	Z	_	_	_	_	_	O
 17	čiji	_	_	_	_	_	_	_	_	O
 18	je	_	_	_	_	_	_	_	_	O
-19	Upravni	_	_	_	_	_	_	_	_	O
-20	odbor	_	_	_	_	_	_	_	_	O
+19	Upravni	_	_	_	_	_	_	_	_	B-ORG
+20	odbor	_	_	_	_	_	_	_	_	I-ORG
 21	odbio	_	_	_	_	_	_	_	_	O
 22	predlog	_	_	_	_	_	_	_	_	O
-23	DRI	_	_	_	_	_	_	_	_	O
+23	DRI	_	_	_	_	_	_	_	_	B-ORG
 24	i	_	_	_	_	_	_	_	_	O
 25	nije	_	_	_	_	_	_	_	_	O
 26	ga	_	_	_	_	_	_	_	_	O
@@ -246,8 +246,8 @@
 4	godine	_	_	_	_	_	_	_	_	O
 5	taj	_	_	_	_	_	_	_	_	O
 6	direktor	_	_	_	_	_	_	_	_	O
-7	Pravosudne	_	_	_	_	_	_	_	_	O
-8	akademije	_	_	_	_	_	_	_	_	O
+7	Pravosudne	_	_	_	_	_	_	_	_	B-ORG
+8	akademije	_	_	_	_	_	_	_	_	I-ORG
 9	-	-	PUNCT	Z	_	_	_	_	_	O
 10	koji	_	_	_	_	_	_	_	_	O
 11	je	_	_	_	_	_	_	_	_	O
@@ -270,28 +270,28 @@
 1	Epilog	_	_	_	_	_	_	_	_	O
 2	dosadašnjih	_	_	_	_	_	_	_	_	O
 3	zahteva	_	_	_	_	_	_	_	_	O
-4	DRI	_	_	_	_	_	_	_	_	O
+4	DRI	_	_	_	_	_	_	_	_	B-ORG
 
 # newpar id = 6
 # sent_id = 6.1
 # text = Predsednik Saveta Državne revizorske institucije Ivica Gavrilović rekao je u ponedeljak za Betu da je Grad Beograd teško kršio obavezu dobrog poslovanja, a da je odgovorno lice gradonačelnik Aleksandar Šapić i da je zbog toga DRI Skupštini grada Beograda uputila zahtev za njegovo razrešenje.
 1	Predsednik	_	_	_	_	_	_	_	_	O
-2	Saveta	_	_	_	_	_	_	_	_	O
-3	Državne	_	_	_	_	_	_	_	_	O
-4	revizorske	_	_	_	_	_	_	_	_	O
-5	institucije	_	_	_	_	_	_	_	_	O
-6	Ivica	_	_	_	_	_	_	_	_	O
-7	Gavrilović	_	_	_	_	_	_	_	_	O
+2	Saveta	_	_	_	_	_	_	_	_	B-ORG
+3	Državne	_	_	_	_	_	_	_	_	I-ORG
+4	revizorske	_	_	_	_	_	_	_	_	I-ORG
+5	institucije	_	_	_	_	_	_	_	_	I-ORG
+6	Ivica	_	_	_	_	_	_	_	_	B-PER
+7	Gavrilović	_	_	_	_	_	_	_	_	I-PER
 8	rekao	_	_	_	_	_	_	_	_	O
 9	je	_	_	_	_	_	_	_	_	O
 10	u	_	_	_	_	_	_	_	_	O
 11	ponedeljak	_	_	_	_	_	_	_	_	O
 12	za	_	_	_	_	_	_	_	_	O
-13	Betu	_	_	_	_	_	_	_	_	O
+13	Betu	_	_	_	_	_	_	_	_	B-ORG
 14	da	_	_	_	_	_	_	_	_	O
 15	je	_	_	_	_	_	_	_	_	O
-16	Grad	_	_	_	_	_	_	_	_	O
-17	Beograd	_	_	_	_	_	_	_	_	O
+16	Grad	_	_	_	_	_	_	_	_	B-ORG
+17	Beograd	_	_	_	_	_	_	_	_	I-ORG
 18	teško	_	_	_	_	_	_	_	_	O
 19	kršio	_	_	_	_	_	_	_	_	O
 20	obavezu	_	_	_	_	_	_	_	_	O
@@ -304,17 +304,17 @@
 27	odgovorno	_	_	_	_	_	_	_	_	O
 28	lice	_	_	_	_	_	_	_	_	O
 29	gradonačelnik	_	_	_	_	_	_	_	_	O
-30	Aleksandar	_	_	_	_	_	_	_	_	O
-31	Šapić	_	_	_	_	_	_	_	_	O
+30	Aleksandar	_	_	_	_	_	_	_	_	B-PER
+31	Šapić	_	_	_	_	_	_	_	_	I-PER
 32	i	_	_	_	_	_	_	_	_	O
 33	da	_	_	_	_	_	_	_	_	O
 34	je	_	_	_	_	_	_	_	_	O
 35	zbog	_	_	_	_	_	_	_	_	O
 36	toga	_	_	_	_	_	_	_	_	O
-37	DRI	_	_	_	_	_	_	_	_	O
-38	Skupštini	_	_	_	_	_	_	_	_	O
+37	DRI	_	_	_	_	_	_	_	_	B-ORG
+38	Skupštini	_	_	_	_	_	_	_	_	B-ORG
 39	grada	_	_	_	_	_	_	_	_	O
-40	Beograda	_	_	_	_	_	_	_	_	O
+40	Beograda	_	_	_	_	_	_	_	_	B-LOC
 41	uputila	_	_	_	_	_	_	_	_	O
 42	zahtev	_	_	_	_	_	_	_	_	O
 43	za	_	_	_	_	_	_	_	_	O
@@ -325,7 +325,7 @@
 # newpar id = 7
 # sent_id = 7.1
 # text = Gavrilović je pojasnio da je gradonačelnik odgovorno lice za preduzimanje mera ispravljanja odnosno otklanjanja nepravilnosti nakon što je DRI uradila reviziju poslovanja, a na pitanje da li očekuje da će Skupština razrešiti Šapića, rekao je da je "Državna revizorska institucija uradila što je u njenoj nadležnosti i da se DRI ne bavi očekivanjima".
-1	Gavrilović	_	_	_	_	_	_	_	_	O
+1	Gavrilović	_	_	_	_	_	_	_	_	B-PER
 2	je	_	_	_	_	_	_	_	_	O
 3	pojasnio	_	_	_	_	_	_	_	_	O
 4	da	_	_	_	_	_	_	_	_	O
@@ -343,7 +343,7 @@
 16	nakon	_	_	_	_	_	_	_	_	O
 17	što	_	_	_	_	_	_	_	_	O
 18	je	_	_	_	_	_	_	_	_	O
-19	DRI	_	_	_	_	_	_	_	_	O
+19	DRI	_	_	_	_	_	_	_	_	B-ORG
 20	uradila	_	_	_	_	_	_	_	_	O
 21	reviziju	_	_	_	_	_	_	_	_	O
 22	poslovanja	_	_	_	_	_	_	_	SpaceAfter=No	O
@@ -356,18 +356,18 @@
 29	očekuje	_	_	_	_	_	_	_	_	O
 30	da	_	_	_	_	_	_	_	_	O
 31	će	_	_	_	_	_	_	_	_	O
-32	Skupština	_	_	_	_	_	_	_	_	O
+32	Skupština	_	_	_	_	_	_	_	_	B-ORG
 33	razrešiti	_	_	_	_	_	_	_	_	O
-34	Šapića	_	_	_	_	_	_	_	SpaceAfter=No	O
+34	Šapića	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 35	,	,	PUNCT	Z	_	_	_	_	_	O
 36	rekao	_	_	_	_	_	_	_	_	O
 37	je	_	_	_	_	_	_	_	_	O
 38	da	_	_	_	_	_	_	_	_	O
 39	je	_	_	_	_	_	_	_	_	O
 40	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
-41	Državna	_	_	_	_	_	_	_	_	O
-42	revizorska	_	_	_	_	_	_	_	_	O
-43	institucija	_	_	_	_	_	_	_	_	O
+41	Državna	_	_	_	_	_	_	_	_	B-ORG
+42	revizorska	_	_	_	_	_	_	_	_	I-ORG
+43	institucija	_	_	_	_	_	_	_	_	I-ORG
 44	uradila	_	_	_	_	_	_	_	_	O
 45	što	_	_	_	_	_	_	_	_	O
 46	je	_	_	_	_	_	_	_	_	O
@@ -377,7 +377,7 @@
 50	i	_	_	_	_	_	_	_	_	O
 51	da	_	_	_	_	_	_	_	_	O
 52	se	_	_	_	_	_	_	_	_	O
-53	DRI	_	_	_	_	_	_	_	_	O
+53	DRI	_	_	_	_	_	_	_	_	B-ORG
 54	ne	_	_	_	_	_	_	_	_	O
 55	bavi	_	_	_	_	_	_	_	_	O
 56	očekivanjima	_	_	_	_	_	_	_	SpaceAfter=No	O
@@ -390,8 +390,8 @@
 1	U	_	_	_	_	_	_	_	_	O
 2	odgovoru	_	_	_	_	_	_	_	_	O
 3	portalu	_	_	_	_	_	_	_	_	O
-4	N1	_	_	_	_	_	_	_	_	O
-5	DRI	_	_	_	_	_	_	_	_	O
+4	N1	_	_	_	_	_	_	_	_	B-ORG
+5	DRI	_	_	_	_	_	_	_	_	B-ORG
 6	navodi	_	_	_	_	_	_	_	_	O
 7	koji	_	_	_	_	_	_	_	_	O
 8	je	_	_	_	_	_	_	_	_	O
@@ -412,9 +412,9 @@
 # sent_id = 9.1
 # text = 1.	Institut ekonomskih nauka - nadležni organ nije postupio po zahtevu DRI, te direktor nije razrešen;
 1	1.	_	_	_	_	_	_	_	_	O
-2	Institut	_	_	_	_	_	_	_	_	O
-3	ekonomskih	_	_	_	_	_	_	_	_	O
-4	nauka	_	_	_	_	_	_	_	_	O
+2	Institut	_	_	_	_	_	_	_	_	B-ORG
+3	ekonomskih	_	_	_	_	_	_	_	_	I-ORG
+4	nauka	_	_	_	_	_	_	_	_	I-ORG
 5	-	-	PUNCT	Z	_	_	_	_	_	O
 6	nadležni	_	_	_	_	_	_	_	_	O
 7	organ	_	_	_	_	_	_	_	_	O
@@ -422,7 +422,7 @@
 9	postupio	_	_	_	_	_	_	_	_	O
 10	po	_	_	_	_	_	_	_	_	O
 11	zahtevu	_	_	_	_	_	_	_	_	O
-12	DRI	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	DRI	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
 13	,	,	PUNCT	Z	_	_	_	_	_	O
 14	te	_	_	_	_	_	_	_	_	O
 15	direktor	_	_	_	_	_	_	_	_	O
@@ -434,11 +434,11 @@
 # sent_id = 10.1
 # text = 2.	Specijalna bolnica „Rusanda“- direktor je razrešen i imenovan novi v.d. direktor;
 1	2.	_	_	_	_	_	_	_	_	O
-2	Specijalna	_	_	_	_	_	_	_	_	O
-3	bolnica	_	_	_	_	_	_	_	_	O
-4	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
-5	Rusanda	_	_	_	_	_	_	_	SpaceAfter=No	O
-6	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+2	Specijalna	_	_	_	_	_	_	_	_	B-ORG
+3	bolnica	_	_	_	_	_	_	_	_	I-ORG
+4	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	I-ORG
+5	Rusanda	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+6	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	I-ORG
 7	-	-	PUNCT	Z	_	_	_	_	_	O
 8	direktor	_	_	_	_	_	_	_	_	O
 9	je	_	_	_	_	_	_	_	_	O
@@ -455,21 +455,21 @@
 # sent_id = 11.1
 # text = 3.	Nacionalni park „Fruška gora“- postupak je bio u toku pred Ministarstvom privrede i nije okončan;
 1	3.	_	_	_	_	_	_	_	_	O
-2	Nacionalni	_	_	_	_	_	_	_	_	O
-3	park	_	_	_	_	_	_	_	_	O
-4	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
-5	Fruška	_	_	_	_	_	_	_	_	O
-6	gora	_	_	_	_	_	_	_	SpaceAfter=No	O
-7	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
-8	-	-	PUNCT	Z	_	_	_	_	_	O
+2	Nacionalni	_	_	_	_	_	_	_	_	B-ORG
+3	park	_	_	_	_	_	_	_	_	I-ORG
+4	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	I-ORG
+5	Fruška	_	_	_	_	_	_	_	_	I-ORG
+6	gora	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+7	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	I-ORG
+8	-	-	PUNCT	Z	_	_	_	_	_	
 9	postupak	_	_	_	_	_	_	_	_	O
 10	je	_	_	_	_	_	_	_	_	O
 11	bio	_	_	_	_	_	_	_	_	O
 12	u	_	_	_	_	_	_	_	_	O
 13	toku	_	_	_	_	_	_	_	_	O
 14	pred	_	_	_	_	_	_	_	_	O
-15	Ministarstvom	_	_	_	_	_	_	_	_	O
-16	privrede	_	_	_	_	_	_	_	_	O
+15	Ministarstvom	_	_	_	_	_	_	_	_	B-ORG
+16	privrede	_	_	_	_	_	_	_	_	I-ORG
 17	i	_	_	_	_	_	_	_	_	O
 18	nije	_	_	_	_	_	_	_	_	O
 19	okončan	_	_	_	_	_	_	_	SpaceAfter=No	O
@@ -479,11 +479,11 @@
 # sent_id = 12.1
 # text = 4.	Pravosudna akademija - Upravni odbor je odbio predlog i nije razrešio direktora;
 1	4.	_	_	_	_	_	_	_	_	O
-2	Pravosudna	_	_	_	_	_	_	_	_	O
-3	akademija	_	_	_	_	_	_	_	_	O
+2	Pravosudna	_	_	_	_	_	_	_	_	B-ORG
+3	akademija	_	_	_	_	_	_	_	_	I-ORG
 4	-	-	PUNCT	Z	_	_	_	_	_	O
-5	Upravni	_	_	_	_	_	_	_	_	O
-6	odbor	_	_	_	_	_	_	_	_	O
+5	Upravni	_	_	_	_	_	_	_	_	B-ORG
+6	odbor	_	_	_	_	_	_	_	_	I-ORG
 7	je	_	_	_	_	_	_	_	_	O
 8	odbio	_	_	_	_	_	_	_	_	O
 9	predlog	_	_	_	_	_	_	_	_	O
@@ -497,16 +497,16 @@
 # sent_id = 13.1
 # text = 5.	Zavod za izgradnju grada Beograda - zahtev je upućen Skupštini grada, ali ishod nije dokumentovan;
 1	5.	_	_	_	_	_	_	_	_	O
-2	Zavod	_	_	_	_	_	_	_	_	O
-3	za	_	_	_	_	_	_	_	_	O
-4	izgradnju	_	_	_	_	_	_	_	_	O
-5	grada	_	_	_	_	_	_	_	_	O
-6	Beograda	_	_	_	_	_	_	_	_	O
+2	Zavod	_	_	_	_	_	_	_	_	B-ORG
+3	za	_	_	_	_	_	_	_	_	I-ORG
+4	izgradnju	_	_	_	_	_	_	_	_	I-ORG
+5	grada	_	_	_	_	_	_	_	_	I-ORG
+6	Beograda	_	_	_	_	_	_	_	_	I-ORG
 7	-	-	PUNCT	Z	_	_	_	_	_	O
 8	zahtev	_	_	_	_	_	_	_	_	O
 9	je	_	_	_	_	_	_	_	_	O
 10	upućen	_	_	_	_	_	_	_	_	O
-11	Skupštini	_	_	_	_	_	_	_	_	O
+11	Skupštini	_	_	_	_	_	_	_	_	B-ORG
 12	grada	_	_	_	_	_	_	_	SpaceAfter=No	O
 13	,	,	PUNCT	Z	_	_	_	_	_	O
 14	ali	_	_	_	_	_	_	_	_	O
@@ -519,15 +519,15 @@
 # sent_id = 14.1
 # text = 6.	Zdravstveni centar Surdulica - zahtev je upućen Ministarstvu zdravlja, ali ishod nije poznat;
 1	6.	_	_	_	_	_	_	_	_	O
-2	Zdravstveni	_	_	_	_	_	_	_	_	O
-3	centar	_	_	_	_	_	_	_	_	O
-4	Surdulica	_	_	_	_	_	_	_	_	O
+2	Zdravstveni	_	_	_	_	_	_	_	_	B-ORG
+3	centar	_	_	_	_	_	_	_	_	I-ORG
+4	Surdulica	_	_	_	_	_	_	_	_	I-ORG
 5	-	-	PUNCT	Z	_	_	_	_	_	O
 6	zahtev	_	_	_	_	_	_	_	_	O
 7	je	_	_	_	_	_	_	_	_	O
 8	upućen	_	_	_	_	_	_	_	_	O
-9	Ministarstvu	_	_	_	_	_	_	_	_	O
-10	zdravlja	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	Ministarstvu	_	_	_	_	_	_	_	_	B-ORG
+10	zdravlja	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 11	,	,	PUNCT	Z	_	_	_	_	_	O
 12	ali	_	_	_	_	_	_	_	_	O
 13	ishod	_	_	_	_	_	_	_	_	O
@@ -539,8 +539,8 @@
 # sent_id = 15.1
 # text = 7.	Republička direkcija za robne rezerve - postupak je bio u nadležnosti više ministarstava, ali nakon ostavke Vlade nije nastavljen;
 1	7.	_	_	_	_	_	_	_	_	O
-2	Republička	_	_	_	_	_	_	_	_	O
-3	direkcija	_	_	_	_	_	_	_	_	O
+2	Republička	_	_	_	_	_	_	_	_	B-ORG
+3	direkcija	_	_	_	_	_	_	_	_	I-ORG
 4	za	_	_	_	_	_	_	_	_	O
 5	robne	_	_	_	_	_	_	_	_	O
 6	rezerve	_	_	_	_	_	_	_	_	O
@@ -556,7 +556,7 @@
 16	ali	_	_	_	_	_	_	_	_	O
 17	nakon	_	_	_	_	_	_	_	_	O
 18	ostavke	_	_	_	_	_	_	_	_	O
-19	Vlade	_	_	_	_	_	_	_	_	O
+19	Vlade	_	_	_	_	_	_	_	_	B-ORG
 20	nije	_	_	_	_	_	_	_	_	O
 21	nastavljen	_	_	_	_	_	_	_	SpaceAfter=No	O
 22	;	;	PUNCT	Z	_	_	_	_	_	O
@@ -565,11 +565,11 @@
 # sent_id = 16.1
 # text = 8.	Saobraćajno preduzeće „Lasta“ - direktor je podneo ostavku, a Nadzorni odbor je imenovao novog direktora;
 1	8.	_	_	_	_	_	_	_	_	O
-2	Saobraćajno	_	_	_	_	_	_	_	_	O
-3	preduzeće	_	_	_	_	_	_	_	_	O
-4	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
-5	Lasta	_	_	_	_	_	_	_	SpaceAfter=No	O
-6	“	“	PUNCT	Z	_	_	_	_	_	O
+2	Saobraćajno	_	_	_	_	_	_	_	_	B-ORG
+3	preduzeće	_	_	_	_	_	_	_	_	I-ORG
+4	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	I-ORG
+5	Lasta	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+6	“	“	PUNCT	Z	_	_	_	_	_	I-ORG
 7	-	-	PUNCT	Z	_	_	_	_	_	O
 8	direktor	_	_	_	_	_	_	_	_	O
 9	je	_	_	_	_	_	_	_	_	O
@@ -577,8 +577,8 @@
 11	ostavku	_	_	_	_	_	_	_	SpaceAfter=No	O
 12	,	,	PUNCT	Z	_	_	_	_	_	O
 13	a	_	_	_	_	_	_	_	_	O
-14	Nadzorni	_	_	_	_	_	_	_	_	O
-15	odbor	_	_	_	_	_	_	_	_	O
+14	Nadzorni	_	_	_	_	_	_	_	_	B-ORG
+15	odbor	_	_	_	_	_	_	_	_	I-ORG
 16	je	_	_	_	_	_	_	_	_	O
 17	imenovao	_	_	_	_	_	_	_	_	O
 18	novog	_	_	_	_	_	_	_	_	O
@@ -589,8 +589,8 @@
 # sent_id = 17.1
 # text = 9.	Grad Beograd - upućen je zahtev za razrešenje gradonačelnika Beograda.
 1	9.	_	_	_	_	_	_	_	_	O
-2	Grad	_	_	_	_	_	_	_	_	O
-3	Beograd	_	_	_	_	_	_	_	_	O
+2	Grad	_	_	_	_	_	_	_	_	B-ORG
+3	Beograd	_	_	_	_	_	_	_	_	I-ORG
 4	-	-	PUNCT	Z	_	_	_	_	_	O
 5	upućen	_	_	_	_	_	_	_	_	O
 6	je	_	_	_	_	_	_	_	_	O
@@ -598,15 +598,15 @@
 8	za	_	_	_	_	_	_	_	_	O
 9	razrešenje	_	_	_	_	_	_	_	_	O
 10	gradonačelnika	_	_	_	_	_	_	_	_	O
-11	Beograda	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	Beograda	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 12	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 18
 # sent_id = 18.1
 # text = Institut ekonomskih nauka je teško kršio obavezu dobrog poslovanja, utvrdila je DRI 2021. godine.
-1	Institut	_	_	_	_	_	_	_	_	O
-2	ekonomskih	_	_	_	_	_	_	_	_	O
-3	nauka	_	_	_	_	_	_	_	_	O
+1	Institut	_	_	_	_	_	_	_	_	B-ORG
+2	ekonomskih	_	_	_	_	_	_	_	_	I-ORG
+3	nauka	_	_	_	_	_	_	_	_	I-ORG
 4	je	_	_	_	_	_	_	_	_	O
 5	teško	_	_	_	_	_	_	_	_	O
 6	kršio	_	_	_	_	_	_	_	_	O
@@ -616,7 +616,7 @@
 10	,	,	PUNCT	Z	_	_	_	_	_	O
 11	utvrdila	_	_	_	_	_	_	_	_	O
 12	je	_	_	_	_	_	_	_	_	O
-13	DRI	_	_	_	_	_	_	_	_	O
+13	DRI	_	_	_	_	_	_	_	_	B-ORG
 14	2021.	_	_	_	_	_	_	_	_	O
 15	godine	_	_	_	_	_	_	_	SpaceAfter=No	O
 16	.	.	PUNCT	Z	_	_	_	_	_	O
@@ -634,7 +634,7 @@
 8	poslovanja	_	_	_	_	_	_	_	SpaceAfter=No	O
 9	,	,	PUNCT	Z	_	_	_	_	_	O
 10	jer	_	_	_	_	_	_	_	_	O
-11	Institut	_	_	_	_	_	_	_	_	O
+11	Institut	_	_	_	_	_	_	_	_	B-ORG
 12	nije	_	_	_	_	_	_	_	_	O
 13	otklonio	_	_	_	_	_	_	_	_	O
 14	otkrivenu	_	_	_	_	_	_	_	_	O
@@ -647,7 +647,7 @@
 21	dato	_	_	_	_	_	_	_	_	O
 22	pravo	_	_	_	_	_	_	_	_	O
 23	direktoru	_	_	_	_	_	_	_	_	O
-24	Instituta	_	_	_	_	_	_	_	_	O
+24	Instituta	_	_	_	_	_	_	_	_	B-ORG
 25	na	_	_	_	_	_	_	_	_	O
 26	uvećanje	_	_	_	_	_	_	_	_	O
 27	plate	_	_	_	_	_	_	_	_	O
@@ -683,7 +683,7 @@
 57	,	,	PUNCT	Z	_	_	_	_	_	O
 58	pojasnila	_	_	_	_	_	_	_	_	O
 59	je	_	_	_	_	_	_	_	_	O
-60	DRI	_	_	_	_	_	_	_	_	O
+60	DRI	_	_	_	_	_	_	_	_	B-ORG
 61	u	_	_	_	_	_	_	_	_	O
 62	junu	_	_	_	_	_	_	_	_	O
 63	2022.	_	_	_	_	_	_	_	_	O
@@ -692,11 +692,11 @@
 # sent_id = 20.1
 # text = Direktor Instituta ekonomskih nauka Jovan Zubović, koji je i danas na toj funkciji je, prema izveštaju revizora, sebi u 2019. godini isplaćivao dodatak na platu u neto iznosu od 50.000 dinara svakog meseca "iako pravo na isplatu funkcionalnog dodatka direktora nije utvrđeno Statutom i Pravilnikom o radu".
 1	Direktor	_	_	_	_	_	_	_	_	O
-2	Instituta	_	_	_	_	_	_	_	_	O
-3	ekonomskih	_	_	_	_	_	_	_	_	O
+2	Instituta	_	_	_	_	_	_	_	_	B-ORG
+3	ekonomskih	_	_	_	_	_	_	_	_	I-ORG
 4	nauka	_	_	_	_	_	_	_	_	O
-5	Jovan	_	_	_	_	_	_	_	_	O
-6	Zubović	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	Jovan	_	_	_	_	_	_	_	_	B-PER
+6	Zubović	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 7	,	,	PUNCT	Z	_	_	_	_	_	O
 8	koji	_	_	_	_	_	_	_	_	O
 9	je	_	_	_	_	_	_	_	_	O
@@ -750,7 +750,7 @@
 # text = rema izveštaju DRI, reč je o ukupno 997.000 dinara bruto, koji su povučeni iz budžeta Republike Srbije.
 1	rema	_	_	_	_	_	_	_	_	O
 2	izveštaju	_	_	_	_	_	_	_	_	O
-3	DRI	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	DRI	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
 4	,	,	PUNCT	Z	_	_	_	_	_	O
 5	reč	_	_	_	_	_	_	_	_	O
 6	je	_	_	_	_	_	_	_	_	O
@@ -765,16 +765,16 @@
 15	povučeni	_	_	_	_	_	_	_	_	O
 16	iz	_	_	_	_	_	_	_	_	O
 17	budžeta	_	_	_	_	_	_	_	_	O
-18	Republike	_	_	_	_	_	_	_	_	O
-19	Srbije	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	Republike	_	_	_	_	_	_	_	_	B-LOC
+19	Srbije	_	_	_	_	_	_	_	SpaceAfter=No	I-LOC
 20	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 22
 # sent_id = 22.1
 # text = Upravni odbor Instituta nije usvojio zahtev za razrešenje odgovornog lica, odnosno direktora Instituta, saopštio je DRI u junu 2022.
-1	Upravni	_	_	_	_	_	_	_	_	O
-2	odbor	_	_	_	_	_	_	_	_	O
-3	Instituta	_	_	_	_	_	_	_	_	O
+1	Upravni	_	_	_	_	_	_	_	_	B-ORG
+2	odbor	_	_	_	_	_	_	_	_	I-ORG
+3	Instituta	_	_	_	_	_	_	_	_	I-ORG
 4	nije	_	_	_	_	_	_	_	_	O
 5	usvojio	_	_	_	_	_	_	_	_	O
 6	zahtev	_	_	_	_	_	_	_	_	O
@@ -785,11 +785,11 @@
 11	,	,	PUNCT	Z	_	_	_	_	_	O
 12	odnosno	_	_	_	_	_	_	_	_	O
 13	direktora	_	_	_	_	_	_	_	_	O
-14	Instituta	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	Instituta	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
 15	,	,	PUNCT	Z	_	_	_	_	_	O
 16	saopštio	_	_	_	_	_	_	_	_	O
 17	je	_	_	_	_	_	_	_	_	O
-18	DRI	_	_	_	_	_	_	_	_	O
+18	DRI	_	_	_	_	_	_	_	_	B-ORG
 19	u	_	_	_	_	_	_	_	_	O
 20	junu	_	_	_	_	_	_	_	_	O
 21	2022.	_	_	_	_	_	_	_	_	O
@@ -797,8 +797,8 @@
 # newpar id = 23
 # sent_id = 23.1
 # text = Specijalna bolnica teško je kršila obavezu dobrog poslovanja i nezakonito trošila državna sredstva, utvrdili su revizori tokom kontrolе 2021. godine.
-1	Specijalna	_	_	_	_	_	_	_	_	O
-2	bolnica	_	_	_	_	_	_	_	_	O
+1	Specijalna	_	_	_	_	_	_	_	_	B-ORG
+2	bolnica	_	_	_	_	_	_	_	_	I-ORG
 3	teško	_	_	_	_	_	_	_	_	O
 4	je	_	_	_	_	_	_	_	_	O
 5	kršila	_	_	_	_	_	_	_	_	O
@@ -826,8 +826,8 @@
 1	Naime	_	_	_	_	_	_	_	SpaceAfter=No	O
 2	,	,	PUNCT	Z	_	_	_	_	_	O
 3	ova	_	_	_	_	_	_	_	_	O
-4	Specijalna	_	_	_	_	_	_	_	_	O
-5	bolnica	_	_	_	_	_	_	_	_	O
+4	Specijalna	_	_	_	_	_	_	_	_	B-ORG
+5	bolnica	_	_	_	_	_	_	_	_	I-ORG
 6	je	_	_	_	_	_	_	_	_	O
 7	u	_	_	_	_	_	_	_	_	O
 8	2018.	_	_	_	_	_	_	_	_	O
@@ -866,8 +866,8 @@
 4	revizorskog	_	_	_	_	_	_	_	_	O
 5	izveštaja	_	_	_	_	_	_	_	SpaceAfter=No	O
 6	,	,	PUNCT	Z	_	_	_	_	_	O
-7	Specijalna	_	_	_	_	_	_	_	_	O
-8	bolnica	_	_	_	_	_	_	_	_	O
+7	Specijalna	_	_	_	_	_	_	_	_	B-ORG
+8	bolnica	_	_	_	_	_	_	_	_	I-ORG
 9	je	_	_	_	_	_	_	_	_	O
 10	nastavila	_	_	_	_	_	_	_	_	O
 11	sa	_	_	_	_	_	_	_	_	O
@@ -956,13 +956,13 @@
 # text = Na čelu "Rusande" sada je Igor Dostanić, koji je u junu 2022. zamenio smenjenu Zoricu Ćulibrk.
 1	Na	_	_	_	_	_	_	_	_	O
 2	čelu	_	_	_	_	_	_	_	_	O
-3	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
-4	Rusande	_	_	_	_	_	_	_	SpaceAfter=No	O
-5	"	"	PUNCT	Z	_	_	_	_	_	O
+3	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	B-ORG
+4	Rusande	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+5	"	"	PUNCT	Z	_	_	_	_	_	I-ORG
 6	sada	_	_	_	_	_	_	_	_	O
 7	je	_	_	_	_	_	_	_	_	O
-8	Igor	_	_	_	_	_	_	_	_	O
-9	Dostanić	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	Igor	_	_	_	_	_	_	_	_	B-PER
+9	Dostanić	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 10	,	,	PUNCT	Z	_	_	_	_	_	O
 11	koji	_	_	_	_	_	_	_	_	O
 12	je	_	_	_	_	_	_	_	_	O
@@ -971,8 +971,8 @@
 15	2022.	_	_	_	_	_	_	_	_	O
 16	zamenio	_	_	_	_	_	_	_	_	O
 17	smenjenu	_	_	_	_	_	_	_	_	O
-18	Zoricu	_	_	_	_	_	_	_	_	O
-19	Ćulibrk	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	Zoricu	_	_	_	_	_	_	_	_	B-PER
+19	Ćulibrk	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 20	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 28
@@ -981,17 +981,17 @@
 1	Podsetimo	_	_	_	_	_	_	_	SpaceAfter=No	O
 2	,	,	PUNCT	Z	_	_	_	_	_	O
 3	odbornik	_	_	_	_	_	_	_	_	O
-4	Stranke	_	_	_	_	_	_	_	_	O
-5	slobode	_	_	_	_	_	_	_	_	O
-6	i	_	_	_	_	_	_	_	_	O
-7	pravde	_	_	_	_	_	_	_	_	O
+4	Stranke	_	_	_	_	_	_	_	_	B-ORG
+5	slobode	_	_	_	_	_	_	_	_	I-ORG
+6	i	_	_	_	_	_	_	_	_	I-ORG
+7	pravde	_	_	_	_	_	_	_	_	I-ORG
 8	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
-9	SSP	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	SSP	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
 10	)	)	PUNCT	Z	_	_	_	_	_	O
 11	u	_	_	_	_	_	_	_	_	O
-12	Zrenjaninu	_	_	_	_	_	_	_	_	O
-13	Slobodan	_	_	_	_	_	_	_	_	O
-14	Đurin	_	_	_	_	_	_	_	_	O
+12	Zrenjaninu	_	_	_	_	_	_	_	_	B-LOC
+13	Slobodan	_	_	_	_	_	_	_	_	B-PER
+14	Đurin	_	_	_	_	_	_	_	_	I-PER
 15	saopštio	_	_	_	_	_	_	_	_	O
 16	je	_	_	_	_	_	_	_	_	O
 17	13.	_	_	_	_	_	_	_	_	O
@@ -1001,11 +1001,11 @@
 21	imena	_	_	_	_	_	_	_	_	O
 22	šest	_	_	_	_	_	_	_	_	O
 23	funkcionera	_	_	_	_	_	_	_	_	O
-24	Srpske	_	_	_	_	_	_	_	_	O
-25	napredne	_	_	_	_	_	_	_	_	O
-26	stranke	_	_	_	_	_	_	_	_	O
+24	Srpske	_	_	_	_	_	_	_	_	B-ORG
+25	napredne	_	_	_	_	_	_	_	_	I-ORG
+26	stranke	_	_	_	_	_	_	_	_	I-ORG
 27	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
-28	SNS	_	_	_	_	_	_	_	SpaceAfter=No	O
+28	SNS	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
 29	)	)	PUNCT	Z	_	_	_	_	_	O
 30	iz	_	_	_	_	_	_	_	_	O
 31	tog	_	_	_	_	_	_	_	_	O
@@ -1015,10 +1015,10 @@
 35	su	_	_	_	_	_	_	_	_	O
 36	viđeni	_	_	_	_	_	_	_	_	O
 37	u	_	_	_	_	_	_	_	_	O
-38	Bačkom	_	_	_	_	_	_	_	_	O
-39	Petrovcu	_	_	_	_	_	_	_	_	O
+38	Bačkom	_	_	_	_	_	_	_	_	B-LOC
+39	Petrovcu	_	_	_	_	_	_	_	_	I-LOC
 40	i	_	_	_	_	_	_	_	_	O
-41	Vrbasu	_	_	_	_	_	_	_	_	O
+41	Vrbasu	_	_	_	_	_	_	_	_	B-LOC
 42	tokom	_	_	_	_	_	_	_	_	O
 43	protesta	_	_	_	_	_	_	_	_	O
 44	na	_	_	_	_	_	_	_	_	O
@@ -1036,19 +1036,19 @@
 3	njih	_	_	_	_	_	_	_	_	O
 4	je	_	_	_	_	_	_	_	_	O
 5	upravo	_	_	_	_	_	_	_	_	O
-6	Igor	_	_	_	_	_	_	_	_	O
-7	Dostanić	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	Igor	_	_	_	_	_	_	_	_	B-PER
+7	Dostanić	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 8	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 29
 # sent_id = 29.1
 # text = Nacionalni park „Fruška gora“ takođe je teško kršilo obavezu dobrog poslovanja, između ostalog i zbog toga što je dalo na korišćenje objekte i zemljište u javnoj svojini Republike Srbije, bez saglasnosti Vlade Srbije i nadležnog ministarstva.
-1	Nacionalni	_	_	_	_	_	_	_	_	O
-2	park	_	_	_	_	_	_	_	_	O
-3	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
-4	Fruška	_	_	_	_	_	_	_	_	O
-5	gora	_	_	_	_	_	_	_	SpaceAfter=No	O
-6	“	“	PUNCT	Z	_	_	_	_	_	O
+1	Nacionalni	_	_	_	_	_	_	_	_	B-ORG
+2	park	_	_	_	_	_	_	_	_	I-ORG
+3	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	I-ORG
+4	Fruška	_	_	_	_	_	_	_	_	I-ORG
+5	gora	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+6	“	“	PUNCT	Z	_	_	_	_	_	I-ORG
 7	takođe	_	_	_	_	_	_	_	_	O
 8	je	_	_	_	_	_	_	_	_	O
 9	teško	_	_	_	_	_	_	_	_	O
@@ -1073,13 +1073,13 @@
 28	u	_	_	_	_	_	_	_	_	O
 29	javnoj	_	_	_	_	_	_	_	_	O
 30	svojini	_	_	_	_	_	_	_	_	O
-31	Republike	_	_	_	_	_	_	_	_	O
-32	Srbije	_	_	_	_	_	_	_	SpaceAfter=No	O
+31	Republike	_	_	_	_	_	_	_	_	B-LOC
+32	Srbije	_	_	_	_	_	_	_	SpaceAfter=No	I-LOC
 33	,	,	PUNCT	Z	_	_	_	_	_	O
 34	bez	_	_	_	_	_	_	_	_	O
 35	saglasnosti	_	_	_	_	_	_	_	_	O
-36	Vlade	_	_	_	_	_	_	_	_	O
-37	Srbije	_	_	_	_	_	_	_	_	O
+36	Vlade	_	_	_	_	_	_	_	_	B-ORG
+37	Srbije	_	_	_	_	_	_	_	_	I-ORG
 38	i	_	_	_	_	_	_	_	_	O
 39	nadležnog	_	_	_	_	_	_	_	_	O
 40	ministarstva	_	_	_	_	_	_	_	SpaceAfter=No	O
@@ -1093,7 +1093,7 @@
 3	osnovu	_	_	_	_	_	_	_	_	O
 4	zaključenog	_	_	_	_	_	_	_	_	O
 5	ugovora	_	_	_	_	_	_	_	_	O
-6	Preduzeće	_	_	_	_	_	_	_	_	O
+6	Preduzeće	_	_	_	_	_	_	_	_	B-ORG
 7	nije	_	_	_	_	_	_	_	_	O
 8	naplaćivalo	_	_	_	_	_	_	_	_	O
 9	naknadu	_	_	_	_	_	_	_	_	O
@@ -1130,9 +1130,9 @@
 # text = Takođe, Preduzeće za nepokretnosti koje je dalo na korišćenje drugom pravnom licu za obavljanje kamping delatnosti, koju po Statutu obavlja i Preduzeće, nije naplaćivalo ni zakupninu", navela je, između ostalog DRI u poslerevizionom izveštaju.
 1	Takođe	_	_	_	_	_	_	_	SpaceAfter=No	O
 2	,	,	PUNCT	Z	_	_	_	_	_	O
-3	Preduzeće	_	_	_	_	_	_	_	_	O
-4	za	_	_	_	_	_	_	_	_	O
-5	nepokretnosti	_	_	_	_	_	_	_	_	O
+3	Preduzeće	_	_	_	_	_	_	_	_	B-ORG
+4	za	_	_	_	_	_	_	_	_	I-ORG
+5	nepokretnosti	_	_	_	_	_	_	_	_	I-ORG
 6	koje	_	_	_	_	_	_	_	_	O
 7	je	_	_	_	_	_	_	_	_	O
 8	dalo	_	_	_	_	_	_	_	_	O
@@ -1151,7 +1151,7 @@
 21	Statutu	_	_	_	_	_	_	_	_	O
 22	obavlja	_	_	_	_	_	_	_	_	O
 23	i	_	_	_	_	_	_	_	_	O
-24	Preduzeće	_	_	_	_	_	_	_	SpaceAfter=No	O
+24	Preduzeće	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
 25	,	,	PUNCT	Z	_	_	_	_	_	O
 26	nije	_	_	_	_	_	_	_	_	O
 27	naplaćivalo	_	_	_	_	_	_	_	_	O
@@ -1164,7 +1164,7 @@
 34	,	,	PUNCT	Z	_	_	_	_	_	O
 35	između	_	_	_	_	_	_	_	_	O
 36	ostalog	_	_	_	_	_	_	_	_	O
-37	DRI	_	_	_	_	_	_	_	_	O
+37	DRI	_	_	_	_	_	_	_	_	B-ORG
 38	u	_	_	_	_	_	_	_	_	O
 39	poslerevizionom	_	_	_	_	_	_	_	_	O
 40	izveštaju	_	_	_	_	_	_	_	SpaceAfter=No	O
@@ -1185,14 +1185,14 @@
 10	-	-	PUNCT	Z	_	_	_	_	_	O
 11	nacionalni	_	_	_	_	_	_	_	_	O
 12	parkovi	_	_	_	_	_	_	_	_	O
-13	Đerdap	_	_	_	_	_	_	_	_	O
+13	Đerdap	_	_	_	_	_	_	_	_	B-LOC
 14	i	_	_	_	_	_	_	_	_	O
-15	Fruška	_	_	_	_	_	_	_	_	O
-16	gora	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	Fruška	_	_	_	_	_	_	_	_	B-LOC
+16	gora	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 17	,	,	PUNCT	Z	_	_	_	_	_	O
-18	Srbijavode	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	Srbijavode	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
 19	,	,	PUNCT	Z	_	_	_	_	_	O
-20	Srbijašume	_	_	_	_	_	_	_	SpaceAfter=No	O
+20	Srbijašume	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
 21	...	...	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 32
@@ -1207,10 +1207,10 @@
 7	parka	_	_	_	_	_	_	_	_	O
 8	bez	_	_	_	_	_	_	_	_	O
 9	saglasnosti	_	_	_	_	_	_	_	_	O
-10	Vlade	_	_	_	_	_	_	_	_	O
+10	Vlade	_	_	_	_	_	_	_	_	B-ORG
 11	i	_	_	_	_	_	_	_	_	O
 12	resornog	_	_	_	_	_	_	_	_	O
-13	ministarstva	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	ministarstva	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
 14	,	,	PUNCT	Z	_	_	_	_	_	O
 15	ovo	_	_	_	_	_	_	_	_	O
 16	javno	_	_	_	_	_	_	_	_	O
@@ -1243,13 +1243,13 @@
 43	dalo	_	_	_	_	_	_	_	_	O
 44	pravnom	_	_	_	_	_	_	_	_	O
 45	licu	_	_	_	_	_	_	_	_	O
-46	Scomediasco	_	_	_	_	_	_	_	_	O
-47	d.o.o.	_	_	_	_	_	_	_	_	O
+46	Scomediasco	_	_	_	_	_	_	_	_	B-ORG
+47	d.o.o.	_	_	_	_	_	_	_	_	I-ORG
 
 # sent_id = 32.2
 # text = Novi Sad na korišćenje radi obavljanja kamping delatnosti, koju po Statutu obavlja i samo preduzeće".
-1	Novi	_	_	_	_	_	_	_	_	O
-2	Sad	_	_	_	_	_	_	_	_	O
+1	Novi	_	_	_	_	_	_	_	_	B-LOC
+2	Sad	_	_	_	_	_	_	_	_	I-LOC
 3	na	_	_	_	_	_	_	_	_	O
 4	korišćenje	_	_	_	_	_	_	_	_	O
 5	radi	_	_	_	_	_	_	_	_	O
@@ -1274,25 +1274,25 @@
 2	o	_	_	_	_	_	_	_	_	O
 3	smeni	_	_	_	_	_	_	_	_	O
 4	direktora	_	_	_	_	_	_	_	_	O
-5	JP	_	_	_	_	_	_	_	_	O
-6	Nacionalni	_	_	_	_	_	_	_	_	O
-7	park	_	_	_	_	_	_	_	_	O
-8	Fruška	_	_	_	_	_	_	_	_	O
-9	gora	_	_	_	_	_	_	_	_	O
+5	JP	_	_	_	_	_	_	_	_	B-ORG
+6	Nacionalni	_	_	_	_	_	_	_	_	I-ORG
+7	park	_	_	_	_	_	_	_	_	I-ORG
+8	Fruška	_	_	_	_	_	_	_	_	I-ORG
+9	gora	_	_	_	_	_	_	_	_	I-ORG
 10	bio	_	_	_	_	_	_	_	_	O
 11	je	_	_	_	_	_	_	_	_	O
 12	u	_	_	_	_	_	_	_	_	O
 13	toku	_	_	_	_	_	_	_	_	O
 14	pred	_	_	_	_	_	_	_	_	O
-15	Ministarstvom	_	_	_	_	_	_	_	_	O
-16	privrede	_	_	_	_	_	_	_	_	O
+15	Ministarstvom	_	_	_	_	_	_	_	_	B-ORG
+16	privrede	_	_	_	_	_	_	_	_	I-ORG
 17	i	_	_	_	_	_	_	_	_	O
 18	nije	_	_	_	_	_	_	_	_	O
 19	okončan	_	_	_	_	_	_	_	SpaceAfter=No	O
 20	,	,	PUNCT	Z	_	_	_	_	_	O
 21	naveo	_	_	_	_	_	_	_	_	O
 22	je	_	_	_	_	_	_	_	_	O
-23	DRI	_	_	_	_	_	_	_	SpaceAfter=No	O
+23	DRI	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
 24	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 34
@@ -1311,8 +1311,8 @@
 
 # sent_id = 34.2
 # text = Jelena Višekruna, a do tada je njime rukovodio Živko Cvetković, pokazuju podaci APR.
-1	Jelena	_	_	_	_	_	_	_	_	O
-2	Višekruna	_	_	_	_	_	_	_	SpaceAfter=No	O
+1	Jelena	_	_	_	_	_	_	_	_	B-PER
+2	Višekruna	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 3	,	,	PUNCT	Z	_	_	_	_	_	O
 4	a	_	_	_	_	_	_	_	_	O
 5	do	_	_	_	_	_	_	_	_	O
@@ -1320,18 +1320,18 @@
 7	je	_	_	_	_	_	_	_	_	O
 8	njime	_	_	_	_	_	_	_	_	O
 9	rukovodio	_	_	_	_	_	_	_	_	O
-10	Živko	_	_	_	_	_	_	_	_	O
-11	Cvetković	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	Živko	_	_	_	_	_	_	_	_	B-PER
+11	Cvetković	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 12	,	,	PUNCT	Z	_	_	_	_	_	O
 13	pokazuju	_	_	_	_	_	_	_	_	O
 14	podaci	_	_	_	_	_	_	_	_	O
-15	APR.	_	_	_	_	_	_	_	_	O
+15	APR.	_	_	_	_	_	_	_	_	B-ORG
 
 # newpar id = 35
 # sent_id = 35.1
 # text = Portal 021 je pisao da je, prema odluci Vlade objavljenoj u Službenom glasniku Živko Cvetković razrešen na osnovu ličnog zahteva, bez drugih objašnjenja o razlozima za ostavku.
-1	Portal	_	_	_	_	_	_	_	_	O
-2	021	_	_	_	_	_	_	_	_	O
+1	Portal	_	_	_	_	_	_	_	_	B-ORG
+2	021	_	_	_	_	_	_	_	_	I-ORG
 3	je	_	_	_	_	_	_	_	_	O
 4	pisao	_	_	_	_	_	_	_	_	O
 5	da	_	_	_	_	_	_	_	_	O
@@ -1339,13 +1339,13 @@
 7	,	,	PUNCT	Z	_	_	_	_	_	O
 8	prema	_	_	_	_	_	_	_	_	O
 9	odluci	_	_	_	_	_	_	_	_	O
-10	Vlade	_	_	_	_	_	_	_	_	O
+10	Vlade	_	_	_	_	_	_	_	_	B-ORG
 11	objavljenoj	_	_	_	_	_	_	_	_	O
 12	u	_	_	_	_	_	_	_	_	O
 13	Službenom	_	_	_	_	_	_	_	_	O
 14	glasniku	_	_	_	_	_	_	_	_	O
-15	Živko	_	_	_	_	_	_	_	_	O
-16	Cvetković	_	_	_	_	_	_	_	_	O
+15	Živko	_	_	_	_	_	_	_	_	B-PER
+16	Cvetković	_	_	_	_	_	_	_	_	I-PER
 17	razrešen	_	_	_	_	_	_	_	_	O
 18	na	_	_	_	_	_	_	_	_	O
 19	osnovu	_	_	_	_	_	_	_	_	O
@@ -1365,15 +1365,15 @@
 # sent_id = 36.1
 # text = Pre Cvetkovića, ovim nacionalnim parkom rukovodio je Radoslav Krunić, koji je podneo ostavku u septembru 2022.
 1	Pre	_	_	_	_	_	_	_	_	O
-2	Cvetkovića	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	Cvetkovića	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 3	,	,	PUNCT	Z	_	_	_	_	_	O
 4	ovim	_	_	_	_	_	_	_	_	O
 5	nacionalnim	_	_	_	_	_	_	_	_	O
 6	parkom	_	_	_	_	_	_	_	_	O
 7	rukovodio	_	_	_	_	_	_	_	_	O
 8	je	_	_	_	_	_	_	_	_	O
-9	Radoslav	_	_	_	_	_	_	_	_	O
-10	Krunić	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	Radoslav	_	_	_	_	_	_	_	_	B-PER
+10	Krunić	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 11	,	,	PUNCT	Z	_	_	_	_	_	O
 12	koji	_	_	_	_	_	_	_	_	O
 13	je	_	_	_	_	_	_	_	_	O
@@ -1386,8 +1386,8 @@
 # newpar id = 37
 # sent_id = 37.1
 # text = Portal 021 je, takođe, pisao i da je baš za vreme Krunićevog mandata DRI otkrila razne nepravilnosti, poput prekomerne seče i proizvoljnih javnih nabavki.
-1	Portal	_	_	_	_	_	_	_	_	O
-2	021	_	_	_	_	_	_	_	_	O
+1	Portal	_	_	_	_	_	_	_	_	B-ORG
+2	021	_	_	_	_	_	_	_	_	I-ORG
 3	je	_	_	_	_	_	_	_	SpaceAfter=No	O
 4	,	,	PUNCT	Z	_	_	_	_	_	O
 5	takođe	_	_	_	_	_	_	_	SpaceAfter=No	O
@@ -1399,9 +1399,9 @@
 11	baš	_	_	_	_	_	_	_	_	O
 12	za	_	_	_	_	_	_	_	_	O
 13	vreme	_	_	_	_	_	_	_	_	O
-14	Krunićevog	_	_	_	_	_	_	_	_	O
+14	Krunićevog	_	_	_	_	_	_	_	_	B-PER
 15	mandata	_	_	_	_	_	_	_	_	O
-16	DRI	_	_	_	_	_	_	_	_	O
+16	DRI	_	_	_	_	_	_	_	_	B-ORG
 17	otkrila	_	_	_	_	_	_	_	_	O
 18	razne	_	_	_	_	_	_	_	_	O
 19	nepravilnosti	_	_	_	_	_	_	_	SpaceAfter=No	O
@@ -1422,7 +1422,7 @@
 2	revizije	_	_	_	_	_	_	_	_	O
 3	koje	_	_	_	_	_	_	_	_	O
 4	je	_	_	_	_	_	_	_	_	O
-5	DRI	_	_	_	_	_	_	_	_	O
+5	DRI	_	_	_	_	_	_	_	_	B-ORG
 6	uradio	_	_	_	_	_	_	_	_	O
 7	u	_	_	_	_	_	_	_	_	O
 8	ovom	_	_	_	_	_	_	_	_	O
@@ -1433,7 +1433,7 @@
 13	su	_	_	_	_	_	_	_	_	O
 14	na	_	_	_	_	_	_	_	_	O
 15	sajtu	_	_	_	_	_	_	_	_	O
-16	DRI	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	DRI	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
 17	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 39
@@ -1445,8 +1445,8 @@
 4	su	_	_	_	_	_	_	_	_	O
 5	da	_	_	_	_	_	_	_	_	O
 6	je	_	_	_	_	_	_	_	_	O
-7	Pravosudna	_	_	_	_	_	_	_	_	O
-8	akademija	_	_	_	_	_	_	_	_	O
+7	Pravosudna	_	_	_	_	_	_	_	_	B-ORG
+8	akademija	_	_	_	_	_	_	_	_	I-ORG
 9	teško	_	_	_	_	_	_	_	_	O
 10	kršila	_	_	_	_	_	_	_	_	O
 11	obavezu	_	_	_	_	_	_	_	_	O
@@ -1497,11 +1497,11 @@
 38	reviziju	_	_	_	_	_	_	_	_	O
 39	odazivnog	_	_	_	_	_	_	_	_	O
 40	izveštaja	_	_	_	_	_	_	_	_	O
-41	Pravosudne	_	_	_	_	_	_	_	_	O
-42	akademije	_	_	_	_	_	_	_	SpaceAfter=No	O
-43	,	,	PUNCT	Z	_	_	_	_	_	O
-44	Beograd	_	_	_	_	_	_	_	SpaceAfter=No	O
-45	,	,	PUNCT	Z	_	_	_	_	_	O
+41	Pravosudne	_	_	_	_	_	_	_	_	B-ORG
+42	akademije	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+43	,	,	PUNCT	Z	_	_	_	_	_	I-ORG
+44	Beograd	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+45	,	,	PUNCT	Z	_	_	_	_	_	I-ORG
 46	u	_	_	_	_	_	_	_	_	O
 47	2023.	_	_	_	_	_	_	_	_	O
 48	godini	_	_	_	_	_	_	_	_	O
@@ -1526,8 +1526,8 @@
 67	utvrđeno	_	_	_	_	_	_	_	_	O
 68	je	_	_	_	_	_	_	_	_	O
 69	da	_	_	_	_	_	_	_	_	O
-70	Pravosudna	_	_	_	_	_	_	_	_	O
-71	akademija	_	_	_	_	_	_	_	_	O
+70	Pravosudna	_	_	_	_	_	_	_	_	B-ORG
+71	akademija	_	_	_	_	_	_	_	_	I-ORG
 72	kontinuirano	_	_	_	_	_	_	_	SpaceAfter=No	O
 73	,	,	PUNCT	Z	_	_	_	_	_	O
 74	suprotno	_	_	_	_	_	_	_	_	O
@@ -1569,13 +1569,13 @@
 110	,	,	PUNCT	Z	_	_	_	_	_	O
 111	navela	_	_	_	_	_	_	_	_	O
 112	je	_	_	_	_	_	_	_	_	O
-113	DRI	_	_	_	_	_	_	_	SpaceAfter=No	O
+113	DRI	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
 114	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 41
 # sent_id = 41.1
 # text = DRI je o teškom kršenju obaveze dobrog poslovanja obavestila Narodnu skupštinu i uputila Upravnom odboru Pravosudne akademije zahtev za razrešenje tadašnjeg direktora Pravosudne akademije Nenada Vujića.
-1	DRI	_	_	_	_	_	_	_	_	O
+1	DRI	_	_	_	_	_	_	_	_	B-ORG
 2	je	_	_	_	_	_	_	_	_	O
 3	o	_	_	_	_	_	_	_	_	O
 4	teškom	_	_	_	_	_	_	_	_	O
@@ -1584,37 +1584,37 @@
 7	dobrog	_	_	_	_	_	_	_	_	O
 8	poslovanja	_	_	_	_	_	_	_	_	O
 9	obavestila	_	_	_	_	_	_	_	_	O
-10	Narodnu	_	_	_	_	_	_	_	_	O
-11	skupštinu	_	_	_	_	_	_	_	_	O
+10	Narodnu	_	_	_	_	_	_	_	_	B-ORG
+11	skupštinu	_	_	_	_	_	_	_	_	I-ORG
 12	i	_	_	_	_	_	_	_	_	O
 13	uputila	_	_	_	_	_	_	_	_	O
-14	Upravnom	_	_	_	_	_	_	_	_	O
-15	odboru	_	_	_	_	_	_	_	_	O
-16	Pravosudne	_	_	_	_	_	_	_	_	O
-17	akademije	_	_	_	_	_	_	_	_	O
+14	Upravnom	_	_	_	_	_	_	_	_	B-ORG
+15	odboru	_	_	_	_	_	_	_	_	I-ORG
+16	Pravosudne	_	_	_	_	_	_	_	_	B-ORG
+17	akademije	_	_	_	_	_	_	_	_	I-ORG
 18	zahtev	_	_	_	_	_	_	_	_	O
 19	za	_	_	_	_	_	_	_	_	O
 20	razrešenje	_	_	_	_	_	_	_	_	O
 21	tadašnjeg	_	_	_	_	_	_	_	_	O
 22	direktora	_	_	_	_	_	_	_	_	O
-23	Pravosudne	_	_	_	_	_	_	_	_	O
-24	akademije	_	_	_	_	_	_	_	_	O
-25	Nenada	_	_	_	_	_	_	_	_	O
-26	Vujića	_	_	_	_	_	_	_	SpaceAfter=No	O
+23	Pravosudne	_	_	_	_	_	_	_	_	B-ORG
+24	akademije	_	_	_	_	_	_	_	_	I-ORG
+25	Nenada	_	_	_	_	_	_	_	_	B-PER
+26	Vujića	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 27	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 42
 # sent_id = 42.1
 # text = Upravni odbor je odbio predlog i nije razrešio Vujića koji je u aprilu ove godine seo u fotelju Ministra pravde.
-1	Upravni	_	_	_	_	_	_	_	_	O
-2	odbor	_	_	_	_	_	_	_	_	O
+1	Upravni	_	_	_	_	_	_	_	_	B-ORG
+2	odbor	_	_	_	_	_	_	_	_	I-ORG
 3	je	_	_	_	_	_	_	_	_	O
 4	odbio	_	_	_	_	_	_	_	_	O
 5	predlog	_	_	_	_	_	_	_	_	O
 6	i	_	_	_	_	_	_	_	_	O
 7	nije	_	_	_	_	_	_	_	_	O
 8	razrešio	_	_	_	_	_	_	_	_	O
-9	Vujića	_	_	_	_	_	_	_	_	O
+9	Vujića	_	_	_	_	_	_	_	_	B-PER
 10	koji	_	_	_	_	_	_	_	_	O
 11	je	_	_	_	_	_	_	_	_	O
 12	u	_	_	_	_	_	_	_	_	O
@@ -1624,15 +1624,15 @@
 16	seo	_	_	_	_	_	_	_	_	O
 17	u	_	_	_	_	_	_	_	_	O
 18	fotelju	_	_	_	_	_	_	_	_	O
-19	Ministra	_	_	_	_	_	_	_	_	O
-20	pravde	_	_	_	_	_	_	_	SpaceAfter=No	O
+19	Ministra	_	_	_	_	_	_	_	_	B-ORG
+20	pravde	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 21	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 43
 # sent_id = 43.1
 # text = Nenad Vujić je, inače, jedini ministar u ovoj Vladi Srbije koji još nije prijavio imovinu Agenciji za sprečavanje korupcije, o čemu je portal N1 već pisao (detaljnije pročitajte OVDE).
-1	Nenad	_	_	_	_	_	_	_	_	O
-2	Vujić	_	_	_	_	_	_	_	_	O
+1	Nenad	_	_	_	_	_	_	_	_	B-PER
+2	Vujić	_	_	_	_	_	_	_	_	I-PER
 3	je	_	_	_	_	_	_	_	SpaceAfter=No	O
 4	,	,	PUNCT	Z	_	_	_	_	_	O
 5	inače	_	_	_	_	_	_	_	SpaceAfter=No	O
@@ -1641,23 +1641,23 @@
 8	ministar	_	_	_	_	_	_	_	_	O
 9	u	_	_	_	_	_	_	_	_	O
 10	ovoj	_	_	_	_	_	_	_	_	O
-11	Vladi	_	_	_	_	_	_	_	_	O
-12	Srbije	_	_	_	_	_	_	_	_	O
+11	Vladi	_	_	_	_	_	_	_	_	B-ORG
+12	Srbije	_	_	_	_	_	_	_	_	I-ORG
 13	koji	_	_	_	_	_	_	_	_	O
 14	još	_	_	_	_	_	_	_	_	O
 15	nije	_	_	_	_	_	_	_	_	O
 16	prijavio	_	_	_	_	_	_	_	_	O
 17	imovinu	_	_	_	_	_	_	_	_	O
-18	Agenciji	_	_	_	_	_	_	_	_	O
-19	za	_	_	_	_	_	_	_	_	O
-20	sprečavanje	_	_	_	_	_	_	_	_	O
-21	korupcije	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	Agenciji	_	_	_	_	_	_	_	_	B-ORG
+19	za	_	_	_	_	_	_	_	_	I-ORG
+20	sprečavanje	_	_	_	_	_	_	_	_	I-ORG
+21	korupcije	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 22	,	,	PUNCT	Z	_	_	_	_	_	O
 23	o	_	_	_	_	_	_	_	_	O
 24	čemu	_	_	_	_	_	_	_	_	O
 25	je	_	_	_	_	_	_	_	_	O
 26	portal	_	_	_	_	_	_	_	_	O
-27	N1	_	_	_	_	_	_	_	_	O
+27	N1	_	_	_	_	_	_	_	_	B-ORG
 28	već	_	_	_	_	_	_	_	_	O
 29	pisao	_	_	_	_	_	_	_	_	O
 30	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
@@ -1670,21 +1670,21 @@
 # newpar id = 44
 # sent_id = 44.1
 # text = Zavod za izgradnju grada Beograda
-1	Zavod	_	_	_	_	_	_	_	_	O
-2	za	_	_	_	_	_	_	_	_	O
-3	izgradnju	_	_	_	_	_	_	_	_	O
-4	grada	_	_	_	_	_	_	_	_	O
-5	Beograda	_	_	_	_	_	_	_	_	O
+1	Zavod	_	_	_	_	_	_	_	_	B-ORG
+2	za	_	_	_	_	_	_	_	_	I-ORG
+3	izgradnju	_	_	_	_	_	_	_	_	I-ORG
+4	grada	_	_	_	_	_	_	_	_	I-ORG
+5	Beograda	_	_	_	_	_	_	_	_	I-ORG
 
 # newpar id = 45
 # sent_id = 45.1
 # text = I Zavod za izgradnju grada Beograda takođe je teško kršio obavezu dobrog poslovanja, objavila je DRI.
 1	I	_	_	_	_	_	_	_	_	O
-2	Zavod	_	_	_	_	_	_	_	_	O
-3	za	_	_	_	_	_	_	_	_	O
-4	izgradnju	_	_	_	_	_	_	_	_	O
-5	grada	_	_	_	_	_	_	_	_	O
-6	Beograda	_	_	_	_	_	_	_	_	O
+2	Zavod	_	_	_	_	_	_	_	_	B-ORG
+3	za	_	_	_	_	_	_	_	_	I-ORG
+4	izgradnju	_	_	_	_	_	_	_	_	I-ORG
+5	grada	_	_	_	_	_	_	_	_	I-ORG
+6	Beograda	_	_	_	_	_	_	_	_	I-ORG
 7	takođe	_	_	_	_	_	_	_	_	O
 8	je	_	_	_	_	_	_	_	_	O
 9	teško	_	_	_	_	_	_	_	_	O
@@ -1695,7 +1695,7 @@
 14	,	,	PUNCT	Z	_	_	_	_	_	O
 15	objavila	_	_	_	_	_	_	_	_	O
 16	je	_	_	_	_	_	_	_	_	O
-17	DRI	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	DRI	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
 18	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 46
@@ -1713,7 +1713,7 @@
 10	godinu	_	_	_	_	_	_	_	SpaceAfter=No	O
 11	)	)	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 12	,	,	PUNCT	Z	_	_	_	_	_	O
-13	Zavod	_	_	_	_	_	_	_	_	O
+13	Zavod	_	_	_	_	_	_	_	_	B-ORG
 14	je	_	_	_	_	_	_	_	_	O
 15	iskazao	_	_	_	_	_	_	_	_	O
 16	veća	_	_	_	_	_	_	_	_	O
@@ -1725,7 +1725,7 @@
 22	zemljište	_	_	_	_	_	_	_	_	O
 23	i	_	_	_	_	_	_	_	_	O
 24	izgradnju	_	_	_	_	_	_	_	_	O
-25	Beograda	_	_	_	_	_	_	_	SpaceAfter=No	O
+25	Beograda	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 26	,	,	PUNCT	Z	_	_	_	_	_	O
 27	u	_	_	_	_	_	_	_	_	O
 28	iznosu	_	_	_	_	_	_	_	_	O
@@ -1763,7 +1763,7 @@
 # newpar id = 47
 # sent_id = 47.1
 # text = Zavod je iskazao potraživanja po osnovu poreza na prenos apsolutnih prava u iznosu većem od 19.816.000 dinara i obaveze po istom osnovu u iznosu manjem od 42,31 milion dinara, u odnosu na vrednosti pozicija u evidencijama Poreske uprave.
-1	Zavod	_	_	_	_	_	_	_	_	O
+1	Zavod	_	_	_	_	_	_	_	_	B-ORG
 2	je	_	_	_	_	_	_	_	_	O
 3	iskazao	_	_	_	_	_	_	_	_	O
 4	potraživanja	_	_	_	_	_	_	_	_	O
@@ -1800,24 +1800,24 @@
 35	pozicija	_	_	_	_	_	_	_	_	O
 36	u	_	_	_	_	_	_	_	_	O
 37	evidencijama	_	_	_	_	_	_	_	_	O
-38	Poreske	_	_	_	_	_	_	_	_	O
-39	uprave	_	_	_	_	_	_	_	SpaceAfter=No	O
+38	Poreske	_	_	_	_	_	_	_	_	B-ORG
+39	uprave	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 40	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 48
 # sent_id = 48.1
 # text = DRI podneo zahtev za smenu direktora Zavoda za izgradnju grada Beograda
-1	DRI	_	_	_	_	_	_	_	_	O
+1	DRI	_	_	_	_	_	_	_	_	B-ORG
 2	podneo	_	_	_	_	_	_	_	_	O
 3	zahtev	_	_	_	_	_	_	_	_	O
 4	za	_	_	_	_	_	_	_	_	O
 5	smenu	_	_	_	_	_	_	_	_	O
 6	direktora	_	_	_	_	_	_	_	_	O
-7	Zavoda	_	_	_	_	_	_	_	_	O
-8	za	_	_	_	_	_	_	_	_	O
-9	izgradnju	_	_	_	_	_	_	_	_	O
-10	grada	_	_	_	_	_	_	_	_	O
-11	Beograda	_	_	_	_	_	_	_	_	O
+7	Zavoda	_	_	_	_	_	_	_	_	B-ORG
+8	za	_	_	_	_	_	_	_	_	I-ORG
+9	izgradnju	_	_	_	_	_	_	_	_	I-ORG
+10	grada	_	_	_	_	_	_	_	_	I-ORG
+11	Beograda	_	_	_	_	_	_	_	_	I-ORG
 
 # newpar id = 49
 # sent_id = 49.1
@@ -1839,7 +1839,7 @@
 15	na	_	_	_	_	_	_	_	_	O
 16	to	_	_	_	_	_	_	_	_	O
 17	da	_	_	_	_	_	_	_	_	O
-18	Zavod	_	_	_	_	_	_	_	_	O
+18	Zavod	_	_	_	_	_	_	_	_	B-ORG
 19	na	_	_	_	_	_	_	_	_	O
 20	kraju	_	_	_	_	_	_	_	_	O
 21	izveštajnog	_	_	_	_	_	_	_	_	O
@@ -1879,9 +1879,9 @@
 # newpar id = 50
 # sent_id = 50.1
 # text = Državna revizorska institucija je o teškom kršenju obaveze dobrog poslovanja obavestila Narodnu skupštinu i uputila Skupštini grada Beograda zahtev za razrešenje odgovornog lica Zavoda za izgradnju grada Beograda Radomana Spalevića, koji je na čelu ove institucije od jula 2019. godine.
-1	Državna	_	_	_	_	_	_	_	_	O
-2	revizorska	_	_	_	_	_	_	_	_	O
-3	institucija	_	_	_	_	_	_	_	_	O
+1	Državna	_	_	_	_	_	_	_	_	B-ORG
+2	revizorska	_	_	_	_	_	_	_	_	I-ORG
+3	institucija	_	_	_	_	_	_	_	_	I-ORG
 4	je	_	_	_	_	_	_	_	_	O
 5	o	_	_	_	_	_	_	_	_	O
 6	teškom	_	_	_	_	_	_	_	_	O
@@ -1890,25 +1890,25 @@
 9	dobrog	_	_	_	_	_	_	_	_	O
 10	poslovanja	_	_	_	_	_	_	_	_	O
 11	obavestila	_	_	_	_	_	_	_	_	O
-12	Narodnu	_	_	_	_	_	_	_	_	O
-13	skupštinu	_	_	_	_	_	_	_	_	O
+12	Narodnu	_	_	_	_	_	_	_	_	B-ORG
+13	skupštinu	_	_	_	_	_	_	_	_	I-ORG
 14	i	_	_	_	_	_	_	_	_	O
 15	uputila	_	_	_	_	_	_	_	_	O
-16	Skupštini	_	_	_	_	_	_	_	_	O
+16	Skupštini	_	_	_	_	_	_	_	_	B-ORG
 17	grada	_	_	_	_	_	_	_	_	O
-18	Beograda	_	_	_	_	_	_	_	_	O
+18	Beograda	_	_	_	_	_	_	_	_	B-LOC
 19	zahtev	_	_	_	_	_	_	_	_	O
 20	za	_	_	_	_	_	_	_	_	O
 21	razrešenje	_	_	_	_	_	_	_	_	O
 22	odgovornog	_	_	_	_	_	_	_	_	O
 23	lica	_	_	_	_	_	_	_	_	O
-24	Zavoda	_	_	_	_	_	_	_	_	O
-25	za	_	_	_	_	_	_	_	_	O
-26	izgradnju	_	_	_	_	_	_	_	_	O
-27	grada	_	_	_	_	_	_	_	_	O
-28	Beograda	_	_	_	_	_	_	_	_	O
-29	Radomana	_	_	_	_	_	_	_	_	O
-30	Spalevića	_	_	_	_	_	_	_	SpaceAfter=No	O
+24	Zavoda	_	_	_	_	_	_	_	_	B-ORG
+25	za	_	_	_	_	_	_	_	_	I-ORG
+26	izgradnju	_	_	_	_	_	_	_	_	I-ORG
+27	grada	_	_	_	_	_	_	_	_	I-ORG
+28	Beograda	_	_	_	_	_	_	_	_	I-ORG
+29	Radomana	_	_	_	_	_	_	_	_	B-PER
+30	Spalevića	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 31	,	,	PUNCT	Z	_	_	_	_	_	O
 32	koji	_	_	_	_	_	_	_	_	O
 33	je	_	_	_	_	_	_	_	_	O
@@ -1930,8 +1930,8 @@
 3	smenu	_	_	_	_	_	_	_	_	O
 4	upućen	_	_	_	_	_	_	_	_	O
 5	je	_	_	_	_	_	_	_	_	O
-6	Skupštini	_	_	_	_	_	_	_	_	O
-7	grada	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	Skupštini	_	_	_	_	_	_	_	_	B-ORG
+7	grada	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 8	,	,	PUNCT	Z	_	_	_	_	_	O
 9	ali	_	_	_	_	_	_	_	_	O
 10	ishod	_	_	_	_	_	_	_	SpaceAfter=No	O
@@ -1939,7 +1939,7 @@
 12	kako	_	_	_	_	_	_	_	_	O
 13	navode	_	_	_	_	_	_	_	_	O
 14	u	_	_	_	_	_	_	_	_	O
-15	DRI	_	_	_	_	_	_	_	_	O
+15	DRI	_	_	_	_	_	_	_	_	B-ORG
 16	-	-	PUNCT	Z	_	_	_	_	_	O
 17	nije	_	_	_	_	_	_	_	_	O
 18	dokumentovan	_	_	_	_	_	_	_	SpaceAfter=No	O
@@ -1948,23 +1948,23 @@
 # newpar id = 52
 # sent_id = 52.1
 # text = Radoman Spalević i dalje je na čelu Zavoda.
-1	Radoman	_	_	_	_	_	_	_	_	O
-2	Spalević	_	_	_	_	_	_	_	_	O
+1	Radoman	_	_	_	_	_	_	_	_	B-PER
+2	Spalević	_	_	_	_	_	_	_	_	I-PER
 3	i	_	_	_	_	_	_	_	_	O
 4	dalje	_	_	_	_	_	_	_	_	O
 5	je	_	_	_	_	_	_	_	_	O
 6	na	_	_	_	_	_	_	_	_	O
 7	čelu	_	_	_	_	_	_	_	_	O
-8	Zavoda	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	Zavoda	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
 9	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 53
 # sent_id = 53.1
 # text = I Zdravstveni centar Surdulica teško je kršio obavezu dobrog poslovanja, zbog čega je Državna revizorska institucija uputila Ministarstvu zdravlja zahtev za razrešenje odgovornog lica, dr Dragana Kitanovića, vršioca dužnosti direktora, objavila je DRI u junu ove godine.
 1	I	_	_	_	_	_	_	_	_	O
-2	Zdravstveni	_	_	_	_	_	_	_	_	O
-3	centar	_	_	_	_	_	_	_	_	O
-4	Surdulica	_	_	_	_	_	_	_	_	O
+2	Zdravstveni	_	_	_	_	_	_	_	_	B-ORG
+3	centar	_	_	_	_	_	_	_	_	I-ORG
+4	Surdulica	_	_	_	_	_	_	_	_	B-LOC
 5	teško	_	_	_	_	_	_	_	_	O
 6	je	_	_	_	_	_	_	_	_	O
 7	kršio	_	_	_	_	_	_	_	_	O
@@ -1975,12 +1975,12 @@
 12	zbog	_	_	_	_	_	_	_	_	O
 13	čega	_	_	_	_	_	_	_	_	O
 14	je	_	_	_	_	_	_	_	_	O
-15	Državna	_	_	_	_	_	_	_	_	O
-16	revizorska	_	_	_	_	_	_	_	_	O
-17	institucija	_	_	_	_	_	_	_	_	O
+15	Državna	_	_	_	_	_	_	_	_	B-ORG
+16	revizorska	_	_	_	_	_	_	_	_	I-ORG
+17	institucija	_	_	_	_	_	_	_	_	I-ORG
 18	uputila	_	_	_	_	_	_	_	_	O
-19	Ministarstvu	_	_	_	_	_	_	_	_	O
-20	zdravlja	_	_	_	_	_	_	_	_	O
+19	Ministarstvu	_	_	_	_	_	_	_	_	B-ORG
+20	zdravlja	_	_	_	_	_	_	_	_	I-ORG
 21	zahtev	_	_	_	_	_	_	_	_	O
 22	za	_	_	_	_	_	_	_	_	O
 23	razrešenje	_	_	_	_	_	_	_	_	O
@@ -1988,8 +1988,8 @@
 25	lica	_	_	_	_	_	_	_	SpaceAfter=No	O
 26	,	,	PUNCT	Z	_	_	_	_	_	O
 27	dr	_	_	_	_	_	_	_	_	O
-28	Dragana	_	_	_	_	_	_	_	_	O
-29	Kitanovića	_	_	_	_	_	_	_	SpaceAfter=No	O
+28	Dragana	_	_	_	_	_	_	_	_	B-PER
+29	Kitanovića	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 30	,	,	PUNCT	Z	_	_	_	_	_	O
 31	vršioca	_	_	_	_	_	_	_	_	O
 32	dužnosti	_	_	_	_	_	_	_	_	O
@@ -1997,7 +1997,7 @@
 34	,	,	PUNCT	Z	_	_	_	_	_	O
 35	objavila	_	_	_	_	_	_	_	_	O
 36	je	_	_	_	_	_	_	_	_	O
-37	DRI	_	_	_	_	_	_	_	_	O
+37	DRI	_	_	_	_	_	_	_	_	B-ORG
 38	u	_	_	_	_	_	_	_	_	O
 39	junu	_	_	_	_	_	_	_	_	O
 40	ove	_	_	_	_	_	_	_	_	O
@@ -2007,16 +2007,16 @@
 # newpar id = 54
 # sent_id = 54.1
 # text = DRI je u poslerevizionom postupku utvrdila da Zdravstveni centar Surdulica nije na zadovoljavajući način otklonio značajne nepravilnosti, među kojima su i ove:
-1	DRI	_	_	_	_	_	_	_	_	O
+1	DRI	_	_	_	_	_	_	_	_	B-ORG
 2	je	_	_	_	_	_	_	_	_	O
 3	u	_	_	_	_	_	_	_	_	O
 4	poslerevizionom	_	_	_	_	_	_	_	_	O
 5	postupku	_	_	_	_	_	_	_	_	O
 6	utvrdila	_	_	_	_	_	_	_	_	O
 7	da	_	_	_	_	_	_	_	_	O
-8	Zdravstveni	_	_	_	_	_	_	_	_	O
-9	centar	_	_	_	_	_	_	_	_	O
-10	Surdulica	_	_	_	_	_	_	_	_	O
+8	Zdravstveni	_	_	_	_	_	_	_	_	B-ORG
+9	centar	_	_	_	_	_	_	_	_	I-ORG
+10	Surdulica	_	_	_	_	_	_	_	_	B-LOC
 11	nije	_	_	_	_	_	_	_	_	O
 12	na	_	_	_	_	_	_	_	_	O
 13	zadovoljavajući	_	_	_	_	_	_	_	_	O
@@ -2035,13 +2035,13 @@
 # newpar id = 55
 # sent_id = 55.1
 # text = DRI traži smenu direktora Zdravstvenog centra Surdulica
-1	DRI	_	_	_	_	_	_	_	_	O
+1	DRI	_	_	_	_	_	_	_	_	B-ORG
 2	traži	_	_	_	_	_	_	_	_	O
 3	smenu	_	_	_	_	_	_	_	_	O
 4	direktora	_	_	_	_	_	_	_	_	O
-5	Zdravstvenog	_	_	_	_	_	_	_	_	O
-6	centra	_	_	_	_	_	_	_	_	O
-7	Surdulica	_	_	_	_	_	_	_	_	O
+5	Zdravstvenog	_	_	_	_	_	_	_	_	B-ORG
+6	centra	_	_	_	_	_	_	_	_	I-ORG
+7	Surdulica	_	_	_	_	_	_	_	_	B-LOC
 
 # newpar id = 56
 # sent_id = 56.1
@@ -2149,15 +2149,15 @@
 3	smenu	_	_	_	_	_	_	_	_	O
 4	je	_	_	_	_	_	_	_	_	O
 5	upućen	_	_	_	_	_	_	_	_	O
-6	Ministarstvu	_	_	_	_	_	_	_	_	O
-7	zdravlja	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	Ministarstvu	_	_	_	_	_	_	_	_	B-ORG
+7	zdravlja	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 8	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 62
 # sent_id = 62.1
 # text = Iako DRI navodi da ishod nije poznat, javno dostupni registri pokazuju da je Dragan Kitanović i dalje na čelu ove zdravstvene ustanove.
 1	Iako	_	_	_	_	_	_	_	_	O
-2	DRI	_	_	_	_	_	_	_	_	O
+2	DRI	_	_	_	_	_	_	_	_	B-ORG
 3	navodi	_	_	_	_	_	_	_	_	O
 4	da	_	_	_	_	_	_	_	_	O
 5	ishod	_	_	_	_	_	_	_	_	O
@@ -2170,41 +2170,41 @@
 12	pokazuju	_	_	_	_	_	_	_	_	O
 13	da	_	_	_	_	_	_	_	_	O
 14	je	_	_	_	_	_	_	_	_	O
-15	Dragan	_	_	_	_	_	_	_	_	O
-16	Kitanović	_	_	_	_	_	_	_	_	O
+15	Dragan	_	_	_	_	_	_	_	_	B-PER
+16	Kitanović	_	_	_	_	_	_	_	_	I-PER
 17	i	_	_	_	_	_	_	_	_	O
 18	dalje	_	_	_	_	_	_	_	_	O
 19	na	_	_	_	_	_	_	_	_	O
 20	čelu	_	_	_	_	_	_	_	_	O
 21	ove	_	_	_	_	_	_	_	_	O
-22	zdravstvene	_	_	_	_	_	_	_	_	O
-23	ustanove	_	_	_	_	_	_	_	SpaceAfter=No	O
+22	zdravstvene	_	_	_	_	_	_	_	_	B-ORG
+23	ustanove	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 24	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 63
 # sent_id = 63.1
 # text = Republička direkcija za robne rezerve
-1	Republička	_	_	_	_	_	_	_	_	O
-2	direkcija	_	_	_	_	_	_	_	_	O
-3	za	_	_	_	_	_	_	_	_	O
-4	robne	_	_	_	_	_	_	_	_	O
-5	rezerve	_	_	_	_	_	_	_	_	O
+1	Republička	_	_	_	_	_	_	_	_	B-ORG
+2	direkcija	_	_	_	_	_	_	_	_	I-ORG
+3	za	_	_	_	_	_	_	_	_	I-ORG
+4	robne	_	_	_	_	_	_	_	_	I-ORG
+5	rezerve	_	_	_	_	_	_	_	_	I-ORG
 
 # newpar id = 64
 # sent_id = 64.1
 # text = Zašto je Direkcija za robne rezerve teško kršila obavezu dobrog poslovanja DRI je obrazložila na gotovo osam strana svog poslerevizionog izveštaja koji se odnosi na reviziju završnih računa za 2022.
 1	Zašto	_	_	_	_	_	_	_	_	O
 2	je	_	_	_	_	_	_	_	_	O
-3	Direkcija	_	_	_	_	_	_	_	_	O
-4	za	_	_	_	_	_	_	_	_	O
-5	robne	_	_	_	_	_	_	_	_	O
+3	Direkcija	_	_	_	_	_	_	_	_	B-ORG
+4	za	_	_	_	_	_	_	_	_	I-ORG
+5	robne	_	_	_	_	_	_	_	_	I-ORG
 6	rezerve	_	_	_	_	_	_	_	_	O
 7	teško	_	_	_	_	_	_	_	_	O
 8	kršila	_	_	_	_	_	_	_	_	O
 9	obavezu	_	_	_	_	_	_	_	_	O
 10	dobrog	_	_	_	_	_	_	_	_	O
 11	poslovanja	_	_	_	_	_	_	_	_	O
-12	DRI	_	_	_	_	_	_	_	_	O
+12	DRI	_	_	_	_	_	_	_	_	B-ORG
 13	je	_	_	_	_	_	_	_	_	O
 14	obrazložila	_	_	_	_	_	_	_	_	O
 15	na	_	_	_	_	_	_	_	_	O
@@ -2227,7 +2227,7 @@
 # newpar id = 65
 # sent_id = 65.1
 # text = DRI "pročešljao" robne rezerve: "Smršale" junice na čuvanju
-1	DRI	_	_	_	_	_	_	_	_	O
+1	DRI	_	_	_	_	_	_	_	_	B-ORG
 2	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 3	pročešljao	_	_	_	_	_	_	_	SpaceAfter=No	O
 4	"	"	PUNCT	Z	_	_	_	_	_	O
@@ -2250,7 +2250,7 @@
 4	,	,	PUNCT	Z	_	_	_	_	_	O
 5	za	_	_	_	_	_	_	_	_	O
 6	koje	_	_	_	_	_	_	_	_	O
-7	DRI	_	_	_	_	_	_	_	_	O
+7	DRI	_	_	_	_	_	_	_	_	B-ORG
 8	navodi	_	_	_	_	_	_	_	_	O
 9	da	_	_	_	_	_	_	_	_	O
 10	ih	_	_	_	_	_	_	_	_	O
@@ -2282,7 +2282,7 @@
 1	Između	_	_	_	_	_	_	_	_	O
 2	ostalog	_	_	_	_	_	_	_	SpaceAfter=No	O
 3	,	,	PUNCT	Z	_	_	_	_	_	O
-4	Direkcija	_	_	_	_	_	_	_	_	O
+4	Direkcija	_	_	_	_	_	_	_	_	B-ORG
 5	koristi	_	_	_	_	_	_	_	_	O
 6	softver	_	_	_	_	_	_	_	_	O
 7	za	_	_	_	_	_	_	_	_	O
@@ -2383,10 +2383,10 @@
 3	i	_	_	_	_	_	_	_	_	O
 4	da	_	_	_	_	_	_	_	_	O
 5	potraživanja	_	_	_	_	_	_	_	_	O
-6	Direkcije	_	_	_	_	_	_	_	_	O
-7	za	_	_	_	_	_	_	_	_	O
-8	robne	_	_	_	_	_	_	_	_	O
-9	rezerve	_	_	_	_	_	_	_	_	O
+6	Direkcije	_	_	_	_	_	_	_	_	B-ORG
+7	za	_	_	_	_	_	_	_	_	I-ORG
+8	robne	_	_	_	_	_	_	_	_	I-ORG
+9	rezerve	_	_	_	_	_	_	_	_	I-ORG
 10	koja	_	_	_	_	_	_	_	_	O
 11	premašuju	_	_	_	_	_	_	_	_	O
 12	546	_	_	_	_	_	_	_	_	O
@@ -2445,7 +2445,7 @@
 # text = Na čelu Direkcije je, od 2007. godine do danas direktorka Zorica Anđelković.
 1	Na	_	_	_	_	_	_	_	_	O
 2	čelu	_	_	_	_	_	_	_	_	O
-3	Direkcije	_	_	_	_	_	_	_	_	O
+3	Direkcije	_	_	_	_	_	_	_	_	B-ORG
 4	je	_	_	_	_	_	_	_	SpaceAfter=No	O
 5	,	,	PUNCT	Z	_	_	_	_	_	O
 6	od	_	_	_	_	_	_	_	_	O
@@ -2454,26 +2454,26 @@
 9	do	_	_	_	_	_	_	_	_	O
 10	danas	_	_	_	_	_	_	_	_	O
 11	direktorka	_	_	_	_	_	_	_	_	O
-12	Zorica	_	_	_	_	_	_	_	_	O
-13	Anđelković	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	Zorica	_	_	_	_	_	_	_	_	B-PER
+13	Anđelković	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 14	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 71
 # sent_id = 71.1
 # text = DRI je u odgovoru portalu N1 navela da je postupanje po zahtevu DRI za smenu direktora bilo u nadležnosti više ministarstava, ali da nakon ostavke Vlade - nije nastavljen.
-1	DRI	_	_	_	_	_	_	_	_	O
+1	DRI	_	_	_	_	_	_	_	_	B-ORG
 2	je	_	_	_	_	_	_	_	_	O
 3	u	_	_	_	_	_	_	_	_	O
 4	odgovoru	_	_	_	_	_	_	_	_	O
 5	portalu	_	_	_	_	_	_	_	_	O
-6	N1	_	_	_	_	_	_	_	_	O
+6	N1	_	_	_	_	_	_	_	_	B-PER
 7	navela	_	_	_	_	_	_	_	_	O
 8	da	_	_	_	_	_	_	_	_	O
 9	je	_	_	_	_	_	_	_	_	O
 10	postupanje	_	_	_	_	_	_	_	_	O
 11	po	_	_	_	_	_	_	_	_	O
 12	zahtevu	_	_	_	_	_	_	_	_	O
-13	DRI	_	_	_	_	_	_	_	_	O
+13	DRI	_	_	_	_	_	_	_	_	B-ORG
 14	za	_	_	_	_	_	_	_	_	O
 15	smenu	_	_	_	_	_	_	_	_	O
 16	direktora	_	_	_	_	_	_	_	_	O
@@ -2487,7 +2487,7 @@
 24	da	_	_	_	_	_	_	_	_	O
 25	nakon	_	_	_	_	_	_	_	_	O
 26	ostavke	_	_	_	_	_	_	_	_	O
-27	Vlade	_	_	_	_	_	_	_	_	O
+27	Vlade	_	_	_	_	_	_	_	_	B-ORG
 28	-	-	PUNCT	Z	_	_	_	_	_	O
 29	nije	_	_	_	_	_	_	_	_	O
 30	nastavljen	_	_	_	_	_	_	_	SpaceAfter=No	O
@@ -2496,11 +2496,11 @@
 # newpar id = 72
 # sent_id = 72.1
 # text = Saobraćajno preduzeće „Lasta“ je teško kršila obavezu dobrog poslovanja, utvrdili su državni revizori, zbog čega je DRI uputila Nadzornom odboru Laste zahtev za razrešenje generalnog direktora Vladana Sekulića.
-1	Saobraćajno	_	_	_	_	_	_	_	_	O
-2	preduzeće	_	_	_	_	_	_	_	_	O
-3	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
-4	Lasta	_	_	_	_	_	_	_	SpaceAfter=No	O
-5	“	“	PUNCT	Z	_	_	_	_	_	O
+1	Saobraćajno	_	_	_	_	_	_	_	_	B-ORG
+2	preduzeće	_	_	_	_	_	_	_	_	I-ORG
+3	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	I-ORG
+4	Lasta	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+5	“	“	PUNCT	Z	_	_	_	_	_	I-ORG
 6	je	_	_	_	_	_	_	_	_	O
 7	teško	_	_	_	_	_	_	_	_	O
 8	kršila	_	_	_	_	_	_	_	_	O
@@ -2516,24 +2516,24 @@
 18	zbog	_	_	_	_	_	_	_	_	O
 19	čega	_	_	_	_	_	_	_	_	O
 20	je	_	_	_	_	_	_	_	_	O
-21	DRI	_	_	_	_	_	_	_	_	O
+21	DRI	_	_	_	_	_	_	_	_	B-ORG
 22	uputila	_	_	_	_	_	_	_	_	O
 23	Nadzornom	_	_	_	_	_	_	_	_	O
 24	odboru	_	_	_	_	_	_	_	_	O
-25	Laste	_	_	_	_	_	_	_	_	O
+25	Laste	_	_	_	_	_	_	_	_	B-ORG
 26	zahtev	_	_	_	_	_	_	_	_	O
 27	za	_	_	_	_	_	_	_	_	O
 28	razrešenje	_	_	_	_	_	_	_	_	O
 29	generalnog	_	_	_	_	_	_	_	_	O
 30	direktora	_	_	_	_	_	_	_	_	O
-31	Vladana	_	_	_	_	_	_	_	_	O
-32	Sekulića	_	_	_	_	_	_	_	SpaceAfter=No	O
+31	Vladana	_	_	_	_	_	_	_	_	B-PER
+32	Sekulića	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 33	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 73
 # sent_id = 73.1
 # text = Sekulić je podneo ostavku u junu 2024, koja je usvojena tek ove godine, a za novog generalnog direktora Nadzorni odbor imenovao je Radoslava Vidosavljevića, o čemu je pisao Forbes Srbija.
-1	Sekulić	_	_	_	_	_	_	_	_	O
+1	Sekulić	_	_	_	_	_	_	_	_	B-PER
 2	je	_	_	_	_	_	_	_	_	O
 3	podneo	_	_	_	_	_	_	_	_	O
 4	ostavku	_	_	_	_	_	_	_	_	O
@@ -2553,33 +2553,33 @@
 18	novog	_	_	_	_	_	_	_	_	O
 19	generalnog	_	_	_	_	_	_	_	_	O
 20	direktora	_	_	_	_	_	_	_	_	O
-21	Nadzorni	_	_	_	_	_	_	_	_	O
-22	odbor	_	_	_	_	_	_	_	_	O
+21	Nadzorni	_	_	_	_	_	_	_	_	B-ORG
+22	odbor	_	_	_	_	_	_	_	_	I-ORG
 23	imenovao	_	_	_	_	_	_	_	_	O
 24	je	_	_	_	_	_	_	_	_	O
-25	Radoslava	_	_	_	_	_	_	_	_	O
-26	Vidosavljevića	_	_	_	_	_	_	_	SpaceAfter=No	O
+25	Radoslava	_	_	_	_	_	_	_	_	B-PER
+26	Vidosavljevića	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 27	,	,	PUNCT	Z	_	_	_	_	_	O
 28	o	_	_	_	_	_	_	_	_	O
 29	čemu	_	_	_	_	_	_	_	_	O
 30	je	_	_	_	_	_	_	_	_	O
 31	pisao	_	_	_	_	_	_	_	_	O
-32	Forbes	_	_	_	_	_	_	_	_	O
-33	Srbija	_	_	_	_	_	_	_	SpaceAfter=No	O
+32	Forbes	_	_	_	_	_	_	_	_	B-ORG
+33	Srbija	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 34	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 74
 # sent_id = 74.1
 # text = Grad Beograd je, kao što je portal N1 već pisao, teško kršio obavezu dobrog poslovanja, pa je DRI uputila zahtev za razrešenje gradonačelnika Beograda Aleksandra Šapića.
-1	Grad	_	_	_	_	_	_	_	_	O
-2	Beograd	_	_	_	_	_	_	_	_	O
+1	Grad	_	_	_	_	_	_	_	_	B-LOC
+2	Beograd	_	_	_	_	_	_	_	_	I-LOC
 3	je	_	_	_	_	_	_	_	SpaceAfter=No	O
 4	,	,	PUNCT	Z	_	_	_	_	_	O
 5	kao	_	_	_	_	_	_	_	_	O
 6	što	_	_	_	_	_	_	_	_	O
 7	je	_	_	_	_	_	_	_	_	O
 8	portal	_	_	_	_	_	_	_	_	O
-9	N1	_	_	_	_	_	_	_	_	O
+9	N1	_	_	_	_	_	_	_	_	B-LOC
 10	već	_	_	_	_	_	_	_	_	O
 11	pisao	_	_	_	_	_	_	_	SpaceAfter=No	O
 12	,	,	PUNCT	Z	_	_	_	_	_	O
@@ -2591,24 +2591,24 @@
 18	,	,	PUNCT	Z	_	_	_	_	_	O
 19	pa	_	_	_	_	_	_	_	_	O
 20	je	_	_	_	_	_	_	_	_	O
-21	DRI	_	_	_	_	_	_	_	_	O
+21	DRI	_	_	_	_	_	_	_	_	B-ORG
 22	uputila	_	_	_	_	_	_	_	_	O
 23	zahtev	_	_	_	_	_	_	_	_	O
 24	za	_	_	_	_	_	_	_	_	O
 25	razrešenje	_	_	_	_	_	_	_	_	O
 26	gradonačelnika	_	_	_	_	_	_	_	_	O
-27	Beograda	_	_	_	_	_	_	_	_	O
-28	Aleksandra	_	_	_	_	_	_	_	_	O
-29	Šapića	_	_	_	_	_	_	_	SpaceAfter=No	O
+27	Beograda	_	_	_	_	_	_	_	_	B-LOC
+28	Aleksandra	_	_	_	_	_	_	_	_	B-PER
+29	Šapića	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 30	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 75
 # sent_id = 75.1
 # text = DRI je zatražila Šapićevu smenu zato što nisu otklonjene nepravilnosti u poslovanju Grada Beograda u 2022. godini prema kojima je u toj godini iz gradskog budžeta "nepravilno isplaćeno 980,12 miliona dinara više“.
-1	DRI	_	_	_	_	_	_	_	_	O
+1	DRI	_	_	_	_	_	_	_	_	B-PER
 2	je	_	_	_	_	_	_	_	_	O
 3	zatražila	_	_	_	_	_	_	_	_	O
-4	Šapićevu	_	_	_	_	_	_	_	_	O
+4	Šapićevu	_	_	_	_	_	_	_	_	B-PER
 5	smenu	_	_	_	_	_	_	_	_	O
 6	zato	_	_	_	_	_	_	_	_	O
 7	što	_	_	_	_	_	_	_	_	O
@@ -2617,8 +2617,8 @@
 10	nepravilnosti	_	_	_	_	_	_	_	_	O
 11	u	_	_	_	_	_	_	_	_	O
 12	poslovanju	_	_	_	_	_	_	_	_	O
-13	Grada	_	_	_	_	_	_	_	_	O
-14	Beograda	_	_	_	_	_	_	_	_	O
+13	Grada	_	_	_	_	_	_	_	_	B-LOC
+14	Beograda	_	_	_	_	_	_	_	_	I-LOC
 15	u	_	_	_	_	_	_	_	_	O
 16	2022.	_	_	_	_	_	_	_	_	O
 17	godini	_	_	_	_	_	_	_	_	O

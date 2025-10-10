@@ -11,10 +11,10 @@
 5	juče	_	_	_	_	_	_	_	_	O
 6	utopila	_	_	_	_	_	_	_	_	O
 7	na	_	_	_	_	_	_	_	_	O
-8	Novskoj	_	_	_	_	_	_	_	_	O
-9	rivijeri	_	_	_	_	_	_	_	_	O
+8	Novskoj	_	_	_	_	_	_	_	_	B-LOC
+9	rivijeri	_	_	_	_	_	_	_	_	I-LOC
 10	kod	_	_	_	_	_	_	_	_	O
-11	Luštice	_	_	_	_	_	_	_	_	O
+11	Luštice	_	_	_	_	_	_	_	_	B-LOC
 12	pronađeno	_	_	_	_	_	_	_	_	O
 13	je	_	_	_	_	_	_	_	_	O
 14	danas	_	_	_	_	_	_	_	_	O
@@ -29,9 +29,9 @@
 1	hrvatskim	_	_	_	_	_	_	_	_	O
 2	vodama	_	_	_	_	_	_	_	_	O
 3	između	_	_	_	_	_	_	_	_	O
-4	Prevlake	_	_	_	_	_	_	_	_	O
+4	Prevlake	_	_	_	_	_	_	_	_	B-LOC
 5	i	_	_	_	_	_	_	_	_	O
-6	Cavtata	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	Cavtata	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 7	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 2.2
@@ -43,7 +43,7 @@
 5	je	_	_	_	_	_	_	_	_	O
 6	trenutno	_	_	_	_	_	_	_	_	O
 7	u	_	_	_	_	_	_	_	_	O
-8	Cavtatu	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	Cavtatu	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 9	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 3
@@ -62,8 +62,8 @@
 11	su	_	_	_	_	_	_	_	_	O
 12	spasioci	_	_	_	_	_	_	_	_	O
 13	u	_	_	_	_	_	_	_	_	O
-14	Crnoj	_	_	_	_	_	_	_	_	O
-15	Gori	_	_	_	_	_	_	_	_	O
+14	Crnoj	_	_	_	_	_	_	_	_	B-LOC
+15	Gori	_	_	_	_	_	_	_	_	I-LOC
 16	juče	_	_	_	_	_	_	_	_	O
 17	posla	_	_	_	_	_	_	_	_	O
 18	podne	_	_	_	_	_	_	_	_	O
@@ -89,11 +89,11 @@
 
 # sent_id = 4.2
 # text = M. M. iz Vrnjačke Banje utopila se juče oko 15 časova kod rta Veslo na Luštici u Crnoj Gori,
-1	M.	_	_	_	_	_	_	_	_	O
-2	M.	_	_	_	_	_	_	_	_	O
+1	M.	_	_	_	_	_	_	_	_	B-PER
+2	M.	_	_	_	_	_	_	_	_	I-PER
 3	iz	_	_	_	_	_	_	_	_	O
-4	Vrnjačke	_	_	_	_	_	_	_	_	O
-5	Banje	_	_	_	_	_	_	_	_	O
+4	Vrnjačke	_	_	_	_	_	_	_	_	B-LOC
+5	Banje	_	_	_	_	_	_	_	_	I-LOC
 6	utopila	_	_	_	_	_	_	_	_	O
 7	se	_	_	_	_	_	_	_	_	O
 8	juče	_	_	_	_	_	_	_	_	O
@@ -101,13 +101,13 @@
 10	15	_	_	_	_	_	_	_	_	O
 11	časova	_	_	_	_	_	_	_	_	O
 12	kod	_	_	_	_	_	_	_	_	O
-13	rta	_	_	_	_	_	_	_	_	O
-14	Veslo	_	_	_	_	_	_	_	_	O
+13	rta	_	_	_	_	_	_	_	_	B-LOC
+14	Veslo	_	_	_	_	_	_	_	_	I-LOC
 15	na	_	_	_	_	_	_	_	_	O
-16	Luštici	_	_	_	_	_	_	_	_	O
+16	Luštici	_	_	_	_	_	_	_	_	B-LOC
 17	u	_	_	_	_	_	_	_	_	O
-18	Crnoj	_	_	_	_	_	_	_	_	O
-19	Gori	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	Crnoj	_	_	_	_	_	_	_	_	B-LOC
+19	Gori	_	_	_	_	_	_	_	SpaceAfter=No	I-LOC
 20	,	,	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 5

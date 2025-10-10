@@ -4,8 +4,8 @@
 # newpar id = 1
 # sent_id = 1.1
 # text = Princ Hari, vojvoda od Saseksa, iznenada je posetio ukrajinsku prestonicu Kijev, prenosi CNN.
-1	Princ	_	_	_	_	_	_	_	_	O
-2	Hari	_	_	_	_	_	_	_	SpaceAfter=No	O
+1	Princ	_	_	_	_	_	_	_	_	B-PER
+2	Hari	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 3	,	,	PUNCT	Z	_	_	_	_	_	O
 4	vojvoda	_	_	_	_	_	_	_	_	O
 5	od	_	_	_	_	_	_	_	_	O
@@ -16,10 +16,10 @@
 10	posetio	_	_	_	_	_	_	_	_	O
 11	ukrajinsku	_	_	_	_	_	_	_	_	O
 12	prestonicu	_	_	_	_	_	_	_	_	O
-13	Kijev	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	Kijev	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 14	,	,	PUNCT	Z	_	_	_	_	_	O
 15	prenosi	_	_	_	_	_	_	_	_	O
-16	CNN	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	CNN	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
 17	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 2
@@ -27,12 +27,12 @@
 # text = Prema izveštaju Gardijana, Hari je posetio Ukrajinu na poziv ukrajinske vlade, a očekuje se da će sa svojom fondacijom „Igre nepokornih“ sprovesti akcije kako bi podržao rehabilitaciju ranjenih Ukrajinaca.
 1	Prema	_	_	_	_	_	_	_	_	O
 2	izveštaju	_	_	_	_	_	_	_	_	O
-3	Gardijana	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	Gardijana	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
 4	,	,	PUNCT	Z	_	_	_	_	_	O
-5	Hari	_	_	_	_	_	_	_	_	O
+5	Hari	_	_	_	_	_	_	_	_	B-PER
 6	je	_	_	_	_	_	_	_	_	O
 7	posetio	_	_	_	_	_	_	_	_	O
-8	Ukrajinu	_	_	_	_	_	_	_	_	O
+8	Ukrajinu	_	_	_	_	_	_	_	_	B-LOC
 9	na	_	_	_	_	_	_	_	_	O
 10	poziv	_	_	_	_	_	_	_	_	O
 11	ukrajinske	_	_	_	_	_	_	_	_	O
@@ -47,11 +47,11 @@
 20	e	_	_	_	_	_	_	_	_	O
 21	sa	_	_	_	_	_	_	_	_	O
 22	svojom	_	_	_	_	_	_	_	_	O
-23	fondacijom	_	_	_	_	_	_	_	_	O
-24	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
-25	Igre	_	_	_	_	_	_	_	_	O
-26	nepokornih	_	_	_	_	_	_	_	SpaceAfter=No	O
-27	“	“	PUNCT	Z	_	_	_	_	_	O
+23	fondacijom	_	_	_	_	_	_	_	_	B-ORG
+24	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	I-ORG
+25	Igre	_	_	_	_	_	_	_	_	I-ORG
+26	nepokornih	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+27	“	“	PUNCT	Z	_	_	_	_	_	I-ORG
 28	sprovesti	_	_	_	_	_	_	_	_	O
 29	akcije	_	_	_	_	_	_	_	_	O
 30	kako	_	_	_	_	_	_	_	_	O
@@ -67,7 +67,7 @@
 # text = On je Ukrajinu posetio i u aprilu kako bi se sastao sa žrtvama rata u zapadnom gradu Lavovu.
 1	On	_	_	_	_	_	_	_	_	O
 2	je	_	_	_	_	_	_	_	_	O
-3	Ukrajinu	_	_	_	_	_	_	_	_	O
+3	Ukrajinu	_	_	_	_	_	_	_	_	B-LOC
 4	posetio	_	_	_	_	_	_	_	_	O
 5	i	_	_	_	_	_	_	_	_	O
 6	u	_	_	_	_	_	_	_	_	O
@@ -82,7 +82,7 @@
 15	u	_	_	_	_	_	_	_	_	O
 16	zapadnom	_	_	_	_	_	_	_	_	O
 17	gradu	_	_	_	_	_	_	_	_	O
-18	Lavovu	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	Lavovu	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 19	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 4
@@ -91,16 +91,16 @@
 1	Pre	_	_	_	_	_	_	_	_	O
 2	dolaska	_	_	_	_	_	_	_	_	O
 3	u	_	_	_	_	_	_	_	_	O
-4	Ukrajinu	_	_	_	_	_	_	_	_	O
-5	princ	_	_	_	_	_	_	_	_	O
-6	Hari	_	_	_	_	_	_	_	_	O
+4	Ukrajinu	_	_	_	_	_	_	_	_	B-LOC
+5	princ	_	_	_	_	_	_	_	_	B-PER
+6	Hari	_	_	_	_	_	_	_	_	I-PER
 7	ranije	_	_	_	_	_	_	_	_	O
 8	ove	_	_	_	_	_	_	_	_	O
 9	nedelje	_	_	_	_	_	_	_	_	O
 10	posetio	_	_	_	_	_	_	_	_	O
 11	je	_	_	_	_	_	_	_	_	O
 12	i	_	_	_	_	_	_	_	_	O
-13	Britaniju	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	Britaniju	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 14	,	,	PUNCT	Z	_	_	_	_	_	O
 15	kada	_	_	_	_	_	_	_	_	O
 16	se	_	_	_	_	_	_	_	_	O
@@ -109,9 +109,9 @@
 19	svojim	_	_	_	_	_	_	_	_	O
 20	ocem	_	_	_	_	_	_	_	SpaceAfter=No	O
 21	,	,	PUNCT	Z	_	_	_	_	_	O
-22	kraljem	_	_	_	_	_	_	_	_	O
-23	Čarlsom	_	_	_	_	_	_	_	_	O
-24	III	_	_	_	_	_	_	_	SpaceAfter=No	O
+22	kraljem	_	_	_	_	_	_	_	_	B-PER
+23	Čarlsom	_	_	_	_	_	_	_	_	I-PER
+24	III	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 25	,	,	PUNCT	Z	_	_	_	_	_	O
 26	posle	_	_	_	_	_	_	_	_	O
 27	19	_	_	_	_	_	_	_	_	O
@@ -132,7 +132,7 @@
 9	́	_	_	_	_	_	_	_	SpaceAfter=No	O
 10	e	_	_	_	_	_	_	_	_	O
 11	njegova	_	_	_	_	_	_	_	_	O
-12	fondacija	_	_	_	_	_	_	_	_	O
+12	fondacija	_	_	_	_	_	_	_	_	B-ORG
 13	donirati	_	_	_	_	_	_	_	_	O
 14	500.000	_	_	_	_	_	_	_	_	O
 15	dolara	_	_	_	_	_	_	_	_	O
@@ -140,12 +140,12 @@
 17	podršku	_	_	_	_	_	_	_	_	O
 18	deci	_	_	_	_	_	_	_	_	O
 19	iz	_	_	_	_	_	_	_	_	O
-20	Gaze	_	_	_	_	_	_	_	_	O
+20	Gaze	_	_	_	_	_	_	_	_	B-LOC
 21	i	_	_	_	_	_	_	_	_	O
-22	Ukrajine	_	_	_	_	_	_	_	SpaceAfter=No	O
+22	Ukrajine	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 23	,	,	PUNCT	Z	_	_	_	_	_	O
 24	objavio	_	_	_	_	_	_	_	_	O
 25	je	_	_	_	_	_	_	_	_	O
-26	Rojters	_	_	_	_	_	_	_	SpaceAfter=No	O
+26	Rojters	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
 27	.	.	PUNCT	Z	_	_	_	_	_	O
 

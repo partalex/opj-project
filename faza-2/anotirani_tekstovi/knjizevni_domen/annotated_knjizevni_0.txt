@@ -294,7 +294,7 @@
 21	preneo	_	_	_	_	_	_	_	_	O
 22	stručni	_	_	_	_	_	_	_	_	O
 23	časopis	_	_	_	_	_	_	_	_	O
-24	Izgradnja	_	_	_	_	_	_	_	SpaceAfter=No	O
+24	Izgradnja	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
 25	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 2.5
@@ -481,8 +481,8 @@
 21	kako	_	_	_	_	_	_	_	_	O
 22	piše	_	_	_	_	_	_	_	_	O
 23	u	_	_	_	_	_	_	_	_	O
-24	Istoriji	_	_	_	_	_	_	_	_	O
-25	Beograda	_	_	_	_	_	_	_	_	B-LOC
+24	Istoriji	_	_	_	_	_	_	_	_	B-ORG
+25	Beograda	_	_	_	_	_	_	_	_	I-ORG
 26	koju	_	_	_	_	_	_	_	_	O
 27	je	_	_	_	_	_	_	_	_	O
 28	objavio	_	_	_	_	_	_	_	_	O
@@ -666,8 +666,8 @@
 23	bila	_	_	_	_	_	_	_	_	O
 24	poznata	_	_	_	_	_	_	_	_	O
 25	kao	_	_	_	_	_	_	_	_	O
-26	Zagonetna	_	_	_	_	_	_	_	_	O
-27	starica	_	_	_	_	_	_	_	SpaceAfter=No	O
+26	Zagonetna	_	_	_	_	_	_	_	_	B-LOC
+27	starica	_	_	_	_	_	_	_	SpaceAfter=No	I-LOC
 28	...	...	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 5.2
@@ -744,7 +744,7 @@
 10	postojala	_	_	_	_	_	_	_	_	O
 11	je	_	_	_	_	_	_	_	_	O
 12	velika	_	_	_	_	_	_	_	_	O
-13	Maurer	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	Maurer	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
 14	,	,	PUNCT	Z	_	_	_	_	_	O
 15	odnosno	_	_	_	_	_	_	_	_	O
 16	konjička	_	_	_	_	_	_	_	_	O

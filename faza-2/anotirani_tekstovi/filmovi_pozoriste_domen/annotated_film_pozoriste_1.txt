@@ -223,8 +223,8 @@
 31	i	_	_	_	_	_	_	_	_	O
 32	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 33	Božanstvenu	_	_	_	_	_	_	_	_	O
-34	Saru	_	_	_	_	_	_	_	_	O
-35	Bernar	_	_	_	_	_	_	_	SpaceAfter=No	O
+34	Saru	_	_	_	_	_	_	_	_	B-PER
+35	Bernar	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 36	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 37	,	,	PUNCT	Z	_	_	_	_	_	O
 38	u	_	_	_	_	_	_	_	_	O

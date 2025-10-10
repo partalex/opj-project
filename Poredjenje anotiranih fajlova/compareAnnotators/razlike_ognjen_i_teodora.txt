@@ -1,0 +1,24 @@
+Ukupan broj tokena: 1265 
+Ukupan broj anotiranih tokena: 280 
+Ukupan broj razlika: 20 
+Razlike:
+Razlika u fajlu url= https://balkanrock.com/reportaze/duran-duran-u-milanu-divlji-momci-jos-uvek-na-tronu/ na liniji: 17 (linije u pitanju: "11	hipodromu	_	_	_	_	_	_	_	_	O" i "11	hipodromu	_	_	_	_	_	_	_	_	B-LOC")
+Razlika u fajlu url= https://balkanrock.com/reportaze/duran-duran-u-milanu-divlji-momci-jos-uvek-na-tronu/ na liniji: 18 (linije u pitanju: "12	San	_	_	_	_	_	_	_	_	B-LOC" i "12	San	_	_	_	_	_	_	_	_	I-LOC")
+Razlika u fajlu url= https://balkanrock.com/reportaze/duran-duran-u-milanu-divlji-momci-jos-uvek-na-tronu/ na liniji: 23 (linije u pitanju: "17	festivala	_	_	_	_	_	_	_	_	O" i "17	festivala	_	_	_	_	_	_	_	_	B-ORG")
+Razlika u fajlu url= https://balkanrock.com/reportaze/duran-duran-u-milanu-divlji-momci-jos-uvek-na-tronu/ na liniji: 24 (linije u pitanju: "18	I	_	_	_	_	_	_	_	_	B-ORG" i "18	I	_	_	_	_	_	_	_	_	I-ORG")
+Razlika u fajlu url= https://balkanrock.com/reportaze/duran-duran-u-milanu-divlji-momci-jos-uvek-na-tronu/ na liniji: 64 (linije u pitanju: "9	fanzina	_	_	_	_	_	_	_	_	O" i "9	fanzina	_	_	_	_	_	_	_	_	I-ORG")
+Razlika u fajlu url= https://balkanrock.com/reportaze/duran-duran-u-milanu-divlji-momci-jos-uvek-na-tronu/ na liniji: 90 (linije u pitanju: "35	Mučin	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG" i "35	Mučin	_	_	_	_	_	_	_	SpaceAfter=No	O")
+Razlika u fajlu url= https://nova.rs/magazin/putovanja/turisti-u-ljubljani-odusevljeni-kreacijom-koju-lokalci-gaze-na-putu-do-ribarnice-ovo-je-svetsko-remek-delo-ali-vam-niko-o-tome-ne-prica/ na liniji: 11 (linije u pitanju: "5	centralnom	_	_	_	_	_	_	_	_	O" i "5	centralnom	_	_	_	_	_	_	_	_	B-LOC")
+Razlika u fajlu url= https://nova.rs/magazin/putovanja/turisti-u-ljubljani-odusevljeni-kreacijom-koju-lokalci-gaze-na-putu-do-ribarnice-ovo-je-svetsko-remek-delo-ali-vam-niko-o-tome-ne-prica/ na liniji: 12 (linije u pitanju: "6	pijacom	_	_	_	_	_	_	_	_	O" i "6	pijacom	_	_	_	_	_	_	_	_	I-LOC")
+Razlika u fajlu url= https://nova.rs/magazin/putovanja/turisti-u-ljubljani-odusevljeni-kreacijom-koju-lokalci-gaze-na-putu-do-ribarnice-ovo-je-svetsko-remek-delo-ali-vam-niko-o-tome-ne-prica/ na liniji: 13 (linije u pitanju: "7	u	_	_	_	_	_	_	_	_	O" i "7	u	_	_	_	_	_	_	_	_	I-LOC")
+Razlika u fajlu url= https://nova.rs/magazin/putovanja/turisti-u-ljubljani-odusevljeni-kreacijom-koju-lokalci-gaze-na-putu-do-ribarnice-ovo-je-svetsko-remek-delo-ali-vam-niko-o-tome-ne-prica/ na liniji: 14 (linije u pitanju: "8	Ljubljani	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC" i "8	Ljubljani	_	_	_	_	_	_	_	SpaceAfter=No	I-LOC")
+Razlika u fajlu url= https://nova.rs/magazin/putovanja/turisti-u-ljubljani-odusevljeni-kreacijom-koju-lokalci-gaze-na-putu-do-ribarnice-ovo-je-svetsko-remek-delo-ali-vam-niko-o-tome-ne-prica/ na liniji: 77 (linije u pitanju: "5	Forbes	_	_	_	_	_	_	_	_	B-ORG" i "5	Forbes	_	_	_	_	_	_	_	_	B-PER")
+Razlika u fajlu url= https://nova.rs/magazin/putovanja/turisti-u-ljubljani-odusevljeni-kreacijom-koju-lokalci-gaze-na-putu-do-ribarnice-ovo-je-svetsko-remek-delo-ali-vam-niko-o-tome-ne-prica/ na liniji: 78 (linije u pitanju: "6	Robert	_	_	_	_	_	_	_	_	B-PER" i "6	Robert	_	_	_	_	_	_	_	_	I-PER")
+Razlika u fajlu url= https://nova.rs/magazin/putovanja/turisti-u-ljubljani-odusevljeni-kreacijom-koju-lokalci-gaze-na-putu-do-ribarnice-ovo-je-svetsko-remek-delo-ali-vam-niko-o-tome-ne-prica/ na liniji: 105 (linije u pitanju: "6	Sajmu	_	_	_	_	_	_	_	_	B-ORG" i "6	Sajmu	_	_	_	_	_	_	_	_	B-LOC")
+Razlika u fajlu url= https://nova.rs/magazin/putovanja/turisti-u-ljubljani-odusevljeni-kreacijom-koju-lokalci-gaze-na-putu-do-ribarnice-ovo-je-svetsko-remek-delo-ali-vam-niko-o-tome-ne-prica/ na liniji: 120 (linije u pitanju: "21	fluksus	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG" i "21	fluksus	_	_	_	_	_	_	_	SpaceAfter=No	O")
+Razlika u fajlu url= https://www.vrh.sud.rs/sr-lat/kd-2592025-24111 na liniji: 137 (linije u pitanju: "62	Krivičnog	_	_	_	_	_	_	_	_	O" i "62	Krivičnog	_	_	_	_	_	_	_	_	B-ORG")
+Razlika u fajlu url= https://www.vrh.sud.rs/sr-lat/kd-2592025-24111 na liniji: 138 (linije u pitanju: "63	zakonika	_	_	_	_	_	_	_	SpaceAfter=No	O" i "63	zakonika	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG")
+Razlika u fajlu url= https://www.vrh.sud.rs/sr-lat/kd-2592025-24111 na liniji: 164 (linije u pitanju: "89	Sudska	_	_	_	_	_	_	_	_	O" i "89	Sudska	_	_	_	_	_	_	_	_	B-ORG")
+Razlika u fajlu url= https://www.vrh.sud.rs/sr-lat/kd-2592025-24111 na liniji: 165 (linije u pitanju: "90	jedinica	_	_	_	_	_	_	_	_	O" i "90	jedinica	_	_	_	_	_	_	_	_	I-ORG")
+Razlika u fajlu url= https://www.vrh.sud.rs/sr-lat/kd-2592025-24111 na liniji: 232 (linije u pitanju: "10	dr	_	_	_	_	_	_	_	_	B-PER" i "10	dr	_	_	_	_	_	_	_	_	O")
+Razlika u fajlu url= https://www.vrh.sud.rs/sr-lat/kd-2592025-24111 na liniji: 233 (linije u pitanju: "11	Ilije	_	_	_	_	_	_	_	_	I-PER" i "11	Ilije	_	_	_	_	_	_	_	_	B-PER")

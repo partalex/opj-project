@@ -1,0 +1,2 @@
+Sve fajlove koji se porede staviti u toCompare folder i pokrenuti compareAll.py
+Skripta na kraju pravi izvestaje u vidu txt fajlova (1 za svaki par anotatora) u kojima pise: ukupan br tokena, ukupan broj anotiranih tokena kao i ukupan broj gresaka i sami redovi na kojima se nalaze greske.

@@ -1,0 +1,25 @@
+Ukupan broj tokena: 1312 
+Ukupan broj anotiranih tokena: 191 
+Ukupan broj razlika: 21 
+Razlike:
+Razlika u fajlu url= https://laguna.rs/n5025_knjiga_brojcanik_putopisni_dnevnici_laguna.html na liniji: 72 (linije u pitanju: "5	Gusinja	_	_	_	_	_	_	_	SpaceAfter=No	O" i "5	Gusinja	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC")
+Razlika u fajlu url= https://laguna.rs/n5025_knjiga_brojcanik_putopisni_dnevnici_laguna.html na liniji: 84 (linije u pitanju: "17	Prokletija	_	_	_	_	_	_	_	SpaceAfter=No	O" i "17	Prokletija	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC")
+Razlika u fajlu url= https://laguna.rs/n5025_knjiga_brojcanik_putopisni_dnevnici_laguna.html na liniji: 314 (linije u pitanju: "3	Albanija	_	_	_	_	_	_	_	SpaceAfter=No	O" i "3	Albanija	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC")
+Razlika u fajlu url= https://laguna.rs/n5025_knjiga_brojcanik_putopisni_dnevnici_laguna.html na liniji: 328 (linije u pitanju: "10	Gusinja	_	_	_	_	_	_	_	SpaceAfter=No	O" i "10	Gusinja	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC")
+Razlika u fajlu url= https://laguna.rs/n5025_knjiga_brojcanik_putopisni_dnevnici_laguna.html na liniji: 410 (linije u pitanju: "13	Kolašina	_	_	_	_	_	_	_	SpaceAfter=No	O" i "13	Kolašina	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC")
+Razlika u fajlu url= https://laguna.rs/n5025_knjiga_brojcanik_putopisni_dnevnici_laguna.html na liniji: 637 (linije u pitanju: "12	Plavu	_	_	_	_	_	_	_	SpaceAfter=No	O" i "12	Plavu	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC")
+Razlika u fajlu url= https://laguna.rs/n5025_knjiga_brojcanik_putopisni_dnevnici_laguna.html na liniji: 691 (linije u pitanju: "66	Crnogorska	_	_	_	_	_	_	_	SpaceAfter=No	O" i "66	Crnogorska	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG")
+Razlika u fajlu url= https://laguna.rs/n5025_knjiga_brojcanik_putopisni_dnevnici_laguna.html na liniji: 719 (linije u pitanju: "24	Rastoderi	_	_	_	_	_	_	_	_	B-PER" i "24	Rastoderi	_	_	_	_	_	_	_	_	O")
+Razlika u fajlu url= https://laguna.rs/n5025_knjiga_brojcanik_putopisni_dnevnici_laguna.html na liniji: 721 (linije u pitanju: "26	Dukljane	_	_	_	_	_	_	_	_	B-PER" i "26	Dukljane	_	_	_	_	_	_	_	_	O")
+Razlika u fajlu url= https://laguna.rs/n5025_knjiga_brojcanik_putopisni_dnevnici_laguna.html na liniji: 828 (linije u pitanju: "4	Plavljanin	_	_	_	_	_	_	_	SpaceAfter=No	B-PER" i "4	Plavljanin	_	_	_	_	_	_	_	SpaceAfter=No	O")
+Razlika u fajlu url= https://laguna.rs/n5025_knjiga_brojcanik_putopisni_dnevnici_laguna.html na liniji: 862 (linije u pitanju: "38	DANU	_	_	_	_	_	_	_	SpaceAfter=No	O" i "38	DANU	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG")
+Razlika u fajlu url= https://laguna.rs/n5025_knjiga_brojcanik_putopisni_dnevnici_laguna.html na liniji: 893 (linije u pitanju: "23	plavsko-gusinjskom	_	_	_	_	_	_	_	_	O" i "23	plavsko-gusinjskom	_	_	_	_	_	_	_	_	B-LOC")
+Razlika u fajlu url= https://laguna.rs/n5025_knjiga_brojcanik_putopisni_dnevnici_laguna.html na liniji: 894 (linije u pitanju: "24	kotlinom	_	_	_	_	_	_	_	SpaceAfter=No	O" i "24	kotlinom	_	_	_	_	_	_	_	SpaceAfter=No	I-LOC")
+Razlika u fajlu url= https://laguna.rs/n5025_knjiga_brojcanik_putopisni_dnevnici_laguna.html na liniji: 993 (linije u pitanju: "69	Užicu	_	_	_	_	_	_	_	SpaceAfter=No	O" i "69	Užicu	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC")
+Razlika u fajlu url= https://laguna.rs/n5025_knjiga_brojcanik_putopisni_dnevnici_laguna.html na liniji: 1106 (linije u pitanju: "39	Jevrem	_	_	_	_	_	_	_	SpaceAfter=No	B-PER" i "39	Jevrem	_	_	_	_	_	_	_	SpaceAfter=No	O")
+Razlika u fajlu url= https://laguna.rs/n5025_knjiga_brojcanik_putopisni_dnevnici_laguna.html na liniji: 1116 (linije u pitanju: "6	Šerbo	_	_	_	_	_	_	_	SpaceAfter=No	O" i "6	Šerbo	_	_	_	_	_	_	_	SpaceAfter=No	B-PER")
+Razlika u fajlu url= https://laguna.rs/n5025_knjiga_brojcanik_putopisni_dnevnici_laguna.html na liniji: 1189 (linije u pitanju: "5	Huseina	_	_	_	_	_	_	_	_	B-PER" i "5	Huseina	_	_	_	_	_	_	_	_	O")
+Razlika u fajlu url= https://laguna.rs/n5025_knjiga_brojcanik_putopisni_dnevnici_laguna.html na liniji: 1190 (linije u pitanju: "6	Bašića	_	_	_	_	_	_	_	SpaceAfter=No	I-PER" i "6	Bašića	_	_	_	_	_	_	_	SpaceAfter=No	O")
+Razlika u fajlu url= https://laguna.rs/n5025_knjiga_brojcanik_putopisni_dnevnici_laguna.html na liniji: 1227 (linije u pitanju: "5	Novica	_	_	_	_	_	_	_	SpaceAfter=No	O" i "5	Novica	_	_	_	_	_	_	_	SpaceAfter=No	B-PER")
+Razlika u fajlu url= https://laguna.rs/n5025_knjiga_brojcanik_putopisni_dnevnici_laguna.html na liniji: 1300 (linije u pitanju: "12	Pivi	_	_	_	_	_	_	_	SpaceAfter=No	O" i "12	Pivi	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC")
+Razlika u fajlu url= https://laguna.rs/n5025_knjiga_brojcanik_putopisni_dnevnici_laguna.html na liniji: 1404 (linije u pitanju: "30	Vukoviću	_	_	_	_	_	_	_	_	B-PER" i "30	Vukoviću	_	_	_	_	_	_	_	_	I-PER")

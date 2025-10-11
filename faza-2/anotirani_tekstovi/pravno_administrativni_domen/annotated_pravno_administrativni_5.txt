@@ -49,7 +49,7 @@
 36	krivičnom	_	_	_	_	_	_	_	_	O
 37	predmetu	_	_	_	_	_	_	_	_	O
 38	osuđenog	_	_	_	_	_	_	_	_	O
-39	AA	_	_	_	_	_	_	_	SpaceAfter=No	O
+39	AA	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 40	,	,	PUNCT	Z	_	_	_	_	_	O
 41	zbog	_	_	_	_	_	_	_	_	O
 42	krivičnog	_	_	_	_	_	_	_	_	O
@@ -122,7 +122,7 @@
 2	SE	_	_	_	_	_	_	_	_	O
 3	zahtev	_	_	_	_	_	_	_	_	O
 4	osuđenog	_	_	_	_	_	_	_	_	O
-5	AA	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	AA	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 6	,	,	PUNCT	Z	_	_	_	_	_	O
 7	pa	_	_	_	_	_	_	_	_	O
 8	se	_	_	_	_	_	_	_	_	O
@@ -154,7 +154,7 @@
 8	Vrhovni	_	_	_	_	_	_	_	_	B-ORG
 9	sud	_	_	_	_	_	_	_	_	I-ORG
 10	osuđenog	_	_	_	_	_	_	_	_	O
-11	AA	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	AA	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 12	,	,	PUNCT	Z	_	_	_	_	_	O
 13	za	_	_	_	_	_	_	_	_	O
 14	izvršeno	_	_	_	_	_	_	_	_	O
@@ -241,7 +241,7 @@
 25	17.10.2002.	_	_	_	_	_	_	_	_	O
 26	godine	_	_	_	_	_	_	_	SpaceAfter=No	O
 27	,	,	PUNCT	Z	_	_	_	_	_	O
-28	AA	_	_	_	_	_	_	_	_	O
+28	AA	_	_	_	_	_	_	_	_	B-PER
 29	je	_	_	_	_	_	_	_	_	O
 30	zbog	_	_	_	_	_	_	_	_	O
 31	krivičnog	_	_	_	_	_	_	_	_	O
@@ -304,7 +304,7 @@
 
 # sent_id = 6.3
 # text = BB naknadi štetu prouzrokovanu krivičnim delom, tako što će mu isplatiti iznos od 870.000,00 dinara, najkasnije do 15.04.2003. godine.
-1	BB	_	_	_	_	_	_	_	_	O
+1	BB	_	_	_	_	_	_	_	_	B-PER
 2	naknadi	_	_	_	_	_	_	_	_	O
 3	štetu	_	_	_	_	_	_	_	_	O
 4	prouzrokovanu	_	_	_	_	_	_	_	_	O
@@ -367,7 +367,7 @@
 8	osudu	_	_	_	_	_	_	_	_	O
 9	prema	_	_	_	_	_	_	_	_	O
 10	osuđenom	_	_	_	_	_	_	_	_	O
-11	AA	_	_	_	_	_	_	_	_	O
+11	AA	_	_	_	_	_	_	_	_	B-PER
 12	i	_	_	_	_	_	_	_	_	O
 13	odredio	_	_	_	_	_	_	_	_	O
 14	da	_	_	_	_	_	_	_	_	O
@@ -1036,7 +1036,7 @@
 11	kazni	_	_	_	_	_	_	_	_	O
 12	i	_	_	_	_	_	_	_	_	O
 13	osuđenog	_	_	_	_	_	_	_	_	O
-14	AA	_	_	_	_	_	_	_	_	O
+14	AA	_	_	_	_	_	_	_	_	B-PER
 15	za	_	_	_	_	_	_	_	_	O
 16	izvršeno	_	_	_	_	_	_	_	_	O
 17	krivično	_	_	_	_	_	_	_	_	O

@@ -18,7 +18,7 @@
 11	Hills	_	_	_	_	_	_	_	_	B-ORG
 12	of	_	_	_	_	_	_	_	_	I-ORG
 13	Rock	_	_	_	_	_	_	_	_	I-ORG
-14	festivala	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+14	festivala	_	_	_	_	_	_	_	SpaceAfter=No	O
 15	,	,	PUNCT	Z	_	_	_	_	_	O
 16	autor	_	_	_	_	_	_	_	_	O
 17	ovih	_	_	_	_	_	_	_	_	O

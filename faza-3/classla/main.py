@@ -56,6 +56,8 @@ def token_features(sentence, index):
         'position': index,
     }
     # prethodna 2 tokena
+    # todo: zasto samo 2 tokena?
+    # todo: je l se gledaju naredni
     for i in range(1, 3):
         if index - i >= 0:
             prev = sentence[index - i]
@@ -94,16 +96,14 @@ if __name__ == "__main__":
     kf = KFold(n_splits=10, shuffle=True, random_state=42)
     model = MultinomialNB()
     y_pred = cross_val_predict(model, X_vec, y_vec, cv=kf)
-    print(classification_report(y_vec, y_pred))
-
+    print(classification_report(y_vec, y_pred, zero_division=0))
 
     # 🧮 6. Evaluacija bez B-/I- prefiksa
     def strip_prefix(tag):
         return tag.split('-')[-1] if '-' in tag else tag
 
-
     y_true_stripped = [strip_prefix(t) for t in y_vec]
     y_pred_stripped = [strip_prefix(t) for t in y_pred]
 
     print("=== Evaluacija bez B-/I- prefiksa ===")
-    print(classification_report(y_true_stripped, y_pred_stripped))
+    print(classification_report(y_true_stripped, y_pred_stripped, zero_division=0))

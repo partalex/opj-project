@@ -43,6 +43,3 @@ todo: Pretraziti todo u ovom fajlu, prepakovati pravila i primere ako su nejasna
 14. nazivi kafica
     * zaposleni restorarana Usce - zap. nije org, ostalo jesto
     * basta restorana Usce - todo: da li je basta deo lokacije - uzivajte u radu :)
-15. 
-
-

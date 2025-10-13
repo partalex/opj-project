@@ -4,7 +4,7 @@
 # newpar id = 1
 # sent_id = 1.1
 # text = Ford je juče objavio povlačenje više od 115.000 vozila upravljačkim stubom volana koji se može odvojiti.
-1	Ford	_	_	_	_	_	_	_	_	O
+1	Ford	_	_	_	_	_	_	_	_	B-ORG
 2	je	_	_	_	_	_	_	_	_	O
 3	juče	_	_	_	_	_	_	_	_	O
 4	objavio	_	_	_	_	_	_	_	_	O
@@ -81,22 +81,22 @@
 19	se	_	_	_	_	_	_	_	_	O
 20	u	_	_	_	_	_	_	_	_	O
 21	dokumentaciji	_	_	_	_	_	_	_	_	O
-22	Nacionalne	_	_	_	_	_	_	_	_	O
-23	administracije	_	_	_	_	_	_	_	_	O
-24	za	_	_	_	_	_	_	_	_	O
-25	bezbednost	_	_	_	_	_	_	_	_	O
-26	saobraćaja	_	_	_	_	_	_	_	_	O
-27	na	_	_	_	_	_	_	_	_	O
-28	putevima	_	_	_	_	_	_	_	_	O
-29	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
-30	NHTSA	_	_	_	_	_	_	_	SpaceAfter=No	O
-31	)	)	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+22	Nacionalne	_	_	_	_	_	_	_	_	B-ORG
+23	administracije	_	_	_	_	_	_	_	_	I-ORG
+24	za	_	_	_	_	_	_	_	_	I-ORG
+25	bezbednost	_	_	_	_	_	_	_	_	I-ORG
+26	saobraćaja	_	_	_	_	_	_	_	_	I-ORG
+27	na	_	_	_	_	_	_	_	_	I-ORG
+28	putevima	_	_	_	_	_	_	_	_	I-ORG
+29	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	I-ORG
+30	NHTSA	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+31	)	)	PUNCT	Z	_	_	_	_	SpaceAfter=No	I-ORG
 32	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 3
 # sent_id = 3.1
 # text = Ford je ove godine izdao 115 opoziva u vezi sa bezbednošću, uključujući i jučerašnje obaveštenje.
-1	Ford	_	_	_	_	_	_	_	_	O
+1	Ford	_	_	_	_	_	_	_	_	B-ORG
 2	je	_	_	_	_	_	_	_	_	O
 3	ove	_	_	_	_	_	_	_	_	O
 4	godine	_	_	_	_	_	_	_	_	O
@@ -134,25 +134,25 @@
 # text = Daleko ispred Krajslera (33), Forest Rivera (18) i Folksvagena (20), prema podacima NHTSA.
 1	Daleko	_	_	_	_	_	_	_	_	O
 2	ispred	_	_	_	_	_	_	_	_	O
-3	Krajslera	_	_	_	_	_	_	_	_	O
+3	Krajslera	_	_	_	_	_	_	_	_	B-ORG
 4	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 5	33	_	_	_	_	_	_	_	SpaceAfter=No	O
 6	)	)	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 7	,	,	PUNCT	Z	_	_	_	_	_	O
-8	Forest	_	_	_	_	_	_	_	_	O
-9	Rivera	_	_	_	_	_	_	_	_	O
+8	Forest	_	_	_	_	_	_	_	_	B-ORG
+9	Rivera	_	_	_	_	_	_	_	_	I-ORG
 10	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 11	18	_	_	_	_	_	_	_	SpaceAfter=No	O
 12	)	)	PUNCT	Z	_	_	_	_	_	O
 13	i	_	_	_	_	_	_	_	_	O
-14	Folksvagena	_	_	_	_	_	_	_	_	O
+14	Folksvagena	_	_	_	_	_	_	_	_	B-ORG
 15	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 16	20	_	_	_	_	_	_	_	SpaceAfter=No	O
 17	)	)	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 18	,	,	PUNCT	Z	_	_	_	_	_	O
 19	prema	_	_	_	_	_	_	_	_	O
 20	podacima	_	_	_	_	_	_	_	_	O
-21	NHTSA	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	NHTSA	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
 22	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 4
@@ -202,7 +202,7 @@
 13	,	,	PUNCT	Z	_	_	_	_	_	O
 14	naveo	_	_	_	_	_	_	_	_	O
 15	je	_	_	_	_	_	_	_	_	O
-16	Ford	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	Ford	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
 17	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 6
@@ -243,7 +243,7 @@
 # newpar id = 7
 # sent_id = 7.1
 # text = Ford je saopštio da je do 11. septembra zabeležio najmanje četiri prijave kupaca i sedam zahteva u okviru garancije koji bi mogli biti povezani sa problemom.
-1	Ford	_	_	_	_	_	_	_	_	O
+1	Ford	_	_	_	_	_	_	_	_	B-ORG
 2	je	_	_	_	_	_	_	_	_	O
 3	saopštio	_	_	_	_	_	_	_	_	O
 4	da	_	_	_	_	_	_	_	_	O
@@ -294,7 +294,7 @@
 # newpar id = 8
 # sent_id = 8.1
 # text = Ford je ove godine povukao oko 9,5 miliona vozila, prema podacima NHTSA.
-1	Ford	_	_	_	_	_	_	_	_	O
+1	Ford	_	_	_	_	_	_	_	_	B-ORG
 2	je	_	_	_	_	_	_	_	_	O
 3	ove	_	_	_	_	_	_	_	_	O
 4	godine	_	_	_	_	_	_	_	_	O
@@ -306,14 +306,14 @@
 10	,	,	PUNCT	Z	_	_	_	_	_	O
 11	prema	_	_	_	_	_	_	_	_	O
 12	podacima	_	_	_	_	_	_	_	_	O
-13	NHTSA	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	NHTSA	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
 14	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 9
 # sent_id = 9.1
 # text = Dilerima Forda opoziv je prijavljen u utorak.
-1	Dilerima	_	_	_	_	_	_	_	_	O
-2	Forda	_	_	_	_	_	_	_	_	O
+1	Dilerima	_	_	_	_	_	_	_	_	B-ORG
+2	Forda	_	_	_	_	_	_	_	_	I-ORG
 3	opoziv	_	_	_	_	_	_	_	_	O
 4	je	_	_	_	_	_	_	_	_	O
 5	prijavljen	_	_	_	_	_	_	_	_	O
@@ -355,13 +355,13 @@
 9	,	,	PUNCT	Z	_	_	_	_	_	O
 10	saopštila	_	_	_	_	_	_	_	_	O
 11	je	_	_	_	_	_	_	_	_	O
-12	NHTSA	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	NHTSA	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
 13	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 9.4
 # text = Fordovi dileri će, po potrebi, besplatno popraviti ili zameniti neispravan deo.
-1	Fordovi	_	_	_	_	_	_	_	_	O
-2	dileri	_	_	_	_	_	_	_	_	O
+1	Fordovi	_	_	_	_	_	_	_	_	B-ORG
+2	dileri	_	_	_	_	_	_	_	_	I-ORG
 3	će	_	_	_	_	_	_	_	SpaceAfter=No	O
 4	,	,	PUNCT	Z	_	_	_	_	_	O
 5	po	_	_	_	_	_	_	_	_	O
@@ -387,7 +387,7 @@
 1	U	_	_	_	_	_	_	_	_	O
 2	poslednjim	_	_	_	_	_	_	_	_	O
 3	mesecima	_	_	_	_	_	_	_	_	O
-4	Ford	_	_	_	_	_	_	_	_	O
+4	Ford	_	_	_	_	_	_	_	_	B-ORG
 5	je	_	_	_	_	_	_	_	_	O
 6	izdao	_	_	_	_	_	_	_	_	O
 7	više	_	_	_	_	_	_	_	_	O
@@ -476,14 +476,14 @@
 1	U	_	_	_	_	_	_	_	_	O
 2	julu	_	_	_	_	_	_	_	_	O
 3	je	_	_	_	_	_	_	_	_	O
-4	Ford	_	_	_	_	_	_	_	_	O
+4	Ford	_	_	_	_	_	_	_	_	B-ORG
 5	povukao	_	_	_	_	_	_	_	_	O
 6	više	_	_	_	_	_	_	_	_	O
 7	od	_	_	_	_	_	_	_	_	O
 8	850.000	_	_	_	_	_	_	_	_	O
-9	Ford	_	_	_	_	_	_	_	_	O
+9	Ford	_	_	_	_	_	_	_	_	B-ORG
 10	i	_	_	_	_	_	_	_	_	O
-11	Linkoln	_	_	_	_	_	_	_	_	O
+11	Linkoln	_	_	_	_	_	_	_	_	B-ORG
 12	vozila	_	_	_	_	_	_	_	_	O
 13	zbog	_	_	_	_	_	_	_	_	O
 14	problema	_	_	_	_	_	_	_	_	O
@@ -529,7 +529,7 @@
 2	u	_	_	_	_	_	_	_	_	O
 3	avgustu	_	_	_	_	_	_	_	SpaceAfter=No	O
 4	,	,	PUNCT	Z	_	_	_	_	_	O
-5	Ford	_	_	_	_	_	_	_	_	O
+5	Ford	_	_	_	_	_	_	_	_	B-ORG
 6	je	_	_	_	_	_	_	_	_	O
 7	povukao	_	_	_	_	_	_	_	_	O
 8	oko	_	_	_	_	_	_	_	_	O

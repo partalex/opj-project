@@ -1,4 +1,4 @@
 #name = ognjen
 #domen = tviter
 #url = https://x.com/DIF_blokada/status/1974904213366100156
-#text = Не знамо да ли се овај режим сећа 1. фебруара, ни ти да ли се сећа 15. фебруара, можда је заборавио и 1. март, можда су чак заборавили и 15. март, али им нећемо дати да забораве 1. новембар, као ни наше захтеве, зато сви у Нови Сад 1. новембра!!! До испуњења захтева!!!
+#text = Ne znamo da li se ovaj režim seća 1. februara, ni ti da li se seća 15. februara, možda je zaboravio i 1. mart, možda su čak zaboravili i 15. mart, ali im nećemo dati da zaborave 1. novembar, kao ni naše zahteve, zato svi u Novi Sad 1. novembra!!! Do ispunjenja zahteva!!!

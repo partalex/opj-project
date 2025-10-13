@@ -1,0 +1,4 @@
+#name = ognjen
+#domen = tviter
+#url = https://x.com/ETF_Beograd/status/1354352260663422980
+#text = David Pantović, student 2. godine ETF-a Beograd, sa Odseka za RTI, sinoć je pobedio u poznatom kvizu "Potera", na nacionalnoj televiziji RTS. Elektrotehnički fakultet čestita kolegi Davidu na ostvarenom izuzetnom rezultatu u kvizu "Potera"

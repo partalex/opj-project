@@ -1,4 +1,4 @@
 #name = ognjen
 #domen = tviter
 #url = https://x.com/UNSinfo/status/1635240625988853760
-#text = Традиционално пред Сајам аутомобила који ће ове године бити организован од 22. до 28. марта на београдском сајму такмичиће се и новинари аутомобилисти.
+#text = Tradicionalno pred Sajam automobila koji će ove godine biti organizovan od 22. do 28. marta na beogradskom sajmu takmičiće se i novinari automobilisti.

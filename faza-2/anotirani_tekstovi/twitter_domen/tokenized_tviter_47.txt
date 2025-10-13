@@ -6,8 +6,8 @@
 # text = Tradicionalno pred Sajam automobila koji će ove godine biti organizovan od 22. do 28. marta na beogradskom sajmu takmičiće se i novinari automobilisti.
 1	Tradicionalno	_	_	_	_	_	_	_	_	O
 2	pred	_	_	_	_	_	_	_	_	O
-3	Sajam	_	_	_	_	_	_	_	_	O
-4	automobila	_	_	_	_	_	_	_	_	O
+3	Sajam	_	_	_	_	_	_	_	_	B-ORG
+4	automobila	_	_	_	_	_	_	_	_	I-ORG
 5	koji	_	_	_	_	_	_	_	_	O
 6	će	_	_	_	_	_	_	_	_	O
 7	ove	_	_	_	_	_	_	_	_	O
@@ -20,12 +20,12 @@
 14	28.	_	_	_	_	_	_	_	_	O
 15	marta	_	_	_	_	_	_	_	_	O
 16	na	_	_	_	_	_	_	_	_	O
-17	beogradskom	_	_	_	_	_	_	_	_	O
-18	sajmu	_	_	_	_	_	_	_	_	O
+17	beogradskom	_	_	_	_	_	_	_	_	B-LOC
+18	sajmu	_	_	_	_	_	_	_	_	I-LOC
 19	takmičiće	_	_	_	_	_	_	_	_	O
 20	se	_	_	_	_	_	_	_	_	O
 21	i	_	_	_	_	_	_	_	_	O
-22	novinari	_	_	_	_	_	_	_	_	O
-23	automobilisti	_	_	_	_	_	_	_	SpaceAfter=No	O
+22	novinari	_	_	_	_	_	_	_	_	B-ORG
+23	automobilisti	_	_	_	_	_	_	_	SpaceAfter=No	I_ORG
 24	.	.	PUNCT	Z	_	_	_	_	_	O
 

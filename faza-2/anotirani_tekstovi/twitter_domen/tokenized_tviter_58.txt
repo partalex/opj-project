@@ -1,0 +1,80 @@
+#name = ognjen
+#domen = tviter
+#url = https://x.com/n1srbija/status/1977775251095265622
+# newpar id = 1
+# sent_id = 1.1
+# text = Poslanici opozicije dobili su poziv za hitne konsultacije od sekretara Skupštine povodom izveštaja OEBS-a o izboru članova saveta Regulatornog tela za elektronske medije (REM).
+1	Poslanici	_	_	_	_	_	_	_	_	O
+2	opozicije	_	_	_	_	_	_	_	_	B-ORG
+3	dobili	_	_	_	_	_	_	_	_	O
+4	su	_	_	_	_	_	_	_	_	O
+5	poziv	_	_	_	_	_	_	_	_	O
+6	za	_	_	_	_	_	_	_	_	O
+7	hitne	_	_	_	_	_	_	_	_	O
+8	konsultacije	_	_	_	_	_	_	_	_	O
+9	od	_	_	_	_	_	_	_	_	O
+10	sekretara	_	_	_	_	_	_	_	_	O
+11	Skupštine	_	_	_	_	_	_	_	_	B-ORG
+12	povodom	_	_	_	_	_	_	_	_	O
+13	izveštaja	_	_	_	_	_	_	_	_	O
+14	OEBS-a	_	_	_	_	_	_	_	_	B-ORG
+15	o	_	_	_	_	_	_	_	_	O
+16	izboru	_	_	_	_	_	_	_	_	O
+17	članova	_	_	_	_	_	_	_	_	O
+18	saveta	_	_	_	_	_	_	_	_	O
+19	Regulatornog	_	_	_	_	_	_	_	_	B-ORG
+20	tela	_	_	_	_	_	_	_	_	I_ORG
+21	za	_	_	_	_	_	_	_	_	I-ORG
+22	elektronske	_	_	_	_	_	_	_	_	I-ORG
+23	medije	_	_	_	_	_	_	_	_	I-ORG
+24	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	I-ORG
+25	REM	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+26	)	)	PUNCT	Z	_	_	_	_	SpaceAfter=No	I-ORG
+27	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.2
+# text = Član odbora za kulturu i informisanje Radomir Lazović rekao je za N1 kako je siguran da je na vlast izvršen pritisak od strane OEBS-a ili predstavnika Evropske unije, te da se oni sada "bore da ostvare kontrolu nad REM-om".
+1	Član	_	_	_	_	_	_	_	_	O
+2	odbora	_	_	_	_	_	_	_	_	B-ORG
+3	za	_	_	_	_	_	_	_	_	I-ORG
+4	kulturu	_	_	_	_	_	_	_	_	I-ORG
+5	i	_	_	_	_	_	_	_	_	I-ORG
+6	informisanje	_	_	_	_	_	_	_	_	I-ORG
+7	Radomir	_	_	_	_	_	_	_	_	B-PER
+8	Lazović	_	_	_	_	_	_	_	_	I-PER
+9	rekao	_	_	_	_	_	_	_	_	O
+10	je	_	_	_	_	_	_	_	_	O
+11	za	_	_	_	_	_	_	_	_	O
+12	N1	_	_	_	_	_	_	_	_	B-ORG
+13	kako	_	_	_	_	_	_	_	_	O
+14	je	_	_	_	_	_	_	_	_	O
+15	siguran	_	_	_	_	_	_	_	_	O
+16	da	_	_	_	_	_	_	_	_	O
+17	je	_	_	_	_	_	_	_	_	O
+18	na	_	_	_	_	_	_	_	_	O
+19	vlast	_	_	_	_	_	_	_	_	O
+20	izvršen	_	_	_	_	_	_	_	_	O
+21	pritisak	_	_	_	_	_	_	_	_	O
+22	od	_	_	_	_	_	_	_	_	O
+23	strane	_	_	_	_	_	_	_	_	O
+24	OEBS-a	_	_	_	_	_	_	_	_	B-ORG
+25	ili	_	_	_	_	_	_	_	_	O
+26	predstavnika	_	_	_	_	_	_	_	_	O
+27	Evropske	_	_	_	_	_	_	_	_	B-ORG
+28	unije	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+29	,	,	PUNCT	Z	_	_	_	_	_	O
+30	te	_	_	_	_	_	_	_	_	O
+31	da	_	_	_	_	_	_	_	_	O
+32	se	_	_	_	_	_	_	_	_	O
+33	oni	_	_	_	_	_	_	_	_	O
+34	sada	_	_	_	_	_	_	_	_	O
+35	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+36	bore	_	_	_	_	_	_	_	_	O
+37	da	_	_	_	_	_	_	_	_	O
+38	ostvare	_	_	_	_	_	_	_	_	O
+39	kontrolu	_	_	_	_	_	_	_	_	O
+40	nad	_	_	_	_	_	_	_	_	O
+41	REM-om	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
+42	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+43	.	.	PUNCT	Z	_	_	_	_	_	O
+

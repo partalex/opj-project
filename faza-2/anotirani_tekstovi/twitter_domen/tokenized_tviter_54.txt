@@ -56,8 +56,8 @@
 50	zato	_	_	_	_	_	_	_	_	O
 51	svi	_	_	_	_	_	_	_	_	O
 52	u	_	_	_	_	_	_	_	_	O
-53	Novi	_	_	_	_	_	_	_	_	O
-54	Sad	_	_	_	_	_	_	_	_	O
+53	Novi	_	_	_	_	_	_	_	_	B-LOC
+54	Sad	_	_	_	_	_	_	_	_	I-LOC
 55	1.	_	_	_	_	_	_	_	_	O
 56	novembra	_	_	_	_	_	_	_	SpaceAfter=No	O
 57	!!!	!!!	PUNCT	Z	_	_	_	_	_	O

@@ -1,0 +1,74 @@
+#name = ognjen
+#domen = tviter
+#url = https://x.com/Velinovski/status/1775940948817498556
+# newpar id = 1
+# sent_id = 1.1
+# text = Bor je danas tako tužan, tako pokidan, tako zbunjen i zaprepascen!
+1	Bor	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	danas	_	_	_	_	_	_	_	_	O
+4	tako	_	_	_	_	_	_	_	_	O
+5	tužan	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	tako	_	_	_	_	_	_	_	_	O
+8	pokidan	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	tako	_	_	_	_	_	_	_	_	O
+11	zbunjen	_	_	_	_	_	_	_	_	O
+12	i	_	_	_	_	_	_	_	_	O
+13	zaprepascen	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	!	!	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.2
+# text = Moj Bor je grad koji je uvek bio prvi kada je pomoć trebala bilo kome, kada se gradilo, kada je trebala krv...
+1	Moj	_	_	_	_	_	_	_	_	O
+2	Bor	_	_	_	_	_	_	_	_	O
+3	je	_	_	_	_	_	_	_	_	O
+4	grad	_	_	_	_	_	_	_	_	O
+5	koji	_	_	_	_	_	_	_	_	O
+6	je	_	_	_	_	_	_	_	_	O
+7	uvek	_	_	_	_	_	_	_	_	O
+8	bio	_	_	_	_	_	_	_	_	O
+9	prvi	_	_	_	_	_	_	_	_	O
+10	kada	_	_	_	_	_	_	_	_	O
+11	je	_	_	_	_	_	_	_	_	O
+12	pomoć	_	_	_	_	_	_	_	_	O
+13	trebala	_	_	_	_	_	_	_	_	O
+14	bilo	_	_	_	_	_	_	_	_	O
+15	kome	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	,	,	PUNCT	Z	_	_	_	_	_	O
+17	kada	_	_	_	_	_	_	_	_	O
+18	se	_	_	_	_	_	_	_	_	O
+19	gradilo	_	_	_	_	_	_	_	SpaceAfter=No	O
+20	,	,	PUNCT	Z	_	_	_	_	_	O
+21	kada	_	_	_	_	_	_	_	_	O
+22	je	_	_	_	_	_	_	_	_	O
+23	trebala	_	_	_	_	_	_	_	_	O
+24	krv	_	_	_	_	_	_	_	SpaceAfter=No	O
+25	...	...	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.3
+# text = A današnje doba je od nekih mojih sugrađana, pa i cele Srbije, napravilo sebične, bedne i loše ljude!
+1	A	_	_	_	_	_	_	_	_	O
+2	današnje	_	_	_	_	_	_	_	_	O
+3	doba	_	_	_	_	_	_	_	_	O
+4	je	_	_	_	_	_	_	_	_	O
+5	od	_	_	_	_	_	_	_	_	O
+6	nekih	_	_	_	_	_	_	_	_	O
+7	mojih	_	_	_	_	_	_	_	_	O
+8	sugrađana	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	pa	_	_	_	_	_	_	_	_	O
+11	i	_	_	_	_	_	_	_	_	O
+12	cele	_	_	_	_	_	_	_	_	O
+13	Srbije	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	,	,	PUNCT	Z	_	_	_	_	_	O
+15	napravilo	_	_	_	_	_	_	_	_	O
+16	sebične	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	,	,	PUNCT	Z	_	_	_	_	_	O
+18	bedne	_	_	_	_	_	_	_	_	O
+19	i	_	_	_	_	_	_	_	_	O
+20	loše	_	_	_	_	_	_	_	_	O
+21	ljude	_	_	_	_	_	_	_	SpaceAfter=No	O
+22	!	!	PUNCT	Z	_	_	_	_	_	O
+

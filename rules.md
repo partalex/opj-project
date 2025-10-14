@@ -4,8 +4,8 @@
 todo: Pretraziti todo u ovom fajlu, prepakovati pravila i primere ako su nejasna. 
 ```
 
-1. Prisvojni prider od konteksta zavisi
-    * Janin film = B-PER I-PER
+1. Prisvojni pridev od konteksta zavisi
+    * Janin film = B-PER O
     * Milenina kuca = B-LOC I-LOC
     * Сomborska regija = B-LOC I-LOC
     * Somborac Ernest Bosnjaku - Ernest Bosnjaku je B-PER, Somborac nije nista
@@ -34,12 +34,14 @@ todo: Pretraziti todo u ovom fajlu, prepakovati pravila i primere ako su nejasna
     * Ustavni sud - samo jedan je Ustavni
     * Ukrajinska vlada - sve org
     * Izraelska mornarica - sve je org
-11. Naziv drzave - todo
-    *
+11. Naziv drzave - su loc
+    * Gradonacelnig Beograda - gradonacelnik nije nista, Beograd je loc
 12. Nazivi nagrade - nije nista
     * Miselinova zvezdica - isto nista
 13. Deo mesta lokacije - todo
-    * atrijumu Gradske kuce -
+    * atrijumu Gradske kuce - 
 14. nazivi kafica
     * zaposleni restorarana Usce - zap. nije org, ostalo jesto
     * basta restorana Usce - todo: da li je basta deo lokacije - uzivajte u radu :)
+15. Imena ljudi, mesta, ustanova u nazivima ulica su deo LOC.
+16. 

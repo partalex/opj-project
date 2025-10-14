@@ -1,4 +1,4 @@
-## Z(a)bun(a) = zbun
+dal ## Z(a)bun(a) = zbun
 
 1. Milenina kuca = B-LOC I-LOC
     * B-LOC I-LOC

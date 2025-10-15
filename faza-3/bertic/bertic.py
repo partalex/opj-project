@@ -22,6 +22,24 @@ def export(splited: list[str]) -> list[str, str]:
 #Ovo zameniti posle za sve tekstove + napraviti funkciju za svaki tekst pojedinacno
 def load_conll_data(path) -> list[list[int | str]]:
     result = []
+    error_label_map = {
+        'B-NAGTAG': 'O',
+        'I-NAGTAG': 'O',
+        'o': 'O',
+        'B=ORG': 'B-ORG',
+        '_   B-ORG': 'B-ORG',
+        'B-ROG': 'B-ORG',
+        '': 'O',
+        'B=PER': 'B-PER',
+        'B-period': 'B-PER',
+        '_  B-LOC': 'B-LOC',
+        'B-LOX': 'B-LOC',
+        'И': 'O',
+        'I_ORG': 'I-ORG',
+        'I-ROG': 'I-ORG',
+        'I-EPR': 'I-PER'
+    }
+
     with open(path, encoding='utf-8') as file:
         sentence_index = 0
         token_info = []
@@ -39,35 +57,15 @@ def load_conll_data(path) -> list[list[int | str]]:
             splited = line.split('\t')
             splited = export(splited)
 
-            token_info.append(sentence_index)
-            
             word = splited[0]
-            label = splited[1]
+            label = error_label_map.get(splited[1], splited[1])
 
-            #provera
-            if label == 'B-NAGTAG' or label == 'I-NAGTAG' or label == 'o':
-                label = 'O'
-            if label == 'B=ORG' or label == '_   B-ORG' or label == 'B-ROG':
-                label = 'B-ORG'
-            if label == '':
-                label = 'O'
-            if label == "B=PER" or label == "B-period":
-                label = 'B-PER'
-            if label == "_  B-LOC" or label == 'B-LOX':
-                label = "B-LOC"
-            if label == "И":
-                label = "O"
-            if label == 'I_ORG' or label == 'I-ROG':
-                label = 'I-ORG'
-            if label == 'I-EPR':
-                label = 'I-PER'
-
+            token_info.append(sentence_index)
             token_info.append(word)
             token_info.append(label)
             result.append(token_info)
             token_info = []
            
-
     return result
 
 def load_conll_data_word(file_input_path):
@@ -76,13 +74,10 @@ def load_conll_data_word(file_input_path):
         for line in file:
             # ignore comments
             if line.startswith('# text = '):
-                parts = line.split("=")
-                result.append(parts[1])
+                result.append(line.split("=")[1])
     return result
 
-#nad celim skupom podataka
-def evaluate_whole_corpus_model(data, model):
-
+def evaluate_model(data, model):
     model_data = pd.DataFrame(
         data, columns=["sentence_id", "words", "labels"]
     )
@@ -90,26 +85,22 @@ def evaluate_whole_corpus_model(data, model):
     return result, model_outputs, preds_list
 
 def plot_confusion_matrix(y_pred,y_true, labels_list):
-    
-
-    # Napravi matricu konfuzije
     cm = confusion_matrix(y_true, y_pred, labels=labels_list)
     cm_df = pd.DataFrame(cm, index=labels_list, columns=labels_list)
 
-    # Prikaz sa heatmap
     plt.figure(figsize=(10, 8))
     sns.heatmap(cm_df, annot=True, fmt="d", cmap="Blues")
     plt.title("NER Confusion Matrix")
     plt.ylabel("True Labels")
     plt.xlabel("Predicted Labels")
     plt.show()
-
     return cm_df
 
 if __name__ == "__main__":
+
     root_input_folder = "../../faza-2/anotirani_tekstovi"
-    data_whole_corpus = []
-    data_words_corpus = []
+    data_corpus = []
+    data_sentence_corpus = []
     #prikupljanje tokena iz svih fajlova
     sentence_ind = 0
     for root, dirs, files in os.walk(root_input_folder):
@@ -122,8 +113,8 @@ if __name__ == "__main__":
                 words_data = load_conll_data_word(file_input_path)
 
                 conll_data_new = [[sentence_ind, item[1], item[2]] for item in conll_data]
-                data_whole_corpus.extend(conll_data_new)
-                data_words_corpus.extend(words_data)
+                data_corpus.extend(conll_data_new)
+                data_sentence_corpus.extend(words_data)
                 sentence_ind += 1
 
     model_args = NERArgs()
@@ -131,7 +122,7 @@ if __name__ == "__main__":
     model = NERModel(
         "electra", "classla/bcms-bertic-ner", args=model_args, use_cuda=False
     )
-    predictions, raw_outputs = model.predict(data_words_corpus)
+    predictions, raw_outputs = model.predict(data_sentence_corpus)
     y_true = []
     y_pred = []
 
@@ -139,10 +130,10 @@ if __name__ == "__main__":
     broj = 0
     for elem in predictions:
         for e in elem:
-            word1 = data_whole_corpus[broj][1]
+            word1 = data_corpus[broj][1]
             word2 = list(e.keys())[0]
             if word1 == word2 or word2.startswith(word1):
-                y_true.append(data_whole_corpus[broj][2])
+                y_true.append(data_corpus[broj][2])
                 if e[word2] == 'B-MISC' or e[word2] == 'I-MISC':
                     y_pred.append('O')
                 else:
@@ -152,62 +143,48 @@ if __name__ == "__main__":
             
             while True:
                 broj += 1
-                word1 = data_whole_corpus[broj][1]
+                word1 = data_corpus[broj][1]
                 word2 = list(e.keys())[0]
                 if word1 == word2 or word2.startswith(word1):
-                    y_true.append(data_whole_corpus[broj][2])
+                    y_true.append(data_corpus[broj][2])
                     if e[word2] == 'B-MISC' or e[word2] == 'I-MISC':
                         y_pred.append('O')
                     else:
                         y_pred.append(e[word2])
                     broj+= 1
                     break
-
-    # for i, (s1, s2) in enumerate(zip(y_pred, y_true)):
-    #     if s1 != s2:
-    #         print(f"Razlika na indeksu {i}: '{s1}' != '{s2}'")
-
-    plot_confusion_matrix(y_pred,y_true, model_args.labels_list)
-    # result, model_outputs, preds_list = model.eval_model(data_whole_corpus)
-
-    scoring = {}
+    
+    #evaluacija modela sa prefiksima
     labels_list = ['B-LOC','B-ORG','B-PER','I-LOC','I-ORG','I-PER','O']
-    #Accuracy score
-    scoring['accuracy'] = accuracy_score(y_true, y_pred)
-    #Precision
-    scoring['precision'] = precision_score(y_true, y_pred, labels=labels_list, average=None)
-    #Recall
-    scoring['recall'] = recall_score(y_true, y_pred, labels=labels_list, average=None)
-    #F1 score
-    scoring['f1'] = f1_score(y_true, y_pred, labels=labels_list, average=None)
-    print(scoring) 
-               
-    print("\nDetailed classification report:")
+    scoring = {
+        "accuracy" : accuracy_score(y_true, y_pred),
+        "precision" : precision_score(y_true, y_pred, labels=labels_list, average=None),
+        "recall" : recall_score(y_true, y_pred, labels=labels_list, average=None),
+        "f1" : f1_score(y_true, y_pred, labels=labels_list, average=None)
+    }
+    plot_confusion_matrix(y_pred,y_true, model_args.labels_list)
+
+    print("\nClassification report with prefixes B- and I-:")
     report = classification_report(y_true, y_pred, labels=labels_list, digits=4)
     print(report)
     with open("classification_report.txt", "w", encoding="utf-8") as f:
         f.write(report)
-    
 
-    #classification report - za samo tipove
+    #evaluacija modela bez prefiksa
     y_true_no_prefix = [label.split('-')[-1] if '-' in label else label for label in y_true]
     y_pred_no_prefix = [label.split('-')[-1] if '-' in label else label for label in y_pred]
     labels_list_no_prefix = ['LOC','ORG','PER','O']
 
-    scoring['accuracy'] = accuracy_score(y_true_no_prefix, y_pred_no_prefix)
-    #Precision
-    scoring['precision'] = precision_score(y_true_no_prefix, y_pred_no_prefix, labels=labels_list_no_prefix, average=None)
-    #Recall
-    scoring['recall'] = recall_score(y_true_no_prefix, y_pred_no_prefix, labels=labels_list_no_prefix, average=None)
-    #F1 score
-    scoring['f1'] = f1_score(y_true_no_prefix, y_pred_no_prefix, labels=labels_list_no_prefix, average=None)
-    print(scoring) 
-               
-    print("\nDetailed classification report:")
+    scoring_simple = {
+        "accuracy" : accuracy_score(y_true_no_prefix, y_pred_no_prefix),
+        "precision" : precision_score(y_true_no_prefix, y_pred_no_prefix, labels=labels_list_no_prefix, average=None),
+        "recall" : recall_score(y_true_no_prefix, y_pred_no_prefix, labels=labels_list_no_prefix, average=None),
+        "f1" : f1_score(y_true_no_prefix, y_pred_no_prefix, labels=labels_list_no_prefix, average=None)
+    }
+     
+    print("\nClassification report without prefixes:")
     report = classification_report(y_true_no_prefix, y_pred_no_prefix, labels=labels_list_no_prefix, digits=4)
     plot_confusion_matrix(y_pred_no_prefix,y_true_no_prefix, labels_list_no_prefix)
-    
-    print(report)
     with open("classification_report_no_prefix.txt", "w", encoding="utf-8") as f:
         f.write(report)
 

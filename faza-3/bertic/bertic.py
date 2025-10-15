@@ -1,13 +1,13 @@
-import pandas as pd
-from simpletransformers.ner import NERModel, NERArgs
-import numpy as np
 import os
 import shutil
-import matplotlib.pyplot as plt
-import re
-from transformers import pipeline
-from sklearn.metrics import confusion_matrix
+import pandas as pd
+import numpy as np
 import seaborn as sns
+import matplotlib.pyplot as plt
+
+from simpletransformers.ner import NERModel, NERArgs
+from sklearn.metrics import confusion_matrix
+from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score, confusion_matrix, classification_report
 
 def error(msg: str) -> None:
     print(f"\033[91m{msg}\033[0m")
@@ -131,7 +131,6 @@ if __name__ == "__main__":
     model = NERModel(
         "electra", "classla/bcms-bertic-ner", args=model_args, use_cuda=False
     )
-
     predictions, raw_outputs = model.predict(data_words_corpus)
     y_true = []
     y_pred = []
@@ -164,13 +163,51 @@ if __name__ == "__main__":
                     broj+= 1
                     break
 
-    for i, (s1, s2) in enumerate(zip(y_pred, y_true)):
-        if s1 != s2:
-            print(f"Razlika na indeksu {i}: '{s1}' != '{s2}'")
+    # for i, (s1, s2) in enumerate(zip(y_pred, y_true)):
+    #     if s1 != s2:
+    #         print(f"Razlika na indeksu {i}: '{s1}' != '{s2}'")
 
     plot_confusion_matrix(y_pred,y_true, model_args.labels_list)
-    result, model_outputs, preds_list = model.eval_model(data_whole_corpus)
+    # result, model_outputs, preds_list = model.eval_model(data_whole_corpus)
+
+    scoring = {}
+    labels_list = ['B-LOC','B-ORG','B-PER','I-LOC','I-ORG','I-PER','O']
+    #Accuracy score
+    scoring['accuracy'] = accuracy_score(y_true, y_pred)
+    #Precision
+    scoring['precision'] = precision_score(y_true, y_pred, labels=labels_list, average=None)
+    #Recall
+    scoring['recall'] = recall_score(y_true, y_pred, labels=labels_list, average=None)
+    #F1 score
+    scoring['f1'] = f1_score(y_true, y_pred, labels=labels_list, average=None)
+    print(scoring) 
                
-   
+    print("\nDetailed classification report:")
+    report = classification_report(y_true, y_pred, labels=labels_list, digits=4)
+    print(report)
+    with open("classification_report.txt", "w", encoding="utf-8") as f:
+        f.write(report)
     
+
+    #classification report - za samo tipove
+    y_true_no_prefix = [label.split('-')[-1] if '-' in label else label for label in y_true]
+    y_pred_no_prefix = [label.split('-')[-1] if '-' in label else label for label in y_pred]
+    labels_list_no_prefix = ['LOC','ORG','PER','O']
+
+    scoring['accuracy'] = accuracy_score(y_true_no_prefix, y_pred_no_prefix)
+    #Precision
+    scoring['precision'] = precision_score(y_true_no_prefix, y_pred_no_prefix, labels=labels_list_no_prefix, average=None)
+    #Recall
+    scoring['recall'] = recall_score(y_true_no_prefix, y_pred_no_prefix, labels=labels_list_no_prefix, average=None)
+    #F1 score
+    scoring['f1'] = f1_score(y_true_no_prefix, y_pred_no_prefix, labels=labels_list_no_prefix, average=None)
+    print(scoring) 
+               
+    print("\nDetailed classification report:")
+    report = classification_report(y_true_no_prefix, y_pred_no_prefix, labels=labels_list_no_prefix, digits=4)
+    plot_confusion_matrix(y_pred_no_prefix,y_true_no_prefix, labels_list_no_prefix)
+    
+    print(report)
+    with open("classification_report_no_prefix.txt", "w", encoding="utf-8") as f:
+        f.write(report)
 

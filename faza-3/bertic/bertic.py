@@ -8,6 +8,7 @@ import matplotlib.pyplot as plt
 from simpletransformers.ner import NERModel, NERArgs
 from sklearn.metrics import confusion_matrix
 from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score, confusion_matrix, classification_report
+from transformers import AutoTokenizer
 
 def error(msg: str) -> None:
     print(f"\033[91m{msg}\033[0m")
@@ -90,10 +91,10 @@ def load_conll_data_word(file_input_path):
             word = splited[0]
             list_of_words.append(word)
             num_of_tokens +=1
-            if num_of_tokens > 32:
-                result.append(list_of_words)
-                list_of_words = []
-                num_of_tokens = 0
+            # if num_of_tokens > 80:
+            #     result.append(list_of_words)
+            #     list_of_words = []
+            #     num_of_tokens = 0
    
     return result
 
@@ -121,6 +122,7 @@ if __name__ == "__main__":
     root_input_folder = "../../faza-2/anotirani_tekstovi"
     data_corpus = []
     data_sentence_corpus = []
+    tokenizer = AutoTokenizer.from_pretrained("classla/bcms-bertic")
     #prikupljanje tokena iz svih fajlova
     sentence_ind = 0
     for root, dirs, files in os.walk(root_input_folder):
@@ -138,15 +140,34 @@ if __name__ == "__main__":
                 sentence_ind += 1
     
     sentences = [" ".join(seq) for seq in data_sentence_corpus]
-
+    # sentencee = []
+    # max_l = 0
+    # broj = 0
+    # index = 0
+    # for sentence in sentences:
+    #     tokens = tokenizer.tokenize(sentence)
+    #     if max_l < len(tokens):
+    #         max_l = len(tokens)
+    #         sentencee = [sentence]
+    #         index = broj
+    #     broj +=1
+    # print(tokenizer.model_max_length)
+    # print(max_l)
     model_args = NERArgs()
     model_args.labels_list = ['B-LOC','B-MISC','B-ORG','B-PER','I-LOC','I-MISC','I-ORG','I-PER','O']
-    model_args.eval_batch_size = 32
+    model_args.max_seq_length = 400
     model = NERModel(
         "electra", "classla/bcms-bertic-ner", args=model_args, use_cuda=False
     )
   
     predictions, raw_outputs = model.predict(sentences, split_on_space=True)
+    # broj = 0
+    # for elem in predictions:
+    #     for e in elem:
+    #         broj+=1
+    # print(sentencee)
+    # print(broj)
+    # print(len(data_sentence_corpus[index]))
     y_true = [elem[2] for elem in data_corpus]
     y_pred = []
     for sentence in predictions:
@@ -155,7 +176,18 @@ if __name__ == "__main__":
             if label == 'B-MISC' or label == 'I-MISC':
                 y_pred.append('O')
             else:
-                y_pred.append(label) 
+                y_pred.append(label)
+
+    # for i in range(len(predictions)):
+    #     if len(predictions[i]) != len(data_sentence_corpus[i]):
+    #         print("-------------NOVO")
+    #         print(sentences[i])
+    #         print(i)
+    #         print(len(predictions[i]))
+    #         print(predictions[i])
+    #         print(len(data_sentence_corpus[i]))
+    #         print(data_sentence_corpus[i])
+            
     
     #evaluacija modela sa prefiksima
     labels_list = ['B-LOC','B-ORG','B-PER','I-LOC','I-ORG','I-PER','O']

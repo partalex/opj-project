@@ -1,0 +1,518 @@
+{
+    "pk": 18077,
+    "metadata_record_identifier": {
+        "pk": 20575,
+        "metadata_record_identifier_scheme": "http://w3id.org/meta-share/meta-share/elg",
+        "value": "ELG-MDR-LRS-020322-00018077"
+    },
+    "metadata_creation_date": "2022-03-02",
+    "metadata_last_date_updated": "2022-03-04",
+    "metadata_curator": [
+        {
+            "pk": 27369,
+            "actor_type": "Person",
+            "surname": {
+                "en": "\u0160andrih Todorovi\u0107"
+            },
+            "given_name": {
+                "en": "Branislava"
+            },
+            "name": null,
+            "personal_identifier": [
+                {
+                    "pk": 5010,
+                    "personal_identifier_scheme": "http://w3id.org/meta-share/meta-share/elg",
+                    "value": "ELG-ENT-PER-080222-00027369"
+                }
+            ],
+            "email": [
+                "branislava.sandrih@gmail.com"
+            ],
+            "affiliation": []
+        }
+    ],
+    "complies_with": "http://w3id.org/meta-share/meta-share/ELG-SHARE",
+    "metadata_creator": {
+        "pk": 27369,
+        "actor_type": "Person",
+        "surname": {
+            "en": "\u0160andrih Todorovi\u0107"
+        },
+        "given_name": {
+            "en": "Branislava"
+        },
+        "name": null,
+        "personal_identifier": [
+            {
+                "pk": 5010,
+                "personal_identifier_scheme": "http://w3id.org/meta-share/meta-share/elg",
+                "value": "ELG-ENT-PER-080222-00027369"
+            }
+        ],
+        "email": [
+            "branislava.sandrih@gmail.com"
+        ],
+        "affiliation": []
+    },
+    "source_of_metadata_record": null,
+    "source_metadata_record": null,
+    "revision": null,
+    "described_entity": {
+        "pk": 27795,
+        "entity_type": "LanguageResource",
+        "physical_resource": null,
+        "resource_name": {
+            "en": "SrpCNNER service"
+        },
+        "resource_short_name": null,
+        "description": {
+            "en": "<p>Web service that enables annotation of provided text using <a href=\"https://live.european-language-grid.eu/catalogue/ld/9484/\" target=\"_blank\">SrpCNNER</a> having the following tagset: PERS, ROLE, LOC, DEMO, ORG, WORK &amp; EVENT.&nbsp;</p>"
+        },
+        "lr_identifier": [
+            {
+                "pk": 22056,
+                "lr_identifier_scheme": "http://purl.org/spar/datacite/doi",
+                "value": "10.57771/x4vg-p349"
+            },
+            {
+                "pk": 20640,
+                "lr_identifier_scheme": "http://w3id.org/meta-share/meta-share/elg",
+                "value": "ELG-ENT-LRS-020322-00027795"
+            }
+        ],
+        "logo": "",
+        "version": "1.0.0",
+        "version_date": null,
+        "update_frequency": null,
+        "revision": null,
+        "additional_info": [
+            {
+                "pk": 17070,
+                "landing_page": "",
+                "email": "branislava.sandrih@fil.bg.ac.rs"
+            }
+        ],
+        "contact": [
+            {
+                "pk": 16883,
+                "actor_type": "Person",
+                "surname": {
+                    "en": "\u0160andrih Todorovi\u0107"
+                },
+                "given_name": {
+                    "en": "Branislava"
+                },
+                "name": null,
+                "personal_identifier": [
+                    {
+                        "pk": 3861,
+                        "personal_identifier_scheme": "http://w3id.org/meta-share/meta-share/elg",
+                        "value": "ELG-ENT-PER-030122-00016883"
+                    }
+                ],
+                "email": [
+                    "branislava.sandrih@fil.bg.ac.rs"
+                ],
+                "affiliation": []
+            }
+        ],
+        "mailing_list_name": null,
+        "discussion_url": null,
+        "citation_text": {
+            "en": "SrpCNNER service (2022). Version 1.0.0. European Language Grid. [Software (Tool/Service)]. https://doi.org/10.57771/x4vg-p349"
+        },
+        "citation_all_versions": {
+            "en": "SrpCNNER service (2022). European Language Grid. [Software (Tool/Service)]. https://doi.org/10.57771/yq9h-s434"
+        },
+        "ipr_holder": [],
+        "keyword": [
+            {
+                "en": "ner"
+            }
+        ],
+        "domain": [],
+        "subject": [],
+        "resource_provider": [],
+        "publication_date": null,
+        "resource_creator": [],
+        "creation_start_date": null,
+        "creation_end_date": null,
+        "funding_project": [],
+        "creation_mode": null,
+        "creation_details": null,
+        "has_original_source": [],
+        "original_source_description": null,
+        "is_created_by": [],
+        "intended_application": [
+            "http://w3id.org/meta-share/omtd-share/NamedEntityRecognition"
+        ],
+        "actual_use": [],
+        "validated": null,
+        "validation": [],
+        "is_documented_by": [],
+        "is_described_by": [],
+        "is_to_be_cited_by": [
+            {
+                "pk": 16885,
+                "title": {
+                    "en": "Serbian NER& Beyond: The Archaic and the Modern Intertwinned"
+                },
+                "document_identifier": [
+                    {
+                        "pk": 1818,
+                        "document_identifier_scheme": "http://purl.org/spar/datacite/doi",
+                        "value": "10.26615/978-954-452-072-4_141"
+                    },
+                    {
+                        "pk": 1817,
+                        "document_identifier_scheme": "http://w3id.org/meta-share/meta-share/elg",
+                        "value": "ELG-ENT-DOC-030122-00016885"
+                    }
+                ],
+                "bibliographic_record": "Branislava \u0160andrih Todorovi\u0107, Cvetana Krstev, Ranka Stankovi\u0107, Milica Ikoni\u0107 Ne\u0161i\u0107, \u201cSerbian NER& Beyond: The Archaic and the Modern Intertwinned\u201d, in Proceedings of the International Conference Recent Advances in Natural Language Processing - RANLP 2021, 1-3 September 2021 (virtual), eds. Galia Angelova, Maria Kunilovskaya, Ruslan Mitkov, Ivelina Nikolova-Koleva, pp. 1252-1260, 2021. DOI: 10.26615/978-954-452-072-4_141"
+            }
+        ],
+        "is_cited_by": [],
+        "is_reviewed_by": [],
+        "is_part_of": [
+            {
+                "pk": 16882,
+                "resource_name": {
+                    "en": "SrpCNNER - Named Entity Recognizer for Serbian (7 classes)"
+                },
+                "lr_identifier": [
+                    {
+                        "pk": 22462,
+                        "lr_identifier_scheme": "http://purl.org/spar/datacite/doi",
+                        "value": "10.57771/94q0-fm16"
+                    },
+                    {
+                        "pk": 12829,
+                        "lr_identifier_scheme": "http://w3id.org/meta-share/meta-share/elg",
+                        "value": "ELG-ENT-LRS-030122-00016882"
+                    }
+                ],
+                "version": "1.0.0 (automatically assigned)"
+            }
+        ],
+        "is_part_with": [],
+        "is_similar_to": [],
+        "is_exact_match_with": [],
+        "is_potential_duplicate_with": [],
+        "has_metadata": [],
+        "is_archived_by": [],
+        "is_continuation_of": [],
+        "replaces": [],
+        "is_related_to_lr": [],
+        "is_version_of": null,
+        "relation": [],
+        "support_type": null,
+        "complies_with": null,
+        "qualified_attribution": [],
+        "is_compatible_with": [],
+        "has_part": [],
+        "has_version": [],
+        "is_continued_by": [],
+        "is_replaced_with": [],
+        "has_outcome": [],
+        "has_aligned_version": [],
+        "has_annotated_version": [],
+        "has_converted_version": [],
+        "has_archived": [],
+        "has_evaluated": [],
+        "has_elicited": [],
+        "has_created": [],
+        "has_annotated": [],
+        "has_analysed": [],
+        "has_validated": [],
+        "accesses": [],
+        "displays": [],
+        "edits": [],
+        "queries": [],
+        "is_typesystem_of": [],
+        "is_ml_model_of": [],
+        "is_annotation_resource_of": [],
+        "is_annotation_schema_of": [],
+        "is_tagset_of": [],
+        "is_required_lr_by": [],
+        "is_supplemented_by": [],
+        "is_supplement_to": [],
+        "lr_subclass": {
+            "pk": 13512,
+            "lr_type": "ToolService",
+            "function": [
+                "http://w3id.org/meta-share/omtd-share/NamedEntityRecognition"
+            ],
+            "software_distribution": [
+                {
+                    "pk": 3818,
+                    "software_distribution_form": "http://w3id.org/meta-share/meta-share/dockerImage",
+                    "execution_location": "http://localhost:8000/process",
+                    "download_location": "",
+                    "docker_download_location": "registry.european-language-grid.eu/public/branislava.sandrih/cnnsrpner:df73d75e",
+                    "service_adapter_download_location": "",
+                    "access_location": "",
+                    "demo_location": "",
+                    "private_resource": false,
+                    "is_described_by": [],
+                    "additional_hw_requirements": "",
+                    "command": "",
+                    "web_service_type": null,
+                    "operating_system": [],
+                    "package_format": null,
+                    "licence_terms": [
+                        {
+                            "pk": 87,
+                            "licence_terms_name": {
+                                "en": "Creative Commons Attribution Non Commercial Share Alike 4.0 International"
+                            },
+                            "licence_terms_url": [
+                                "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode",
+                                "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+                                "https://spdx.org/licenses/CC-BY-NC-SA-4.0.html"
+                            ],
+                            "condition_of_use": [
+                                "http://w3id.org/meta-share/meta-share/attribution",
+                                "http://w3id.org/meta-share/meta-share/nonCommercialUse",
+                                "http://w3id.org/meta-share/meta-share/shareAlike"
+                            ],
+                            "licence_category": [
+                                "http://w3id.org/meta-share/meta-share/allowsDirectAccess",
+                                "http://w3id.org/meta-share/meta-share/allowsProcessing"
+                            ],
+                            "licence_identifier": [
+                                {
+                                    "pk": 170,
+                                    "licence_identifier_scheme": "http://w3id.org/meta-share/meta-share/SPDX",
+                                    "value": "CC-BY-NC-SA-4.0"
+                                },
+                                {
+                                    "pk": 169,
+                                    "licence_identifier_scheme": "http://w3id.org/meta-share/meta-share/elg",
+                                    "value": "ELG-ENT-LIC-270220-00000087"
+                                }
+                            ]
+                        }
+                    ],
+                    "cost": null,
+                    "membership_institution": [],
+                    "attribution_text": null,
+                    "copyright_statement": null,
+                    "availability_start_date": null,
+                    "availability_end_date": null,
+                    "distribution_rights_holder": [],
+                    "access_rights": [],
+                    "package": null,
+                    "elg_compatible_distribution": true,
+                    "initial_docker_download_location": "registry.gitlab.com/branislava.sandrih/cnnsrpner:df73d75e",
+                    "initial_service_adapter_download_location": ""
+                }
+            ],
+            "language_dependent": true,
+            "input_content_resource": [
+                {
+                    "pk": 6514,
+                    "processing_resource_type": "http://w3id.org/meta-share/meta-share/userInputText",
+                    "language": [
+                        {
+                            "pk": 45657,
+                            "language_tag": "sr-Latn",
+                            "language_id": "sr",
+                            "script_id": "Latn",
+                            "region_id": null,
+                            "variant_id": [],
+                            "glottolog_code": "serb1264",
+                            "language_variety_name": null
+                        }
+                    ],
+                    "media_type": "http://w3id.org/meta-share/meta-share/text",
+                    "data_format": [
+                        "http://w3id.org/meta-share/omtd-share/Text"
+                    ],
+                    "mimetype": null,
+                    "character_encoding": [],
+                    "sample": [
+                        {
+                            "pk": 66,
+                            "sample_text": "Branko \u0107uti; ili ne zna, \u0161ta da odgovori, ili ne \u0107e, \u0161to misli. A misli: \u201e\u0160to se ovaj svet toliko na silu Boga gra\u0111a sa mnom i prisvaja?\u201c \u2013 \u0160ta ste se zamislili opet sadu \u2013 pita Jelena, pa mu zaviri smelo u lice. Branko se silom nasme\u0161i. \u2013 Nemojte toliko da mislite. Razgovarajte, \u0161togod, barem kad ste sa mnom. Ja umem razgovarati, ako ne ume Darinka... Valjda vam je \u017eao Be\u010da? \u2013 Bo\u017ee sa\u010duvaj. Meni je ovde vrlo prijatno. Ba\u0161 se, na protiv, sa svim dobro ose\u0107am.",
+                            "samples_location": "",
+                            "tag": ""
+                        }
+                    ],
+                    "annotation_type": [],
+                    "segmentation_level": [],
+                    "typesystem": null,
+                    "annotation_schema": [],
+                    "annotation_resource": null,
+                    "modality_type": [],
+                    "modality_type_details": null
+                }
+            ],
+            "output_resource": [
+                {
+                    "pk": 6515,
+                    "processing_resource_type": "http://w3id.org/meta-share/meta-share/outputText",
+                    "language": [
+                        {
+                            "pk": 45658,
+                            "language_tag": "sr-Latn",
+                            "language_id": "sr",
+                            "script_id": "Latn",
+                            "region_id": null,
+                            "variant_id": [],
+                            "glottolog_code": "serb1264",
+                            "language_variety_name": null
+                        }
+                    ],
+                    "media_type": "http://w3id.org/meta-share/meta-share/text",
+                    "data_format": [
+                        "http://w3id.org/meta-share/omtd-share/Text"
+                    ],
+                    "mimetype": null,
+                    "character_encoding": [],
+                    "sample": [
+                        {
+                            "pk": 65,
+                            "sample_text": "",
+                            "samples_location": "",
+                            "tag": ""
+                        }
+                    ],
+                    "annotation_type": [
+                        "ROLE",
+                        "http://w3id.org/meta-share/omtd-share/Event",
+                        "WORK",
+                        "ORG",
+                        "LOC",
+                        "PERS",
+                        "DEMO"
+                    ],
+                    "segmentation_level": [],
+                    "typesystem": null,
+                    "annotation_schema": [],
+                    "annotation_resource": null,
+                    "modality_type": [],
+                    "modality_type_details": null
+                }
+            ],
+            "requires_lr": [],
+            "typesystem": null,
+            "annotation_schema": [],
+            "annotation_resource": [],
+            "ml_model": [
+                {
+                    "pk": 16882,
+                    "resource_name": {
+                        "en": "SrpCNNER - Named Entity Recognizer for Serbian (7 classes)"
+                    },
+                    "lr_identifier": [
+                        {
+                            "pk": 22462,
+                            "lr_identifier_scheme": "http://purl.org/spar/datacite/doi",
+                            "value": "10.57771/94q0-fm16"
+                        },
+                        {
+                            "pk": 12829,
+                            "lr_identifier_scheme": "http://w3id.org/meta-share/meta-share/elg",
+                            "value": "ELG-ENT-LRS-030122-00016882"
+                        }
+                    ],
+                    "version": "1.0.0 (automatically assigned)"
+                }
+            ],
+            "development_framework": [
+                "http://w3id.org/meta-share/meta-share/spaCy"
+            ],
+            "framework": null,
+            "formalism": null,
+            "method": null,
+            "implementation_language": "Python",
+            "requires_software": null,
+            "required_hardware": null,
+            "running_environment_details": null,
+            "running_time": "",
+            "trl": null,
+            "evaluated": false,
+            "evaluation": [],
+            "previous_annotation_types_policy": null,
+            "parameter": []
+        }
+    },
+    "management_object": {
+        "pk": 18074,
+        "identifier": "39b69cb990834fac8794ebc72f914c60",
+        "status": "p",
+        "creation_date": "2022-03-02",
+        "date_last_modified": "2023-09-06T13:28:03.796779Z",
+        "ingestion_date": "2022-03-04T15:05:40.887627Z",
+        "legal_validation_date": "2022-03-04T15:43:29.262614Z",
+        "metadata_validation_date": "2022-03-04T15:19:20.987440Z",
+        "technical_validation_date": "2022-03-04T15:19:20.995548Z",
+        "approval_date": "2022-03-04T15:43:29.266685Z",
+        "publication_date": "2022-03-04T15:43:29.266696Z",
+        "unpublication_date": null,
+        "deleted": false,
+        "under_construction": false,
+        "functional_service": true,
+        "proxied": false,
+        "requires_login": true,
+        "service_compliant_dataset": false,
+        "claimed": null,
+        "unpublication_requested": false,
+        "curator": 2567,
+        "legal_validator": 2275,
+        "metadata_validator": 8,
+        "technical_validator": 8,
+        "legally_valid": true,
+        "metadata_valid": true,
+        "technically_valid": true,
+        "slack_channel": null,
+        "jira_ticket": null,
+        "validator_notes": null,
+        "review_comments": "[03/03/2022]: As discussed by email - please update \"docker download location\" with the new image tag once you have pushed your updated image.  For technical reasons you cannot re-use the same tag 6acc5241, please use another value (e.g. \"1.0.0\" to match the metadata version number).\n\nAlso your output sample is not valid (personally I would simply leave that out - the _input_ side sample is the important one as that feeds the \"try out\" GUI). | [03/03/2022]: Technically your service works fine, but please consider the following additions to your metadata:\n\n- please mark the service as \"language dependent\" and add the supported language(s) to the \"input content resource\" (tool/service -> technical tab), in particular please make clear if your service supports Serbian in Latin or Cyrillic script - if both please list both.  Please also add one or more short samples of input text, again if the service can handle both scripts then please provide a sample of each.\n- add an \"output resource\" - type can just be \"file\", language should be the same as the input language, and add relevant annotation types\n- the description box allows for limited \"rich text\" editing, so please make the cross-reference to the model record into a proper clickable link (if it's not clear how to do this then you can resubmit it with the current description and I'll edit in the link myself)\n- please specify a real semver-compatible version number (which could be 1.0.0 - please remove the \"automatically assigned\" suffix)",
+        "json_ld": {
+            "url": "https://live.european-language-grid.eu/catalogue/tool-service/18077",
+            "name": "SrpCNNER service",
+            "@type": "Dataset",
+            "license": [
+                {
+                    "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode",
+                    "name": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
+                    "@type": "CreativeWork"
+                }
+            ],
+            "@context": "https://schema.org/",
+            "keywords": [
+                "ner",
+                "Named Entity Recognition"
+            ],
+            "description": "<p>Web service that enables annotation of provided text using <a href=\"https://live.european-language-grid.eu/catalogue/ld/9484/\" target=\"_blank\">SrpCNNER</a> having the following tagset: PERS, ROLE, LOC, DEMO, ORG, WORK &amp; EVENT.&nbsp;</p>",
+            "includedInDataCatalog": {
+                "url": "https://live.european-language-grid.eu",
+                "name": "European Language Grid",
+                "@type": "DataCatalog"
+            }
+        },
+        "has_data": false,
+        "is_claimable": false,
+        "unspecified": false,
+        "for_information_only": false,
+        "featured": false,
+        "from_ele": false,
+        "versions_exceeding_limit": false,
+        "inferred_language": false,
+        "duplicate": false,
+        "potential_duplicate": false,
+        "hide_n_distributions": false,
+        "is_latest_version": true,
+        "is_active_version": true,
+        "versioned_record_managers": [],
+        "tombstone": "F"
+    },
+    "service_info": {
+        "elg_gui_url": "https://live.european-language-grid.eu/dev/gui-ie/?dir=ltr",
+        "elg_execution_location": "https://live.european-language-grid.eu/execution/async/process/srpcnner",
+        "elg_execution_location_sync": "https://live.european-language-grid.eu/execution/process/srpcnner",
+        "tool_type": "Information Extraction"
+    }
+}

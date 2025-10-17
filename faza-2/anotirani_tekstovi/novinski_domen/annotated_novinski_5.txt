@@ -112,7 +112,7 @@
 # sent_id = 2.1
 # text = Tim Savetom trenutno predsedava Danska, a njena ministarka za evropske poslove Mari Bjere izjavila je da je vladavina prava u EU trenutno njena najvažnija vrednost.
 1	Tim	_	_	_	_	_	_	_	_	O
-2	Savetom	_	_	_	_	_	_	_	_	O
+2	Savetom	_	_	_	_	_	_	_	_	B-ORG
 3	trenutno	_	_	_	_	_	_	_	_	O
 4	predsedava	_	_	_	_	_	_	_	_	O
 5	Danska	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
@@ -262,7 +262,7 @@
 43	da	_	_	_	_	_	_	_	_	O
 44	uđu	_	_	_	_	_	_	_	_	O
 45	u	_	_	_	_	_	_	_	_	O
-46	Uniju	_	_	_	_	_	_	_	SpaceAfter=No	O
+46	Uniju	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
 47	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 6
@@ -355,10 +355,10 @@
 18	pad	_	_	_	_	_	_	_	_	O
 19	nadstrešnice	_	_	_	_	_	_	_	_	O
 20	na	_	_	_	_	_	_	_	_	O
-21	Železničkoj	_	_	_	_	_	_	_	_	O
-22	stanici	_	_	_	_	_	_	_	_	O
-23	u	_	_	_	_	_	_	_	_	O
-24	Novom	_	_	_	_	_	_	_	_	B-LOC
+21	Železničkoj	_	_	_	_	_	_	_	_	B-LOC
+22	stanici	_	_	_	_	_	_	_	_	I-LOC
+23	u	_	_	_	_	_	_	_	_	I-LOC
+24	Novom	_	_	_	_	_	_	_	_	I-LOC
 25	Sadu	_	_	_	_	_	_	_	_	I-LOC
 26	postao	_	_	_	_	_	_	_	_	O
 27	simbol	_	_	_	_	_	_	_	_	O
@@ -435,7 +435,7 @@
 # newpar id = 10
 # sent_id = 10.1
 # text = Bjere i Kos su govorile i o uvođenju dodatnih sankcija Rusiji, a one su zaključile da je potrebna jača evropska podrška Ukrajini, kao i jači otpor Rusiji.
-1	Bjere	_	_	_	_	_	_	_	_	B=PER
+1	Bjere	_	_	_	_	_	_	_	_	B-PER
 2	i	_	_	_	_	_	_	_	_	O
 3	Kos	_	_	_	_	_	_	_	_	B-PER
 4	su	_	_	_	_	_	_	_	_	O

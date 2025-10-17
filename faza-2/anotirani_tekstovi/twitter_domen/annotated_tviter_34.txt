@@ -7,7 +7,7 @@
 1	Otišao	_	_	_	_	_	_	_	_	O
 2	sam	_	_	_	_	_	_	_	_	O
 3	u	_	_	_	_	_	_	_	_	O
-4	Strazbur	_	_	_	_	_	_	_	_	B-LOX
+4	Strazbur	_	_	_	_	_	_	_	_	B-LOC
 5	u	_	_	_	_	_	_	_	_	O
 6	Evropski	_	_	_	_	_	_	_	_	B-ORG
 7	parlament	_	_	_	_	_	_	_	_	I-ORG

@@ -4,12 +4,12 @@
 # newpar id = 1
 # sent_id = 1.1
 # text = Princ Hari, vojvoda od Saseksa, iznenada je posetio ukrajinsku prestonicu Kijev, prenosi CNN.
-1	Princ	_	_	_	_	_	_	_	_	B-PER
+1	Princ	_	_	_	_	_	_	_	_	O
 2	Hari	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 3	,	,	PUNCT	Z	_	_	_	_	_	O
 4	vojvoda	_	_	_	_	_	_	_	_	O
 5	od	_	_	_	_	_	_	_	_	O
-6	Saseksa	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	Saseksa	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 7	,	,	PUNCT	Z	_	_	_	_	_	O
 8	iznenada	_	_	_	_	_	_	_	_	O
 9	je	_	_	_	_	_	_	_	_	O
@@ -47,8 +47,8 @@
 20	e	_	_	_	_	_	_	_	_	O
 21	sa	_	_	_	_	_	_	_	_	O
 22	svojom	_	_	_	_	_	_	_	_	O
-23	fondacijom	_	_	_	_	_	_	_	_	B-ORG
-24	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	I-ORG
+23	fondacijom	_	_	_	_	_	_	_	_	O
+24	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	B-ORG
 25	Igre	_	_	_	_	_	_	_	_	I-ORG
 26	nepokornih	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 27	“	“	PUNCT	Z	_	_	_	_	_	I-ORG
@@ -92,8 +92,8 @@
 2	dolaska	_	_	_	_	_	_	_	_	O
 3	u	_	_	_	_	_	_	_	_	O
 4	Ukrajinu	_	_	_	_	_	_	_	_	B-LOC
-5	princ	_	_	_	_	_	_	_	_	B-PER
-6	Hari	_	_	_	_	_	_	_	_	I-PER
+5	princ	_	_	_	_	_	_	_	_	O
+6	Hari	_	_	_	_	_	_	_	_	B-PER
 7	ranije	_	_	_	_	_	_	_	_	O
 8	ove	_	_	_	_	_	_	_	_	O
 9	nedelje	_	_	_	_	_	_	_	_	O
@@ -109,8 +109,8 @@
 19	svojim	_	_	_	_	_	_	_	_	O
 20	ocem	_	_	_	_	_	_	_	SpaceAfter=No	O
 21	,	,	PUNCT	Z	_	_	_	_	_	O
-22	kraljem	_	_	_	_	_	_	_	_	B-PER
-23	Čarlsom	_	_	_	_	_	_	_	_	I-PER
+22	kraljem	_	_	_	_	_	_	_	_	O
+23	Čarlsom	_	_	_	_	_	_	_	_	B-PER
 24	III	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 25	,	,	PUNCT	Z	_	_	_	_	_	O
 26	posle	_	_	_	_	_	_	_	_	O
@@ -132,7 +132,7 @@
 9	́	_	_	_	_	_	_	_	SpaceAfter=No	O
 10	e	_	_	_	_	_	_	_	_	O
 11	njegova	_	_	_	_	_	_	_	_	O
-12	fondacija	_	_	_	_	_	_	_	_	B-ORG
+12	fondacija	_	_	_	_	_	_	_	_	O
 13	donirati	_	_	_	_	_	_	_	_	O
 14	500.000	_	_	_	_	_	_	_	_	O
 15	dolara	_	_	_	_	_	_	_	_	O

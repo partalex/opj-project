@@ -9,8 +9,8 @@ todo: Pretraziti todo u ovom fajlu, prepakovati pravila i primere ako su nejasna
     * Milenina kuca = B-LOC I-LOC
     * Сomborska regija = B-LOC I-LOC
     * Somborac Ernest Bosnjaku - Ernest Bosnjaku je B-PER, Somborac nije nista
-    * Princ Hari vojvoda od Saseksa - Hari je B-PER, ostalo nista
-    * Gradonacelnik Beograda Aleksandar Sapic - (0 B-LOC B-PER I-PER), gradonacelnik je nista (titula)
+    * Princ Hari vojvoda od Saseksa - Hari je B-PER, vojvoda nista, Saseksa - loc
+    * Gradonacelnik Beograda Aleksandar Sapic - (0 B-LOC B-PER I-PER), gradonacelnik je nista (titula), Beograd - loc
 2. Festival/program/fondacija/muz. bend je organizacija
     * Hills of Rock festivala - festival nije org, ostalo jeste
     * Kad bi Sombor bio Holivud - sve je org
@@ -25,11 +25,13 @@ todo: Pretraziti todo u ovom fajlu, prepakovati pravila i primere ako su nejasna
 7. Imena ljudi, mesta, ustanova... u nazivima filmova nisu ni jedan entitet
     * Npr Vanjin dnevnik, Vanjin nije B-PER
 8. Filmski festival u Lokranu - B-ORG (sve je org, i mesto)
-9. Imena naucnih instituta su B-ORG
+9. Imena naucnih instituta su B-ORG 
+    * Ukoliko se nazivu nadje u MESTO - pre u je org, posle loc (ako stavimo da je sve org u administrativnim tekstovima nece biti loc)
+    * Ukoliko nema u - INaučni institut Vinča - onda je sve org
     * Institu Kiri u Parizu - sve je org
     * Institut u Vinci
 10. Drzavne institucije
-    * Osnovni sud u Novom Sadu - sve je org, mora mesto ima vise osn. sudova
+    * Osnovni sud u Novom Sadu - sve je org, mora mesto ima vise osn. sudova 
     * Vlada
     * Ustavni sud - samo jedan je Ustavni
     * Ukrajinska vlada - sve org
@@ -38,10 +40,9 @@ todo: Pretraziti todo u ovom fajlu, prepakovati pravila i primere ako su nejasna
     * Gradonacelnig Beograda - gradonacelnik nije nista, Beograd je loc
 12. Nazivi nagrade - nije nista
     * Miselinova zvezdica - isto nista
-13. Deo mesta lokacije - todo
-    * atrijumu Gradske kuce - 
+13. Deo mesta lokacije - konkretno mesto je loc, delovi tog mesta nisu
+    * atrijumu Gradske kuce - ovo je loc, Gradska kuca nije organizacija kao naziv restorana ili kafica.. atrijum nista
 14. nazivi kafica
     * zaposleni restorarana Usce - zap. nije org, ostalo jesto
-    * basta restorana Usce - todo: da li je basta deo lokacije - uzivajte u radu :)
+    * basta restorana Usce - zavisno od konteksta, ukoliko se nesto desava u restoranu Usce - loc, inace je org !to do
 15. Imena ljudi, mesta, ustanova u nazivima ulica su deo LOC.
-16. 

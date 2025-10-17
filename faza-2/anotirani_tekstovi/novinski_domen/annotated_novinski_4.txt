@@ -55,9 +55,9 @@
 49	predsednik	_	_	_	_	_	_	_	_	O
 50	Srbija	_	_	_	_	_	_	_	_	B-ORG
 51	centra	_	_	_	_	_	_	_	_	I-ORG
-52	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	I-ORG
-53	SRCE	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
-54	)	)	PUNCT	Z	_	_	_	_	SpaceAfter=No	I-ORG
+52	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+53	SRCE	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
+54	)	)	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 55	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 1.2
@@ -123,9 +123,9 @@
 18	predsednik	_	_	_	_	_	_	_	_	O
 19	Srbija	_	_	_	_	_	_	_	_	B-ORG
 20	centra	_	_	_	_	_	_	_	_	I-ORG
-21	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	I-ORG
-22	SRCE	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
-23	)	)	PUNCT	Z	_	_	_	_	_	I-ORG
+21	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+22	SRCE	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
+23	)	)	PUNCT	Z	_	_	_	_	_	O
 24	u	_	_	_	_	_	_	_	_	O
 25	intervjuu	_	_	_	_	_	_	_	_	O
 26	za	_	_	_	_	_	_	_	_	O
@@ -485,7 +485,7 @@
 12	kadrovskom	_	_	_	_	_	_	_	_	O
 13	čistkom	_	_	_	_	_	_	_	_	O
 14	u	_	_	_	_	_	_	_	_	O
-15	policiji	_	_	_	_	_	_	_	_	O
+15	policiji	_	_	_	_	_	_	_	_	B-ORG
 16	paralelno	_	_	_	_	_	_	_	_	O
 17	radeći	_	_	_	_	_	_	_	_	O
 18	još	_	_	_	_	_	_	_	_	O

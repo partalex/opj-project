@@ -17,7 +17,7 @@
 11	Hills	_	_	_	_	_	_	_	_	B-ORG
 12	of	_	_	_	_	_	_	_	_	I-ORG
 13	Rock	_	_	_	_	_	_	_	_	I-ORG
-14	festivala	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+14	festivala	_	_	_	_	_	_	_	SpaceAfter=No	O
 15	,	,	PUNCT	Z	_	_	_	_	_	O
 16	autor	_	_	_	_	_	_	_	_	O
 17	ovih	_	_	_	_	_	_	_	_	O
@@ -650,7 +650,7 @@
 
 # sent_id = 4.8
 # text = Bend je odsvirao ceo “Demanufacture” redom, а kao finale se mogla čuti pesma “Archetype” s istoimenog albuma izdatog 2004.
-1	Bend	_	_	_	_	_	_	_	_	B-ORG
+1	Bend	_	_	_	_	_	_	_	_	O
 2	je	_	_	_	_	_	_	_	_	O
 3	odsvirao	_	_	_	_	_	_	_	_	O
 4	ceo	_	_	_	_	_	_	_	_	O
@@ -693,7 +693,7 @@
 # sent_id = 5.2
 # text = Metalcore bend iz Šefilda je poznat publici u Bugarskoj iz par navrata, a u Beogradu su se mogli videti jednom 2016. godine.
 1	Metalcore	_	_	_	_	_	_	_	_	O
-2	bend	_	_	_	_	_	_	_	_	B-ORG
+2	bend	_	_	_	_	_	_	_	_	O
 3	iz	_	_	_	_	_	_	_	_	O
 4	Šefilda	_	_	_	_	_	_	_	_	B-LOC
 5	je	_	_	_	_	_	_	_	_	O
@@ -721,7 +721,7 @@
 # text = Zapravo, bend je popularniji kod mlađeg dela publike i uvek nudi energičan šou, ispunjen moshovanjem, circle pitovima, wall of deathovima, skakanjem i zajedničkim pevanjem.
 1	Zapravo	_	_	_	_	_	_	_	SpaceAfter=No	O
 2	,	,	PUNCT	Z	_	_	_	_	_	O
-3	bend	_	_	_	_	_	_	_	_	B-ORG
+3	bend	_	_	_	_	_	_	_	_	O
 4	je	_	_	_	_	_	_	_	_	O
 5	popularniji	_	_	_	_	_	_	_	_	O
 6	kod	_	_	_	_	_	_	_	_	O

@@ -256,8 +256,8 @@
 2	organizuju	_	_	_	_	_	_	_	_	O
 3	Francuski	_	_	_	_	_	_	_	_	B-ORG
 4	institut	_	_	_	_	_	_	_	_	I-ORG
-5	u	_	_	_	_	_	_	_	_	I-ORG
-6	Srbiji	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+5	u	_	_	_	_	_	_	_	_	O
+6	Srbiji	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 7	,	,	PUNCT	Z	_	_	_	_	_	O
 8	MegaCom	_	_	_	_	_	_	_	_	B-ORG
 9	Film	_	_	_	_	_	_	_	_	I-ORG
@@ -469,8 +469,8 @@
 5	organizuju	_	_	_	_	_	_	_	_	O
 6	Francuski	_	_	_	_	_	_	_	_	B-ORG
 7	institut	_	_	_	_	_	_	_	_	I-ORG
-8	u	_	_	_	_	_	_	_	_	I-ORG
-9	Srbiji	_	_	_	_	_	_	_	_	I-ORG
+8	u	_	_	_	_	_	_	_	_	O
+9	Srbiji	_	_	_	_	_	_	_	_	B-LOC
 10	i	_	_	_	_	_	_	_	_	O
 11	njegov	_	_	_	_	_	_	_	_	O
 12	ogranak	_	_	_	_	_	_	_	_	O

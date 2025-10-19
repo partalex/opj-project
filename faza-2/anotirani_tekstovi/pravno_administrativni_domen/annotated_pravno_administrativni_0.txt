@@ -288,12 +288,12 @@
 17	22.	_	_	_	_	_	_	_	_	O
 18	stav	_	_	_	_	_	_	_	_	O
 19	1.	_	_	_	_	_	_	_	_	O
-20	Zakona	_	_	_	_	_	_	_	_	B-ORG
-21	o	_	_	_	_	_	_	_	_	I-ORG
-22	parničnom	_	_	_	_	_	_	_	_	I-ORG
-23	postupku	_	_	_	_	_	_	_	_	I-ORG
+20	Zakona	_	_	_	_	_	_	_	_	O
+21	o	_	_	_	_	_	_	_	_	O
+22	parničnom	_	_	_	_	_	_	_	_	O
+23	postupku	_	_	_	_	_	_	_	_	O
 24	–	–	PUNCT	Z	_	_	_	_	_	O
-25	ZPP	_	_	_	_	_	_	_	_	B-ORG
+25	ZPP	_	_	_	_	_	_	_	_	O
 26	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 27	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	B-ORG
 28	Službeni	_	_	_	_	_	_	_	_	I-ORG
@@ -319,10 +319,10 @@
 10	32.	_	_	_	_	_	_	_	_	O
 11	stav	_	_	_	_	_	_	_	_	O
 12	2.	_	_	_	_	_	_	_	_	O
-13	Zakona	_	_	_	_	_	_	_	_	B-ORG
-14	o	_	_	_	_	_	_	_	_	I-ORG
-15	uređenju	_	_	_	_	_	_	_	_	I-ORG
-16	sudova	_	_	_	_	_	_	_	_	I-ORG
+13	Zakona	_	_	_	_	_	_	_	_	O
+14	o	_	_	_	_	_	_	_	_	O
+15	uređenju	_	_	_	_	_	_	_	_	O
+16	sudova	_	_	_	_	_	_	_	_	O
 17	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 18	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	B-ORG
 19	Službeni	_	_	_	_	_	_	_	_	I-ORG
@@ -419,10 +419,10 @@
 3	26.	_	_	_	_	_	_	_	_	O
 4	stav	_	_	_	_	_	_	_	_	O
 5	2.	_	_	_	_	_	_	_	_	O
-6	Zakona	_	_	_	_	_	_	_	_	B-ORG
-7	o	_	_	_	_	_	_	_	_	I-ORG
-8	uređenju	_	_	_	_	_	_	_	_	I-ORG
-9	sudova	_	_	_	_	_	_	_	_	I-ORG
+6	Zakona	_	_	_	_	_	_	_	_	O
+7	o	_	_	_	_	_	_	_	_	O
+8	uređenju	_	_	_	_	_	_	_	_	O
+9	sudova	_	_	_	_	_	_	_	_	O
 10	propisano	_	_	_	_	_	_	_	_	O
 11	je	_	_	_	_	_	_	_	_	O
 12	da	_	_	_	_	_	_	_	_	O
@@ -482,15 +482,15 @@
 
 # sent_id = 10.2
 # text = Zakona o sedištima i područjima sudova i javnih tužilaštava („Službeni glasnik RS“, broj 101/13) predviđen je Viši sud u Novom Sadu, za područje Osnovnog suda u Bačkoj Palanci i Osnovnog suda u Novom Sadu.
-1	Zakona	_	_	_	_	_	_	_	_	B-ORG
-2	o	_	_	_	_	_	_	_	_	I-ORG
-3	sedištima	_	_	_	_	_	_	_	_	I-ORG
-4	i	_	_	_	_	_	_	_	_	I-ORG
-5	područjima	_	_	_	_	_	_	_	_	I-ORG
-6	sudova	_	_	_	_	_	_	_	_	I-ORG
-7	i	_	_	_	_	_	_	_	_	I-ORG
-8	javnih	_	_	_	_	_	_	_	_	I-ORG
-9	tužilaštava	_	_	_	_	_	_	_	_	I-ORG
+1	Zakona	_	_	_	_	_	_	_	_	O
+2	o	_	_	_	_	_	_	_	_	O
+3	sedištima	_	_	_	_	_	_	_	_	O
+4	i	_	_	_	_	_	_	_	_	O
+5	područjima	_	_	_	_	_	_	_	_	O
+6	sudova	_	_	_	_	_	_	_	_	O
+7	i	_	_	_	_	_	_	_	_	O
+8	javnih	_	_	_	_	_	_	_	_	O
+9	tužilaštava	_	_	_	_	_	_	_	_	O
 10	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 11	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	B-ORG
 12	Službeni	_	_	_	_	_	_	_	_	I-ORG

@@ -30,10 +30,10 @@
 7	časova	_	_	_	_	_	_	_	SpaceAfter=No	O
 8	,	,	PUNCT	Z	_	_	_	_	_	O
 9	ispred	_	_	_	_	_	_	_	_	O
-10	Narodnog	_	_	_	_	_	_	_	_	B-LOC
-11	pozorišta	_	_	_	_	_	_	_	_	I-LOC
-12	u	_	_	_	_	_	_	_	_	O
-13	Beogradu	_	_	_	_	_	_	_	_	B-LOC
+10	Narodnog	_	_	_	_	_	_	_	_	B-ORG
+11	pozorišta	_	_	_	_	_	_	_	_	I-ORG
+12	u	_	_	_	_	_	_	_	_	I-ORG
+13	Beogradu	_	_	_	_	_	_	_	_	I-ORG
 14	biće	_	_	_	_	_	_	_	_	O
 15	održan	_	_	_	_	_	_	_	_	O
 16	skup	_	_	_	_	_	_	_	_	O

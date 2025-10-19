@@ -693,8 +693,8 @@
 # newpar id = 8
 # sent_id = 8.1
 # text = Vrhovni sud je ispitao pravnosnažnu presudu u pobijanom delu na osnovu člana 408.
-1	Vrhovni	_	_	_	_	_	_	_	_	O
-2	sud	_	_	_	_	_	_	_	_	O
+1	Vrhovni	_	_	_	_	_	_	_	_	B-ORG
+2	sud	_	_	_	_	_	_	_	_	I-ORG
 3	je	_	_	_	_	_	_	_	_	O
 4	ispitao	_	_	_	_	_	_	_	_	O
 5	pravnosnažnu	_	_	_	_	_	_	_	_	O
@@ -709,10 +709,10 @@
 
 # sent_id = 8.2
 # text = Zakona o parničnom postupku („Službeni glasnik RS“, br. 72/11, 55/14, 87/18, 18/20 i 10/23, u daljem tekstu: ZPP), u vezi sa članom 202.
-1	Zakona	_	_	_	_	_	_	_	_	B-ORG
-2	o	_	_	_	_	_	_	_	_	I-ORG
-3	parničnom	_	_	_	_	_	_	_	_	I-ORG
-4	postupku	_	_	_	_	_	_	_	_	I-ORG
+1	Zakona	_	_	_	_	_	_	_	_	O
+2	o	_	_	_	_	_	_	_	_	O
+3	parničnom	_	_	_	_	_	_	_	_	O
+4	postupku	_	_	_	_	_	_	_	_	O
 5	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 6	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	I-ORG
 7	Službeni	_	_	_	_	_	_	_	_	I-ORG
@@ -746,8 +746,8 @@
 
 # sent_id = 8.3
 # text = Porodičnog zakona („Službeni glasnik RS“, br. 18/2005...
-1	Porodičnog	_	_	_	_	_	_	_	_	B-ORG
-2	zakona	_	_	_	_	_	_	_	_	I-ORG
+1	Porodičnog	_	_	_	_	_	_	_	_	O
+2	zakona	_	_	_	_	_	_	_	_	O
 3	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 4	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	B-ORG
 5	Službeni	_	_	_	_	_	_	_	_	I-ORG

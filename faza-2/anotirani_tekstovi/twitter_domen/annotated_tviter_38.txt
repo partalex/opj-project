@@ -18,7 +18,7 @@
 12	NJIHOVE	_	_	_	_	_	_	_	_	O
 13	PODATKE	_	_	_	_	_	_	_	_	O
 14	CG	_	_	_	_	_	_	_	_	B-ORG
-15	KLANOVIMA	_	_	_	_	_	_	_	_	I-ORG
+15	KLANOVIMA	_	_	_	_	_	_	_	_	O
 16	DALIBOR	_	_	_	_	_	_	_	_	B-PER
 17	PAVIĆ-DAČA	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 18	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O

@@ -256,8 +256,8 @@
 # sent_id = 4.2
 # text = Institut u Vinči, osnovan nakon raskola Jugoslavije sa Staljinom, kada je zemlja izgubila svoje mesto u Komunističkom informacionom birou, postaje epicentar tajnog poduhvata izrade atomske bombe.
 1	Institut	_	_	_	_	_	_	_	_	B-ORG
-2	u	_	_	_	_	_	_	_	_	I-ORG
-3	Vinči	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+2	u	_	_	_	_	_	_	_	_	O
+3	Vinči	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 4	,	,	PUNCT	Z	_	_	_	_	_	O
 5	osnovan	_	_	_	_	_	_	_	_	O
 6	nakon	_	_	_	_	_	_	_	_	O

@@ -13,7 +13,7 @@
 7	od	_	_	_	_	_	_	_	_	O
 8	sudija	_	_	_	_	_	_	_	SpaceAfter=No	O
 9	:	:	PUNCT	Z	_	_	_	_	_	O
-10	Vesne	_	_	_	_	_	_	_	_	B-period
+10	Vesne	_	_	_	_	_	_	_	_	B-PER
 11	Subić	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 12	,	,	PUNCT	Z	_	_	_	_	_	O
 13	predsednika	_	_	_	_	_	_	_	_	O

@@ -30,7 +30,7 @@
 24	međunarodnom	_	_	_	_	_	_	_	_	O
 25	takmičenju	_	_	_	_	_	_	_	_	O
 26	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
-27	Elektrijada	_	_	_	_	_	_	_	SpaceAfter=No	B-ROG
+27	Elektrijada	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
 28	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 29	.	.	PUNCT	Z	_	_	_	_	_	O
 

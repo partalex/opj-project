@@ -9,7 +9,7 @@
 3	,	,	PUNCT	Z	_	_	_	_	_	O
 4	i	_	_	_	_	_	_	_	_	O
 5	predsednik	_	_	_	_	_	_	_	_	O
-6	opštine	_	_	_	_	_	_	_	_	o
+6	opštine	_	_	_	_	_	_	_	_	O
 7	Čukarica	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 8	,	,	PUNCT	Z	_	_	_	_	_	O
 9	Nikola	_	_	_	_	_	_	_	_	B-PER

@@ -28,7 +28,7 @@
 22	brojne	_	_	_	_	_	_	_	_	O
 23	murale	_	_	_	_	_	_	_	_	O
 24	posvećene	_	_	_	_	_	_	_	_	O
-25	Mladiću	_	_	_	_	_	_	_	SpaceAfter=No	B-PER 
+25	Mladiću	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 26	,	,	PUNCT	Z	_	_	_	_	_	O
 27	a	_	_	_	_	_	_	_	_	O
 28	i	_	_	_	_	_	_	_	_	O

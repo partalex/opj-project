@@ -13,7 +13,7 @@
 7	glavnom	_	_	_	_	_	_	_	_	O
 8	gradu	_	_	_	_	_	_	_	_	O
 9	Meksika	_	_	_	_	_	_	_	_	B-LOC
-10	Sijudad	_	_	_	_	_	_	_	_	B-LOC 
+10	Sijudad	_	_	_	_	_	_	_	_	B-LOC
 11	Meksiku	_	_	_	_	_	_	_	_	I-LOC
 12	i	_	_	_	_	_	_	_	_	O
 13	okolini	_	_	_	_	_	_	_	_	O

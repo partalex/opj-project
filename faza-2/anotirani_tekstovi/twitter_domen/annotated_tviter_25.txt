@@ -4,7 +4,7 @@
 # newpar id = 1
 # sent_id = 1.1
 # text = ANGELINA TOPIĆ OSVOJILA BRONZU NA SVETSKOM PRVENSTVU
-1	ANGELINA	_	_	_	_	_	_	_	_	B-PER 
+1	ANGELINA	_	_	_	_	_	_	_	_	B-PER
 2	TOPIĆ	_	_	_	_	_	_	_	_	I-PER
 3	OSVOJILA	_	_	_	_	_	_	_	_	O
 4	BRONZU	_	_	_	_	_	_	_	_	O

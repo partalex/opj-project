@@ -10,7 +10,7 @@
 4	razgovora	_	_	_	_	_	_	_	_	O
 5	između	_	_	_	_	_	_	_	_	O
 6	Stena	_	_	_	_	_	_	_	_	B-PER
-7	Milera	_	_	_	_	_	_	_	_	I-EPR
+7	Milera	_	_	_	_	_	_	_	_	I-PER
 8	i	_	_	_	_	_	_	_	_	O
 9	Vladimira	_	_	_	_	_	_	_	_	B-PER
 10	Lučića	_	_	_	_	_	_	_	SpaceAfter=No	I-PER

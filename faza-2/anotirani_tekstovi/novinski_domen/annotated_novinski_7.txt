@@ -27,7 +27,7 @@
 21	,	,	PUNCT	Z	_	_	_	_	_	O
 22	saopštilo	_	_	_	_	_	_	_	_	O
 23	je	_	_	_	_	_	_	_	_	O
-24	Ministarstvo	_	_	_	_	_	_	_	_	B-ORG 
+24	Ministarstvo	_	_	_	_	_	_	_	_	B-ORG
 25	unutrašnjih	_	_	_	_	_	_	_	_	I-ORG
 26	poslova	_	_	_	_	_	_	_	_	I-ORG
 27	Egipta	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG

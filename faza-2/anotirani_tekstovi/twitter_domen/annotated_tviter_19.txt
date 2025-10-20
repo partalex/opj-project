@@ -22,7 +22,7 @@
 # text = Teoretski, Teodora Injac može da se kvalifikuje i potom pobedi na turniru izazivača i da igra sa Gukešom Domaradžuom za titulu prvaka sveta.
 1	Teoretski	_	_	_	_	_	_	_	SpaceAfter=No	O
 2	,	,	PUNCT	Z	_	_	_	_	_	O
-3	Teodora	_	_	_	_	_	_	_	_	B-PER 
+3	Teodora	_	_	_	_	_	_	_	_	B-PER
 4	Injac	_	_	_	_	_	_	_	_	I-PER
 5	može	_	_	_	_	_	_	_	_	O
 6	da	_	_	_	_	_	_	_	_	O
@@ -50,7 +50,7 @@
 # sent_id = 2.1
 # text = I šahovska Olimpijada se igra kao Open turnir, samo je čisto ženska konkurencija odvojena.
 1	I	_	_	_	_	_	_	_	_	O
-2	šahovska	_	_	_	_	_	_	_	_	B-ORG 
+2	šahovska	_	_	_	_	_	_	_	_	B-ORG
 3	Olimpijada	_	_	_	_	_	_	_	_	I-ORG
 4	se	_	_	_	_	_	_	_	_	O
 5	igra	_	_	_	_	_	_	_	_	O

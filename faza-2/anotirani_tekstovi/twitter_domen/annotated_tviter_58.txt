@@ -23,7 +23,7 @@
 17	članova	_	_	_	_	_	_	_	_	O
 18	saveta	_	_	_	_	_	_	_	_	O
 19	Regulatornog	_	_	_	_	_	_	_	_	B-ORG
-20	tela	_	_	_	_	_	_	_	_	I_ORG
+20	tela	_	_	_	_	_	_	_	_	I-ORG
 21	za	_	_	_	_	_	_	_	_	I-ORG
 22	elektronske	_	_	_	_	_	_	_	_	I-ORG
 23	medije	_	_	_	_	_	_	_	_	I-ORG

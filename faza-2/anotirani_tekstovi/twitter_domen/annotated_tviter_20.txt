@@ -24,8 +24,8 @@
 8	tehničkih	_	_	_	_	_	_	_	_	I-ORG
 9	nauka	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 10	,	,	PUNCT	Z	_	_	_	_	_	O
-11	Bogdan	_	_	_	_	_	_	_	_	B-PER 
-12	Jovičić	_	_	_	_	_	_	_	SpaceAfter=No	I-PER 
+11	Bogdan	_	_	_	_	_	_	_	_	B-PER
+12	Jovičić	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 13	,	,	PUNCT	Z	_	_	_	_	_	O
 14	dobio	_	_	_	_	_	_	_	_	O
 15	je	_	_	_	_	_	_	_	_	O
@@ -34,8 +34,8 @@
 18	zastupnicu	_	_	_	_	_	_	_	SpaceAfter=No	O
 19	,	,	PUNCT	Z	_	_	_	_	_	O
 20	advokaticu	_	_	_	_	_	_	_	_	O
-21	Ljiljanu	_	_	_	_	_	_	_	_	B-PER 
-22	Borović	_	_	_	_	_	_	_	_	I-PER 
+21	Ljiljanu	_	_	_	_	_	_	_	_	B-PER
+22	Borović	_	_	_	_	_	_	_	_	I-PER
 23	Marjanović	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 24	,	,	PUNCT	Z	_	_	_	_	_	O
 25	koja	_	_	_	_	_	_	_	_	O
@@ -59,10 +59,10 @@
 8	našeg	_	_	_	_	_	_	_	_	O
 9	kolege	_	_	_	_	_	_	_	_	O
 10	sa	_	_	_	_	_	_	_	_	O
-11	Pravnog	_	_	_	_	_	_	_	_	B-ORG 
-12	fakulteta	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG 
+11	Pravnog	_	_	_	_	_	_	_	_	B-ORG
+12	fakulteta	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 13	,	,	PUNCT	Z	_	_	_	_	_	O
-14	Dimitrija	_	_	_	_	_	_	_	_	B-PER 
+14	Dimitrija	_	_	_	_	_	_	_	_	B-PER
 15	Dimića	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 16	.	.	PUNCT	Z	_	_	_	_	_	O
 

@@ -73,7 +73,7 @@
 22	brojni	_	_	_	_	_	_	_	_	O
 23	wannabe	_	_	_	_	_	_	_	_	O
 24	The	_	_	_	_	_	_	_	_	B-ORG
-25	Strokes	_	_	_	_	_	_	_	_	I-ORG 
+25	Strokes	_	_	_	_	_	_	_	_	I-ORG
 26	veruju	_	_	_	_	_	_	_	_	O
 27	da	_	_	_	_	_	_	_	_	O
 28	zvuče	_	_	_	_	_	_	_	SpaceAfter=No	O

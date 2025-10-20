@@ -242,7 +242,7 @@
 10	Patel	_	_	_	_	_	_	_	_	I-PER
 11	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 12	SVP	_	_	_	_	_	_	_	_	O
-13	Adecco	_	_	_	_	_	_	_	_	O
+13	Adecco	_	_	_	_	_	_	_	_	B-ORG
 14	&	&	SYM	Z	_	_	_	_	_	O
 15	Head	_	_	_	_	_	_	_	_	O
 16	of	_	_	_	_	_	_	_	_	O

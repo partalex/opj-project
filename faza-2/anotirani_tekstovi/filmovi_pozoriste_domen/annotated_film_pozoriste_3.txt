@@ -61,8 +61,8 @@
 6	mesta	_	_	_	_	_	_	_	_	O
 7	popunjenoj	_	_	_	_	_	_	_	_	O
 8	velikoj	_	_	_	_	_	_	_	_	O
-9	Letnjoj	_	_	_	_	_	_	_	_	O
-10	pozornici	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	Letnjoj	_	_	_	_	_	_	_	_	B-LOC
+10	pozornici	_	_	_	_	_	_	_	SpaceAfter=No	I-LOC
 11	,	,	PUNCT	Z	_	_	_	_	_	O
 12	jedno	_	_	_	_	_	_	_	_	O
 13	je	_	_	_	_	_	_	_	_	O
@@ -79,7 +79,7 @@
 # text = Autorski tim Tome je ponudio filmsku mešavinu koja sadrži sve potrebne sastojke potrebne da se gledaoci namame u bioskop: tu je, kao i prvo i osnovno, voljena popkulturna gromada u središtu priče (pored Tomislava Tome Zdravkovića, tu su i drugi likovi zasnovani na ljudima iz sveta umetnosti i estrade), te izdašna doza nostalgije, obilje poznate muzike, popularni glumci u većim i manjim ulogama, priča koju nije teško pratiti i razumeti…
 1	Autorski	_	_	_	_	_	_	_	_	O
 2	tim	_	_	_	_	_	_	_	_	O
-3	Tome	_	_	_	_	_	_	_	_	B-PER
+3	Tome	_	_	_	_	_	_	_	_	O
 4	je	_	_	_	_	_	_	_	_	O
 5	ponudio	_	_	_	_	_	_	_	_	O
 6	filmsku	_	_	_	_	_	_	_	_	O
@@ -550,7 +550,7 @@
 1	Trideset	_	_	_	_	_	_	_	_	O
 2	i	_	_	_	_	_	_	_	_	O
 3	jednogodišnji	_	_	_	_	_	_	_	_	O
-4	Marić	_	_	_	_	_	_	_	_	O
+4	Marić	_	_	_	_	_	_	_	_	B-PER
 5	glumi	_	_	_	_	_	_	_	_	O
 6	Zdravkovića	_	_	_	_	_	_	_	_	B-PER
 7	u	_	_	_	_	_	_	_	_	O

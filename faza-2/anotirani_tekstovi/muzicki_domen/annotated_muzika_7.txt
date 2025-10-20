@@ -50,9 +50,9 @@
 9	na	_	_	_	_	_	_	_	_	O
 10	Akademiji	_	_	_	_	_	_	_	_	B-ORG
 11	umetnosti	_	_	_	_	_	_	_	_	I-ORG
-12	u	_	_	_	_	_	_	_	_	O
-13	Novom	_	_	_	_	_	_	_	_	B-LOC
-14	Sadu	_	_	_	_	_	_	_	SpaceAfter=No	I-LOC
+12	u	_	_	_	_	_	_	_	_	I-ORG
+13	Novom	_	_	_	_	_	_	_	_	I-ORG
+14	Sadu	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 15	,	,	PUNCT	Z	_	_	_	_	_	O
 16	otisnuo	_	_	_	_	_	_	_	_	O
 17	se	_	_	_	_	_	_	_	_	O
@@ -98,8 +98,8 @@
 14	postao	_	_	_	_	_	_	_	_	O
 15	senzacija	_	_	_	_	_	_	_	_	O
 16	na	_	_	_	_	_	_	_	_	O
-17	Šopenovom	_	_	_	_	_	_	_	_	O
-18	takmičenju	_	_	_	_	_	_	_	_	O
+17	Šopenovom	_	_	_	_	_	_	_	_	B-ORG
+18	takmičenju	_	_	_	_	_	_	_	_	I-ORG
 19	u	_	_	_	_	_	_	_	_	O
 20	Varšavi	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 21	.	.	PUNCT	Z	_	_	_	_	_	O

@@ -282,8 +282,8 @@
 1	U	_	_	_	_	_	_	_	_	O
 2	Vusanju	_	_	_	_	_	_	_	_	B-LOC
 3	je	_	_	_	_	_	_	_	_	O
-4	Zdravstveni	_	_	_	_	_	_	_	_	O
-5	punkt	_	_	_	_	_	_	_	_	O
+4	Zdravstveni	_	_	_	_	_	_	_	_	B-ORG
+5	punkt	_	_	_	_	_	_	_	_	I-ORG
 6	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 7	tako	_	_	_	_	_	_	_	_	O
 8	piše	_	_	_	_	_	_	_	SpaceAfter=No	O
@@ -693,9 +693,9 @@
 
 # sent_id = 1.29
 # text = (CANU) previše srpska, zato je ovde zagrada u zagradi, da može i što ne može, da mogu i Rastoderi u Dukljane i obrnuto).
-1	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
-2	CANU	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
-3	)	)	PUNCT	Z	_	_	_	_	_	O
+1	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	I-ORG
+2	CANU	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+3	)	)	PUNCT	Z	_	_	_	_	_	I-ORG
 4	previše	_	_	_	_	_	_	_	_	O
 5	srpska	_	_	_	_	_	_	_	SpaceAfter=No	O
 6	,	,	PUNCT	Z	_	_	_	_	_	O
@@ -716,9 +716,9 @@
 21	da	_	_	_	_	_	_	_	_	O
 22	mogu	_	_	_	_	_	_	_	_	O
 23	i	_	_	_	_	_	_	_	_	O
-24	Rastoderi	_	_	_	_	_	_	_	_	O
+24	Rastoderi	_	_	_	_	_	_	_	_	B-PER
 25	u	_	_	_	_	_	_	_	_	O
-26	Dukljane	_	_	_	_	_	_	_	_	O
+26	Dukljane	_	_	_	_	_	_	_	_	B-PER
 27	i	_	_	_	_	_	_	_	_	O
 28	obrnuto	_	_	_	_	_	_	_	SpaceAfter=No	O
 29	)	)	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
@@ -1103,7 +1103,7 @@
 36	predsednik	_	_	_	_	_	_	_	SpaceAfter=No	O
 37	,	,	PUNCT	Z	_	_	_	_	_	O
 38	uprslučeni	_	_	_	_	_	_	_	_	O
-39	Jevrem	_	_	_	_	_	_	_	SpaceAfter=No	O
+39	Jevrem	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 40	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 1.40
@@ -1186,8 +1186,8 @@
 2	smeta	_	_	_	_	_	_	_	_	O
 3	mi	_	_	_	_	_	_	_	_	O
 4	pripovedanje	_	_	_	_	_	_	_	_	O
-5	Huseina	_	_	_	_	_	_	_	_	O
-6	Bašića	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	Huseina	_	_	_	_	_	_	_	_	B-PER
+6	Bašića	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 7	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 1.44

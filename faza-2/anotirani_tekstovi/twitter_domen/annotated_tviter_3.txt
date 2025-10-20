@@ -383,7 +383,7 @@
 33	i	_	_	_	_	_	_	_	_	O
 34	sa	_	_	_	_	_	_	_	_	O
 35	zvaničnicima	_	_	_	_	_	_	_	_	O
-36	Hrvatske	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+36	Hrvatske	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
 37	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 6.2

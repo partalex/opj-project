@@ -5,9 +5,9 @@
 # sent_id = 1.1
 # text = Dan Velike dvorane Kolarčeve zadužbine proslavljen je veličanstveno, uz dva kapitalna dela evropske klasične muzike – Mocartov Rekvijem i Koncert za violinu u D-duru, op. 35 Čajkovskog.
 1	Dan	_	_	_	_	_	_	_	_	O
-2	Velike	_	_	_	_	_	_	_	_	O
-3	dvorane	_	_	_	_	_	_	_	_	O
-4	Kolarčeve	_	_	_	_	_	_	_	_	B-LOC
+2	Velike	_	_	_	_	_	_	_	_	B-LOC
+3	dvorane	_	_	_	_	_	_	_	_	I-LOC
+4	Kolarčeve	_	_	_	_	_	_	_	_	I-LOC
 5	zadužbine	_	_	_	_	_	_	_	_	I-LOC
 6	proslavljen	_	_	_	_	_	_	_	_	O
 7	je	_	_	_	_	_	_	_	_	O
@@ -252,9 +252,9 @@
 # newpar id = 5
 # sent_id = 5.1
 # text = Muzička produkcija RTS-a okupila je izvanredan kvartet solista: sopran Biljanu Jovanović, mecosopran Ivanu Srbljan, tenora Marka Živkovića (koji je u poslednjem trenutku uskočio kao zamena za Miloša Bulajića) i basa Savu Vemića.
-1	Muzička	_	_	_	_	_	_	_	_	O
-2	produkcija	_	_	_	_	_	_	_	_	O
-3	RTS-a	_	_	_	_	_	_	_	_	B-ORG
+1	Muzička	_	_	_	_	_	_	_	_	B-ORG
+2	produkcija	_	_	_	_	_	_	_	_	I-ORG
+3	RTS-a	_	_	_	_	_	_	_	_	I-ORG
 4	okupila	_	_	_	_	_	_	_	_	O
 5	je	_	_	_	_	_	_	_	_	O
 6	izvanredan	_	_	_	_	_	_	_	_	O

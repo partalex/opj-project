@@ -80,8 +80,8 @@
 21	,	,	PUNCT	Z	_	_	_	_	_	O
 22	naročito	_	_	_	_	_	_	_	_	O
 23	mlade	_	_	_	_	_	_	_	_	O
-24	reprezentacije	_	_	_	_	_	_	_	_	O
-25	Srbije	_	_	_	_	_	_	_	_	B-LOC
+24	reprezentacije	_	_	_	_	_	_	_	_	B-ORG
+25	Srbije	_	_	_	_	_	_	_	_	I-ORG
 26	do	_	_	_	_	_	_	_	_	O
 27	21	_	_	_	_	_	_	_	_	O
 28	godine	_	_	_	_	_	_	_	SpaceAfter=No	O
@@ -94,14 +94,14 @@
 35	srebrne	_	_	_	_	_	_	_	_	O
 36	medalje	_	_	_	_	_	_	_	_	O
 37	na	_	_	_	_	_	_	_	_	O
-38	Evropskom	_	_	_	_	_	_	_	_	O
-39	prvenstvu	_	_	_	_	_	_	_	_	O
+38	Evropskom	_	_	_	_	_	_	_	_	B-ORG
+39	prvenstvu	_	_	_	_	_	_	_	_	I-ORG
 40	u	_	_	_	_	_	_	_	_	O
 41	Nemačkoj	_	_	_	_	_	_	_	_	B-LOC
 42	2004.	_	_	_	_	_	_	_	_	O
 43	i	_	_	_	_	_	_	_	_	O
-44	Evropskom	_	_	_	_	_	_	_	_	O
-45	prvenstvu	_	_	_	_	_	_	_	_	O
+44	Evropskom	_	_	_	_	_	_	_	_	B-ORG
+45	prvenstvu	_	_	_	_	_	_	_	_	I-ORG
 46	u	_	_	_	_	_	_	_	_	O
 47	Holandiji	_	_	_	_	_	_	_	_	B-LOC
 48	2007.	_	_	_	_	_	_	_	_	O
@@ -190,8 +190,8 @@
 # text = Za seniorsku reprezentaciju Srbije odigrao je dve utakmice 2008. godine, obe pod komandom selektora Miroslava Đukića, protiv Rusije i Nemačke.
 1	Za	_	_	_	_	_	_	_	_	O
 2	seniorsku	_	_	_	_	_	_	_	_	O
-3	reprezentaciju	_	_	_	_	_	_	_	_	O
-4	Srbije	_	_	_	_	_	_	_	_	O
+3	reprezentaciju	_	_	_	_	_	_	_	_	B-ORG
+4	Srbije	_	_	_	_	_	_	_	_	I-ORG
 5	odigrao	_	_	_	_	_	_	_	_	O
 6	je	_	_	_	_	_	_	_	_	O
 7	dve	_	_	_	_	_	_	_	_	O

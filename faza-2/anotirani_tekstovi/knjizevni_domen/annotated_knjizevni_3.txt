@@ -448,7 +448,7 @@
 
 # sent_id = 1.24
 # text = Jakuze su, inače, oni žestoki momci, sa obaveznim sunčanim naočarima i bez jednog prsta.
-1	Jakuze	_	_	_	_	_	_	_	_	O
+1	Jakuze	_	_	_	_	_	_	_	_	B-ORG
 2	su	_	_	_	_	_	_	_	SpaceAfter=No	O
 3	,	,	PUNCT	Z	_	_	_	_	_	O
 4	inače	_	_	_	_	_	_	_	SpaceAfter=No	O
@@ -478,7 +478,7 @@
 7	kako	_	_	_	_	_	_	_	_	O
 8	nazivaju	_	_	_	_	_	_	_	_	O
 9	navijače	_	_	_	_	_	_	_	_	O
-10	Napretka	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	Napretka	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
 11	,	,	PUNCT	Z	_	_	_	_	_	O
 12	koji	_	_	_	_	_	_	_	_	O
 13	imaju	_	_	_	_	_	_	_	_	O
@@ -503,10 +503,10 @@
 7	kad	_	_	_	_	_	_	_	_	O
 8	ispred	_	_	_	_	_	_	_	_	O
 9	hotela	_	_	_	_	_	_	_	_	O
-10	Takanava	_	_	_	_	_	_	_	_	O
+10	Takanava	_	_	_	_	_	_	_	_	B-LOC
 11	princ	_	_	_	_	_	_	_	_	O
 12	vidim	_	_	_	_	_	_	_	_	O
-13	Gulivera	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	Gulivera	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 14	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 1.27
@@ -521,9 +521,9 @@
 # sent_id = 1.28
 # text = Običnim Evropljanima su Japanci do ramena, a ovom deliji do pasa.
 1	Običnim	_	_	_	_	_	_	_	_	O
-2	Evropljanima	_	_	_	_	_	_	_	_	O
+2	Evropljanima	_	_	_	_	_	_	_	_	B-PER
 3	su	_	_	_	_	_	_	_	_	O
-4	Japanci	_	_	_	_	_	_	_	_	O
+4	Japanci	_	_	_	_	_	_	_	_	B-PER
 5	do	_	_	_	_	_	_	_	_	O
 6	ramena	_	_	_	_	_	_	_	SpaceAfter=No	O
 7	,	,	PUNCT	Z	_	_	_	_	_	O
@@ -546,9 +546,9 @@
 8	kad	_	_	_	_	_	_	_	_	O
 9	ono	_	_	_	_	_	_	_	_	O
 10	onaj	_	_	_	_	_	_	_	_	O
-11	Vlade	_	_	_	_	_	_	_	_	O
-12	iz	_	_	_	_	_	_	_	_	O
-13	Prijepolja	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	Vlade	_	_	_	_	_	_	_	_	B-ORG
+12	iz	_	_	_	_	_	_	_	_	I-ORG
+13	Prijepolja	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 14	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 1.30
@@ -562,7 +562,7 @@
 2	to	_	_	_	_	_	_	_	_	O
 3	sa	_	_	_	_	_	_	_	_	O
 4	suprugom	_	_	_	_	_	_	_	_	O
-5	Snežanom	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	Snežanom	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 6	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 1.32
@@ -575,7 +575,7 @@
 6	da	_	_	_	_	_	_	_	_	O
 7	podrži	_	_	_	_	_	_	_	_	O
 8	kandidaturu	_	_	_	_	_	_	_	_	O
-9	Beograda	_	_	_	_	_	_	_	_	O
+9	Beograda	_	_	_	_	_	_	_	_	B-LOC
 10	za	_	_	_	_	_	_	_	_	O
 11	neku	_	_	_	_	_	_	_	_	O
 12	Olimpijadu	_	_	_	_	_	_	_	SpaceAfter=No	O
@@ -586,7 +586,7 @@
 17	,	,	PUNCT	Z	_	_	_	_	_	O
 18	a	_	_	_	_	_	_	_	_	O
 19	i	_	_	_	_	_	_	_	_	O
-20	MOK	_	_	_	_	_	_	_	_	O
+20	MOK	_	_	_	_	_	_	_	_	B-ORG
 21	je	_	_	_	_	_	_	_	_	O
 22	tada	_	_	_	_	_	_	_	_	O
 23	zaboravio	_	_	_	_	_	_	_	_	O
@@ -688,7 +688,7 @@
 4	jer	_	_	_	_	_	_	_	_	O
 5	da	_	_	_	_	_	_	_	_	O
 6	bi	_	_	_	_	_	_	_	_	O
-7	Japanac	_	_	_	_	_	_	_	_	O
+7	Japanac	_	_	_	_	_	_	_	_	B-PER
 8	mogao	_	_	_	_	_	_	_	_	O
 9	da	_	_	_	_	_	_	_	_	O
 10	čita	_	_	_	_	_	_	_	_	O
@@ -713,7 +713,7 @@
 5	i	_	_	_	_	_	_	_	_	O
 6	za	_	_	_	_	_	_	_	_	O
 7	nas	_	_	_	_	_	_	_	_	O
-8	Srbe	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	Srbe	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 9	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 1.41
@@ -725,7 +725,7 @@
 5	japanskom	_	_	_	_	_	_	_	_	O
 6	sporazumevao	_	_	_	_	_	_	_	_	O
 7	kao	_	_	_	_	_	_	_	_	O
-8	Mogli	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	Mogli	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 9	,	,	PUNCT	Z	_	_	_	_	_	O
 10	a	_	_	_	_	_	_	_	_	O
 11	pomagao	_	_	_	_	_	_	_	_	O
@@ -745,14 +745,14 @@
 6	jedan	_	_	_	_	_	_	_	_	O
 7	baja	_	_	_	_	_	_	_	_	O
 8	iz	_	_	_	_	_	_	_	_	O
-9	Beograda	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	Beograda	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 10	,	,	PUNCT	Z	_	_	_	_	_	O
 11	da	_	_	_	_	_	_	_	_	O
 12	ne	_	_	_	_	_	_	_	_	O
 13	kažem	_	_	_	_	_	_	_	_	O
 14	iz	_	_	_	_	_	_	_	_	O
-15	Velikog	_	_	_	_	_	_	_	_	O
-16	Gradišta	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	Velikog	_	_	_	_	_	_	_	_	B-LOC
+16	Gradišta	_	_	_	_	_	_	_	SpaceAfter=No	I-LOC
 17	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 1.43
@@ -776,9 +776,9 @@
 3	čak	_	_	_	_	_	_	_	_	O
 4	i	_	_	_	_	_	_	_	_	O
 5	dopisnik	_	_	_	_	_	_	_	_	O
-6	Tanjuga	_	_	_	_	_	_	_	_	O
+6	Tanjuga	_	_	_	_	_	_	_	_	B-ORG
 7	iz	_	_	_	_	_	_	_	_	O
-8	Tokija	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	Tokija	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 9	,	,	PUNCT	Z	_	_	_	_	_	O
 10	a	_	_	_	_	_	_	_	_	O
 11	njegovoj	_	_	_	_	_	_	_	_	O
@@ -799,7 +799,7 @@
 2	majka	_	_	_	_	_	_	_	_	O
 3	im	_	_	_	_	_	_	_	_	O
 4	je	_	_	_	_	_	_	_	_	O
-5	Japanka	_	_	_	_	_	_	_	_	O
+5	Japanka	_	_	_	_	_	_	_	_	B-PER
 6	po	_	_	_	_	_	_	_	_	O
 7	imenu	_	_	_	_	_	_	_	_	O
 8	Secuko	_	_	_	_	_	_	_	SpaceAfter=No	O
@@ -807,7 +807,7 @@
 10	sada	_	_	_	_	_	_	_	_	O
 11	Beograđanka	_	_	_	_	_	_	_	_	O
 12	iz	_	_	_	_	_	_	_	_	O
-13	Mirijeva	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	Mirijeva	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 14	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 1.47
@@ -816,7 +816,7 @@
 2	,	,	PUNCT	Z	_	_	_	_	_	O
 3	kad	_	_	_	_	_	_	_	_	O
 4	taj	_	_	_	_	_	_	_	_	O
-5	Drakče	_	_	_	_	_	_	_	_	O
+5	Drakče	_	_	_	_	_	_	_	_	B-PER
 6	progovori	_	_	_	_	_	_	_	_	O
 7	japanski	_	_	_	_	_	_	_	SpaceAfter=No	O
 8	,	,	PUNCT	Z	_	_	_	_	_	O
@@ -866,7 +866,7 @@
 8	japanski	_	_	_	_	_	_	_	_	O
 9	ambasador	_	_	_	_	_	_	_	_	O
 10	u	_	_	_	_	_	_	_	_	O
-11	Rumuniji	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	Rumuniji	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 12	,	,	PUNCT	Z	_	_	_	_	_	O
 13	prolazio	_	_	_	_	_	_	_	_	O
 14	sa	_	_	_	_	_	_	_	_	O
@@ -915,7 +915,7 @@
 # text = Utom banu Dragan san, na kršu od bicikla, bos, u atletskoj majici.
 1	Utom	_	_	_	_	_	_	_	_	O
 2	banu	_	_	_	_	_	_	_	_	O
-3	Dragan	_	_	_	_	_	_	_	_	O
+3	Dragan	_	_	_	_	_	_	_	_	B-PER
 4	san	_	_	_	_	_	_	_	SpaceAfter=No	O
 5	,	,	PUNCT	Z	_	_	_	_	_	O
 6	na	_	_	_	_	_	_	_	_	O
@@ -983,7 +983,7 @@
 1	Posle	_	_	_	_	_	_	_	_	O
 2	mi	_	_	_	_	_	_	_	_	O
 3	je	_	_	_	_	_	_	_	_	O
-4	Dragan	_	_	_	_	_	_	_	_	O
+4	Dragan	_	_	_	_	_	_	_	_	B-PER
 5	objašnjavao	_	_	_	_	_	_	_	SpaceAfter=No	O
 6	:	:	PUNCT	Z	_	_	_	_	_	O
 7	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
@@ -993,7 +993,7 @@
 11	svaki	_	_	_	_	_	_	_	_	O
 12	seljak	_	_	_	_	_	_	_	_	O
 13	u	_	_	_	_	_	_	_	_	O
-14	Srbiji	_	_	_	_	_	_	_	_	O
+14	Srbiji	_	_	_	_	_	_	_	_	B-LOC
 15	zna	_	_	_	_	_	_	_	_	O
 16	japanski	_	_	_	_	_	_	_	SpaceAfter=No	O
 17	.	.	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
@@ -1003,7 +1003,7 @@
 1	“	“	PUNCT	Z	_	_	_	_	_	O
 2	Taj	_	_	_	_	_	_	_	_	O
 3	naš	_	_	_	_	_	_	_	_	O
-4	Japanac	_	_	_	_	_	_	_	_	O
+4	Japanac	_	_	_	_	_	_	_	_	B-PER
 5	me	_	_	_	_	_	_	_	_	O
 6	je	_	_	_	_	_	_	_	_	O
 7	vodao	_	_	_	_	_	_	_	_	O
@@ -1015,7 +1015,7 @@
 13	pokazujući	_	_	_	_	_	_	_	_	O
 14	mi	_	_	_	_	_	_	_	_	O
 15	prestonicu	_	_	_	_	_	_	_	_	O
-16	To-kjo	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	To-kjo	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 17	,	,	PUNCT	Z	_	_	_	_	_	O
 18	isti	_	_	_	_	_	_	_	_	O
 19	osnov	_	_	_	_	_	_	_	_	O
@@ -1024,7 +1024,7 @@
 22	prestonica	_	_	_	_	_	_	_	_	O
 23	Kjoto	_	_	_	_	_	_	_	SpaceAfter=No	O
 24	,	,	PUNCT	Z	_	_	_	_	_	O
-25	Kjo-to	_	_	_	_	_	_	_	SpaceAfter=No	O
+25	Kjo-to	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 26	,	,	PUNCT	Z	_	_	_	_	_	O
 27	samo	_	_	_	_	_	_	_	_	O
 28	obrnuto	_	_	_	_	_	_	_	SpaceAfter=No	O
@@ -1135,7 +1135,7 @@
 25	je	_	_	_	_	_	_	_	_	O
 26	bilo	_	_	_	_	_	_	_	_	O
 27	u	_	_	_	_	_	_	_	_	O
-28	Japanu	_	_	_	_	_	_	_	SpaceAfter=No	O
+28	Japanu	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 29	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 1.61
@@ -1198,7 +1198,7 @@
 11	,	,	PUNCT	Z	_	_	_	_	_	O
 12	osećaju	_	_	_	_	_	_	_	_	O
 13	kao	_	_	_	_	_	_	_	_	O
-14	Japanci	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	Japanci	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 15	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 1.65
@@ -1244,7 +1244,7 @@
 7	kao	_	_	_	_	_	_	_	_	O
 8	onaj	_	_	_	_	_	_	_	_	O
 9	u	_	_	_	_	_	_	_	_	O
-10	Izraelu	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	Izraelu	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
 11	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 1.67
@@ -1253,7 +1253,7 @@
 2	hteli	_	_	_	_	_	_	_	_	O
 3	da	_	_	_	_	_	_	_	_	O
 4	popuste	_	_	_	_	_	_	_	_	O
-5	Amerima	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	Amerima	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 6	,	,	PUNCT	Z	_	_	_	_	_	O
 7	sve	_	_	_	_	_	_	_	_	O
 8	dok	_	_	_	_	_	_	_	_	O
@@ -1261,15 +1261,15 @@
 10	nisu	_	_	_	_	_	_	_	_	O
 11	izvukli	_	_	_	_	_	_	_	_	O
 12	onu	_	_	_	_	_	_	_	_	O
-13	Enolu	_	_	_	_	_	_	_	_	O
+13	Enolu	_	_	_	_	_	_	_	_	0
 14	gej	_	_	_	_	_	_	_	SpaceAfter=No	O
 15	,	,	PUNCT	Z	_	_	_	_	_	O
 16	pa	_	_	_	_	_	_	_	_	O
 17	tras	_	_	_	_	_	_	_	_	O
 18	na	_	_	_	_	_	_	_	_	O
-19	Hirošimu	_	_	_	_	_	_	_	_	O
+19	Hirošimu	_	_	_	_	_	_	_	_	B-LOC
 20	i	_	_	_	_	_	_	_	_	O
-21	Nagasaki	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	Nagasaki	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 22	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 1.68
@@ -1298,7 +1298,7 @@
 # text = Najpopularniji ljudi Japana, osim carske porodice, jesu kraljevi sumo rvanja.
 1	Najpopularniji	_	_	_	_	_	_	_	_	O
 2	ljudi	_	_	_	_	_	_	_	_	O
-3	Japana	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	Japana	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
 4	,	,	PUNCT	Z	_	_	_	_	_	O
 5	osim	_	_	_	_	_	_	_	_	O
 6	carske	_	_	_	_	_	_	_	_	O
@@ -1347,8 +1347,8 @@
 18	ponovo	_	_	_	_	_	_	_	_	O
 19	krenuti	_	_	_	_	_	_	_	_	O
 20	na	_	_	_	_	_	_	_	_	O
-21	Perl	_	_	_	_	_	_	_	_	O
-22	Harbor	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	Perl	_	_	_	_	_	_	_	_	B-LOC
+22	Harbor	_	_	_	_	_	_	_	SpaceAfter=No	I-LOC
 23	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 1.73
@@ -1370,7 +1370,7 @@
 15	osiromašenog	_	_	_	_	_	_	_	_	O
 16	uranijuma	_	_	_	_	_	_	_	_	O
 17	u	_	_	_	_	_	_	_	_	O
-18	Evropi	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	Evropi	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 19	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 1.74
@@ -1409,9 +1409,9 @@
 1	Donatori	_	_	_	_	_	_	_	_	O
 2	sad	_	_	_	_	_	_	_	_	O
 3	merkaju	_	_	_	_	_	_	_	_	O
-4	Iran	_	_	_	_	_	_	_	_	O
+4	Iran	_	_	_	_	_	_	_	_	B-ORG
 5	i	_	_	_	_	_	_	_	_	O
-6	Rusiju	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	Rusiju	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
 7	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 1.77
@@ -1420,7 +1420,7 @@
 2	će	_	_	_	_	_	_	_	_	O
 3	nas	_	_	_	_	_	_	_	_	O
 4	i	_	_	_	_	_	_	_	_	O
-5	Japance	_	_	_	_	_	_	_	_	O
+5	Japance	_	_	_	_	_	_	_	_	B-PER
 6	ostaviti	_	_	_	_	_	_	_	_	O
 7	na	_	_	_	_	_	_	_	_	O
 8	miru	_	_	_	_	_	_	_	SpaceAfter=No	O
@@ -1433,7 +1433,7 @@
 3	uzleteo	_	_	_	_	_	_	_	_	O
 4	sa	_	_	_	_	_	_	_	_	O
 5	aerodroma	_	_	_	_	_	_	_	_	O
-6	Narita	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	Narita	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 7	,	,	PUNCT	Z	_	_	_	_	_	O
 8	ostavio	_	_	_	_	_	_	_	_	O
 9	sam	_	_	_	_	_	_	_	_	O

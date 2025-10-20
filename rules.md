@@ -25,13 +25,14 @@ todo: Pretraziti todo u ovom fajlu, prepakovati pravila i primere ako su nejasna
 7. Imena ljudi, mesta, ustanova... u nazivima filmova nisu ni jedan entitet
     * Npr Vanjin dnevnik, Vanjin nije B-PER
 8. Filmski festival u Lokranu - B-ORG (sve je org, i mesto)
-9. Imena naucnih instituta su B-ORG 
-    * Ukoliko se nazivu nadje u MESTO - pre u je org, posle loc (ako stavimo da je sve org u administrativnim tekstovima nece biti loc)
+9. Imena naucnih instituta su B-ORG
+    * Ukoliko se nazivu nadje u MESTO - pre u je org, posle loc (ako stavimo da je sve org u administrativnim tekstovima
+      nece biti loc)
     * Ukoliko nema u - INaučni institut Vinča - onda je sve org
     * Institu Kiri u Parizu - sve je org
     * Institut u Vinci
 10. Drzavne institucije
-    * Osnovni sud u Novom Sadu - sve je org, mora mesto ima vise osn. sudova 
+    * Osnovni sud u Novom Sadu - sve je org, mora mesto ima vise osn. sudova
     * Vlada
     * Ustavni sud - samo jedan je Ustavni
     * Ukrajinska vlada - sve org
@@ -46,3 +47,9 @@ todo: Pretraziti todo u ovom fajlu, prepakovati pravila i primere ako su nejasna
     * zaposleni restorarana Usce - zap. nije org, ostalo jesto
     * basta restorana Usce - zavisno od konteksta, ukoliko se nesto desava u restoranu Usce - loc, inace je org !to do
 15. Imena ljudi, mesta, ustanova u nazivima ulica su deo LOC.
+
+## fixme: 11 pravili nije tacno
+
+Naziv drzave je loc samo ako se refereise kao lokacija, inace je uvek org
+* Gradonacelnig Beograda - 0 B-LOC
+* predsendik Srbije - 0 B-ORG

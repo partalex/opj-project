@@ -77,7 +77,7 @@
 64	zakonitosti	_	_	_	_	_	_	_	_	O
 65	branioca	_	_	_	_	_	_	_	_	O
 66	okrivljenog	_	_	_	_	_	_	_	_	O
-67	AA	_	_	_	_	_	_	_	SpaceAfter=No	O
+67	AA	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 68	,	,	PUNCT	Z	_	_	_	_	_	O
 69	advokata	_	_	_	_	_	_	_	_	O
 70	Vesne	_	_	_	_	_	_	_	_	B-PER
@@ -1475,7 +1475,7 @@
 6	se	_	_	_	_	_	_	_	_	O
 7	protiv	_	_	_	_	_	_	_	_	O
 8	okrivljenog	_	_	_	_	_	_	_	_	O
-9	AA	_	_	_	_	_	_	_	_	O
+9	AA	_	_	_	_	_	_	_	_	B-PER
 10	vodio	_	_	_	_	_	_	_	_	O
 11	redovan	_	_	_	_	_	_	_	_	O
 12	krivični	_	_	_	_	_	_	_	_	O
@@ -1703,7 +1703,7 @@
 33	Filipovića	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 34	,	,	PUNCT	Z	_	_	_	_	_	O
 35	svedoka	_	_	_	_	_	_	_	_	O
-36	DD	_	_	_	_	_	_	_	SpaceAfter=No	O
+36	DD	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 37	,	,	PUNCT	Z	_	_	_	_	_	O
 38	očevica	_	_	_	_	_	_	_	_	O
 39	događaja	_	_	_	_	_	_	_	SpaceAfter=No	O
@@ -2207,8 +2207,8 @@
 26	,	,	PUNCT	Z	_	_	_	_	_	O
 27	to	_	_	_	_	_	_	_	_	O
 28	je	_	_	_	_	_	_	_	_	O
-29	Vrhovni	_	_	_	_	_	_	_	_	O
-30	sud	_	_	_	_	_	_	_	_	O
+29	Vrhovni	_	_	_	_	_	_	_	_	B-ORG
+30	sud	_	_	_	_	_	_	_	_	I-ORG
 31	našao	_	_	_	_	_	_	_	_	O
 32	da	_	_	_	_	_	_	_	_	O
 33	zahtev	_	_	_	_	_	_	_	_	O

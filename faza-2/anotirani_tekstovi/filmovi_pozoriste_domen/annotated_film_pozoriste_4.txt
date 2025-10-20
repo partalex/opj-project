@@ -52,8 +52,8 @@
 11	,	,	PUNCT	Z	_	_	_	_	_	O
 12	u	_	_	_	_	_	_	_	_	O
 13	režiji	_	_	_	_	_	_	_	_	O
-14	Jirgena	_	_	_	_	_	_	_	_	O
-15	Goša	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	Jirgena	_	_	_	_	_	_	_	_	B-PER
+15	Goša	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 16	,	,	PUNCT	Z	_	_	_	_	_	O
 17	na	_	_	_	_	_	_	_	_	O
 18	istoj	_	_	_	_	_	_	_	_	O
@@ -1264,8 +1264,8 @@
 4	u	_	_	_	_	_	_	_	_	O
 5	sklopu	_	_	_	_	_	_	_	_	O
 6	projekta	_	_	_	_	_	_	_	_	O
-7	Criticize	_	_	_	_	_	_	_	_	O
-8	This	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	Criticize	_	_	_	_	_	_	_	_	B-ORG
+8	This	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 9	!	!	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 6.2
@@ -1319,8 +1319,8 @@
 6	odgovornost	_	_	_	_	_	_	_	_	O
 7	organizatora	_	_	_	_	_	_	_	_	O
 8	projekta	_	_	_	_	_	_	_	_	O
-9	Criticize	_	_	_	_	_	_	_	_	O
-10	This	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	Criticize	_	_	_	_	_	_	_	_	B-ORG
+10	This	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 11	!	!	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 6.5

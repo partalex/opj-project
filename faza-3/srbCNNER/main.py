@@ -32,7 +32,8 @@ fix_label_map = {
         'B-PER': 'B-PER',
         'B-ORG': 'B-ORG',
         'B-LOC': 'B-LOC',
-        'O': 'O'
+        'O': 'O',
+        'ORG': 'O'
     }
 
 def plot_confusion_matrix(y_pred,y_true, labels_list):
@@ -215,6 +216,9 @@ scoring_simple = {
 print("\nClassification report without prefixes:")
 report = classification_report(y_true_no_prefix, y_pred_no_prefix, labels=labels_list_no_prefix, digits=4)
 plot_confusion_matrix(y_pred_no_prefix, y_true_no_prefix, labels_list_no_prefix)
+print(set(y_pred_no_prefix))
+# print(y_true_no_prefix)
+print(report)
 with open("classification_report_no_prefix.txt", "w", encoding="utf-8") as f:
     f.write(report)
 # print(trueCombo)

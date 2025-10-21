@@ -10,6 +10,7 @@ II faza
         - koliko je ukupno tokena uzeto
         - i za svaka dva anotatora procenat preklapanja/ razlike i prikaz razlika
 5. Negde u anotiranju ima samo ORG [za proveriti] - teodora (podsetnik za mn samo)
+    * srediti kod za statistiku - isto podsetnik za mn
 6. Dokumentacija za fazu 2
 
 III faza

@@ -11,9 +11,8 @@ todo: Pretraziti todo u ovom fajlu, prepakovati pravila i primere ako su nejasna
     * Somborac Ernest Bosnjaku - Ernest Bosnjaku je B-PER, Somborac nije nista
     * Princ Hari vojvoda od Saseksa - Hari je B-PER, vojvoda nista, Saseksa - loc
     * Gradonacelnik Beograda Aleksandar Sapic - (0 B-LOC B-PER I-PER), gradonacelnik je nista (titula), Beograd - loc
-2. Festival/program/fondacija/muz. bend je organizacija
+2. Festival/fondacija/muz. bend je organizacija
     * Hills of Rock festivala - festival nije org, ostalo jeste
-    * Kad bi Sombor bio Holivud - sve je org
     * Nazivi casopisa - sve je org
 3. Ako je deo naziva umestickog dela ne anotira se
 4. Ako pise grad Nis jel samo Nis deo lokacije ili i grad Nis - zavisi od konteksta
@@ -26,11 +25,10 @@ todo: Pretraziti todo u ovom fajlu, prepakovati pravila i primere ako su nejasna
     * Npr Vanjin dnevnik, Vanjin nije B-PER
 8. Filmski festival u Lokranu - B-ORG (sve je org, i mesto)
 9. Imena naucnih instituta su B-ORG
-    * Ukoliko se nazivu nadje u MESTO - pre u je org, posle loc (ako stavimo da je sve org u administrativnim tekstovima
-      nece biti loc)
-    * Ukoliko nema u - INaučni institut Vinča - onda je sve org
-    * Institu Kiri u Parizu - sve je org
-    * Institut u Vinci
+    * Zavisi od konteksta
+    * Institut u Vinci - sve je org, Institut nista ne znaci (izuzetak)
+    * Naučni institut Vinča - onda je sve org
+    * Institu Kiri u Parizu - Institut Kiri org, Parizu - loc
 10. Drzavne institucije
     * Osnovni sud u Novom Sadu - sve je org, mora mesto ima vise osn. sudova
     * Vlada

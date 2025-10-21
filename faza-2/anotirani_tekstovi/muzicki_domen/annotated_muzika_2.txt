@@ -53,7 +53,7 @@
 15	za	_	_	_	_	_	_	_	_	O
 16	sebe	_	_	_	_	_	_	_	_	O
 17	–	–	PUNCT	Z	_	_	_	_	_	O
-18	beogradskoj	_	_	_	_	_	_	_	_	B-LOC
+18	beogradskoj	_	_	_	_	_	_	_	_	O
 19	publici	_	_	_	_	_	_	_	SpaceAfter=No	O
 20	,	,	PUNCT	Z	_	_	_	_	_	O
 21	pa	_	_	_	_	_	_	_	_	O

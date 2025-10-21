@@ -185,7 +185,7 @@
 3	ansambla	_	_	_	_	_	_	_	_	I-ORG
 4	Ministarstva	_	_	_	_	_	_	_	_	I-ORG
 5	odbrane	_	_	_	_	_	_	_	_	I-ORG
-6	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+6	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	I-ORG
 7	Stanislav	_	_	_	_	_	_	_	_	B-PER
 8	Binički	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 9	“	“	PUNCT	Z	_	_	_	_	_	O
@@ -504,7 +504,7 @@
 2	flautista	_	_	_	_	_	_	_	_	O
 3	Frankfurtskog	_	_	_	_	_	_	_	_	B-ORG
 4	operskog	_	_	_	_	_	_	_	_	I-ORG
-5	orkestra	_	_	_	_	_	_	_	_	O
+5	orkestra	_	_	_	_	_	_	_	_	I-ORG
 6	Đovani	_	_	_	_	_	_	_	_	B-PER
 7	Gandolfo	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 8	,	,	PUNCT	Z	_	_	_	_	_	O

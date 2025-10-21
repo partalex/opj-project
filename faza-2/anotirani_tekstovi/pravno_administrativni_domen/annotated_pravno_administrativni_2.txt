@@ -125,7 +125,7 @@
 28	Apelacionog	_	_	_	_	_	_	_	_	B-ORG
 29	suda	_	_	_	_	_	_	_	_	I-ORG
 30	u	_	_	_	_	_	_	_	_	O
-31	Beogradu	_	_	_	_	_	_	_	_  B-LOC
+31	Beogradu	_	_	_	_	_	_	_	_	B-LOC
 32	Gž1	_	_	_	_	_	_	_	_	O
 33	2084/24	_	_	_	_	_	_	_	_	O
 34	od	_	_	_	_	_	_	_	_	O

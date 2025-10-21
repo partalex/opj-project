@@ -105,7 +105,7 @@
 12	KAO	_	_	_	_	_	_	_	_	O
 13	NA	_	_	_	_	_	_	_	_	O
 14	PRIMER	_	_	_	_	_	_	_	_	O
-15	CARINU	_	_	_	_	_	_	_	_	B-ORG
+15	CARINU	_	_	_	_	_	_	_	_	O
 16	ZA	_	_	_	_	_	_	_	_	O
 17	KOKEZU	_	_	_	_	_	_	_	_	B-PER
 

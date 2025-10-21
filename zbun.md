@@ -25,7 +25,7 @@ dal ## Z(a)bun(a) = zbun
 6. ? Institu Kiri u Parizu – da li je Pariz deo ORG ili je LOC ( ja stavljanja LOC)
 7. Institut u Vinci – sam stavila da je org jer bez Vinci ne bi se znalo koji je tacno institut posto nema ceo svoj
    naziv. Nije kao primer 6.
-9. Drzavne institucije su ORG.
+8. Drzavne institucije su ORG.
 9. Naziv drzave, grada je LOC.
 10. ?Institut za nuklearne nauke u Vinci jel sve ORG, i da li je LOC Vinci
 11. Nazivi festival su ORG.

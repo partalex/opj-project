@@ -516,7 +516,7 @@
 13	stvaralaca	_	_	_	_	_	_	_	_	O
 14	ili	_	_	_	_	_	_	_	_	O
 15	somborske	_	_	_	_	_	_	_	_	B-LOC
-16	regije	_	_	_	_	_	_	_	_	I-ORG
+16	regije	_	_	_	_	_	_	_	_	I-LOC
 17	kao	_	_	_	_	_	_	_	_	O
 18	idealne	_	_	_	_	_	_	_	_	O
 19	filmske	_	_	_	_	_	_	_	_	O
@@ -583,8 +583,8 @@
 14	jugoslovenskog	_	_	_	_	_	_	_	_	O
 15	filma	_	_	_	_	_	_	_	SpaceAfter=No	O
 16	,	,	PUNCT	Z	_	_	_	_	_	O
-17	Somborcu	_	_	_	_	_	_	_	_	B-PER
-18	Ernestu	_	_	_	_	_	_	_	_	I-PER
+17	Somborcu	_	_	_	_	_	_	_	_	O
+18	Ernestu	_	_	_	_	_	_	_	_	B-PER
 19	Bošnjaku	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 20	,	,	PUNCT	Z	_	_	_	_	_	O
 21	prvom	_	_	_	_	_	_	_	_	O

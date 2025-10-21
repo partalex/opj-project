@@ -313,8 +313,8 @@
 36	toga	_	_	_	_	_	_	_	_	O
 37	DRI	_	_	_	_	_	_	_	_	B-ORG
 38	Skupštini	_	_	_	_	_	_	_	_	B-ORG
-39	grada	_	_	_	_	_	_	_	_	O
-40	Beograda	_	_	_	_	_	_	_	_	B-LOC
+39	grada	_	_	_	_	_	_	_	_	I-ORG
+40	Beograda	_	_	_	_	_	_	_	_	I-ORG
 41	uputila	_	_	_	_	_	_	_	_	O
 42	zahtev	_	_	_	_	_	_	_	_	O
 43	za	_	_	_	_	_	_	_	_	O
@@ -1342,8 +1342,8 @@
 10	Vlade	_	_	_	_	_	_	_	_	B-ORG
 11	objavljenoj	_	_	_	_	_	_	_	_	O
 12	u	_	_	_	_	_	_	_	_	O
-13	Službenom	_	_	_	_	_	_	_	_	O
-14	glasniku	_	_	_	_	_	_	_	_	O
+13	Službenom	_	_	_	_	_	_	_	_	B-ORG
+14	glasniku	_	_	_	_	_	_	_	_	I-ORG
 15	Živko	_	_	_	_	_	_	_	_	B-PER
 16	Cvetković	_	_	_	_	_	_	_	_	I-PER
 17	razrešen	_	_	_	_	_	_	_	_	O
@@ -1624,8 +1624,8 @@
 16	seo	_	_	_	_	_	_	_	_	O
 17	u	_	_	_	_	_	_	_	_	O
 18	fotelju	_	_	_	_	_	_	_	_	O
-19	Ministra	_	_	_	_	_	_	_	_	B-ORG
-20	pravde	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+19	Ministra	_	_	_	_	_	_	_	_	O
+20	pravde	_	_	_	_	_	_	_	SpaceAfter=No	O
 21	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 43
@@ -1719,13 +1719,13 @@
 16	veća	_	_	_	_	_	_	_	_	O
 17	potraživanja	_	_	_	_	_	_	_	_	O
 18	od	_	_	_	_	_	_	_	_	O
-19	Direkcije	_	_	_	_	_	_	_	_	O
-20	za	_	_	_	_	_	_	_	_	O
-21	građevinsko	_	_	_	_	_	_	_	_	O
-22	zemljište	_	_	_	_	_	_	_	_	O
-23	i	_	_	_	_	_	_	_	_	O
-24	izgradnju	_	_	_	_	_	_	_	_	O
-25	Beograda	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+19	Direkcije	_	_	_	_	_	_	_	_	B-ORG
+20	za	_	_	_	_	_	_	_	_	I-ORG
+21	građevinsko	_	_	_	_	_	_	_	_	I-ORG
+22	zemljište	_	_	_	_	_	_	_	_	I-ORG
+23	i	_	_	_	_	_	_	_	_	I-ORG
+24	izgradnju	_	_	_	_	_	_	_	_	I-ORG
+25	Beograda	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 26	,	,	PUNCT	Z	_	_	_	_	_	O
 27	u	_	_	_	_	_	_	_	_	O
 28	iznosu	_	_	_	_	_	_	_	_	O
@@ -1895,8 +1895,8 @@
 14	i	_	_	_	_	_	_	_	_	O
 15	uputila	_	_	_	_	_	_	_	_	O
 16	Skupštini	_	_	_	_	_	_	_	_	B-ORG
-17	grada	_	_	_	_	_	_	_	_	O
-18	Beograda	_	_	_	_	_	_	_	_	B-LOC
+17	grada	_	_	_	_	_	_	_	_	I-ORG
+18	Beograda	_	_	_	_	_	_	_	_	I-ORG
 19	zahtev	_	_	_	_	_	_	_	_	O
 20	za	_	_	_	_	_	_	_	_	O
 21	razrešenje	_	_	_	_	_	_	_	_	O
@@ -2016,7 +2016,7 @@
 7	da	_	_	_	_	_	_	_	_	O
 8	Zdravstveni	_	_	_	_	_	_	_	_	B-ORG
 9	centar	_	_	_	_	_	_	_	_	I-ORG
-10	Surdulica	_	_	_	_	_	_	_	_	B-LOC
+10	Surdulica	_	_	_	_	_	_	_	_	I-ORG
 11	nije	_	_	_	_	_	_	_	_	O
 12	na	_	_	_	_	_	_	_	_	O
 13	zadovoljavajući	_	_	_	_	_	_	_	_	O
@@ -2041,7 +2041,7 @@
 4	direktora	_	_	_	_	_	_	_	_	O
 5	Zdravstvenog	_	_	_	_	_	_	_	_	B-ORG
 6	centra	_	_	_	_	_	_	_	_	I-ORG
-7	Surdulica	_	_	_	_	_	_	_	_	B-LOC
+7	Surdulica	_	_	_	_	_	_	_	_	I-ORG
 
 # newpar id = 56
 # sent_id = 56.1
@@ -2255,7 +2255,7 @@
 9	da	_	_	_	_	_	_	_	_	O
 10	ih	_	_	_	_	_	_	_	_	O
 11	je	_	_	_	_	_	_	_	_	O
-12	Direkcija	_	_	_	_	_	_	_	_	O
+12	Direkcija	_	_	_	_	_	_	_	_	B-ORG
 13	na	_	_	_	_	_	_	_	_	O
 14	dan	_	_	_	_	_	_	_	_	O
 15	31.	_	_	_	_	_	_	_	_	O
@@ -2571,8 +2571,8 @@
 # newpar id = 74
 # sent_id = 74.1
 # text = Grad Beograd je, kao što je portal N1 već pisao, teško kršio obavezu dobrog poslovanja, pa je DRI uputila zahtev za razrešenje gradonačelnika Beograda Aleksandra Šapića.
-1	Grad	_	_	_	_	_	_	_	_	B-LOC
-2	Beograd	_	_	_	_	_	_	_	_	I-LOC
+1	Grad	_	_	_	_	_	_	_	_	B-ORG
+2	Beograd	_	_	_	_	_	_	_	_	I-ORG
 3	je	_	_	_	_	_	_	_	SpaceAfter=No	O
 4	,	,	PUNCT	Z	_	_	_	_	_	O
 5	kao	_	_	_	_	_	_	_	_	O
@@ -2617,8 +2617,8 @@
 10	nepravilnosti	_	_	_	_	_	_	_	_	O
 11	u	_	_	_	_	_	_	_	_	O
 12	poslovanju	_	_	_	_	_	_	_	_	O
-13	Grada	_	_	_	_	_	_	_	_	B-LOC
-14	Beograda	_	_	_	_	_	_	_	_	I-LOC
+13	Grada	_	_	_	_	_	_	_	_	B-ORG
+14	Beograda	_	_	_	_	_	_	_	_	I-ORG
 15	u	_	_	_	_	_	_	_	_	O
 16	2022.	_	_	_	_	_	_	_	_	O
 17	godini	_	_	_	_	_	_	_	_	O

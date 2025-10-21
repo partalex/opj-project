@@ -787,6 +787,6 @@
 # newpar id = 17
 # sent_id = 17.1
 # text = Milanka Ranković
-1	Milanka	_	_	_	_	_	_	_	_	B-PER 
+1	Milanka	_	_	_	_	_	_	_	_	B-PER
 2	Ranković	_	_	_	_	_	_	_	_	I-PER
 

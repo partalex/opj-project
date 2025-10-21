@@ -4,7 +4,7 @@
 # newpar id = 1
 # sent_id = 1.1
 # text = ANGELINA TOPIĆ ČETVRTA NA SVETU!
-1	ANGELINA	_	_	_	_	_	_	_	_	B-PER 
+1	ANGELINA	_	_	_	_	_	_	_	_	B-PER
 2	TOPIĆ	_	_	_	_	_	_	_	_	I-PER
 3	ČETVRTA	_	_	_	_	_	_	_	_	O
 4	NA	_	_	_	_	_	_	_	_	O

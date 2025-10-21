@@ -108,7 +108,7 @@
 53	za	_	_	_	_	_	_	_	_	O
 54	ovogodišnjeg	_	_	_	_	_	_	_	_	O
 55	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
-56	Oskara	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
+56	Oskara	_	_	_	_	_	_	_	SpaceAfter=No	O
 57	“	“	PUNCT	Z	_	_	_	_	_	O
 58	sa	_	_	_	_	_	_	_	_	O
 59	čak	_	_	_	_	_	_	_	_	O
@@ -262,7 +262,7 @@
 30	deo	_	_	_	_	_	_	_	_	O
 31	nominacija	_	_	_	_	_	_	_	_	O
 32	za	_	_	_	_	_	_	_	_	O
-33	Oskar	_	_	_	_	_	_	_	_	B-ORG
+33	Oskar	_	_	_	_	_	_	_	_	O
 34	dolazi	_	_	_	_	_	_	_	_	O
 35	i	_	_	_	_	_	_	_	_	O
 36	za	_	_	_	_	_	_	_	_	O
@@ -373,7 +373,7 @@
 22	,	,	PUNCT	Z	_	_	_	_	_	O
 23	nominacije	_	_	_	_	_	_	_	_	O
 24	za	_	_	_	_	_	_	_	_	O
-25	Oskar	_	_	_	_	_	_	_	_	B-ORG
+25	Oskar	_	_	_	_	_	_	_	_	O
 26	koje	_	_	_	_	_	_	_	_	O
 27	su	_	_	_	_	_	_	_	_	O
 28	dobili	_	_	_	_	_	_	_	_	O

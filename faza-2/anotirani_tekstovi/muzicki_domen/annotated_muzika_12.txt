@@ -75,7 +75,7 @@
 10	In	_	_	_	_	_	_	_	_	O
 11	Search	_	_	_	_	_	_	_	_	O
 12	of	_	_	_	_	_	_	_	_	O
-13	Tito	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
+13	Tito	_	_	_	_	_	_	_	SpaceAfter=No	O
 14	’	’	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 15	s	_	_	_	_	_	_	_	_	O
 16	Punks	_	_	_	_	_	_	_	SpaceAfter=No	O
@@ -114,10 +114,10 @@
 15	stvaranju	_	_	_	_	_	_	_	_	O
 16	spojnica	_	_	_	_	_	_	_	_	O
 17	između	_	_	_	_	_	_	_	_	O
-18	novosadske	_	_	_	_	_	_	_	_	O
+18	novosadske	_	_	_	_	_	_	_	_	B-LOC
 19	i	_	_	_	_	_	_	_	_	O
 20	sarajevske	_	_	_	_	_	_	_	_	B-LOC
-21	HC	_	_	_	_	_	_	_	_	O
+21	HC	_	_	_	_	_	_	_	_	B-ORG
 22	ekipe	_	_	_	_	_	_	_	SpaceAfter=No	O
 23	,	,	PUNCT	Z	_	_	_	_	_	O
 24	sežućim	_	_	_	_	_	_	_	_	O

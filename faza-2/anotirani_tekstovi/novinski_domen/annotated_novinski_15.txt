@@ -15,7 +15,7 @@
 9	je	_	_	_	_	_	_	_	_	O
 10	postupak	_	_	_	_	_	_	_	_	O
 11	protiv	_	_	_	_	_	_	_	_	O
-12	Hrvatske	_	_	_	_	_	_	_	_	B-LOC
+12	Hrvatske	_	_	_	_	_	_	_	_	B-ORG
 13	po	_	_	_	_	_	_	_	_	O
 14	tužbi	_	_	_	_	_	_	_	_	O
 15	nekadašnjeg	_	_	_	_	_	_	_	_	O
@@ -172,7 +172,7 @@
 11	individualne	_	_	_	_	_	_	_	_	O
 12	krivičnu	_	_	_	_	_	_	_	_	O
 13	odgovornosti	_	_	_	_	_	_	_	_	O
-14	Sanadera	_	_	_	_	_	_	_	_	O
+14	Sanadera	_	_	_	_	_	_	_	_	B-PER
 15	za	_	_	_	_	_	_	_	_	O
 16	primanje	_	_	_	_	_	_	_	_	O
 17	mita	_	_	_	_	_	_	_	_	O

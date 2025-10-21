@@ -1,13 +1,53 @@
 from elg import Service
 import os, glob
-
+import seaborn as sns
 from numpy.ma.core import append
 from sklearn.metrics import confusion_matrix
 from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score, confusion_matrix, classification_report
+import pandas as pd
+import matplotlib.pyplot as plt
 
 service = Service.from_id(18077,local=True)
 print(service)
 # Service.scope="offline_access"
+
+fix_label_map = {
+        'B-NAGTAG': 'O',
+        'I-NAGTAG': 'O',
+        'o': 'O',
+        'B=ORG': 'B-ORG',
+        '_   B-ORG': 'B-ORG',
+        'B-ROG': 'B-ORG',
+        '': 'O',
+        'B=PER': 'B-PER',
+        'B-period': 'B-PER',
+        '_  B-LOC': 'B-LOC',
+        'B-LOX': 'B-LOC',
+        'И': 'O',
+        'I_ORG': 'I-ORG',
+        'I-ROG': 'I-ORG',
+        'I-PER': 'I-PER',
+        'I-ORG': 'I-ORG',
+        'I-LOC': 'I-LOC',
+        'B-PER': 'B-PER',
+        'B-ORG': 'B-ORG',
+        'B-LOC': 'B-LOC',
+        'O': 'O',
+        'ORG': 'O'
+    }
+
+def plot_confusion_matrix(y_pred,y_true, labels_list):
+    cm = confusion_matrix(y_true, y_pred, labels=labels_list)
+    cm_df = pd.DataFrame(cm, index=labels_list, columns=labels_list)
+
+    plt.figure(figsize=(10, 8))
+    sns.heatmap(cm_df, annot=True, fmt="d", cmap="Blues")
+    plt.title("NER Confusion Matrix")
+    plt.ylabel("True Labels")
+    plt.xlabel("Predicted Labels")
+    plt.show()
+    return cm_df
+
 def analizeFiles(file1, file2):
     # print(file1,file2)
     res=''
@@ -91,10 +131,11 @@ def analizeFiles(file1, file2):
                 print('\t' + res[each['start']:each['end']], "FALI")
 
     # print("ANN FILES",annFiles)
-    trueCombo=[annFiles[f][1][2:] if len(annFiles[f][1])>1 else 'O' for f in annFiles.keys()]
-    trueSep=[annFiles[f][1] for f in annFiles.keys()]
-    predCombo=[annFiles[f][2][2:] if len(annFiles[f][2])>1 else 'O' for f in annFiles.keys()]
-    predSep=[annFiles[f][2] for f in annFiles.keys()]
+    print(set([annFiles[f][1] for f in annFiles.keys()]))
+    trueCombo=[fix_label_map[annFiles[f][1]][2:] if len(annFiles[f][1])>1 else 'O' for f in annFiles.keys()]
+    trueSep=[fix_label_map[annFiles[f][1]] for f in annFiles.keys()]
+    predCombo=[fix_label_map[annFiles[f][2]][2:] if len(annFiles[f][2])>1 else 'O' for f in annFiles.keys()]
+    predSep=[fix_label_map[annFiles[f][2]] for f in annFiles.keys()]
     # print(trueSep)
     # print(trueCombo)
     # print(predSep)
@@ -145,6 +186,41 @@ print("ACCURACY", accuracy_score(trueSep, predSep))
 print("ACCURACY", accuracy_score(predCombo, trueCombo))
 
 
+labels_list = ['B-LOC', 'B-ORG', 'B-PER', 'I-LOC', 'I-ORG', 'I-PER', 'O']
+scoring = {
+    "accuracy": accuracy_score(trueSep, predSep),
+    "precision": precision_score(trueSep, predSep, labels=labels_list, average=None),
+    "recall": recall_score(trueSep, predSep, labels=labels_list, average=None),
+    "f1": f1_score(trueSep, predSep, labels=labels_list, average=None)
+}
+plot_confusion_matrix(trueSep, predSep, labels_list)
+
+print("\nClassification report with prefixes B- and I-:")
+report = classification_report(trueSep, predSep, labels=labels_list, digits=4)
+print(report)
+with open("classification_report.txt", "w", encoding="utf-8") as f:
+    f.write(report)
+
+# evaluacija modela bez prefiksa
+y_true_no_prefix = trueCombo
+y_pred_no_prefix = predCombo
+labels_list_no_prefix = ['LOC', 'ORG', 'PER', 'O']
+
+scoring_simple = {
+    "accuracy": accuracy_score(y_true_no_prefix, y_pred_no_prefix),
+    "precision": precision_score(y_true_no_prefix, y_pred_no_prefix, labels=labels_list_no_prefix, average=None),
+    "recall": recall_score(y_true_no_prefix, y_pred_no_prefix, labels=labels_list_no_prefix, average=None),
+    "f1": f1_score(y_true_no_prefix, y_pred_no_prefix, labels=labels_list_no_prefix, average=None)
+}
+
+print("\nClassification report without prefixes:")
+report = classification_report(y_true_no_prefix, y_pred_no_prefix, labels=labels_list_no_prefix, digits=4)
+plot_confusion_matrix(y_pred_no_prefix, y_true_no_prefix, labels_list_no_prefix)
+print(set(y_pred_no_prefix))
+# print(y_true_no_prefix)
+print(report)
+with open("classification_report_no_prefix.txt", "w", encoding="utf-8") as f:
+    f.write(report)
 # print(trueCombo)
 # print(trueSep)
 # print(predCombo)

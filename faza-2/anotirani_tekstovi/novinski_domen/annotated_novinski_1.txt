@@ -27,7 +27,7 @@
 14	,	,	PUNCT	Z	_	_	_	_	_	O
 15	menja	_	_	_	_	_	_	_	_	O
 16	se	_	_	_	_	_	_	_	_	O
-17	Amerika	_	_	_	_	_	_	_	_	B-LOC
+17	Amerika	_	_	_	_	_	_	_	_	B-ORG
 18	kakvu	_	_	_	_	_	_	_	_	O
 19	svi	_	_	_	_	_	_	_	_	O
 20	poznaju	_	_	_	_	_	_	_	SpaceAfter=No	O
@@ -103,7 +103,7 @@
 13	to	_	_	_	_	_	_	_	_	O
 14	avionom	_	_	_	_	_	_	_	_	O
 15	potpredsednika	_	_	_	_	_	_	_	_	O
-16	SAD	_	_	_	_	_	_	_	_	B-LOC
+16	SAD	_	_	_	_	_	_	_	_	B-ORG
 17	Džej	_	_	_	_	_	_	_	_	B-PER
 18	Di	_	_	_	_	_	_	_	_	I-PER
 19	Vensa	_	_	_	_	_	_	_	SpaceAfter=No	I-PER

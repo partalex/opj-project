@@ -104,7 +104,7 @@
 5	politika	_	_	_	_	_	_	_	_	O
 6	SNSD-a	_	_	_	_	_	_	_	_	B-ORG
 7	prema	_	_	_	_	_	_	_	_	O
-8	EU	_	_	_	_	_	_	_	_	O
+8	EU	_	_	_	_	_	_	_	_	B-ORG
 9	ostaje	_	_	_	_	_	_	_	_	O
 10	veoma	_	_	_	_	_	_	_	_	O
 11	skeptična	_	_	_	_	_	_	_	SpaceAfter=No	O
@@ -212,7 +212,7 @@
 11	da	_	_	_	_	_	_	_	_	O
 12	bude	_	_	_	_	_	_	_	_	O
 13	deo	_	_	_	_	_	_	_	_	O
-14	EU	_	_	_	_	_	_	_	_	O
+14	EU	_	_	_	_	_	_	_	_	B-ORG
 15	koja	_	_	_	_	_	_	_	_	O
 16	kaže	_	_	_	_	_	_	_	_	O
 17	da	_	_	_	_	_	_	_	_	O
@@ -435,7 +435,7 @@
 10	mimo	_	_	_	_	_	_	_	_	O
 11	Ustava	_	_	_	_	_	_	_	_	O
 12	i	_	_	_	_	_	_	_	_	O
-13	Predsedništva	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	Predsedništva	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
 14	,	,	PUNCT	Z	_	_	_	_	_	O
 15	te	_	_	_	_	_	_	_	_	O
 16	da	_	_	_	_	_	_	_	_	O
@@ -493,7 +493,7 @@
 17	izborima	_	_	_	_	_	_	_	_	O
 18	za	_	_	_	_	_	_	_	_	O
 19	predsednika	_	_	_	_	_	_	_	_	O
-20	Srpske	_	_	_	_	_	_	_	_	O
+20	Srpske	_	_	_	_	_	_	_	_	B-ORG
 21	i	_	_	_	_	_	_	_	_	O
 22	prema	_	_	_	_	_	_	_	_	O
 23	tome	_	_	_	_	_	_	_	_	O
@@ -573,7 +573,7 @@
 9	je	_	_	_	_	_	_	_	_	O
 10	danas	_	_	_	_	_	_	_	_	O
 11	predsednik	_	_	_	_	_	_	_	_	O
-12	Srpske	_	_	_	_	_	_	_	_	O
+12	Srpske	_	_	_	_	_	_	_	_	B-ORG
 13	Milorad	_	_	_	_	_	_	_	_	B-PER
 14	Dodik	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 15	.	.	PUNCT	Z	_	_	_	_	_	O

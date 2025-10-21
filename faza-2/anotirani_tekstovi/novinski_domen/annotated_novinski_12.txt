@@ -4,8 +4,8 @@
 # newpar id = 1
 # sent_id = 1.1
 # text = Angelina Topić je u finalu skoka uvis na Svetskom prvenstvu u Tokiju.
-1	Angelina	_	_	_	_	_	_	_	_	B-PER 
-2	Topić	_	_	_	_	_	_	_	_	I-PER 
+1	Angelina	_	_	_	_	_	_	_	_	B-PER
+2	Topić	_	_	_	_	_	_	_	_	I-PER
 3	je	_	_	_	_	_	_	_	_	O
 4	u	_	_	_	_	_	_	_	_	O
 5	finalu	_	_	_	_	_	_	_	_	O
@@ -33,7 +33,7 @@
 # sent_id = 2.1
 # text = Angelina Topić je sigurno preskočila sve tri visine u kvalifikacijama u četvrtak - nadletela je 1.83, 1.88 i 1.92 metara.
 1	Angelina	_	_	_	_	_	_	_	_	B-PER
-2	Topić	_	_	_	_	_	_	_	_	I-PER 
+2	Topić	_	_	_	_	_	_	_	_	I-PER
 3	je	_	_	_	_	_	_	_	_	O
 4	sigurno	_	_	_	_	_	_	_	_	O
 5	preskočila	_	_	_	_	_	_	_	_	O
@@ -95,7 +95,7 @@
 9	biti	_	_	_	_	_	_	_	_	O
 10	i	_	_	_	_	_	_	_	_	O
 11	Morgan	_	_	_	_	_	_	_	_	B-PER
-12	Lejk	_	_	_	_	_	_	_	SpaceAfter=No	I-PER 
+12	Lejk	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 13	,	,	PUNCT	Z	_	_	_	_	_	O
 14	Jaroslava	_	_	_	_	_	_	_	_	B-PER
 15	Mahučik	_	_	_	_	_	_	_	SpaceAfter=No	I-PER

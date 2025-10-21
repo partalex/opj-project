@@ -142,7 +142,7 @@
 20	koji	_	_	_	_	_	_	_	_	O
 21	je	_	_	_	_	_	_	_	_	O
 22	PAZI	_	_	_	_	_	_	_	_	O
-23	SAD	_	_	_	_	_	_	_	_	B-LOC
+23	SAD	_	_	_	_	_	_	_	_	O
 24	KO	_	_	_	_	_	_	_	_	O
 25	NE	_	_	_	_	_	_	_	_	O
 26	ZNA	_	_	_	_	_	_	_	SpaceAfter=No	O

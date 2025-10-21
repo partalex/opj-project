@@ -69,8 +69,8 @@
 23	savetnik	_	_	_	_	_	_	_	_	O
 24	ministra	_	_	_	_	_	_	_	_	O
 25	u	_	_	_	_	_	_	_	_	O
-26	Vladi	_	_	_	_	_	_	_	_	O
-27	Srbije	_	_	_	_	_	_	_	_	B-LOC
+26	Vladi	_	_	_	_	_	_	_	_	B-ORG
+27	Srbije	_	_	_	_	_	_	_	_	I-ORG
 28	Nenada	_	_	_	_	_	_	_	_	B-PER
 29	Popovića	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 30	?	?	PUNCT	Z	_	_	_	_	_	O
@@ -107,8 +107,8 @@
 27	tražim	_	_	_	_	_	_	_	_	O
 28	od	_	_	_	_	_	_	_	_	O
 29	Tužilaštva	_	_	_	_	_	_	_	_	B-ORG
-30	u	_	_	_	_	_	_	_	_	O
-31	Šapcu	_	_	_	_	_	_	_	_	B-LOC
+30	u	_	_	_	_	_	_	_	_	I-ORG
+31	Šapcu	_	_	_	_	_	_	_	_	I-ORG
 32	hitno	_	_	_	_	_	_	_	_	O
 33	obaveštenje	_	_	_	_	_	_	_	_	O
 34	da	_	_	_	_	_	_	_	_	O

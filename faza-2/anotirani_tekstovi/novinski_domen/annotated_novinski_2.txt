@@ -5,7 +5,7 @@
 # sent_id = 1.1
 # text = Princ Hari, vojvoda od Saseksa, iznenada je posetio ukrajinsku prestonicu Kijev, prenosi CNN.
 1	Princ	_	_	_	_	_	_	_	_	O
-2	Hari	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+2	Hari	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 3	,	,	PUNCT	Z	_	_	_	_	_	O
 4	vojvoda	_	_	_	_	_	_	_	_	O
 5	od	_	_	_	_	_	_	_	_	O
@@ -35,8 +35,8 @@
 8	Ukrajinu	_	_	_	_	_	_	_	_	B-LOC
 9	na	_	_	_	_	_	_	_	_	O
 10	poziv	_	_	_	_	_	_	_	_	O
-11	ukrajinske	_	_	_	_	_	_	_	_	O
-12	vlade	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	ukrajinske	_	_	_	_	_	_	_	_	B-ORG
+12	vlade	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 13	,	,	PUNCT	Z	_	_	_	_	_	O
 14	a	_	_	_	_	_	_	_	_	O
 15	očekuje	_	_	_	_	_	_	_	_	O
@@ -48,10 +48,10 @@
 21	sa	_	_	_	_	_	_	_	_	O
 22	svojom	_	_	_	_	_	_	_	_	O
 23	fondacijom	_	_	_	_	_	_	_	_	O
-24	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	B-ORG
-25	Igre	_	_	_	_	_	_	_	_	I-ORG
+24	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+25	Igre	_	_	_	_	_	_	_	_	B-ORG
 26	nepokornih	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
-27	“	“	PUNCT	Z	_	_	_	_	_	I-ORG
+27	“	“	PUNCT	Z	_	_	_	_	_	O
 28	sprovesti	_	_	_	_	_	_	_	_	O
 29	akcije	_	_	_	_	_	_	_	_	O
 30	kako	_	_	_	_	_	_	_	_	O

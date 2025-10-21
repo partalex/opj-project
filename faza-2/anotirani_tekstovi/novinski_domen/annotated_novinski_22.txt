@@ -88,9 +88,9 @@
 26	saobraćaja	_	_	_	_	_	_	_	_	I-ORG
 27	na	_	_	_	_	_	_	_	_	I-ORG
 28	putevima	_	_	_	_	_	_	_	_	I-ORG
-29	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	I-ORG
-30	NHTSA	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
-31	)	)	PUNCT	Z	_	_	_	_	SpaceAfter=No	I-ORG
+29	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+30	NHTSA	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
+31	)	)	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 32	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 3

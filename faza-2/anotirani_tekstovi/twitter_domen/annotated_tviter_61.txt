@@ -35,7 +35,7 @@
 5	senior	_	_	_	_	_	_	_	_	O
 6	inženjer	_	_	_	_	_	_	_	_	O
 7	kompanije	_	_	_	_	_	_	_	_	O
-8	SYRMIA	_	_	_	_	_	_	_	_   B-ORG
+8	SYRMIA	_	_	_	_	_	_	_	_	B-ORG
 9	i	_	_	_	_	_	_	_	_	O
 10	učesnik	_	_	_	_	_	_	_	_	O
 11	projekta	_	_	_	_	_	_	_	_	O

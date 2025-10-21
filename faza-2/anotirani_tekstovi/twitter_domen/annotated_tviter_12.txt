@@ -50,7 +50,7 @@
 11	CK	_	_	_	_	_	_	_	_	O
 12	SK	_	_	_	_	_	_	_	_	O
 13	Srbije	_	_	_	_	_	_	_	_	B-LOC
-14	Slobodana	_	_	_	_	_	_	_	_	B-PER 
+14	Slobodana	_	_	_	_	_	_	_	_	B-PER
 15	Miloševića	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 16	,	,	PUNCT	Z	_	_	_	_	_	O
 17	nad	_	_	_	_	_	_	_	_	O

@@ -1,9 +1,9 @@
 #name = teodora
 #domen = pravno_administrativni
-#url = https://www.vrh.sud.rs/sr-lat/rev-43422025-31444-31411
+#url = https://www.vrh.sud.rs/sr-lat/rev-107722025-31912613
 # newpar id = 1
 # sent_id = 1.1
-# text = Vrhovni sud, u veću sastavljenom od sudija: Mirjane Andrijašević, predsednika veća, Ivane Rađenović i Vladislave Milićević, članova veća, u parnici tužioca-protivtuženog AA iz ...
+# text = Vrhovni sud, u veću sastavljenom od sudija: Tatjane Matković Stefanović, predsednika veća, Tatjane Đurica i Ivane Rađenović, članova veća, u parnici tužilaca: AA, BB, VV i GG, svih iz Republike Srpske, mesto ...
 1	Vrhovni	_	_	_	_	_	_	_	_	B-ORG
 2	sud	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 3	,	,	PUNCT	Z	_	_	_	_	_	O
@@ -13,155 +13,169 @@
 7	od	_	_	_	_	_	_	_	_	O
 8	sudija	_	_	_	_	_	_	_	SpaceAfter=No	O
 9	:	:	PUNCT	Z	_	_	_	_	_	O
-10	Mirjane	_	_	_	_	_	_	_	_	B-PER
-11	Andrijašević	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
-12	,	,	PUNCT	Z	_	_	_	_	_	O
-13	predsednika	_	_	_	_	_	_	_	_	O
-14	veća	_	_	_	_	_	_	_	SpaceAfter=No	O
-15	,	,	PUNCT	Z	_	_	_	_	_	O
-16	Ivane	_	_	_	_	_	_	_	_	B-PER
-17	Rađenović	_	_	_	_	_	_	_	_	I-PER
-18	i	_	_	_	_	_	_	_	_	O
-19	Vladislave	_	_	_	_	_	_	_	_	B-PER
-20	Milićević	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
-21	,	,	PUNCT	Z	_	_	_	_	_	O
-22	članova	_	_	_	_	_	_	_	_	O
-23	veća	_	_	_	_	_	_	_	SpaceAfter=No	O
-24	,	,	PUNCT	Z	_	_	_	_	_	O
-25	u	_	_	_	_	_	_	_	_	O
-26	parnici	_	_	_	_	_	_	_	_	O
-27	tužioca-protivtuženog	_	_	_	_	_	_	_	_	O
-28	AA	_	_	_	_	_	_	_	_	B-PER
-29	iz	_	_	_	_	_	_	_	_	O
-30	...	...	PUNCT	Z	_	_	_	_	_	O
+10	Tatjane	_	_	_	_	_	_	_	_	B-PER
+11	Matković	_	_	_	_	_	_	_	_	I-PER
+12	Stefanović	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+14	predsednika	_	_	_	_	_	_	_	_	O
+15	veća	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	,	,	PUNCT	Z	_	_	_	_	_	O
+17	Tatjane	_	_	_	_	_	_	_	_	B-PER
+18	Đurica	_	_	_	_	_	_	_	_	I-PER
+19	i	_	_	_	_	_	_	_	_	O
+20	Ivane	_	_	_	_	_	_	_	_	B-PER
+21	Rađenović	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+22	,	,	PUNCT	Z	_	_	_	_	_	O
+23	članova	_	_	_	_	_	_	_	_	O
+24	veća	_	_	_	_	_	_	_	SpaceAfter=No	O
+25	,	,	PUNCT	Z	_	_	_	_	_	O
+26	u	_	_	_	_	_	_	_	_	O
+27	parnici	_	_	_	_	_	_	_	_	O
+28	tužilaca	_	_	_	_	_	_	_	SpaceAfter=No	O
+29	:	:	PUNCT	Z	_	_	_	_	_	O
+30	AA	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
+31	,	,	PUNCT	Z	_	_	_	_	_	O
+32	BB	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
+33	,	,	PUNCT	Z	_	_	_	_	_	O
+34	VV	_	_	_	_	_	_	_	_	B-PER
+35	i	_	_	_	_	_	_	_	_	O
+36	GG	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
+37	,	,	PUNCT	Z	_	_	_	_	_	O
+38	svih	_	_	_	_	_	_	_	_	O
+39	iz	_	_	_	_	_	_	_	_	O
+40	Republike	_	_	_	_	_	_	_	_	B-LOC
+41	Srpske	_	_	_	_	_	_	_	SpaceAfter=No	I-LOC
+42	,	,	PUNCT	Z	_	_	_	_	_	O
+43	mesto	_	_	_	_	_	_	_	_	O
+44	...	...	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 
 # sent_id = 1.2
-# text = , protiv tužene-protivtužilje BB iz ...
+# text = , zaseok ...
 1	,	,	PUNCT	Z	_	_	_	_	_	O
-2	protiv	_	_	_	_	_	_	_	_	O
-3	tužene-protivtužilje	_	_	_	_	_	_	_	_	O
-4	BB	_	_	_	_	_	_	_	_	B-PER
-5	iz	_	_	_	_	_	_	_	_	O
-6	...	...	PUNCT	Z	_	_	_	_	_	O
+2	zaseok	_	_	_	_	_	_	_	_	O
+3	...	...	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 
 # sent_id = 1.3
-# text = , čiji je punomoćnik Lazar Guteša, advokat iz ...
+# text = broj ..
+1	broj	_	_	_	_	_	_	_	_	O
+2	..	..	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+
+# sent_id = 1.4
+# text = , Opština ...
+1	,	,	PUNCT	Z	_	_	_	_	_	O
+2	Opština	_	_	_	_	_	_	_	_	O
+3	...	...	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+
+# sent_id = 1.5
+# text = , čiji je zajednički punomoćnik Radenko Ignjatović, advokat iz ...
+1	,	,	PUNCT	Z	_	_	_	_	_	O
+2	čiji	_	_	_	_	_	_	_	_	O
+3	je	_	_	_	_	_	_	_	_	O
+4	zajednički	_	_	_	_	_	_	_	_	O
+5	punomoćnik	_	_	_	_	_	_	_	_	O
+6	Radenko	_	_	_	_	_	_	_	_	B-PER
+7	Ignjatović	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	advokat	_	_	_	_	_	_	_	_	O
+10	iz	_	_	_	_	_	_	_	_	O
+11	...	...	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+
+# sent_id = 1.6
+# text = , protiv tužene DD iz ...
+1	,	,	PUNCT	Z	_	_	_	_	_	O
+2	protiv	_	_	_	_	_	_	_	_	O
+3	tužene	_	_	_	_	_	_	_	_	O
+4	DD	_	_	_	_	_	_	_	_	B-PER
+5	iz	_	_	_	_	_	_	_	_	O
+6	...	...	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+
+# sent_id = 1.7
+# text = , čiji je punomoćnik Dragan Repić, advokat iz ...
 1	,	,	PUNCT	Z	_	_	_	_	_	O
 2	čiji	_	_	_	_	_	_	_	_	O
 3	je	_	_	_	_	_	_	_	_	O
 4	punomoćnik	_	_	_	_	_	_	_	_	O
-5	Lazar	_	_	_	_	_	_	_	_	B-PER
-6	Guteša	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+5	Dragan	_	_	_	_	_	_	_	_	B-PER
+6	Repić	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 7	,	,	PUNCT	Z	_	_	_	_	_	O
 8	advokat	_	_	_	_	_	_	_	_	O
 9	iz	_	_	_	_	_	_	_	_	O
 10	...	...	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 
-# sent_id = 1.4
-# text = , radi izmene odluke o održavanju ličnih odnosa po tužbi i delimičnog lišenja roditeljskog prava po protivtužbi, odlučujući o reviziji tužene-protivtužilje izjavljenoj protiv presude Apelacionog suda u Beogradu Gž2 695/24 od 04.12.2024. godine, u sednici održanoj 11.06.2025. godine, doneo je
+# sent_id = 1.8
+# text = , radi utvrđenja ništavosti pismenog zaveštanja pred svedocima, odlučujući o reviziji tužene izjavljenoj protiv presude Apelacionog suda u Novom Sadu Gž 339/2025 od 16.04.2025. godine, u sednici održanoj dana 12.09.2025. godine, doneo je
 1	,	,	PUNCT	Z	_	_	_	_	_	O
 2	radi	_	_	_	_	_	_	_	_	O
-3	izmene	_	_	_	_	_	_	_	_	O
-4	odluke	_	_	_	_	_	_	_	_	O
-5	o	_	_	_	_	_	_	_	_	O
-6	održavanju	_	_	_	_	_	_	_	_	O
-7	ličnih	_	_	_	_	_	_	_	_	O
-8	odnosa	_	_	_	_	_	_	_	_	O
-9	po	_	_	_	_	_	_	_	_	O
-10	tužbi	_	_	_	_	_	_	_	_	O
-11	i	_	_	_	_	_	_	_	_	O
-12	delimičnog	_	_	_	_	_	_	_	_	O
-13	lišenja	_	_	_	_	_	_	_	_	O
-14	roditeljskog	_	_	_	_	_	_	_	_	O
-15	prava	_	_	_	_	_	_	_	_	O
-16	po	_	_	_	_	_	_	_	_	O
-17	protivtužbi	_	_	_	_	_	_	_	SpaceAfter=No	O
-18	,	,	PUNCT	Z	_	_	_	_	_	O
-19	odlučujući	_	_	_	_	_	_	_	_	O
-20	o	_	_	_	_	_	_	_	_	O
-21	reviziji	_	_	_	_	_	_	_	_	O
-22	tužene-protivtužilje	_	_	_	_	_	_	_	_	O
-23	izjavljenoj	_	_	_	_	_	_	_	_	O
-24	protiv	_	_	_	_	_	_	_	_	O
-25	presude	_	_	_	_	_	_	_	_	O
-26	Apelacionog	_	_	_	_	_	_	_	_	B-PER
-27	suda	_	_	_	_	_	_	_	_	I-PER
+3	utvrđenja	_	_	_	_	_	_	_	_	O
+4	ništavosti	_	_	_	_	_	_	_	_	O
+5	pismenog	_	_	_	_	_	_	_	_	O
+6	zaveštanja	_	_	_	_	_	_	_	_	O
+7	pred	_	_	_	_	_	_	_	_	O
+8	svedocima	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	odlučujući	_	_	_	_	_	_	_	_	O
+11	o	_	_	_	_	_	_	_	_	O
+12	reviziji	_	_	_	_	_	_	_	_	O
+13	tužene	_	_	_	_	_	_	_	_	O
+14	izjavljenoj	_	_	_	_	_	_	_	_	O
+15	protiv	_	_	_	_	_	_	_	_	O
+16	presude	_	_	_	_	_	_	_	_	O
+17	Apelacionog	_	_	_	_	_	_	_	_	B-ORG
+18	suda	_	_	_	_	_	_	_	_	I-ORG
+19	u	_	_	_	_	_	_	_	_	I-ORG
+20	Novom	_	_	_	_	_	_	_	_	I-ORG
+21	Sadu	_	_	_	_	_	_	_	_	I-ORG
+22	Gž	_	_	_	_	_	_	_	_	O
+23	339/2025	_	_	_	_	_	_	_	_	O
+24	od	_	_	_	_	_	_	_	_	O
+25	16.04.2025.	_	_	_	_	_	_	_	_	O
+26	godine	_	_	_	_	_	_	_	SpaceAfter=No	O
+27	,	,	PUNCT	Z	_	_	_	_	_	O
 28	u	_	_	_	_	_	_	_	_	O
-29	Beogradu	_	_	_	_	_	_	_	_	B-LOC
-30	Gž2	_	_	_	_	_	_	_	_	O
-31	695/24	_	_	_	_	_	_	_	_	O
-32	od	_	_	_	_	_	_	_	_	O
-33	04.12.2024.	_	_	_	_	_	_	_	_	O
-34	godine	_	_	_	_	_	_	_	SpaceAfter=No	O
-35	,	,	PUNCT	Z	_	_	_	_	_	O
-36	u	_	_	_	_	_	_	_	_	O
-37	sednici	_	_	_	_	_	_	_	_	O
-38	održanoj	_	_	_	_	_	_	_	_	O
-39	11.06.2025.	_	_	_	_	_	_	_	_	O
-40	godine	_	_	_	_	_	_	_	SpaceAfter=No	O
-41	,	,	PUNCT	Z	_	_	_	_	_	O
-42	doneo	_	_	_	_	_	_	_	_	O
-43	je	_	_	_	_	_	_	_	_	O
+29	sednici	_	_	_	_	_	_	_	_	O
+30	održanoj	_	_	_	_	_	_	_	_	O
+31	dana	_	_	_	_	_	_	_	_	O
+32	12.09.2025.	_	_	_	_	_	_	_	_	O
+33	godine	_	_	_	_	_	_	_	SpaceAfter=No	O
+34	,	,	PUNCT	Z	_	_	_	_	_	O
+35	doneo	_	_	_	_	_	_	_	_	O
+36	je	_	_	_	_	_	_	_	_	O
 
 # newpar id = 2
 # sent_id = 2.1
-# text = P R E S U D U
-1	P	_	_	_	_	_	_	_	_	O
-2	R	_	_	_	_	_	_	_	_	O
-3	E	_	_	_	_	_	_	_	_	O
-4	S	_	_	_	_	_	_	_	_	O
-5	U	_	_	_	_	_	_	_	_	O
-6	D	_	_	_	_	_	_	_	_	O
-7	U	_	_	_	_	_	_	_	_	O
+# text = R E Š E NJ E
+1	R	_	_	_	_	_	_	_	_	O
+2	E	_	_	_	_	_	_	_	_	O
+3	Š	_	_	_	_	_	_	_	_	O
+4	E	_	_	_	_	_	_	_	_	O
+5	NJ	_	_	_	_	_	_	_	_	O
+6	E	_	_	_	_	_	_	_	_	O
 
 # newpar id = 3
 # sent_id = 3.1
-# text = ODBIJA SE kao neosnovana revizija tužene-protivtužilje izjavljena protiv presude Apelacionog suda u Beogradu Gž2 695/24 od 04.12.2024. godine u delu kojim je potvrđena presuda Osnovnog suda u Vršcu P2 365/23 od 23.09.2024. godine kojom je odbijen protivtužbeni zahtev tužene-protivtužilje (stav drugi izreke).
-1	ODBIJA	_	_	_	_	_	_	_	_	O
-2	SE	_	_	_	_	_	_	_	_	O
-3	kao	_	_	_	_	_	_	_	_	O
-4	neosnovana	_	_	_	_	_	_	_	_	O
-5	revizija	_	_	_	_	_	_	_	_	O
-6	tužene-protivtužilje	_	_	_	_	_	_	_	_	O
-7	izjavljena	_	_	_	_	_	_	_	_	O
-8	protiv	_	_	_	_	_	_	_	_	O
-9	presude	_	_	_	_	_	_	_	_	O
-10	Apelacionog	_	_	_	_	_	_	_	_	B-ORG
-11	suda	_	_	_	_	_	_	_	_	I-ORG
-12	u	_	_	_	_	_	_	_	_	O
-13	Beogradu	_	_	_	_	_	_	_	_	B-LOC
-14	Gž2	_	_	_	_	_	_	_	_	O
-15	695/24	_	_	_	_	_	_	_	_	O
-16	od	_	_	_	_	_	_	_	_	O
-17	04.12.2024.	_	_	_	_	_	_	_	_	O
-18	godine	_	_	_	_	_	_	_	_	O
-19	u	_	_	_	_	_	_	_	_	O
-20	delu	_	_	_	_	_	_	_	_	O
-21	kojim	_	_	_	_	_	_	_	_	O
-22	je	_	_	_	_	_	_	_	_	O
-23	potvrđena	_	_	_	_	_	_	_	_	O
-24	presuda	_	_	_	_	_	_	_	_	O
-25	Osnovnog	_	_	_	_	_	_	_	_	B-ORG
-26	suda	_	_	_	_	_	_	_	_	I-ORG
-27	u	_	_	_	_	_	_	_	_	O
-28	Vršcu	_	_	_	_	_	_	_	_	B-LOC
-29	P2	_	_	_	_	_	_	_	_	O
-30	365/23	_	_	_	_	_	_	_	_	O
-31	od	_	_	_	_	_	_	_	_	O
-32	23.09.2024.	_	_	_	_	_	_	_	_	O
-33	godine	_	_	_	_	_	_	_	_	O
-34	kojom	_	_	_	_	_	_	_	_	O
-35	je	_	_	_	_	_	_	_	_	O
-36	odbijen	_	_	_	_	_	_	_	_	O
-37	protivtužbeni	_	_	_	_	_	_	_	_	O
-38	zahtev	_	_	_	_	_	_	_	_	O
-39	tužene-protivtužilje	_	_	_	_	_	_	_	_	O
-40	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
-41	stav	_	_	_	_	_	_	_	_	O
-42	drugi	_	_	_	_	_	_	_	_	O
-43	izreke	_	_	_	_	_	_	_	SpaceAfter=No	O
-44	)	)	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
-45	.	.	PUNCT	Z	_	_	_	_	_	O
+# text = ODBACUJE SE, kao nedozvoljena, revizija tužene izjavljena protiv presude Apelacionog suda u Novom Sadu Gž 339/2025 od 16.04.2025. godine.
+1	ODBACUJE	_	_	_	_	_	_	_	_	O
+2	SE	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	kao	_	_	_	_	_	_	_	_	O
+5	nedozvoljena	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	revizija	_	_	_	_	_	_	_	_	O
+8	tužene	_	_	_	_	_	_	_	_	O
+9	izjavljena	_	_	_	_	_	_	_	_	O
+10	protiv	_	_	_	_	_	_	_	_	O
+11	presude	_	_	_	_	_	_	_	_	O
+12	Apelacionog	_	_	_	_	_	_	_	_	B-PER
+13	suda	_	_	_	_	_	_	_	_	I-ORG
+14	u	_	_	_	_	_	_	_	_	I-ORG
+15	Novom	_	_	_	_	_	_	_	_	I-ORG
+16	Sadu	_	_	_	_	_	_	_	_	I-ORG
+17	Gž	_	_	_	_	_	_	_	_	O
+18	339/2025	_	_	_	_	_	_	_	_	O
+19	od	_	_	_	_	_	_	_	_	O
+20	16.04.2025.	_	_	_	_	_	_	_	_	O
+21	godine	_	_	_	_	_	_	_	SpaceAfter=No	O
+22	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 4
 # sent_id = 4.1
@@ -180,1185 +194,544 @@
 
 # newpar id = 5
 # sent_id = 5.1
-# text = Presudom Osnovnog suda u Vršcu P2 365/23 od 23.09.2024. godine, stavom prvim izreke, usvojen je tužbeni zahtev tužioca-protivtuženog (u daljem tekstu: tužilac) i promenjena je presuda Osnovnog suda u Vršcu P2 29/23 od 06.04.2023. godine u stavu četvrtom izreke u delu načina održavanja ličnih odnosa tužioca kao oca sa maloletnom decom, tako što je uređen način održavanja kontakta maloletnih VV i GG (greškom napisano GG1) i tužioca na taj način što će maloletna deca boraviti kod tužioca svakog prvog i trećeg vikenda u mesecu i to od petka u 17 časova do nedelje u 20 časova, jedan radni dan u toku nedelje od 17 do 20 časova, a sve u skladu sa školskim obavezama maloletne dece, tako što će otac preuzimati maloletnu decu ispred majčine kuće i na isto mesto decu vraćati u određeno vreme, kao i 30 dana za vreme trajanja letnjeg raspusta i 10 dana za vreme trajanja zimskog raspusta u kontinuitetu, na dan očevog rođendana i na dan očeve krsne slave, na način što će otac preuzimati decu ispred majčine kuće i na isto mesto vraćati decu u određeno vreme, dan Nove godine, dane verskih praznika i dane rođendana maloletna deca će provoditi sa roditeljima na način što će tokom 2024. godine navedene dane provoditi sa majkom BB, a zatim 2025. godine sa ocem AA i nadalje svake naredne godine naizmenično, počev od dana pravnosnažnosti presude pa nadalje dok se roditelji drugačije ne dogovore ili dok se ne donese drugačija sudska odluka.
+# text = Presudom Apelacionog suda u Novom Sadu Gž 339/2025 od 16.04.2025. godine, u stavu prvom izreke, žalba tužilaca je usvojena, pa je presuda Osnovnog suda Loznici P 760/24 od 31.10.2024. godine, ispravljena rešenjem tog suda P 760/24 od 24.12.2024. godine, preinačena u pobijanom delu odluke o parničnim troškovima (stav 3. izreke ispravljene prvostepene presude), tako što je obavezana tužena da tužiocima naknadi troškove parničkog postupka od 404.812,50 dinara sa zakonskom zateznom kamatom od izvršnosti do isplate, dok je presuda prvostepenog suda potvrđena, a žalba tužene odbijena u preostalom pobijanom, a nepreinačenom usvajajućem delu (stav 1. izreke ispravljene prvostepene presude), kojom je usvojen tužbeni zahtev tužilaca kojim je traženo da se utvrdi da je pismeno zaveštanje pred svedocima sada pok.
 1	Presudom	_	_	_	_	_	_	_	_	O
-2	Osnovnog	_	_	_	_	_	_	_	_	B-ORG
+2	Apelacionog	_	_	_	_	_	_	_	_	B-PER
 3	suda	_	_	_	_	_	_	_	_	I-ORG
-4	u	_	_	_	_	_	_	_	_	O
-5	Vršcu	_	_	_	_	_	_	_	_	B-LOC
-6	P2	_	_	_	_	_	_	_	_	O
-7	365/23	_	_	_	_	_	_	_	_	O
-8	od	_	_	_	_	_	_	_	_	O
-9	23.09.2024.	_	_	_	_	_	_	_	_	O
-10	godine	_	_	_	_	_	_	_	SpaceAfter=No	O
-11	,	,	PUNCT	Z	_	_	_	_	_	O
-12	stavom	_	_	_	_	_	_	_	_	O
-13	prvim	_	_	_	_	_	_	_	_	O
-14	izreke	_	_	_	_	_	_	_	SpaceAfter=No	O
-15	,	,	PUNCT	Z	_	_	_	_	_	O
-16	usvojen	_	_	_	_	_	_	_	_	O
-17	je	_	_	_	_	_	_	_	_	O
-18	tužbeni	_	_	_	_	_	_	_	_	O
-19	zahtev	_	_	_	_	_	_	_	_	O
-20	tužioca-protivtuženog	_	_	_	_	_	_	_	_	O
-21	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
-22	u	_	_	_	_	_	_	_	_	O
-23	daljem	_	_	_	_	_	_	_	_	O
-24	tekstu	_	_	_	_	_	_	_	SpaceAfter=No	O
-25	:	:	PUNCT	Z	_	_	_	_	_	O
-26	tužilac	_	_	_	_	_	_	_	SpaceAfter=No	O
-27	)	)	PUNCT	Z	_	_	_	_	_	O
-28	i	_	_	_	_	_	_	_	_	O
-29	promenjena	_	_	_	_	_	_	_	_	O
-30	je	_	_	_	_	_	_	_	_	O
-31	presuda	_	_	_	_	_	_	_	_	O
-32	Osnovnog	_	_	_	_	_	_	_	_	B-ORG
-33	suda	_	_	_	_	_	_	_	_	I-ORG
-34	u	_	_	_	_	_	_	_	_	O
-35	Vršcu	_	_	_	_	_	_	_	_	B-LOC
-36	P2	_	_	_	_	_	_	_	_	O
-37	29/23	_	_	_	_	_	_	_	_	O
-38	od	_	_	_	_	_	_	_	_	O
-39	06.04.2023.	_	_	_	_	_	_	_	_	O
-40	godine	_	_	_	_	_	_	_	_	O
-41	u	_	_	_	_	_	_	_	_	O
-42	stavu	_	_	_	_	_	_	_	_	O
-43	četvrtom	_	_	_	_	_	_	_	_	O
-44	izreke	_	_	_	_	_	_	_	_	O
-45	u	_	_	_	_	_	_	_	_	O
-46	delu	_	_	_	_	_	_	_	_	O
-47	načina	_	_	_	_	_	_	_	_	O
-48	održavanja	_	_	_	_	_	_	_	_	O
-49	ličnih	_	_	_	_	_	_	_	_	O
-50	odnosa	_	_	_	_	_	_	_	_	O
-51	tužioca	_	_	_	_	_	_	_	_	O
-52	kao	_	_	_	_	_	_	_	_	O
-53	oca	_	_	_	_	_	_	_	_	O
-54	sa	_	_	_	_	_	_	_	_	O
-55	maloletnom	_	_	_	_	_	_	_	_	O
-56	decom	_	_	_	_	_	_	_	SpaceAfter=No	O
-57	,	,	PUNCT	Z	_	_	_	_	_	O
-58	tako	_	_	_	_	_	_	_	_	O
-59	što	_	_	_	_	_	_	_	_	O
-60	je	_	_	_	_	_	_	_	_	O
-61	uređen	_	_	_	_	_	_	_	_	O
-62	način	_	_	_	_	_	_	_	_	O
-63	održavanja	_	_	_	_	_	_	_	_	O
-64	kontakta	_	_	_	_	_	_	_	_	O
-65	maloletnih	_	_	_	_	_	_	_	_	O
-66	VV	_	_	_	_	_	_	_	_	B-PER
-67	i	_	_	_	_	_	_	_	_	O
-68	GG	_	_	_	_	_	_	_	_	B-PER
-69	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
-70	greškom	_	_	_	_	_	_	_	_	O
-71	napisano	_	_	_	_	_	_	_	_	O
-72	GG1	_	_	_	_	_	_	_	SpaceAfter=No	O
-73	)	)	PUNCT	Z	_	_	_	_	_	O
-74	i	_	_	_	_	_	_	_	_	O
-75	tužioca	_	_	_	_	_	_	_	_	O
-76	na	_	_	_	_	_	_	_	_	O
-77	taj	_	_	_	_	_	_	_	_	O
-78	način	_	_	_	_	_	_	_	_	O
-79	što	_	_	_	_	_	_	_	_	O
-80	će	_	_	_	_	_	_	_	_	O
-81	maloletna	_	_	_	_	_	_	_	_	O
-82	deca	_	_	_	_	_	_	_	_	O
-83	boraviti	_	_	_	_	_	_	_	_	O
-84	kod	_	_	_	_	_	_	_	_	O
-85	tužioca	_	_	_	_	_	_	_	_	O
-86	svakog	_	_	_	_	_	_	_	_	O
-87	prvog	_	_	_	_	_	_	_	_	O
-88	i	_	_	_	_	_	_	_	_	O
-89	trećeg	_	_	_	_	_	_	_	_	O
-90	vikenda	_	_	_	_	_	_	_	_	O
-91	u	_	_	_	_	_	_	_	_	O
-92	mesecu	_	_	_	_	_	_	_	_	O
-93	i	_	_	_	_	_	_	_	_	O
-94	to	_	_	_	_	_	_	_	_	O
-95	od	_	_	_	_	_	_	_	_	O
-96	petka	_	_	_	_	_	_	_	_	O
-97	u	_	_	_	_	_	_	_	_	O
-98	17	_	_	_	_	_	_	_	_	O
-99	časova	_	_	_	_	_	_	_	_	O
-100	do	_	_	_	_	_	_	_	_	O
-101	nedelje	_	_	_	_	_	_	_	_	O
-102	u	_	_	_	_	_	_	_	_	O
-103	20	_	_	_	_	_	_	_	_	O
-104	časova	_	_	_	_	_	_	_	SpaceAfter=No	O
-105	,	,	PUNCT	Z	_	_	_	_	_	O
-106	jedan	_	_	_	_	_	_	_	_	O
-107	radni	_	_	_	_	_	_	_	_	O
-108	dan	_	_	_	_	_	_	_	_	O
-109	u	_	_	_	_	_	_	_	_	O
-110	toku	_	_	_	_	_	_	_	_	O
-111	nedelje	_	_	_	_	_	_	_	_	O
-112	od	_	_	_	_	_	_	_	_	O
-113	17	_	_	_	_	_	_	_	_	O
-114	do	_	_	_	_	_	_	_	_	O
-115	20	_	_	_	_	_	_	_	_	O
-116	časova	_	_	_	_	_	_	_	SpaceAfter=No	O
-117	,	,	PUNCT	Z	_	_	_	_	_	O
-118	a	_	_	_	_	_	_	_	_	O
-119	sve	_	_	_	_	_	_	_	_	O
-120	u	_	_	_	_	_	_	_	_	O
-121	skladu	_	_	_	_	_	_	_	_	O
-122	sa	_	_	_	_	_	_	_	_	O
-123	školskim	_	_	_	_	_	_	_	_	O
-124	obavezama	_	_	_	_	_	_	_	_	O
-125	maloletne	_	_	_	_	_	_	_	_	O
-126	dece	_	_	_	_	_	_	_	SpaceAfter=No	O
-127	,	,	PUNCT	Z	_	_	_	_	_	O
-128	tako	_	_	_	_	_	_	_	_	O
-129	što	_	_	_	_	_	_	_	_	O
-130	će	_	_	_	_	_	_	_	_	O
-131	otac	_	_	_	_	_	_	_	_	O
-132	preuzimati	_	_	_	_	_	_	_	_	O
-133	maloletnu	_	_	_	_	_	_	_	_	O
-134	decu	_	_	_	_	_	_	_	_	O
-135	ispred	_	_	_	_	_	_	_	_	O
-136	majčine	_	_	_	_	_	_	_	_	O
-137	kuće	_	_	_	_	_	_	_	_	O
-138	i	_	_	_	_	_	_	_	_	O
-139	na	_	_	_	_	_	_	_	_	O
-140	isto	_	_	_	_	_	_	_	_	O
-141	mesto	_	_	_	_	_	_	_	_	O
-142	decu	_	_	_	_	_	_	_	_	O
-143	vraćati	_	_	_	_	_	_	_	_	O
-144	u	_	_	_	_	_	_	_	_	O
-145	određeno	_	_	_	_	_	_	_	_	O
-146	vreme	_	_	_	_	_	_	_	SpaceAfter=No	O
-147	,	,	PUNCT	Z	_	_	_	_	_	O
-148	kao	_	_	_	_	_	_	_	_	O
-149	i	_	_	_	_	_	_	_	_	O
-150	30	_	_	_	_	_	_	_	_	O
-151	dana	_	_	_	_	_	_	_	_	O
-152	za	_	_	_	_	_	_	_	_	O
-153	vreme	_	_	_	_	_	_	_	_	O
-154	trajanja	_	_	_	_	_	_	_	_	O
-155	letnjeg	_	_	_	_	_	_	_	_	O
-156	raspusta	_	_	_	_	_	_	_	_	O
-157	i	_	_	_	_	_	_	_	_	O
-158	10	_	_	_	_	_	_	_	_	O
-159	dana	_	_	_	_	_	_	_	_	O
-160	za	_	_	_	_	_	_	_	_	O
-161	vreme	_	_	_	_	_	_	_	_	O
-162	trajanja	_	_	_	_	_	_	_	_	O
-163	zimskog	_	_	_	_	_	_	_	_	O
-164	raspusta	_	_	_	_	_	_	_	_	O
-165	u	_	_	_	_	_	_	_	_	O
-166	kontinuitetu	_	_	_	_	_	_	_	SpaceAfter=No	O
-167	,	,	PUNCT	Z	_	_	_	_	_	O
-168	na	_	_	_	_	_	_	_	_	O
-169	dan	_	_	_	_	_	_	_	_	O
-170	očevog	_	_	_	_	_	_	_	_	O
-171	rođendana	_	_	_	_	_	_	_	_	O
-172	i	_	_	_	_	_	_	_	_	O
-173	na	_	_	_	_	_	_	_	_	O
-174	dan	_	_	_	_	_	_	_	_	O
-175	očeve	_	_	_	_	_	_	_	_	O
-176	krsne	_	_	_	_	_	_	_	_	O
-177	slave	_	_	_	_	_	_	_	SpaceAfter=No	O
-178	,	,	PUNCT	Z	_	_	_	_	_	O
-179	na	_	_	_	_	_	_	_	_	O
-180	način	_	_	_	_	_	_	_	_	O
-181	što	_	_	_	_	_	_	_	_	O
-182	će	_	_	_	_	_	_	_	_	O
-183	otac	_	_	_	_	_	_	_	_	O
-184	preuzimati	_	_	_	_	_	_	_	_	O
-185	decu	_	_	_	_	_	_	_	_	O
-186	ispred	_	_	_	_	_	_	_	_	O
-187	majčine	_	_	_	_	_	_	_	_	O
-188	kuće	_	_	_	_	_	_	_	_	O
-189	i	_	_	_	_	_	_	_	_	O
-190	na	_	_	_	_	_	_	_	_	O
-191	isto	_	_	_	_	_	_	_	_	O
-192	mesto	_	_	_	_	_	_	_	_	O
-193	vraćati	_	_	_	_	_	_	_	_	O
-194	decu	_	_	_	_	_	_	_	_	O
-195	u	_	_	_	_	_	_	_	_	O
-196	određeno	_	_	_	_	_	_	_	_	O
-197	vreme	_	_	_	_	_	_	_	SpaceAfter=No	O
-198	,	,	PUNCT	Z	_	_	_	_	_	O
-199	dan	_	_	_	_	_	_	_	_	O
-200	Nove	_	_	_	_	_	_	_	_	O
-201	godine	_	_	_	_	_	_	_	SpaceAfter=No	O
-202	,	,	PUNCT	Z	_	_	_	_	_	O
-203	dane	_	_	_	_	_	_	_	_	O
-204	verskih	_	_	_	_	_	_	_	_	O
-205	praznika	_	_	_	_	_	_	_	_	O
-206	i	_	_	_	_	_	_	_	_	O
-207	dane	_	_	_	_	_	_	_	_	O
-208	rođendana	_	_	_	_	_	_	_	_	O
-209	maloletna	_	_	_	_	_	_	_	_	O
-210	deca	_	_	_	_	_	_	_	_	O
-211	će	_	_	_	_	_	_	_	_	O
-212	provoditi	_	_	_	_	_	_	_	_	O
-213	sa	_	_	_	_	_	_	_	_	O
-214	roditeljima	_	_	_	_	_	_	_	_	O
-215	na	_	_	_	_	_	_	_	_	O
-216	način	_	_	_	_	_	_	_	_	O
-217	što	_	_	_	_	_	_	_	_	O
-218	će	_	_	_	_	_	_	_	_	O
-219	tokom	_	_	_	_	_	_	_	_	O
-220	2024.	_	_	_	_	_	_	_	_	O
-221	godine	_	_	_	_	_	_	_	_	O
-222	navedene	_	_	_	_	_	_	_	_	O
-223	dane	_	_	_	_	_	_	_	_	O
-224	provoditi	_	_	_	_	_	_	_	_	O
-225	sa	_	_	_	_	_	_	_	_	O
-226	majkom	_	_	_	_	_	_	_	_	O
-227	BB	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
-228	,	,	PUNCT	Z	_	_	_	_	_	O
-229	a	_	_	_	_	_	_	_	_	O
-230	zatim	_	_	_	_	_	_	_	_	O
-231	2025.	_	_	_	_	_	_	_	_	O
-232	godine	_	_	_	_	_	_	_	_	O
-233	sa	_	_	_	_	_	_	_	_	O
-234	ocem	_	_	_	_	_	_	_	_	O
-235	AA	_	_	_	_	_	_	_	_	B-PER
-236	i	_	_	_	_	_	_	_	_	O
-237	nadalje	_	_	_	_	_	_	_	_	O
-238	svake	_	_	_	_	_	_	_	_	O
-239	naredne	_	_	_	_	_	_	_	_	O
-240	godine	_	_	_	_	_	_	_	_	O
-241	naizmenično	_	_	_	_	_	_	_	SpaceAfter=No	O
-242	,	,	PUNCT	Z	_	_	_	_	_	O
-243	počev	_	_	_	_	_	_	_	_	O
-244	od	_	_	_	_	_	_	_	_	O
-245	dana	_	_	_	_	_	_	_	_	O
-246	pravnosnažnosti	_	_	_	_	_	_	_	_	O
-247	presude	_	_	_	_	_	_	_	_	O
-248	pa	_	_	_	_	_	_	_	_	O
-249	nadalje	_	_	_	_	_	_	_	_	O
-250	dok	_	_	_	_	_	_	_	_	O
-251	se	_	_	_	_	_	_	_	_	O
-252	roditelji	_	_	_	_	_	_	_	_	O
-253	drugačije	_	_	_	_	_	_	_	_	O
-254	ne	_	_	_	_	_	_	_	_	O
-255	dogovore	_	_	_	_	_	_	_	_	O
-256	ili	_	_	_	_	_	_	_	_	O
-257	dok	_	_	_	_	_	_	_	_	O
-258	se	_	_	_	_	_	_	_	_	O
-259	ne	_	_	_	_	_	_	_	_	O
-260	donese	_	_	_	_	_	_	_	_	O
-261	drugačija	_	_	_	_	_	_	_	_	O
-262	sudska	_	_	_	_	_	_	_	_	O
-263	odluka	_	_	_	_	_	_	_	SpaceAfter=No	O
-264	.	.	PUNCT	Z	_	_	_	_	_	O
+4	u	_	_	_	_	_	_	_	_	I-ORG
+5	Novom	_	_	_	_	_	_	_	_	I-ORG
+6	Sadu	_	_	_	_	_	_	_	_	I-ORG
+7	Gž	_	_	_	_	_	_	_	_	O
+8	339/2025	_	_	_	_	_	_	_	_	O
+9	od	_	_	_	_	_	_	_	_	O
+10	16.04.2025.	_	_	_	_	_	_	_	_	O
+11	godine	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	u	_	_	_	_	_	_	_	_	O
+14	stavu	_	_	_	_	_	_	_	_	O
+15	prvom	_	_	_	_	_	_	_	_	O
+16	izreke	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	,	,	PUNCT	Z	_	_	_	_	_	O
+18	žalba	_	_	_	_	_	_	_	_	O
+19	tužilaca	_	_	_	_	_	_	_	_	O
+20	je	_	_	_	_	_	_	_	_	O
+21	usvojena	_	_	_	_	_	_	_	SpaceAfter=No	O
+22	,	,	PUNCT	Z	_	_	_	_	_	O
+23	pa	_	_	_	_	_	_	_	_	O
+24	je	_	_	_	_	_	_	_	_	O
+25	presuda	_	_	_	_	_	_	_	_	O
+26	Osnovnog	_	_	_	_	_	_	_	_	B-ORG
+27	suda	_	_	_	_	_	_	_	_	I-ORG
+28	Loznici	_	_	_	_	_	_	_	_	I-ORG
+29	P	_	_	_	_	_	_	_	_	O
+30	760/24	_	_	_	_	_	_	_	_	O
+31	od	_	_	_	_	_	_	_	_	O
+32	31.10.2024.	_	_	_	_	_	_	_	_	O
+33	godine	_	_	_	_	_	_	_	SpaceAfter=No	O
+34	,	,	PUNCT	Z	_	_	_	_	_	O
+35	ispravljena	_	_	_	_	_	_	_	_	O
+36	rešenjem	_	_	_	_	_	_	_	_	O
+37	tog	_	_	_	_	_	_	_	_	O
+38	suda	_	_	_	_	_	_	_	_	O
+39	P	_	_	_	_	_	_	_	_	O
+40	760/24	_	_	_	_	_	_	_	_	O
+41	od	_	_	_	_	_	_	_	_	O
+42	24.12.2024.	_	_	_	_	_	_	_	_	O
+43	godine	_	_	_	_	_	_	_	SpaceAfter=No	O
+44	,	,	PUNCT	Z	_	_	_	_	_	O
+45	preinačena	_	_	_	_	_	_	_	_	O
+46	u	_	_	_	_	_	_	_	_	O
+47	pobijanom	_	_	_	_	_	_	_	_	O
+48	delu	_	_	_	_	_	_	_	_	O
+49	odluke	_	_	_	_	_	_	_	_	O
+50	o	_	_	_	_	_	_	_	_	O
+51	parničnim	_	_	_	_	_	_	_	_	O
+52	troškovima	_	_	_	_	_	_	_	_	O
+53	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+54	stav	_	_	_	_	_	_	_	_	O
+55	3.	_	_	_	_	_	_	_	_	O
+56	izreke	_	_	_	_	_	_	_	_	O
+57	ispravljene	_	_	_	_	_	_	_	_	O
+58	prvostepene	_	_	_	_	_	_	_	_	O
+59	presude	_	_	_	_	_	_	_	SpaceAfter=No	O
+60	)	)	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+61	,	,	PUNCT	Z	_	_	_	_	_	O
+62	tako	_	_	_	_	_	_	_	_	O
+63	što	_	_	_	_	_	_	_	_	O
+64	je	_	_	_	_	_	_	_	_	O
+65	obavezana	_	_	_	_	_	_	_	_	O
+66	tužena	_	_	_	_	_	_	_	_	O
+67	da	_	_	_	_	_	_	_	_	O
+68	tužiocima	_	_	_	_	_	_	_	_	O
+69	naknadi	_	_	_	_	_	_	_	_	O
+70	troškove	_	_	_	_	_	_	_	_	O
+71	parničkog	_	_	_	_	_	_	_	_	O
+72	postupka	_	_	_	_	_	_	_	_	O
+73	od	_	_	_	_	_	_	_	_	O
+74	404.812,50	_	_	_	_	_	_	_	_	O
+75	dinara	_	_	_	_	_	_	_	_	O
+76	sa	_	_	_	_	_	_	_	_	O
+77	zakonskom	_	_	_	_	_	_	_	_	O
+78	zateznom	_	_	_	_	_	_	_	_	O
+79	kamatom	_	_	_	_	_	_	_	_	O
+80	od	_	_	_	_	_	_	_	_	O
+81	izvršnosti	_	_	_	_	_	_	_	_	O
+82	do	_	_	_	_	_	_	_	_	O
+83	isplate	_	_	_	_	_	_	_	SpaceAfter=No	O
+84	,	,	PUNCT	Z	_	_	_	_	_	O
+85	dok	_	_	_	_	_	_	_	_	O
+86	je	_	_	_	_	_	_	_	_	O
+87	presuda	_	_	_	_	_	_	_	_	O
+88	prvostepenog	_	_	_	_	_	_	_	_	B-ORG
+89	suda	_	_	_	_	_	_	_	_	I-ORG
+90	potvrđena	_	_	_	_	_	_	_	SpaceAfter=No	O
+91	,	,	PUNCT	Z	_	_	_	_	_	O
+92	a	_	_	_	_	_	_	_	_	O
+93	žalba	_	_	_	_	_	_	_	_	O
+94	tužene	_	_	_	_	_	_	_	_	O
+95	odbijena	_	_	_	_	_	_	_	_	O
+96	u	_	_	_	_	_	_	_	_	O
+97	preostalom	_	_	_	_	_	_	_	_	O
+98	pobijanom	_	_	_	_	_	_	_	SpaceAfter=No	O
+99	,	,	PUNCT	Z	_	_	_	_	_	O
+100	a	_	_	_	_	_	_	_	_	O
+101	nepreinačenom	_	_	_	_	_	_	_	_	O
+102	usvajajućem	_	_	_	_	_	_	_	_	O
+103	delu	_	_	_	_	_	_	_	_	O
+104	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+105	stav	_	_	_	_	_	_	_	_	O
+106	1.	_	_	_	_	_	_	_	_	O
+107	izreke	_	_	_	_	_	_	_	_	O
+108	ispravljene	_	_	_	_	_	_	_	_	O
+109	prvostepene	_	_	_	_	_	_	_	_	O
+110	presude	_	_	_	_	_	_	_	SpaceAfter=No	O
+111	)	)	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+112	,	,	PUNCT	Z	_	_	_	_	_	O
+113	kojom	_	_	_	_	_	_	_	_	O
+114	je	_	_	_	_	_	_	_	_	O
+115	usvojen	_	_	_	_	_	_	_	_	O
+116	tužbeni	_	_	_	_	_	_	_	_	O
+117	zahtev	_	_	_	_	_	_	_	_	O
+118	tužilaca	_	_	_	_	_	_	_	_	O
+119	kojim	_	_	_	_	_	_	_	_	O
+120	je	_	_	_	_	_	_	_	_	O
+121	traženo	_	_	_	_	_	_	_	_	O
+122	da	_	_	_	_	_	_	_	_	O
+123	se	_	_	_	_	_	_	_	_	O
+124	utvrdi	_	_	_	_	_	_	_	_	O
+125	da	_	_	_	_	_	_	_	_	O
+126	je	_	_	_	_	_	_	_	_	O
+127	pismeno	_	_	_	_	_	_	_	_	O
+128	zaveštanje	_	_	_	_	_	_	_	_	O
+129	pred	_	_	_	_	_	_	_	_	O
+130	svedocima	_	_	_	_	_	_	_	_	O
+131	sada	_	_	_	_	_	_	_	_	O
+132	pok	_	_	_	_	_	_	_	SpaceAfter=No	O
+133	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 5.2
-# text = Stavom drugim izreke, odbijen je kao neosnovan protivtužbeni zahtev kojim je tužena- protivtužilja (u daljem tekstu: tužena) tražila da se tužilac delimično liši roditeljskog prava u delu koji se odnosi na odlučivanje o promeni prebivališta maloletne dece VV i GG, te da se to pravo isključivo poveri majci BB.
-1	Stavom	_	_	_	_	_	_	_	_	O
-2	drugim	_	_	_	_	_	_	_	_	O
-3	izreke	_	_	_	_	_	_	_	SpaceAfter=No	O
-4	,	,	PUNCT	Z	_	_	_	_	_	O
-5	odbijen	_	_	_	_	_	_	_	_	O
-6	je	_	_	_	_	_	_	_	_	O
-7	kao	_	_	_	_	_	_	_	_	O
-8	neosnovan	_	_	_	_	_	_	_	_	O
-9	protivtužbeni	_	_	_	_	_	_	_	_	O
-10	zahtev	_	_	_	_	_	_	_	_	O
-11	kojim	_	_	_	_	_	_	_	_	O
-12	je	_	_	_	_	_	_	_	_	O
-13	tužena	_	_	_	_	_	_	_	SpaceAfter=No	O
-14	-	-	PUNCT	Z	_	_	_	_	_	O
-15	protivtužilja	_	_	_	_	_	_	_	_	O
-16	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
-17	u	_	_	_	_	_	_	_	_	O
-18	daljem	_	_	_	_	_	_	_	_	O
-19	tekstu	_	_	_	_	_	_	_	SpaceAfter=No	O
-20	:	:	PUNCT	Z	_	_	_	_	_	O
-21	tužena	_	_	_	_	_	_	_	SpaceAfter=No	O
-22	)	)	PUNCT	Z	_	_	_	_	_	O
-23	tražila	_	_	_	_	_	_	_	_	O
-24	da	_	_	_	_	_	_	_	_	O
-25	se	_	_	_	_	_	_	_	_	O
-26	tužilac	_	_	_	_	_	_	_	_	O
-27	delimično	_	_	_	_	_	_	_	_	O
-28	liši	_	_	_	_	_	_	_	_	O
-29	roditeljskog	_	_	_	_	_	_	_	_	O
-30	prava	_	_	_	_	_	_	_	_	O
-31	u	_	_	_	_	_	_	_	_	O
-32	delu	_	_	_	_	_	_	_	_	O
-33	koji	_	_	_	_	_	_	_	_	O
-34	se	_	_	_	_	_	_	_	_	O
-35	odnosi	_	_	_	_	_	_	_	_	O
-36	na	_	_	_	_	_	_	_	_	O
-37	odlučivanje	_	_	_	_	_	_	_	_	O
-38	o	_	_	_	_	_	_	_	_	O
-39	promeni	_	_	_	_	_	_	_	_	O
-40	prebivališta	_	_	_	_	_	_	_	_	O
-41	maloletne	_	_	_	_	_	_	_	_	O
-42	dece	_	_	_	_	_	_	_	_	O
-43	VV	_	_	_	_	_	_	_	_	B-PER
-44	i	_	_	_	_	_	_	_	_	O
-45	GG	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
-46	,	,	PUNCT	Z	_	_	_	_	_	O
-47	te	_	_	_	_	_	_	_	_	O
-48	da	_	_	_	_	_	_	_	_	O
-49	se	_	_	_	_	_	_	_	_	O
-50	to	_	_	_	_	_	_	_	_	O
-51	pravo	_	_	_	_	_	_	_	_	O
-52	isključivo	_	_	_	_	_	_	_	_	O
-53	poveri	_	_	_	_	_	_	_	_	O
-54	majci	_	_	_	_	_	_	_	_	O
-55	BB	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
-56	.	.	PUNCT	Z	_	_	_	_	_	O
+# text = Erić Ilije bivšeg iz Zvornika od 24.01.2013. godine ništavo, da ne proizvodi pravno dejstvo i da je tužena isto dužna priznati.
+1	Erić	_	_	_	_	_	_	_	_	B-PER
+2	Ilije	_	_	_	_	_	_	_	_	I-PER
+3	bivšeg	_	_	_	_	_	_	_	_	O
+4	iz	_	_	_	_	_	_	_	_	O
+5	Zvornika	_	_	_	_	_	_	_	_	B-LOC
+6	od	_	_	_	_	_	_	_	_	O
+7	24.01.2013.	_	_	_	_	_	_	_	_	O
+8	godine	_	_	_	_	_	_	_	_	O
+9	ništavo	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	da	_	_	_	_	_	_	_	_	O
+12	ne	_	_	_	_	_	_	_	_	O
+13	proizvodi	_	_	_	_	_	_	_	_	O
+14	pravno	_	_	_	_	_	_	_	_	O
+15	dejstvo	_	_	_	_	_	_	_	_	O
+16	i	_	_	_	_	_	_	_	_	O
+17	da	_	_	_	_	_	_	_	_	O
+18	je	_	_	_	_	_	_	_	_	O
+19	tužena	_	_	_	_	_	_	_	_	O
+20	isto	_	_	_	_	_	_	_	_	O
+21	dužna	_	_	_	_	_	_	_	_	O
+22	priznati	_	_	_	_	_	_	_	SpaceAfter=No	O
+23	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 5.3
-# text = Stavom trećim izreke, odbijen je predlog tužene za određivanje privremene mere od 12.02.2024. godine da se tužilac delimično liši roditeljskog prava prema maloletnim VV i GG u pogledu prava da odlučuje o davanju dozvolje za putovanje dece u inostranstvo za određeni period.
-1	Stavom	_	_	_	_	_	_	_	_	O
-2	trećim	_	_	_	_	_	_	_	_	O
-3	izreke	_	_	_	_	_	_	_	SpaceAfter=No	O
-4	,	,	PUNCT	Z	_	_	_	_	_	O
-5	odbijen	_	_	_	_	_	_	_	_	O
-6	je	_	_	_	_	_	_	_	_	O
-7	predlog	_	_	_	_	_	_	_	_	O
-8	tužene	_	_	_	_	_	_	_	_	O
-9	za	_	_	_	_	_	_	_	_	O
-10	određivanje	_	_	_	_	_	_	_	_	O
-11	privremene	_	_	_	_	_	_	_	_	O
-12	mere	_	_	_	_	_	_	_	_	O
-13	od	_	_	_	_	_	_	_	_	O
-14	12.02.2024.	_	_	_	_	_	_	_	_	O
-15	godine	_	_	_	_	_	_	_	_	O
-16	da	_	_	_	_	_	_	_	_	O
-17	se	_	_	_	_	_	_	_	_	O
-18	tužilac	_	_	_	_	_	_	_	_	O
-19	delimično	_	_	_	_	_	_	_	_	O
-20	liši	_	_	_	_	_	_	_	_	O
-21	roditeljskog	_	_	_	_	_	_	_	_	O
-22	prava	_	_	_	_	_	_	_	_	O
-23	prema	_	_	_	_	_	_	_	_	O
-24	maloletnim	_	_	_	_	_	_	_	_	O
-25	VV	_	_	_	_	_	_	_	_	B-PER
-26	i	_	_	_	_	_	_	_	_	O
-27	GG	_	_	_	_	_	_	_	_	B-PER
-28	u	_	_	_	_	_	_	_	_	O
-29	pogledu	_	_	_	_	_	_	_	_	O
-30	prava	_	_	_	_	_	_	_	_	O
-31	da	_	_	_	_	_	_	_	_	O
-32	odlučuje	_	_	_	_	_	_	_	_	O
-33	o	_	_	_	_	_	_	_	_	O
-34	davanju	_	_	_	_	_	_	_	_	O
-35	dozvolje	_	_	_	_	_	_	_	_	O
-36	za	_	_	_	_	_	_	_	_	O
-37	putovanje	_	_	_	_	_	_	_	_	O
-38	dece	_	_	_	_	_	_	_	_	O
-39	u	_	_	_	_	_	_	_	_	O
-40	inostranstvo	_	_	_	_	_	_	_	_	O
-41	za	_	_	_	_	_	_	_	_	O
-42	određeni	_	_	_	_	_	_	_	_	O
-43	period	_	_	_	_	_	_	_	SpaceAfter=No	O
-44	.	.	PUNCT	Z	_	_	_	_	_	O
-
-# sent_id = 5.4
-# text = Stavom četvrtim izreke, određeno je da svaka stranka snosi svoje troškove postupka.
-1	Stavom	_	_	_	_	_	_	_	_	O
-2	četvrtim	_	_	_	_	_	_	_	_	O
-3	izreke	_	_	_	_	_	_	_	SpaceAfter=No	O
-4	,	,	PUNCT	Z	_	_	_	_	_	O
-5	određeno	_	_	_	_	_	_	_	_	O
-6	je	_	_	_	_	_	_	_	_	O
-7	da	_	_	_	_	_	_	_	_	O
-8	svaka	_	_	_	_	_	_	_	_	O
-9	stranka	_	_	_	_	_	_	_	_	O
-10	snosi	_	_	_	_	_	_	_	_	O
-11	svoje	_	_	_	_	_	_	_	_	O
+# text = U stavu drugom izreke, obavezana je tužena da tužiocima naknadi troškove žalbenog postupka od 67.500,00 dinara.
+1	U	_	_	_	_	_	_	_	_	O
+2	stavu	_	_	_	_	_	_	_	_	O
+3	drugom	_	_	_	_	_	_	_	_	O
+4	izreke	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	obavezana	_	_	_	_	_	_	_	_	O
+7	je	_	_	_	_	_	_	_	_	O
+8	tužena	_	_	_	_	_	_	_	_	O
+9	da	_	_	_	_	_	_	_	_	O
+10	tužiocima	_	_	_	_	_	_	_	_	O
+11	naknadi	_	_	_	_	_	_	_	_	O
 12	troškove	_	_	_	_	_	_	_	_	O
-13	postupka	_	_	_	_	_	_	_	SpaceAfter=No	O
-14	.	.	PUNCT	Z	_	_	_	_	_	O
+13	žalbenog	_	_	_	_	_	_	_	_	O
+14	postupka	_	_	_	_	_	_	_	_	O
+15	od	_	_	_	_	_	_	_	_	O
+16	67.500,00	_	_	_	_	_	_	_	_	O
+17	dinara	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 6
 # sent_id = 6.1
-# text = Presudom Apelacionog suda u Beogradu Gž2 695/24 od 04.12.2024. godine, stavom prvim izreke, odbijena je kao neosnovana žalba tužene i potvrđena prvostepena presuda.
-1	Presudom	_	_	_	_	_	_	_	_	O
-2	Apelacionog	_	_	_	_	_	_	_	_	B-ORG
-3	suda	_	_	_	_	_	_	_	_	I-ORG
-4	u	_	_	_	_	_	_	_	_	O
-5	Beogradu	_	_	_	_	_	_	_	_	B-LOC
-6	Gž2	_	_	_	_	_	_	_	_	O
-7	695/24	_	_	_	_	_	_	_	_	O
-8	od	_	_	_	_	_	_	_	_	O
-9	04.12.2024.	_	_	_	_	_	_	_	_	O
-10	godine	_	_	_	_	_	_	_	SpaceAfter=No	O
-11	,	,	PUNCT	Z	_	_	_	_	_	O
-12	stavom	_	_	_	_	_	_	_	_	O
-13	prvim	_	_	_	_	_	_	_	_	O
-14	izreke	_	_	_	_	_	_	_	SpaceAfter=No	O
-15	,	,	PUNCT	Z	_	_	_	_	_	O
-16	odbijena	_	_	_	_	_	_	_	_	O
-17	je	_	_	_	_	_	_	_	_	O
-18	kao	_	_	_	_	_	_	_	_	O
-19	neosnovana	_	_	_	_	_	_	_	_	O
-20	žalba	_	_	_	_	_	_	_	_	O
-21	tužene	_	_	_	_	_	_	_	_	O
-22	i	_	_	_	_	_	_	_	_	O
-23	potvrđena	_	_	_	_	_	_	_	_	O
-24	prvostepena	_	_	_	_	_	_	_	_	O
-25	presuda	_	_	_	_	_	_	_	SpaceAfter=No	O
-26	.	.	PUNCT	Z	_	_	_	_	_	O
-
-# sent_id = 6.2
-# text = Stavom drugim izreke, odbijen je zahtev tužene za naknadu troškova drugostepenog postupka.
-1	Stavom	_	_	_	_	_	_	_	_	O
-2	drugim	_	_	_	_	_	_	_	_	O
-3	izreke	_	_	_	_	_	_	_	SpaceAfter=No	O
-4	,	,	PUNCT	Z	_	_	_	_	_	O
-5	odbijen	_	_	_	_	_	_	_	_	O
-6	je	_	_	_	_	_	_	_	_	O
-7	zahtev	_	_	_	_	_	_	_	_	O
-8	tužene	_	_	_	_	_	_	_	_	O
-9	za	_	_	_	_	_	_	_	_	O
-10	naknadu	_	_	_	_	_	_	_	_	O
-11	troškova	_	_	_	_	_	_	_	_	O
-12	drugostepenog	_	_	_	_	_	_	_	_	O
-13	postupka	_	_	_	_	_	_	_	SpaceAfter=No	O
-14	.	.	PUNCT	Z	_	_	_	_	_	O
-
-# newpar id = 7
-# sent_id = 7.1
-# text = Protiv pravnosnažne presude donete u drugom stepenu tužena je blagovremeno izjavila reviziju zbog bitnih povreda odredaba parničnog postupka, pogrešno i nepotpuno utvrđenog činjeničnog stanja i pogrešne primene materijalnog prava, pobijajući je u delu kojim je potvrđena prvostepena presuda u delu odluke kojom je odbijen njen protivtužbeni zahtev da se tužilac delimično liši roditeljskog prava u delu odlučivanja o promeni prebivališta maloletne dece (stav drugi izreke).
+# text = Protiv pravnosnažne presude donete u drugom stepenu, tužena je blagovremeno izjavila reviziju zbog pogrešne primene materijalnog prava, pozivajući se na odredbu člana 403. stav 2. tačka 2. Zakona o parničnom postupku („Sl. glasnik RS“, br.72/11...
 1	Protiv	_	_	_	_	_	_	_	_	O
 2	pravnosnažne	_	_	_	_	_	_	_	_	O
 3	presude	_	_	_	_	_	_	_	_	O
 4	donete	_	_	_	_	_	_	_	_	O
 5	u	_	_	_	_	_	_	_	_	O
 6	drugom	_	_	_	_	_	_	_	_	O
-7	stepenu	_	_	_	_	_	_	_	_	O
-8	tužena	_	_	_	_	_	_	_	_	O
-9	je	_	_	_	_	_	_	_	_	O
-10	blagovremeno	_	_	_	_	_	_	_	_	O
-11	izjavila	_	_	_	_	_	_	_	_	O
-12	reviziju	_	_	_	_	_	_	_	_	O
-13	zbog	_	_	_	_	_	_	_	_	O
-14	bitnih	_	_	_	_	_	_	_	_	O
-15	povreda	_	_	_	_	_	_	_	_	O
-16	odredaba	_	_	_	_	_	_	_	_	O
-17	parničnog	_	_	_	_	_	_	_	_	O
-18	postupka	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	stepenu	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	tužena	_	_	_	_	_	_	_	_	O
+10	je	_	_	_	_	_	_	_	_	O
+11	blagovremeno	_	_	_	_	_	_	_	_	O
+12	izjavila	_	_	_	_	_	_	_	_	O
+13	reviziju	_	_	_	_	_	_	_	_	O
+14	zbog	_	_	_	_	_	_	_	_	O
+15	pogrešne	_	_	_	_	_	_	_	_	O
+16	primene	_	_	_	_	_	_	_	_	O
+17	materijalnog	_	_	_	_	_	_	_	_	O
+18	prava	_	_	_	_	_	_	_	SpaceAfter=No	O
 19	,	,	PUNCT	Z	_	_	_	_	_	O
-20	pogrešno	_	_	_	_	_	_	_	_	O
-21	i	_	_	_	_	_	_	_	_	O
-22	nepotpuno	_	_	_	_	_	_	_	_	O
-23	utvrđenog	_	_	_	_	_	_	_	_	O
-24	činjeničnog	_	_	_	_	_	_	_	_	O
-25	stanja	_	_	_	_	_	_	_	_	O
-26	i	_	_	_	_	_	_	_	_	O
-27	pogrešne	_	_	_	_	_	_	_	_	O
-28	primene	_	_	_	_	_	_	_	_	O
-29	materijalnog	_	_	_	_	_	_	_	_	O
-30	prava	_	_	_	_	_	_	_	SpaceAfter=No	O
-31	,	,	PUNCT	Z	_	_	_	_	_	O
-32	pobijajući	_	_	_	_	_	_	_	_	O
-33	je	_	_	_	_	_	_	_	_	O
-34	u	_	_	_	_	_	_	_	_	O
-35	delu	_	_	_	_	_	_	_	_	O
-36	kojim	_	_	_	_	_	_	_	_	O
-37	je	_	_	_	_	_	_	_	_	O
-38	potvrđena	_	_	_	_	_	_	_	_	O
-39	prvostepena	_	_	_	_	_	_	_	_	O
-40	presuda	_	_	_	_	_	_	_	_	O
-41	u	_	_	_	_	_	_	_	_	O
-42	delu	_	_	_	_	_	_	_	_	O
-43	odluke	_	_	_	_	_	_	_	_	O
-44	kojom	_	_	_	_	_	_	_	_	O
-45	je	_	_	_	_	_	_	_	_	O
-46	odbijen	_	_	_	_	_	_	_	_	O
-47	njen	_	_	_	_	_	_	_	_	O
-48	protivtužbeni	_	_	_	_	_	_	_	_	O
-49	zahtev	_	_	_	_	_	_	_	_	O
-50	da	_	_	_	_	_	_	_	_	O
-51	se	_	_	_	_	_	_	_	_	O
-52	tužilac	_	_	_	_	_	_	_	_	O
-53	delimično	_	_	_	_	_	_	_	_	O
-54	liši	_	_	_	_	_	_	_	_	O
-55	roditeljskog	_	_	_	_	_	_	_	_	O
-56	prava	_	_	_	_	_	_	_	_	O
-57	u	_	_	_	_	_	_	_	_	O
-58	delu	_	_	_	_	_	_	_	_	O
-59	odlučivanja	_	_	_	_	_	_	_	_	O
-60	o	_	_	_	_	_	_	_	_	O
-61	promeni	_	_	_	_	_	_	_	_	O
-62	prebivališta	_	_	_	_	_	_	_	_	O
-63	maloletne	_	_	_	_	_	_	_	_	O
-64	dece	_	_	_	_	_	_	_	_	O
-65	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
-66	stav	_	_	_	_	_	_	_	_	O
-67	drugi	_	_	_	_	_	_	_	_	O
-68	izreke	_	_	_	_	_	_	_	SpaceAfter=No	O
-69	)	)	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
-70	.	.	PUNCT	Z	_	_	_	_	_	O
+20	pozivajući	_	_	_	_	_	_	_	_	O
+21	se	_	_	_	_	_	_	_	_	O
+22	na	_	_	_	_	_	_	_	_	O
+23	odredbu	_	_	_	_	_	_	_	_	O
+24	člana	_	_	_	_	_	_	_	_	O
+25	403.	_	_	_	_	_	_	_	_	O
+26	stav	_	_	_	_	_	_	_	_	O
+27	2.	_	_	_	_	_	_	_	_	O
+28	tačka	_	_	_	_	_	_	_	_	O
+29	2.	_	_	_	_	_	_	_	_	O
+30	Zakona	_	_	_	_	_	_	_	_	O
+31	o	_	_	_	_	_	_	_	_	O
+32	parničnom	_	_	_	_	_	_	_	_	O
+33	postupku	_	_	_	_	_	_	_	_	O
+34	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+35	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+36	Sl.	_	_	_	_	_	_	_	_	B-ORG
+37	glasnik	_	_	_	_	_	_	_	_	I-ORG
+38	RS	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+39	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+40	,	,	PUNCT	Z	_	_	_	_	_	O
+41	br.	_	_	_	_	_	_	_	SpaceAfter=No	O
+42	72/11	_	_	_	_	_	_	_	SpaceAfter=No	O
+43	...	...	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+
+# sent_id = 6.2
+# text = 10/23).
+1	10/23	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	)	)	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+3	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 6.3
+# text = Predložila je da Vrhovni sud u celosti odbije tužbeni zahtev, te obaveže tužioce da tuženoj naknade troškove postupka.
+1	Predložila	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	da	_	_	_	_	_	_	_	_	O
+4	Vrhovni	_	_	_	_	_	_	_	_	B-ORG
+5	sud	_	_	_	_	_	_	_	_	I-ORG
+6	u	_	_	_	_	_	_	_	_	O
+7	celosti	_	_	_	_	_	_	_	_	O
+8	odbije	_	_	_	_	_	_	_	_	O
+9	tužbeni	_	_	_	_	_	_	_	_	O
+10	zahtev	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	te	_	_	_	_	_	_	_	_	O
+13	obaveže	_	_	_	_	_	_	_	_	O
+14	tužioce	_	_	_	_	_	_	_	_	O
+15	da	_	_	_	_	_	_	_	_	O
+16	tuženoj	_	_	_	_	_	_	_	_	O
+17	naknade	_	_	_	_	_	_	_	_	O
+18	troškove	_	_	_	_	_	_	_	_	O
+19	postupka	_	_	_	_	_	_	_	SpaceAfter=No	O
+20	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 7
+# sent_id = 7.1
+# text = Ispitujući dozvoljenost revizije primenom člana 410. stav 2. tačka 5. Zakona o parničnom postupku („Službeni glasnik RS“, br. 72/11...
+1	Ispitujući	_	_	_	_	_	_	_	_	O
+2	dozvoljenost	_	_	_	_	_	_	_	_	O
+3	revizije	_	_	_	_	_	_	_	_	O
+4	primenom	_	_	_	_	_	_	_	_	O
+5	člana	_	_	_	_	_	_	_	_	O
+6	410.	_	_	_	_	_	_	_	_	O
+7	stav	_	_	_	_	_	_	_	_	O
+8	2.	_	_	_	_	_	_	_	_	O
+9	tačka	_	_	_	_	_	_	_	_	O
+10	5.	_	_	_	_	_	_	_	_	O
+11	Zakona	_	_	_	_	_	_	_	_	O
+12	o	_	_	_	_	_	_	_	_	O
+13	parničnom	_	_	_	_	_	_	_	_	O
+14	postupku	_	_	_	_	_	_	_	_	O
+15	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+16	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+17	Službeni	_	_	_	_	_	_	_	_	B-ORG
+18	glasnik	_	_	_	_	_	_	_	_	I-ORG
+19	RS	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+20	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+21	,	,	PUNCT	Z	_	_	_	_	_	O
+22	br.	_	_	_	_	_	_	_	_	O
+23	72/11	_	_	_	_	_	_	_	SpaceAfter=No	O
+24	...	...	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+
+# sent_id = 7.2
+# text = 10/23 - dr. zakon), Vrhovni sud je našao da revizija nije dozvoljena.
+1	10/23	_	_	_	_	_	_	_	_	O
+2	-	-	PUNCT	Z	_	_	_	_	_	O
+3	dr.	_	_	_	_	_	_	_	_	O
+4	zakon	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	)	)	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	B-ORG
+7	Vrhovni	_	_	_	_	_	_	_	_	I-ORG
+8	sud	_	_	_	_	_	_	_	_	O
+9	je	_	_	_	_	_	_	_	_	O
+10	našao	_	_	_	_	_	_	_	_	O
+11	da	_	_	_	_	_	_	_	_	O
+12	revizija	_	_	_	_	_	_	_	_	O
+13	nije	_	_	_	_	_	_	_	_	O
+14	dozvoljena	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 8
 # sent_id = 8.1
-# text = Vrhovni sud je ispitao pravnosnažnu presudu u pobijanom delu na osnovu člana 408.
-1	Vrhovni	_	_	_	_	_	_	_	_	B-ORG
-2	sud	_	_	_	_	_	_	_	_	I-ORG
-3	je	_	_	_	_	_	_	_	_	O
-4	ispitao	_	_	_	_	_	_	_	_	O
-5	pravnosnažnu	_	_	_	_	_	_	_	_	O
-6	presudu	_	_	_	_	_	_	_	_	O
-7	u	_	_	_	_	_	_	_	_	O
-8	pobijanom	_	_	_	_	_	_	_	_	O
-9	delu	_	_	_	_	_	_	_	_	O
-10	na	_	_	_	_	_	_	_	_	O
-11	osnovu	_	_	_	_	_	_	_	_	O
-12	člana	_	_	_	_	_	_	_	_	O
-13	408.	_	_	_	_	_	_	_	_	O
-
-# sent_id = 8.2
-# text = Zakona o parničnom postupku („Službeni glasnik RS“, br. 72/11, 55/14, 87/18, 18/20 i 10/23, u daljem tekstu: ZPP), u vezi sa članom 202.
-1	Zakona	_	_	_	_	_	_	_	_	O
-2	o	_	_	_	_	_	_	_	_	O
-3	parničnom	_	_	_	_	_	_	_	_	O
-4	postupku	_	_	_	_	_	_	_	_	O
-5	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
-6	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	I-ORG
-7	Službeni	_	_	_	_	_	_	_	_	I-ORG
-8	glasnik	_	_	_	_	_	_	_	_	I-ORG
-9	RS	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
-10	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	I-ORG
-11	,	,	PUNCT	Z	_	_	_	_	_	O
-12	br.	_	_	_	_	_	_	_	_	O
-13	72/11	_	_	_	_	_	_	_	SpaceAfter=No	O
-14	,	,	PUNCT	Z	_	_	_	_	_	O
-15	55/14	_	_	_	_	_	_	_	SpaceAfter=No	O
-16	,	,	PUNCT	Z	_	_	_	_	_	O
-17	87/18	_	_	_	_	_	_	_	SpaceAfter=No	O
-18	,	,	PUNCT	Z	_	_	_	_	_	O
-19	18/20	_	_	_	_	_	_	_	_	O
-20	i	_	_	_	_	_	_	_	_	O
-21	10/23	_	_	_	_	_	_	_	SpaceAfter=No	O
-22	,	,	PUNCT	Z	_	_	_	_	_	O
-23	u	_	_	_	_	_	_	_	_	O
-24	daljem	_	_	_	_	_	_	_	_	O
-25	tekstu	_	_	_	_	_	_	_	SpaceAfter=No	O
-26	:	:	PUNCT	Z	_	_	_	_	_	O
-27	ZPP	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
-28	)	)	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
-29	,	,	PUNCT	Z	_	_	_	_	_	O
-30	u	_	_	_	_	_	_	_	_	O
-31	vezi	_	_	_	_	_	_	_	_	O
-32	sa	_	_	_	_	_	_	_	_	O
-33	članom	_	_	_	_	_	_	_	_	O
-34	202.	_	_	_	_	_	_	_	_	O
-
-# sent_id = 8.3
-# text = Porodičnog zakona („Službeni glasnik RS“, br. 18/2005...
-1	Porodičnog	_	_	_	_	_	_	_	_	O
-2	zakona	_	_	_	_	_	_	_	_	O
-3	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
-4	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	B-ORG
-5	Službeni	_	_	_	_	_	_	_	_	I-ORG
-6	glasnik	_	_	_	_	_	_	_	_	I-ORG
-7	RS	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
-8	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	I-ORG
-9	,	,	PUNCT	Z	_	_	_	_	_	O
-10	br.	_	_	_	_	_	_	_	_	O
-11	18/2005	_	_	_	_	_	_	_	SpaceAfter=No	O
-12	...	...	PUNCT	Z	_	_	_	_	_	O
-
-# sent_id = 8.4
-# text = 6/2015) i našao da je revizija neosnovana.
-1	6/2015	_	_	_	_	_	_	_	SpaceAfter=No	O
-2	)	)	PUNCT	Z	_	_	_	_	_	O
-3	i	_	_	_	_	_	_	_	_	O
-4	našao	_	_	_	_	_	_	_	_	O
-5	da	_	_	_	_	_	_	_	_	O
-6	je	_	_	_	_	_	_	_	_	O
-7	revizija	_	_	_	_	_	_	_	_	O
-8	neosnovana	_	_	_	_	_	_	_	SpaceAfter=No	O
-9	.	.	PUNCT	Z	_	_	_	_	_	O
+# text = Odredbom člana 403. stav 3. ZPP propisano je da revizija nije dozvoljena u imovinskopravnim sporovima ako vrednost predmeta spora pobijanog dela ne prelazi dinarsku protivvrednost 40.000 evra po srednjem kursu NBS na dan podnošenja tužbe.
+1	Odredbom	_	_	_	_	_	_	_	_	O
+2	člana	_	_	_	_	_	_	_	_	O
+3	403.	_	_	_	_	_	_	_	_	O
+4	stav	_	_	_	_	_	_	_	_	O
+5	3.	_	_	_	_	_	_	_	_	O
+6	ZPP	_	_	_	_	_	_	_	_	O
+7	propisano	_	_	_	_	_	_	_	_	O
+8	je	_	_	_	_	_	_	_	_	O
+9	da	_	_	_	_	_	_	_	_	O
+10	revizija	_	_	_	_	_	_	_	_	O
+11	nije	_	_	_	_	_	_	_	_	O
+12	dozvoljena	_	_	_	_	_	_	_	_	O
+13	u	_	_	_	_	_	_	_	_	O
+14	imovinskopravnim	_	_	_	_	_	_	_	_	O
+15	sporovima	_	_	_	_	_	_	_	_	O
+16	ako	_	_	_	_	_	_	_	_	O
+17	vrednost	_	_	_	_	_	_	_	_	O
+18	predmeta	_	_	_	_	_	_	_	_	O
+19	spora	_	_	_	_	_	_	_	_	O
+20	pobijanog	_	_	_	_	_	_	_	_	O
+21	dela	_	_	_	_	_	_	_	_	O
+22	ne	_	_	_	_	_	_	_	_	O
+23	prelazi	_	_	_	_	_	_	_	_	O
+24	dinarsku	_	_	_	_	_	_	_	_	O
+25	protivvrednost	_	_	_	_	_	_	_	_	O
+26	40.000	_	_	_	_	_	_	_	_	O
+27	evra	_	_	_	_	_	_	_	_	O
+28	po	_	_	_	_	_	_	_	_	O
+29	srednjem	_	_	_	_	_	_	_	_	O
+30	kursu	_	_	_	_	_	_	_	_	O
+31	NBS	_	_	_	_	_	_	_	_	O
+32	na	_	_	_	_	_	_	_	_	O
+33	dan	_	_	_	_	_	_	_	_	O
+34	podnošenja	_	_	_	_	_	_	_	_	O
+35	tužbe	_	_	_	_	_	_	_	SpaceAfter=No	O
+36	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 9
 # sent_id = 9.1
-# text = Prema utvrđenom činjeničnom stanju, parnične stranke su bile u vanbračnoj zajednici od 2016. godine do aprila 2021. godine kada je njihova zajednica života prestala zbog poremećaja odnosa.
-1	Prema	_	_	_	_	_	_	_	_	O
-2	utvrđenom	_	_	_	_	_	_	_	_	O
-3	činjeničnom	_	_	_	_	_	_	_	_	O
-4	stanju	_	_	_	_	_	_	_	SpaceAfter=No	O
-5	,	,	PUNCT	Z	_	_	_	_	_	O
-6	parnične	_	_	_	_	_	_	_	_	O
-7	stranke	_	_	_	_	_	_	_	_	O
-8	su	_	_	_	_	_	_	_	_	O
-9	bile	_	_	_	_	_	_	_	_	O
-10	u	_	_	_	_	_	_	_	_	O
-11	vanbračnoj	_	_	_	_	_	_	_	_	O
-12	zajednici	_	_	_	_	_	_	_	_	O
-13	od	_	_	_	_	_	_	_	_	O
-14	2016.	_	_	_	_	_	_	_	_	O
-15	godine	_	_	_	_	_	_	_	_	O
-16	do	_	_	_	_	_	_	_	_	O
-17	aprila	_	_	_	_	_	_	_	_	O
-18	2021.	_	_	_	_	_	_	_	_	O
-19	godine	_	_	_	_	_	_	_	_	O
-20	kada	_	_	_	_	_	_	_	_	O
-21	je	_	_	_	_	_	_	_	_	O
-22	njihova	_	_	_	_	_	_	_	_	O
-23	zajednica	_	_	_	_	_	_	_	_	O
-24	života	_	_	_	_	_	_	_	_	O
-25	prestala	_	_	_	_	_	_	_	_	O
-26	zbog	_	_	_	_	_	_	_	_	O
-27	poremećaja	_	_	_	_	_	_	_	_	O
-28	odnosa	_	_	_	_	_	_	_	SpaceAfter=No	O
-29	.	.	PUNCT	Z	_	_	_	_	_	O
-
-# sent_id = 9.2
-# text = Iz te vanbračne zajednice parnične stranke imaju dvoje maloletne dece, VV rođenu 2016. godine i GG rođenu 2018. godine.
-1	Iz	_	_	_	_	_	_	_	_	O
-2	te	_	_	_	_	_	_	_	_	O
-3	vanbračne	_	_	_	_	_	_	_	_	O
-4	zajednice	_	_	_	_	_	_	_	_	O
-5	parnične	_	_	_	_	_	_	_	_	O
-6	stranke	_	_	_	_	_	_	_	_	O
-7	imaju	_	_	_	_	_	_	_	_	O
-8	dvoje	_	_	_	_	_	_	_	_	O
-9	maloletne	_	_	_	_	_	_	_	_	O
-10	dece	_	_	_	_	_	_	_	SpaceAfter=No	O
-11	,	,	PUNCT	Z	_	_	_	_	_	O
-12	VV	_	_	_	_	_	_	_	_	B-PER
-13	rođenu	_	_	_	_	_	_	_	_	O
-14	2016.	_	_	_	_	_	_	_	_	O
-15	godine	_	_	_	_	_	_	_	_	O
-16	i	_	_	_	_	_	_	_	_	O
-17	GG	_	_	_	_	_	_	_	_	B-PER
-18	rođenu	_	_	_	_	_	_	_	_	O
-19	2018.	_	_	_	_	_	_	_	_	O
-20	godine	_	_	_	_	_	_	_	SpaceAfter=No	O
-21	.	.	PUNCT	Z	_	_	_	_	_	O
-
-# sent_id = 9.3
-# text = Iz vanbračne zajednice sa DD tužena ima i maloletnu ćerku ĐĐ rođenu 2014. godine.
-1	Iz	_	_	_	_	_	_	_	_	O
-2	vanbračne	_	_	_	_	_	_	_	_	O
-3	zajednice	_	_	_	_	_	_	_	_	O
-4	sa	_	_	_	_	_	_	_	_	O
-5	DD	_	_	_	_	_	_	_	_	B-PER
-6	tužena	_	_	_	_	_	_	_	_	O
-7	ima	_	_	_	_	_	_	_	_	O
-8	i	_	_	_	_	_	_	_	_	O
-9	maloletnu	_	_	_	_	_	_	_	_	O
-10	ćerku	_	_	_	_	_	_	_	_	O
-11	ĐĐ	_	_	_	_	_	_	_	_	B-PER
-12	rođenu	_	_	_	_	_	_	_	_	O
-13	2014.	_	_	_	_	_	_	_	_	O
-14	godine	_	_	_	_	_	_	_	SpaceAfter=No	O
-15	.	.	PUNCT	Z	_	_	_	_	_	O
-
-# sent_id = 9.4
-# text = Presudom Osnovnog suda u Vršcu P2 29/23 od 06.04.2023. godine određeno je da će roditeljsko pravo nad maloletnim ćerkama VV i GG samostalno vršiti majka BB, utvrđeno je da je prebivalište maloletnih ćerki na adresi pribivališta majke i obavezan je otac ovde tužilac AA da na ime svog doprinosa za izdržavanje maloletnih ćerki plaća mesečno ukupan iznos od 15.000,00 dinara i to za maloletnu VV iznos od 8.000,00 dinara i za maloletnu GG iznos od 7.000,00 dinara.
-1	Presudom	_	_	_	_	_	_	_	_	O
-2	Osnovnog	_	_	_	_	_	_	_	_	B-ORG
-3	suda	_	_	_	_	_	_	_	_	I-ORG
-4	u	_	_	_	_	_	_	_	_	O
-5	Vršcu	_	_	_	_	_	_	_	_	B-LOC
-6	P2	_	_	_	_	_	_	_	_	O
-7	29/23	_	_	_	_	_	_	_	_	O
-8	od	_	_	_	_	_	_	_	_	O
-9	06.04.2023.	_	_	_	_	_	_	_	_	O
-10	godine	_	_	_	_	_	_	_	_	O
-11	određeno	_	_	_	_	_	_	_	_	O
-12	je	_	_	_	_	_	_	_	_	O
-13	da	_	_	_	_	_	_	_	_	O
-14	će	_	_	_	_	_	_	_	_	O
-15	roditeljsko	_	_	_	_	_	_	_	_	O
-16	pravo	_	_	_	_	_	_	_	_	O
-17	nad	_	_	_	_	_	_	_	_	O
-18	maloletnim	_	_	_	_	_	_	_	_	O
-19	ćerkama	_	_	_	_	_	_	_	_	O
-20	VV	_	_	_	_	_	_	_	_	B-PER
-21	i	_	_	_	_	_	_	_	_	O
-22	GG	_	_	_	_	_	_	_	_	B-PER
-23	samostalno	_	_	_	_	_	_	_	_	O
-24	vršiti	_	_	_	_	_	_	_	_	O
-25	majka	_	_	_	_	_	_	_	_	O
-26	BB	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
-27	,	,	PUNCT	Z	_	_	_	_	_	O
-28	utvrđeno	_	_	_	_	_	_	_	_	O
-29	je	_	_	_	_	_	_	_	_	O
-30	da	_	_	_	_	_	_	_	_	O
-31	je	_	_	_	_	_	_	_	_	O
-32	prebivalište	_	_	_	_	_	_	_	_	O
-33	maloletnih	_	_	_	_	_	_	_	_	O
-34	ćerki	_	_	_	_	_	_	_	_	O
-35	na	_	_	_	_	_	_	_	_	O
-36	adresi	_	_	_	_	_	_	_	_	O
-37	pribivališta	_	_	_	_	_	_	_	_	O
-38	majke	_	_	_	_	_	_	_	_	O
-39	i	_	_	_	_	_	_	_	_	O
-40	obavezan	_	_	_	_	_	_	_	_	O
-41	je	_	_	_	_	_	_	_	_	O
-42	otac	_	_	_	_	_	_	_	_	O
-43	ovde	_	_	_	_	_	_	_	_	O
-44	tužilac	_	_	_	_	_	_	_	_	O
-45	AA	_	_	_	_	_	_	_	_	B-PER
-46	da	_	_	_	_	_	_	_	_	O
-47	na	_	_	_	_	_	_	_	_	O
-48	ime	_	_	_	_	_	_	_	_	O
-49	svog	_	_	_	_	_	_	_	_	O
-50	doprinosa	_	_	_	_	_	_	_	_	O
-51	za	_	_	_	_	_	_	_	_	O
-52	izdržavanje	_	_	_	_	_	_	_	_	O
-53	maloletnih	_	_	_	_	_	_	_	_	O
-54	ćerki	_	_	_	_	_	_	_	_	O
-55	plaća	_	_	_	_	_	_	_	_	O
-56	mesečno	_	_	_	_	_	_	_	_	O
-57	ukupan	_	_	_	_	_	_	_	_	O
-58	iznos	_	_	_	_	_	_	_	_	O
-59	od	_	_	_	_	_	_	_	_	O
-60	15.000,00	_	_	_	_	_	_	_	_	O
-61	dinara	_	_	_	_	_	_	_	_	O
-62	i	_	_	_	_	_	_	_	_	O
-63	to	_	_	_	_	_	_	_	_	O
-64	za	_	_	_	_	_	_	_	_	O
-65	maloletnu	_	_	_	_	_	_	_	_	O
-66	VV	_	_	_	_	_	_	_	_	B-PER
-67	iznos	_	_	_	_	_	_	_	_	O
-68	od	_	_	_	_	_	_	_	_	O
-69	8.000,00	_	_	_	_	_	_	_	_	O
-70	dinara	_	_	_	_	_	_	_	_	O
-71	i	_	_	_	_	_	_	_	_	O
-72	za	_	_	_	_	_	_	_	_	O
-73	maloletnu	_	_	_	_	_	_	_	_	O
-74	GG	_	_	_	_	_	_	_	_	B-PER
-75	iznos	_	_	_	_	_	_	_	_	O
-76	od	_	_	_	_	_	_	_	_	O
-77	7.000,00	_	_	_	_	_	_	_	_	O
-78	dinara	_	_	_	_	_	_	_	SpaceAfter=No	O
-79	.	.	PUNCT	Z	_	_	_	_	_	O
-
-# sent_id = 9.5
-# text = Određeno da će se održavanje ličnih odnosa između oca i ćerki odvijati na osnovu usmenog sporazuma sa majkom.
-1	Određeno	_	_	_	_	_	_	_	_	O
-2	da	_	_	_	_	_	_	_	_	O
-3	će	_	_	_	_	_	_	_	_	O
-4	se	_	_	_	_	_	_	_	_	O
-5	održavanje	_	_	_	_	_	_	_	_	O
-6	ličnih	_	_	_	_	_	_	_	_	O
-7	odnosa	_	_	_	_	_	_	_	_	O
-8	između	_	_	_	_	_	_	_	_	O
-9	oca	_	_	_	_	_	_	_	_	O
-10	i	_	_	_	_	_	_	_	_	O
-11	ćerki	_	_	_	_	_	_	_	_	O
-12	odvijati	_	_	_	_	_	_	_	_	O
-13	na	_	_	_	_	_	_	_	_	O
-14	osnovu	_	_	_	_	_	_	_	_	O
-15	usmenog	_	_	_	_	_	_	_	_	O
-16	sporazuma	_	_	_	_	_	_	_	_	O
-17	sa	_	_	_	_	_	_	_	_	O
-18	majkom	_	_	_	_	_	_	_	SpaceAfter=No	O
-19	.	.	PUNCT	Z	_	_	_	_	_	O
-
-# sent_id = 9.6
-# text = VV i GG koje zastupa majka BB su podnele Osnovnom sudu u Pančevu 25.09.2023. godine kao izvršni poverioci predlog za izvršenje protiv tužioca kao izvršnog dužnika zbog neizmirenja obaveze plaćanja doprinosa za izdržavanje (prema presudi Osnovnog suda u Vršcu P2 29/23 od 06.04.2023. godine), nakon čega je Osnovni sud u Pančevu rešenjem II 2080/23 od 29.09.2023. godine odredio predloženo izvršenje.
-1	VV	_	_	_	_	_	_	_	_	B-PER
-2	i	_	_	_	_	_	_	_	_	O
-3	GG	_	_	_	_	_	_	_	_	B-PER
-4	koje	_	_	_	_	_	_	_	_	O
-5	zastupa	_	_	_	_	_	_	_	_	O
-6	majka	_	_	_	_	_	_	_	_	O
-7	BB	_	_	_	_	_	_	_	_	B-PER
-8	su	_	_	_	_	_	_	_	_	O
-9	podnele	_	_	_	_	_	_	_	_	O
-10	Osnovnom	_	_	_	_	_	_	_	_	B-ORG
-11	sudu	_	_	_	_	_	_	_	_	I-ORG
-12	u	_	_	_	_	_	_	_	_	O
-13	Pančevu	_	_	_	_	_	_	_	_	B-LOC
-14	25.09.2023.	_	_	_	_	_	_	_	_	O
-15	godine	_	_	_	_	_	_	_	_	O
-16	kao	_	_	_	_	_	_	_	_	O
-17	izvršni	_	_	_	_	_	_	_	_	O
-18	poverioci	_	_	_	_	_	_	_	_	O
-19	predlog	_	_	_	_	_	_	_	_	O
-20	za	_	_	_	_	_	_	_	_	O
-21	izvršenje	_	_	_	_	_	_	_	_	O
-22	protiv	_	_	_	_	_	_	_	_	O
-23	tužioca	_	_	_	_	_	_	_	_	O
-24	kao	_	_	_	_	_	_	_	_	O
-25	izvršnog	_	_	_	_	_	_	_	_	O
-26	dužnika	_	_	_	_	_	_	_	_	O
-27	zbog	_	_	_	_	_	_	_	_	O
-28	neizmirenja	_	_	_	_	_	_	_	_	O
-29	obaveze	_	_	_	_	_	_	_	_	O
-30	plaćanja	_	_	_	_	_	_	_	_	O
-31	doprinosa	_	_	_	_	_	_	_	_	O
-32	za	_	_	_	_	_	_	_	_	O
-33	izdržavanje	_	_	_	_	_	_	_	_	O
-34	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
-35	prema	_	_	_	_	_	_	_	_	O
-36	presudi	_	_	_	_	_	_	_	_	O
-37	Osnovnog	_	_	_	_	_	_	_	_	B-ORG
-38	suda	_	_	_	_	_	_	_	_	I-ORG
-39	u	_	_	_	_	_	_	_	_	O
-40	Vršcu	_	_	_	_	_	_	_	_	B-LOC
-41	P2	_	_	_	_	_	_	_	_	O
-42	29/23	_	_	_	_	_	_	_	_	O
-43	od	_	_	_	_	_	_	_	_	O
-44	06.04.2023.	_	_	_	_	_	_	_	_	O
-45	godine	_	_	_	_	_	_	_	SpaceAfter=No	O
-46	)	)	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
-47	,	,	PUNCT	Z	_	_	_	_	_	O
-48	nakon	_	_	_	_	_	_	_	_	O
-49	čega	_	_	_	_	_	_	_	_	O
-50	je	_	_	_	_	_	_	_	_	O
-51	Osnovni	_	_	_	_	_	_	_	_	B-ORG
-52	sud	_	_	_	_	_	_	_	_	I-ORG
-53	u	_	_	_	_	_	_	_	_	O
-54	Pančevu	_	_	_	_	_	_	_	_	B-LOC
-55	rešenjem	_	_	_	_	_	_	_	_	O
-56	II	_	_	_	_	_	_	_	_	O
-57	2080/23	_	_	_	_	_	_	_	_	O
-58	od	_	_	_	_	_	_	_	_	O
-59	29.09.2023.	_	_	_	_	_	_	_	_	O
-60	godine	_	_	_	_	_	_	_	_	O
-61	odredio	_	_	_	_	_	_	_	_	O
-62	predloženo	_	_	_	_	_	_	_	_	O
-63	izvršenje	_	_	_	_	_	_	_	SpaceAfter=No	O
-64	.	.	PUNCT	Z	_	_	_	_	_	O
-
-# sent_id = 9.7
-# text = Tužena živi u porodičnoj kući sa maloletnom decom, a povremeno sa njima boravi u ...
-1	Tužena	_	_	_	_	_	_	_	_	O
-2	živi	_	_	_	_	_	_	_	_	O
-3	u	_	_	_	_	_	_	_	_	O
-4	porodičnoj	_	_	_	_	_	_	_	_	O
-5	kući	_	_	_	_	_	_	_	_	O
-6	sa	_	_	_	_	_	_	_	_	O
-7	maloletnom	_	_	_	_	_	_	_	_	O
-8	decom	_	_	_	_	_	_	_	SpaceAfter=No	O
+# text = Tužba u ovoj parnici podneta je 23.05.2014. godine, a vrednost predmeta spora označena u tužbi je 500.000,00 dinara.
+1	Tužba	_	_	_	_	_	_	_	_	O
+2	u	_	_	_	_	_	_	_	_	O
+3	ovoj	_	_	_	_	_	_	_	_	O
+4	parnici	_	_	_	_	_	_	_	_	O
+5	podneta	_	_	_	_	_	_	_	_	O
+6	je	_	_	_	_	_	_	_	_	O
+7	23.05.2014.	_	_	_	_	_	_	_	_	O
+8	godine	_	_	_	_	_	_	_	SpaceAfter=No	O
 9	,	,	PUNCT	Z	_	_	_	_	_	O
 10	a	_	_	_	_	_	_	_	_	O
-11	povremeno	_	_	_	_	_	_	_	_	O
-12	sa	_	_	_	_	_	_	_	_	O
-13	njima	_	_	_	_	_	_	_	_	O
-14	boravi	_	_	_	_	_	_	_	_	O
+11	vrednost	_	_	_	_	_	_	_	_	O
+12	predmeta	_	_	_	_	_	_	_	_	O
+13	spora	_	_	_	_	_	_	_	_	O
+14	označena	_	_	_	_	_	_	_	_	O
 15	u	_	_	_	_	_	_	_	_	O
-16	...	...	PUNCT	Z	_	_	_	_	_	O
+16	tužbi	_	_	_	_	_	_	_	_	O
+17	je	_	_	_	_	_	_	_	_	O
+18	500.000,00	_	_	_	_	_	_	_	_	O
+19	dinara	_	_	_	_	_	_	_	SpaceAfter=No	O
+20	.	.	PUNCT	Z	_	_	_	_	_	O
 
-# sent_id = 9.8
-# text = gde je zasnovala novu vanbračnu zajednicu i želi da se sa decom preseli tamo.
-1	gde	_	_	_	_	_	_	_	_	O
-2	je	_	_	_	_	_	_	_	_	O
-3	zasnovala	_	_	_	_	_	_	_	_	O
-4	novu	_	_	_	_	_	_	_	_	O
-5	vanbračnu	_	_	_	_	_	_	_	_	O
-6	zajednicu	_	_	_	_	_	_	_	_	O
-7	i	_	_	_	_	_	_	_	_	O
-8	želi	_	_	_	_	_	_	_	_	O
-9	da	_	_	_	_	_	_	_	_	O
-10	se	_	_	_	_	_	_	_	_	O
-11	sa	_	_	_	_	_	_	_	_	O
-12	decom	_	_	_	_	_	_	_	_	O
-13	preseli	_	_	_	_	_	_	_	_	O
-14	tamo	_	_	_	_	_	_	_	SpaceAfter=No	O
-15	.	.	PUNCT	Z	_	_	_	_	_	O
-
-# sent_id = 9.9
-# text = Prilikom boravka u ...
-1	Prilikom	_	_	_	_	_	_	_	_	O
-2	boravka	_	_	_	_	_	_	_	_	O
-3	u	_	_	_	_	_	_	_	_	O
-4	...	...	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
-
-# sent_id = 9.10
-# text = , tužena sa decom boravi kod svog vanbračnog partnera koji ima rešeno stambeno pitanje, ostvaruje redovne mesečne prihode, pomaže tuženoj i njenoj deci prilikom boravka u ...
-1	,	,	PUNCT	Z	_	_	_	_	_	O
-2	tužena	_	_	_	_	_	_	_	_	O
-3	sa	_	_	_	_	_	_	_	_	O
-4	decom	_	_	_	_	_	_	_	_	O
-5	boravi	_	_	_	_	_	_	_	_	O
-6	kod	_	_	_	_	_	_	_	_	O
-7	svog	_	_	_	_	_	_	_	_	O
-8	vanbračnog	_	_	_	_	_	_	_	_	O
-9	partnera	_	_	_	_	_	_	_	_	O
-10	koji	_	_	_	_	_	_	_	_	O
-11	ima	_	_	_	_	_	_	_	_	O
-12	rešeno	_	_	_	_	_	_	_	_	O
-13	stambeno	_	_	_	_	_	_	_	_	O
-14	pitanje	_	_	_	_	_	_	_	SpaceAfter=No	O
-15	,	,	PUNCT	Z	_	_	_	_	_	O
-16	ostvaruje	_	_	_	_	_	_	_	_	O
-17	redovne	_	_	_	_	_	_	_	_	O
-18	mesečne	_	_	_	_	_	_	_	_	O
-19	prihode	_	_	_	_	_	_	_	SpaceAfter=No	O
-20	,	,	PUNCT	Z	_	_	_	_	_	O
-21	pomaže	_	_	_	_	_	_	_	_	O
-22	tuženoj	_	_	_	_	_	_	_	_	O
-23	i	_	_	_	_	_	_	_	_	O
-24	njenoj	_	_	_	_	_	_	_	_	O
-25	deci	_	_	_	_	_	_	_	_	O
-26	prilikom	_	_	_	_	_	_	_	_	O
-27	boravka	_	_	_	_	_	_	_	_	O
-28	u	_	_	_	_	_	_	_	_	O
-29	...	...	PUNCT	Z	_	_	_	_	_	O
-
-# sent_id = 9.11
-# text = i dao je izjavu kojom daje saglasnost da tužilja sa decom može da stanuje kod njega u ...
-1	i	_	_	_	_	_	_	_	_	O
-2	dao	_	_	_	_	_	_	_	_	O
-3	je	_	_	_	_	_	_	_	_	O
-4	izjavu	_	_	_	_	_	_	_	_	O
-5	kojom	_	_	_	_	_	_	_	_	O
-6	daje	_	_	_	_	_	_	_	_	O
-7	saglasnost	_	_	_	_	_	_	_	_	O
-8	da	_	_	_	_	_	_	_	_	O
-9	tužilja	_	_	_	_	_	_	_	_	O
-10	sa	_	_	_	_	_	_	_	_	O
-11	decom	_	_	_	_	_	_	_	_	O
-12	može	_	_	_	_	_	_	_	_	O
-13	da	_	_	_	_	_	_	_	_	O
-14	stanuje	_	_	_	_	_	_	_	_	O
-15	kod	_	_	_	_	_	_	_	_	O
-16	njega	_	_	_	_	_	_	_	_	O
-17	u	_	_	_	_	_	_	_	_	O
-18	...	...	PUNCT	Z	_	_	_	_	_	O
-
-# sent_id = 9.12
-# text = , kao i da ih materijalno pomaže, koja je overena kod javnog beležnika 22.04.2024. godine.
-1	,	,	PUNCT	Z	_	_	_	_	_	O
-2	kao	_	_	_	_	_	_	_	_	O
-3	i	_	_	_	_	_	_	_	_	O
-4	da	_	_	_	_	_	_	_	_	O
-5	ih	_	_	_	_	_	_	_	_	O
-6	materijalno	_	_	_	_	_	_	_	_	O
-7	pomaže	_	_	_	_	_	_	_	SpaceAfter=No	O
-8	,	,	PUNCT	Z	_	_	_	_	_	O
-9	koja	_	_	_	_	_	_	_	_	O
-10	je	_	_	_	_	_	_	_	_	O
-11	overena	_	_	_	_	_	_	_	_	O
-12	kod	_	_	_	_	_	_	_	_	O
-13	javnog	_	_	_	_	_	_	_	_	O
-14	beležnika	_	_	_	_	_	_	_	_	O
-15	22.04.2024.	_	_	_	_	_	_	_	_	O
-16	godine	_	_	_	_	_	_	_	SpaceAfter=No	O
-17	.	.	PUNCT	Z	_	_	_	_	_	O
-
-# sent_id = 9.13
-# text = Tužilac je dao saglasnost da deca sa majkom mogu da putuju u ...
-1	Tužilac	_	_	_	_	_	_	_	_	O
-2	je	_	_	_	_	_	_	_	_	O
-3	dao	_	_	_	_	_	_	_	_	O
-4	saglasnost	_	_	_	_	_	_	_	_	O
-5	da	_	_	_	_	_	_	_	_	O
-6	deca	_	_	_	_	_	_	_	_	O
-7	sa	_	_	_	_	_	_	_	_	O
-8	majkom	_	_	_	_	_	_	_	_	O
-9	mogu	_	_	_	_	_	_	_	_	O
-10	da	_	_	_	_	_	_	_	_	O
-11	putuju	_	_	_	_	_	_	_	_	O
-12	u	_	_	_	_	_	_	_	_	O
-13	...	...	PUNCT	Z	_	_	_	_	_	O
-
-# sent_id = 9.14
-# text = kod rodbine u periodu od 14.04.2023. do 14.04.2026. godine, koja saglasnost je takođe overena kod javnog beležnika 10.04.2023. godine, ali je tužilac u toku postupka negirao da je potpisao ovu saglasnost, te da je istu dao samo na period od tri meseca, a ne tri godine.
-1	kod	_	_	_	_	_	_	_	_	O
-2	rodbine	_	_	_	_	_	_	_	_	O
-3	u	_	_	_	_	_	_	_	_	O
-4	periodu	_	_	_	_	_	_	_	_	O
-5	od	_	_	_	_	_	_	_	_	O
-6	14.04.2023.	_	_	_	_	_	_	_	_	O
-7	do	_	_	_	_	_	_	_	_	O
-8	14.04.2026.	_	_	_	_	_	_	_	_	O
-9	godine	_	_	_	_	_	_	_	SpaceAfter=No	O
-10	,	,	PUNCT	Z	_	_	_	_	_	O
-11	koja	_	_	_	_	_	_	_	_	O
-12	saglasnost	_	_	_	_	_	_	_	_	O
-13	je	_	_	_	_	_	_	_	_	O
-14	takođe	_	_	_	_	_	_	_	_	O
-15	overena	_	_	_	_	_	_	_	_	O
-16	kod	_	_	_	_	_	_	_	_	O
-17	javnog	_	_	_	_	_	_	_	_	O
-18	beležnika	_	_	_	_	_	_	_	_	O
-19	10.04.2023.	_	_	_	_	_	_	_	_	O
-20	godine	_	_	_	_	_	_	_	SpaceAfter=No	O
-21	,	,	PUNCT	Z	_	_	_	_	_	O
-22	ali	_	_	_	_	_	_	_	_	O
-23	je	_	_	_	_	_	_	_	_	O
-24	tužilac	_	_	_	_	_	_	_	_	O
-25	u	_	_	_	_	_	_	_	_	O
-26	toku	_	_	_	_	_	_	_	_	O
-27	postupka	_	_	_	_	_	_	_	_	O
-28	negirao	_	_	_	_	_	_	_	_	O
-29	da	_	_	_	_	_	_	_	_	O
-30	je	_	_	_	_	_	_	_	_	O
-31	potpisao	_	_	_	_	_	_	_	_	O
-32	ovu	_	_	_	_	_	_	_	_	O
-33	saglasnost	_	_	_	_	_	_	_	SpaceAfter=No	O
-34	,	,	PUNCT	Z	_	_	_	_	_	O
-35	te	_	_	_	_	_	_	_	_	O
-36	da	_	_	_	_	_	_	_	_	O
-37	je	_	_	_	_	_	_	_	_	O
-38	istu	_	_	_	_	_	_	_	_	O
-39	dao	_	_	_	_	_	_	_	_	O
-40	samo	_	_	_	_	_	_	_	_	O
-41	na	_	_	_	_	_	_	_	_	O
-42	period	_	_	_	_	_	_	_	_	O
-43	od	_	_	_	_	_	_	_	_	O
-44	tri	_	_	_	_	_	_	_	_	O
-45	meseca	_	_	_	_	_	_	_	SpaceAfter=No	O
-46	,	,	PUNCT	Z	_	_	_	_	_	O
-47	a	_	_	_	_	_	_	_	_	O
-48	ne	_	_	_	_	_	_	_	_	O
-49	tri	_	_	_	_	_	_	_	_	O
-50	godine	_	_	_	_	_	_	_	SpaceAfter=No	O
-51	.	.	PUNCT	Z	_	_	_	_	_	O
-
-# sent_id = 9.15
-# text = Tužilac je nezaposlen i nalazi se na evidenciji Nacionalne službe za zapošljavanje.
-1	Tužilac	_	_	_	_	_	_	_	_	O
-2	je	_	_	_	_	_	_	_	_	O
-3	nezaposlen	_	_	_	_	_	_	_	_	O
-4	i	_	_	_	_	_	_	_	_	O
-5	nalazi	_	_	_	_	_	_	_	_	O
-6	se	_	_	_	_	_	_	_	_	O
-7	na	_	_	_	_	_	_	_	_	O
-8	evidenciji	_	_	_	_	_	_	_	_	O
-9	Nacionalne	_	_	_	_	_	_	_	_	O
-10	službe	_	_	_	_	_	_	_	_	O
-11	za	_	_	_	_	_	_	_	_	O
-12	zapošljavanje	_	_	_	_	_	_	_	SpaceAfter=No	O
-13	.	.	PUNCT	Z	_	_	_	_	_	O
-
-# sent_id = 9.16
-# text = Izdržava se preprodajom robe po vašarima i manifestacijama.
-1	Izdržava	_	_	_	_	_	_	_	_	O
-2	se	_	_	_	_	_	_	_	_	O
-3	preprodajom	_	_	_	_	_	_	_	_	O
-4	robe	_	_	_	_	_	_	_	_	O
-5	po	_	_	_	_	_	_	_	_	O
-6	vašarima	_	_	_	_	_	_	_	_	O
-7	i	_	_	_	_	_	_	_	_	O
-8	manifestacijama	_	_	_	_	_	_	_	SpaceAfter=No	O
-9	.	.	PUNCT	Z	_	_	_	_	_	O
-
-# sent_id = 9.17
-# text = Živi u porodičnoj kući sa maloletnim sinom iz prve vanbračne zajednice.
-1	Živi	_	_	_	_	_	_	_	_	O
+# newpar id = 10
+# sent_id = 10.1
+# text = Imajući u vidu da se radi o sporu u kome vrednost predmeta spora pobijanog dela ne prelazi dinarsku protivvrednost 40.000 evra prema srednjem kursu Narodne banke Srbije na dan podnošenja tužbe, to je Vrhovni sud utvrdio da je revizija nedozvoljena.
+1	Imajući	_	_	_	_	_	_	_	_	O
 2	u	_	_	_	_	_	_	_	_	O
-3	porodičnoj	_	_	_	_	_	_	_	_	O
-4	kući	_	_	_	_	_	_	_	_	O
-5	sa	_	_	_	_	_	_	_	_	O
-6	maloletnim	_	_	_	_	_	_	_	_	O
-7	sinom	_	_	_	_	_	_	_	_	O
-8	iz	_	_	_	_	_	_	_	_	O
-9	prve	_	_	_	_	_	_	_	_	O
-10	vanbračne	_	_	_	_	_	_	_	_	O
-11	zajednice	_	_	_	_	_	_	_	SpaceAfter=No	O
-12	.	.	PUNCT	Z	_	_	_	_	_	O
-
-# sent_id = 9.18
-# text = Tužilac je bio nasilan prema tuženoj tokom 2019. godine, što je i sam potvrdio.
-1	Tužilac	_	_	_	_	_	_	_	_	O
-2	je	_	_	_	_	_	_	_	_	O
-3	bio	_	_	_	_	_	_	_	_	O
-4	nasilan	_	_	_	_	_	_	_	_	O
-5	prema	_	_	_	_	_	_	_	_	O
-6	tuženoj	_	_	_	_	_	_	_	_	O
-7	tokom	_	_	_	_	_	_	_	_	O
-8	2019.	_	_	_	_	_	_	_	_	O
-9	godine	_	_	_	_	_	_	_	SpaceAfter=No	O
-10	,	,	PUNCT	Z	_	_	_	_	_	O
-11	što	_	_	_	_	_	_	_	_	O
-12	je	_	_	_	_	_	_	_	_	O
-13	i	_	_	_	_	_	_	_	_	O
-14	sam	_	_	_	_	_	_	_	_	O
-15	potvrdio	_	_	_	_	_	_	_	SpaceAfter=No	O
-16	.	.	PUNCT	Z	_	_	_	_	_	O
-
-# sent_id = 9.19
-# text = Viđa decu jednom mesečno kada ih tužena dovede na par dana kod njega.
-1	Viđa	_	_	_	_	_	_	_	_	O
-2	decu	_	_	_	_	_	_	_	_	O
-3	jednom	_	_	_	_	_	_	_	_	O
-4	mesečno	_	_	_	_	_	_	_	_	O
-5	kada	_	_	_	_	_	_	_	_	O
-6	ih	_	_	_	_	_	_	_	_	O
-7	tužena	_	_	_	_	_	_	_	_	O
-8	dovede	_	_	_	_	_	_	_	_	O
-9	na	_	_	_	_	_	_	_	_	O
-10	par	_	_	_	_	_	_	_	_	O
-11	dana	_	_	_	_	_	_	_	_	O
-12	kod	_	_	_	_	_	_	_	_	O
-13	njega	_	_	_	_	_	_	_	SpaceAfter=No	O
-14	.	.	PUNCT	Z	_	_	_	_	_	O
-
-# sent_id = 9.20
-# text = Prema mišljenju Centra za socijalni rad Grada Pančeva, tužilac poseduje roditeljske kapacitete za redovne kontakte sa maloletnom decom i u njegovom ponašanju nisu uočeni elementi koji bi ukazivali na eventualno zlostavljanje ili zanemarivanje dece.
-1	Prema	_	_	_	_	_	_	_	_	O
-2	mišljenju	_	_	_	_	_	_	_	_	O
-3	Centra	_	_	_	_	_	_	_	_	B-ORG
-4	za	_	_	_	_	_	_	_	_	I-ORG
-5	socijalni	_	_	_	_	_	_	_	_	I-ORG
-6	rad	_	_	_	_	_	_	_	_	I-ORG
-7	Grada	_	_	_	_	_	_	_	_	I-ORG
-8	Pančeva	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
-9	,	,	PUNCT	Z	_	_	_	_	_	O
-10	tužilac	_	_	_	_	_	_	_	_	O
-11	poseduje	_	_	_	_	_	_	_	_	O
-12	roditeljske	_	_	_	_	_	_	_	_	O
-13	kapacitete	_	_	_	_	_	_	_	_	O
-14	za	_	_	_	_	_	_	_	_	O
-15	redovne	_	_	_	_	_	_	_	_	O
-16	kontakte	_	_	_	_	_	_	_	_	O
-17	sa	_	_	_	_	_	_	_	_	O
-18	maloletnom	_	_	_	_	_	_	_	_	O
-19	decom	_	_	_	_	_	_	_	_	O
-20	i	_	_	_	_	_	_	_	_	O
-21	u	_	_	_	_	_	_	_	_	O
-22	njegovom	_	_	_	_	_	_	_	_	O
-23	ponašanju	_	_	_	_	_	_	_	_	O
-24	nisu	_	_	_	_	_	_	_	_	O
-25	uočeni	_	_	_	_	_	_	_	_	O
-26	elementi	_	_	_	_	_	_	_	_	O
-27	koji	_	_	_	_	_	_	_	_	O
-28	bi	_	_	_	_	_	_	_	_	O
-29	ukazivali	_	_	_	_	_	_	_	_	O
-30	na	_	_	_	_	_	_	_	_	O
-31	eventualno	_	_	_	_	_	_	_	_	O
-32	zlostavljanje	_	_	_	_	_	_	_	_	O
-33	ili	_	_	_	_	_	_	_	_	O
-34	zanemarivanje	_	_	_	_	_	_	_	_	O
-35	dece	_	_	_	_	_	_	_	SpaceAfter=No	O
-36	.	.	PUNCT	Z	_	_	_	_	_	O
-
-# sent_id = 9.21
-# text = Uočava se pozitivna motivacija za redovno održavanje ličnog kontakta sa maloletnim ćerkama.
-1	Uočava	_	_	_	_	_	_	_	_	O
-2	se	_	_	_	_	_	_	_	_	O
-3	pozitivna	_	_	_	_	_	_	_	_	O
-4	motivacija	_	_	_	_	_	_	_	_	O
-5	za	_	_	_	_	_	_	_	_	O
-6	redovno	_	_	_	_	_	_	_	_	O
-7	održavanje	_	_	_	_	_	_	_	_	O
-8	ličnog	_	_	_	_	_	_	_	_	O
-9	kontakta	_	_	_	_	_	_	_	_	O
-10	sa	_	_	_	_	_	_	_	_	O
-11	maloletnim	_	_	_	_	_	_	_	_	O
-12	ćerkama	_	_	_	_	_	_	_	SpaceAfter=No	O
-13	.	.	PUNCT	Z	_	_	_	_	_	O
-
-# sent_id = 9.22
-# text = Mišljenje Centra za socijalni rad je da nije u najboljem interesu maloletne dece da se otac delimično liši roditeljskog prava.
-1	Mišljenje	_	_	_	_	_	_	_	_	O
-2	Centra	_	_	_	_	_	_	_	_	B-ORG
-3	za	_	_	_	_	_	_	_	_	I-ORG
-4	socijalni	_	_	_	_	_	_	_	_	I-ORG
-5	rad	_	_	_	_	_	_	_	_	O
-6	je	_	_	_	_	_	_	_	_	O
-7	da	_	_	_	_	_	_	_	_	O
-8	nije	_	_	_	_	_	_	_	_	O
+3	vidu	_	_	_	_	_	_	_	_	O
+4	da	_	_	_	_	_	_	_	_	O
+5	se	_	_	_	_	_	_	_	_	O
+6	radi	_	_	_	_	_	_	_	_	O
+7	o	_	_	_	_	_	_	_	_	O
+8	sporu	_	_	_	_	_	_	_	_	O
 9	u	_	_	_	_	_	_	_	_	O
-10	najboljem	_	_	_	_	_	_	_	_	O
-11	interesu	_	_	_	_	_	_	_	_	O
-12	maloletne	_	_	_	_	_	_	_	_	O
-13	dece	_	_	_	_	_	_	_	_	O
-14	da	_	_	_	_	_	_	_	_	O
-15	se	_	_	_	_	_	_	_	_	O
-16	otac	_	_	_	_	_	_	_	_	O
-17	delimično	_	_	_	_	_	_	_	_	O
-18	liši	_	_	_	_	_	_	_	_	O
-19	roditeljskog	_	_	_	_	_	_	_	_	O
-20	prava	_	_	_	_	_	_	_	SpaceAfter=No	O
-21	.	.	PUNCT	Z	_	_	_	_	_	O
+10	kome	_	_	_	_	_	_	_	_	O
+11	vrednost	_	_	_	_	_	_	_	_	O
+12	predmeta	_	_	_	_	_	_	_	_	O
+13	spora	_	_	_	_	_	_	_	_	O
+14	pobijanog	_	_	_	_	_	_	_	_	O
+15	dela	_	_	_	_	_	_	_	_	O
+16	ne	_	_	_	_	_	_	_	_	O
+17	prelazi	_	_	_	_	_	_	_	_	O
+18	dinarsku	_	_	_	_	_	_	_	_	O
+19	protivvrednost	_	_	_	_	_	_	_	_	O
+20	40.000	_	_	_	_	_	_	_	_	O
+21	evra	_	_	_	_	_	_	_	_	O
+22	prema	_	_	_	_	_	_	_	_	O
+23	srednjem	_	_	_	_	_	_	_	_	O
+24	kursu	_	_	_	_	_	_	_	_	O
+25	Narodne	_	_	_	_	_	_	_	_	B-ORG
+26	banke	_	_	_	_	_	_	_	_	I-ORG
+27	Srbije	_	_	_	_	_	_	_	_	I-ORG
+28	na	_	_	_	_	_	_	_	_	O
+29	dan	_	_	_	_	_	_	_	_	O
+30	podnošenja	_	_	_	_	_	_	_	_	O
+31	tužbe	_	_	_	_	_	_	_	SpaceAfter=No	O
+32	,	,	PUNCT	Z	_	_	_	_	_	O
+33	to	_	_	_	_	_	_	_	_	O
+34	je	_	_	_	_	_	_	_	_	O
+35	Vrhovni	_	_	_	_	_	_	_	_	B-ORG
+36	sud	_	_	_	_	_	_	_	_	I-ORG
+37	utvrdio	_	_	_	_	_	_	_	_	O
+38	da	_	_	_	_	_	_	_	_	O
+39	je	_	_	_	_	_	_	_	_	O
+40	revizija	_	_	_	_	_	_	_	_	O
+41	nedozvoljena	_	_	_	_	_	_	_	SpaceAfter=No	O
+42	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 11
+# sent_id = 11.1
+# text = Nema mesta primeni opšteg pravila iz člana 403. stav 2. tačka 2. Zakona o parničnom postupku, prema kome je revizija uvek dozvoljena ako je drugostepeni sud preinačio presudu i odlučio o zahtevima stranaka, na koje se revident poziva, budući da je u konkretnom slučaju preinačena jedino odluka o troškovima postupka, a ne i odluka o glavnoj stvari.
+1	Nema	_	_	_	_	_	_	_	_	O
+2	mesta	_	_	_	_	_	_	_	_	O
+3	primeni	_	_	_	_	_	_	_	_	O
+4	opšteg	_	_	_	_	_	_	_	_	O
+5	pravila	_	_	_	_	_	_	_	_	O
+6	iz	_	_	_	_	_	_	_	_	O
+7	člana	_	_	_	_	_	_	_	_	O
+8	403.	_	_	_	_	_	_	_	_	O
+9	stav	_	_	_	_	_	_	_	_	O
+10	2.	_	_	_	_	_	_	_	_	O
+11	tačka	_	_	_	_	_	_	_	_	O
+12	2.	_	_	_	_	_	_	_	_	O
+13	Zakona	_	_	_	_	_	_	_	_	O
+14	o	_	_	_	_	_	_	_	_	O
+15	parničnom	_	_	_	_	_	_	_	_	O
+16	postupku	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	,	,	PUNCT	Z	_	_	_	_	_	O
+18	prema	_	_	_	_	_	_	_	_	O
+19	kome	_	_	_	_	_	_	_	_	O
+20	je	_	_	_	_	_	_	_	_	O
+21	revizija	_	_	_	_	_	_	_	_	O
+22	uvek	_	_	_	_	_	_	_	_	O
+23	dozvoljena	_	_	_	_	_	_	_	_	O
+24	ako	_	_	_	_	_	_	_	_	O
+25	je	_	_	_	_	_	_	_	_	O
+26	drugostepeni	_	_	_	_	_	_	_	_	B-ORG
+27	sud	_	_	_	_	_	_	_	_	I-ORG
+28	preinačio	_	_	_	_	_	_	_	_	O
+29	presudu	_	_	_	_	_	_	_	_	O
+30	i	_	_	_	_	_	_	_	_	O
+31	odlučio	_	_	_	_	_	_	_	_	O
+32	o	_	_	_	_	_	_	_	_	O
+33	zahtevima	_	_	_	_	_	_	_	_	O
+34	stranaka	_	_	_	_	_	_	_	SpaceAfter=No	O
+35	,	,	PUNCT	Z	_	_	_	_	_	O
+36	na	_	_	_	_	_	_	_	_	O
+37	koje	_	_	_	_	_	_	_	_	O
+38	se	_	_	_	_	_	_	_	_	O
+39	revident	_	_	_	_	_	_	_	_	O
+40	poziva	_	_	_	_	_	_	_	SpaceAfter=No	O
+41	,	,	PUNCT	Z	_	_	_	_	_	O
+42	budući	_	_	_	_	_	_	_	_	O
+43	da	_	_	_	_	_	_	_	_	O
+44	je	_	_	_	_	_	_	_	_	O
+45	u	_	_	_	_	_	_	_	_	O
+46	konkretnom	_	_	_	_	_	_	_	_	O
+47	slučaju	_	_	_	_	_	_	_	_	O
+48	preinačena	_	_	_	_	_	_	_	_	O
+49	jedino	_	_	_	_	_	_	_	_	O
+50	odluka	_	_	_	_	_	_	_	_	O
+51	o	_	_	_	_	_	_	_	_	O
+52	troškovima	_	_	_	_	_	_	_	_	O
+53	postupka	_	_	_	_	_	_	_	SpaceAfter=No	O
+54	,	,	PUNCT	Z	_	_	_	_	_	O
+55	a	_	_	_	_	_	_	_	_	O
+56	ne	_	_	_	_	_	_	_	_	O
+57	i	_	_	_	_	_	_	_	_	O
+58	odluka	_	_	_	_	_	_	_	_	O
+59	o	_	_	_	_	_	_	_	_	O
+60	glavnoj	_	_	_	_	_	_	_	_	O
+61	stvari	_	_	_	_	_	_	_	SpaceAfter=No	O
+62	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 12
+# sent_id = 12.1
+# text = Na osnovu člana člana 413.
+1	Na	_	_	_	_	_	_	_	_	O
+2	osnovu	_	_	_	_	_	_	_	_	O
+3	člana	_	_	_	_	_	_	_	_	O
+4	člana	_	_	_	_	_	_	_	_	O
+5	413.	_	_	_	_	_	_	_	_	O
+
+# sent_id = 12.2
+# text = ZPP, Vrhovni sud je odlučio kao u izreci rešenja.
+1	ZPP	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	Vrhovni	_	_	_	_	_	_	_	_	B-ORG
+4	sud	_	_	_	_	_	_	_	_	I-ORG
+5	je	_	_	_	_	_	_	_	_	O
+6	odlučio	_	_	_	_	_	_	_	_	O
+7	kao	_	_	_	_	_	_	_	_	O
+8	u	_	_	_	_	_	_	_	_	O
+9	izreci	_	_	_	_	_	_	_	_	O
+10	rešenja	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 13
+# sent_id = 13.1
+# text = Predsednik veća – sudija
+1	Predsednik	_	_	_	_	_	_	_	_	O
+2	veća	_	_	_	_	_	_	_	_	O
+3	–	–	PUNCT	Z	_	_	_	_	_	O
+4	sudija	_	_	_	_	_	_	_	_	O
+
+# newpar id = 14
+# sent_id = 14.1
+# text = Tatjana Matković Stefanović,s.r.
+1	Tatjana	_	_	_	_	_	_	_	_	B-PER
+2	Matković	_	_	_	_	_	_	_	_	I-PER
+3	Stefanović	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+4	,	,	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+5	s.	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	r.	_	_	_	_	_	_	_	_	O
+
+# newpar id = 15
+# sent_id = 15.1
+# text = Za tačnost otpravka
+1	Za	_	_	_	_	_	_	_	_	O
+2	tačnost	_	_	_	_	_	_	_	_	O
+3	otpravka	_	_	_	_	_	_	_	_	O
+
+# newpar id = 16
+# sent_id = 16.1
+# text = Zamenik upravitelja pisarnice
+1	Zamenik	_	_	_	_	_	_	_	_	O
+2	upravitelja	_	_	_	_	_	_	_	_	O
+3	pisarnice	_	_	_	_	_	_	_	_	O
+
+# newpar id = 17
+# sent_id = 17.1
+# text = Milanka Ranković
+1	Milanka	_	_	_	_	_	_	_	_	B-PER
+2	Ranković	_	_	_	_	_	_	_	_	I-PER
 

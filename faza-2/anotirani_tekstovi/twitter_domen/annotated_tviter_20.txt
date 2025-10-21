@@ -170,8 +170,8 @@
 3	za	_	_	_	_	_	_	_	_	I-ORG
 4	ljudska	_	_	_	_	_	_	_	_	I-ORG
 5	prava	_	_	_	_	_	_	_	_	I-ORG
-6	u	_	_	_	_	_	_	_	_	O
-7	Strazburu	_	_	_	_	_	_	_	_	B-LOC
+6	u	_	_	_	_	_	_	_	_	I-ORG
+7	Strazburu	_	_	_	_	_	_	_	_	I-ORG
 8	prihvatio	_	_	_	_	_	_	_	_	O
 9	je	_	_	_	_	_	_	_	_	O
 10	da	_	_	_	_	_	_	_	_	O

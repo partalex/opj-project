@@ -40,11 +40,11 @@
 8	koji	_	_	_	_	_	_	_	_	O
 9	su	_	_	_	_	_	_	_	_	O
 10	kreirali	_	_	_	_	_	_	_	_	O
-11	Dejvid	_	_	_	_	_	_	_	_	O
-12	Krejn	_	_	_	_	_	_	_	_	O
+11	Dejvid	_	_	_	_	_	_	_	_	B-PER
+12	Krejn	_	_	_	_	_	_	_	_	I-PER
 13	i	_	_	_	_	_	_	_	_	O
-14	Marta	_	_	_	_	_	_	_	_	O
-15	Kaufman	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	Marta	_	_	_	_	_	_	_	_	B-PER
+15	Kaufman	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 16	,	,	PUNCT	Z	_	_	_	_	_	O
 17	a	_	_	_	_	_	_	_	_	O
 18	koji	_	_	_	_	_	_	_	_	O
@@ -52,7 +52,7 @@
 20	prvobitno	_	_	_	_	_	_	_	_	O
 21	emitovan	_	_	_	_	_	_	_	_	O
 22	na	_	_	_	_	_	_	_	_	O
-23	NBC	_	_	_	_	_	_	_	_	O
+23	NBC	_	_	_	_	_	_	_	_	B-ORG
 24	od	_	_	_	_	_	_	_	_	O
 25	22.	_	_	_	_	_	_	_	_	O
 26	sep	_	_	_	_	_	_	_	_	O
@@ -71,23 +71,23 @@
 39	koji	_	_	_	_	_	_	_	_	O
 40	su	_	_	_	_	_	_	_	_	O
 41	činili	_	_	_	_	_	_	_	_	O
-42	Dženifer	_	_	_	_	_	_	_	_	O
-43	Aniston	_	_	_	_	_	_	_	SpaceAfter=No	O
+42	Dženifer	_	_	_	_	_	_	_	_	B-PER
+43	Aniston	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 44	,	,	PUNCT	Z	_	_	_	_	_	O
-45	Kortni	_	_	_	_	_	_	_	_	O
-46	Koks	_	_	_	_	_	_	_	SpaceAfter=No	O
+45	Kortni	_	_	_	_	_	_	_	_	B-PER
+46	Koks	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 47	,	,	PUNCT	Z	_	_	_	_	_	O
-48	Lisa	_	_	_	_	_	_	_	_	O
-49	Kudrou	_	_	_	_	_	_	_	SpaceAfter=No	O
+48	Lisa	_	_	_	_	_	_	_	_	B-PER
+49	Kudrou	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 50	,	,	PUNCT	Z	_	_	_	_	_	O
-51	Met	_	_	_	_	_	_	_	_	O
-52	Leblank	_	_	_	_	_	_	_	SpaceAfter=No	O
+51	Met	_	_	_	_	_	_	_	_	B-PER
+52	Leblank	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 53	,	,	PUNCT	Z	_	_	_	_	_	O
-54	Metju	_	_	_	_	_	_	_	_	O
-55	Peri	_	_	_	_	_	_	_	_	O
+54	Metju	_	_	_	_	_	_	_	_	B-PER
+55	Peri	_	_	_	_	_	_	_	_	I-PER
 56	i	_	_	_	_	_	_	_	_	O
-57	Dejvid	_	_	_	_	_	_	_	_	O
-58	Švimer	_	_	_	_	_	_	_	SpaceAfter=No	O
+57	Dejvid	_	_	_	_	_	_	_	_	B-PER
+58	Švimer	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
 59	,	,	PUNCT	Z	_	_	_	_	_	O
 60	emisija	_	_	_	_	_	_	_	_	O
 61	govori	_	_	_	_	_	_	_	_	O
@@ -98,7 +98,7 @@
 66	koji	_	_	_	_	_	_	_	_	O
 67	žive	_	_	_	_	_	_	_	_	O
 68	na	_	_	_	_	_	_	_	_	O
-69	Menhetnu	_	_	_	_	_	_	_	SpaceAfter=No	O
+69	Menhetnu	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 70	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 3
@@ -128,9 +128,9 @@
 
 # sent_id = 3.2
 # text = Kaufman i Kejn su započeli razvoj Prijatelja pod nazivom Kafe Insomnija između novembra i decembra 1993. godine.
-1	Kaufman	_	_	_	_	_	_	_	_	O
+1	Kaufman	_	_	_	_	_	_	_	_	B-PER
 2	i	_	_	_	_	_	_	_	_	O
-3	Kejn	_	_	_	_	_	_	_	_	O
+3	Kejn	_	_	_	_	_	_	_	_	B-PER
 4	su	_	_	_	_	_	_	_	_	O
 5	započeli	_	_	_	_	_	_	_	_	O
 6	razvoj	_	_	_	_	_	_	_	_	O
@@ -153,7 +153,7 @@
 2	su	_	_	_	_	_	_	_	_	O
 3	predstavili	_	_	_	_	_	_	_	_	O
 4	ideju	_	_	_	_	_	_	_	_	O
-5	Brajtu	_	_	_	_	_	_	_	_	O
+5	Brajtu	_	_	_	_	_	_	_	_	B-PER
 6	i	_	_	_	_	_	_	_	_	O
 7	zajedno	_	_	_	_	_	_	_	_	O
 8	su	_	_	_	_	_	_	_	_	O
@@ -163,7 +163,7 @@
 12	na	_	_	_	_	_	_	_	_	O
 13	sedam	_	_	_	_	_	_	_	_	O
 14	strana	_	_	_	_	_	_	_	_	O
-15	NBC	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	NBC	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
 16	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 3.4
@@ -207,12 +207,12 @@
 4	održano	_	_	_	_	_	_	_	_	O
 5	u	_	_	_	_	_	_	_	_	O
 6	studiju	_	_	_	_	_	_	_	_	O
-7	Vorner	_	_	_	_	_	_	_	_	O
-8	brosa	_	_	_	_	_	_	_	_	O
+7	Vorner	_	_	_	_	_	_	_	_	B-ORG
+8	brosa	_	_	_	_	_	_	_	_	I-ORG
 9	u	_	_	_	_	_	_	_	_	O
-10	Berbanku	_	_	_	_	_	_	_	_	O
+10	Berbanku	_	_	_	_	_	_	_	_	B-LOC
 11	u	_	_	_	_	_	_	_	_	O
-12	Kaliforniji	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	Kaliforniji	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 13	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 4.2

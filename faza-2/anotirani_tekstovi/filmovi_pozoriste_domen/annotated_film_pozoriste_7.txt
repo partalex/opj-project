@@ -62,8 +62,8 @@
 8	je	_	_	_	_	_	_	_	_	O
 9	na	_	_	_	_	_	_	_	_	O
 10	palubu	_	_	_	_	_	_	_	_	O
-11	broda	_	_	_	_	_	_	_	_	B-LOC
-12	Hispaniola	_	_	_	_	_	_	_	_	I-LOC
+11	broda	_	_	_	_	_	_	_	_	O
+12	Hispaniola	_	_	_	_	_	_	_	_	O
 13	i	_	_	_	_	_	_	_	_	O
 14	tajanstveno	_	_	_	_	_	_	_	_	O
 15	ostrvo	_	_	_	_	_	_	_	_	O
@@ -78,9 +78,9 @@
 24	u	_	_	_	_	_	_	_	_	O
 25	koprodukciji	_	_	_	_	_	_	_	_	O
 26	s	_	_	_	_	_	_	_	_	O
-27	Grad	_	_	_	_	_	_	_	_	O
-28	teatrom	_	_	_	_	_	_	_	_	O
-29	Budva	_	_	_	_	_	_	_	SpaceAfter=No	O
+27	Grad	_	_	_	_	_	_	_	_	B-ORG
+28	teatrom	_	_	_	_	_	_	_	_	I-ORG
+29	Budva	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 30	,	,	PUNCT	Z	_	_	_	_	_	O
 31	gde	_	_	_	_	_	_	_	_	O
 32	je	_	_	_	_	_	_	_	_	O
@@ -113,9 +113,9 @@
 17	biće	_	_	_	_	_	_	_	_	O
 18	oživljen	_	_	_	_	_	_	_	_	O
 19	na	_	_	_	_	_	_	_	_	O
-20	sceni	_	_	_	_	_	_	_	_	B-LOC
-21	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	I-LOC
-22	Duška	_	_	_	_	_	_	_	_	I-LOC
+20	sceni	_	_	_	_	_	_	_	_	O
+21	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+22	Duška	_	_	_	_	_	_	_	_	B-LOC
 23	Radovića	_	_	_	_	_	_	_	SpaceAfter=No	I-LOC
 24	“	“	PUNCT	Z	_	_	_	_	_	O
 25	kroz	_	_	_	_	_	_	_	_	O
@@ -360,7 +360,7 @@
 5	pozorištu	_	_	_	_	_	_	_	_	I-LOC
 6	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	I-LOC
 7	Duško	_	_	_	_	_	_	_	_	I-LOC
-8	Radović	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	Radović	_	_	_	_	_	_	_	SpaceAfter=No	I-LOC
 9	“	“	PUNCT	Z	_	_	_	_	_	O
 10	otvorena	_	_	_	_	_	_	_	_	O
 11	je	_	_	_	_	_	_	_	_	O
@@ -374,7 +374,7 @@
 19	izvođenjem	_	_	_	_	_	_	_	_	O
 20	predstave	_	_	_	_	_	_	_	_	O
 21	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
-22	Tesla	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
+22	Tesla	_	_	_	_	_	_	_	SpaceAfter=No	O
 23	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 24	,	,	PUNCT	Z	_	_	_	_	_	O
 25	a	_	_	_	_	_	_	_	_	O

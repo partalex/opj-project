@@ -245,7 +245,7 @@
 # sent_id = 5.5
 # text = Hvala Bogu da je bilo uspešno, posle je počela da pada kiša.
 1	Hvala	_	_	_	_	_	_	_	_	O
-2	Bogu	_	_	_	_	_	_	_	_	O
+2	Bogu	_	_	_	_	_	_	_	_	B-PER
 3	da	_	_	_	_	_	_	_	_	O
 4	je	_	_	_	_	_	_	_	_	O
 5	bilo	_	_	_	_	_	_	_	_	O
@@ -512,7 +512,7 @@
 10	druge	_	_	_	_	_	_	_	_	O
 11	koleginice	_	_	_	_	_	_	_	_	O
 12	iz	_	_	_	_	_	_	_	_	O
-13	reprezentacije	_	_	_	_	_	_	_	_	O
+13	reprezentacije	_	_	_	_	_	_	_	_	B-ORG
 14	nisu	_	_	_	_	_	_	_	_	O
 15	plasirale	_	_	_	_	_	_	_	_	O
 16	u	_	_	_	_	_	_	_	_	O

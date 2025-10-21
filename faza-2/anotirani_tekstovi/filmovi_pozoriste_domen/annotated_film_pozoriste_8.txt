@@ -415,13 +415,13 @@
 # text = Igraju polaznici “A” grupe pozorišnog studija Studio Centra
 1	Igraju	_	_	_	_	_	_	_	_	O
 2	polaznici	_	_	_	_	_	_	_	_	O
-3	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	B-ORG
-4	A	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
-5	”	”	PUNCT	Z	_	_	_	_	_	I-ORG
-6	grupe	_	_	_	_	_	_	_	_	I-ORG
-7	pozorišnog	_	_	_	_	_	_	_	_	I-ORG
-8	studija	_	_	_	_	_	_	_	_	I-ORG
-9	Studio	_	_	_	_	_	_	_	_	I-ORG
+3	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+4	A	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	”	”	PUNCT	Z	_	_	_	_	_	O
+6	grupe	_	_	_	_	_	_	_	_	O
+7	pozorišnog	_	_	_	_	_	_	_	_	O
+8	studija	_	_	_	_	_	_	_	_	O
+9	Studio	_	_	_	_	_	_	_	_	B-ORG
 10	Centra	_	_	_	_	_	_	_	_	I-ORG
 
 # newpar id = 13

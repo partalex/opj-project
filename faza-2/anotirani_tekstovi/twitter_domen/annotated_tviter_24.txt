@@ -16,7 +16,7 @@
 1	Bronzana	_	_	_	_	_	_	_	_	O
 2	medalja	_	_	_	_	_	_	_	_	O
 3	za	_	_	_	_	_	_	_	_	O
-4	Srbiju	_	_	_	_	_	_	_	_	B-LOC
+4	Srbiju	_	_	_	_	_	_	_	_	B-ORG
 5	na	_	_	_	_	_	_	_	_	O
 6	Svetskom	_	_	_	_	_	_	_	_	B-ORG
 7	prvenstvu	_	_	_	_	_	_	_	_	I-ORG

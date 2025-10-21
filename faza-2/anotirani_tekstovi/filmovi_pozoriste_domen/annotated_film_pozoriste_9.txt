@@ -6,8 +6,8 @@
 # text = Dvanaesto izdanje Bašta Festa, internacionalnog festivala kratkog igranog filma koji se održava od 3. do 6. jula 2025. u Bajinoj Bašti, otvoriće glumica Nevena Nerandžić.
 1	Dvanaesto	_	_	_	_	_	_	_	_	O
 2	izdanje	_	_	_	_	_	_	_	_	O
-3	Bašta	_	_	_	_	_	_	_	_	O
-4	Festa	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	Bašta	_	_	_	_	_	_	_	_	B-ORG
+4	Festa	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 5	,	,	PUNCT	Z	_	_	_	_	_	O
 6	internacionalnog	_	_	_	_	_	_	_	_	O
 7	festivala	_	_	_	_	_	_	_	_	O
@@ -92,8 +92,8 @@
 19	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 20	,	,	PUNCT	Z	_	_	_	_	_	O
 21	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
-22	Krunska	_	_	_	_	_	_	_	_	B-LOC
-23	11	_	_	_	_	_	_	_	SpaceAfter=No	I-LOC
+22	Krunska	_	_	_	_	_	_	_	_	O
+23	11	_	_	_	_	_	_	_	SpaceAfter=No	O
 24	″	″	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 25	,	,	PUNCT	Z	_	_	_	_	_	O
 26	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
@@ -135,8 +135,8 @@
 14	mnogo	_	_	_	_	_	_	_	_	O
 15	slušala	_	_	_	_	_	_	_	_	O
 16	o	_	_	_	_	_	_	_	_	O
-17	Bašta	_	_	_	_	_	_	_	_	O
-18	Festu	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	Bašta	_	_	_	_	_	_	_	_	B-ORG
+18	Festu	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 19	,	,	PUNCT	Z	_	_	_	_	_	O
 20	o	_	_	_	_	_	_	_	_	O
 21	vatrometu	_	_	_	_	_	_	_	_	O
@@ -260,7 +260,7 @@
 14	posebnog	_	_	_	_	_	_	_	_	O
 15	u	_	_	_	_	_	_	_	_	O
 16	atmosferi	_	_	_	_	_	_	_	_	O
-17	Bašte	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	Bašte	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
 18	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 4.2
@@ -355,8 +355,8 @@
 # text = Prethodnih godina Bašta Fest otvorili su Nikola Rakočević, Slaven Došlo, Marko Janketić, Hana Selimović, Milan Marić, Isidora Simijonović, Filip Đurić, Ivana Vuković, Milica Janevski, Mladen Sovilj, Milena Radulović i Ivana Zečević.
 1	Prethodnih	_	_	_	_	_	_	_	_	O
 2	godina	_	_	_	_	_	_	_	_	O
-3	Bašta	_	_	_	_	_	_	_	_	O
-4	Fest	_	_	_	_	_	_	_	_	O
+3	Bašta	_	_	_	_	_	_	_	_	B-ORG
+4	Fest	_	_	_	_	_	_	_	_	I-ORG
 5	otvorili	_	_	_	_	_	_	_	_	O
 6	su	_	_	_	_	_	_	_	_	O
 7	Nikola	_	_	_	_	_	_	_	_	B-PER
@@ -490,8 +490,8 @@
 33	na	_	_	_	_	_	_	_	_	O
 34	pozitivno	_	_	_	_	_	_	_	_	O
 35	pozicioniranje	_	_	_	_	_	_	_	_	O
-36	Bašta	_	_	_	_	_	_	_	_	O
-37	Festa	_	_	_	_	_	_	_	_	O
+36	Bašta	_	_	_	_	_	_	_	_	B-ORG
+37	Festa	_	_	_	_	_	_	_	_	I-ORG
 38	među	_	_	_	_	_	_	_	_	O
 39	internacionalnim	_	_	_	_	_	_	_	_	O
 40	festivalima	_	_	_	_	_	_	_	_	O
@@ -502,8 +502,8 @@
 # newpar id = 8
 # sent_id = 8.1
 # text = Bašta Fest je od izuzetnog značaja za decentralizaciju kulture, budući da je usmerio raznolik filmski, muzički, edukativni i prateći program na ovu predivnu regiju.
-1	Bašta	_	_	_	_	_	_	_	_	O
-2	Fest	_	_	_	_	_	_	_	_	O
+1	Bašta	_	_	_	_	_	_	_	_	B-ORG
+2	Fest	_	_	_	_	_	_	_	_	I-ORG
 3	je	_	_	_	_	_	_	_	_	O
 4	od	_	_	_	_	_	_	_	_	O
 5	izuzetnog	_	_	_	_	_	_	_	_	O
@@ -586,8 +586,8 @@
 # sent_id = 9.1
 # text = Program Bašta Festa se održava na otvorenom i besplatan je za posetioce.
 1	Program	_	_	_	_	_	_	_	_	O
-2	Bašta	_	_	_	_	_	_	_	_	O
-3	Festa	_	_	_	_	_	_	_	_	O
+2	Bašta	_	_	_	_	_	_	_	_	B-ORG
+3	Festa	_	_	_	_	_	_	_	_	I-ORG
 4	se	_	_	_	_	_	_	_	_	O
 5	održava	_	_	_	_	_	_	_	_	O
 6	na	_	_	_	_	_	_	_	_	O

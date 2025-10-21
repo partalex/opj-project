@@ -323,7 +323,7 @@
 # newpar id = 10
 # sent_id = 10.1
 # text = Retajo je naglasio nultu toleranciju za bilo kakvu štetu na javnim ili simboličnim zgradama, uključujući parlamentarne skupštine i sedišta izvršne i sudske vlasti.
-1	Retajo	_	_	_	_	_	_	_	_	O
+1	Retajo	_	_	_	_	_	_	_	_	B-PER
 2	je	_	_	_	_	_	_	_	_	O
 3	naglasio	_	_	_	_	_	_	_	_	O
 4	nultu	_	_	_	_	_	_	_	_	O

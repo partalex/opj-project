@@ -7,7 +7,7 @@
 1	Večeras	_	_	_	_	_	_	_	_	O
 2	u	_	_	_	_	_	_	_	_	O
 3	emisiji	_	_	_	_	_	_	_	_	O
-4	N1	_	_	_	_	_	_	_	_	O
+4	N1	_	_	_	_	_	_	_	_	B-ORG
 5	direktno	_	_	_	_	_	_	_	_	O
 6	pratimo	_	_	_	_	_	_	_	_	O
 7	proteste	_	_	_	_	_	_	_	_	O
@@ -24,9 +24,9 @@
 # sent_id = 2.1
 # text = Student Fakulteta tehničkih nauka iz Novog Sada Bogdan Jovičić i dalje štrajkuje glađu nakon što mu je produžen pritvor.
 1	Student	_	_	_	_	_	_	_	_	O
-2	Fakulteta	_	_	_	_	_	_	_	_	O
-3	tehničkih	_	_	_	_	_	_	_	_	O
-4	nauka	_	_	_	_	_	_	_	_	O
+2	Fakulteta	_	_	_	_	_	_	_	_	B-ORG
+3	tehničkih	_	_	_	_	_	_	_	_	I-ORG
+4	nauka	_	_	_	_	_	_	_	_	I-ORG
 5	iz	_	_	_	_	_	_	_	_	O
 6	Novog	_	_	_	_	_	_	_	_	B-LOC
 7	Sada	_	_	_	_	_	_	_	_	I-LOC
@@ -55,7 +55,7 @@
 7	u	_	_	_	_	_	_	_	_	O
 8	pritvorsku	_	_	_	_	_	_	_	_	O
 9	bolnicu	_	_	_	_	_	_	_	_	O
-10	CZ-a	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	CZ-a	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
 11	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 2.3
@@ -229,7 +229,7 @@
 12	pokazuje	_	_	_	_	_	_	_	_	O
 13	vojna	_	_	_	_	_	_	_	_	O
 14	moć	_	_	_	_	_	_	_	_	O
-15	Srbije	_	_	_	_	_	_	_	_	B-LOC
+15	Srbije	_	_	_	_	_	_	_	_	B-ORG
 16	ili	_	_	_	_	_	_	_	_	O
 17	se	_	_	_	_	_	_	_	_	O
 18	komšijama	_	_	_	_	_	_	_	_	O
@@ -248,15 +248,15 @@
 31	vojnopolitičkim	_	_	_	_	_	_	_	_	O
 32	komentatorima	_	_	_	_	_	_	_	_	O
 33	iz	_	_	_	_	_	_	_	_	O
-34	Zagreba	_	_	_	_	_	_	_	_	O
+34	Zagreba	_	_	_	_	_	_	_	_	B-LOC
 35	i	_	_	_	_	_	_	_	_	O
-36	Sarajeva	_	_	_	_	_	_	_	SpaceAfter=No	O
+36	Sarajeva	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 37	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 6
 # sent_id = 6.1
 # text = N1 Direktno sa Danicom Vučenić od 20 sati.
-1	N1	_	_	_	_	_	_	_	_	O
+1	N1	_	_	_	_	_	_	_	_	B-ORG
 2	Direktno	_	_	_	_	_	_	_	_	O
 3	sa	_	_	_	_	_	_	_	_	O
 4	Danicom	_	_	_	_	_	_	_	_	B-PER

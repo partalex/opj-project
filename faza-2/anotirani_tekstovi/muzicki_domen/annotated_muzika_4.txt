@@ -183,8 +183,8 @@
 9	otmete	_	_	_	_	_	_	_	_	O
 10	utisku	_	_	_	_	_	_	_	_	O
 11	da	_	_	_	_	_	_	_	_	O
-12	Buč	_	_	_	_	_	_	_	_	O
-13	Kesidi	_	_	_	_	_	_	_	_	O
+12	Buč	_	_	_	_	_	_	_	_	B-ORG
+13	Kesidi	_	_	_	_	_	_	_	_	I-ORG
 14	potajno	_	_	_	_	_	_	_	_	O
 15	ne	_	_	_	_	_	_	_	_	O
 16	želi	_	_	_	_	_	_	_	_	O
@@ -842,7 +842,7 @@
 7	glavnu	_	_	_	_	_	_	_	_	O
 8	reč	_	_	_	_	_	_	_	_	O
 9	vodi	_	_	_	_	_	_	_	_	O
-10	Racić	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	Racić	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 11	,	,	PUNCT	Z	_	_	_	_	_	O
 12	kao	_	_	_	_	_	_	_	_	O
 13	na	_	_	_	_	_	_	_	_	O

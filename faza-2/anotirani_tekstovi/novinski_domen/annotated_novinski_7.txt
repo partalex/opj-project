@@ -17,8 +17,8 @@
 11	meseca	_	_	_	_	_	_	_	_	O
 12	nestala	_	_	_	_	_	_	_	_	O
 13	iz	_	_	_	_	_	_	_	_	O
-14	egipatskog	_	_	_	_	_	_	_	_	B-LOC
-15	muzeja	_	_	_	_	_	_	_	SpaceAfter=No	I-LOC
+14	egipatskog	_	_	_	_	_	_	_	_	O
+15	muzeja	_	_	_	_	_	_	_	SpaceAfter=No	O
 16	,	,	PUNCT	Z	_	_	_	_	_	O
 17	ukradena	_	_	_	_	_	_	_	_	O
 18	je	_	_	_	_	_	_	_	_	O
@@ -131,7 +131,7 @@
 7	u	_	_	_	_	_	_	_	_	O
 8	istorijskom	_	_	_	_	_	_	_	_	O
 9	delu	_	_	_	_	_	_	_	_	O
-10	Kaira	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	Kaira	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 11	,	,	PUNCT	Z	_	_	_	_	_	O
 12	koji	_	_	_	_	_	_	_	_	O
 13	je	_	_	_	_	_	_	_	_	O
@@ -186,9 +186,9 @@
 7	planiranog	_	_	_	_	_	_	_	_	O
 8	novembarskog	_	_	_	_	_	_	_	_	O
 9	otvaranja	_	_	_	_	_	_	_	_	O
-10	Velikog	_	_	_	_	_	_	_	_	O
-11	egipatskog	_	_	_	_	_	_	_	_	O
-12	muzeja	_	_	_	_	_	_	_	_	O
+10	Velikog	_	_	_	_	_	_	_	_	B-ORG
+11	egipatskog	_	_	_	_	_	_	_	_	I-ORG
+12	muzeja	_	_	_	_	_	_	_	_	I-ORG
 13	u	_	_	_	_	_	_	_	_	O
 14	blizini	_	_	_	_	_	_	_	_	O
 15	piramida	_	_	_	_	_	_	_	_	O

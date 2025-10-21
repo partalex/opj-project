@@ -1,6 +1,5 @@
 I faza
 1. Zavrsiti dokumentaciju za fazu I
-2. Videti zasto se muzika 6 tekst ne tokenizuje dobro
 
 II faza
 1. Oznaciti ponovo tekstove po dogovorenim pravilima

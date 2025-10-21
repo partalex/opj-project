@@ -67,7 +67,7 @@
 1	RADUJ	_	_	_	_	_	_	_	_	O
 2	SE	_	_	_	_	_	_	_	SpaceAfter=No	O
 3	,	,	PUNCT	Z	_	_	_	_	_	O
-4	SRBIJO	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+4	SRBIJO	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
 5	!	!	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 3.2

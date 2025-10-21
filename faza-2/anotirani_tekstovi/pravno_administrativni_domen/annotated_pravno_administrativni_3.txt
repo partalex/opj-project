@@ -137,8 +137,8 @@
 18	presude	_	_	_	_	_	_	_	_	O
 19	Apelacionog	_	_	_	_	_	_	_	_	B-ORG
 20	suda	_	_	_	_	_	_	_	_	I-ORG
-21	u	_	_	_	_	_	_	_	_	O
-22	Beogradu	_	_	_	_	_	_	_	_	B-LOC
+21	u	_	_	_	_	_	_	_	_	I-ORG
+22	Beogradu	_	_	_	_	_	_	_	_	I-ORG
 23	Gž	_	_	_	_	_	_	_	_	O
 24	3922/22	_	_	_	_	_	_	_	_	O
 25	od	_	_	_	_	_	_	_	_	O
@@ -183,8 +183,8 @@
 14	presude	_	_	_	_	_	_	_	_	O
 15	Apelacionog	_	_	_	_	_	_	_	_	B-ORG
 16	suda	_	_	_	_	_	_	_	_	I-ORG
-17	u	_	_	_	_	_	_	_	_	O
-18	Beogradu	_	_	_	_	_	_	_	_	B-LOC
+17	u	_	_	_	_	_	_	_	_	I-ORG
+18	Beogradu	_	_	_	_	_	_	_	_	I-ORG
 19	Gž	_	_	_	_	_	_	_	_	O
 20	3922/22	_	_	_	_	_	_	_	_	O
 21	od	_	_	_	_	_	_	_	_	O
@@ -213,8 +213,8 @@
 1	Presudom	_	_	_	_	_	_	_	_	O
 2	Prvog	_	_	_	_	_	_	_	_	B-ORG
 3	osnovnog	_	_	_	_	_	_	_	_	I-ORG
-4	suda	_	_	_	_	_	_	_	_	O
-5	u	_	_	_	_	_	_	_	_	B-LOC
+4	suda	_	_	_	_	_	_	_	_	I-ORG
+5	u	_	_	_	_	_	_	_	_	I-ORG
 6	Beogradu	_	_	_	_	_	_	_	_	O
 7	P	_	_	_	_	_	_	_	_	O
 8	26646/2012	_	_	_	_	_	_	_	_	O
@@ -337,8 +337,8 @@
 1	Presudom	_	_	_	_	_	_	_	_	O
 2	Apelacionog	_	_	_	_	_	_	_	_	B-ORG
 3	suda	_	_	_	_	_	_	_	_	I-ORG
-4	u	_	_	_	_	_	_	_	_	O
-5	Beogradu	_	_	_	_	_	_	_	_	O
+4	u	_	_	_	_	_	_	_	_	I-ORG
+5	Beogradu	_	_	_	_	_	_	_	_	I-ORG
 6	Gž	_	_	_	_	_	_	_	_	O
 7	3922/22	_	_	_	_	_	_	_	_	O
 8	od	_	_	_	_	_	_	_	_	O
@@ -365,8 +365,8 @@
 29	Prvog	_	_	_	_	_	_	_	_	B-ORG
 30	osnovnog	_	_	_	_	_	_	_	_	I-ORG
 31	suda	_	_	_	_	_	_	_	_	I-ORG
-32	u	_	_	_	_	_	_	_	_	O
-33	Beogradu	_	_	_	_	_	_	_	_	B-LOC
+32	u	_	_	_	_	_	_	_	_	I-ORG
+33	Beogradu	_	_	_	_	_	_	_	_	I-ORG
 34	P	_	_	_	_	_	_	_	_	O
 35	26646/2012	_	_	_	_	_	_	_	_	O
 36	od	_	_	_	_	_	_	_	_	O

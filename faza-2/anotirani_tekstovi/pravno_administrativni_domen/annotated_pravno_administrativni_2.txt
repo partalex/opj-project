@@ -103,8 +103,8 @@
 6	Srbije	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 7	“	“	PUNCT	Z	_	_	_	_	_	I-ORG
 8	a.	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
-9	d.	_	_	_	_	_	_	_	_	O
-10	Beograd	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	d.	_	_	_	_	_	_	_	_	I-ORG
+10	Beograd	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 11	,	,	PUNCT	Z	_	_	_	_	_	O
 12	radi	_	_	_	_	_	_	_	_	O
 13	utvrđenja	_	_	_	_	_	_	_	_	O
@@ -124,8 +124,8 @@
 27	presude	_	_	_	_	_	_	_	_	O
 28	Apelacionog	_	_	_	_	_	_	_	_	B-ORG
 29	suda	_	_	_	_	_	_	_	_	I-ORG
-30	u	_	_	_	_	_	_	_	_	O
-31	Beogradu	_	_	_	_	_	_	_	_	B-LOC
+30	u	_	_	_	_	_	_	_	_	I-ORG
+31	Beogradu	_	_	_	_	_	_	_	_	I-ORG
 32	Gž1	_	_	_	_	_	_	_	_	O
 33	2084/24	_	_	_	_	_	_	_	_	O
 34	od	_	_	_	_	_	_	_	_	O
@@ -167,8 +167,8 @@
 11	presude	_	_	_	_	_	_	_	_	O
 12	Apelacionog	_	_	_	_	_	_	_	_	B-ORG
 13	suda	_	_	_	_	_	_	_	_	I-ORG
-14	u	_	_	_	_	_	_	_	_	O
-15	Beogradu	_	_	_	_	_	_	_	_	B-LOC
+14	u	_	_	_	_	_	_	_	_	I-ORG
+15	Beogradu	_	_	_	_	_	_	_	_	I-ORG
 16	Gž1	_	_	_	_	_	_	_	_	O
 17	2084/24	_	_	_	_	_	_	_	_	O
 18	od	_	_	_	_	_	_	_	_	O
@@ -190,8 +190,8 @@
 9	presude	_	_	_	_	_	_	_	_	O
 10	Apelacionog	_	_	_	_	_	_	_	_	B-ORG
 11	suda	_	_	_	_	_	_	_	_	I-ORG
-12	u	_	_	_	_	_	_	_	_	O
-13	Beogradu	_	_	_	_	_	_	_	_	B-LOC
+12	u	_	_	_	_	_	_	_	_	I-ORG
+13	Beogradu	_	_	_	_	_	_	_	_	I-ORG
 14	Gž1	_	_	_	_	_	_	_	_	O
 15	2084/24	_	_	_	_	_	_	_	_	O
 16	od	_	_	_	_	_	_	_	_	O
@@ -220,8 +220,8 @@
 1	Presudom	_	_	_	_	_	_	_	_	O
 2	Apelacionog	_	_	_	_	_	_	_	_	B-ORG
 3	suda	_	_	_	_	_	_	_	_	I-ORG
-4	u	_	_	_	_	_	_	_	_	O
-5	Beogradu	_	_	_	_	_	_	_	_	B-LOC
+4	u	_	_	_	_	_	_	_	_	I-ORG
+5	Beogradu	_	_	_	_	_	_	_	_	I-ORG
 6	Gž1	_	_	_	_	_	_	_	_	O
 7	2084/24	_	_	_	_	_	_	_	_	O
 8	od	_	_	_	_	_	_	_	_	O
@@ -240,8 +240,8 @@
 21	Prvog	_	_	_	_	_	_	_	_	B-ORG
 22	osnovnog	_	_	_	_	_	_	_	_	I-ORG
 23	suda	_	_	_	_	_	_	_	_	I-ORG
-24	u	_	_	_	_	_	_	_	_	O
-25	Beogradu	_	_	_	_	_	_	_	_	B-PER
+24	u	_	_	_	_	_	_	_	_	I-ORG
+25	Beogradu	_	_	_	_	_	_	_	_	I-ORG
 26	P1	_	_	_	_	_	_	_	_	O
 27	3906/23	_	_	_	_	_	_	_	_	O
 28	od	_	_	_	_	_	_	_	_	O
@@ -442,7 +442,7 @@
 54	tužbeni	_	_	_	_	_	_	_	_	O
 55	zahtev	_	_	_	_	_	_	_	_	O
 56	tužilje	_	_	_	_	_	_	_	_	O
-57	VV	_	_	_	_	_	_	_	_	O
+57	VV	_	_	_	_	_	_	_	_	B-PER
 58	da	_	_	_	_	_	_	_	_	O
 59	se	_	_	_	_	_	_	_	_	O
 60	utvrdi	_	_	_	_	_	_	_	_	O
@@ -536,7 +536,7 @@
 54	tužbeni	_	_	_	_	_	_	_	_	O
 55	zahtev	_	_	_	_	_	_	_	_	O
 56	tužioca	_	_	_	_	_	_	_	_	O
-57	GG	_	_	_	_	_	_	_	_	O
+57	GG	_	_	_	_	_	_	_	_	B-PER
 58	da	_	_	_	_	_	_	_	_	O
 59	se	_	_	_	_	_	_	_	_	O
 60	utvrdi	_	_	_	_	_	_	_	_	O
@@ -737,8 +737,8 @@
 30	je	_	_	_	_	_	_	_	_	O
 31	po	_	_	_	_	_	_	_	_	O
 32	oceni	_	_	_	_	_	_	_	_	O
-33	Vrhovnog	_	_	_	_	_	_	_	_	O
-34	suda	_	_	_	_	_	_	_	_	O
+33	Vrhovnog	_	_	_	_	_	_	_	_	B-ORG
+34	suda	_	_	_	_	_	_	_	_	I-ORG
 35	potrebno	_	_	_	_	_	_	_	_	O
 36	da	_	_	_	_	_	_	_	_	O
 37	se	_	_	_	_	_	_	_	_	O

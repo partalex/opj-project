@@ -1,0 +1,47 @@
+Prva faza projekta obuhvata prikupljanje tekstova neophodnih za evaluaciju i treniranje modela. Cilj prve faze je prikupljanje tekstova koji pokrivaju više različitih domena i to na način koji omogućava reprezentativni prikaz domena pokrivajući razlićite aspekte specifičnog domena i biranje tekstova koji u sebi sadrže željene kategorije anotacije i evaluacije. Grupa se sastoji od 5 članova, stoga je bilo neophodno pokriti 6 domena i prikupiti 5000 do 6000 tokena iz izabranih domena. Domeni koji su izabrani su književni, pravno-administrativni, novinski, muzički, filmsko-pozorišni i tviter domen. Ovi domeni su izabrani jer u velikoj meri oslikavaju različite načine korišćenja jezika, kako neformalno, kroz tviter domen, tako i književnog jezika kroz književni domen. Za svaki od domena je cilj bio sagledati specifične aspekte koji ga opisuju i pokušati prikupljanje tekstova tako da što bolje pokriju željeni aspekt. Iz svake od kategorija je svaki od članova tima prikupljao po 1000 tokena. 
+
+Specifični aspekti novinskog domena su bili različite strane političkog spektra kao i različite kategorije tekstova novinskih agencijakao što su sport i vesti iz zemlje i sveta. Novinski domen se pokazao značajno manje izazovnim u odnosu na domene koji obuhvataju kulturne delatnosti na neki način. Izvori su mnogobrojni, svake novine za sebe predstavljaju ogroman izvor tekstova. Takođe način pisanja je jako koncizan i takav da uglavnom se tekstovi, pogotovo za politiku i sport,sastoje od kraćih rečenica sa dosta informacija u kojima se nalaze uvek bar neki entitet a često i sva tri. Obuhvaćeni su različiti izvori, sa različitim stavovima. Takođe fokus nije bio samo na pronalaženje teksta vezano za domaću politiku i dešavanja, već je aktivno podstaknuta i pretraga vesti vezanih za inostrana dešavanja time obuhvatajući i mogućnost obrade stranih naziva.
+Sajtovi sa kog su preuzeti novinski članci su:
+1. Blic (https://www.blic.rs)
+2. N1 info (https://n1info.rs) 
+3. Nova (https://nova.rs) 
+4. Sport Klub (https://sportklub.n1info.rs) 
+5. Nin (https://www.nin.rs )
+6. Sportal u okviru Blic-a (https://sportal.blic.rs)
+7. Politika (https://www.politika.rs) 
+8. Forbes u okviru N1 info (https://forbes.n1info.rs) 
+9. Rts (https://rts.rs )
+Broj sakupljenih tekstova su raspoređeni u 23 fajla. Može se primetiti značajno veća količina fajlova u odnosu na domen kulture u svakom smislu, usled manjih tekstova u pojedinačnim vestima i člancima.
+Broj tokena prikljupen za novinski domen je 8300. Što jasno ukazuje potrebu za celim tekstom usled njegove konciznosti bez rasparčavanja, kao i dostupnost tesktova koji zadovoljavaju kriterijume.
+
+Tekstovi pravno-administrativnog domena koji su izabrani su presude Vrhovnog suda u Beogradu jer sadrže sve tri kategorije evaluacije. Tekstovi pravno-administrativnog domena su svi imali problem manjkavosti raznolikosti potencijalnih entiteta. Takođe često se koriste samo inicijali ukoliko se radi o osobama koje nisu sudije, advokati itd.. Stoga akcenat je postavljen da se generalno traže tekstovi sa raznovrsnijim entitetima za svaku grupu, iako sam njihov broj je generalno mali procentualno u odnosu na ostatak teksta.
+Sajtovi sa kog su uzeti tekstovi za pravni domen:
+1. Sajt Vrhovnog suda (https://www.vrh.sud.rs)
+Broj sakupljenih fajlova je 11, a prikupljenih tokena nakon tokenizacije oko 8600.
+
+Tekstovi koji pripadaju književnom domenu su izabrani iz dela koja su prevedeni na srpski jezik kao i dela koja su u originalnom izdanju na srpskom jeziku. Takođe su za ovaj domen izabrani tekstovi moderne i klasične književnosti. Tekstovi birani za književni domen su uglavnom sa sajtova knjižara, na kojima je bila dostupna opcija delimičnog pregleda izabrane knjige. Izazov je bilo naći književne tekstove gde u prva dva poglavlja (pošto pregled knjige uglavnom sadrži svega par početnih poglavlja) postoji dovoljan broj entiteta od interesa. Tokom faze prikupljanja tekstova za književni domen, primećeno je da je jednostavnije naći tekstove sa potencijalno dovoljnim brojem različitih eniteta za PER anotaciju i LOC, ali ne toliko za ORG. Pronalaženje tekstova koji sadrže entitet ORG je bilo izazovnije s obzirom da retko koje književno delo u početku sadrži ime organizacije. 
+Tekstovi su pronađeni na sajtovima od knjižara Laguna i Delfi zbog količine sadržaja i omogućenih tekstova.  Primećeno je da najčešće dovoljan broj za sve tri anotacije sadrže najviše književni rodovi poput putopisa i istorijskih romana. Međutim radi pokrivanja što većeg spektra književnih tipova, podstaknut je dodatni trud za pretragom tekstova koji pripadaju klasičnoj književnosti, fantaziji itd.
+Broj sakupljenih fajlova u književnom domenu je 7, gde svaki fajl sadrži deo teksta iz druge knjige. Sveukupan broj tokena nakon tokenizacije prikupljenih tekstova za književni domen je oko 7900 tokena.
+
+Tviter domen je pokriven tekstovima informativnog karaktera kao i onim koji opisuju dnevni život ljudi. Tviter kao domen sadrži najveći broj pojedinačnih fajlova, usled generalnog ograničena na broj karaktera za tekst i time značajno smanjujući dužinu tekstova. Pošto je na tviteru uglavnom neformalan govor, bilo je potrebno dosta vremena naći tvitove koji sadrže sve entitete. Zajedničkim dogovorom dozvoljeno je odabir tvitova koji sadrže i po dva potencijalna entiteta, ali da u svekupnom korpusu tekstova budu zastupljeni sva tri tipa entiteta. Često se dešava nemanja raznolikosti u okviru jednog tvita, međutim to je nadomešteno broju tvitova koji su nađeni. Ispostavilo se da tvitovi vezani za sport i politiku poput tekstova iz domena novosti najviše sadrže tražene entitete, stoga je akcenat pao na njih. Ali je podržano traženje i komentara na različite teme od ljudi i traženje nefrmalnog govora kako bi se i taj aspekat tekstova pokrio. Traženje neformalnih tekstova sa traženim entitetima je iziskivalo dodatni napor, pošto ljudi u komentarima nisu skloni razgovoru o konkretnim organizacijama, lokacijama i imenima. Uglavnom su komentari kratke i strastvene prirode. Ukoliko je tekst kratak, ima 2-4,5 rečenica dozvoljeno je i pojavljivanje svega jednog entiteta u njemu.
+Broj sakupljenih fajlova je 56.
+
+Tekstovi za domen pozoriste i filma su izabrani tako da pokrivaju kritike zasebnih pozorišnih izvođenja ili filmova kao i najave dešavanja tj. raznoraznih festivala posvećenih vidovima umetnosti od značaj . Tekstovi za domen pozoriste i filma su traženi na web stranicama, posvećenih približavanju ovih vidova umetnosti širim masama. Dosta poznatih, i manje poznatih novina u okviru sebe sadrže poseban deo za kulturu što je bio značajan izvor tekstova za biranje. Tokom traženja tekstova primećeno je da ukoliko bi se uzimala kritika nekog dela, kako je akcenat stavljen na glumce dosta enetiteta potencijalno za anotiranje je bilo za PER. Eventualno se ponekad našlo dovoljno entiteta za potencijalne lokacije u smislu gde se održavala izvedba ili tipa premijera. I ponovo teško je bilo naći tekst sa dovoljno različitih entiteta koji bi potencijalno pripadali ORG. Dosta više entiteta za ORG i LOC se našlo u tekstovima čiji su za cilj imali prenos i najavu nekog dešavanja i festivala. Međutim sama priroda ovih tekstova je jako slabo generalno navođenje imena i akcenat je u glavnom na radnji.
+Sajtovi sa kog su prikupljeni tekstovi za konkretan domen su:
+1. Sajt City Magazine, odeljak popkultura (https://citymagazine.danas.rs/popkultura)
+2. Filmske radosti (https://filmske-radosti.com)
+3. Sajt Doma omladine (https://domomladine.org)
+4. Sajt Nova.rs, odeljak kultura (https://nova.rs/kultura)
+5. Sajt Narodnog pozorišta ( https://www.narodnopozoriste.rs)
+6. Univerzitetski odjek, odeljak kultura (https://www.univerzitetskiodjek.com/kultura)
+7. SeeCult – Portal za kulturu Jugoslavije (https://www.seecult.org/)
+Broj sakupljenih fajlova u domenu, koji obuhvata film i pozorište, je 11 fajlova, koji sveukupno sadrže oko 7000 tokena.
+T
+ekstovi prikupljani za muzički domen birani su sa online dostupnih izvora posvećenih muzici što uključuje najavu muzičkih festivala, konkretne kritike vezane za albume, nastupe i uopšteno za bendove. Za tekstove iz ovog domena, nije bio problem nalaženje dovoljnog broja različitih entiteta za sve tri kategorije, već njihova generalna retkost pojavljivanja u tekstovima. Tekstovi su češće bili duže prirode, međutim akcenat ovih tekstova jeste opis i pisanje doživljaja sa konkretnog koncerta što umanjuje potrebu konstantnog navođenja bendova i mesta posle prvog pominjanja. Kako u većini nađenih tekstova postojali su pasusi koji nisu sadržali ni jedan entitet, stoga sakupljanje teksta se ograničilo na njihove delove koji su sadržali zadovoljavajući broj entiteta. Ukratko nisu uzeti celi tekstovi. 
+Fokus je jednim delom bio na pronalasku članaka sa festivala, kako se na njima pojavljuje veći broj bendova samim tim vise imenovanih entiteta za anotiranje.
+Naravno razmatran je spektar tekstova tako da se uključe različiti žanrovi muzike, što od metal muzike do nastupa klasične, samim tim obuhvaćen veći broj različitih termina koji se koriste za njihove opise i time omogućeno raznovrsnost samih tekstova i izražavanja.
+Online sajtovi sa kog su prikljupeni tekstovi za konkretan domen su:
+1. Balkanrock (https://balkanrock.com)
+2. Sajt Klasicni Mirko (https://www.klasicnimirko.com/muzicke-kritike)
+3. Muzički Limbo (https://muzickilimbo.rs) 
+Broj sakupljenih fajlova za muzički domen jeste 15, koji sadrže oko 6330 tokena.

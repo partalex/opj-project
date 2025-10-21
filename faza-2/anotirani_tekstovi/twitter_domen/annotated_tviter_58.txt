@@ -27,9 +27,9 @@
 21	za	_	_	_	_	_	_	_	_	I-ORG
 22	elektronske	_	_	_	_	_	_	_	_	I-ORG
 23	medije	_	_	_	_	_	_	_	_	I-ORG
-24	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	I-ORG
-25	REM	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
-26	)	)	PUNCT	Z	_	_	_	_	SpaceAfter=No	I-ORG
+24	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+25	REM	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
+26	)	)	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 27	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 1.2

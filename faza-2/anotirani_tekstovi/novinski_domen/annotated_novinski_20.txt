@@ -190,7 +190,7 @@
 15	,	,	PUNCT	Z	_	_	_	_	_	O
 16	dodaje	_	_	_	_	_	_	_	_	O
 17	saradnik	_	_	_	_	_	_	_	_	O
-18	Forbes	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	Forbes	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
 19	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 4

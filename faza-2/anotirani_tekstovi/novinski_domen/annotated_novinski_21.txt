@@ -26,7 +26,7 @@
 20	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 21	fluksus	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
 22	/	/	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
-23	neo-dada	_	_	_	_	_	_	_	SpaceAfter=No	O
+23	neo-dada	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
 24	)	)	PUNCT	Z	_	_	_	_	_	O
 25	ili	_	_	_	_	_	_	_	_	O
 26	Fakultet	_	_	_	_	_	_	_	_	B-ORG
@@ -43,7 +43,7 @@
 4	je	_	_	_	_	_	_	_	_	O
 5	za	_	_	_	_	_	_	_	_	O
 6	čitaoce	_	_	_	_	_	_	_	_	O
-7	RTS-a	_	_	_	_	_	_	_	_	O
+7	RTS-a	_	_	_	_	_	_	_	_	B-ORG
 8	od	_	_	_	_	_	_	_	_	O
 9	interesa	_	_	_	_	_	_	_	_	O
 10	sudelovanje	_	_	_	_	_	_	_	_	O
@@ -68,7 +68,7 @@
 4	je	_	_	_	_	_	_	_	_	O
 5	omaž	_	_	_	_	_	_	_	_	O
 6	staroj	_	_	_	_	_	_	_	_	O
-7	Jugoslaviji	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	Jugoslaviji	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 8	,	,	PUNCT	Z	_	_	_	_	_	O
 9	video-spomenar	_	_	_	_	_	_	_	_	O
 10	posvećen	_	_	_	_	_	_	_	_	O
@@ -139,7 +139,7 @@
 23	devedesetih	_	_	_	_	_	_	_	_	O
 24	živeli	_	_	_	_	_	_	_	_	O
 25	u	_	_	_	_	_	_	_	_	O
-26	Sloveniji	_	_	_	_	_	_	_	SpaceAfter=No	O
+26	Sloveniji	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
 27	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 5
@@ -197,7 +197,7 @@
 30	,	,	PUNCT	Z	_	_	_	_	_	O
 31	biti	_	_	_	_	_	_	_	_	O
 32	garantovano	_	_	_	_	_	_	_	_	O
-33	slovenačko	_	_	_	_	_	_	_	_	O
+33	slovenačko	_	_	_	_	_	_	_	_	B-ORG
 34	državljanstvo	_	_	_	_	_	_	_	SpaceAfter=No	O
 35	.	.	PUNCT	Z	_	_	_	_	_	O
 
@@ -209,7 +209,7 @@
 3	situacijama	_	_	_	_	_	_	_	_	O
 4	se	_	_	_	_	_	_	_	_	O
 5	u	_	_	_	_	_	_	_	_	O
-6	evropskim	_	_	_	_	_	_	_	_	O
+6	evropskim	_	_	_	_	_	_	_	_	B-LOC
 7	javnostima	_	_	_	_	_	_	_	_	O
 8	često	_	_	_	_	_	_	_	_	O
 9	postavi	_	_	_	_	_	_	_	_	O

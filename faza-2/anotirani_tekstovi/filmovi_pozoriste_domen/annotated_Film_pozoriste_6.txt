@@ -34,8 +34,8 @@
 4	Fakul­te­tu	_	_	_	_	_	_	_	_	B-ORG
 5	dram­skih	_	_	_	_	_	_	_	_	I-ORG
 6	umet­no­sti	_	_	_	_	_	_	_	_	I-ORG
-7	u	_	_	_	_	_	_	_	_	O
-8	Beo­gra­du	_	_	_	_	_	_	_	_	B-LOC
+7	u	_	_	_	_	_	_	_	_	I-ORG
+8	Beo­gra­du	_	_	_	_	_	_	_	_	I-ORG
 9	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 10	1987	_	_	_	_	_	_	_	SpaceAfter=No	O
 11	)	)	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
@@ -55,8 +55,8 @@
 1	U	_	_	_	_	_	_	_	_	O
 2	Narod­nom	_	_	_	_	_	_	_	_	B-ORG
 3	pozo­ri­štu	_	_	_	_	_	_	_	_	I-ORG
-4	u	_	_	_	_	_	_	_	_	O
-5	Beo­gra­du	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+4	u	_	_	_	_	_	_	_	_	I-ORG
+5	Beo­gra­du	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 6	,	,	PUNCT	Z	_	_	_	_	_	O
 7	čiji	_	_	_	_	_	_	_	_	O
 8	je	_	_	_	_	_	_	_	_	O
@@ -171,16 +171,16 @@
 17	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 18	Narod­no	_	_	_	_	_	_	_	_	B-ORG
 19	pozo­ri­šte	_	_	_	_	_	_	_	_	I-ORG
-20	Som­bor	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+20	Som­bor	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 21	)	)	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 22	,	,	PUNCT	Z	_	_	_	_	_	O
 23	Lukre­ci­ja	_	_	_	_	_	_	_	_	O
 24	ili­ti	_	_	_	_	_	_	_	_	O
 25	Žde­ro	_	_	_	_	_	_	_	_	O
 26	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
-27	Pozo­ri­šte	_	_	_	_	_	_	_	_	B-LOC
-28	na	_	_	_	_	_	_	_	_	I-LOC
-29	Tera­zi­ja­ma	_	_	_	_	_	_	_	SpaceAfter=No	I-LOC
+27	Pozo­ri­šte	_	_	_	_	_	_	_	_	B-ORG
+28	na	_	_	_	_	_	_	_	_	I-ORG
+29	Tera­zi­ja­ma	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 30	)	)	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 31	,	,	PUNCT	Z	_	_	_	_	_	O
 32	Skup	_	_	_	_	_	_	_	SpaceAfter=No	O
@@ -251,7 +251,7 @@
 97	HNK	_	_	_	_	_	_	_	_	B-ORG
 98	Iva­na	_	_	_	_	_	_	_	_	I-ORG
 99	pl.	_	_	_	_	_	_	_	_	I-ORG
-100	Zaj­ca	_	_	_	_	_	_	_	SpaceAfter=No	O
+100	Zaj­ca	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
 101	)	)	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 102	,	,	PUNCT	Z	_	_	_	_	_	O
 103	Lukre­ci­ja	_	_	_	_	_	_	_	_	O
@@ -259,7 +259,7 @@
 105	’	’	PUNCT	Z	_	_	_	_	_	O
 106	bimo	_	_	_	_	_	_	_	_	O
 107	rekli	_	_	_	_	_	_	_	_	O
-108	Pože­ruh	_	_	_	_	_	_	_	_	O
+108	Pože­ruh	_	_	_	_	_	_	_	_	B-PER
 109	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 110	Riječ­ke	_	_	_	_	_	_	_	_	B-ORG
 111	let­nje	_	_	_	_	_	_	_	_	I-ORG
@@ -346,7 +346,7 @@
 # text = Posle ras­pa­da Jugo­sla­vi­je prvi je naš redi­telj koji je radio na Dubro­vač­kim ljet­nim igra­ma (Romeo i Juli­ja, 2014).
 1	Posle	_	_	_	_	_	_	_	_	O
 2	ras­pa­da	_	_	_	_	_	_	_	_	O
-3	Jugo­sla­vi­je	_	_	_	_	_	_	_	_	O
+3	Jugo­sla­vi­je	_	_	_	_	_	_	_	_	B-ORG
 4	prvi	_	_	_	_	_	_	_	_	O
 5	je	_	_	_	_	_	_	_	_	O
 6	naš	_	_	_	_	_	_	_	_	O
@@ -445,7 +445,7 @@
 7	Bal­kan	_	_	_	_	_	_	_	_	I-ORG
 8	čita	_	_	_	_	_	_	_	_	I-ORG
 9	Jago­ša	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
-10	”	”	PUNCT	Z	_	_	_	_	_	O
+10	”	”	PUNCT	Z	_	_	_	_	_	I-ORG
 11	u	_	_	_	_	_	_	_	_	O
 12	okvi­ru	_	_	_	_	_	_	_	_	O
 13	koga	_	_	_	_	_	_	_	_	O
@@ -690,8 +690,8 @@
 40	posla­ni­ci	_	_	_	_	_	_	_	_	O
 41	Korin­ća­ni­ma	_	_	_	_	_	_	_	_	O
 42	kaže	_	_	_	_	_	_	_	_	O
-43	apo­stol	_	_	_	_	_	_	_	_	B-PER
-44	Pavle	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+43	apo­stol	_	_	_	_	_	_	_	_	O
+44	Pavle	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
 45	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 46	.	.	PUNCT	Z	_	_	_	_	_	O
 

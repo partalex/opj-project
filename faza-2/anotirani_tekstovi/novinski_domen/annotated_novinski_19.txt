@@ -14,7 +14,7 @@
 8	Donalda	_	_	_	_	_	_	_	_	B-PER
 9	Trampa	_	_	_	_	_	_	_	_	I-PER
 10	za	_	_	_	_	_	_	_	_	O
-11	Ukrajinu	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+11	Ukrajinu	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
 12	,	,	PUNCT	Z	_	_	_	_	_	O
 13	potvrdio	_	_	_	_	_	_	_	_	O
 14	je	_	_	_	_	_	_	_	_	O
@@ -23,7 +23,7 @@
 17	Tramp	_	_	_	_	_	_	_	_	B-PER
 18	dao	_	_	_	_	_	_	_	_	O
 19	odobrenje	_	_	_	_	_	_	_	_	O
-20	Kijevu	_	_	_	_	_	_	_	_	B-LOC
+20	Kijevu	_	_	_	_	_	_	_	_	B-ORG
 21	za	_	_	_	_	_	_	_	_	O
 22	izvođenje	_	_	_	_	_	_	_	_	O
 23	dalekometnih	_	_	_	_	_	_	_	_	O
@@ -57,7 +57,7 @@
 6	Trampov	_	_	_	_	_	_	_	_	B-PER
 7	stav	_	_	_	_	_	_	_	_	O
 8	da	_	_	_	_	_	_	_	_	O
-9	Ukrajina	_	_	_	_	_	_	_	_	B-LOC
+9	Ukrajina	_	_	_	_	_	_	_	_	B-ORG
 10	može	_	_	_	_	_	_	_	_	O
 11	izvoditi	_	_	_	_	_	_	_	_	O
 12	dalekometne	_	_	_	_	_	_	_	_	O
@@ -156,16 +156,16 @@
 4	pitanje	_	_	_	_	_	_	_	_	O
 5	imaju	_	_	_	_	_	_	_	_	O
 6	li	_	_	_	_	_	_	_	_	O
-7	ukrajinske	_	_	_	_	_	_	_	_	B-LOC
-8	snage	_	_	_	_	_	_	_	_	O
+7	ukrajinske	_	_	_	_	_	_	_	_	B-ORG
+8	snage	_	_	_	_	_	_	_	_	I-ORG
 9	dopuštenje	_	_	_	_	_	_	_	_	O
 10	za	_	_	_	_	_	_	_	_	O
 11	korišćenje	_	_	_	_	_	_	_	_	O
 12	oružja	_	_	_	_	_	_	_	_	O
 13	koje	_	_	_	_	_	_	_	_	O
 14	su	_	_	_	_	_	_	_	_	O
-15	isporučile	_	_	_	_	_	_	_	_	B-LOC
-16	SAD	_	_	_	_	_	_	_	_	O
+15	isporučile	_	_	_	_	_	_	_	_	O
+16	SAD	_	_	_	_	_	_	_	_	B-ORG
 17	na	_	_	_	_	_	_	_	_	O
 18	ovaj	_	_	_	_	_	_	_	_	O
 19	način	_	_	_	_	_	_	_	SpaceAfter=No	O

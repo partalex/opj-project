@@ -1,456 +1,157 @@
-Ukupan broj tokena : 49937
+Ukupan broj tokena : 49778
 Broj tokena po labelama: 
-B-PER: 1194
-I-PER: 602
+B-PER: 1243
+I-PER: 623
 
-B-ORG: 882
-I-ORG: 974
+B-ORG: 964
+I-ORG: 1120
 
-B-LOC: 608
-I-LOC: 171
+B-LOC: 552
+I-LOC: 150
 
-O: 45505
+O: 45125
 
 
 Procenat pojavljivanja po labelama:
-O: 91.12%
-B-PER: 2.39%
-I-PER: 1.21%
-B-LOC: 1.22%
-B-ORG: 1.77%
-I-ORG: 1.95%
-I-LOC: 0.34%
+O: 90.65%
+B-PER: 2.50%
+I-PER: 1.25%
+B-LOC: 1.11%
+B-ORG: 1.94%
+I-ORG: 2.25%
+I-LOC: 0.30%
 ORG: 0.00%
 Broj labela podeljenih po domenima u odnosu na ceo tekst: 
 Domen film_pozoriste 
-B-LOC - broj tokena: 62 ( 0.12% )
-B-ORG - broj tokena: 70 ( 0.14% )
-B-PER - broj tokena: 276 ( 0.55% )
-I-LOC - broj tokena: 33 ( 0.07% )
-I-ORG - broj tokena: 108 ( 0.22% )
-I-PER - broj tokena: 173 ( 0.35% )
-O - broj tokena: 7565 ( 15.15% )
-Ukupno za film_pozoriste - broj tokena : 8287 ( 16.59% )
+B-LOC - broj tokena: 52 ( 0.10% )
+B-ORG - broj tokena: 61 ( 0.12% )
+B-PER - broj tokena: 263 ( 0.53% )
+I-LOC - broj tokena: 31 ( 0.06% )
+I-ORG - broj tokena: 85 ( 0.17% )
+I-PER - broj tokena: 163 ( 0.33% )
+O - broj tokena: 6346 ( 12.75% )
+Ukupno za film_pozoriste - broj tokena : 7001 ( 14.06% )
 
 
 Domen knjizevni 
-B-LOC - broj tokena: 91 ( 0.18% )
-B-ORG - broj tokena: 43 ( 0.09% )
-B-PER - broj tokena: 212 ( 0.42% )
-I-LOC - broj tokena: 19 ( 0.04% )
-I-ORG - broj tokena: 16 ( 0.03% )
-I-PER - broj tokena: 32 ( 0.06% )
-O - broj tokena: 9349 ( 18.72% )
-Ukupno za knjizevni - broj tokena : 9762 ( 19.55% )
+B-LOC - broj tokena: 107 ( 0.21% )
+B-ORG - broj tokena: 55 ( 0.11% )
+B-PER - broj tokena: 231 ( 0.46% )
+I-LOC - broj tokena: 21 ( 0.04% )
+I-ORG - broj tokena: 24 ( 0.05% )
+I-PER - broj tokena: 33 ( 0.07% )
+O - broj tokena: 9291 ( 18.66% )
+Ukupno za knjizevni - broj tokena : 9762 ( 19.61% )
 
 
 Domen muzika 
-B-LOC - broj tokena: 35 ( 0.07% )
-B-ORG - broj tokena: 92 ( 0.18% )
-B-PER - broj tokena: 133 ( 0.27% )
-I-LOC - broj tokena: 16 ( 0.03% )
-I-ORG - broj tokena: 84 ( 0.17% )
-I-PER - broj tokena: 86 ( 0.17% )
-O - broj tokena: 6388 ( 12.79% )
-Ukupno za muzika - broj tokena : 6834 ( 13.69% )
+B-LOC - broj tokena: 34 ( 0.07% )
+B-ORG - broj tokena: 101 ( 0.20% )
+B-PER - broj tokena: 145 ( 0.29% )
+I-LOC - broj tokena: 15 ( 0.03% )
+I-ORG - broj tokena: 104 ( 0.21% )
+I-PER - broj tokena: 98 ( 0.20% )
+O - broj tokena: 6783 ( 13.63% )
+Ukupno za muzika - broj tokena : 7280 ( 14.62% )
 
 
 Domen novinski 
-B-LOC - broj tokena: 187 ( 0.37% )
-B-ORG - broj tokena: 326 ( 0.65% )
-B-PER - broj tokena: 211 ( 0.42% )
-I-LOC - broj tokena: 39 ( 0.08% )
-I-ORG - broj tokena: 302 ( 0.60% )
-I-PER - broj tokena: 126 ( 0.25% )
-O - broj tokena: 8245 ( 16.51% )
-Ukupno za novinski - broj tokena : 9436 ( 18.90% )
+B-LOC - broj tokena: 174 ( 0.35% )
+B-ORG - broj tokena: 362 ( 0.73% )
+B-PER - broj tokena: 215 ( 0.43% )
+I-LOC - broj tokena: 36 ( 0.07% )
+I-ORG - broj tokena: 311 ( 0.62% )
+I-PER - broj tokena: 125 ( 0.25% )
+O - broj tokena: 8213 ( 16.50% )
+Ukupno za novinski - broj tokena : 9436 ( 18.96% )
 
 
 Domen pravno_administrativni 
-B-LOC - broj tokena: 102 ( 0.20% )
-B-ORG - broj tokena: 204 ( 0.41% )
-B-PER - broj tokena: 197 ( 0.39% )
-I-LOC - broj tokena: 42 ( 0.08% )
-I-ORG - broj tokena: 353 ( 0.71% )
-I-PER - broj tokena: 81 ( 0.16% )
-O - broj tokena: 8587 ( 17.20% )
-Ukupno za pravno_administrativni - broj tokena : 9566 ( 19.16% )
+B-LOC - broj tokena: 62 ( 0.12% )
+B-ORG - broj tokena: 205 ( 0.41% )
+B-PER - broj tokena: 194 ( 0.39% )
+I-LOC - broj tokena: 26 ( 0.05% )
+I-ORG - broj tokena: 444 ( 0.89% )
+I-PER - broj tokena: 86 ( 0.17% )
+O - broj tokena: 7944 ( 15.96% )
+Ukupno za pravno_administrativni - broj tokena : 8961 ( 18.00% )
 
 
 Domen tviter 
-B-LOC - broj tokena: 131 ( 0.26% )
-B-ORG - broj tokena: 147 ( 0.29% )
-B-PER - broj tokena: 165 ( 0.33% )
-I-LOC - broj tokena: 22 ( 0.04% )
-I-ORG - broj tokena: 111 ( 0.22% )
-I-PER - broj tokena: 104 ( 0.21% )
-O - broj tokena: 5371 ( 10.76% )
-Ukupno za tviter - broj tokena : 6051 ( 12.12% )
+B-LOC - broj tokena: 120 ( 0.24% )
+B-ORG - broj tokena: 161 ( 0.32% )
+B-PER - broj tokena: 176 ( 0.35% )
+I-LOC - broj tokena: 21 ( 0.04% )
+I-ORG - broj tokena: 116 ( 0.23% )
+I-PER - broj tokena: 112 ( 0.22% )
+O - broj tokena: 5345 ( 10.74% )
+Ukupno za tviter - broj tokena : 6051 ( 12.16% )
 
 
 Statistika zasebno za svaki domen posebno
 Domen film_pozoriste 
-B-LOC - broj tokena: 62 ( 0.75% )
-B-ORG - broj tokena: 70 ( 0.84% )
-B-PER - broj tokena: 276 ( 3.33% )
-I-LOC - broj tokena: 33 ( 0.40% )
-I-ORG - broj tokena: 108 ( 1.30% )
-I-PER - broj tokena: 173 ( 2.09% )
-O - broj tokena: 7565 ( 91.29% )
-Ukupno za film_pozoriste - broj tokena : 8287
+B-LOC - broj tokena: 52 ( 0.74% )
+B-ORG - broj tokena: 61 ( 0.87% )
+B-PER - broj tokena: 263 ( 3.76% )
+I-LOC - broj tokena: 31 ( 0.44% )
+I-ORG - broj tokena: 85 ( 1.21% )
+I-PER - broj tokena: 163 ( 2.33% )
+O - broj tokena: 6346 ( 90.64% )
+Ukupno za film_pozoriste - broj tokena : 7001
 
 
 Domen knjizevni 
-B-LOC - broj tokena: 91 ( 0.93% )
-B-ORG - broj tokena: 43 ( 0.44% )
-B-PER - broj tokena: 212 ( 2.17% )
-I-LOC - broj tokena: 19 ( 0.19% )
-I-ORG - broj tokena: 16 ( 0.16% )
-I-PER - broj tokena: 32 ( 0.33% )
-O - broj tokena: 9349 ( 95.77% )
+B-LOC - broj tokena: 107 ( 1.10% )
+B-ORG - broj tokena: 55 ( 0.56% )
+B-PER - broj tokena: 231 ( 2.37% )
+I-LOC - broj tokena: 21 ( 0.22% )
+I-ORG - broj tokena: 24 ( 0.25% )
+I-PER - broj tokena: 33 ( 0.34% )
+O - broj tokena: 9291 ( 95.18% )
 Ukupno za knjizevni - broj tokena : 9762
 
 
 Domen muzika 
-B-LOC - broj tokena: 35 ( 0.51% )
-B-ORG - broj tokena: 92 ( 1.35% )
-B-PER - broj tokena: 133 ( 1.95% )
-I-LOC - broj tokena: 16 ( 0.23% )
-I-ORG - broj tokena: 84 ( 1.23% )
-I-PER - broj tokena: 86 ( 1.26% )
-O - broj tokena: 6388 ( 93.47% )
-Ukupno za muzika - broj tokena : 6834
+B-LOC - broj tokena: 34 ( 0.47% )
+B-ORG - broj tokena: 101 ( 1.39% )
+B-PER - broj tokena: 145 ( 1.99% )
+I-LOC - broj tokena: 15 ( 0.21% )
+I-ORG - broj tokena: 104 ( 1.43% )
+I-PER - broj tokena: 98 ( 1.35% )
+O - broj tokena: 6783 ( 93.17% )
+Ukupno za muzika - broj tokena : 7280
 
 
 Domen novinski 
-B-LOC - broj tokena: 187 ( 1.98% )
-B-ORG - broj tokena: 326 ( 3.45% )
-B-PER - broj tokena: 211 ( 2.24% )
-I-LOC - broj tokena: 39 ( 0.41% )
-I-ORG - broj tokena: 302 ( 3.20% )
-I-PER - broj tokena: 126 ( 1.34% )
-O - broj tokena: 8245 ( 87.38% )
+B-LOC - broj tokena: 174 ( 1.84% )
+B-ORG - broj tokena: 362 ( 3.84% )
+B-PER - broj tokena: 215 ( 2.28% )
+I-LOC - broj tokena: 36 ( 0.38% )
+I-ORG - broj tokena: 311 ( 3.30% )
+I-PER - broj tokena: 125 ( 1.32% )
+O - broj tokena: 8213 ( 87.04% )
 Ukupno za novinski - broj tokena : 9436
 
 
 Domen pravno_administrativni 
-B-LOC - broj tokena: 102 ( 1.07% )
-B-ORG - broj tokena: 204 ( 2.13% )
-B-PER - broj tokena: 197 ( 2.06% )
-I-LOC - broj tokena: 42 ( 0.44% )
-I-ORG - broj tokena: 353 ( 3.69% )
-I-PER - broj tokena: 81 ( 0.85% )
-O - broj tokena: 8587 ( 89.77% )
-Ukupno za pravno_administrativni - broj tokena : 9566
+B-LOC - broj tokena: 62 ( 0.69% )
+B-ORG - broj tokena: 205 ( 2.29% )
+B-PER - broj tokena: 194 ( 2.16% )
+I-LOC - broj tokena: 26 ( 0.29% )
+I-ORG - broj tokena: 444 ( 4.95% )
+I-PER - broj tokena: 86 ( 0.96% )
+O - broj tokena: 7944 ( 88.65% )
+Ukupno za pravno_administrativni - broj tokena : 8961
 
 
 Domen tviter 
-B-LOC - broj tokena: 131 ( 2.16% )
-B-ORG - broj tokena: 147 ( 2.43% )
-B-PER - broj tokena: 165 ( 2.73% )
-I-LOC - broj tokena: 22 ( 0.36% )
-I-ORG - broj tokena: 111 ( 1.83% )
-I-PER - broj tokena: 104 ( 1.72% )
-O - broj tokena: 5371 ( 88.76% )
+B-LOC - broj tokena: 120 ( 1.98% )
+B-ORG - broj tokena: 161 ( 2.66% )
+B-PER - broj tokena: 176 ( 2.91% )
+I-LOC - broj tokena: 21 ( 0.35% )
+I-ORG - broj tokena: 116 ( 1.92% )
+I-PER - broj tokena: 112 ( 1.85% )
+O - broj tokena: 5345 ( 88.33% )
 Ukupno za tviter - broj tokena : 6051
 
 
-Ukupan broj tokena : 49937
-Broj tokena po labelama: 
-B-PER: 1194
-I-PER: 602
-
-B-ORG: 882
-I-ORG: 974
-
-B-LOC: 608
-I-LOC: 171
-
-O: 45505
-
-
-Procenat pojavljivanja po labelama:
-O: 91.12%
-B-PER: 2.39%
-I-PER: 1.21%
-B-LOC: 1.22%
-B-ORG: 1.77%
-I-ORG: 1.95%
-I-LOC: 0.34%
-ORG: 0.00%
-Ukupan broj tokena : 49937
-Broj tokena po labelama: 
-B-PER: 1194
-I-PER: 602
-
-B-ORG: 882
-I-ORG: 974
-
-B-LOC: 608
-I-LOC: 171
-
-O: 45505
-
-
-Procenat pojavljivanja po labelama:
-O: 91.12%
-B-PER: 2.39%
-I-PER: 1.21%
-B-LOC: 1.22%
-B-ORG: 1.77%
-I-ORG: 1.95%
-I-LOC: 0.34%
-ORG: 0.00%
-Ukupan broj tokena : 49937
-Broj tokena po labelama: 
-B-PER: 1194
-I-PER: 602
-
-B-ORG: 882
-I-ORG: 974
-
-B-LOC: 608
-I-LOC: 171
-
-O: 45505
-
-
-Procenat pojavljivanja po labelama:
-O: 91.12%
-B-PER: 2.39%
-I-PER: 1.21%
-B-LOC: 1.22%
-B-ORG: 1.77%
-I-ORG: 1.95%
-I-LOC: 0.34%
-ORG: 0.00%
-Ukupan broj tokena : 49937
-Broj tokena po labelama: 
-B-PER: 1194
-I-PER: 602
-
-B-ORG: 882
-I-ORG: 974
-
-B-LOC: 608
-I-LOC: 171
-
-O: 45505
-
-
-Procenat pojavljivanja po labelama:
-O: 91.12%
-B-PER: 2.39%
-I-PER: 1.21%
-B-LOC: 1.22%
-B-ORG: 1.77%
-I-ORG: 1.95%
-I-LOC: 0.34%
-ORG: 0.00%
-Ukupan broj tokena : 49937
-Broj tokena po labelama: 
-B-PER: 1194
-I-PER: 602
-
-B-ORG: 882
-I-ORG: 974
-
-B-LOC: 608
-I-LOC: 171
-
-O: 45505
-
-
-Procenat pojavljivanja po labelama:
-O: 91.12%
-B-PER: 2.39%
-I-PER: 1.21%
-B-LOC: 1.22%
-B-ORG: 1.77%
-I-ORG: 1.95%
-I-LOC: 0.34%
-ORG: 0.00%
-Ukupan broj tokena : 49937
-Broj tokena po labelama: 
-B-PER: 1194
-I-PER: 602
-
-B-ORG: 882
-I-ORG: 974
-
-B-LOC: 608
-I-LOC: 171
-
-O: 45505
-
-
-Procenat pojavljivanja po labelama:
-O: 91.12%
-B-PER: 2.39%
-I-PER: 1.21%
-B-LOC: 1.22%
-B-ORG: 1.77%
-I-ORG: 1.95%
-I-LOC: 0.34%
-ORG: 0.00%
-Ukupan broj tokena : 49937
-Broj tokena po labelama: 
-B-PER: 1194
-I-PER: 602
-
-B-ORG: 882
-I-ORG: 974
-
-B-LOC: 608
-I-LOC: 171
-
-O: 45505
-
-
-Procenat pojavljivanja po labelama:
-O: 91.12%
-B-PER: 2.39%
-I-PER: 1.21%
-B-LOC: 1.22%
-B-ORG: 1.77%
-I-ORG: 1.95%
-I-LOC: 0.34%
-ORG: 0.00%
-Ukupan broj tokena : 49937
-Broj tokena po labelama: 
-B-PER: 1194
-I-PER: 602
-
-B-ORG: 882
-I-ORG: 974
-
-B-LOC: 608
-I-LOC: 171
-
-O: 45505
-
-
-Procenat pojavljivanja po labelama:
-O: 91.12%
-B-PER: 2.39%
-I-PER: 1.21%
-B-LOC: 1.22%
-B-ORG: 1.77%
-I-ORG: 1.95%
-I-LOC: 0.34%
-ORG: 0.00%
-Ukupan broj tokena : 49937
-Broj tokena po labelama: 
-B-PER: 1194
-I-PER: 602
-
-B-ORG: 882
-I-ORG: 974
-
-B-LOC: 608
-I-LOC: 171
-
-O: 45505
-
-
-Procenat pojavljivanja po labelama:
-O: 91.12%
-B-PER: 2.39%
-I-PER: 1.21%
-B-LOC: 1.22%
-B-ORG: 1.77%
-I-ORG: 1.95%
-I-LOC: 0.34%
-ORG: 0.00%
-Ukupan broj tokena : 49937
-Broj tokena po labelama: 
-B-PER: 1194
-I-PER: 602
-
-B-ORG: 882
-I-ORG: 974
-
-B-LOC: 608
-I-LOC: 171
-
-O: 45505
-
-
-Procenat pojavljivanja po labelama:
-O: 91.12%
-B-PER: 2.39%
-I-PER: 1.21%
-B-LOC: 1.22%
-B-ORG: 1.77%
-I-ORG: 1.95%
-I-LOC: 0.34%
-ORG: 0.00%
-Ukupan broj tokena : 49937
-Broj tokena po labelama: 
-B-PER: 1194
-I-PER: 602
-
-B-ORG: 882
-I-ORG: 974
-
-B-LOC: 608
-I-LOC: 171
-
-O: 45505
-
-
-Procenat pojavljivanja po labelama:
-O: 91.12%
-B-PER: 2.39%
-I-PER: 1.21%
-B-LOC: 1.22%
-B-ORG: 1.77%
-I-ORG: 1.95%
-I-LOC: 0.34%
-ORG: 0.00%
-Ukupan broj tokena : 49937
-Broj tokena po labelama: 
-B-PER: 1194
-I-PER: 602
-
-B-ORG: 882
-I-ORG: 974
-
-B-LOC: 608
-I-LOC: 171
-
-O: 45505
-
-
-Procenat pojavljivanja po labelama:
-O: 91.12%
-B-PER: 2.39%
-I-PER: 1.21%
-B-LOC: 1.22%
-B-ORG: 1.77%
-I-ORG: 1.95%
-I-LOC: 0.34%
-ORG: 0.00%
-Ukupan broj tokena : 49937
-Broj tokena po labelama: 
-B-PER: 1194
-I-PER: 602
-
-B-ORG: 882
-I-ORG: 974
-
-B-LOC: 608
-I-LOC: 171
-
-O: 45505
-
-
-Procenat pojavljivanja po labelama:
-O: 91.12%
-B-PER: 2.39%
-I-PER: 1.21%
-B-LOC: 1.22%
-B-ORG: 1.77%
-I-ORG: 1.95%
-I-LOC: 0.34%
-ORG: 0.00%

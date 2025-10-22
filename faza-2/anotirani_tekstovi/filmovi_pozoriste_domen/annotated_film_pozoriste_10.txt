@@ -916,7 +916,7 @@
 8	sa	_	_	_	_	_	_	_	_	O
 9	Bikovićem	_	_	_	_	_	_	_	_	B-PER
 10	i	_	_	_	_	_	_	_	_	O
-11	Radonjićem	_	_	_	_	_	_	_	_	Bacić-PER
+11	Radonjićem	_	_	_	_	_	_	_	_	B-PER
 12	sa	_	_	_	_	_	_	_	_	O
 13	kojima	_	_	_	_	_	_	_	_	O
 14	nema	_	_	_	_	_	_	_	_	O

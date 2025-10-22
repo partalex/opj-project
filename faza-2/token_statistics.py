@@ -52,6 +52,8 @@ def load_conll_data(path) -> list[list[int | str]]:
             splited = line.split('\t')
             splited = export(splited)
             label = error_label_map.get(splited[1], splited[1])
+            if label.strip() == '0':
+                print(path)
             token_info.append(label)
             
            

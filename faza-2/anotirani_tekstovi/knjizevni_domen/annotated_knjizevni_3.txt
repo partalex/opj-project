@@ -1261,7 +1261,7 @@
 10	nisu	_	_	_	_	_	_	_	_	O
 11	izvukli	_	_	_	_	_	_	_	_	O
 12	onu	_	_	_	_	_	_	_	_	O
-13	Enolu	_	_	_	_	_	_	_	_	0
+13	Enolu	_	_	_	_	_	_	_	_	O
 14	gej	_	_	_	_	_	_	_	SpaceAfter=No	O
 15	,	,	PUNCT	Z	_	_	_	_	_	O
 16	pa	_	_	_	_	_	_	_	_	O

@@ -1,0 +1,66 @@
+Ukupan broj tokena: 6005 
+Ukupan broj anotiranih tokena: 1811 
+Procenat slicnosti anotiranih tokena (svaki anotirani token ima vrednost izmedju 0 i 1 u zavisnosti od toga koliko anotatora se slaze): 68.29376035339601 
+Procenat slicnosti svih tokena (svaki anotirani token ima vrednost izmedju 0 i 1 u zavisnosti od toga koliko anotatora se slaze): 90.43796835970028 
+Procenat slicnosti anotiranih tokena (anotirani tokeni se uzimaju kao dobro anotirani samo ako se svi anotatori slazu): 44.06405300938708 
+Procenat slicnosti svih tokena (anotirani tokeni se uzimaju kao dobro anotirani samo ako se svi anotatori slazu): 83.13072439633639
+Statistika za anotatore aleksandar i marija 
+	Ukupan broj tokena: 6005 
+	Ukupan broj anotiranih tokena: 1304 
+	Ukupan broj razlika: 155 
+	Procenat slicnosti anotiranih tokena: 88.11349693251533 
+	Procenat slicnosti svih tokena: 97.4188176519567
+Statistika za anotatore aleksandar i milena 
+	Ukupan broj tokena: 6005 
+	Ukupan broj anotiranih tokena: 1341 
+	Ukupan broj razlika: 177 
+	Procenat slicnosti anotiranih tokena: 86.80089485458613 
+	Procenat slicnosti svih tokena: 97.05245628642798
+Statistika za anotatore aleksandar i ognjen 
+	Ukupan broj tokena: 6305 
+	Ukupan broj anotiranih tokena: 1419 
+	Ukupan broj razlika: 203 
+	Procenat slicnosti anotiranih tokena: 85.69415081042987 
+	Procenat slicnosti svih tokena: 96.78033306899286
+Statistika za anotatore aleksandar i teodora 
+	Ukupan broj tokena: 6305 
+	Ukupan broj anotiranih tokena: 1349 
+	Ukupan broj razlika: 160 
+	Procenat slicnosti anotiranih tokena: 88.13936249073387 
+	Procenat slicnosti svih tokena: 97.46233148295003
+Statistika za anotatore marija i milena 
+	Ukupan broj tokena: 6005 
+	Ukupan broj anotiranih tokena: 1246 
+	Ukupan broj razlika: 96 
+	Procenat slicnosti anotiranih tokena: 92.29534510433388 
+	Procenat slicnosti svih tokena: 98.40133222314738
+Statistika za anotatore marija i ognjen 
+	Ukupan broj tokena: 6005 
+	Ukupan broj anotiranih tokena: 1294 
+	Ukupan broj razlika: 131 
+	Procenat slicnosti anotiranih tokena: 89.87635239567233 
+	Procenat slicnosti svih tokena: 97.81848459616987
+Statistika za anotatore marija i teodora 
+	Ukupan broj tokena: 6005 
+	Ukupan broj anotiranih tokena: 1324 
+	Ukupan broj razlika: 155 
+	Procenat slicnosti anotiranih tokena: 88.29305135951661 
+	Procenat slicnosti svih tokena: 97.4188176519567
+Statistika za anotatore milena i ognjen 
+	Ukupan broj tokena: 6005 
+	Ukupan broj anotiranih tokena: 1240 
+	Ukupan broj razlika: 85 
+	Procenat slicnosti anotiranih tokena: 93.14516129032258 
+	Procenat slicnosti svih tokena: 98.58451290591174
+Statistika za anotatore milena i teodora 
+	Ukupan broj tokena: 6005 
+	Ukupan broj anotiranih tokena: 1318 
+	Ukupan broj razlika: 146 
+	Procenat slicnosti anotiranih tokena: 88.92261001517451 
+	Procenat slicnosti svih tokena: 97.56869275603664
+Statistika za anotatore ognjen i teodora 
+	Ukupan broj tokena: 6513 
+	Ukupan broj anotiranih tokena: 1443 
+	Ukupan broj razlika: 151 
+	Procenat slicnosti anotiranih tokena: 89.53568953568953 
+	Procenat slicnosti svih tokena: 97.68155995700906

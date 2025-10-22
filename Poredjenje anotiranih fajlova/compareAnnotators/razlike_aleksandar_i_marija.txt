@@ -1,6 +1,8 @@
 Ukupan broj tokena: 6005 
-Ukupan broj anotiranih tokena: 1162 
+Ukupan broj anotiranih tokena: 1304 
 Ukupan broj razlika: 155 
+Procenat slicnosti anotiranih tokena: 88.11349693251533 
+Procenat slicnosti svih tokena: 97.4188176519567 
 Razlike:
 Tekstovi koji se posmatraju su:toCompare\aleksandar_annotated_film_pozoriste.txt  i toCompare\annotated_film_pozoriste.txt
 Razlika u fajlu url= https://nova.rs/kultura/premijera-predstave-ostrvo-sa-blagom-u-dusku-radovicu/ na liniji: 81 (linije u pitanju: "27	Grad	_	_	_	_	_	_	_	_	B-ORG" i "27	Grad	_	_	_	_	_	_	_	_	O")

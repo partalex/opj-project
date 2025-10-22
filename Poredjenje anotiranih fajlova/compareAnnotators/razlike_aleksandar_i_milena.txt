@@ -1,6 +1,8 @@
 Ukupan broj tokena: 6005 
-Ukupan broj anotiranih tokena: 1177 
+Ukupan broj anotiranih tokena: 1341 
 Ukupan broj razlika: 177 
+Procenat slicnosti anotiranih tokena: 86.80089485458613 
+Procenat slicnosti svih tokena: 97.05245628642798 
 Razlike:
 Tekstovi koji se posmatraju su:toCompare\aleksandar_annotated_film_pozoriste.txt  i toCompare\milena_annotated_film_pozoriste.txt
 Razlika u fajlu url= https://nova.rs/kultura/premijera-predstave-ostrvo-sa-blagom-u-dusku-radovicu/ na liniji: 32 (linije u pitanju: "26	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O" i "26	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	I-LOC")

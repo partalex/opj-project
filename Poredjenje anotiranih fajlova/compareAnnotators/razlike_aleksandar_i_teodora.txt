@@ -1,6 +1,8 @@
 Ukupan broj tokena: 6305 
-Ukupan broj anotiranih tokena: 1202 
+Ukupan broj anotiranih tokena: 1349 
 Ukupan broj razlika: 160 
+Procenat slicnosti anotiranih tokena: 88.13936249073387 
+Procenat slicnosti svih tokena: 97.46233148295003 
 Razlike:
 Tekstovi koji se posmatraju su:toCompare\aleksandar_annotated_film_pozoriste.txt  i toCompare\teodora_annotated_film_pozoriste.txt
 Razlika u fajlu url= https://nova.rs/kultura/premijera-predstave-ostrvo-sa-blagom-u-dusku-radovicu/ na liniji: 32 (linije u pitanju: "26	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O" i "26	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	OI-LOC")

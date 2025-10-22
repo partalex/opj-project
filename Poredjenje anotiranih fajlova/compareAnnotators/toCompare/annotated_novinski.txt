@@ -1,0 +1,269 @@
+#name = marija
+#anotator = marija
+#domen = novinski
+#url = https://n1info.rs/najave-emisija/n1-direktno-srbija-je-stala-uz-studenta-bogdana/
+# newpar id = 1
+# sent_id = 1.1
+# text = Večeras u emisiji N1 direktno pratimo proteste podrške studentu Bogdanu Jovičiću koji štrajkuje glađu.
+1	Večeras	_	_	_	_	_	_	_	_	O
+2	u	_	_	_	_	_	_	_	_	O
+3	emisiji	_	_	_	_	_	_	_	_	O
+4	N1	_	_	_	_	_	_	_	_	O
+5	direktno	_	_	_	_	_	_	_	_	O
+6	pratimo	_	_	_	_	_	_	_	_	O
+7	proteste	_	_	_	_	_	_	_	_	O
+8	podrške	_	_	_	_	_	_	_	_	O
+9	studentu	_	_	_	_	_	_	_	_	O
+10	Bogdanu	_	_	_	_	_	_	_	_	B-PER
+11	Jovičiću	_	_	_	_	_	_	_	_	I-PER
+12	koji	_	_	_	_	_	_	_	_	O
+13	štrajkuje	_	_	_	_	_	_	_	_	O
+14	glađu	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 2
+# sent_id = 2.1
+# text = Student Fakulteta tehničkih nauka iz Novog Sada Bogdan Jovičić i dalje štrajkuje glađu nakon što mu je produžen pritvor.
+1	Student	_	_	_	_	_	_	_	_	O
+2	Fakulteta	_	_	_	_	_	_	_	_	O
+3	tehničkih	_	_	_	_	_	_	_	_	O
+4	nauka	_	_	_	_	_	_	_	_	O
+5	iz	_	_	_	_	_	_	_	_	O
+6	Novog	_	_	_	_	_	_	_	_	B-LOC
+7	Sada	_	_	_	_	_	_	_	_	I-LOC
+8	Bogdan	_	_	_	_	_	_	_	_	B-PER
+9	Jovičić	_	_	_	_	_	_	_	_	I-PER
+10	i	_	_	_	_	_	_	_	_	O
+11	dalje	_	_	_	_	_	_	_	_	O
+12	štrajkuje	_	_	_	_	_	_	_	_	O
+13	glađu	_	_	_	_	_	_	_	_	O
+14	nakon	_	_	_	_	_	_	_	_	O
+15	što	_	_	_	_	_	_	_	_	O
+16	mu	_	_	_	_	_	_	_	_	O
+17	je	_	_	_	_	_	_	_	_	O
+18	produžen	_	_	_	_	_	_	_	_	O
+19	pritvor	_	_	_	_	_	_	_	SpaceAfter=No	O
+20	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.2
+# text = On je prebačen juče u Beograd u pritvorsku bolnicu CZ-a.
+1	On	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	prebačen	_	_	_	_	_	_	_	_	O
+4	juče	_	_	_	_	_	_	_	_	O
+5	u	_	_	_	_	_	_	_	_	O
+6	Beograd	_	_	_	_	_	_	_	_	B-LOC
+7	u	_	_	_	_	_	_	_	_	O
+8	pritvorsku	_	_	_	_	_	_	_	_	O
+9	bolnicu	_	_	_	_	_	_	_	_	O
+10	CZ-a	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.3
+# text = Studenti mu pružaju podršku pa su najavili okupljanja u više gradova u Srbiji.
+1	Studenti	_	_	_	_	_	_	_	_	O
+2	mu	_	_	_	_	_	_	_	_	O
+3	pružaju	_	_	_	_	_	_	_	_	O
+4	podršku	_	_	_	_	_	_	_	_	O
+5	pa	_	_	_	_	_	_	_	_	O
+6	su	_	_	_	_	_	_	_	_	O
+7	najavili	_	_	_	_	_	_	_	_	O
+8	okupljanja	_	_	_	_	_	_	_	_	O
+9	u	_	_	_	_	_	_	_	_	O
+10	više	_	_	_	_	_	_	_	_	O
+11	gradova	_	_	_	_	_	_	_	_	O
+12	u	_	_	_	_	_	_	_	_	O
+13	Srbiji	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+14	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.4
+# text = Naši reporteri nam se javljaju iz Novog Sada, Niša, Beograda i Užica.
+1	Naši	_	_	_	_	_	_	_	_	O
+2	reporteri	_	_	_	_	_	_	_	_	O
+3	nam	_	_	_	_	_	_	_	_	O
+4	se	_	_	_	_	_	_	_	_	O
+5	javljaju	_	_	_	_	_	_	_	_	O
+6	iz	_	_	_	_	_	_	_	_	O
+7	Novog	_	_	_	_	_	_	_	_	B-LOC
+8	Sada	_	_	_	_	_	_	_	SpaceAfter=No	I-LOC
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	Niša	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	Beograda	_	_	_	_	_	_	_	_	B-LOC
+13	i	_	_	_	_	_	_	_	_	O
+14	Užica	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+15	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 3
+# sent_id = 3.1
+# text = Uživo smo i na protestu u Čačku, gde su na instagram stranici "Građani Čačka u blokadi" objavili da se građani okupljaju kod Hotela Beograd na protestu "Upoznaj svog komšiju!
+1	Uživo	_	_	_	_	_	_	_	_	O
+2	smo	_	_	_	_	_	_	_	_	O
+3	i	_	_	_	_	_	_	_	_	O
+4	na	_	_	_	_	_	_	_	_	O
+5	protestu	_	_	_	_	_	_	_	_	O
+6	u	_	_	_	_	_	_	_	_	O
+7	Čačku	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	gde	_	_	_	_	_	_	_	_	O
+10	su	_	_	_	_	_	_	_	_	O
+11	na	_	_	_	_	_	_	_	_	O
+12	instagram	_	_	_	_	_	_	_	_	O
+13	stranici	_	_	_	_	_	_	_	_	O
+14	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+15	Građani	_	_	_	_	_	_	_	_	B-ORG
+16	Čačka	_	_	_	_	_	_	_	_	I-ORG
+17	u	_	_	_	_	_	_	_	_	I-ORG
+18	blokadi	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+19	"	"	PUNCT	Z	_	_	_	_	_	O
+20	objavili	_	_	_	_	_	_	_	_	O
+21	da	_	_	_	_	_	_	_	_	O
+22	se	_	_	_	_	_	_	_	_	O
+23	građani	_	_	_	_	_	_	_	_	O
+24	okupljaju	_	_	_	_	_	_	_	_	O
+25	kod	_	_	_	_	_	_	_	_	O
+26	Hotela	_	_	_	_	_	_	_	_	B-LOC
+27	Beograd	_	_	_	_	_	_	_	_	I-LOC
+28	na	_	_	_	_	_	_	_	_	O
+29	protestu	_	_	_	_	_	_	_	_	O
+30	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+31	Upoznaj	_	_	_	_	_	_	_	_	O
+32	svog	_	_	_	_	_	_	_	_	O
+33	komšiju	_	_	_	_	_	_	_	SpaceAfter=No	O
+34	!	!	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 3.2
+# text = Prozivka.
+1	Prozivka	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	.	.	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+
+# sent_id = 3.3
+# text = "
+1	"	"	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 4
+# sent_id = 4.1
+# text = Večeras razgovaramo i sa doktorkom veterinarskih nauka u penziji Emilijom Stojanović iz Odžaka koja je bila meta napada pre nekoliko večeri, kada joj je nepoznato lice ili više njih, oskrnavilo kuću polivajući je farbom i ostavljajući krvave šake po zidovima.
+1	Večeras	_	_	_	_	_	_	_	_	O
+2	razgovaramo	_	_	_	_	_	_	_	_	O
+3	i	_	_	_	_	_	_	_	_	O
+4	sa	_	_	_	_	_	_	_	_	O
+5	doktorkom	_	_	_	_	_	_	_	_	O
+6	veterinarskih	_	_	_	_	_	_	_	_	O
+7	nauka	_	_	_	_	_	_	_	_	O
+8	u	_	_	_	_	_	_	_	_	O
+9	penziji	_	_	_	_	_	_	_	_	O
+10	Emilijom	_	_	_	_	_	_	_	_	B-PER
+11	Stojanović	_	_	_	_	_	_	_	_	I-PER
+12	iz	_	_	_	_	_	_	_	_	O
+13	Odžaka	_	_	_	_	_	_	_	_	B-LOC
+14	koja	_	_	_	_	_	_	_	_	O
+15	je	_	_	_	_	_	_	_	_	O
+16	bila	_	_	_	_	_	_	_	_	O
+17	meta	_	_	_	_	_	_	_	_	O
+18	napada	_	_	_	_	_	_	_	_	O
+19	pre	_	_	_	_	_	_	_	_	O
+20	nekoliko	_	_	_	_	_	_	_	_	O
+21	večeri	_	_	_	_	_	_	_	SpaceAfter=No	O
+22	,	,	PUNCT	Z	_	_	_	_	_	O
+23	kada	_	_	_	_	_	_	_	_	O
+24	joj	_	_	_	_	_	_	_	_	O
+25	je	_	_	_	_	_	_	_	_	O
+26	nepoznato	_	_	_	_	_	_	_	_	O
+27	lice	_	_	_	_	_	_	_	_	O
+28	ili	_	_	_	_	_	_	_	_	O
+29	više	_	_	_	_	_	_	_	_	O
+30	njih	_	_	_	_	_	_	_	SpaceAfter=No	O
+31	,	,	PUNCT	Z	_	_	_	_	_	O
+32	oskrnavilo	_	_	_	_	_	_	_	_	O
+33	kuću	_	_	_	_	_	_	_	_	O
+34	polivajući	_	_	_	_	_	_	_	_	O
+35	je	_	_	_	_	_	_	_	_	O
+36	farbom	_	_	_	_	_	_	_	_	O
+37	i	_	_	_	_	_	_	_	_	O
+38	ostavljajući	_	_	_	_	_	_	_	_	O
+39	krvave	_	_	_	_	_	_	_	_	O
+40	šake	_	_	_	_	_	_	_	_	O
+41	po	_	_	_	_	_	_	_	_	O
+42	zidovima	_	_	_	_	_	_	_	SpaceAfter=No	O
+43	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 5
+# sent_id = 5.1
+# text = U subotu se u Beogradu održava Vojna parada, koju vlast organizuje u sklopu događaja posvećenih Danima srpskog jedinstva i zastave.
+1	U	_	_	_	_	_	_	_	_	O
+2	subotu	_	_	_	_	_	_	_	_	O
+3	se	_	_	_	_	_	_	_	_	O
+4	u	_	_	_	_	_	_	_	_	O
+5	Beogradu	_	_	_	_	_	_	_	_	B-LOC
+6	održava	_	_	_	_	_	_	_	_	O
+7	Vojna	_	_	_	_	_	_	_	_	O
+8	parada	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	koju	_	_	_	_	_	_	_	_	O
+11	vlast	_	_	_	_	_	_	_	_	O
+12	organizuje	_	_	_	_	_	_	_	_	O
+13	u	_	_	_	_	_	_	_	_	O
+14	sklopu	_	_	_	_	_	_	_	_	O
+15	događaja	_	_	_	_	_	_	_	_	O
+16	posvećenih	_	_	_	_	_	_	_	_	O
+17	Danima	_	_	_	_	_	_	_	_	O
+18	srpskog	_	_	_	_	_	_	_	_	O
+19	jedinstva	_	_	_	_	_	_	_	_	O
+20	i	_	_	_	_	_	_	_	_	O
+21	zastave	_	_	_	_	_	_	_	SpaceAfter=No	O
+22	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 5.2
+# text = Kako region gleda na ovu paradu i da li se njom pokazuje vojna moć Srbije ili se komšijama šalje neka poruke, razgovaramo sa Igorom Tabakom i Deanom Džebićem, vojnopolitičkim komentatorima iz Zagreba i Sarajeva.
+1	Kako	_	_	_	_	_	_	_	_	O
+2	region	_	_	_	_	_	_	_	_	O
+3	gleda	_	_	_	_	_	_	_	_	O
+4	na	_	_	_	_	_	_	_	_	O
+5	ovu	_	_	_	_	_	_	_	_	O
+6	paradu	_	_	_	_	_	_	_	_	O
+7	i	_	_	_	_	_	_	_	_	O
+8	da	_	_	_	_	_	_	_	_	O
+9	li	_	_	_	_	_	_	_	_	O
+10	se	_	_	_	_	_	_	_	_	O
+11	njom	_	_	_	_	_	_	_	_	O
+12	pokazuje	_	_	_	_	_	_	_	_	O
+13	vojna	_	_	_	_	_	_	_	_	O
+14	moć	_	_	_	_	_	_	_	_	O
+15	Srbije	_	_	_	_	_	_	_	_	B-LOC
+16	ili	_	_	_	_	_	_	_	_	O
+17	se	_	_	_	_	_	_	_	_	O
+18	komšijama	_	_	_	_	_	_	_	_	O
+19	šalje	_	_	_	_	_	_	_	_	O
+20	neka	_	_	_	_	_	_	_	_	O
+21	poruke	_	_	_	_	_	_	_	SpaceAfter=No	O
+22	,	,	PUNCT	Z	_	_	_	_	_	O
+23	razgovaramo	_	_	_	_	_	_	_	_	O
+24	sa	_	_	_	_	_	_	_	_	O
+25	Igorom	_	_	_	_	_	_	_	_	B-PER
+26	Tabakom	_	_	_	_	_	_	_	_	I-PER
+27	i	_	_	_	_	_	_	_	_	O
+28	Deanom	_	_	_	_	_	_	_	_	B-PER
+29	Džebićem	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+30	,	,	PUNCT	Z	_	_	_	_	_	O
+31	vojnopolitičkim	_	_	_	_	_	_	_	_	O
+32	komentatorima	_	_	_	_	_	_	_	_	O
+33	iz	_	_	_	_	_	_	_	_	O
+34	Zagreba	_	_	_	_	_	_	_	_	O
+35	i	_	_	_	_	_	_	_	_	O
+36	Sarajeva	_	_	_	_	_	_	_	SpaceAfter=No	O
+37	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 6
+# sent_id = 6.1
+# text = N1 Direktno sa Danicom Vučenić od 20 sati.
+1	N1	_	_	_	_	_	_	_	_	O
+2	Direktno	_	_	_	_	_	_	_	_	O
+3	sa	_	_	_	_	_	_	_	_	O
+4	Danicom	_	_	_	_	_	_	_	_	B-PER
+5	Vučenić	_	_	_	_	_	_	_	_	I-PER
+6	od	_	_	_	_	_	_	_	_	O
+7	20	_	_	_	_	_	_	_	_	O
+8	sati	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	.	.	PUNCT	Z	_	_	_	_	_	O
+

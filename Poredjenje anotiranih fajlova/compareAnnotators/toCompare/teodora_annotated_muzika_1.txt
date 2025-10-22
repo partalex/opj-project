@@ -1,0 +1,1103 @@
+#name = teodora
+#anotator = teodora
+#domen = muzika
+#url = https://balkanrock.com/reportaze/hills-of-rock-u-plovdivu-vatrena-rock-brda/
+# newpar id = 1
+# sent_id = 1.1
+# text = Kada se pre par meseci pojavio pun program šestog izdanja Hills of Rock festivala, autor ovih redova je shvatio da će i ove godine biti “teško za preživeti” iskustvo, ne samo zbog brutalnih bendova, nego i zbog paklenog letnjeg sunca, kakvo samo u Plovdivu, domaćinu festivala, ume da bude.
+1	Kada	_	_	_	_	_	_	_	_	O
+2	se	_	_	_	_	_	_	_	_	O
+3	pre	_	_	_	_	_	_	_	_	O
+4	par	_	_	_	_	_	_	_	_	O
+5	meseci	_	_	_	_	_	_	_	_	O
+6	pojavio	_	_	_	_	_	_	_	_	O
+7	pun	_	_	_	_	_	_	_	_	O
+8	program	_	_	_	_	_	_	_	_	O
+9	šestog	_	_	_	_	_	_	_	_	O
+10	izdanja	_	_	_	_	_	_	_	_	O
+11	Hills	_	_	_	_	_	_	_	_	O
+12	of	_	_	_	_	_	_	_	_	O
+13	Rock	_	_	_	_	_	_	_	_	O
+14	festivala	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	,	,	PUNCT	Z	_	_	_	_	_	O
+16	autor	_	_	_	_	_	_	_	_	O
+17	ovih	_	_	_	_	_	_	_	_	O
+18	redova	_	_	_	_	_	_	_	_	O
+19	je	_	_	_	_	_	_	_	_	O
+20	shvatio	_	_	_	_	_	_	_	_	O
+21	da	_	_	_	_	_	_	_	_	O
+22	će	_	_	_	_	_	_	_	_	O
+23	i	_	_	_	_	_	_	_	_	O
+24	ove	_	_	_	_	_	_	_	_	O
+25	godine	_	_	_	_	_	_	_	_	O
+26	biti	_	_	_	_	_	_	_	_	O
+27	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+28	teško	_	_	_	_	_	_	_	_	O
+29	za	_	_	_	_	_	_	_	_	O
+30	preživeti	_	_	_	_	_	_	_	SpaceAfter=No	O
+31	”	”	PUNCT	Z	_	_	_	_	_	O
+32	iskustvo	_	_	_	_	_	_	_	SpaceAfter=No	O
+33	,	,	PUNCT	Z	_	_	_	_	_	O
+34	ne	_	_	_	_	_	_	_	_	O
+35	samo	_	_	_	_	_	_	_	_	O
+36	zbog	_	_	_	_	_	_	_	_	O
+37	brutalnih	_	_	_	_	_	_	_	_	O
+38	bendova	_	_	_	_	_	_	_	SpaceAfter=No	O
+39	,	,	PUNCT	Z	_	_	_	_	_	O
+40	nego	_	_	_	_	_	_	_	_	O
+41	i	_	_	_	_	_	_	_	_	O
+42	zbog	_	_	_	_	_	_	_	_	O
+43	paklenog	_	_	_	_	_	_	_	_	O
+44	letnjeg	_	_	_	_	_	_	_	_	O
+45	sunca	_	_	_	_	_	_	_	SpaceAfter=No	O
+46	,	,	PUNCT	Z	_	_	_	_	_	O
+47	kakvo	_	_	_	_	_	_	_	_	O
+48	samo	_	_	_	_	_	_	_	_	O
+49	u	_	_	_	_	_	_	_	_	O
+50	Plovdivu	_	_	_	_	_	_	_	SpaceAfter=No	O
+51	,	,	PUNCT	Z	_	_	_	_	_	O
+52	domaćinu	_	_	_	_	_	_	_	_	O
+53	festivala	_	_	_	_	_	_	_	SpaceAfter=No	O
+54	,	,	PUNCT	Z	_	_	_	_	_	O
+55	ume	_	_	_	_	_	_	_	_	O
+56	da	_	_	_	_	_	_	_	_	O
+57	bude	_	_	_	_	_	_	_	SpaceAfter=No	O
+58	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.2
+# text = Par desetina hiljadi ljudi iz zemlje i regiona su odlučili da posete festival i uživaju u “salati” od 48 sjajnih bendova svih gitarskih žanrova.
+1	Par	_	_	_	_	_	_	_	_	O
+2	desetina	_	_	_	_	_	_	_	_	O
+3	hiljadi	_	_	_	_	_	_	_	_	O
+4	ljudi	_	_	_	_	_	_	_	_	O
+5	iz	_	_	_	_	_	_	_	_	O
+6	zemlje	_	_	_	_	_	_	_	_	O
+7	i	_	_	_	_	_	_	_	_	O
+8	regiona	_	_	_	_	_	_	_	_	O
+9	su	_	_	_	_	_	_	_	_	O
+10	odlučili	_	_	_	_	_	_	_	_	O
+11	da	_	_	_	_	_	_	_	_	O
+12	posete	_	_	_	_	_	_	_	_	O
+13	festival	_	_	_	_	_	_	_	_	O
+14	i	_	_	_	_	_	_	_	_	O
+15	uživaju	_	_	_	_	_	_	_	_	O
+16	u	_	_	_	_	_	_	_	_	O
+17	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+18	salati	_	_	_	_	_	_	_	SpaceAfter=No	O
+19	”	”	PUNCT	Z	_	_	_	_	_	O
+20	od	_	_	_	_	_	_	_	_	O
+21	48	_	_	_	_	_	_	_	_	O
+22	sjajnih	_	_	_	_	_	_	_	_	O
+23	bendova	_	_	_	_	_	_	_	_	O
+24	svih	_	_	_	_	_	_	_	_	O
+25	gitarskih	_	_	_	_	_	_	_	_	O
+26	žanrova	_	_	_	_	_	_	_	SpaceAfter=No	O
+27	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.3
+# text = Aktuelni bendovi, svetske zvezde na vrhu karijere, neke pomalo zaboravljene, neke u usponu, neke poznate lokalnoj publici, neke premijerno u Bugarskoj.
+1	Aktuelni	_	_	_	_	_	_	_	_	O
+2	bendovi	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	svetske	_	_	_	_	_	_	_	_	O
+5	zvezde	_	_	_	_	_	_	_	_	O
+6	na	_	_	_	_	_	_	_	_	O
+7	vrhu	_	_	_	_	_	_	_	_	O
+8	karijere	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	neke	_	_	_	_	_	_	_	_	O
+11	pomalo	_	_	_	_	_	_	_	_	O
+12	zaboravljene	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+14	neke	_	_	_	_	_	_	_	_	O
+15	u	_	_	_	_	_	_	_	_	O
+16	usponu	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	,	,	PUNCT	Z	_	_	_	_	_	O
+18	neke	_	_	_	_	_	_	_	_	O
+19	poznate	_	_	_	_	_	_	_	_	O
+20	lokalnoj	_	_	_	_	_	_	_	_	O
+21	publici	_	_	_	_	_	_	_	SpaceAfter=No	O
+22	,	,	PUNCT	Z	_	_	_	_	_	O
+23	neke	_	_	_	_	_	_	_	_	O
+24	premijerno	_	_	_	_	_	_	_	_	O
+25	u	_	_	_	_	_	_	_	_	O
+26	Bugarskoj	_	_	_	_	_	_	_	SpaceAfter=No	O
+27	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 2
+# sent_id = 2.1
+# text = Ispod paklenog sunca, čast da otvori program na main stage-u pripala je crossover/metalcore/rap-metal bendu Rise of the Northstar.
+1	Ispod	_	_	_	_	_	_	_	_	O
+2	paklenog	_	_	_	_	_	_	_	_	O
+3	sunca	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	čast	_	_	_	_	_	_	_	_	O
+6	da	_	_	_	_	_	_	_	_	O
+7	otvori	_	_	_	_	_	_	_	_	O
+8	program	_	_	_	_	_	_	_	_	O
+9	na	_	_	_	_	_	_	_	_	O
+10	main	_	_	_	_	_	_	_	_	O
+11	stage-u	_	_	_	_	_	_	_	_	O
+12	pripala	_	_	_	_	_	_	_	_	O
+13	je	_	_	_	_	_	_	_	_	O
+14	crossover	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	/	/	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+16	metalcore	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	/	/	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+18	rap-metal	_	_	_	_	_	_	_	_	O
+19	bendu	_	_	_	_	_	_	_	_	O
+20	Rise	_	_	_	_	_	_	_	_	O
+21	of	_	_	_	_	_	_	_	_	O
+22	the	_	_	_	_	_	_	_	_	O
+23	Northstar	_	_	_	_	_	_	_	SpaceAfter=No	O
+24	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.2
+# text = Bili su na festivalskom programu Hills of Rocka kad se desila pandemija, kada se festival nije održao, i sada, 5 godina kasnije, su tu da odrade svoje.
+1	Bili	_	_	_	_	_	_	_	_	O
+2	su	_	_	_	_	_	_	_	_	O
+3	na	_	_	_	_	_	_	_	_	O
+4	festivalskom	_	_	_	_	_	_	_	_	O
+5	programu	_	_	_	_	_	_	_	_	O
+6	Hills	_	_	_	_	_	_	_	_	O
+7	of	_	_	_	_	_	_	_	_	O
+8	Rocka	_	_	_	_	_	_	_	_	O
+9	kad	_	_	_	_	_	_	_	_	O
+10	se	_	_	_	_	_	_	_	_	O
+11	desila	_	_	_	_	_	_	_	_	O
+12	pandemija	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+14	kada	_	_	_	_	_	_	_	_	O
+15	se	_	_	_	_	_	_	_	_	O
+16	festival	_	_	_	_	_	_	_	_	O
+17	nije	_	_	_	_	_	_	_	_	O
+18	održao	_	_	_	_	_	_	_	SpaceAfter=No	O
+19	,	,	PUNCT	Z	_	_	_	_	_	O
+20	i	_	_	_	_	_	_	_	_	O
+21	sada	_	_	_	_	_	_	_	SpaceAfter=No	O
+22	,	,	PUNCT	Z	_	_	_	_	_	O
+23	5	_	_	_	_	_	_	_	_	O
+24	godina	_	_	_	_	_	_	_	_	O
+25	kasnije	_	_	_	_	_	_	_	SpaceAfter=No	O
+26	,	,	PUNCT	Z	_	_	_	_	_	O
+27	su	_	_	_	_	_	_	_	_	O
+28	tu	_	_	_	_	_	_	_	_	O
+29	da	_	_	_	_	_	_	_	_	O
+30	odrade	_	_	_	_	_	_	_	_	O
+31	svoje	_	_	_	_	_	_	_	SpaceAfter=No	O
+32	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.3
+# text = Parižani, inspirisani japanskom kulturom, prisutnom u tekstovima, imidžu i spotovima benda, su majstorski smućkali mix groovy i brzih rifova u maniru Slipknot i Suicidal Tendencies, začinjen Slayer solažama, uz povremene brutalne breakdownove.
+1	Parižani	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	inspirisani	_	_	_	_	_	_	_	_	O
+4	japanskom	_	_	_	_	_	_	_	_	O
+5	kulturom	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	prisutnom	_	_	_	_	_	_	_	_	O
+8	u	_	_	_	_	_	_	_	_	O
+9	tekstovima	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	imidžu	_	_	_	_	_	_	_	_	O
+12	i	_	_	_	_	_	_	_	_	O
+13	spotovima	_	_	_	_	_	_	_	_	O
+14	benda	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	,	,	PUNCT	Z	_	_	_	_	_	O
+16	su	_	_	_	_	_	_	_	_	O
+17	majstorski	_	_	_	_	_	_	_	_	O
+18	smućkali	_	_	_	_	_	_	_	_	O
+19	mix	_	_	_	_	_	_	_	_	O
+20	groovy	_	_	_	_	_	_	_	_	O
+21	i	_	_	_	_	_	_	_	_	O
+22	brzih	_	_	_	_	_	_	_	_	O
+23	rifova	_	_	_	_	_	_	_	_	O
+24	u	_	_	_	_	_	_	_	_	O
+25	maniru	_	_	_	_	_	_	_	_	O
+26	Slipknot	_	_	_	_	_	_	_	_	O
+27	i	_	_	_	_	_	_	_	_	O
+28	Suicidal	_	_	_	_	_	_	_	_	O
+29	Tendencies	_	_	_	_	_	_	_	SpaceAfter=No	O
+30	,	,	PUNCT	Z	_	_	_	_	_	O
+31	začinjen	_	_	_	_	_	_	_	_	O
+32	Slayer	_	_	_	_	_	_	_	_	O
+33	solažama	_	_	_	_	_	_	_	SpaceAfter=No	O
+34	,	,	PUNCT	Z	_	_	_	_	_	O
+35	uz	_	_	_	_	_	_	_	_	O
+36	povremene	_	_	_	_	_	_	_	_	O
+37	brutalne	_	_	_	_	_	_	_	_	O
+38	breakdownove	_	_	_	_	_	_	_	SpaceAfter=No	O
+39	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 3
+# sent_id = 3.1
+# text = Sledi momentalno ublažavanje zvuka uz američke rock veterane Extreme, čiji je gitarista Nuno Bettencount dve nedelje ranije nastupao na Ozzyjevom “Back to the Beginning” oproštajnom koncertu u Birmingemu.
+1	Sledi	_	_	_	_	_	_	_	_	O
+2	momentalno	_	_	_	_	_	_	_	_	O
+3	ublažavanje	_	_	_	_	_	_	_	_	O
+4	zvuka	_	_	_	_	_	_	_	_	O
+5	uz	_	_	_	_	_	_	_	_	O
+6	američke	_	_	_	_	_	_	_	_	O
+7	rock	_	_	_	_	_	_	_	_	O
+8	veterane	_	_	_	_	_	_	_	_	O
+9	Extreme	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	čiji	_	_	_	_	_	_	_	_	O
+12	je	_	_	_	_	_	_	_	_	O
+13	gitarista	_	_	_	_	_	_	_	_	O
+14	Nuno	_	_	_	_	_	_	_	_	O
+15	Bettencount	_	_	_	_	_	_	_	_	O
+16	dve	_	_	_	_	_	_	_	_	O
+17	nedelje	_	_	_	_	_	_	_	_	O
+18	ranije	_	_	_	_	_	_	_	_	O
+19	nastupao	_	_	_	_	_	_	_	_	O
+20	na	_	_	_	_	_	_	_	_	O
+21	Ozzyjevom	_	_	_	_	_	_	_	_	O
+22	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+23	Back	_	_	_	_	_	_	_	_	O
+24	to	_	_	_	_	_	_	_	_	O
+25	the	_	_	_	_	_	_	_	_	O
+26	Beginning	_	_	_	_	_	_	_	SpaceAfter=No	O
+27	”	”	PUNCT	Z	_	_	_	_	_	O
+28	oproštajnom	_	_	_	_	_	_	_	_	O
+29	koncertu	_	_	_	_	_	_	_	_	O
+30	u	_	_	_	_	_	_	_	_	O
+31	Birmingemu	_	_	_	_	_	_	_	SpaceAfter=No	O
+32	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 3.2
+# text = Kad je reč o Ozzyju, skoro svaki bend na festivalu je odao počast nedavno preminuloj legendi, što rečima, što nošenjem majica, ili sviranjem Sabbath ili Ozzy obrada.
+1	Kad	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	reč	_	_	_	_	_	_	_	_	O
+4	o	_	_	_	_	_	_	_	_	O
+5	Ozzyju	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	skoro	_	_	_	_	_	_	_	_	O
+8	svaki	_	_	_	_	_	_	_	_	O
+9	bend	_	_	_	_	_	_	_	_	O
+10	na	_	_	_	_	_	_	_	_	O
+11	festivalu	_	_	_	_	_	_	_	_	O
+12	je	_	_	_	_	_	_	_	_	O
+13	odao	_	_	_	_	_	_	_	_	O
+14	počast	_	_	_	_	_	_	_	_	O
+15	nedavno	_	_	_	_	_	_	_	_	O
+16	preminuloj	_	_	_	_	_	_	_	_	O
+17	legendi	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	,	,	PUNCT	Z	_	_	_	_	_	O
+19	što	_	_	_	_	_	_	_	_	O
+20	rečima	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	,	,	PUNCT	Z	_	_	_	_	_	O
+22	što	_	_	_	_	_	_	_	_	O
+23	nošenjem	_	_	_	_	_	_	_	_	O
+24	majica	_	_	_	_	_	_	_	SpaceAfter=No	O
+25	,	,	PUNCT	Z	_	_	_	_	_	O
+26	ili	_	_	_	_	_	_	_	_	O
+27	sviranjem	_	_	_	_	_	_	_	_	O
+28	Sabbath	_	_	_	_	_	_	_	_	O
+29	ili	_	_	_	_	_	_	_	_	O
+30	Ozzy	_	_	_	_	_	_	_	_	O
+31	obrada	_	_	_	_	_	_	_	SpaceAfter=No	O
+32	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 3.3
+# text = Ali, valja se vratiti na Extreme – jedan od najznačajnih bendova s kraja 80-tih i početka 90-tih rame uz rame sa Guns ‘n Roses i Aerosmith.
+1	Ali	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	valja	_	_	_	_	_	_	_	_	O
+4	se	_	_	_	_	_	_	_	_	O
+5	vratiti	_	_	_	_	_	_	_	_	O
+6	na	_	_	_	_	_	_	_	_	O
+7	Extreme	_	_	_	_	_	_	_	_	O
+8	–	–	PUNCT	Z	_	_	_	_	_	O
+9	jedan	_	_	_	_	_	_	_	_	O
+10	od	_	_	_	_	_	_	_	_	O
+11	najznačajnih	_	_	_	_	_	_	_	_	O
+12	bendova	_	_	_	_	_	_	_	_	O
+13	s	_	_	_	_	_	_	_	_	O
+14	kraja	_	_	_	_	_	_	_	_	O
+15	80-tih	_	_	_	_	_	_	_	_	O
+16	i	_	_	_	_	_	_	_	_	O
+17	početka	_	_	_	_	_	_	_	_	O
+18	90-tih	_	_	_	_	_	_	_	_	O
+19	rame	_	_	_	_	_	_	_	_	O
+20	uz	_	_	_	_	_	_	_	_	O
+21	rame	_	_	_	_	_	_	_	_	O
+22	sa	_	_	_	_	_	_	_	_	O
+23	Guns	_	_	_	_	_	_	_	_	O
+24	‘	‘	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+25	n	_	_	_	_	_	_	_	_	O
+26	Roses	_	_	_	_	_	_	_	_	O
+27	i	_	_	_	_	_	_	_	_	O
+28	Aerosmith	_	_	_	_	_	_	_	SpaceAfter=No	O
+29	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 3.4
+# text = Uz takvu dekoraciju kao da se festival održava u Las Vegasu ispod šarenih neonskih reklama i kazina, publika je pratila energičan šou i čula najveće hitova benda: “It’s a Monster”, “Decadence Dance”, “Rise”, “Am I Ever Gonna Change”, “Hole Hearted”, “Get the Funk Out”, i naravno, neprevaziđenu akustičnu baladu “More Than Words,” uz pomenuti tribjut, akustičnu “Dee” s prvog Ozzyjevog albuma.
+1	Uz	_	_	_	_	_	_	_	_	O
+2	takvu	_	_	_	_	_	_	_	_	O
+3	dekoraciju	_	_	_	_	_	_	_	_	O
+4	kao	_	_	_	_	_	_	_	_	O
+5	da	_	_	_	_	_	_	_	_	O
+6	se	_	_	_	_	_	_	_	_	O
+7	festival	_	_	_	_	_	_	_	_	O
+8	održava	_	_	_	_	_	_	_	_	O
+9	u	_	_	_	_	_	_	_	_	O
+10	Las	_	_	_	_	_	_	_	_	O
+11	Vegasu	_	_	_	_	_	_	_	_	O
+12	ispod	_	_	_	_	_	_	_	_	O
+13	šarenih	_	_	_	_	_	_	_	_	O
+14	neonskih	_	_	_	_	_	_	_	_	O
+15	reklama	_	_	_	_	_	_	_	_	O
+16	i	_	_	_	_	_	_	_	_	O
+17	kazina	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	,	,	PUNCT	Z	_	_	_	_	_	O
+19	publika	_	_	_	_	_	_	_	_	O
+20	je	_	_	_	_	_	_	_	_	O
+21	pratila	_	_	_	_	_	_	_	_	O
+22	energičan	_	_	_	_	_	_	_	_	O
+23	šou	_	_	_	_	_	_	_	_	O
+24	i	_	_	_	_	_	_	_	_	O
+25	čula	_	_	_	_	_	_	_	_	O
+26	najveće	_	_	_	_	_	_	_	_	O
+27	hitova	_	_	_	_	_	_	_	_	O
+28	benda	_	_	_	_	_	_	_	SpaceAfter=No	O
+29	:	:	PUNCT	Z	_	_	_	_	_	O
+30	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+31	It	_	_	_	_	_	_	_	SpaceAfter=No	O
+32	’	’	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+33	s	_	_	_	_	_	_	_	_	O
+34	a	_	_	_	_	_	_	_	_	O
+35	Monster	_	_	_	_	_	_	_	SpaceAfter=No	O
+36	”	”	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+37	,	,	PUNCT	Z	_	_	_	_	_	O
+38	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+39	Decadence	_	_	_	_	_	_	_	_	O
+40	Dance	_	_	_	_	_	_	_	SpaceAfter=No	O
+41	”	”	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+42	,	,	PUNCT	Z	_	_	_	_	_	O
+43	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+44	Rise	_	_	_	_	_	_	_	SpaceAfter=No	O
+45	”	”	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+46	,	,	PUNCT	Z	_	_	_	_	_	O
+47	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+48	Am	_	_	_	_	_	_	_	_	O
+49	I	_	_	_	_	_	_	_	_	O
+50	Ever	_	_	_	_	_	_	_	_	O
+51	Gonna	_	_	_	_	_	_	_	_	O
+52	Change	_	_	_	_	_	_	_	SpaceAfter=No	O
+53	”	”	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+54	,	,	PUNCT	Z	_	_	_	_	_	O
+55	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+56	Hole	_	_	_	_	_	_	_	_	O
+57	Hearted	_	_	_	_	_	_	_	SpaceAfter=No	O
+58	”	”	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+59	,	,	PUNCT	Z	_	_	_	_	_	O
+60	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+61	Get	_	_	_	_	_	_	_	_	O
+62	the	_	_	_	_	_	_	_	_	O
+63	Funk	_	_	_	_	_	_	_	_	O
+64	Out	_	_	_	_	_	_	_	SpaceAfter=No	O
+65	”	”	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+66	,	,	PUNCT	Z	_	_	_	_	_	O
+67	i	_	_	_	_	_	_	_	_	O
+68	naravno	_	_	_	_	_	_	_	SpaceAfter=No	O
+69	,	,	PUNCT	Z	_	_	_	_	_	O
+70	neprevaziđenu	_	_	_	_	_	_	_	_	O
+71	akustičnu	_	_	_	_	_	_	_	_	O
+72	baladu	_	_	_	_	_	_	_	_	O
+73	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+74	More	_	_	_	_	_	_	_	_	O
+75	Than	_	_	_	_	_	_	_	_	O
+76	Words	_	_	_	_	_	_	_	SpaceAfter=No	O
+77	,	,	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+78	”	”	PUNCT	Z	_	_	_	_	_	O
+79	uz	_	_	_	_	_	_	_	_	O
+80	pomenuti	_	_	_	_	_	_	_	_	O
+81	tribjut	_	_	_	_	_	_	_	SpaceAfter=No	O
+82	,	,	PUNCT	Z	_	_	_	_	_	O
+83	akustičnu	_	_	_	_	_	_	_	_	O
+84	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+85	Dee	_	_	_	_	_	_	_	SpaceAfter=No	O
+86	”	”	PUNCT	Z	_	_	_	_	_	O
+87	s	_	_	_	_	_	_	_	_	O
+88	prvog	_	_	_	_	_	_	_	_	O
+89	Ozzyjevog	_	_	_	_	_	_	_	_	O
+90	albuma	_	_	_	_	_	_	_	SpaceAfter=No	O
+91	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 4
+# sent_id = 4.1
+# text = Apokaliptični saundtrek iz fima “Terminator” je intro uz koji se Fear Factory pojavljuje premijerno u Bugarskoj.
+1	Apokaliptični	_	_	_	_	_	_	_	_	O
+2	saundtrek	_	_	_	_	_	_	_	_	O
+3	iz	_	_	_	_	_	_	_	_	O
+4	fima	_	_	_	_	_	_	_	_	O
+5	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+6	Terminator	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	”	”	PUNCT	Z	_	_	_	_	_	O
+8	je	_	_	_	_	_	_	_	_	O
+9	intro	_	_	_	_	_	_	_	_	O
+10	uz	_	_	_	_	_	_	_	_	O
+11	koji	_	_	_	_	_	_	_	_	O
+12	se	_	_	_	_	_	_	_	_	O
+13	Fear	_	_	_	_	_	_	_	_	O
+14	Factory	_	_	_	_	_	_	_	_	O
+15	pojavljuje	_	_	_	_	_	_	_	_	O
+16	premijerno	_	_	_	_	_	_	_	_	O
+17	u	_	_	_	_	_	_	_	_	O
+18	Bugarskoj	_	_	_	_	_	_	_	SpaceAfter=No	O
+19	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 4.2
+# text = Ove godine industrial/groove metal bend je na turneji, koja je prošla i kroz Beograd, i obeležava 30-godišnjicu njihovog drugog, probojnog albuma “Demanufacure” (1995, Roadrunner).
+1	Ove	_	_	_	_	_	_	_	_	O
+2	godine	_	_	_	_	_	_	_	_	O
+3	industrial	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	/	/	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+5	groove	_	_	_	_	_	_	_	_	O
+6	metal	_	_	_	_	_	_	_	_	O
+7	bend	_	_	_	_	_	_	_	_	O
+8	je	_	_	_	_	_	_	_	_	O
+9	na	_	_	_	_	_	_	_	_	O
+10	turneji	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	koja	_	_	_	_	_	_	_	_	O
+13	je	_	_	_	_	_	_	_	_	O
+14	prošla	_	_	_	_	_	_	_	_	O
+15	i	_	_	_	_	_	_	_	_	O
+16	kroz	_	_	_	_	_	_	_	_	O
+17	Beograd	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	,	,	PUNCT	Z	_	_	_	_	_	O
+19	i	_	_	_	_	_	_	_	_	O
+20	obeležava	_	_	_	_	_	_	_	_	O
+21	30-godišnjicu	_	_	_	_	_	_	_	_	O
+22	njihovog	_	_	_	_	_	_	_	_	O
+23	drugog	_	_	_	_	_	_	_	SpaceAfter=No	O
+24	,	,	PUNCT	Z	_	_	_	_	_	O
+25	probojnog	_	_	_	_	_	_	_	_	O
+26	albuma	_	_	_	_	_	_	_	_	O
+27	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+28	Demanufacure	_	_	_	_	_	_	_	SpaceAfter=No	O
+29	”	”	PUNCT	Z	_	_	_	_	_	O
+30	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+31	1995	_	_	_	_	_	_	_	SpaceAfter=No	O
+32	,	,	PUNCT	Z	_	_	_	_	_	O
+33	Roadrunner	_	_	_	_	_	_	_	SpaceAfter=No	O
+34	)	)	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+35	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 4.3
+# text = Inovativan album koji je otvorio nove horizonte, značajan ne samo za bend, već globalno, za celu metal scenu.
+1	Inovativan	_	_	_	_	_	_	_	_	O
+2	album	_	_	_	_	_	_	_	_	O
+3	koji	_	_	_	_	_	_	_	_	O
+4	je	_	_	_	_	_	_	_	_	O
+5	otvorio	_	_	_	_	_	_	_	_	O
+6	nove	_	_	_	_	_	_	_	_	O
+7	horizonte	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	značajan	_	_	_	_	_	_	_	_	O
+10	ne	_	_	_	_	_	_	_	_	O
+11	samo	_	_	_	_	_	_	_	_	O
+12	za	_	_	_	_	_	_	_	_	O
+13	bend	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	,	,	PUNCT	Z	_	_	_	_	_	O
+15	već	_	_	_	_	_	_	_	_	O
+16	globalno	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	,	,	PUNCT	Z	_	_	_	_	_	O
+18	za	_	_	_	_	_	_	_	_	O
+19	celu	_	_	_	_	_	_	_	_	O
+20	metal	_	_	_	_	_	_	_	_	O
+21	scenu	_	_	_	_	_	_	_	SpaceAfter=No	O
+22	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 4.4
+# text = Album je, može se reći, stekao kultni status.
+1	Album	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	može	_	_	_	_	_	_	_	_	O
+5	se	_	_	_	_	_	_	_	_	O
+6	reći	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	stekao	_	_	_	_	_	_	_	_	O
+9	kultni	_	_	_	_	_	_	_	_	O
+10	status	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 4.5
+# text = Tokom decenija je bend je prošao kroz kataklizme, uspone i padove, sudove, odlazak i povratak članova, dva puta prestajao sa radom, ali je uspeo da ostavi bogatu diskografiju iza sebe i, najbitnije, i dalje postoji.
+1	Tokom	_	_	_	_	_	_	_	_	O
+2	decenija	_	_	_	_	_	_	_	_	O
+3	je	_	_	_	_	_	_	_	_	O
+4	bend	_	_	_	_	_	_	_	_	O
+5	je	_	_	_	_	_	_	_	_	O
+6	prošao	_	_	_	_	_	_	_	_	O
+7	kroz	_	_	_	_	_	_	_	_	O
+8	kataklizme	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	uspone	_	_	_	_	_	_	_	_	O
+11	i	_	_	_	_	_	_	_	_	O
+12	padove	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+14	sudove	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	,	,	PUNCT	Z	_	_	_	_	_	O
+16	odlazak	_	_	_	_	_	_	_	_	O
+17	i	_	_	_	_	_	_	_	_	O
+18	povratak	_	_	_	_	_	_	_	_	O
+19	članova	_	_	_	_	_	_	_	SpaceAfter=No	O
+20	,	,	PUNCT	Z	_	_	_	_	_	O
+21	dva	_	_	_	_	_	_	_	_	O
+22	puta	_	_	_	_	_	_	_	_	O
+23	prestajao	_	_	_	_	_	_	_	_	O
+24	sa	_	_	_	_	_	_	_	_	O
+25	radom	_	_	_	_	_	_	_	SpaceAfter=No	O
+26	,	,	PUNCT	Z	_	_	_	_	_	O
+27	ali	_	_	_	_	_	_	_	_	O
+28	je	_	_	_	_	_	_	_	_	O
+29	uspeo	_	_	_	_	_	_	_	_	O
+30	da	_	_	_	_	_	_	_	_	O
+31	ostavi	_	_	_	_	_	_	_	_	O
+32	bogatu	_	_	_	_	_	_	_	_	O
+33	diskografiju	_	_	_	_	_	_	_	_	O
+34	iza	_	_	_	_	_	_	_	_	O
+35	sebe	_	_	_	_	_	_	_	_	O
+36	i	_	_	_	_	_	_	_	SpaceAfter=No	O
+37	,	,	PUNCT	Z	_	_	_	_	_	O
+38	najbitnije	_	_	_	_	_	_	_	SpaceAfter=No	O
+39	,	,	PUNCT	Z	_	_	_	_	_	O
+40	i	_	_	_	_	_	_	_	_	O
+41	dalje	_	_	_	_	_	_	_	_	O
+42	postoji	_	_	_	_	_	_	_	SpaceAfter=No	O
+43	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 4.6
+# text = Od originalne postave trenutno je ostao samo gitarista Dino Cazares, a pored njega su tur-basista Ricky Bonanzza, bubnjar Pete Webber i novi pevač, Milo Silvestro, koji solidno stoji na sceni i ima lepe vokalne adute, ali nekako nema harizmu Burtona, originalnog pevača, koji je nastupao na Exit-u pre deset godina.
+1	Od	_	_	_	_	_	_	_	_	O
+2	originalne	_	_	_	_	_	_	_	_	O
+3	postave	_	_	_	_	_	_	_	_	O
+4	trenutno	_	_	_	_	_	_	_	_	O
+5	je	_	_	_	_	_	_	_	_	O
+6	ostao	_	_	_	_	_	_	_	_	O
+7	samo	_	_	_	_	_	_	_	_	O
+8	gitarista	_	_	_	_	_	_	_	_	O
+9	Dino	_	_	_	_	_	_	_	_	O
+10	Cazares	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	a	_	_	_	_	_	_	_	_	O
+13	pored	_	_	_	_	_	_	_	_	O
+14	njega	_	_	_	_	_	_	_	_	O
+15	su	_	_	_	_	_	_	_	_	O
+16	tur-basista	_	_	_	_	_	_	_	_	O
+17	Ricky	_	_	_	_	_	_	_	_	O
+18	Bonanzza	_	_	_	_	_	_	_	SpaceAfter=No	O
+19	,	,	PUNCT	Z	_	_	_	_	_	O
+20	bubnjar	_	_	_	_	_	_	_	_	O
+21	Pete	_	_	_	_	_	_	_	_	O
+22	Webber	_	_	_	_	_	_	_	_	O
+23	i	_	_	_	_	_	_	_	_	O
+24	novi	_	_	_	_	_	_	_	_	O
+25	pevač	_	_	_	_	_	_	_	SpaceAfter=No	O
+26	,	,	PUNCT	Z	_	_	_	_	_	O
+27	Milo	_	_	_	_	_	_	_	_	O
+28	Silvestro	_	_	_	_	_	_	_	SpaceAfter=No	O
+29	,	,	PUNCT	Z	_	_	_	_	_	O
+30	koji	_	_	_	_	_	_	_	_	O
+31	solidno	_	_	_	_	_	_	_	_	O
+32	stoji	_	_	_	_	_	_	_	_	O
+33	na	_	_	_	_	_	_	_	_	O
+34	sceni	_	_	_	_	_	_	_	_	O
+35	i	_	_	_	_	_	_	_	_	O
+36	ima	_	_	_	_	_	_	_	_	O
+37	lepe	_	_	_	_	_	_	_	_	O
+38	vokalne	_	_	_	_	_	_	_	_	O
+39	adute	_	_	_	_	_	_	_	SpaceAfter=No	O
+40	,	,	PUNCT	Z	_	_	_	_	_	O
+41	ali	_	_	_	_	_	_	_	_	O
+42	nekako	_	_	_	_	_	_	_	_	O
+43	nema	_	_	_	_	_	_	_	_	O
+44	harizmu	_	_	_	_	_	_	_	_	O
+45	Burtona	_	_	_	_	_	_	_	SpaceAfter=No	O
+46	,	,	PUNCT	Z	_	_	_	_	_	O
+47	originalnog	_	_	_	_	_	_	_	_	O
+48	pevača	_	_	_	_	_	_	_	SpaceAfter=No	O
+49	,	,	PUNCT	Z	_	_	_	_	_	O
+50	koji	_	_	_	_	_	_	_	_	O
+51	je	_	_	_	_	_	_	_	_	O
+52	nastupao	_	_	_	_	_	_	_	_	O
+53	na	_	_	_	_	_	_	_	_	O
+54	Exit-u	_	_	_	_	_	_	_	_	O
+55	pre	_	_	_	_	_	_	_	_	O
+56	deset	_	_	_	_	_	_	_	_	O
+57	godina	_	_	_	_	_	_	_	SpaceAfter=No	O
+58	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 4.7
+# text = Burton je Burton, lice Fear Factoryja, uprkos svojim vokalnih manama.
+1	Burton	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	Burton	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	lice	_	_	_	_	_	_	_	_	O
+6	Fear	_	_	_	_	_	_	_	_	O
+7	Factoryja	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	uprkos	_	_	_	_	_	_	_	_	O
+10	svojim	_	_	_	_	_	_	_	_	O
+11	vokalnih	_	_	_	_	_	_	_	_	O
+12	manama	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 4.8
+# text = Bend je odsvirao ceo “Demanufacture” redom, а kao finale se mogla čuti pesma “Archetype” s istoimenog albuma izdatog 2004.
+1	Bend	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	odsvirao	_	_	_	_	_	_	_	_	O
+4	ceo	_	_	_	_	_	_	_	_	O
+5	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+6	Demanufacture	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	”	”	PUNCT	Z	_	_	_	_	_	O
+8	redom	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	а	_	_	_	_	_	_	_	_	O
+11	kao	_	_	_	_	_	_	_	_	O
+12	finale	_	_	_	_	_	_	_	_	O
+13	se	_	_	_	_	_	_	_	_	O
+14	mogla	_	_	_	_	_	_	_	_	O
+15	čuti	_	_	_	_	_	_	_	_	O
+16	pesma	_	_	_	_	_	_	_	_	O
+17	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+18	Archetype	_	_	_	_	_	_	_	SpaceAfter=No	O
+19	”	”	PUNCT	Z	_	_	_	_	_	O
+20	s	_	_	_	_	_	_	_	_	O
+21	istoimenog	_	_	_	_	_	_	_	_	O
+22	albuma	_	_	_	_	_	_	_	_	O
+23	izdatog	_	_	_	_	_	_	_	_	O
+24	2004.	_	_	_	_	_	_	_	_	O
+
+# newpar id = 5
+# sent_id = 5.1
+# text = Sjajna atmosfera se nastavila i tokom nastupa While She Sleeps.
+1	Sjajna	_	_	_	_	_	_	_	_	O
+2	atmosfera	_	_	_	_	_	_	_	_	O
+3	se	_	_	_	_	_	_	_	_	O
+4	nastavila	_	_	_	_	_	_	_	_	O
+5	i	_	_	_	_	_	_	_	_	O
+6	tokom	_	_	_	_	_	_	_	_	O
+7	nastupa	_	_	_	_	_	_	_	_	O
+8	While	_	_	_	_	_	_	_	_	O
+9	She	_	_	_	_	_	_	_	_	O
+10	Sleeps	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 5.2
+# text = Metalcore bend iz Šefilda je poznat publici u Bugarskoj iz par navrata, a u Beogradu su se mogli videti jednom 2016. godine.
+1	Metalcore	_	_	_	_	_	_	_	_	O
+2	bend	_	_	_	_	_	_	_	_	O
+3	iz	_	_	_	_	_	_	_	_	O
+4	Šefilda	_	_	_	_	_	_	_	_	O
+5	je	_	_	_	_	_	_	_	_	O
+6	poznat	_	_	_	_	_	_	_	_	O
+7	publici	_	_	_	_	_	_	_	_	O
+8	u	_	_	_	_	_	_	_	_	O
+9	Bugarskoj	_	_	_	_	_	_	_	_	O
+10	iz	_	_	_	_	_	_	_	_	O
+11	par	_	_	_	_	_	_	_	_	O
+12	navrata	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+14	a	_	_	_	_	_	_	_	_	O
+15	u	_	_	_	_	_	_	_	_	O
+16	Beogradu	_	_	_	_	_	_	_	_	O
+17	su	_	_	_	_	_	_	_	_	O
+18	se	_	_	_	_	_	_	_	_	O
+19	mogli	_	_	_	_	_	_	_	_	O
+20	videti	_	_	_	_	_	_	_	_	O
+21	jednom	_	_	_	_	_	_	_	_	O
+22	2016.	_	_	_	_	_	_	_	_	O
+23	godine	_	_	_	_	_	_	_	SpaceAfter=No	O
+24	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 5.3
+# text = Zapravo, bend je popularniji kod mlađeg dela publike i uvek nudi energičan šou, ispunjen moshovanjem, circle pitovima, wall of deathovima, skakanjem i zajedničkim pevanjem.
+1	Zapravo	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	bend	_	_	_	_	_	_	_	_	O
+4	je	_	_	_	_	_	_	_	_	O
+5	popularniji	_	_	_	_	_	_	_	_	O
+6	kod	_	_	_	_	_	_	_	_	O
+7	mlađeg	_	_	_	_	_	_	_	_	O
+8	dela	_	_	_	_	_	_	_	_	O
+9	publike	_	_	_	_	_	_	_	_	O
+10	i	_	_	_	_	_	_	_	_	O
+11	uvek	_	_	_	_	_	_	_	_	O
+12	nudi	_	_	_	_	_	_	_	_	O
+13	energičan	_	_	_	_	_	_	_	_	O
+14	šou	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	,	,	PUNCT	Z	_	_	_	_	_	O
+16	ispunjen	_	_	_	_	_	_	_	_	O
+17	moshovanjem	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	,	,	PUNCT	Z	_	_	_	_	_	O
+19	circle	_	_	_	_	_	_	_	_	O
+20	pitovima	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	,	,	PUNCT	Z	_	_	_	_	_	O
+22	wall	_	_	_	_	_	_	_	_	O
+23	of	_	_	_	_	_	_	_	_	O
+24	deathovima	_	_	_	_	_	_	_	SpaceAfter=No	O
+25	,	,	PUNCT	Z	_	_	_	_	_	O
+26	skakanjem	_	_	_	_	_	_	_	_	O
+27	i	_	_	_	_	_	_	_	_	O
+28	zajedničkim	_	_	_	_	_	_	_	_	O
+29	pevanjem	_	_	_	_	_	_	_	SpaceAfter=No	O
+30	.	.	PUNCT	Z	_	_	_	_	_	O
+
+#name = marija
+#domen = muzika
+#url = https://balkanrock.com/autorski-clanci/recenzije/buc-kesidi-moderne-veze-2025/
+# newpar id = 1
+
+
+# newpar id = 3
+# sent_id = 3.1
+# text = Nakon više preslušavanja albuma, ne možete da otmete utisku da Buč Kesidi potajno ne želi da vi ovaj album slušate (pre)više puta.
+1	Nakon	_	_	_	_	_	_	_	_	O
+2	više	_	_	_	_	_	_	_	_	O
+3	preslušavanja	_	_	_	_	_	_	_	_	O
+4	albuma	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	ne	_	_	_	_	_	_	_	_	O
+7	možete	_	_	_	_	_	_	_	_	O
+8	da	_	_	_	_	_	_	_	_	O
+9	otmete	_	_	_	_	_	_	_	_	O
+10	utisku	_	_	_	_	_	_	_	_	O
+11	da	_	_	_	_	_	_	_	_	O
+12	Buč	_	_	_	_	_	_	_	_	O
+13	Kesidi	_	_	_	_	_	_	_	_	O
+14	potajno	_	_	_	_	_	_	_	_	O
+15	ne	_	_	_	_	_	_	_	_	O
+16	želi	_	_	_	_	_	_	_	_	O
+17	da	_	_	_	_	_	_	_	_	O
+18	vi	_	_	_	_	_	_	_	_	O
+19	ovaj	_	_	_	_	_	_	_	_	O
+20	album	_	_	_	_	_	_	_	_	O
+21	slušate	_	_	_	_	_	_	_	_	O
+22	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+23	pre	_	_	_	_	_	_	_	SpaceAfter=No	O
+24	)	)	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+25	više	_	_	_	_	_	_	_	_	O
+26	puta	_	_	_	_	_	_	_	SpaceAfter=No	O
+27	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 3.2
+# text = Čak i u lossless formatu (koji je redakcija dobila), album zvuči kao da je smiksan tek da bi bio smiksan.
+1	Čak	_	_	_	_	_	_	_	_	O
+2	i	_	_	_	_	_	_	_	_	O
+3	u	_	_	_	_	_	_	_	_	O
+4	lossless	_	_	_	_	_	_	_	_	O
+5	formatu	_	_	_	_	_	_	_	_	O
+6	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+7	koji	_	_	_	_	_	_	_	_	O
+8	je	_	_	_	_	_	_	_	_	O
+9	redakcija	_	_	_	_	_	_	_	_	O
+10	dobila	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	)	)	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	album	_	_	_	_	_	_	_	_	O
+14	zvuči	_	_	_	_	_	_	_	_	O
+15	kao	_	_	_	_	_	_	_	_	O
+16	da	_	_	_	_	_	_	_	_	O
+17	je	_	_	_	_	_	_	_	_	O
+18	smiksan	_	_	_	_	_	_	_	_	O
+19	tek	_	_	_	_	_	_	_	_	O
+20	da	_	_	_	_	_	_	_	_	O
+21	bi	_	_	_	_	_	_	_	_	O
+22	bio	_	_	_	_	_	_	_	_	O
+23	smiksan	_	_	_	_	_	_	_	SpaceAfter=No	O
+24	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 3.3
+# text = Cela zvučna slika je nekako gurnuta napred te ionako mušičave pesme ne mogu jadne ni da dišu.
+1	Cela	_	_	_	_	_	_	_	_	O
+2	zvučna	_	_	_	_	_	_	_	_	O
+3	slika	_	_	_	_	_	_	_	_	O
+4	je	_	_	_	_	_	_	_	_	O
+5	nekako	_	_	_	_	_	_	_	_	O
+6	gurnuta	_	_	_	_	_	_	_	_	O
+7	napred	_	_	_	_	_	_	_	_	O
+8	te	_	_	_	_	_	_	_	_	O
+9	ionako	_	_	_	_	_	_	_	_	O
+10	mušičave	_	_	_	_	_	_	_	_	O
+11	pesme	_	_	_	_	_	_	_	_	O
+12	ne	_	_	_	_	_	_	_	_	O
+13	mogu	_	_	_	_	_	_	_	_	O
+14	jadne	_	_	_	_	_	_	_	_	O
+15	ni	_	_	_	_	_	_	_	_	O
+16	da	_	_	_	_	_	_	_	_	O
+17	dišu	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 3.4
+# text = Zašto i kako je ispalo tako, nije nam jasno, posebno jer je bend proveo godine na bini i postao uigraniji od mnogih starijih kolega.
+1	Zašto	_	_	_	_	_	_	_	_	O
+2	i	_	_	_	_	_	_	_	_	O
+3	kako	_	_	_	_	_	_	_	_	O
+4	je	_	_	_	_	_	_	_	_	O
+5	ispalo	_	_	_	_	_	_	_	_	O
+6	tako	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	nije	_	_	_	_	_	_	_	_	O
+9	nam	_	_	_	_	_	_	_	_	O
+10	jasno	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	posebno	_	_	_	_	_	_	_	_	O
+13	jer	_	_	_	_	_	_	_	_	O
+14	je	_	_	_	_	_	_	_	_	O
+15	bend	_	_	_	_	_	_	_	_	O
+16	proveo	_	_	_	_	_	_	_	_	O
+17	godine	_	_	_	_	_	_	_	_	O
+18	na	_	_	_	_	_	_	_	_	O
+19	bini	_	_	_	_	_	_	_	_	O
+20	i	_	_	_	_	_	_	_	_	O
+21	postao	_	_	_	_	_	_	_	_	O
+22	uigraniji	_	_	_	_	_	_	_	_	O
+23	od	_	_	_	_	_	_	_	_	O
+24	mnogih	_	_	_	_	_	_	_	_	O
+25	starijih	_	_	_	_	_	_	_	_	O
+26	kolega	_	_	_	_	_	_	_	SpaceAfter=No	O
+27	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 3.5
+# text = Bend kao da juri za stadionskim zvukom živih nastupa u okvirima studija.
+1	Bend	_	_	_	_	_	_	_	_	O
+2	kao	_	_	_	_	_	_	_	_	O
+3	da	_	_	_	_	_	_	_	_	O
+4	juri	_	_	_	_	_	_	_	_	O
+5	za	_	_	_	_	_	_	_	_	O
+6	stadionskim	_	_	_	_	_	_	_	_	O
+7	zvukom	_	_	_	_	_	_	_	_	O
+8	živih	_	_	_	_	_	_	_	_	O
+9	nastupa	_	_	_	_	_	_	_	_	O
+10	u	_	_	_	_	_	_	_	_	O
+11	okvirima	_	_	_	_	_	_	_	_	O
+12	studija	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 3.6
+# text = Sve, opet, u cilju podizanja kredibiliteta pesmama koje ionako pišu čekove koje ne mogu da unovče.
+1	Sve	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	opet	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	u	_	_	_	_	_	_	_	_	O
+6	cilju	_	_	_	_	_	_	_	_	O
+7	podizanja	_	_	_	_	_	_	_	_	O
+8	kredibiliteta	_	_	_	_	_	_	_	_	O
+9	pesmama	_	_	_	_	_	_	_	_	O
+10	koje	_	_	_	_	_	_	_	_	O
+11	ionako	_	_	_	_	_	_	_	_	O
+12	pišu	_	_	_	_	_	_	_	_	O
+13	čekove	_	_	_	_	_	_	_	_	O
+14	koje	_	_	_	_	_	_	_	_	O
+15	ne	_	_	_	_	_	_	_	_	O
+16	mogu	_	_	_	_	_	_	_	_	O
+17	da	_	_	_	_	_	_	_	_	O
+18	unovče	_	_	_	_	_	_	_	SpaceAfter=No	O
+19	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 4
+# sent_id = 4.1
+# text = Tema ovog albuma je raskid, tačnije, prilično jednodimenzionalno viđenje kraja jednog emotivnog odnosa.
+1	Tema	_	_	_	_	_	_	_	_	O
+2	ovog	_	_	_	_	_	_	_	_	O
+3	albuma	_	_	_	_	_	_	_	_	O
+4	je	_	_	_	_	_	_	_	_	O
+5	raskid	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	tačnije	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	prilično	_	_	_	_	_	_	_	_	O
+10	jednodimenzionalno	_	_	_	_	_	_	_	_	O
+11	viđenje	_	_	_	_	_	_	_	_	O
+12	kraja	_	_	_	_	_	_	_	_	O
+13	jednog	_	_	_	_	_	_	_	_	O
+14	emotivnog	_	_	_	_	_	_	_	_	O
+15	odnosa	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 4.2
+# text = Dok su nas na prvom albumu oduševili duhovitom manipulacijom reči, a na drugom pravilno doziranim cinizmom, ovde nas Luka i Zoran, blago rečeno, potcenjuju.
+1	Dok	_	_	_	_	_	_	_	_	O
+2	su	_	_	_	_	_	_	_	_	O
+3	nas	_	_	_	_	_	_	_	_	O
+4	na	_	_	_	_	_	_	_	_	O
+5	prvom	_	_	_	_	_	_	_	_	O
+6	albumu	_	_	_	_	_	_	_	_	O
+7	oduševili	_	_	_	_	_	_	_	_	O
+8	duhovitom	_	_	_	_	_	_	_	_	O
+9	manipulacijom	_	_	_	_	_	_	_	_	O
+10	reči	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	a	_	_	_	_	_	_	_	_	O
+13	na	_	_	_	_	_	_	_	_	O
+14	drugom	_	_	_	_	_	_	_	_	O
+15	pravilno	_	_	_	_	_	_	_	_	O
+16	doziranim	_	_	_	_	_	_	_	_	O
+17	cinizmom	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	,	,	PUNCT	Z	_	_	_	_	_	O
+19	ovde	_	_	_	_	_	_	_	_	O
+20	nas	_	_	_	_	_	_	_	_	O
+21	Luka	_	_	_	_	_	_	_	_	B-PER
+22	i	_	_	_	_	_	_	_	_	O
+23	Zoran	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
+24	,	,	PUNCT	Z	_	_	_	_	_	O
+25	blago	_	_	_	_	_	_	_	_	O
+26	rečeno	_	_	_	_	_	_	_	SpaceAfter=No	O
+27	,	,	PUNCT	Z	_	_	_	_	_	O
+28	potcenjuju	_	_	_	_	_	_	_	SpaceAfter=No	O
+29	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 4.3
+# text = Nema drugog objašnjenja za to što je gotovo svaki tekst na albumu na nivou kasne osnovne ili rane srednje škole.
+1	Nema	_	_	_	_	_	_	_	_	O
+2	drugog	_	_	_	_	_	_	_	_	O
+3	objašnjenja	_	_	_	_	_	_	_	_	O
+4	za	_	_	_	_	_	_	_	_	O
+5	to	_	_	_	_	_	_	_	_	O
+6	što	_	_	_	_	_	_	_	_	O
+7	je	_	_	_	_	_	_	_	_	O
+8	gotovo	_	_	_	_	_	_	_	_	O
+9	svaki	_	_	_	_	_	_	_	_	O
+10	tekst	_	_	_	_	_	_	_	_	O
+11	na	_	_	_	_	_	_	_	_	O
+12	albumu	_	_	_	_	_	_	_	_	O
+13	na	_	_	_	_	_	_	_	_	O
+14	nivou	_	_	_	_	_	_	_	_	O
+15	kasne	_	_	_	_	_	_	_	_	O
+16	osnovne	_	_	_	_	_	_	_	_	O
+17	ili	_	_	_	_	_	_	_	_	O
+18	rane	_	_	_	_	_	_	_	_	O
+19	srednje	_	_	_	_	_	_	_	_	O
+20	škole	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 4.4
+# text = Cinik u potpisniku ovih redova bi rekao da se Buč Kesidi samouvereno preorijentisao tako da zadobije srce mlađeg dela ženske publike.
+1	Cinik	_	_	_	_	_	_	_	_	O
+2	u	_	_	_	_	_	_	_	_	O
+3	potpisniku	_	_	_	_	_	_	_	_	O
+4	ovih	_	_	_	_	_	_	_	_	O
+5	redova	_	_	_	_	_	_	_	_	O
+6	bi	_	_	_	_	_	_	_	_	O
+7	rekao	_	_	_	_	_	_	_	_	O
+8	da	_	_	_	_	_	_	_	_	O
+9	se	_	_	_	_	_	_	_	_	O
+10	Buč	_	_	_	_	_	_	_	_	B-ORG
+11	Kesidi	_	_	_	_	_	_	_	_	I-ORG
+12	samouvereno	_	_	_	_	_	_	_	_	O
+13	preorijentisao	_	_	_	_	_	_	_	_	O
+14	tako	_	_	_	_	_	_	_	_	O
+15	da	_	_	_	_	_	_	_	_	O
+16	zadobije	_	_	_	_	_	_	_	_	O
+17	srce	_	_	_	_	_	_	_	_	O
+18	mlađeg	_	_	_	_	_	_	_	_	O
+19	dela	_	_	_	_	_	_	_	_	O
+20	ženske	_	_	_	_	_	_	_	_	O
+21	publike	_	_	_	_	_	_	_	SpaceAfter=No	O
+22	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 4.5
+# text = Uz izuzetak jedne pesme „Pusti da gori“, sve otpevano zvuči kao nešto što bi četrnaestogodišnji školarci napisali u poruci.
+1	Uz	_	_	_	_	_	_	_	_	O
+2	izuzetak	_	_	_	_	_	_	_	_	O
+3	jedne	_	_	_	_	_	_	_	_	O
+4	pesme	_	_	_	_	_	_	_	_	O
+5	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+6	Pusti	_	_	_	_	_	_	_	_	O
+7	da	_	_	_	_	_	_	_	_	O
+8	gori	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	sve	_	_	_	_	_	_	_	_	O
+12	otpevano	_	_	_	_	_	_	_	_	O
+13	zvuči	_	_	_	_	_	_	_	_	O
+14	kao	_	_	_	_	_	_	_	_	O
+15	nešto	_	_	_	_	_	_	_	_	O
+16	što	_	_	_	_	_	_	_	_	O
+17	bi	_	_	_	_	_	_	_	_	O
+18	četrnaestogodišnji	_	_	_	_	_	_	_	_	O
+19	školarci	_	_	_	_	_	_	_	_	O
+20	napisali	_	_	_	_	_	_	_	_	O
+21	u	_	_	_	_	_	_	_	_	O
+22	poruci	_	_	_	_	_	_	_	SpaceAfter=No	O
+23	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 4.6
+# text = Najcrnje od svega je što album počne strofom koja (lažno) nagoveštava da stvari nisu toliko loše.
+1	Najcrnje	_	_	_	_	_	_	_	_	O
+2	od	_	_	_	_	_	_	_	_	O
+3	svega	_	_	_	_	_	_	_	_	O
+4	je	_	_	_	_	_	_	_	_	O
+5	što	_	_	_	_	_	_	_	_	O
+6	album	_	_	_	_	_	_	_	_	O
+7	počne	_	_	_	_	_	_	_	_	O
+8	strofom	_	_	_	_	_	_	_	_	O
+9	koja	_	_	_	_	_	_	_	_	O
+10	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+11	lažno	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	)	)	PUNCT	Z	_	_	_	_	_	O
+13	nagoveštava	_	_	_	_	_	_	_	_	O
+14	da	_	_	_	_	_	_	_	_	O
+15	stvari	_	_	_	_	_	_	_	_	O
+16	nisu	_	_	_	_	_	_	_	_	O
+17	toliko	_	_	_	_	_	_	_	_	O
+18	loše	_	_	_	_	_	_	_	SpaceAfter=No	O
+19	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 5
+# sent_id = 5.1
+# text = Umesto britkog Buč Kesidija iz „Kafe aparata”, dobili smo bend sa pesmama naivnijim nego što je to bio prvi album znatno mlađih momaka iz Drama (koji su u međuvremenu odrasli preko noći, prim.
+1	Umesto	_	_	_	_	_	_	_	_	O
+2	britkog	_	_	_	_	_	_	_	_	O
+3	Buč	_	_	_	_	_	_	_	_	B-ORG
+4	Kesidija	_	_	_	_	_	_	_	_	I-ORG
+5	iz	_	_	_	_	_	_	_	_	O
+6	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+7	Kafe	_	_	_	_	_	_	_	_	O
+8	aparata	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	”	”	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	dobili	_	_	_	_	_	_	_	_	O
+12	smo	_	_	_	_	_	_	_	_	O
+13	bend	_	_	_	_	_	_	_	_	O
+14	sa	_	_	_	_	_	_	_	_	O
+15	pesmama	_	_	_	_	_	_	_	_	O
+16	naivnijim	_	_	_	_	_	_	_	_	O
+17	nego	_	_	_	_	_	_	_	_	O
+18	što	_	_	_	_	_	_	_	_	O
+19	je	_	_	_	_	_	_	_	_	O
+20	to	_	_	_	_	_	_	_	_	O
+21	bio	_	_	_	_	_	_	_	_	O
+22	prvi	_	_	_	_	_	_	_	_	O
+23	album	_	_	_	_	_	_	_	_	O
+24	znatno	_	_	_	_	_	_	_	_	O
+25	mlađih	_	_	_	_	_	_	_	_	O
+26	momaka	_	_	_	_	_	_	_	_	O
+27	iz	_	_	_	_	_	_	_	_	O
+28	Drama	_	_	_	_	_	_	_	_	B-ORG
+29	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+30	koji	_	_	_	_	_	_	_	_	O
+31	su	_	_	_	_	_	_	_	_	O
+32	u	_	_	_	_	_	_	_	_	O
+33	međuvremenu	_	_	_	_	_	_	_	_	O
+34	odrasli	_	_	_	_	_	_	_	_	O
+35	preko	_	_	_	_	_	_	_	_	O
+36	noći	_	_	_	_	_	_	_	SpaceAfter=No	O
+37	,	,	PUNCT	Z	_	_	_	_	_	O
+38	prim	_	_	_	_	_	_	_	SpaceAfter=No	O
+39	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 5.2
+# text = aut).
+1	aut	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	)	)	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+3	.	.	PUNCT	Z	_	_	_	_	_	O

@@ -1,0 +1,559 @@
+#name = ognjen
+#anotator = marija
+#domen = knjizevni
+#url = https://delfi.rs/_img/artikli/2017/06/postasavili.pdf
+# newpar id = 1
+# sent_id = 1.1
+# text = Kažu da se, od pomisli na predstojeće vešanje sutra ujutru, um duboko usredsredi; nažalost, neizbežno se usredsredi upravo na činjenicu da će telo u kom se nalazi ujutru biti obešeno.
+1	Kažu	_	_	_	_	_	_	_	_	O
+2	da	_	_	_	_	_	_	_	_	O
+3	se	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	od	_	_	_	_	_	_	_	_	O
+6	pomisli	_	_	_	_	_	_	_	_	O
+7	na	_	_	_	_	_	_	_	_	O
+8	predstojeće	_	_	_	_	_	_	_	_	O
+9	vešanje	_	_	_	_	_	_	_	_	O
+10	sutra	_	_	_	_	_	_	_	_	O
+11	ujutru	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	um	_	_	_	_	_	_	_	_	O
+14	duboko	_	_	_	_	_	_	_	_	O
+15	usredsredi	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	;	;	PUNCT	Z	_	_	_	_	_	O
+17	nažalost	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	,	,	PUNCT	Z	_	_	_	_	_	O
+19	neizbežno	_	_	_	_	_	_	_	_	O
+20	se	_	_	_	_	_	_	_	_	O
+21	usredsredi	_	_	_	_	_	_	_	_	O
+22	upravo	_	_	_	_	_	_	_	_	O
+23	na	_	_	_	_	_	_	_	_	O
+24	činjenicu	_	_	_	_	_	_	_	_	O
+25	da	_	_	_	_	_	_	_	_	O
+26	će	_	_	_	_	_	_	_	_	O
+27	telo	_	_	_	_	_	_	_	_	O
+28	u	_	_	_	_	_	_	_	_	O
+29	kom	_	_	_	_	_	_	_	_	O
+30	se	_	_	_	_	_	_	_	_	O
+31	nalazi	_	_	_	_	_	_	_	_	O
+32	ujutru	_	_	_	_	_	_	_	_	O
+33	biti	_	_	_	_	_	_	_	_	O
+34	obešeno	_	_	_	_	_	_	_	SpaceAfter=No	O
+35	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.2
+# text = Zaljubljeni, premda ne naročito mudri roditelji nazvali su čoveka kom je sledovalo vešanje Vlaža fon Lipvig, ali on nije želeo da dalje sramoti ovo ime, ukoliko je to uopšte više bilo moguće, tako što bi dopustio da ga pod njim obese.
+1	Zaljubljeni	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	premda	_	_	_	_	_	_	_	_	O
+4	ne	_	_	_	_	_	_	_	_	O
+5	naročito	_	_	_	_	_	_	_	_	O
+6	mudri	_	_	_	_	_	_	_	_	O
+7	roditelji	_	_	_	_	_	_	_	_	O
+8	nazvali	_	_	_	_	_	_	_	_	O
+9	su	_	_	_	_	_	_	_	_	O
+10	čoveka	_	_	_	_	_	_	_	_	O
+11	kom	_	_	_	_	_	_	_	_	O
+12	je	_	_	_	_	_	_	_	_	O
+13	sledovalo	_	_	_	_	_	_	_	_	O
+14	vešanje	_	_	_	_	_	_	_	_	O
+15	Vlaža	_	_	_	_	_	_	_	_	B-PER
+16	fon	_	_	_	_	_	_	_	_	I-PER
+17	Lipvig	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
+18	,	,	PUNCT	Z	_	_	_	_	_	O
+19	ali	_	_	_	_	_	_	_	_	O
+20	on	_	_	_	_	_	_	_	_	O
+21	nije	_	_	_	_	_	_	_	_	O
+22	želeo	_	_	_	_	_	_	_	_	O
+23	da	_	_	_	_	_	_	_	_	O
+24	dalje	_	_	_	_	_	_	_	_	O
+25	sramoti	_	_	_	_	_	_	_	_	O
+26	ovo	_	_	_	_	_	_	_	_	O
+27	ime	_	_	_	_	_	_	_	SpaceAfter=No	O
+28	,	,	PUNCT	Z	_	_	_	_	_	O
+29	ukoliko	_	_	_	_	_	_	_	_	O
+30	je	_	_	_	_	_	_	_	_	O
+31	to	_	_	_	_	_	_	_	_	O
+32	uopšte	_	_	_	_	_	_	_	_	O
+33	više	_	_	_	_	_	_	_	_	O
+34	bilo	_	_	_	_	_	_	_	_	O
+35	moguće	_	_	_	_	_	_	_	SpaceAfter=No	O
+36	,	,	PUNCT	Z	_	_	_	_	_	O
+37	tako	_	_	_	_	_	_	_	_	O
+38	što	_	_	_	_	_	_	_	_	O
+39	bi	_	_	_	_	_	_	_	_	O
+40	dopustio	_	_	_	_	_	_	_	_	O
+41	da	_	_	_	_	_	_	_	_	O
+42	ga	_	_	_	_	_	_	_	_	O
+43	pod	_	_	_	_	_	_	_	_	O
+44	njim	_	_	_	_	_	_	_	_	O
+45	obese	_	_	_	_	_	_	_	SpaceAfter=No	O
+46	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.3
+# text = Za svet u širem smislu, a naročito za onaj njegov delić koji nazivamo smrtnom presudom, on je bio Albert Spangler.
+1	Za	_	_	_	_	_	_	_	_	O
+2	svet	_	_	_	_	_	_	_	_	O
+3	u	_	_	_	_	_	_	_	_	O
+4	širem	_	_	_	_	_	_	_	_	O
+5	smislu	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	a	_	_	_	_	_	_	_	_	O
+8	naročito	_	_	_	_	_	_	_	_	O
+9	za	_	_	_	_	_	_	_	_	O
+10	onaj	_	_	_	_	_	_	_	_	O
+11	njegov	_	_	_	_	_	_	_	_	O
+12	delić	_	_	_	_	_	_	_	_	O
+13	koji	_	_	_	_	_	_	_	_	O
+14	nazivamo	_	_	_	_	_	_	_	_	O
+15	smrtnom	_	_	_	_	_	_	_	_	O
+16	presudom	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	,	,	PUNCT	Z	_	_	_	_	_	O
+18	on	_	_	_	_	_	_	_	_	O
+19	je	_	_	_	_	_	_	_	_	O
+20	bio	_	_	_	_	_	_	_	_	O
+21	Albert	_	_	_	_	_	_	_	_	B-PER
+22	Spangler	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+23	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.4
+# text = Okolnostima u kojima se našao pristupio je s vedrije strane i usredsredio se na mogućnost da ne bude obešen ujutru, a posebno na mogućnost da ukloni sav trošni malter oko kamena u ćelijskom zidu, i to kašikom.
+1	Okolnostima	_	_	_	_	_	_	_	_	O
+2	u	_	_	_	_	_	_	_	_	O
+3	kojima	_	_	_	_	_	_	_	_	O
+4	se	_	_	_	_	_	_	_	_	O
+5	našao	_	_	_	_	_	_	_	_	O
+6	pristupio	_	_	_	_	_	_	_	_	O
+7	je	_	_	_	_	_	_	_	_	O
+8	s	_	_	_	_	_	_	_	_	O
+9	vedrije	_	_	_	_	_	_	_	_	O
+10	strane	_	_	_	_	_	_	_	_	O
+11	i	_	_	_	_	_	_	_	_	O
+12	usredsredio	_	_	_	_	_	_	_	_	O
+13	se	_	_	_	_	_	_	_	_	O
+14	na	_	_	_	_	_	_	_	_	O
+15	mogućnost	_	_	_	_	_	_	_	_	O
+16	da	_	_	_	_	_	_	_	_	O
+17	ne	_	_	_	_	_	_	_	_	O
+18	bude	_	_	_	_	_	_	_	_	O
+19	obešen	_	_	_	_	_	_	_	_	O
+20	ujutru	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	,	,	PUNCT	Z	_	_	_	_	_	O
+22	a	_	_	_	_	_	_	_	_	O
+23	posebno	_	_	_	_	_	_	_	_	O
+24	na	_	_	_	_	_	_	_	_	O
+25	mogućnost	_	_	_	_	_	_	_	_	O
+26	da	_	_	_	_	_	_	_	_	O
+27	ukloni	_	_	_	_	_	_	_	_	O
+28	sav	_	_	_	_	_	_	_	_	O
+29	trošni	_	_	_	_	_	_	_	_	O
+30	malter	_	_	_	_	_	_	_	_	O
+31	oko	_	_	_	_	_	_	_	_	O
+32	kamena	_	_	_	_	_	_	_	_	O
+33	u	_	_	_	_	_	_	_	_	O
+34	ćelijskom	_	_	_	_	_	_	_	_	O
+35	zidu	_	_	_	_	_	_	_	SpaceAfter=No	O
+36	,	,	PUNCT	Z	_	_	_	_	_	O
+37	i	_	_	_	_	_	_	_	_	O
+38	to	_	_	_	_	_	_	_	_	O
+39	kašikom	_	_	_	_	_	_	_	SpaceAfter=No	O
+40	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.5
+# text = Posao je trajao već pet nedelja, i od kašike mu je ostalo nešto nalik na turpiju za nokte.
+1	Posao	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	trajao	_	_	_	_	_	_	_	_	O
+4	već	_	_	_	_	_	_	_	_	O
+5	pet	_	_	_	_	_	_	_	_	O
+6	nedelja	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	i	_	_	_	_	_	_	_	_	O
+9	od	_	_	_	_	_	_	_	_	O
+10	kašike	_	_	_	_	_	_	_	_	O
+11	mu	_	_	_	_	_	_	_	_	O
+12	je	_	_	_	_	_	_	_	_	O
+13	ostalo	_	_	_	_	_	_	_	_	O
+14	nešto	_	_	_	_	_	_	_	_	O
+15	nalik	_	_	_	_	_	_	_	_	O
+16	na	_	_	_	_	_	_	_	_	O
+17	turpiju	_	_	_	_	_	_	_	_	O
+18	za	_	_	_	_	_	_	_	_	O
+19	nokte	_	_	_	_	_	_	_	SpaceAfter=No	O
+20	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.6
+# text = Na sreću, ovde niko nikad nije menjao posteljinu ili bi zatekao najteži dušek na svetu.
+1	Na	_	_	_	_	_	_	_	_	O
+2	sreću	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	ovde	_	_	_	_	_	_	_	_	O
+5	niko	_	_	_	_	_	_	_	_	O
+6	nikad	_	_	_	_	_	_	_	_	O
+7	nije	_	_	_	_	_	_	_	_	O
+8	menjao	_	_	_	_	_	_	_	_	O
+9	posteljinu	_	_	_	_	_	_	_	_	O
+10	ili	_	_	_	_	_	_	_	_	O
+11	bi	_	_	_	_	_	_	_	_	O
+12	zatekao	_	_	_	_	_	_	_	_	O
+13	najteži	_	_	_	_	_	_	_	_	O
+14	dušek	_	_	_	_	_	_	_	_	O
+15	na	_	_	_	_	_	_	_	_	O
+16	svetu	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.7
+# text = Trenutno je Vlaža bio zaokupljen jednim velikim i teškim kamenom, u koji je u nekom trenutku neko ukucao ogromnu alku, za koju je trebalo zakačiti okove.
+1	Trenutno	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	Vlaža	_	_	_	_	_	_	_	_	B-PER
+4	bio	_	_	_	_	_	_	_	_	O
+5	zaokupljen	_	_	_	_	_	_	_	_	O
+6	jednim	_	_	_	_	_	_	_	_	O
+7	velikim	_	_	_	_	_	_	_	_	O
+8	i	_	_	_	_	_	_	_	_	O
+9	teškim	_	_	_	_	_	_	_	_	O
+10	kamenom	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	u	_	_	_	_	_	_	_	_	O
+13	koji	_	_	_	_	_	_	_	_	O
+14	je	_	_	_	_	_	_	_	_	O
+15	u	_	_	_	_	_	_	_	_	O
+16	nekom	_	_	_	_	_	_	_	_	O
+17	trenutku	_	_	_	_	_	_	_	_	O
+18	neko	_	_	_	_	_	_	_	_	O
+19	ukucao	_	_	_	_	_	_	_	_	O
+20	ogromnu	_	_	_	_	_	_	_	_	O
+21	alku	_	_	_	_	_	_	_	SpaceAfter=No	O
+22	,	,	PUNCT	Z	_	_	_	_	_	O
+23	za	_	_	_	_	_	_	_	_	O
+24	koju	_	_	_	_	_	_	_	_	O
+25	je	_	_	_	_	_	_	_	_	O
+26	trebalo	_	_	_	_	_	_	_	_	O
+27	zakačiti	_	_	_	_	_	_	_	_	O
+28	okove	_	_	_	_	_	_	_	SpaceAfter=No	O
+29	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.8
+# text = Vlaža je seo licem prema zidu, ščepao je gvozdenu alku obema rukama, nogama se odupro o kamenove sa obe strane, i povukao.
+1	Vlaža	_	_	_	_	_	_	_	_	B-PER
+2	je	_	_	_	_	_	_	_	_	O
+3	seo	_	_	_	_	_	_	_	_	O
+4	licem	_	_	_	_	_	_	_	_	O
+5	prema	_	_	_	_	_	_	_	_	O
+6	zidu	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	ščepao	_	_	_	_	_	_	_	_	O
+9	je	_	_	_	_	_	_	_	_	O
+10	gvozdenu	_	_	_	_	_	_	_	_	O
+11	alku	_	_	_	_	_	_	_	_	O
+12	obema	_	_	_	_	_	_	_	_	O
+13	rukama	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	,	,	PUNCT	Z	_	_	_	_	_	O
+15	nogama	_	_	_	_	_	_	_	_	O
+16	se	_	_	_	_	_	_	_	_	O
+17	odupro	_	_	_	_	_	_	_	_	O
+18	o	_	_	_	_	_	_	_	_	O
+19	kamenove	_	_	_	_	_	_	_	_	O
+20	sa	_	_	_	_	_	_	_	_	O
+21	obe	_	_	_	_	_	_	_	_	O
+22	strane	_	_	_	_	_	_	_	SpaceAfter=No	O
+23	,	,	PUNCT	Z	_	_	_	_	_	O
+24	i	_	_	_	_	_	_	_	_	O
+25	povukao	_	_	_	_	_	_	_	SpaceAfter=No	O
+26	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.9
+# text = Ramena su mu gorela i crvena izmaglica preplavila mu je vidno polje, ali kamen je iskliznuo napolje uz jedva čujno i nimalo prigodno zveckanje.
+1	Ramena	_	_	_	_	_	_	_	_	O
+2	su	_	_	_	_	_	_	_	_	O
+3	mu	_	_	_	_	_	_	_	_	O
+4	gorela	_	_	_	_	_	_	_	_	O
+5	i	_	_	_	_	_	_	_	_	O
+6	crvena	_	_	_	_	_	_	_	_	O
+7	izmaglica	_	_	_	_	_	_	_	_	O
+8	preplavila	_	_	_	_	_	_	_	_	O
+9	mu	_	_	_	_	_	_	_	_	O
+10	je	_	_	_	_	_	_	_	_	O
+11	vidno	_	_	_	_	_	_	_	_	O
+12	polje	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+14	ali	_	_	_	_	_	_	_	_	O
+15	kamen	_	_	_	_	_	_	_	_	O
+16	je	_	_	_	_	_	_	_	_	O
+17	iskliznuo	_	_	_	_	_	_	_	_	O
+18	napolje	_	_	_	_	_	_	_	_	O
+19	uz	_	_	_	_	_	_	_	_	O
+20	jedva	_	_	_	_	_	_	_	_	O
+21	čujno	_	_	_	_	_	_	_	_	O
+22	i	_	_	_	_	_	_	_	_	O
+23	nimalo	_	_	_	_	_	_	_	_	O
+24	prigodno	_	_	_	_	_	_	_	_	O
+25	zveckanje	_	_	_	_	_	_	_	SpaceAfter=No	O
+26	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.10
+# text = Vlaža uspe da ga izvadi iz rupe i zaviri unutra.
+1	Vlaža	_	_	_	_	_	_	_	_	B-PER
+2	uspe	_	_	_	_	_	_	_	_	O
+3	da	_	_	_	_	_	_	_	_	O
+4	ga	_	_	_	_	_	_	_	_	O
+5	izvadi	_	_	_	_	_	_	_	_	O
+6	iz	_	_	_	_	_	_	_	_	O
+7	rupe	_	_	_	_	_	_	_	_	O
+8	i	_	_	_	_	_	_	_	_	O
+9	zaviri	_	_	_	_	_	_	_	_	O
+10	unutra	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	.	.	PUNCT	Z	_	_	_	_	_	O
+
+
+#name = ognjen
+#domen = knjizevni
+#url = https://delfi.rs/_img/artikli/2014/12/put_kraljeva_-_i_deo_o.pdf
+# newpar id = 1
+# sent_id = 1.1
+# text = Kalak obiđe kameni greben i zateturavši se stade ispred tela umirućeg gromoslomljenog.
+1	Kalak	_	_	_	_	_	_	_	_	B-PER
+2	obiđe	_	_	_	_	_	_	_	_	O
+3	kameni	_	_	_	_	_	_	_	_	O
+4	greben	_	_	_	_	_	_	_	_	O
+5	i	_	_	_	_	_	_	_	_	O
+6	zateturavši	_	_	_	_	_	_	_	_	O
+7	se	_	_	_	_	_	_	_	_	O
+8	stade	_	_	_	_	_	_	_	_	O
+9	ispred	_	_	_	_	_	_	_	_	O
+10	tela	_	_	_	_	_	_	_	_	O
+11	umirućeg	_	_	_	_	_	_	_	_	O
+12	gromoslomljenog	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.2
+# text = Ogromna kamena zver bila je izvaljena na bok a rebrolika ispupčenja iz njenih grudi bila su skršena i ispucala.
+1	Ogromna	_	_	_	_	_	_	_	_	O
+2	kamena	_	_	_	_	_	_	_	_	O
+3	zver	_	_	_	_	_	_	_	_	O
+4	bila	_	_	_	_	_	_	_	_	O
+5	je	_	_	_	_	_	_	_	_	O
+6	izvaljena	_	_	_	_	_	_	_	_	O
+7	na	_	_	_	_	_	_	_	_	O
+8	bok	_	_	_	_	_	_	_	_	O
+9	a	_	_	_	_	_	_	_	_	O
+10	rebrolika	_	_	_	_	_	_	_	_	O
+11	ispupčenja	_	_	_	_	_	_	_	_	O
+12	iz	_	_	_	_	_	_	_	_	O
+13	njenih	_	_	_	_	_	_	_	_	O
+14	grudi	_	_	_	_	_	_	_	_	O
+15	bila	_	_	_	_	_	_	_	_	O
+16	su	_	_	_	_	_	_	_	_	O
+17	skršena	_	_	_	_	_	_	_	_	O
+18	i	_	_	_	_	_	_	_	_	O
+19	ispucala	_	_	_	_	_	_	_	SpaceAfter=No	O
+20	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.3
+# text = Čudovište je bilo nekako neodređeno skeletno, neprirodno dugačkih udova koji kao da su nicali iz granitnih doba.
+1	Čudovište	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	bilo	_	_	_	_	_	_	_	_	O
+4	nekako	_	_	_	_	_	_	_	_	O
+5	neodređeno	_	_	_	_	_	_	_	_	O
+6	skeletno	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	neprirodno	_	_	_	_	_	_	_	_	O
+9	dugačkih	_	_	_	_	_	_	_	_	O
+10	udova	_	_	_	_	_	_	_	_	O
+11	koji	_	_	_	_	_	_	_	_	O
+12	kao	_	_	_	_	_	_	_	_	O
+13	da	_	_	_	_	_	_	_	_	O
+14	su	_	_	_	_	_	_	_	_	O
+15	nicali	_	_	_	_	_	_	_	_	O
+16	iz	_	_	_	_	_	_	_	_	O
+17	granitnih	_	_	_	_	_	_	_	_	O
+18	doba	_	_	_	_	_	_	_	SpaceAfter=No	O
+19	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.4
+# text = Oči, duboke crvene tačke na licu koje je ličilo na glavu strele, behu kao da ih je stvarala nekakva vatra što je tinjala duboko u kamenu.
+1	Oči	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	duboke	_	_	_	_	_	_	_	_	O
+4	crvene	_	_	_	_	_	_	_	_	O
+5	tačke	_	_	_	_	_	_	_	_	O
+6	na	_	_	_	_	_	_	_	_	O
+7	licu	_	_	_	_	_	_	_	_	O
+8	koje	_	_	_	_	_	_	_	_	O
+9	je	_	_	_	_	_	_	_	_	O
+10	ličilo	_	_	_	_	_	_	_	_	O
+11	na	_	_	_	_	_	_	_	_	O
+12	glavu	_	_	_	_	_	_	_	_	O
+13	strele	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	,	,	PUNCT	Z	_	_	_	_	_	O
+15	behu	_	_	_	_	_	_	_	_	O
+16	kao	_	_	_	_	_	_	_	_	O
+17	da	_	_	_	_	_	_	_	_	O
+18	ih	_	_	_	_	_	_	_	_	O
+19	je	_	_	_	_	_	_	_	_	O
+20	stvarala	_	_	_	_	_	_	_	_	O
+21	nekakva	_	_	_	_	_	_	_	_	O
+22	vatra	_	_	_	_	_	_	_	_	O
+23	što	_	_	_	_	_	_	_	_	O
+24	je	_	_	_	_	_	_	_	_	O
+25	tinjala	_	_	_	_	_	_	_	_	O
+26	duboko	_	_	_	_	_	_	_	_	O
+27	u	_	_	_	_	_	_	_	_	O
+28	kamenu	_	_	_	_	_	_	_	SpaceAfter=No	O
+29	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.5
+# text = Ta vatra je zamirala.
+1	Ta	_	_	_	_	_	_	_	_	O
+2	vatra	_	_	_	_	_	_	_	_	O
+3	je	_	_	_	_	_	_	_	_	O
+4	zamirala	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.6
+# text = Čak i nakon svih tih stoleća, Kalak se naježio kada je izbliza ugledao gromoslomljenog.
+1	Čak	_	_	_	_	_	_	_	_	O
+2	i	_	_	_	_	_	_	_	_	O
+3	nakon	_	_	_	_	_	_	_	_	O
+4	svih	_	_	_	_	_	_	_	_	O
+5	tih	_	_	_	_	_	_	_	_	O
+6	stoleća	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	Kalak	_	_	_	_	_	_	_	_	B-PER
+9	se	_	_	_	_	_	_	_	_	O
+10	naježio	_	_	_	_	_	_	_	_	O
+11	kada	_	_	_	_	_	_	_	_	O
+12	je	_	_	_	_	_	_	_	_	O
+13	izbliza	_	_	_	_	_	_	_	_	O
+14	ugledao	_	_	_	_	_	_	_	_	O
+15	gromoslomljenog	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.7
+# text = Šaka te zveri bila je duga koliko je prosečan čovek visok.
+1	Šaka	_	_	_	_	_	_	_	_	O
+2	te	_	_	_	_	_	_	_	_	O
+3	zveri	_	_	_	_	_	_	_	_	O
+4	bila	_	_	_	_	_	_	_	_	O
+5	je	_	_	_	_	_	_	_	_	O
+6	duga	_	_	_	_	_	_	_	_	O
+7	koliko	_	_	_	_	_	_	_	_	O
+8	je	_	_	_	_	_	_	_	_	O
+9	prosečan	_	_	_	_	_	_	_	_	O
+10	čovek	_	_	_	_	_	_	_	_	O
+11	visok	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.8
+# text = Ranije se dešavalo da ga takve ruke ubijaju – i to nije bivalo prijatno.
+1	Ranije	_	_	_	_	_	_	_	_	O
+2	se	_	_	_	_	_	_	_	_	O
+3	dešavalo	_	_	_	_	_	_	_	_	O
+4	da	_	_	_	_	_	_	_	_	O
+5	ga	_	_	_	_	_	_	_	_	O
+6	takve	_	_	_	_	_	_	_	_	O
+7	ruke	_	_	_	_	_	_	_	_	O
+8	ubijaju	_	_	_	_	_	_	_	_	O
+9	–	–	PUNCT	Z	_	_	_	_	_	O
+10	i	_	_	_	_	_	_	_	_	O
+11	to	_	_	_	_	_	_	_	_	O
+12	nije	_	_	_	_	_	_	_	_	O
+13	bivalo	_	_	_	_	_	_	_	_	O
+14	prijatno	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.9
+# text = Naravno, umiranje je retko kada prijatno.
+1	Naravno	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	umiranje	_	_	_	_	_	_	_	_	O
+4	je	_	_	_	_	_	_	_	_	O
+5	retko	_	_	_	_	_	_	_	_	O
+6	kada	_	_	_	_	_	_	_	_	O
+7	prijatno	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.10
+# text = On obiđe tog stvora, pažljivo hodajući preko bojišta.
+1	On	_	_	_	_	_	_	_	_	O
+2	obiđe	_	_	_	_	_	_	_	_	O
+3	tog	_	_	_	_	_	_	_	_	O
+4	stvora	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	pažljivo	_	_	_	_	_	_	_	_	O
+7	hodajući	_	_	_	_	_	_	_	_	O
+8	preko	_	_	_	_	_	_	_	_	O
+9	bojišta	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.11
+# text = Prostor oko njega sastojao se od izvitoperenog stenja i kamenja, svuda unaokolo dizali su se prirodni stubovi, dok je tle bilo zastrto leševima.
+1	Prostor	_	_	_	_	_	_	_	_	O
+2	oko	_	_	_	_	_	_	_	_	O
+3	njega	_	_	_	_	_	_	_	_	O
+4	sastojao	_	_	_	_	_	_	_	_	O
+5	se	_	_	_	_	_	_	_	_	O
+6	od	_	_	_	_	_	_	_	_	O
+7	izvitoperenog	_	_	_	_	_	_	_	_	O
+8	stenja	_	_	_	_	_	_	_	_	O
+9	i	_	_	_	_	_	_	_	_	O
+10	kamenja	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	svuda	_	_	_	_	_	_	_	_	O
+13	unaokolo	_	_	_	_	_	_	_	_	O
+14	dizali	_	_	_	_	_	_	_	_	O
+15	su	_	_	_	_	_	_	_	_	O
+16	se	_	_	_	_	_	_	_	_	O
+17	prirodni	_	_	_	_	_	_	_	_	O
+18	stubovi	_	_	_	_	_	_	_	SpaceAfter=No	O
+19	,	,	PUNCT	Z	_	_	_	_	_	O
+20	dok	_	_	_	_	_	_	_	_	O
+21	je	_	_	_	_	_	_	_	_	O
+22	tle	_	_	_	_	_	_	_	_	O
+23	bilo	_	_	_	_	_	_	_	_	O
+24	zastrto	_	_	_	_	_	_	_	_	O
+25	leševima	_	_	_	_	_	_	_	SpaceAfter=No	O
+26	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.12
+# text = Malo koja biljka je tu rasla.
+1	Malo	_	_	_	_	_	_	_	_	O
+2	koja	_	_	_	_	_	_	_	_	O
+3	biljka	_	_	_	_	_	_	_	_	O
+4	je	_	_	_	_	_	_	_	_	O
+5	tu	_	_	_	_	_	_	_	_	O
+6	rasla	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.13
+# text = Na kamenim grebenima i humkama ocrtavali su se brojni ožiljci.
+1	Na	_	_	_	_	_	_	_	_	O
+2	kamenim	_	_	_	_	_	_	_	_	O
+3	grebenima	_	_	_	_	_	_	_	_	O
+4	i	_	_	_	_	_	_	_	_	O
+5	humkama	_	_	_	_	_	_	_	_	O
+6	ocrtavali	_	_	_	_	_	_	_	_	O
+7	su	_	_	_	_	_	_	_	_	O
+8	se	_	_	_	_	_	_	_	_	O
+9	brojni	_	_	_	_	_	_	_	_	O
+10	ožiljci	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.14
+# text = Neke stene bile su skrhane i razvaljene tamo gde su se naletnici borili.
+1	Neke	_	_	_	_	_	_	_	_	O
+2	stene	_	_	_	_	_	_	_	_	O
+3	bile	_	_	_	_	_	_	_	_	O
+4	su	_	_	_	_	_	_	_	_	O
+5	skrhane	_	_	_	_	_	_	_	_	O
+6	i	_	_	_	_	_	_	_	_	O
+7	razvaljene	_	_	_	_	_	_	_	_	O
+8	tamo	_	_	_	_	_	_	_	_	O
+9	gde	_	_	_	_	_	_	_	_	O
+10	su	_	_	_	_	_	_	_	_	O
+11	se	_	_	_	_	_	_	_	_	O
+12	naletnici	_	_	_	_	_	_	_	_	O
+13	borili	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	.	.	PUNCT	Z	_	_	_	_	_	O

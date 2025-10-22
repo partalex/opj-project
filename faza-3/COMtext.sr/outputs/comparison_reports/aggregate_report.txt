@@ -1,0 +1,18 @@
+Files compared: 129  missing: 0
+
+Aggregate classification report:
+              precision    recall  f1-score   support
+
+       B-LOC       0.63      0.73      0.68       552
+       B-ORG       0.67      0.05      0.09       965
+       B-PER       0.90      0.80      0.85      1243
+       I-LOC       0.67      0.42      0.52       150
+       I-ORG       0.68      0.05      0.09      1120
+       I-PER       0.91      0.91      0.91       623
+           O       0.95      1.00      0.97     45125
+
+    accuracy                           0.95     49778
+   macro avg       0.77      0.56      0.59     49778
+weighted avg       0.93      0.95      0.93     49778
+
+Saved confusion matrix CSV -> c:\Users\Korisnik\Desktop\New folder (2)\opj-project\faza-3\COMtext.sr\outputs\comparison_reports\aggregate_confusion.csv

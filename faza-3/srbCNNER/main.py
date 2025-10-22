@@ -33,7 +33,8 @@ fix_label_map = {
         'B-ORG': 'B-ORG',
         'B-LOC': 'B-LOC',
         'O': 'O',
-        'ORG': 'O'
+        'ORG': 'O',
+        '0': 'O'
     }
 
 def plot_confusion_matrix(y_pred,y_true, labels_list):
@@ -93,9 +94,9 @@ def analizeFiles(file1, file2):
         # print(annFiles[each][0])
         # print(res[int(each):int(each)+len(annFiles[each][0])])
     result = service(request_input=res, request_type="text", sync_mode=True)
-    print(result)
+    # print(result)
     result=result['annotations']
-    print(result)
+    # print(result)
     seperatePerformacne["pravno_administrativni_9.txt"]=0
     combinedPerformacne["pravno_administrativni_9.txt"]=0
     missed["pravno_administrativni_9.txt"]=0
@@ -110,20 +111,20 @@ def analizeFiles(file1, file2):
                         allMatches.append(annFile)
                         if(annFile!=each['start']):
                             annFiles[annFile][2]=tagMap[key][1]
-                            if(tagMap[key][1]==annFiles[annFile][1]):
-                                combinedPerformacne["pravno_administrativni_9.txt"] += 1
-                            elif(tagMap[key][1]==annFiles[annFile][1]):
-                                combinedPerformacne["pravno_administrativni_9.txt"] += 1
-                                seperatePerformacne["pravno_administrativni_9.txt"] += 1
-                            else:
-                                missed["pravno_administrativni_9.txt"] += 1
-                if(res[each['start']:each['end']]==annFiles[each['start']][0] and tagMap[key][0]==annFiles[each['start']][1]):
-                        seperatePerformacne["pravno_administrativni_9.txt"]+=1
-                        combinedPerformacne["pravno_administrativni_9.txt"] += 1
-                elif(res[each['start']:each['end']]==annFiles[each['start']][0] and tagMap[key][1]==annFiles[each['start']][1]):
-                        combinedPerformacne["pravno_administrativni_9.txt"] += 1
-                else:
-                    missed["pravno_administrativni_9.txt"] += 1
+                #             if(tagMap[key][1]==annFiles[annFile][1]):
+                #                 combinedPerformacne["pravno_administrativni_9.txt"] += 1
+                #             elif(tagMap[key][1]==annFiles[annFile][1]):
+                #                 combinedPerformacne["pravno_administrativni_9.txt"] += 1
+                #                 seperatePerformacne["pravno_administrativni_9.txt"] += 1
+                #             else:
+                #                 missed["pravno_administrativni_9.txt"] += 1
+                # if(res[each['start']:each['end']]==annFiles[each['start']][0] and tagMap[key][0]==annFiles[each['start']][1]):
+                #         seperatePerformacne["pravno_administrativni_9.txt"]+=1
+                #         combinedPerformacne["pravno_administrativni_9.txt"] += 1
+                # elif(res[each['start']:each['end']]==annFiles[each['start']][0] and tagMap[key][1]==annFiles[each['start']][1]):
+                #         combinedPerformacne["pravno_administrativni_9.txt"] += 1
+                # else:
+                #     missed["pravno_administrativni_9.txt"] += 1
 
                 annFiles[each['start']][2] = tagMap[key][0]
                 # print('\t'+res[each['start']:each['end']], [annFiles[a] for a in allMatches])
@@ -131,7 +132,7 @@ def analizeFiles(file1, file2):
                 print('\t' + res[each['start']:each['end']], "FALI")
 
     # print("ANN FILES",annFiles)
-    print(set([annFiles[f][1] for f in annFiles.keys()]))
+    # print(set([annFiles[f][1] for f in annFiles.keys()]))
     trueCombo=[fix_label_map[annFiles[f][1]][2:] if len(annFiles[f][1])>1 else 'O' for f in annFiles.keys()]
     trueSep=[fix_label_map[annFiles[f][1]] for f in annFiles.keys()]
     predCombo=[fix_label_map[annFiles[f][2]][2:] if len(annFiles[f][2])>1 else 'O' for f in annFiles.keys()]
@@ -154,7 +155,7 @@ def analizeFiles(file1, file2):
 pathText="..\\..\\faza-1\\Text fajlovi"
 pathAnnot="..\\..\\faza-2\\anotirani_tekstovi"
 matchedFiles=dict()
-print(glob.glob(os.path.join(pathText)))
+# print(glob.glob(os.path.join(pathText)))
 for folder in glob.glob(os.path.join(pathText,"*")):
     for filename in glob.glob(os.path.join(folder, '*.txt')):
         # print(filename)
@@ -171,7 +172,7 @@ for folder in glob.glob(os.path.join(pathAnnot,"*")):
         matchedFiles[filename.split('\\')[-1][10:]].append(filename)
 trueCombo,trueSep,predCombo,predSep=[],[],[],[]
 for file in matchedFiles.keys():
-    print("POCINJE", matchedFiles[file][0])
+    # print("POCINJE", matchedFiles[file][0])
     if(len(matchedFiles[file])<2):
         print("GRESKA",matchedFiles[file][0])
         continue
@@ -182,8 +183,8 @@ for file in matchedFiles.keys():
     predCombo=predCombo+prox3
     predSep=predSep+prox4
 
-print("ACCURACY", accuracy_score(trueSep, predSep))
-print("ACCURACY", accuracy_score(predCombo, trueCombo))
+# print("ACCURACY", accuracy_score(trueSep, predSep))
+# print("ACCURACY", accuracy_score(predCombo, trueCombo))
 
 
 labels_list = ['B-LOC', 'B-ORG', 'B-PER', 'I-LOC', 'I-ORG', 'I-PER', 'O']
@@ -216,7 +217,7 @@ scoring_simple = {
 print("\nClassification report without prefixes:")
 report = classification_report(y_true_no_prefix, y_pred_no_prefix, labels=labels_list_no_prefix, digits=4)
 plot_confusion_matrix(y_pred_no_prefix, y_true_no_prefix, labels_list_no_prefix)
-print(set(y_pred_no_prefix))
+# print(set(y_pred_no_prefix))
 # print(y_true_no_prefix)
 print(report)
 with open("classification_report_no_prefix.txt", "w", encoding="utf-8") as f:

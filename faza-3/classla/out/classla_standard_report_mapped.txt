@@ -1,33 +1,33 @@
 CLASSLA NER evaluacija (standard) — MAPIRANO (DERIV-PER→PER, MISC→O)
-Ukupno tokena: 50383
-ACCURACY (BIO-level, mapped):   0.951690
-ACCURACY (entity-only, mapped): 0.954072
+Ukupno tokena: 49778
+ACCURACY (BIO-level, mapped):   0.953895
+ACCURACY (entity-only, mapped): 0.956185
 
 === Token-level BIO (mapped) ===
               precision    recall  f1-score   support
 
-       B-LOC       0.56      0.70      0.62       599
-       B-ORG       0.52      0.63      0.57       897
-       B-PER       0.74      0.74      0.74      1216
-       I-LOC       0.56      0.46      0.50       173
-       I-ORG       0.56      0.62      0.59      1015
-       I-PER       0.80      0.94      0.86       614
-           O       0.99      0.98      0.98     45869
+       B-LOC       0.56      0.76      0.64       552
+       B-ORG       0.54      0.60      0.57       965
+       B-PER       0.77      0.76      0.76      1243
+       I-LOC       0.52      0.50      0.51       150
+       I-ORG       0.64      0.62      0.63      1120
+       I-PER       0.81      0.95      0.87       623
+           O       0.99      0.98      0.98     45125
 
-    accuracy                           0.95     50383
-   macro avg       0.67      0.72      0.70     50383
-weighted avg       0.96      0.95      0.95     50383
+    accuracy                           0.95     49778
+   macro avg       0.69      0.74      0.71     49778
+weighted avg       0.96      0.95      0.95     49778
 
 
 === Token-level entity-only (B/I ignorisan, mapped) ===
               precision    recall  f1-score   support
 
-         LOC       0.58      0.67      0.63       772
-           O       0.99      0.98      0.98     45869
-         ORG       0.57      0.66      0.61      1912
-         PER       0.78      0.83      0.80      1830
+         LOC       0.57      0.73      0.64       702
+           O       0.99      0.98      0.98     45125
+         ORG       0.62      0.64      0.63      2085
+         PER       0.80      0.84      0.82      1866
 
-    accuracy                           0.95     50383
-   macro avg       0.73      0.78      0.76     50383
-weighted avg       0.96      0.95      0.96     50383
+    accuracy                           0.96     49778
+   macro avg       0.74      0.80      0.77     49778
+weighted avg       0.96      0.96      0.96     49778
 

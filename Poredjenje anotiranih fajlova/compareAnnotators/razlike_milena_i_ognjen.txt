@@ -1,0 +1,89 @@
+Ukupan broj tokena: 6005 
+Ukupan broj anotiranih tokena: 1168 
+Ukupan broj razlika: 85 
+Razlike:
+Tekstovi koji se posmatraju su:toCompare\milena_annotated_film_pozoriste.txt  i toCompare\ognjen_annotated_film_pozoriste.txt
+Razlika u fajlu url= https://nova.rs/kultura/premijera-predstave-ostrvo-sa-blagom-u-dusku-radovicu/ na liniji: 7 (linije u pitanju: "1	Beogradska	_	_	_	_	_	_	_	_	O" i "1	Beogradska	_	_	_	_	_	_	_	_	B-LOC")
+Razlika u fajlu url= https://nova.rs/kultura/premijera-predstave-ostrvo-sa-blagom-u-dusku-radovicu/ na liniji: 27 (linije u pitanju: "21	Malom	_	_	_	_	_	_	_	_	B-LOC" i "21	Malom	_	_	_	_	_	_	_	_	O")
+Razlika u fajlu url= https://nova.rs/kultura/premijera-predstave-ostrvo-sa-blagom-u-dusku-radovicu/ na liniji: 28 (linije u pitanju: "22	pozorištu	_	_	_	_	_	_	_	_	I-LOC" i "22	pozorištu	_	_	_	_	_	_	_	_	O")
+Razlika u fajlu url= https://nova.rs/kultura/premijera-predstave-ostrvo-sa-blagom-u-dusku-radovicu/ na liniji: 29 (linije u pitanju: "23	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	I-LOC" i "23	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O")
+Razlika u fajlu url= https://nova.rs/kultura/premijera-predstave-ostrvo-sa-blagom-u-dusku-radovicu/ na liniji: 30 (linije u pitanju: "24	Duško	_	_	_	_	_	_	_	_	I-LOC" i "24	Duško	_	_	_	_	_	_	_	_	B-LOC")
+Razlika u fajlu url= https://nova.rs/kultura/premijera-predstave-ostrvo-sa-blagom-u-dusku-radovicu/ na liniji: 32 (linije u pitanju: "26	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	I-LOC" i "26	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O")
+Razlika u fajlu url= https://nova.rs/kultura/premijera-predstave-ostrvo-sa-blagom-u-dusku-radovicu/ na liniji: 65 (linije u pitanju: "11	broda	_	_	_	_	_	_	_	_	O" i "11	broda	_	_	_	_	_	_	_	_	B-LOC")
+Razlika u fajlu url= https://nova.rs/kultura/premijera-predstave-ostrvo-sa-blagom-u-dusku-radovicu/ na liniji: 66 (linije u pitanju: "12	Hispaniola	_	_	_	_	_	_	_	_	O" i "12	Hispaniola	_	_	_	_	_	_	_	_	I-LOC")
+Razlika u fajlu url= https://nova.rs/kultura/premijera-predstave-ostrvo-sa-blagom-u-dusku-radovicu/ na liniji: 116 (linije u pitanju: "20	sceni	_	_	_	_	_	_	_	_	O" i "20	sceni	_	_	_	_	_	_	_	_	B-LOC")
+Razlika u fajlu url= https://nova.rs/kultura/premijera-predstave-ostrvo-sa-blagom-u-dusku-radovicu/ na liniji: 276 (linije u pitanju: "7	Malog	_	_	_	_	_	_	_	_	B-ORG" i "7	Malog	_	_	_	_	_	_	_	_	O")
+Razlika u fajlu url= https://nova.rs/kultura/premijera-predstave-ostrvo-sa-blagom-u-dusku-radovicu/ na liniji: 277 (linije u pitanju: "8	pozorišta	_	_	_	_	_	_	_	_	I-ORG" i "8	pozorišta	_	_	_	_	_	_	_	_	O")
+Tekstovi koji se posmatraju su:toCompare\milena_annotated_knjizevni_6.txt  i toCompare\ognjen_annotated_knjizevni_6.txt
+Razlika u fajlu url= https://laguna.rs/odlomak_8327_bes_bogova.html na liniji: 104 (linije u pitanju: "2	Sumorištu	_	_	_	_	_	_	_	_	B-LOC" i "2	Sumorištu	_	_	_	_	_	_	_	_	O")
+Razlika u fajlu url= https://laguna.rs/odlomak_8327_bes_bogova.html na liniji: 162 (linije u pitanju: "23	Oskutreda	_	_	_	_	_	_	_	SpaceAfter=No	O" i "23	Oskutreda	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC")
+Razlika u fajlu url= https://laguna.rs/odlomak_8327_bes_bogova.html na liniji: 169 (linije u pitanju: "3	Skalka	_	_	_	_	_	_	_	SpaceAfter=No	O" i "3	Skalka	_	_	_	_	_	_	_	SpaceAfter=No	B-PER")
+Razlika u fajlu url= https://laguna.rs/odlomak_8327_bes_bogova.html na liniji: 182 (linije u pitanju: "16	Vol	_	_	_	_	_	_	_	SpaceAfter=No	O" i "16	Vol	_	_	_	_	_	_	_	SpaceAfter=No	B-PER")
+Razlika u fajlu url= https://laguna.rs/odlomak_8327_bes_bogova.html na liniji: 252 (linije u pitanju: "10	Rotine	_	_	_	_	_	_	_	_	B-PER" i "10	Rotine	_	_	_	_	_	_	_	_	B-LOC")
+Razlika u fajlu url= https://laguna.rs/odlomak_8327_bes_bogova.html na liniji: 253 (linije u pitanju: "11	odaje	_	_	_	_	_	_	_	_	O" i "11	odaje	_	_	_	_	_	_	_	_	I-LOC")
+Razlika u fajlu url= https://laguna.rs/odlomak_8327_bes_bogova.html na liniji: 270 (linije u pitanju: "3	Rotine	_	_	_	_	_	_	_	_	B-PER" i "3	Rotine	_	_	_	_	_	_	_	_	B-LOC")
+Razlika u fajlu url= https://laguna.rs/odlomak_8327_bes_bogova.html na liniji: 271 (linije u pitanju: "4	odaje	_	_	_	_	_	_	_	_	O" i "4	odaje	_	_	_	_	_	_	_	_	I-LOC")
+Razlika u fajlu url= https://laguna.rs/odlomak_8327_bes_bogova.html na liniji: 424 (linije u pitanju: "3	Starl	_	_	_	_	_	_	_	SpaceAfter=No	O" i "3	Starl	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC")
+Razlika u fajlu url= https://laguna.rs/odlomak_8327_bes_bogova.html na liniji: 439 (linije u pitanju: "18	Ratnicima-Turob-nicima	_	_	_	_	_	_	_	SpaceAfter=No	O" i "18	Ratnicima-Turob-nicima	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG")
+Razlika u fajlu url= https://laguna.rs/odlomak_8327_bes_bogova.html na liniji: 471 (linije u pitanju: "16	Turobnicima	_	_	_	_	_	_	_	SpaceAfter=No	O" i "16	Turobnicima	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG")
+Razlika u fajlu url= https://laguna.rs/odlomak_8327_bes_bogova.html na liniji: 523 (linije u pitanju: "13	,	,	PUNCT	Z	_	_	_	_	_	O" i "13	,	,	PUNCT	Z	_	_	_	_	_	I-LOC")
+Razlika u fajlu url= https://laguna.rs/odlomak_8327_bes_bogova.html na liniji: 524 (linije u pitanju: "14	dvora	_	_	_	_	_	_	_	_	O" i "14	dvora	_	_	_	_	_	_	_	_	I-LOC")
+Razlika u fajlu url= https://laguna.rs/odlomak_8327_bes_bogova.html na liniji: 525 (linije u pitanju: "15	Lik-Rifinih	_	_	_	_	_	_	_	SpaceAfter=No	B-PER" i "15	Lik-Rifinih	_	_	_	_	_	_	_	SpaceAfter=No	I-LOC")
+Tekstovi koji se posmatraju su:toCompare\milena_annotated_muzika_1.txt  i toCompare\ognjen_annotated_muzika_1.txt
+Razlika u fajlu url= https://balkanrock.com/reportaze/hills-of-rock-u-plovdivu-vatrena-rock-brda/ na liniji: 296 (linije u pitanju: "28	Sabbath	_	_	_	_	_	_	_	_	B-ORG" i "28	Sabbath	_	_	_	_	_	_	_	_	O")
+Tekstovi koji se posmatraju su:toCompare\milena_annotated_novinski.txt  i toCompare\ognjen_annotated_novinski.txt
+Razlika u fajlu url= https://n1info.rs/najave-emisija/n1-direktno-srbija-je-stala-uz-studenta-bogdana/ na liniji: 58 (linije u pitanju: "10	CZ-a	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG" i "10	CZ-a	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC")
+Razlika u fajlu url= https://n1info.rs/najave-emisija/n1-direktno-srbija-je-stala-uz-studenta-bogdana/ na liniji: 113 (linije u pitanju: "15	Građani	_	_	_	_	_	_	_	_	B-ORG" i "15	Građani	_	_	_	_	_	_	_	_	O")
+Razlika u fajlu url= https://n1info.rs/najave-emisija/n1-direktno-srbija-je-stala-uz-studenta-bogdana/ na liniji: 114 (linije u pitanju: "16	Čačka	_	_	_	_	_	_	_	_	I-ORG" i "16	Čačka	_	_	_	_	_	_	_	_	B-LOC")
+Razlika u fajlu url= https://n1info.rs/najave-emisija/n1-direktno-srbija-je-stala-uz-studenta-bogdana/ na liniji: 115 (linije u pitanju: "17	u	_	_	_	_	_	_	_	_	I-ORG" i "17	u	_	_	_	_	_	_	_	_	O")
+Razlika u fajlu url= https://n1info.rs/najave-emisija/n1-direktno-srbija-je-stala-uz-studenta-bogdana/ na liniji: 116 (linije u pitanju: "18	blokadi	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG" i "18	blokadi	_	_	_	_	_	_	_	SpaceAfter=No	O")
+Razlika u fajlu url= https://n1info.rs/najave-emisija/n1-direktno-srbija-je-stala-uz-studenta-bogdana/ na liniji: 199 (linije u pitanju: "7	Vojna	_	_	_	_	_	_	_	_	O" i "7	Vojna	_	_	_	_	_	_	_	_	B-ORG")
+Razlika u fajlu url= https://n1info.rs/najave-emisija/n1-direktno-srbija-je-stala-uz-studenta-bogdana/ na liniji: 200 (linije u pitanju: "8	parada	_	_	_	_	_	_	_	SpaceAfter=No	O" i "8	parada	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG")
+Razlika u fajlu url= https://n1info.rs/najave-emisija/n1-direktno-srbija-je-stala-uz-studenta-bogdana/ na liniji: 253 (linije u pitanju: "36	Sarajeva	_	_	_	_	_	_	_	SpaceAfter=No	I-LOC" i "36	Sarajeva	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC")
+Tekstovi koji se posmatraju su:toCompare\milena_annotated_pravno_administrativni.txt  i toCompare\ognjen_annotated_pravno_administrativni.txt
+Razlika u fajlu url= https://www.vrh.sud.rs/sr-lat/rev2-16222025-31912614 na liniji: 31 (linije u pitanju: "25	Beogradu	_	_	_	_	_	_	_	_	B-LOC" i "25	Beogradu	_	_	_	_	_	_	_	_	B-PER")
+Razlika u fajlu url= https://www.vrh.sud.rs/sr-lat/rev2-16222025-31912614 na liniji: 88 (linije u pitanju: "7	a.	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG" i "7	a.	_	_	_	_	_	_	_	SpaceAfter=No	O")
+Razlika u fajlu url= https://www.vrh.sud.rs/sr-lat/rev2-16222025-31912614 na liniji: 89 (linije u pitanju: "8	d.	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG" i "8	d.	_	_	_	_	_	_	_	SpaceAfter=No	O")
+Razlika u fajlu url= https://www.vrh.sud.rs/sr-lat/rev2-16222025-31912614 na liniji: 90 (linije u pitanju: "9	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	I-ORG" i "9	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	B-ORG")
+Razlika u fajlu url= https://www.vrh.sud.rs/sr-lat/rev2-16222025-31912614 na liniji: 138 (linije u pitanju: "57	BB	_	_	_	_	_	_	_	_	B-PER" i "57	BB	_	_	_	_	_	_	_	_	O")
+Razlika u fajlu url= https://www.vrh.sud.rs/sr-lat/rev2-16222025-31912614 na liniji: 182 (linije u pitanju: "7	a.	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG" i "7	a.	_	_	_	_	_	_	_	SpaceAfter=No	O")
+Razlika u fajlu url= https://www.vrh.sud.rs/sr-lat/rev2-16222025-31912614 na liniji: 183 (linije u pitanju: "8	d.	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG" i "8	d.	_	_	_	_	_	_	_	SpaceAfter=No	O")
+Razlika u fajlu url= https://www.vrh.sud.rs/sr-lat/rev2-16222025-31912614 na liniji: 184 (linije u pitanju: "9	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	I-ORG" i "9	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	B-ORG")
+Razlika u fajlu url= https://www.vrh.sud.rs/sr-lat/rev2-16222025-31912614 na liniji: 276 (linije u pitanju: "7	a.	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG" i "7	a.	_	_	_	_	_	_	_	SpaceAfter=No	O")
+Razlika u fajlu url= https://www.vrh.sud.rs/sr-lat/rev2-16222025-31912614 na liniji: 277 (linije u pitanju: "8	d.	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG" i "8	d.	_	_	_	_	_	_	_	SpaceAfter=No	O")
+Razlika u fajlu url= https://www.vrh.sud.rs/sr-lat/rev2-16222025-31912614 na liniji: 278 (linije u pitanju: "9	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	I-ORG" i "9	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	B-ORG")
+Razlika u fajlu url= https://www.vrh.sud.rs/sr-lat/rev2-16222025-31912614 na liniji: 370 (linije u pitanju: "7	a.	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG" i "7	a.	_	_	_	_	_	_	_	SpaceAfter=No	O")
+Razlika u fajlu url= https://www.vrh.sud.rs/sr-lat/rev2-16222025-31912614 na liniji: 371 (linije u pitanju: "8	d.	_	_	_	_	_	_	_	_	I-ORG" i "8	d.	_	_	_	_	_	_	_	_	O")
+Razlika u fajlu url= https://www.vrh.sud.rs/sr-lat/rev2-16222025-31912614 na liniji: 372 (linije u pitanju: "9	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	I-ORG" i "9	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	B-ORG")
+Tekstovi koji se posmatraju su:toCompare\milena_annotated_twitter.txt  i toCompare\ognjen_annotated_twitter.txt
+Tekstovi koji se posmatraju su:toCompare\milena_filmksi_domen_Ognjen.txt  i toCompare\filmksi_domen_Ognjen.txt
+Tekstovi koji se posmatraju su:toCompare\milena_knjizevni_domen_Ognjen.txt  i toCompare\knjizevni_domen_Ognjen.txt
+Tekstovi koji se posmatraju su:toCompare\milena_muzicki_domen_Ognjen.txt  i toCompare\muzicki_domen_Ognjen.txt
+Tekstovi koji se posmatraju su:toCompare\milena_novinski_domen_Ognjen.txt  i toCompare\novinski_domen_Ognjen.txt
+Razlika u fajlu url= https://nova.rs/magazin/putovanja/turisti-u-ljubljani-odusevljeni-kreacijom-koju-lokalci-gaze-na-putu-do-ribarnice-ovo-je-svetsko-remek-delo-ali-vam-niko-o-tome-ne-prica/ na liniji: 120 (linije u pitanju: "21	fluksus	_	_	_	_	_	_	_	SpaceAfter=No	O" i "21	fluksus	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG")
+Tekstovi koji se posmatraju su:toCompare\milena_pravno_administrativni_domen_Ognjen.txt  i toCompare\pravno_administrativni_domen_Ognjen.txt
+Razlika u fajlu url= https://www.vrh.sud.rs/sr-lat/kd-2592025-24111 na liniji: 232 (linije u pitanju: "10	dr	_	_	_	_	_	_	_	_	O" i "10	dr	_	_	_	_	_	_	_	_	B-PER")
+Razlika u fajlu url= https://www.vrh.sud.rs/sr-lat/kd-2592025-24111 na liniji: 233 (linije u pitanju: "11	Ilije	_	_	_	_	_	_	_	_	B-PER" i "11	Ilije	_	_	_	_	_	_	_	_	I-PER")
+Tekstovi koji se posmatraju su:toCompare\milena_tokenized_film_pozoriste_4.txt  i toCompare\ognjen_tokenized_film_pozoriste_4.txt
+Razlika u fajlu url= https://www.seecult.org/ujka-mijac/ na liniji: 443 (linije u pitanju: "3	Čehov	_	_	_	_	_	_	_	_	B-PER" i "3	Čehov	_	_	_	_	_	_	_	_	O")
+Razlika u fajlu url= https://www.seecult.org/ujka-mijac/ na liniji: 495 (linije u pitanju: "37	Goša	_	_	_	_	_	_	_	SpaceAfter=No	B-PER" i "37	Goša	_	_	_	_	_	_	_	SpaceAfter=No	O")
+Razlika u fajlu url= https://www.seecult.org/ujka-mijac/ na liniji: 981 (linije u pitanju: "15	srpskom	_	_	_	_	_	_	_	_	O" i "15	srpskom	_	_	_	_	_	_	_	_	B-LOC")
+Tekstovi koji se posmatraju su:toCompare\milena_tokenized_knjizevni_2.txt  i toCompare\ognjen_tokenized_knjizevni_2.txt
+Razlika u fajlu url= https://laguna.rs/n5025_knjiga_brojcanik_putopisni_dnevnici_laguna.html na liniji: 285 (linije u pitanju: "4	Zdravstveni	_	_	_	_	_	_	_	_	O" i "4	Zdravstveni	_	_	_	_	_	_	_	_	B-ORG")
+Razlika u fajlu url= https://laguna.rs/n5025_knjiga_brojcanik_putopisni_dnevnici_laguna.html na liniji: 286 (linije u pitanju: "5	punkt	_	_	_	_	_	_	_	_	O" i "5	punkt	_	_	_	_	_	_	_	_	I-ORG")
+Razlika u fajlu url= https://laguna.rs/n5025_knjiga_brojcanik_putopisni_dnevnici_laguna.html na liniji: 633 (linije u pitanju: "8	Domu	_	_	_	_	_	_	_	_	B-LOC" i "8	Domu	_	_	_	_	_	_	_	_	B-ORG")
+Razlika u fajlu url= https://laguna.rs/n5025_knjiga_brojcanik_putopisni_dnevnici_laguna.html na liniji: 634 (linije u pitanju: "9	kulture	_	_	_	_	_	_	_	SpaceAfter=No	I-LOC" i "9	kulture	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG")
+Razlika u fajlu url= https://laguna.rs/n5025_knjiga_brojcanik_putopisni_dnevnici_laguna.html na liniji: 692 (linije u pitanju: "67	…	…	PUNCT	Z	_	_	_	_	_	O" i "67	…	…	PUNCT	Z	_	_	_	_	_	I-ORG")
+Razlika u fajlu url= https://laguna.rs/n5025_knjiga_brojcanik_putopisni_dnevnici_laguna.html na liniji: 696 (linije u pitanju: "1	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O" i "1	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	I-ORG")
+Razlika u fajlu url= https://laguna.rs/n5025_knjiga_brojcanik_putopisni_dnevnici_laguna.html na liniji: 697 (linije u pitanju: "2	CANU	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG" i "2	CANU	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG")
+Razlika u fajlu url= https://laguna.rs/n5025_knjiga_brojcanik_putopisni_dnevnici_laguna.html na liniji: 698 (linije u pitanju: "3	)	)	PUNCT	Z	_	_	_	_	_	O" i "3	)	)	PUNCT	Z	_	_	_	_	_	I-ORG")
+Razlika u fajlu url= https://laguna.rs/n5025_knjiga_brojcanik_putopisni_dnevnici_laguna.html na liniji: 719 (linije u pitanju: "24	Rastoderi	_	_	_	_	_	_	_	_	O" i "24	Rastoderi	_	_	_	_	_	_	_	_	B-ORG")
+Razlika u fajlu url= https://laguna.rs/n5025_knjiga_brojcanik_putopisni_dnevnici_laguna.html na liniji: 721 (linije u pitanju: "26	Dukljane	_	_	_	_	_	_	_	_	O" i "26	Dukljane	_	_	_	_	_	_	_	_	B-ORG")
+Razlika u fajlu url= https://laguna.rs/n5025_knjiga_brojcanik_putopisni_dnevnici_laguna.html na liniji: 792 (linije u pitanju: "21	Novakovom	_	_	_	_	_	_	_	_	B-PER" i "21	Novakovom	_	_	_	_	_	_	_	_	B-LOC")
+Razlika u fajlu url= https://laguna.rs/n5025_knjiga_brojcanik_putopisni_dnevnici_laguna.html na liniji: 883 (linije u pitanju: "13	carstvom	_	_	_	_	_	_	_	_	I-ORG" i "13	carstvom	_	_	_	_	_	_	_	_	B-ORG")
+Razlika u fajlu url= https://laguna.rs/n5025_knjiga_brojcanik_putopisni_dnevnici_laguna.html na liniji: 893 (linije u pitanju: "23	plavsko-gusinjskom	_	_	_	_	_	_	_	_	B-LOC" i "23	plavsko-gusinjskom	_	_	_	_	_	_	_	_	O")
+Razlika u fajlu url= https://laguna.rs/n5025_knjiga_brojcanik_putopisni_dnevnici_laguna.html na liniji: 894 (linije u pitanju: "24	kotlinom	_	_	_	_	_	_	_	SpaceAfter=No	I-LOC" i "24	kotlinom	_	_	_	_	_	_	_	SpaceAfter=No	O")
+Razlika u fajlu url= https://laguna.rs/n5025_knjiga_brojcanik_putopisni_dnevnici_laguna.html na liniji: 1044 (linije u pitanju: "30	Kalpačina	_	_	_	_	_	_	_	SpaceAfter=No	I-PER" i "30	Kalpačina	_	_	_	_	_	_	_	SpaceAfter=No	i-PER")
+Razlika u fajlu url= https://laguna.rs/n5025_knjiga_brojcanik_putopisni_dnevnici_laguna.html na liniji: 1106 (linije u pitanju: "39	Jevrem	_	_	_	_	_	_	_	SpaceAfter=No	O" i "39	Jevrem	_	_	_	_	_	_	_	SpaceAfter=No	B-PER")
+Razlika u fajlu url= https://laguna.rs/n5025_knjiga_brojcanik_putopisni_dnevnici_laguna.html na liniji: 1189 (linije u pitanju: "5	Huseina	_	_	_	_	_	_	_	_	O" i "5	Huseina	_	_	_	_	_	_	_	_	B-PER")
+Razlika u fajlu url= https://laguna.rs/n5025_knjiga_brojcanik_putopisni_dnevnici_laguna.html na liniji: 1190 (linije u pitanju: "6	Bašića	_	_	_	_	_	_	_	SpaceAfter=No	O" i "6	Bašića	_	_	_	_	_	_	_	SpaceAfter=No	I-PER")

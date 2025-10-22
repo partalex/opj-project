@@ -8,16 +8,22 @@ def compareTwo(filename, file1, file2):
     results = []
     tokens = 0
     annToken=0
-    for i in range(len(file1)):
-        if(file1[i] == '' or file1[i][0].isdigit()):
+    itterlen = min(len(file1),len(file2))
+    for i in range(itterlen):
+        if(file1[i] != '' and file1[i][0].isdigit()):
             tokens+=1
-        if(file1[i]!=file2[i]):
+        if(len(file1[i].split('\t')[-1])<1 or len(file2[i].split('\t')[-1])<1):
+            continue
+        if(file1[i].split('\t')[-1][-1] != file2[i].split('\t')[-1][-1] or (file1[i].split('\t')[-1][-1]!='O' and (file1[i].split('\t')[-1][-5:]!= file2[i].split('\t')[-1][-5:])) ):
+            # if(len(file1[i].split('\t')[-1])< and len(file1[i].split('\t')[-1])>1)
+            print(file1[i].split('\t')[-1][-1] , file2[i].split('\t')[-1][-1])
             results.append("Razlika u fajlu url= "+filename+" na liniji: "+str(linesStartAt+i)+" (linije u pitanju: \""+file1[i]+"\" i \""+file2[i]+"\")")
-        elif(file1[i] != '' and file1[i].split('\t')[-1]!='O'):
+        elif(file1[i] != '' and file1[i].split('\t')[-1][-1]!='O'):
             annToken+=1
     return (tokens, annToken,results)
 
 filesToCompare = dict()
+whoseFile = dict()
 for filename in glob.glob(os.path.join(path, '*.txt')):
     print(filename)
     with open(os.path.join(os.getcwd(), filename), 'r',encoding="utf8") as f: # open in readonly mode
@@ -35,6 +41,9 @@ for filename in glob.glob(os.path.join(path, '*.txt')):
             line = f.readline().replace(' ','').replace('\n','')
         if(filekey not in filesToCompare.keys()):
             filesToCompare[filekey]=dict()
+        if (filekey not in whoseFile.keys()):
+            whoseFile[filekey] = dict()
+        whoseFile[filekey][annotator]=filename
         restOfLines=[]
         while(line):
             print(line)
@@ -52,7 +61,7 @@ for each in (list(itertools.combinations(filesToCompare[list(filesToCompare.keys
         if(each[0] not in filesToCompare[every].keys() or each[1] not in filesToCompare[every].keys()):
             continue
         tokens, annTokens, misses =compareTwo(every ,filesToCompare[every][each[0]],filesToCompare[every][each[1]])
-        missmatches+=misses
+        missmatches+=["Tekstovi koji se posmatraju su:" +whoseFile[every][each[0]] +"  i "+whoseFile[every][each[1]] ]+misses
         allTokens+=tokens
         allAnnTokens+=annTokens
     allMissmatches[each]=(allTokens,missmatches)

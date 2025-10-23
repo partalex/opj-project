@@ -26,3 +26,5 @@ III faza
 
 Dokumentacija
 1. Sastaviti celu dokumentaciju iz svih faza u jedan fajl
+
+.collu

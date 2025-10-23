@@ -203,8 +203,9 @@ with open("classification_report.txt", "w", encoding="utf-8") as f:
     f.write(report)
 
 # evaluacija modela bez prefiksa
-y_true_no_prefix = trueCombo
-y_pred_no_prefix = predCombo
+y_true_no_prefix = [label.split('-')[-1] if '-' in label else label for label in trueSep]
+y_pred_no_prefix = [label.split('-')[-1] if '-' in label else label for label in predSep]
+
 labels_list_no_prefix = ['LOC', 'ORG', 'PER', 'O']
 
 scoring_simple = {

@@ -1,8 +1,12 @@
 import os, csv
 from collections import defaultdict
 from typing import Dict, List, Tuple
-from sklearn.metrics import accuracy_score, classification_report
+from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
 import classla
+import pandas as pd
+import matplotlib.pyplot as plt
+from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score, confusion_matrix, classification_report
+import seaborn as sns
 
 LANG = "sr"
 MODEL_TYPE = "nonstandard"
@@ -30,6 +34,18 @@ def map_classla_type(t: str) -> str:
     if t == "MISC":
         return "O"
     return t
+
+def plot_confusion_matrix(y_pred,y_true, labels_list):
+    cm = confusion_matrix(y_true, y_pred, labels=labels_list)
+    cm_df = pd.DataFrame(cm, index=labels_list, columns=labels_list)
+
+    plt.figure(figsize=(10, 8))
+    sns.heatmap(cm_df, annot=True, fmt="d", cmap="Blues")
+    plt.title("NER Confusion Matrix")
+    plt.ylabel("True Labels")
+    plt.xlabel("Predicted Labels")
+    plt.show()
+    return cm_df
 
 def map_bio(tag: str) -> str:
     """
@@ -105,7 +121,7 @@ def run_classla_ner(text: str) -> Dict[str, List[Dict[str, int]]]:
     return dict(buckets)
 
 # =======================
-# Evaluacija jednog fajla (annotated_*.txt)
+# Evaluacija jednog fajla (annotated_*.conllu)
 # =======================
 def analize_file(file_gold: str):
     """
@@ -154,18 +170,14 @@ def analize_file(file_gold: str):
         })
     return trueBIO_m, predBIO_m, trueCLS_m, predCLS_m, rows
 
-# =======================
-# GLAVNI DEO
-# =======================
 if __name__ == "__main__":
-    # 1) Skupi sve annotated_*.txt osim EXCLUDE_DIR
     annotated_files: List[str] = []
     for entry in os.scandir(PATH_ANN):
         if not entry.is_dir():
             continue
         for root, _, files in os.walk(entry.path):
             for fn in files:
-                if fn.lower().endswith(".txt") and fn.startswith("annotated_"):
+                if fn.lower().endswith(".conllu") and fn.startswith("annotated_"):
                     annotated_files.append(os.path.join(root, fn))
     annotated_files.sort()
 
@@ -209,6 +221,11 @@ if __name__ == "__main__":
         f.write("=== Token-level entity-only (B/I ignorisan, mapped) ===\n")
         f.write(rep_cls + "\n")
 
+    y_true_no_prefix = [label.split('-')[-1] if '-' in label else label for label in all_trueCLS_m]
+    y_pred_no_prefix = [label.split('-')[-1] if '-' in label else label for label in all_predCLS_m]
+    labels_list_no_prefix = ['LOC', 'ORG', 'PER', 'O']
+
+    plot_confusion_matrix(y_pred_no_prefix, y_true_no_prefix, labels_list_no_prefix)
     print("ZAVRŠENO.")
     print("Sačuvano CSV:", csv_path)
     print("Sačuvano izveštaj:", report_path)

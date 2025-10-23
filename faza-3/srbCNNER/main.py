@@ -97,9 +97,9 @@ def analizeFiles(file1, file2):
     # print(result)
     result=result['annotations']
     # print(result)
-    seperatePerformacne["pravno_administrativni_9.txt"]=0
-    combinedPerformacne["pravno_administrativni_9.txt"]=0
-    missed["pravno_administrativni_9.txt"]=0
+    # seperatePerformacne["pravno_administrativni_9.txt"]=0
+    # combinedPerformacne["pravno_administrativni_9.txt"]=0
+    # missed["pravno_administrativni_9.txt"]=0
     for key in set(['PERS','LOC','ORG']).intersection(result.keys()):
         # print(key+'\n')
         # print(result[key])
@@ -145,9 +145,9 @@ def analizeFiles(file1, file2):
     # print("ACCURACY", accuracy_score(predCombo, trueCombo))
     # print("COMBO",len(annFiles.keys())-missed["pravno_administrativni_9.txt"])
     # print("SEPERATE",len(annFiles.keys())-missed["pravno_administrativni_9.txt"]+seperatePerformacne["pravno_administrativni_9.txt"]-combinedPerformacne["pravno_administrativni_9.txt"])
-    seperatePerformacne["pravno_administrativni_9.txt"] = (len(annFiles.keys())-missed["pravno_administrativni_9.txt"]+seperatePerformacne["pravno_administrativni_9.txt"]-combinedPerformacne["pravno_administrativni_9.txt"])/(len(annFiles.keys()))
+    # seperatePerformacne["pravno_administrativni_9.txt"] = (len(annFiles.keys())-missed["pravno_administrativni_9.txt"]+seperatePerformacne["pravno_administrativni_9.txt"]-combinedPerformacne["pravno_administrativni_9.txt"])/(len(annFiles.keys()))
     #
-    combinedPerformacne["pravno_administrativni_9.txt"] = (len(annFiles.keys())-missed["pravno_administrativni_9.txt"])/(len(annFiles.keys()))
+    # combinedPerformacne["pravno_administrativni_9.txt"] = (len(annFiles.keys())-missed["pravno_administrativni_9.txt"])/(len(annFiles.keys()))
     # print("COMBO",combinedPerformacne)
     # print("SEPERATE",seperatePerformacne)
     return (trueCombo,trueSep,predCombo,predSep)

@@ -114,11 +114,10 @@ def statistics_whole_data(data):
     fig, ax = plt.subplots(figsize=(10, 15))
     wedges, texts = ax.pie(numbers, startangle=90, colors=colors[:len(labels_list)], textprops={'fontsize': 14})
 
-    # Legend with label + count
     legend_labels = [f"{label} ({len(count)}) - {len(count)/ukupno_tokena * 100:.2f}%" for label, count in type_statistics.items()]
-    ax.legend(wedges, legend_labels, title="Labels", loc="center left", bbox_to_anchor=(1, 0, 0.5, 1))
+    ax.legend(wedges, legend_labels, title="NER klase entiteta", loc="center left", bbox_to_anchor=(1, 0, 0.5, 1))
 
-    plt.title("Distribucija tokena po labelama")
+    plt.title("Distribucija tokena po klasama nad celim skupom podataka")
     plt.show()
     return ukupno_tokena
 
@@ -162,7 +161,7 @@ def statistics_domain_data(data, labels_list, ukupno_tokena):
             f.write(f"Ukupno za {key} - broj tokena : {ukupno}\n")
             f.write("\n\n")
 
-    #Plotovanje ovoga
+    #Plotovanje
     #U okviru celog data seta svi domeni medjusobno----------------------------------------------------------
     domains = list(domain_dict.keys())
     labels = labels_list
@@ -171,10 +170,9 @@ def statistics_domain_data(data, labels_list, ukupno_tokena):
     # Plot grouped bar chart
     fig, ax = plt.subplots(figsize=(12, 6))
 
-    bar_width = 0.15  # širina pojedinačnog bara
-    x = np.arange(len(domains))  # pozicije za domene
-
-    colors = plt.cm.tab20.colors  # 20 različitih boja
+    bar_width = 0.15  
+    x = np.arange(len(domains))  
+    colors = ['#ff9999','#66b3ff','#99ff99','#ffcc99','#c2c2f0','#ffb3e6','#c2f0c2']
 
     for i, label in enumerate(labels):
         ax.bar(x + i*bar_width, values[:, i], width=bar_width, label=label, color=colors[i % len(colors)])
@@ -188,55 +186,22 @@ def statistics_domain_data(data, labels_list, ukupno_tokena):
 
     ax.set_xticks(x + bar_width*(len(labels)/2 - 0.5))
     ax.set_xticklabels(domains, rotation=30)
-    ax.set_ylabel("Token count")
-    ax.set_title("Token distribution per domain and label")
+    ax.set_ylabel("Broj tokena")
+    ax.set_title("Distribucija tokena po domenima i klasama")
     ax.legend(bbox_to_anchor=(1.05, 1), loc='upper left')
     plt.tight_layout()
-    plt.show()
+    plt.show()    
 
-    #Za procente
-    # Izračunavanje procenata po domenima
-    percentages = np.zeros_like(values, dtype=float)
-    for i in range(len(domains)):
-        total = np.sum(values[i, :])
-        if total > 0:
-            percentages[i, :] = values[i, :] / total * 100
 
-    # Plot grouped bar chart
-    fig, ax = plt.subplots(figsize=(12, 6))
-
-    bar_width = 0.12
-    x = np.arange(len(domains))
-
-    colors = plt.cm.tab20.colors
-
-    for i, label in enumerate(labels):
-        ax.bar(x + i*bar_width, values[:, i], width=bar_width, label=label, color=colors[i % len(colors)])
-
-    # Dodavanje procenta iznad barova
-    for i in range(len(domains)):
-        for j in range(len(labels)):
-            pct = percentages[i, j]
-            if pct > 0:
-                ax.text(x[i] + j*bar_width, values[i, j] + 2, f"{pct:.2f}%", ha='center', va='bottom', fontsize=8)
-
-    ax.set_xticks(x + bar_width*(len(labels)/2 - 0.5))
-    ax.set_xticklabels(domains, rotation=30)
-    ax.set_ylabel("Token count")
-    ax.set_title("Token distribution per domain and label (percentages)")
-    ax.set_ylabel("")  # uklonjena y-osa
-    ax.set_yticks([])  # uklanjanje tickova sa y-ose
-    ax.legend(bbox_to_anchor=(1.05, 1), loc='upper left')
-    plt.tight_layout()
-    plt.show()
     #Za svaki domen pojedinacno-------------------------------------------------------------------------------
-
+    ukupno_list = []
     for key, value in domain_dict.items():
         labels = list(value.keys())
         counts = list(value.values())
         ukupno = 0
         for i in counts:
             ukupno += i
+        ukupno_list.append(ukupno)
         percent = [i/ukupno * 100 for i in counts]
         # Create bar chart
         fig, ax = plt.subplots(figsize=(8, 5))
@@ -247,28 +212,39 @@ def statistics_domain_data(data, labels_list, ukupno_tokena):
             height = bar.get_height()
             ax.text(bar.get_x() + bar.get_width()/2, height + 50, f"{height}", ha='center', va='bottom', fontsize=10)
 
-        ax.set_title(f"Za domen {key}")
-        ax.set_ylabel("Count")
+        ax.set_title(f"Za domen: {key}")
+        ax.set_ylabel("Broj tokena")
         plt.show()
 
-        # Crtaj bar chart
-        fig, ax = plt.subplots(figsize=(8, 5))
-        bars = ax.bar(labels, percent, color='skyblue')
-
-        # Dodaj procente iznad bara
-        for bar, p in zip(bars, percent):
-            ax.text(
-                bar.get_x() + bar.get_width()/2,  # horizontalno centrirano
-                p + 0.5,  # malo iznad bara
-                f"{p:.2f}%",  # formatiran procenat sa dve decimale
-                ha='center',
-                va='bottom',
-                fontsize=10
-            )
-
-        ax.set_title("Procenat po labelama")
-        ax.set_ylabel("Procenat (%)")
+        fig, ax = plt.subplots(figsize=(8, 8))
+        ax.pie(
+            percent,
+            labels=labels,
+            autopct='%1.2f%%',  
+            startangle=90,
+            colors=colors  
+        )
+        ax.set_title("Raspodela tokena po labelama (%)")
+        ax.axis('equal')
         plt.show()
+
+    statistic_dict = {}
+    i = 0
+    for label in domain_dict.keys():
+        statistic_dict[label] = ukupno_list[i]
+        i+=1
+    print(statistic_dict)
+    colors = ['#ff9999','#66b3ff','#99ff99','#ffcc99','#c2c2f0','#ffb3e6','#c2f0c2'] 
+
+    fig, ax = plt.subplots(figsize=(10, 10))
+    wedges, texts = ax.pie(ukupno_list, startangle=90, colors=colors[:len(labels_list)], textprops={'fontsize': 14})
+
+    legend_labels = [f"{label} ({count}) - {count/ukupno_tokena * 100:.2f}%" for label, count in statistic_dict.items()]
+    ax.legend(wedges, legend_labels, title="NER klase entiteta", loc="center left", bbox_to_anchor=(1, 0, 0.5, 1))
+
+    plt.title("Distribucija tokena po domenima nad celim skupom podataka")
+    plt.show()
+    
 
     
     

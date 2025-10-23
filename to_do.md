@@ -1,16 +1,14 @@
-I faza
-1. Zavrsiti dokumentaciju za fazu I
 
 II faza
-1. Oznaciti ponovo tekstove po dogovorenim pravilima
-2. Sve anotirane fajlove ekstenzije prebaciti u conllu - kasno sam videla da oni imaju taj nastavak
-3. Anotirati fajl muzika 6
-4. Izvestaj za 10% anotiranih tekstova
+
+1. Sve anotirane fajlove ekstenzije prebaciti u conllu - kasno sam videla da oni imaju taj nastavak
+2. Anotirati fajl muzika 6
+3. Izvestaj za 10% anotiranih tekstova
         - koliko je ukupno tokena uzeto
         - i za svaka dva anotatora procenat preklapanja/ razlike i prikaz razlika
-5. Negde u anotiranju ima samo ORG [za proveriti] - teodora (podsetnik za mn samo)
+4. Negde u anotiranju ima samo ORG [za proveriti] - teodora (podsetnik za mn samo)
     * srediti kod za statistiku - isto podsetnik za mn
-6. Dokumentacija za fazu 2
+5. Dokumentacija za fazu 2
 
 III faza
 1. Baseline model - MB (uzeti za vise razlicitih slucajeva sto se tice pretprocesiranje, pogledati ako nesto fali)

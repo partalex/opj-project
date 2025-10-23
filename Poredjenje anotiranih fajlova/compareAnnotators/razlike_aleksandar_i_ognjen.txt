@@ -1,8 +1,8 @@
-Ukupan broj tokena: 6305 
-Ukupan broj anotiranih tokena: 1419 
+Ukupan broj tokena: 6005 
+Ukupan broj anotiranih tokena: 1375 
 Ukupan broj razlika: 203 
-Procenat slicnosti anotiranih tokena: 85.69415081042987 
-Procenat slicnosti svih tokena: 96.78033306899286 
+Procenat slicnosti anotiranih tokena: 85.23636363636363 
+Procenat slicnosti svih tokena: 96.61948376353038 
 Razlike:
 Tekstovi koji se posmatraju su:toCompare\aleksandar_annotated_film_pozoriste.txt  i toCompare\ognjen_annotated_film_pozoriste.txt
 Razlika u fajlu url= https://nova.rs/kultura/premijera-predstave-ostrvo-sa-blagom-u-dusku-radovicu/ na liniji: 7 (linije u pitanju: "1	Beogradska	_	_	_	_	_	_	_	_	O" i "1	Beogradska	_	_	_	_	_	_	_	_	B-LOC")

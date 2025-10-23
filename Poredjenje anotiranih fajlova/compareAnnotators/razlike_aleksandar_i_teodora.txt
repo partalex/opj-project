@@ -1,8 +1,8 @@
-Ukupan broj tokena: 6305 
-Ukupan broj anotiranih tokena: 1349 
-Ukupan broj razlika: 160 
-Procenat slicnosti anotiranih tokena: 88.13936249073387 
-Procenat slicnosti svih tokena: 97.46233148295003 
+Ukupan broj tokena: 6005 
+Ukupan broj anotiranih tokena: 1303 
+Ukupan broj razlika: 158 
+Procenat slicnosti anotiranih tokena: 87.87413660782809 
+Procenat slicnosti svih tokena: 97.36885928393005 
 Razlike:
 Tekstovi koji se posmatraju su:toCompare\aleksandar_annotated_film_pozoriste.txt  i toCompare\teodora_annotated_film_pozoriste.txt
 Razlika u fajlu url= https://nova.rs/kultura/premijera-predstave-ostrvo-sa-blagom-u-dusku-radovicu/ na liniji: 32 (linije u pitanju: "26	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O" i "26	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	OI-LOC")
@@ -34,8 +34,6 @@ Razlika u fajlu url= https://balkanrock.com/reportaze/hills-of-rock-u-plovdivu-v
 Razlika u fajlu url= https://balkanrock.com/reportaze/hills-of-rock-u-plovdivu-vatrena-rock-brda/ na liniji: 424 (linije u pitanju: "89	Ozzyjevog	_	_	_	_	_	_	_	_	B-ORG" i "89	Ozzyjevog	_	_	_	_	_	_	_	_	O")
 Razlika u fajlu url= https://balkanrock.com/reportaze/hills-of-rock-u-plovdivu-vatrena-rock-brda/ na liniji: 698 (linije u pitanju: "4	Šefilda	_	_	_	_	_	_	_	_	B-LOC" i "4	Šefilda	_	_	_	_	_	_	_	_	O")
 Razlika u fajlu url= https://balkanrock.com/reportaze/hills-of-rock-u-plovdivu-vatrena-rock-brda/ na liniji: 703 (linije u pitanju: "9	Bugarskoj	_	_	_	_	_	_	_	_	B-LOC" i "9	Bugarskoj	_	_	_	_	_	_	_	_	O")
-Razlika u fajlu url= https://balkanrock.com/reportaze/hills-of-rock-u-plovdivu-vatrena-rock-brda/ na liniji: 773 (linije u pitanju: "12	Buč	_	_	_	_	_	_	_	_	B-ORG" i "12	Buč	_	_	_	_	_	_	_	_	O")
-Razlika u fajlu url= https://balkanrock.com/reportaze/hills-of-rock-u-plovdivu-vatrena-rock-brda/ na liniji: 774 (linije u pitanju: "13	Kesidi	_	_	_	_	_	_	_	_	I-ORG" i "13	Kesidi	_	_	_	_	_	_	_	_	O")
 Tekstovi koji se posmatraju su:toCompare\aleksandar_annotated_novinski.txt  i toCompare\teodora_annotated_novinski.txt
 Razlika u fajlu url= https://n1info.rs/najave-emisija/n1-direktno-srbija-je-stala-uz-studenta-bogdana/ na liniji: 10 (linije u pitanju: "4	N1	_	_	_	_	_	_	_	_	O" i "4	N1	_	_	_	_	_	_	_	_	OB-ORG")
 Razlika u fajlu url= https://n1info.rs/najave-emisija/n1-direktno-srbija-je-stala-uz-studenta-bogdana/ na liniji: 27 (linije u pitanju: "2	Fakulteta	_	_	_	_	_	_	_	_	O" i "2	Fakulteta	_	_	_	_	_	_	_	_	OB-ORG")

@@ -130,8 +130,6 @@ def statistics_domain_data(data, labels_list, ukupno_tokena):
         label_domain_list = data[key]
         data_dict = {label: 0 for label in labels_list}
         for label in label_domain_list:
-            if label == 'ORG':
-                continue
             data_dict[label] = data_dict[label] + 1
         domain_dict[key] = data_dict
 

@@ -3,7 +3,7 @@ Broj tokena po labelama:
 B-PER: 1243
 I-PER: 623
 
-B-ORG: 964
+B-ORG: 965
 I-ORG: 1120
 
 B-LOC: 552
@@ -20,7 +20,6 @@ B-LOC: 1.11%
 B-ORG: 1.94%
 I-ORG: 2.25%
 I-LOC: 0.30%
-ORG: 0.00%
 Broj labela podeljenih po domenima u odnosu na ceo tekst: 
 Domen film_pozoriste 
 B-LOC - broj tokena: 52 ( 0.10% )
@@ -79,13 +78,13 @@ Ukupno za pravno_administrativni - broj tokena : 8961 ( 18.00% )
 
 Domen tviter 
 B-LOC - broj tokena: 120 ( 0.24% )
-B-ORG - broj tokena: 161 ( 0.32% )
+B-ORG - broj tokena: 162 ( 0.33% )
 B-PER - broj tokena: 176 ( 0.35% )
 I-LOC - broj tokena: 21 ( 0.04% )
 I-ORG - broj tokena: 116 ( 0.23% )
 I-PER - broj tokena: 112 ( 0.22% )
 O - broj tokena: 5345 ( 10.74% )
-Ukupno za tviter - broj tokena : 6051 ( 12.16% )
+Ukupno za tviter - broj tokena : 6052 ( 12.16% )
 
 
 Statistika zasebno za svaki domen posebno
@@ -146,12 +145,12 @@ Ukupno za pravno_administrativni - broj tokena : 8961
 
 Domen tviter 
 B-LOC - broj tokena: 120 ( 1.98% )
-B-ORG - broj tokena: 161 ( 2.66% )
+B-ORG - broj tokena: 162 ( 2.68% )
 B-PER - broj tokena: 176 ( 2.91% )
 I-LOC - broj tokena: 21 ( 0.35% )
 I-ORG - broj tokena: 116 ( 1.92% )
 I-PER - broj tokena: 112 ( 1.85% )
-O - broj tokena: 5345 ( 88.33% )
-Ukupno za tviter - broj tokena : 6051
+O - broj tokena: 5345 ( 88.32% )
+Ukupno za tviter - broj tokena : 6052
 
 

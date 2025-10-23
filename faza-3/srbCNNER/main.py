@@ -165,11 +165,11 @@ for folder in glob.glob(os.path.join(pathText,"*")):
     # with open(os.path.join(os.getcwd(), filename),
 
 for folder in glob.glob(os.path.join(pathAnnot,"*")):
-    for filename in glob.glob(os.path.join(folder, '*.txt')):
+    for filename in glob.glob(os.path.join(folder, '*.conllu')):
         # print(filename)
         # anFile=pathAnnot+'\\'+ folder.split('\\')[-1]+'\\'+'annotated_'+filename.split('\\')[-1]
         # print(anFile)
-        matchedFiles[filename.split('\\')[-1][10:]].append(filename)
+        matchedFiles[filename.split('\\')[-1][10:-6]+'txt'].append(filename)
 trueCombo,trueSep,predCombo,predSep=[],[],[],[]
 for file in matchedFiles.keys():
     # print("POCINJE", matchedFiles[file][0])

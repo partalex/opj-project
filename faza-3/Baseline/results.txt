@@ -1,0 +1,30 @@
+
+Rezultati klasifikacionog izvestaja sa prefiksima 
+              precision    recall  f1-score   support
+
+                   0.00      0.00      0.00         1
+       B-LOC       1.00      0.00      0.00       552
+       B-ORG       0.85      0.13      0.22       964
+       B-PER       0.30      0.25      0.27      1243
+       I-LOC       0.00      0.00      0.00       150
+       I-ORG       0.39      0.06      0.10      1120
+       I-PER       0.00      0.00      0.00       623
+           O       0.92      0.99      0.95     45124
+         ORG       0.00      0.00      0.00         1
+
+    accuracy                           0.90     49778
+   macro avg       0.38      0.16      0.17     49778
+weighted avg       0.88      0.90      0.88     49778
+
+Rezultati klasifikacionog izvestaja bez prefiksa 
+              precision    recall  f1-score   support
+
+                   0.00      0.00      0.00         1
+         LOC       1.00      0.00      0.00       702
+           O       0.92      0.99      0.95     45124
+         ORG       0.65      0.10      0.17      2085
+         PER       0.38      0.21      0.27      1866
+
+    accuracy                           0.91     49778
+   macro avg       0.59      0.26      0.28     49778
+weighted avg       0.89      0.91      0.88     49778

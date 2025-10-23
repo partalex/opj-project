@@ -97,10 +97,12 @@ if __name__ == "__main__":
         for i in range(len(sentence)):
             X.append(token_features(sentence, i))
             y.append(labels[i])
+            if labels[i] == 'ORG':
+                print(sentence)
 
     df = DataFrame(X)
     df['label'] = y
-    print(df.head())
+    #print(df.head())
 
     #One-hot enkodiranje i priprema za model
     vec = DictVectorizer(sparse=True)

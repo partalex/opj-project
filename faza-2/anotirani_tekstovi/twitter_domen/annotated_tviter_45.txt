@@ -26,8 +26,8 @@
 1	Poznat	_	_	_	_	_	_	_	_	O
 2	je	_	_	_	_	_	_	_	_	O
 3	od	_	_	_	_	_	_	_	_	O
-4	ranije	_	_	_	_	_	_	_	_	ORG
-5	policiji	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	ranije	_	_	_	_	_	_	_	_	O
+5	policiji	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
 6	,	,	PUNCT	Z	_	_	_	_	_	O
 7	zelenašenje	_	_	_	_	_	_	_	_	O
 8	preprodaja	_	_	_	_	_	_	_	_	O

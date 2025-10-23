@@ -1,0 +1,348 @@
+#name = aleksandar
+#domen = tviter
+#url = https://x.com/djordjemiketic/status/1971477044950118857
+# newpar id = 1
+# sent_id = 1.1
+# text = KOMBINA ZA NIS:
+1	KOMBINA	_	_	_	_	_	_	_	_	O
+2	ZA	_	_	_	_	_	_	_	_	O
+3	NIS	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
+4	:	:	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 2
+# sent_id = 2.1
+# text = umesto da Srbija otkupi 11% udela Gasproma u NIS-u, i poveća svoj udeo na 40%, taj udeo je preko beogradske berze besplatno otišao u ruke gaspromovog fonda Intelidžens u Lenjingrad.
+1	umesto	_	_	_	_	_	_	_	_	O
+2	da	_	_	_	_	_	_	_	_	O
+3	Srbija	_	_	_	_	_	_	_	_	B-LOC
+4	otkupi	_	_	_	_	_	_	_	_	O
+5	11	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	%	%	SYM	Z	_	_	_	_	_	O
+7	udela	_	_	_	_	_	_	_	_	O
+8	Gasproma	_	_	_	_	_	_	_	_	B-ORG
+9	u	_	_	_	_	_	_	_	_	O
+10	NIS-u	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	i	_	_	_	_	_	_	_	_	O
+13	poveća	_	_	_	_	_	_	_	_	O
+14	svoj	_	_	_	_	_	_	_	_	O
+15	udeo	_	_	_	_	_	_	_	_	O
+16	na	_	_	_	_	_	_	_	_	O
+17	40	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	%	%	SYM	Z	_	_	_	_	SpaceAfter=No	O
+19	,	,	PUNCT	Z	_	_	_	_	_	O
+20	taj	_	_	_	_	_	_	_	_	O
+21	udeo	_	_	_	_	_	_	_	_	O
+22	je	_	_	_	_	_	_	_	_	O
+23	preko	_	_	_	_	_	_	_	_	O
+24	beogradske	_	_	_	_	_	_	_	_	B-ORG
+25	berze	_	_	_	_	_	_	_	_	I-ORG
+26	besplatno	_	_	_	_	_	_	_	_	O
+27	otišao	_	_	_	_	_	_	_	_	O
+28	u	_	_	_	_	_	_	_	_	O
+29	ruke	_	_	_	_	_	_	_	_	O
+30	gaspromovog	_	_	_	_	_	_	_	_	O
+31	fonda	_	_	_	_	_	_	_	_	O
+32	Intelidžens	_	_	_	_	_	_	_	_	B-ORG
+33	u	_	_	_	_	_	_	_	_	O
+34	Lenjingrad	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+35	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 3
+# sent_id = 3.1
+# text = ali "braća rusi" nisu hteli da čuju da Srbija otkupi nazad deo svoje kompanije, pa se sada namešta da se taj fond proda "nekom trećem licu" koji će kao kupac biti sakriven i tako možda "prevariti sankcije"
+1	ali	_	_	_	_	_	_	_	_	O
+2	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+3	braća	_	_	_	_	_	_	_	_	O
+4	rusi	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	"	"	PUNCT	Z	_	_	_	_	_	O
+6	nisu	_	_	_	_	_	_	_	_	O
+7	hteli	_	_	_	_	_	_	_	_	O
+8	da	_	_	_	_	_	_	_	_	O
+9	čuju	_	_	_	_	_	_	_	_	O
+10	da	_	_	_	_	_	_	_	_	O
+11	Srbija	_	_	_	_	_	_	_	_	B-LOC
+12	otkupi	_	_	_	_	_	_	_	_	O
+13	nazad	_	_	_	_	_	_	_	_	O
+14	deo	_	_	_	_	_	_	_	_	O
+15	svoje	_	_	_	_	_	_	_	_	O
+16	kompanije	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	,	,	PUNCT	Z	_	_	_	_	_	O
+18	pa	_	_	_	_	_	_	_	_	O
+19	se	_	_	_	_	_	_	_	_	O
+20	sada	_	_	_	_	_	_	_	_	O
+21	namešta	_	_	_	_	_	_	_	_	O
+22	da	_	_	_	_	_	_	_	_	O
+23	se	_	_	_	_	_	_	_	_	O
+24	taj	_	_	_	_	_	_	_	_	O
+25	fond	_	_	_	_	_	_	_	_	O
+26	proda	_	_	_	_	_	_	_	_	O
+27	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+28	nekom	_	_	_	_	_	_	_	_	O
+29	trećem	_	_	_	_	_	_	_	_	O
+30	licu	_	_	_	_	_	_	_	SpaceAfter=No	O
+31	"	"	PUNCT	Z	_	_	_	_	_	O
+32	koji	_	_	_	_	_	_	_	_	O
+33	će	_	_	_	_	_	_	_	_	O
+34	kao	_	_	_	_	_	_	_	_	O
+35	kupac	_	_	_	_	_	_	_	_	O
+36	biti	_	_	_	_	_	_	_	_	O
+37	sakriven	_	_	_	_	_	_	_	_	O
+38	i	_	_	_	_	_	_	_	_	O
+39	tako	_	_	_	_	_	_	_	_	O
+40	možda	_	_	_	_	_	_	_	_	O
+41	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+42	prevariti	_	_	_	_	_	_	_	_	O
+43	sankcije	_	_	_	_	_	_	_	SpaceAfter=No	O
+44	"	"	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 4
+# sent_id = 4.1
+# text = Meðutim, ko će biti to treće lice koje će dobiti 11% naše naftne kompanije?!
+1	Meðutim	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	ko	_	_	_	_	_	_	_	_	O
+4	će	_	_	_	_	_	_	_	_	O
+5	biti	_	_	_	_	_	_	_	_	O
+6	to	_	_	_	_	_	_	_	_	O
+7	treće	_	_	_	_	_	_	_	_	O
+8	lice	_	_	_	_	_	_	_	_	O
+9	koje	_	_	_	_	_	_	_	_	O
+10	će	_	_	_	_	_	_	_	_	O
+11	dobiti	_	_	_	_	_	_	_	_	O
+12	11	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	%	%	SYM	Z	_	_	_	_	_	O
+14	naše	_	_	_	_	_	_	_	_	O
+15	naftne	_	_	_	_	_	_	_	_	O
+16	kompanije	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	?!	?!	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 5
+# sent_id = 5.1
+# text = Veoma moguće deluje ovo što piše hr novinar Margetić, da će to biti hrvatski tajkun Ivan Čermak, koji je PAZI SAD KO NE ZNA, tuðmanov general koji je učestvovao u Oluji i "čistio" Knin za šta je bio optužen u Hagu.
+1	Veoma	_	_	_	_	_	_	_	_	O
+2	moguće	_	_	_	_	_	_	_	_	O
+3	deluje	_	_	_	_	_	_	_	_	O
+4	ovo	_	_	_	_	_	_	_	_	O
+5	što	_	_	_	_	_	_	_	_	O
+6	piše	_	_	_	_	_	_	_	_	O
+7	hr	_	_	_	_	_	_	_	_	O
+8	novinar	_	_	_	_	_	_	_	_	O
+9	Margetić	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	da	_	_	_	_	_	_	_	_	O
+12	će	_	_	_	_	_	_	_	_	O
+13	to	_	_	_	_	_	_	_	_	O
+14	biti	_	_	_	_	_	_	_	_	O
+15	hrvatski	_	_	_	_	_	_	_	_	O
+16	tajkun	_	_	_	_	_	_	_	_	O
+17	Ivan	_	_	_	_	_	_	_	_	B-PER
+18	Čermak	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+19	,	,	PUNCT	Z	_	_	_	_	_	O
+20	koji	_	_	_	_	_	_	_	_	O
+21	je	_	_	_	_	_	_	_	_	O
+22	PAZI	_	_	_	_	_	_	_	_	O
+23	SAD	_	_	_	_	_	_	_	_	O
+24	KO	_	_	_	_	_	_	_	_	O
+25	NE	_	_	_	_	_	_	_	_	O
+26	ZNA	_	_	_	_	_	_	_	SpaceAfter=No	O
+27	,	,	PUNCT	Z	_	_	_	_	_	O
+28	tuðmanov	_	_	_	_	_	_	_	_	O
+29	general	_	_	_	_	_	_	_	_	O
+30	koji	_	_	_	_	_	_	_	_	O
+31	je	_	_	_	_	_	_	_	_	O
+32	učestvovao	_	_	_	_	_	_	_	_	O
+33	u	_	_	_	_	_	_	_	_	O
+34	Oluji	_	_	_	_	_	_	_	_	O
+35	i	_	_	_	_	_	_	_	_	O
+36	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+37	čistio	_	_	_	_	_	_	_	SpaceAfter=No	O
+38	"	"	PUNCT	Z	_	_	_	_	_	O
+39	Knin	_	_	_	_	_	_	_	_	B-LOC
+40	za	_	_	_	_	_	_	_	_	O
+41	šta	_	_	_	_	_	_	_	_	O
+42	je	_	_	_	_	_	_	_	_	O
+43	bio	_	_	_	_	_	_	_	_	O
+44	optužen	_	_	_	_	_	_	_	_	O
+45	u	_	_	_	_	_	_	_	_	O
+46	Hagu	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+47	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 6
+# sent_id = 6.1
+# text = Čermak već masno zaraðuje na ovim polusankcijama jer transport nafte do NIS-a ide preko JANAF-a tj preko Hr i njegove kompanije Delta-oil gde se nafta skladišti.
+1	Čermak	_	_	_	_	_	_	_	_	B-PER
+2	već	_	_	_	_	_	_	_	_	O
+3	masno	_	_	_	_	_	_	_	_	O
+4	zaraðuje	_	_	_	_	_	_	_	_	O
+5	na	_	_	_	_	_	_	_	_	O
+6	ovim	_	_	_	_	_	_	_	_	O
+7	polusankcijama	_	_	_	_	_	_	_	_	O
+8	jer	_	_	_	_	_	_	_	_	O
+9	transport	_	_	_	_	_	_	_	_	O
+10	nafte	_	_	_	_	_	_	_	_	O
+11	do	_	_	_	_	_	_	_	_	O
+12	NIS-a	_	_	_	_	_	_	_	_	B-ORG
+13	ide	_	_	_	_	_	_	_	_	O
+14	preko	_	_	_	_	_	_	_	_	O
+15	JANAF-a	_	_	_	_	_	_	_	_	B-ORG
+16	tj	_	_	_	_	_	_	_	_	O
+17	preko	_	_	_	_	_	_	_	_	O
+18	Hr	_	_	_	_	_	_	_	_	O
+19	i	_	_	_	_	_	_	_	_	O
+20	njegove	_	_	_	_	_	_	_	_	O
+21	kompanije	_	_	_	_	_	_	_	_	O
+22	Delta-oil	_	_	_	_	_	_	_	_	B-ORG
+23	gde	_	_	_	_	_	_	_	_	O
+24	se	_	_	_	_	_	_	_	_	O
+25	nafta	_	_	_	_	_	_	_	_	O
+26	skladišti	_	_	_	_	_	_	_	SpaceAfter=No	O
+27	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 7
+# sent_id = 7.1
+# text = Ako je ovo tačno, našim radikalima i braći rusima je prihvatljiv hr tajkun da preuzme NIS umesto njih, a koji je eto, jbga, čistio neke teritorije od braće srba.
+1	Ako	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	ovo	_	_	_	_	_	_	_	_	O
+4	tačno	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	našim	_	_	_	_	_	_	_	_	O
+7	radikalima	_	_	_	_	_	_	_	_	O
+8	i	_	_	_	_	_	_	_	_	O
+9	braći	_	_	_	_	_	_	_	_	O
+10	rusima	_	_	_	_	_	_	_	_	O
+11	je	_	_	_	_	_	_	_	_	O
+12	prihvatljiv	_	_	_	_	_	_	_	_	O
+13	hr	_	_	_	_	_	_	_	_	O
+14	tajkun	_	_	_	_	_	_	_	_	O
+15	da	_	_	_	_	_	_	_	_	O
+16	preuzme	_	_	_	_	_	_	_	_	O
+17	NIS	_	_	_	_	_	_	_	_	B-ORG
+18	umesto	_	_	_	_	_	_	_	_	O
+19	njih	_	_	_	_	_	_	_	SpaceAfter=No	O
+20	,	,	PUNCT	Z	_	_	_	_	_	O
+21	a	_	_	_	_	_	_	_	_	O
+22	koji	_	_	_	_	_	_	_	_	O
+23	je	_	_	_	_	_	_	_	_	O
+24	eto	_	_	_	_	_	_	_	SpaceAfter=No	O
+25	,	,	PUNCT	Z	_	_	_	_	_	O
+26	jbga	_	_	_	_	_	_	_	SpaceAfter=No	O
+27	,	,	PUNCT	Z	_	_	_	_	_	O
+28	čistio	_	_	_	_	_	_	_	_	O
+29	neke	_	_	_	_	_	_	_	_	O
+30	teritorije	_	_	_	_	_	_	_	_	O
+31	od	_	_	_	_	_	_	_	_	O
+32	braće	_	_	_	_	_	_	_	_	O
+33	srba	_	_	_	_	_	_	_	SpaceAfter=No	O
+34	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 7.2
+# text = al šta sad, ko nije radio malo etničkog čišćenja u mladosti taj ne zna šta je dobar biznis.
+1	al	_	_	_	_	_	_	_	_	O
+2	šta	_	_	_	_	_	_	_	_	O
+3	sad	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	ko	_	_	_	_	_	_	_	_	O
+6	nije	_	_	_	_	_	_	_	_	O
+7	radio	_	_	_	_	_	_	_	_	O
+8	malo	_	_	_	_	_	_	_	_	O
+9	etničkog	_	_	_	_	_	_	_	_	O
+10	čišćenja	_	_	_	_	_	_	_	_	O
+11	u	_	_	_	_	_	_	_	_	O
+12	mladosti	_	_	_	_	_	_	_	_	O
+13	taj	_	_	_	_	_	_	_	_	O
+14	ne	_	_	_	_	_	_	_	_	O
+15	zna	_	_	_	_	_	_	_	_	O
+16	šta	_	_	_	_	_	_	_	_	O
+17	je	_	_	_	_	_	_	_	_	O
+18	dobar	_	_	_	_	_	_	_	_	O
+19	biznis	_	_	_	_	_	_	_	SpaceAfter=No	O
+20	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 8
+# sent_id = 8.1
+# text = u sledećih par dana ćemo da vidimo da li je ovo tačna informacija.
+1	u	_	_	_	_	_	_	_	_	O
+2	sledećih	_	_	_	_	_	_	_	_	O
+3	par	_	_	_	_	_	_	_	_	O
+4	dana	_	_	_	_	_	_	_	_	O
+5	ćemo	_	_	_	_	_	_	_	_	O
+6	da	_	_	_	_	_	_	_	_	O
+7	vidimo	_	_	_	_	_	_	_	_	O
+8	da	_	_	_	_	_	_	_	_	O
+9	li	_	_	_	_	_	_	_	_	O
+10	je	_	_	_	_	_	_	_	_	O
+11	ovo	_	_	_	_	_	_	_	_	O
+12	tačna	_	_	_	_	_	_	_	_	O
+13	informacija	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 9
+# sent_id = 9.1
+# text = u svakom slučaju, srećom da nas rusi vole, tako da plaćamo najskuplje gorivo u ovom delu Evrope, a i mi njih volimo pa im ne uvodimo sankcije i gnušamo se EU pravila, jer onda ovakve patriotske pljačke ne bi bile moguće.
+1	u	_	_	_	_	_	_	_	_	O
+2	svakom	_	_	_	_	_	_	_	_	O
+3	slučaju	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	srećom	_	_	_	_	_	_	_	_	O
+6	da	_	_	_	_	_	_	_	_	O
+7	nas	_	_	_	_	_	_	_	_	O
+8	rusi	_	_	_	_	_	_	_	_	O
+9	vole	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	tako	_	_	_	_	_	_	_	_	O
+12	da	_	_	_	_	_	_	_	_	O
+13	plaćamo	_	_	_	_	_	_	_	_	O
+14	najskuplje	_	_	_	_	_	_	_	_	O
+15	gorivo	_	_	_	_	_	_	_	_	O
+16	u	_	_	_	_	_	_	_	_	O
+17	ovom	_	_	_	_	_	_	_	_	O
+18	delu	_	_	_	_	_	_	_	_	O
+19	Evrope	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+20	,	,	PUNCT	Z	_	_	_	_	_	O
+21	a	_	_	_	_	_	_	_	_	O
+22	i	_	_	_	_	_	_	_	_	O
+23	mi	_	_	_	_	_	_	_	_	O
+24	njih	_	_	_	_	_	_	_	_	O
+25	volimo	_	_	_	_	_	_	_	_	O
+26	pa	_	_	_	_	_	_	_	_	O
+27	im	_	_	_	_	_	_	_	_	O
+28	ne	_	_	_	_	_	_	_	_	O
+29	uvodimo	_	_	_	_	_	_	_	_	O
+30	sankcije	_	_	_	_	_	_	_	_	O
+31	i	_	_	_	_	_	_	_	_	O
+32	gnušamo	_	_	_	_	_	_	_	_	O
+33	se	_	_	_	_	_	_	_	_	O
+34	EU	_	_	_	_	_	_	_	_	B-ORG
+35	pravila	_	_	_	_	_	_	_	SpaceAfter=No	O
+36	,	,	PUNCT	Z	_	_	_	_	_	O
+37	jer	_	_	_	_	_	_	_	_	O
+38	onda	_	_	_	_	_	_	_	_	O
+39	ovakve	_	_	_	_	_	_	_	_	O
+40	patriotske	_	_	_	_	_	_	_	_	O
+41	pljačke	_	_	_	_	_	_	_	_	O
+42	ne	_	_	_	_	_	_	_	_	O
+43	bi	_	_	_	_	_	_	_	_	O
+44	bile	_	_	_	_	_	_	_	_	O
+45	moguće	_	_	_	_	_	_	_	SpaceAfter=No	O
+46	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 10
+# sent_id = 10.1
+# text = za to vreme NIS u prvih 6 meseci niže gubitak od 3,6 milijardi dinara
+1	za	_	_	_	_	_	_	_	_	O
+2	to	_	_	_	_	_	_	_	_	O
+3	vreme	_	_	_	_	_	_	_	_	O
+4	NIS	_	_	_	_	_	_	_	_	B-ORG
+5	u	_	_	_	_	_	_	_	_	O
+6	prvih	_	_	_	_	_	_	_	_	O
+7	6	_	_	_	_	_	_	_	_	O
+8	meseci	_	_	_	_	_	_	_	_	O
+9	niže	_	_	_	_	_	_	_	_	O
+10	gubitak	_	_	_	_	_	_	_	_	O
+11	od	_	_	_	_	_	_	_	_	O
+12	3,6	_	_	_	_	_	_	_	_	O
+13	milijardi	_	_	_	_	_	_	_	_	O
+14	dinara	_	_	_	_	_	_	_	_	O
+

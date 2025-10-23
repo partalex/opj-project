@@ -1,0 +1,358 @@
+#name = marija
+#domen = tviter
+#url = https://x.com/elfakublokadi/status/1970531467269972118
+# newpar id = 1
+# sent_id = 1.1
+# text = *VAŽNO OBAVEŠTENJE ZA JAVNOST*
+1	*	*	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+2	VAŽNO	_	_	_	_	_	_	_	_	O
+3	OBAVEŠTENJE	_	_	_	_	_	_	_	_	O
+4	ZA	_	_	_	_	_	_	_	_	O
+5	JAVNOST	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	*	*	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 2
+# sent_id = 2.1
+# text = Naš kolega i prijatelj, student Fakulteta tehničkih nauka, Bogdan Jovičić, dobio je novu pravnu zastupnicu, advokaticu Ljiljanu Borović Marjanović, koja će od sada voditi njegov slučaj.
+1	Naš	_	_	_	_	_	_	_	_	O
+2	kolega	_	_	_	_	_	_	_	_	O
+3	i	_	_	_	_	_	_	_	_	O
+4	prijatelj	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	student	_	_	_	_	_	_	_	_	O
+7	Fakulteta	_	_	_	_	_	_	_	_	B-ORG
+8	tehničkih	_	_	_	_	_	_	_	_	I-ORG
+9	nauka	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	Bogdan	_	_	_	_	_	_	_	_	B-PER
+12	Jovičić	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+14	dobio	_	_	_	_	_	_	_	_	O
+15	je	_	_	_	_	_	_	_	_	O
+16	novu	_	_	_	_	_	_	_	_	O
+17	pravnu	_	_	_	_	_	_	_	_	O
+18	zastupnicu	_	_	_	_	_	_	_	SpaceAfter=No	O
+19	,	,	PUNCT	Z	_	_	_	_	_	O
+20	advokaticu	_	_	_	_	_	_	_	_	O
+21	Ljiljanu	_	_	_	_	_	_	_	_	B-PER
+22	Borović	_	_	_	_	_	_	_	_	I-PER
+23	Marjanović	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+24	,	,	PUNCT	Z	_	_	_	_	_	O
+25	koja	_	_	_	_	_	_	_	_	O
+26	će	_	_	_	_	_	_	_	_	O
+27	od	_	_	_	_	_	_	_	_	O
+28	sada	_	_	_	_	_	_	_	_	O
+29	voditi	_	_	_	_	_	_	_	_	O
+30	njegov	_	_	_	_	_	_	_	_	O
+31	slučaj	_	_	_	_	_	_	_	SpaceAfter=No	O
+32	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.2
+# text = Advokatica Ljiljana je takođe pravna zastupnica i našeg kolege sa Pravnog fakulteta, Dimitrija Dimića.
+1	Advokatica	_	_	_	_	_	_	_	_	O
+2	Ljiljana	_	_	_	_	_	_	_	_	B-PER
+3	je	_	_	_	_	_	_	_	_	O
+4	takođe	_	_	_	_	_	_	_	_	O
+5	pravna	_	_	_	_	_	_	_	_	O
+6	zastupnica	_	_	_	_	_	_	_	_	O
+7	i	_	_	_	_	_	_	_	_	O
+8	našeg	_	_	_	_	_	_	_	_	O
+9	kolege	_	_	_	_	_	_	_	_	O
+10	sa	_	_	_	_	_	_	_	_	O
+11	Pravnog	_	_	_	_	_	_	_	_	B-ORG
+12	fakulteta	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+14	Dimitrija	_	_	_	_	_	_	_	_	B-PER
+15	Dimića	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+16	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 3
+# sent_id = 3.1
+# text = Ona je danas posetila Bogdana i zamolila ga da prekine štrajk glađu, naglasivši da samo zdrav i snažan može da pomogne u zajedničkoj borbi za istinu i pravdu.
+1	Ona	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	danas	_	_	_	_	_	_	_	_	O
+4	posetila	_	_	_	_	_	_	_	_	O
+5	Bogdana	_	_	_	_	_	_	_	_	B-PER
+6	i	_	_	_	_	_	_	_	_	O
+7	zamolila	_	_	_	_	_	_	_	_	O
+8	ga	_	_	_	_	_	_	_	_	O
+9	da	_	_	_	_	_	_	_	_	O
+10	prekine	_	_	_	_	_	_	_	_	O
+11	štrajk	_	_	_	_	_	_	_	_	O
+12	glađu	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+14	naglasivši	_	_	_	_	_	_	_	_	O
+15	da	_	_	_	_	_	_	_	_	O
+16	samo	_	_	_	_	_	_	_	_	O
+17	zdrav	_	_	_	_	_	_	_	_	O
+18	i	_	_	_	_	_	_	_	_	O
+19	snažan	_	_	_	_	_	_	_	_	O
+20	može	_	_	_	_	_	_	_	_	O
+21	da	_	_	_	_	_	_	_	_	O
+22	pomogne	_	_	_	_	_	_	_	_	O
+23	u	_	_	_	_	_	_	_	_	O
+24	zajedničkoj	_	_	_	_	_	_	_	_	O
+25	borbi	_	_	_	_	_	_	_	_	O
+26	za	_	_	_	_	_	_	_	_	O
+27	istinu	_	_	_	_	_	_	_	_	O
+28	i	_	_	_	_	_	_	_	_	O
+29	pravdu	_	_	_	_	_	_	_	SpaceAfter=No	O
+30	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 3.2
+# text = Bogdan je prihvatio njenu molbu, na šta smo svi neizmerno ponosni i zbog čega smo mirniji, jer svaki život je neprocenjiv.
+1	Bogdan	_	_	_	_	_	_	_	_	B-PER
+2	je	_	_	_	_	_	_	_	_	O
+3	prihvatio	_	_	_	_	_	_	_	_	O
+4	njenu	_	_	_	_	_	_	_	_	O
+5	molbu	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	na	_	_	_	_	_	_	_	_	O
+8	šta	_	_	_	_	_	_	_	_	O
+9	smo	_	_	_	_	_	_	_	_	O
+10	svi	_	_	_	_	_	_	_	_	O
+11	neizmerno	_	_	_	_	_	_	_	_	O
+12	ponosni	_	_	_	_	_	_	_	_	O
+13	i	_	_	_	_	_	_	_	_	O
+14	zbog	_	_	_	_	_	_	_	_	O
+15	čega	_	_	_	_	_	_	_	_	O
+16	smo	_	_	_	_	_	_	_	_	O
+17	mirniji	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	,	,	PUNCT	Z	_	_	_	_	_	O
+19	jer	_	_	_	_	_	_	_	_	O
+20	svaki	_	_	_	_	_	_	_	_	O
+21	život	_	_	_	_	_	_	_	_	O
+22	je	_	_	_	_	_	_	_	_	O
+23	neprocenjiv	_	_	_	_	_	_	_	SpaceAfter=No	O
+24	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 3.3
+# text = Verujemo da ćemo ga uskoro videti na slobodi.
+1	Verujemo	_	_	_	_	_	_	_	_	O
+2	da	_	_	_	_	_	_	_	_	O
+3	ćemo	_	_	_	_	_	_	_	_	O
+4	ga	_	_	_	_	_	_	_	_	O
+5	uskoro	_	_	_	_	_	_	_	_	O
+6	videti	_	_	_	_	_	_	_	_	O
+7	na	_	_	_	_	_	_	_	_	O
+8	slobodi	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 3.4
+# text = Bogdan je borac i to je već dokazao!
+1	Bogdan	_	_	_	_	_	_	_	_	B-PER
+2	je	_	_	_	_	_	_	_	_	O
+3	borac	_	_	_	_	_	_	_	_	O
+4	i	_	_	_	_	_	_	_	_	O
+5	to	_	_	_	_	_	_	_	_	O
+6	je	_	_	_	_	_	_	_	_	O
+7	već	_	_	_	_	_	_	_	_	O
+8	dokazao	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	!	!	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 4
+# sent_id = 4.1
+# text = Slučaj Bogdana Jovičića je takođe i internacionalizovan.
+1	Slučaj	_	_	_	_	_	_	_	_	O
+2	Bogdana	_	_	_	_	_	_	_	_	B-PER
+3	Jovičića	_	_	_	_	_	_	_	_	I-PER
+4	je	_	_	_	_	_	_	_	_	O
+5	takođe	_	_	_	_	_	_	_	_	O
+6	i	_	_	_	_	_	_	_	_	O
+7	internacionalizovan	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 4.2
+# text = Evropski sud za ljudska prava u Strazburu prihvatio je da razmatra predstavku njegovog advokata i u kratkom roku mogao bi da donese odluku o privremenoj meri.
+1	Evropski	_	_	_	_	_	_	_	_	B-ORG
+2	sud	_	_	_	_	_	_	_	_	I-ORG
+3	za	_	_	_	_	_	_	_	_	I-ORG
+4	ljudska	_	_	_	_	_	_	_	_	I-ORG
+5	prava	_	_	_	_	_	_	_	_	I-ORG
+6	u	_	_	_	_	_	_	_	_	I-ORG
+7	Strazburu	_	_	_	_	_	_	_	_	I-ORG
+8	prihvatio	_	_	_	_	_	_	_	_	O
+9	je	_	_	_	_	_	_	_	_	O
+10	da	_	_	_	_	_	_	_	_	O
+11	razmatra	_	_	_	_	_	_	_	_	O
+12	predstavku	_	_	_	_	_	_	_	_	O
+13	njegovog	_	_	_	_	_	_	_	_	O
+14	advokata	_	_	_	_	_	_	_	_	O
+15	i	_	_	_	_	_	_	_	_	O
+16	u	_	_	_	_	_	_	_	_	O
+17	kratkom	_	_	_	_	_	_	_	_	O
+18	roku	_	_	_	_	_	_	_	_	O
+19	mogao	_	_	_	_	_	_	_	_	O
+20	bi	_	_	_	_	_	_	_	_	O
+21	da	_	_	_	_	_	_	_	_	O
+22	donese	_	_	_	_	_	_	_	_	O
+23	odluku	_	_	_	_	_	_	_	_	O
+24	o	_	_	_	_	_	_	_	_	O
+25	privremenoj	_	_	_	_	_	_	_	_	O
+26	meri	_	_	_	_	_	_	_	SpaceAfter=No	O
+27	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 4.3
+# text = To bi bila velika pobeda Bogdana nad nepravdom i tiranijom.
+1	To	_	_	_	_	_	_	_	_	O
+2	bi	_	_	_	_	_	_	_	_	O
+3	bila	_	_	_	_	_	_	_	_	O
+4	velika	_	_	_	_	_	_	_	_	O
+5	pobeda	_	_	_	_	_	_	_	_	O
+6	Bogdana	_	_	_	_	_	_	_	_	B-PER
+7	nad	_	_	_	_	_	_	_	_	O
+8	nepravdom	_	_	_	_	_	_	_	_	O
+9	i	_	_	_	_	_	_	_	_	O
+10	tiranijom	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 5
+# sent_id = 5.1
+# text = U dopisu sudije P. Roosme (predmet Jovičić protiv Srbije, br. 28939/25) Bogdan je pozvan da obustavi štrajk glađu dok je proces pred ovim sudom u toku.
+1	U	_	_	_	_	_	_	_	_	O
+2	dopisu	_	_	_	_	_	_	_	_	O
+3	sudije	_	_	_	_	_	_	_	_	O
+4	P.	_	_	_	_	_	_	_	_	B-PER
+5	Roosme	_	_	_	_	_	_	_	_	I-PER
+6	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+7	predmet	_	_	_	_	_	_	_	_	O
+8	Jovičić	_	_	_	_	_	_	_	_	B-PER
+9	protiv	_	_	_	_	_	_	_	_	O
+10	Srbije	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	br.	_	_	_	_	_	_	_	_	O
+13	28939/25	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	)	)	PUNCT	Z	_	_	_	_	_	O
+15	Bogdan	_	_	_	_	_	_	_	_	B-PER
+16	je	_	_	_	_	_	_	_	_	O
+17	pozvan	_	_	_	_	_	_	_	_	O
+18	da	_	_	_	_	_	_	_	_	O
+19	obustavi	_	_	_	_	_	_	_	_	O
+20	štrajk	_	_	_	_	_	_	_	_	O
+21	glađu	_	_	_	_	_	_	_	_	O
+22	dok	_	_	_	_	_	_	_	_	O
+23	je	_	_	_	_	_	_	_	_	O
+24	proces	_	_	_	_	_	_	_	_	O
+25	pred	_	_	_	_	_	_	_	_	O
+26	ovim	_	_	_	_	_	_	_	_	O
+27	sudom	_	_	_	_	_	_	_	_	O
+28	u	_	_	_	_	_	_	_	_	O
+29	toku	_	_	_	_	_	_	_	SpaceAfter=No	O
+30	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 6
+# sent_id = 6.1
+# text = Za više informacija o ovom slučaju, pozivamo vas da pratite Dnevnik Nove S u 19.30 časova, gde ćete moći da čujete detaljnije informacije.
+1	Za	_	_	_	_	_	_	_	_	O
+2	više	_	_	_	_	_	_	_	_	O
+3	informacija	_	_	_	_	_	_	_	_	O
+4	o	_	_	_	_	_	_	_	_	O
+5	ovom	_	_	_	_	_	_	_	_	O
+6	slučaju	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	pozivamo	_	_	_	_	_	_	_	_	O
+9	vas	_	_	_	_	_	_	_	_	O
+10	da	_	_	_	_	_	_	_	_	O
+11	pratite	_	_	_	_	_	_	_	_	O
+12	Dnevnik	_	_	_	_	_	_	_	_	O
+13	Nove	_	_	_	_	_	_	_	_	B-ORG
+14	S	_	_	_	_	_	_	_	_	I-ORG
+15	u	_	_	_	_	_	_	_	_	O
+16	19.30	_	_	_	_	_	_	_	_	O
+17	časova	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	,	,	PUNCT	Z	_	_	_	_	_	O
+19	gde	_	_	_	_	_	_	_	_	O
+20	ćete	_	_	_	_	_	_	_	_	O
+21	moći	_	_	_	_	_	_	_	_	O
+22	da	_	_	_	_	_	_	_	_	O
+23	čujete	_	_	_	_	_	_	_	_	O
+24	detaljnije	_	_	_	_	_	_	_	_	O
+25	informacije	_	_	_	_	_	_	_	SpaceAfter=No	O
+26	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 7
+# sent_id = 7.1
+# text = Zahvaljujemo se na strpljenju i razumevanju.
+1	Zahvaljujemo	_	_	_	_	_	_	_	_	O
+2	se	_	_	_	_	_	_	_	_	O
+3	na	_	_	_	_	_	_	_	_	O
+4	strpljenju	_	_	_	_	_	_	_	_	O
+5	i	_	_	_	_	_	_	_	_	O
+6	razumevanju	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 7.2
+# text = Izvinjavamo se ukoliko je u očima javnosti delovalo kao da ništa ne radimo i da smo našeg kolegu Bogdana ostavili samog.
+1	Izvinjavamo	_	_	_	_	_	_	_	_	O
+2	se	_	_	_	_	_	_	_	_	O
+3	ukoliko	_	_	_	_	_	_	_	_	O
+4	je	_	_	_	_	_	_	_	_	O
+5	u	_	_	_	_	_	_	_	_	O
+6	očima	_	_	_	_	_	_	_	_	O
+7	javnosti	_	_	_	_	_	_	_	_	O
+8	delovalo	_	_	_	_	_	_	_	_	O
+9	kao	_	_	_	_	_	_	_	_	O
+10	da	_	_	_	_	_	_	_	_	O
+11	ništa	_	_	_	_	_	_	_	_	O
+12	ne	_	_	_	_	_	_	_	_	O
+13	radimo	_	_	_	_	_	_	_	_	O
+14	i	_	_	_	_	_	_	_	_	O
+15	da	_	_	_	_	_	_	_	_	O
+16	smo	_	_	_	_	_	_	_	_	O
+17	našeg	_	_	_	_	_	_	_	_	O
+18	kolegu	_	_	_	_	_	_	_	_	O
+19	Bogdana	_	_	_	_	_	_	_	_	B-PER
+20	ostavili	_	_	_	_	_	_	_	_	O
+21	samog	_	_	_	_	_	_	_	SpaceAfter=No	O
+22	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 7.3
+# text = Nismo!
+1	Nismo	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	!	!	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 7.4
+# text = Mnoge naše kolege nalaze se u pritvoru i brinemo o svima njima.
+1	Mnoge	_	_	_	_	_	_	_	_	O
+2	naše	_	_	_	_	_	_	_	_	O
+3	kolege	_	_	_	_	_	_	_	_	O
+4	nalaze	_	_	_	_	_	_	_	_	O
+5	se	_	_	_	_	_	_	_	_	O
+6	u	_	_	_	_	_	_	_	_	O
+7	pritvoru	_	_	_	_	_	_	_	_	O
+8	i	_	_	_	_	_	_	_	_	O
+9	brinemo	_	_	_	_	_	_	_	_	O
+10	o	_	_	_	_	_	_	_	_	O
+11	svima	_	_	_	_	_	_	_	_	O
+12	njima	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 7.5
+# text = Svakodnevno smo u kontaktu sa njima i sve radimo u dogovoru i uz njihovu saglasnost.
+1	Svakodnevno	_	_	_	_	_	_	_	_	O
+2	smo	_	_	_	_	_	_	_	_	O
+3	u	_	_	_	_	_	_	_	_	O
+4	kontaktu	_	_	_	_	_	_	_	_	O
+5	sa	_	_	_	_	_	_	_	_	O
+6	njima	_	_	_	_	_	_	_	_	O
+7	i	_	_	_	_	_	_	_	_	O
+8	sve	_	_	_	_	_	_	_	_	O
+9	radimo	_	_	_	_	_	_	_	_	O
+10	u	_	_	_	_	_	_	_	_	O
+11	dogovoru	_	_	_	_	_	_	_	_	O
+12	i	_	_	_	_	_	_	_	_	O
+13	uz	_	_	_	_	_	_	_	_	O
+14	njihovu	_	_	_	_	_	_	_	_	O
+15	saglasnost	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 7.6
+# text = Borba za pravdu se nastavlja!
+1	Borba	_	_	_	_	_	_	_	_	O
+2	za	_	_	_	_	_	_	_	_	O
+3	pravdu	_	_	_	_	_	_	_	_	O
+4	se	_	_	_	_	_	_	_	_	O
+5	nastavlja	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	!	!	PUNCT	Z	_	_	_	_	_	O
+

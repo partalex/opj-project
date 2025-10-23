@@ -1,0 +1,1110 @@
+#name = milena
+#domen = pravno_administrativni
+#url = https://www.vrh.sud.rs/sr-lat/kzu-4209
+# newpar id = 1
+# sent_id = 1.1
+# text = U IME NARODA
+1	U	_	_	_	_	_	_	_	_	O
+2	IME	_	_	_	_	_	_	_	_	O
+3	NARODA	_	_	_	_	_	_	_	_	O
+
+# newpar id = 2
+# sent_id = 2.1
+# text = Vrhovni sud Srbije u Beogradu, u veću sastavljenom od sudija: Dragomira Milojevića, predsednika veća, Predraga Gligorijevića i Zorana Tatalovića, članova veća i savetnika Dragane Vuksanović, kao zapisničara, u krivičnom predmetu osuđenog AA, zbog krivičnog dela iz člana 171. stav 2. u vezi stava 1. Krivičnog zakona Republike Srbije, odlučujući o zahtevu osuđenog za vanredno ublažavanje kazne, izrečene pravnosnažnom presudom Opštinskog suda u Lajkovcu Kv.
+1	Vrhovni	_	_	_	_	_	_	_	_	B-ORG
+2	sud	_	_	_	_	_	_	_	_	I-ORG
+3	Srbije	_	_	_	_	_	_	_	_	I-ORG
+4	u	_	_	_	_	_	_	_	_	O
+5	Beogradu	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	u	_	_	_	_	_	_	_	_	O
+8	veću	_	_	_	_	_	_	_	_	O
+9	sastavljenom	_	_	_	_	_	_	_	_	O
+10	od	_	_	_	_	_	_	_	_	O
+11	sudija	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	:	:	PUNCT	Z	_	_	_	_	_	O
+13	Dragomira	_	_	_	_	_	_	_	_	B-PER
+14	Milojevića	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+15	,	,	PUNCT	Z	_	_	_	_	_	O
+16	predsednika	_	_	_	_	_	_	_	_	O
+17	veća	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	,	,	PUNCT	Z	_	_	_	_	_	O
+19	Predraga	_	_	_	_	_	_	_	_	B-PER
+20	Gligorijevića	_	_	_	_	_	_	_	_	I-PER
+21	i	_	_	_	_	_	_	_	_	O
+22	Zorana	_	_	_	_	_	_	_	_	B-PER
+23	Tatalovića	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+24	,	,	PUNCT	Z	_	_	_	_	_	O
+25	članova	_	_	_	_	_	_	_	_	O
+26	veća	_	_	_	_	_	_	_	_	O
+27	i	_	_	_	_	_	_	_	_	O
+28	savetnika	_	_	_	_	_	_	_	_	O
+29	Dragane	_	_	_	_	_	_	_	_	B-PER
+30	Vuksanović	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+31	,	,	PUNCT	Z	_	_	_	_	_	O
+32	kao	_	_	_	_	_	_	_	_	O
+33	zapisničara	_	_	_	_	_	_	_	SpaceAfter=No	O
+34	,	,	PUNCT	Z	_	_	_	_	_	O
+35	u	_	_	_	_	_	_	_	_	O
+36	krivičnom	_	_	_	_	_	_	_	_	O
+37	predmetu	_	_	_	_	_	_	_	_	O
+38	osuđenog	_	_	_	_	_	_	_	_	O
+39	AA	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
+40	,	,	PUNCT	Z	_	_	_	_	_	O
+41	zbog	_	_	_	_	_	_	_	_	O
+42	krivičnog	_	_	_	_	_	_	_	_	O
+43	dela	_	_	_	_	_	_	_	_	O
+44	iz	_	_	_	_	_	_	_	_	O
+45	člana	_	_	_	_	_	_	_	_	O
+46	171.	_	_	_	_	_	_	_	_	O
+47	stav	_	_	_	_	_	_	_	_	O
+48	2.	_	_	_	_	_	_	_	_	O
+49	u	_	_	_	_	_	_	_	_	O
+50	vezi	_	_	_	_	_	_	_	_	O
+51	stava	_	_	_	_	_	_	_	_	O
+52	1.	_	_	_	_	_	_	_	_	O
+53	Krivičnog	_	_	_	_	_	_	_	_	O
+54	zakona	_	_	_	_	_	_	_	_	O
+55	Republike	_	_	_	_	_	_	_	_	B-LOC
+56	Srbije	_	_	_	_	_	_	_	SpaceAfter=No	I-LOC
+57	,	,	PUNCT	Z	_	_	_	_	_	O
+58	odlučujući	_	_	_	_	_	_	_	_	O
+59	o	_	_	_	_	_	_	_	_	O
+60	zahtevu	_	_	_	_	_	_	_	_	O
+61	osuđenog	_	_	_	_	_	_	_	_	O
+62	za	_	_	_	_	_	_	_	_	O
+63	vanredno	_	_	_	_	_	_	_	_	O
+64	ublažavanje	_	_	_	_	_	_	_	_	O
+65	kazne	_	_	_	_	_	_	_	SpaceAfter=No	O
+66	,	,	PUNCT	Z	_	_	_	_	_	O
+67	izrečene	_	_	_	_	_	_	_	_	O
+68	pravnosnažnom	_	_	_	_	_	_	_	_	O
+69	presudom	_	_	_	_	_	_	_	_	O
+70	Opštinskog	_	_	_	_	_	_	_	_	B-ORG
+71	suda	_	_	_	_	_	_	_	_	I-ORG
+72	u	_	_	_	_	_	_	_	_	I-ORG
+73	Lajkovcu	_	_	_	_	_	_	_	_	I-ORG
+74	Kv	_	_	_	_	_	_	_	SpaceAfter=No	O
+75	.	.	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+
+# sent_id = 2.2
+# text = 27/04 od 24.02.2005. godine, u sednici veća održanoj 17.11.2009. godine, doneo je
+1	27/04	_	_	_	_	_	_	_	_	O
+2	od	_	_	_	_	_	_	_	_	O
+3	24.02.2005.	_	_	_	_	_	_	_	_	O
+4	godine	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	u	_	_	_	_	_	_	_	_	O
+7	sednici	_	_	_	_	_	_	_	_	O
+8	veća	_	_	_	_	_	_	_	_	O
+9	održanoj	_	_	_	_	_	_	_	_	O
+10	17.11.2009.	_	_	_	_	_	_	_	_	O
+11	godine	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	doneo	_	_	_	_	_	_	_	_	O
+14	je	_	_	_	_	_	_	_	_	O
+
+# newpar id = 3
+# sent_id = 3.1
+# text = P R E S U D U
+1	P	_	_	_	_	_	_	_	_	O
+2	R	_	_	_	_	_	_	_	_	O
+3	E	_	_	_	_	_	_	_	_	O
+4	S	_	_	_	_	_	_	_	_	O
+5	U	_	_	_	_	_	_	_	_	O
+6	D	_	_	_	_	_	_	_	_	O
+7	U	_	_	_	_	_	_	_	_	O
+
+# newpar id = 4
+# sent_id = 4.1
+# text = USVAJA SE zahtev osuđenog AA, pa se PREINAČUJE u pogledu odluke o kazni, pravnosnažna presuda Opštinskog suda u Lajkovcu Kv.
+1	USVAJA	_	_	_	_	_	_	_	_	O
+2	SE	_	_	_	_	_	_	_	_	O
+3	zahtev	_	_	_	_	_	_	_	_	O
+4	osuđenog	_	_	_	_	_	_	_	_	O
+5	AA	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	pa	_	_	_	_	_	_	_	_	O
+8	se	_	_	_	_	_	_	_	_	O
+9	PREINAČUJE	_	_	_	_	_	_	_	_	O
+10	u	_	_	_	_	_	_	_	_	O
+11	pogledu	_	_	_	_	_	_	_	_	O
+12	odluke	_	_	_	_	_	_	_	_	O
+13	o	_	_	_	_	_	_	_	_	O
+14	kazni	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	,	,	PUNCT	Z	_	_	_	_	_	O
+16	pravnosnažna	_	_	_	_	_	_	_	_	O
+17	presuda	_	_	_	_	_	_	_	_	O
+18	Opštinskog	_	_	_	_	_	_	_	_	B-ORG
+19	suda	_	_	_	_	_	_	_	_	I-ORG
+20	u	_	_	_	_	_	_	_	_	I-ORG
+21	Lajkovcu	_	_	_	_	_	_	_	_	I-ORG
+22	Kv	_	_	_	_	_	_	_	SpaceAfter=No	O
+23	.	.	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+
+# sent_id = 4.2
+# text = 27/04 od 24.02.2005. godine, tako što Vrhovni sud osuđenog AA, za izvršeno krivično delo prevare iz člana 171. stav 2. u vezi stava 1. KZ RS, OSUĐUJE na kaznu zatvora u trajanju od 1- jedne godine.
+1	27/04	_	_	_	_	_	_	_	_	O
+2	od	_	_	_	_	_	_	_	_	O
+3	24.02.2005.	_	_	_	_	_	_	_	_	O
+4	godine	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	tako	_	_	_	_	_	_	_	_	O
+7	što	_	_	_	_	_	_	_	_	O
+8	Vrhovni	_	_	_	_	_	_	_	_	B-ORG
+9	sud	_	_	_	_	_	_	_	_	I-ORG
+10	osuđenog	_	_	_	_	_	_	_	_	O
+11	AA	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	za	_	_	_	_	_	_	_	_	O
+14	izvršeno	_	_	_	_	_	_	_	_	O
+15	krivično	_	_	_	_	_	_	_	_	O
+16	delo	_	_	_	_	_	_	_	_	O
+17	prevare	_	_	_	_	_	_	_	_	O
+18	iz	_	_	_	_	_	_	_	_	O
+19	člana	_	_	_	_	_	_	_	_	O
+20	171.	_	_	_	_	_	_	_	_	O
+21	stav	_	_	_	_	_	_	_	_	O
+22	2.	_	_	_	_	_	_	_	_	O
+23	u	_	_	_	_	_	_	_	_	O
+24	vezi	_	_	_	_	_	_	_	_	O
+25	stava	_	_	_	_	_	_	_	_	O
+26	1.	_	_	_	_	_	_	_	_	O
+27	KZ	_	_	_	_	_	_	_	_	O
+28	RS	_	_	_	_	_	_	_	SpaceAfter=No	O
+29	,	,	PUNCT	Z	_	_	_	_	_	O
+30	OSUĐUJE	_	_	_	_	_	_	_	_	O
+31	na	_	_	_	_	_	_	_	_	O
+32	kaznu	_	_	_	_	_	_	_	_	O
+33	zatvora	_	_	_	_	_	_	_	_	O
+34	u	_	_	_	_	_	_	_	_	O
+35	trajanju	_	_	_	_	_	_	_	_	O
+36	od	_	_	_	_	_	_	_	_	O
+37	1	_	_	_	_	_	_	_	SpaceAfter=No	O
+38	-	-	PUNCT	Z	_	_	_	_	_	O
+39	jedne	_	_	_	_	_	_	_	_	O
+40	godine	_	_	_	_	_	_	_	SpaceAfter=No	O
+41	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 5
+# sent_id = 5.1
+# text = O b r a z l o ž e nj e
+1	O	_	_	_	_	_	_	_	_	O
+2	b	_	_	_	_	_	_	_	_	O
+3	r	_	_	_	_	_	_	_	_	O
+4	a	_	_	_	_	_	_	_	_	O
+5	z	_	_	_	_	_	_	_	_	O
+6	l	_	_	_	_	_	_	_	_	O
+7	o	_	_	_	_	_	_	_	_	O
+8	ž	_	_	_	_	_	_	_	_	O
+9	e	_	_	_	_	_	_	_	_	O
+10	nj	_	_	_	_	_	_	_	_	O
+11	e	_	_	_	_	_	_	_	_	O
+
+# newpar id = 6
+# sent_id = 6.1
+# text = Presudom Okružnog suda u Valjevu Kž.
+1	Presudom	_	_	_	_	_	_	_	_	O
+2	Okružnog	_	_	_	_	_	_	_	_	B-ORG
+3	suda	_	_	_	_	_	_	_	_	I-ORG
+4	u	_	_	_	_	_	_	_	_	I-ORG
+5	Valjevu	_	_	_	_	_	_	_	_	I-ORG
+6	Kž	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	.	.	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+
+# sent_id = 6.2
+# text = 40/03 od 03. februara 2003. godine, kojom je u pogledu odluke o krivičnoj sankciji preinačena presuda Opštinskog suda u Lajkovcu K.104/02 od 17.10.2002. godine, AA je zbog krivičnog dela prevare iz člana 171. stav 2. u vezi stava 1. KZ RS, izrečena uslovna osuda, tako što mu je utvrđena kazna zatvora u trajanju od dve godine i istovremeno određeno da se ona neće izvršiti ako optuženi za vreme od četiri godine ne učini novo krivično delo i uz uslov da ošt.
+1	40/03	_	_	_	_	_	_	_	_	O
+2	od	_	_	_	_	_	_	_	_	O
+3	03.	_	_	_	_	_	_	_	_	O
+4	februara	_	_	_	_	_	_	_	_	O
+5	2003.	_	_	_	_	_	_	_	_	O
+6	godine	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	kojom	_	_	_	_	_	_	_	_	O
+9	je	_	_	_	_	_	_	_	_	O
+10	u	_	_	_	_	_	_	_	_	O
+11	pogledu	_	_	_	_	_	_	_	_	O
+12	odluke	_	_	_	_	_	_	_	_	O
+13	o	_	_	_	_	_	_	_	_	O
+14	krivičnoj	_	_	_	_	_	_	_	_	O
+15	sankciji	_	_	_	_	_	_	_	_	O
+16	preinačena	_	_	_	_	_	_	_	_	O
+17	presuda	_	_	_	_	_	_	_	_	O
+18	Opštinskog	_	_	_	_	_	_	_	_	B-ORG
+19	suda	_	_	_	_	_	_	_	_	I-ORG
+20	u	_	_	_	_	_	_	_	_	I-ORG
+21	Lajkovcu	_	_	_	_	_	_	_	_	I-ORG
+22	K.	_	_	_	_	_	_	_	SpaceAfter=No	O
+23	104/02	_	_	_	_	_	_	_	_	O
+24	od	_	_	_	_	_	_	_	_	O
+25	17.10.2002.	_	_	_	_	_	_	_	_	O
+26	godine	_	_	_	_	_	_	_	SpaceAfter=No	O
+27	,	,	PUNCT	Z	_	_	_	_	_	O
+28	AA	_	_	_	_	_	_	_	_	B-PER
+29	je	_	_	_	_	_	_	_	_	O
+30	zbog	_	_	_	_	_	_	_	_	O
+31	krivičnog	_	_	_	_	_	_	_	_	O
+32	dela	_	_	_	_	_	_	_	_	O
+33	prevare	_	_	_	_	_	_	_	_	O
+34	iz	_	_	_	_	_	_	_	_	O
+35	člana	_	_	_	_	_	_	_	_	O
+36	171.	_	_	_	_	_	_	_	_	O
+37	stav	_	_	_	_	_	_	_	_	O
+38	2.	_	_	_	_	_	_	_	_	O
+39	u	_	_	_	_	_	_	_	_	O
+40	vezi	_	_	_	_	_	_	_	_	O
+41	stava	_	_	_	_	_	_	_	_	O
+42	1.	_	_	_	_	_	_	_	_	O
+43	KZ	_	_	_	_	_	_	_	_	O
+44	RS	_	_	_	_	_	_	_	SpaceAfter=No	O
+45	,	,	PUNCT	Z	_	_	_	_	_	O
+46	izrečena	_	_	_	_	_	_	_	_	O
+47	uslovna	_	_	_	_	_	_	_	_	O
+48	osuda	_	_	_	_	_	_	_	SpaceAfter=No	O
+49	,	,	PUNCT	Z	_	_	_	_	_	O
+50	tako	_	_	_	_	_	_	_	_	O
+51	što	_	_	_	_	_	_	_	_	O
+52	mu	_	_	_	_	_	_	_	_	O
+53	je	_	_	_	_	_	_	_	_	O
+54	utvrđena	_	_	_	_	_	_	_	_	O
+55	kazna	_	_	_	_	_	_	_	_	O
+56	zatvora	_	_	_	_	_	_	_	_	O
+57	u	_	_	_	_	_	_	_	_	O
+58	trajanju	_	_	_	_	_	_	_	_	O
+59	od	_	_	_	_	_	_	_	_	O
+60	dve	_	_	_	_	_	_	_	_	O
+61	godine	_	_	_	_	_	_	_	_	O
+62	i	_	_	_	_	_	_	_	_	O
+63	istovremeno	_	_	_	_	_	_	_	_	O
+64	određeno	_	_	_	_	_	_	_	_	O
+65	da	_	_	_	_	_	_	_	_	O
+66	se	_	_	_	_	_	_	_	_	O
+67	ona	_	_	_	_	_	_	_	_	O
+68	neće	_	_	_	_	_	_	_	_	O
+69	izvršiti	_	_	_	_	_	_	_	_	O
+70	ako	_	_	_	_	_	_	_	_	O
+71	optuženi	_	_	_	_	_	_	_	_	O
+72	za	_	_	_	_	_	_	_	_	O
+73	vreme	_	_	_	_	_	_	_	_	O
+74	od	_	_	_	_	_	_	_	_	O
+75	četiri	_	_	_	_	_	_	_	_	O
+76	godine	_	_	_	_	_	_	_	_	O
+77	ne	_	_	_	_	_	_	_	_	O
+78	učini	_	_	_	_	_	_	_	_	O
+79	novo	_	_	_	_	_	_	_	_	O
+80	krivično	_	_	_	_	_	_	_	_	O
+81	delo	_	_	_	_	_	_	_	_	O
+82	i	_	_	_	_	_	_	_	_	O
+83	uz	_	_	_	_	_	_	_	_	O
+84	uslov	_	_	_	_	_	_	_	_	O
+85	da	_	_	_	_	_	_	_	_	O
+86	ošt	_	_	_	_	_	_	_	SpaceAfter=No	O
+87	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 6.3
+# text = BB naknadi štetu prouzrokovanu krivičnim delom, tako što će mu isplatiti iznos od 870.000,00 dinara, najkasnije do 15.04.2003. godine.
+1	BB	_	_	_	_	_	_	_	_	B-PER
+2	naknadi	_	_	_	_	_	_	_	_	O
+3	štetu	_	_	_	_	_	_	_	_	O
+4	prouzrokovanu	_	_	_	_	_	_	_	_	O
+5	krivičnim	_	_	_	_	_	_	_	_	O
+6	delom	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	tako	_	_	_	_	_	_	_	_	O
+9	što	_	_	_	_	_	_	_	_	O
+10	će	_	_	_	_	_	_	_	_	O
+11	mu	_	_	_	_	_	_	_	_	O
+12	isplatiti	_	_	_	_	_	_	_	_	O
+13	iznos	_	_	_	_	_	_	_	_	O
+14	od	_	_	_	_	_	_	_	_	O
+15	870.000,00	_	_	_	_	_	_	_	_	O
+16	dinara	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	,	,	PUNCT	Z	_	_	_	_	_	O
+18	najkasnije	_	_	_	_	_	_	_	_	O
+19	do	_	_	_	_	_	_	_	_	O
+20	15.04.2003.	_	_	_	_	_	_	_	_	O
+21	godine	_	_	_	_	_	_	_	SpaceAfter=No	O
+22	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 7
+# sent_id = 7.1
+# text = Kako osuđeni nije isplatio štetu oštećenom u roku određenom navedenom presudom Okružnog suda u Valjevu, Opštinski sud u Lajkovcu je presudom Kv.
+1	Kako	_	_	_	_	_	_	_	_	O
+2	osuđeni	_	_	_	_	_	_	_	_	O
+3	nije	_	_	_	_	_	_	_	_	O
+4	isplatio	_	_	_	_	_	_	_	_	O
+5	štetu	_	_	_	_	_	_	_	_	O
+6	oštećenom	_	_	_	_	_	_	_	_	O
+7	u	_	_	_	_	_	_	_	_	O
+8	roku	_	_	_	_	_	_	_	_	O
+9	određenom	_	_	_	_	_	_	_	_	O
+10	navedenom	_	_	_	_	_	_	_	_	O
+11	presudom	_	_	_	_	_	_	_	_	O
+12	Okružnog	_	_	_	_	_	_	_	_	B-ORG
+13	suda	_	_	_	_	_	_	_	_	I-ORG
+14	u	_	_	_	_	_	_	_	_	I-ORG
+15	Valjevu	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+16	,	,	PUNCT	Z	_	_	_	_	_	O
+17	Opštinski	_	_	_	_	_	_	_	_	B-ORG
+18	sud	_	_	_	_	_	_	_	_	I-ORG
+19	u	_	_	_	_	_	_	_	_	I-ORG
+20	Lajkovcu	_	_	_	_	_	_	_	_	I-ORG
+21	je	_	_	_	_	_	_	_	_	O
+22	presudom	_	_	_	_	_	_	_	_	O
+23	Kv	_	_	_	_	_	_	_	SpaceAfter=No	O
+24	.	.	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+
+# sent_id = 7.2
+# text = 27/04 od 24.02.2005. godine, opozvao uslovnu osudu prema osuđenom AA i odredio da se utvrđena kazna zatvora u trajanju od dve godine izvrši.
+1	27/04	_	_	_	_	_	_	_	_	O
+2	od	_	_	_	_	_	_	_	_	O
+3	24.02.2005.	_	_	_	_	_	_	_	_	O
+4	godine	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	opozvao	_	_	_	_	_	_	_	_	O
+7	uslovnu	_	_	_	_	_	_	_	_	O
+8	osudu	_	_	_	_	_	_	_	_	O
+9	prema	_	_	_	_	_	_	_	_	O
+10	osuđenom	_	_	_	_	_	_	_	_	O
+11	AA	_	_	_	_	_	_	_	_	B-PER
+12	i	_	_	_	_	_	_	_	_	O
+13	odredio	_	_	_	_	_	_	_	_	O
+14	da	_	_	_	_	_	_	_	_	O
+15	se	_	_	_	_	_	_	_	_	O
+16	utvrđena	_	_	_	_	_	_	_	_	O
+17	kazna	_	_	_	_	_	_	_	_	O
+18	zatvora	_	_	_	_	_	_	_	_	O
+19	u	_	_	_	_	_	_	_	_	O
+20	trajanju	_	_	_	_	_	_	_	_	O
+21	od	_	_	_	_	_	_	_	_	O
+22	dve	_	_	_	_	_	_	_	_	O
+23	godine	_	_	_	_	_	_	_	_	O
+24	izvrši	_	_	_	_	_	_	_	SpaceAfter=No	O
+25	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 8
+# sent_id = 8.1
+# text = Osuđeni je podneo zahtev za vanredno ublažavanje kazne.
+1	Osuđeni	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	podneo	_	_	_	_	_	_	_	_	O
+4	zahtev	_	_	_	_	_	_	_	_	O
+5	za	_	_	_	_	_	_	_	_	O
+6	vanredno	_	_	_	_	_	_	_	_	O
+7	ublažavanje	_	_	_	_	_	_	_	_	O
+8	kazne	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 9
+# sent_id = 9.1
+# text = Vrhovni sud je razmotrio spise predmeta, sa zahtevom osuđenog, obrazloženim predlogom Opštinskog suda u Lajkovcu da se zahtev odbije i predlogom Republičkog javnog tužioca Ktr.
+1	Vrhovni	_	_	_	_	_	_	_	_	B-ORG
+2	sud	_	_	_	_	_	_	_	_	I-ORG
+3	je	_	_	_	_	_	_	_	_	O
+4	razmotrio	_	_	_	_	_	_	_	_	O
+5	spise	_	_	_	_	_	_	_	_	O
+6	predmeta	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	sa	_	_	_	_	_	_	_	_	O
+9	zahtevom	_	_	_	_	_	_	_	_	O
+10	osuđenog	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	obrazloženim	_	_	_	_	_	_	_	_	O
+13	predlogom	_	_	_	_	_	_	_	_	O
+14	Opštinskog	_	_	_	_	_	_	_	_	B-ORG
+15	suda	_	_	_	_	_	_	_	_	I-ORG
+16	u	_	_	_	_	_	_	_	_	I-ORG
+17	Lajkovcu	_	_	_	_	_	_	_	_	I-ORG
+18	da	_	_	_	_	_	_	_	_	O
+19	se	_	_	_	_	_	_	_	_	O
+20	zahtev	_	_	_	_	_	_	_	_	O
+21	odbije	_	_	_	_	_	_	_	_	O
+22	i	_	_	_	_	_	_	_	_	O
+23	predlogom	_	_	_	_	_	_	_	_	O
+24	Republičkog	_	_	_	_	_	_	_	_	O
+25	javnog	_	_	_	_	_	_	_	_	O
+26	tužioca	_	_	_	_	_	_	_	_	O
+27	Ktr	_	_	_	_	_	_	_	SpaceAfter=No	O
+28	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 9.2
+# text = I 347/09 od 17.02.2009. godine, da se zahtev odbije, pa je našao:
+1	I	_	_	_	_	_	_	_	_	O
+2	347/09	_	_	_	_	_	_	_	_	O
+3	od	_	_	_	_	_	_	_	_	O
+4	17.02.2009.	_	_	_	_	_	_	_	_	O
+5	godine	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	da	_	_	_	_	_	_	_	_	O
+8	se	_	_	_	_	_	_	_	_	O
+9	zahtev	_	_	_	_	_	_	_	_	O
+10	odbije	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	pa	_	_	_	_	_	_	_	_	O
+13	je	_	_	_	_	_	_	_	_	O
+14	našao	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	:	:	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 10
+# sent_id = 10.1
+# text = Zahtev je osnovan.
+1	Zahtev	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	osnovan	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 11
+# sent_id = 11.1
+# text = Prema odredbi člana 415.
+1	Prema	_	_	_	_	_	_	_	_	O
+2	odredbi	_	_	_	_	_	_	_	_	O
+3	člana	_	_	_	_	_	_	_	_	O
+4	415.	_	_	_	_	_	_	_	_	O
+
+# sent_id = 11.2
+# text = ZKP, ublažavanje pravnosnažno izrečene kazne, koja nije izvršena, odnosno izdržana, dozvoljeno je, kada se po pravnosnažnosti presude pojave okolnosti kojih nije bilo kada se izricala presuda ili sud za njih nije znao iako su postojale, a one bi očigledno dovele do blaže osude.
+1	ZKP	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	ublažavanje	_	_	_	_	_	_	_	_	O
+4	pravnosnažno	_	_	_	_	_	_	_	_	O
+5	izrečene	_	_	_	_	_	_	_	_	O
+6	kazne	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	koja	_	_	_	_	_	_	_	_	O
+9	nije	_	_	_	_	_	_	_	_	O
+10	izvršena	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	odnosno	_	_	_	_	_	_	_	_	O
+13	izdržana	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	,	,	PUNCT	Z	_	_	_	_	_	O
+15	dozvoljeno	_	_	_	_	_	_	_	_	O
+16	je	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	,	,	PUNCT	Z	_	_	_	_	_	O
+18	kada	_	_	_	_	_	_	_	_	O
+19	se	_	_	_	_	_	_	_	_	O
+20	po	_	_	_	_	_	_	_	_	O
+21	pravnosnažnosti	_	_	_	_	_	_	_	_	O
+22	presude	_	_	_	_	_	_	_	_	O
+23	pojave	_	_	_	_	_	_	_	_	O
+24	okolnosti	_	_	_	_	_	_	_	_	O
+25	kojih	_	_	_	_	_	_	_	_	O
+26	nije	_	_	_	_	_	_	_	_	O
+27	bilo	_	_	_	_	_	_	_	_	O
+28	kada	_	_	_	_	_	_	_	_	O
+29	se	_	_	_	_	_	_	_	_	O
+30	izricala	_	_	_	_	_	_	_	_	O
+31	presuda	_	_	_	_	_	_	_	_	O
+32	ili	_	_	_	_	_	_	_	_	O
+33	sud	_	_	_	_	_	_	_	_	O
+34	za	_	_	_	_	_	_	_	_	O
+35	njih	_	_	_	_	_	_	_	_	O
+36	nije	_	_	_	_	_	_	_	_	O
+37	znao	_	_	_	_	_	_	_	_	O
+38	iako	_	_	_	_	_	_	_	_	O
+39	su	_	_	_	_	_	_	_	_	O
+40	postojale	_	_	_	_	_	_	_	SpaceAfter=No	O
+41	,	,	PUNCT	Z	_	_	_	_	_	O
+42	a	_	_	_	_	_	_	_	_	O
+43	one	_	_	_	_	_	_	_	_	O
+44	bi	_	_	_	_	_	_	_	_	O
+45	očigledno	_	_	_	_	_	_	_	_	O
+46	dovele	_	_	_	_	_	_	_	_	O
+47	do	_	_	_	_	_	_	_	_	O
+48	blaže	_	_	_	_	_	_	_	_	O
+49	osude	_	_	_	_	_	_	_	SpaceAfter=No	O
+50	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 12
+# sent_id = 12.1
+# text = Osuđeni je u zahtevu naveo da je nakon izricanja kazne zatvora započeo lečenje krvnih sudova vrata u KBC Zvezdara i da to lečenje i dalje traje, da je kod njega ustanovljeno teško oštećenje krvnih sudova vrata, da mu je utvrđen i invaliditet, i dat predlog za invalidsku komisiju, da je njegovo stanje jako loše, da se tetura kada hoda, da mu je neophodno dalje lečenje, a kao dokaz svojih navoda priložio je brojnu medicinsku dokumentaciju.
+1	Osuđeni	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	u	_	_	_	_	_	_	_	_	O
+4	zahtevu	_	_	_	_	_	_	_	_	O
+5	naveo	_	_	_	_	_	_	_	_	O
+6	da	_	_	_	_	_	_	_	_	O
+7	je	_	_	_	_	_	_	_	_	O
+8	nakon	_	_	_	_	_	_	_	_	O
+9	izricanja	_	_	_	_	_	_	_	_	O
+10	kazne	_	_	_	_	_	_	_	_	O
+11	zatvora	_	_	_	_	_	_	_	_	O
+12	započeo	_	_	_	_	_	_	_	_	O
+13	lečenje	_	_	_	_	_	_	_	_	O
+14	krvnih	_	_	_	_	_	_	_	_	O
+15	sudova	_	_	_	_	_	_	_	_	O
+16	vrata	_	_	_	_	_	_	_	_	O
+17	u	_	_	_	_	_	_	_	_	O
+18	KBC	_	_	_	_	_	_	_	_	B-ORG
+19	Zvezdara	_	_	_	_	_	_	_	_	I-ORG
+20	i	_	_	_	_	_	_	_	_	O
+21	da	_	_	_	_	_	_	_	_	O
+22	to	_	_	_	_	_	_	_	_	O
+23	lečenje	_	_	_	_	_	_	_	_	O
+24	i	_	_	_	_	_	_	_	_	O
+25	dalje	_	_	_	_	_	_	_	_	O
+26	traje	_	_	_	_	_	_	_	SpaceAfter=No	O
+27	,	,	PUNCT	Z	_	_	_	_	_	O
+28	da	_	_	_	_	_	_	_	_	O
+29	je	_	_	_	_	_	_	_	_	O
+30	kod	_	_	_	_	_	_	_	_	O
+31	njega	_	_	_	_	_	_	_	_	O
+32	ustanovljeno	_	_	_	_	_	_	_	_	O
+33	teško	_	_	_	_	_	_	_	_	O
+34	oštećenje	_	_	_	_	_	_	_	_	O
+35	krvnih	_	_	_	_	_	_	_	_	O
+36	sudova	_	_	_	_	_	_	_	_	O
+37	vrata	_	_	_	_	_	_	_	SpaceAfter=No	O
+38	,	,	PUNCT	Z	_	_	_	_	_	O
+39	da	_	_	_	_	_	_	_	_	O
+40	mu	_	_	_	_	_	_	_	_	O
+41	je	_	_	_	_	_	_	_	_	O
+42	utvrđen	_	_	_	_	_	_	_	_	O
+43	i	_	_	_	_	_	_	_	_	O
+44	invaliditet	_	_	_	_	_	_	_	SpaceAfter=No	O
+45	,	,	PUNCT	Z	_	_	_	_	_	O
+46	i	_	_	_	_	_	_	_	_	O
+47	dat	_	_	_	_	_	_	_	_	O
+48	predlog	_	_	_	_	_	_	_	_	O
+49	za	_	_	_	_	_	_	_	_	O
+50	invalidsku	_	_	_	_	_	_	_	_	O
+51	komisiju	_	_	_	_	_	_	_	SpaceAfter=No	O
+52	,	,	PUNCT	Z	_	_	_	_	_	O
+53	da	_	_	_	_	_	_	_	_	O
+54	je	_	_	_	_	_	_	_	_	O
+55	njegovo	_	_	_	_	_	_	_	_	O
+56	stanje	_	_	_	_	_	_	_	_	O
+57	jako	_	_	_	_	_	_	_	_	O
+58	loše	_	_	_	_	_	_	_	SpaceAfter=No	O
+59	,	,	PUNCT	Z	_	_	_	_	_	O
+60	da	_	_	_	_	_	_	_	_	O
+61	se	_	_	_	_	_	_	_	_	O
+62	tetura	_	_	_	_	_	_	_	_	O
+63	kada	_	_	_	_	_	_	_	_	O
+64	hoda	_	_	_	_	_	_	_	SpaceAfter=No	O
+65	,	,	PUNCT	Z	_	_	_	_	_	O
+66	da	_	_	_	_	_	_	_	_	O
+67	mu	_	_	_	_	_	_	_	_	O
+68	je	_	_	_	_	_	_	_	_	O
+69	neophodno	_	_	_	_	_	_	_	_	O
+70	dalje	_	_	_	_	_	_	_	_	O
+71	lečenje	_	_	_	_	_	_	_	SpaceAfter=No	O
+72	,	,	PUNCT	Z	_	_	_	_	_	O
+73	a	_	_	_	_	_	_	_	_	O
+74	kao	_	_	_	_	_	_	_	_	O
+75	dokaz	_	_	_	_	_	_	_	_	O
+76	svojih	_	_	_	_	_	_	_	_	O
+77	navoda	_	_	_	_	_	_	_	_	O
+78	priložio	_	_	_	_	_	_	_	_	O
+79	je	_	_	_	_	_	_	_	_	O
+80	brojnu	_	_	_	_	_	_	_	_	O
+81	medicinsku	_	_	_	_	_	_	_	_	O
+82	dokumentaciju	_	_	_	_	_	_	_	SpaceAfter=No	O
+83	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 13
+# sent_id = 13.1
+# text = Na zahtev Vrhovnog suda Srbije, dostavljen je i nalaz i mišljenje veštaka neuropsihijatra dr Julijane Kostić od 31.03.2009. godine, iz koga proizilazi da je osuđeni dva puta bolnički lečen u KBC Zvezdara.
+1	Na	_	_	_	_	_	_	_	_	O
+2	zahtev	_	_	_	_	_	_	_	_	O
+3	Vrhovnog	_	_	_	_	_	_	_	_	B-ORG
+4	suda	_	_	_	_	_	_	_	_	I-ORG
+5	Srbije	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	dostavljen	_	_	_	_	_	_	_	_	O
+8	je	_	_	_	_	_	_	_	_	O
+9	i	_	_	_	_	_	_	_	_	O
+10	nalaz	_	_	_	_	_	_	_	_	O
+11	i	_	_	_	_	_	_	_	_	O
+12	mišljenje	_	_	_	_	_	_	_	_	O
+13	veštaka	_	_	_	_	_	_	_	_	O
+14	neuropsihijatra	_	_	_	_	_	_	_	_	O
+15	dr	_	_	_	_	_	_	_	_	O
+16	Julijane	_	_	_	_	_	_	_	_	B-PER
+17	Kostić	_	_	_	_	_	_	_	_	I-PER
+18	od	_	_	_	_	_	_	_	_	O
+19	31.03.2009.	_	_	_	_	_	_	_	_	O
+20	godine	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	,	,	PUNCT	Z	_	_	_	_	_	O
+22	iz	_	_	_	_	_	_	_	_	O
+23	koga	_	_	_	_	_	_	_	_	O
+24	proizilazi	_	_	_	_	_	_	_	_	O
+25	da	_	_	_	_	_	_	_	_	O
+26	je	_	_	_	_	_	_	_	_	O
+27	osuđeni	_	_	_	_	_	_	_	_	O
+28	dva	_	_	_	_	_	_	_	_	O
+29	puta	_	_	_	_	_	_	_	_	O
+30	bolnički	_	_	_	_	_	_	_	_	O
+31	lečen	_	_	_	_	_	_	_	_	O
+32	u	_	_	_	_	_	_	_	_	O
+33	KBC	_	_	_	_	_	_	_	_	B-ORG
+34	Zvezdara	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+35	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 13.2
+# text = Prvo bolničko lečenje bilo je zbog vertiginoznog sindroma, okoštavanja vratnog dela kičme, neregulisane arterijske hipertenzije, ponavljane hipertenzivne krize sa pritiskom i do 220 sa 120 mm hg.
+1	Prvo	_	_	_	_	_	_	_	_	O
+2	bolničko	_	_	_	_	_	_	_	_	O
+3	lečenje	_	_	_	_	_	_	_	_	O
+4	bilo	_	_	_	_	_	_	_	_	O
+5	je	_	_	_	_	_	_	_	_	O
+6	zbog	_	_	_	_	_	_	_	_	O
+7	vertiginoznog	_	_	_	_	_	_	_	_	O
+8	sindroma	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	okoštavanja	_	_	_	_	_	_	_	_	O
+11	vratnog	_	_	_	_	_	_	_	_	O
+12	dela	_	_	_	_	_	_	_	_	O
+13	kičme	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	,	,	PUNCT	Z	_	_	_	_	_	O
+15	neregulisane	_	_	_	_	_	_	_	_	O
+16	arterijske	_	_	_	_	_	_	_	_	O
+17	hipertenzije	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	,	,	PUNCT	Z	_	_	_	_	_	O
+19	ponavljane	_	_	_	_	_	_	_	_	O
+20	hipertenzivne	_	_	_	_	_	_	_	_	O
+21	krize	_	_	_	_	_	_	_	_	O
+22	sa	_	_	_	_	_	_	_	_	O
+23	pritiskom	_	_	_	_	_	_	_	_	O
+24	i	_	_	_	_	_	_	_	_	O
+25	do	_	_	_	_	_	_	_	_	O
+26	220	_	_	_	_	_	_	_	_	O
+27	sa	_	_	_	_	_	_	_	_	O
+28	120	_	_	_	_	_	_	_	_	O
+29	mm	_	_	_	_	_	_	_	_	O
+30	hg	_	_	_	_	_	_	_	SpaceAfter=No	O
+31	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 13.3
+# text = Drugo bolničko lečenje osuđenog bilo je zbog novih simptoma u odnosu na one koji su postojali pri prvom bolničkom lečenju i tada su mu konstatovane dijagnoze multiinfarkt mozga, ponavljani tranzitorni ishemični ataci levo, encefalopatija, neregulisani krvni pritisak, angina pektoris, psihoorganski sindrom (početna demencija), vertiginozni sindrom sa vertebrobazilarnom insuficijencijom.
+1	Drugo	_	_	_	_	_	_	_	_	O
+2	bolničko	_	_	_	_	_	_	_	_	O
+3	lečenje	_	_	_	_	_	_	_	_	O
+4	osuđenog	_	_	_	_	_	_	_	_	O
+5	bilo	_	_	_	_	_	_	_	_	O
+6	je	_	_	_	_	_	_	_	_	O
+7	zbog	_	_	_	_	_	_	_	_	O
+8	novih	_	_	_	_	_	_	_	_	O
+9	simptoma	_	_	_	_	_	_	_	_	O
+10	u	_	_	_	_	_	_	_	_	O
+11	odnosu	_	_	_	_	_	_	_	_	O
+12	na	_	_	_	_	_	_	_	_	O
+13	one	_	_	_	_	_	_	_	_	O
+14	koji	_	_	_	_	_	_	_	_	O
+15	su	_	_	_	_	_	_	_	_	O
+16	postojali	_	_	_	_	_	_	_	_	O
+17	pri	_	_	_	_	_	_	_	_	O
+18	prvom	_	_	_	_	_	_	_	_	O
+19	bolničkom	_	_	_	_	_	_	_	_	O
+20	lečenju	_	_	_	_	_	_	_	_	O
+21	i	_	_	_	_	_	_	_	_	O
+22	tada	_	_	_	_	_	_	_	_	O
+23	su	_	_	_	_	_	_	_	_	O
+24	mu	_	_	_	_	_	_	_	_	O
+25	konstatovane	_	_	_	_	_	_	_	_	O
+26	dijagnoze	_	_	_	_	_	_	_	_	O
+27	multiinfarkt	_	_	_	_	_	_	_	_	O
+28	mozga	_	_	_	_	_	_	_	SpaceAfter=No	O
+29	,	,	PUNCT	Z	_	_	_	_	_	O
+30	ponavljani	_	_	_	_	_	_	_	_	O
+31	tranzitorni	_	_	_	_	_	_	_	_	O
+32	ishemični	_	_	_	_	_	_	_	_	O
+33	ataci	_	_	_	_	_	_	_	_	O
+34	levo	_	_	_	_	_	_	_	SpaceAfter=No	O
+35	,	,	PUNCT	Z	_	_	_	_	_	O
+36	encefalopatija	_	_	_	_	_	_	_	SpaceAfter=No	O
+37	,	,	PUNCT	Z	_	_	_	_	_	O
+38	neregulisani	_	_	_	_	_	_	_	_	O
+39	krvni	_	_	_	_	_	_	_	_	O
+40	pritisak	_	_	_	_	_	_	_	SpaceAfter=No	O
+41	,	,	PUNCT	Z	_	_	_	_	_	O
+42	angina	_	_	_	_	_	_	_	_	O
+43	pektoris	_	_	_	_	_	_	_	SpaceAfter=No	O
+44	,	,	PUNCT	Z	_	_	_	_	_	O
+45	psihoorganski	_	_	_	_	_	_	_	_	O
+46	sindrom	_	_	_	_	_	_	_	_	O
+47	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+48	početna	_	_	_	_	_	_	_	_	O
+49	demencija	_	_	_	_	_	_	_	SpaceAfter=No	O
+50	)	)	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+51	,	,	PUNCT	Z	_	_	_	_	_	O
+52	vertiginozni	_	_	_	_	_	_	_	_	O
+53	sindrom	_	_	_	_	_	_	_	_	O
+54	sa	_	_	_	_	_	_	_	_	O
+55	vertebrobazilarnom	_	_	_	_	_	_	_	_	O
+56	insuficijencijom	_	_	_	_	_	_	_	SpaceAfter=No	O
+57	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 13.4
+# text = Iz otpusne liste sa drugog bolničkog lečenja proizilazi da kod osuđenog postoji znatno oštećenje krvnih sudova mozga i izneto je mišljenje da je osuđeni nesposoban za rad i da ga treba obraditi za invalidsku komisiju sa predlogom za invalidnost prve kategorije.
+1	Iz	_	_	_	_	_	_	_	_	O
+2	otpusne	_	_	_	_	_	_	_	_	O
+3	liste	_	_	_	_	_	_	_	_	O
+4	sa	_	_	_	_	_	_	_	_	O
+5	drugog	_	_	_	_	_	_	_	_	O
+6	bolničkog	_	_	_	_	_	_	_	_	O
+7	lečenja	_	_	_	_	_	_	_	_	O
+8	proizilazi	_	_	_	_	_	_	_	_	O
+9	da	_	_	_	_	_	_	_	_	O
+10	kod	_	_	_	_	_	_	_	_	O
+11	osuđenog	_	_	_	_	_	_	_	_	O
+12	postoji	_	_	_	_	_	_	_	_	O
+13	znatno	_	_	_	_	_	_	_	_	O
+14	oštećenje	_	_	_	_	_	_	_	_	O
+15	krvnih	_	_	_	_	_	_	_	_	O
+16	sudova	_	_	_	_	_	_	_	_	O
+17	mozga	_	_	_	_	_	_	_	_	O
+18	i	_	_	_	_	_	_	_	_	O
+19	izneto	_	_	_	_	_	_	_	_	O
+20	je	_	_	_	_	_	_	_	_	O
+21	mišljenje	_	_	_	_	_	_	_	_	O
+22	da	_	_	_	_	_	_	_	_	O
+23	je	_	_	_	_	_	_	_	_	O
+24	osuđeni	_	_	_	_	_	_	_	_	O
+25	nesposoban	_	_	_	_	_	_	_	_	O
+26	za	_	_	_	_	_	_	_	_	O
+27	rad	_	_	_	_	_	_	_	_	O
+28	i	_	_	_	_	_	_	_	_	O
+29	da	_	_	_	_	_	_	_	_	O
+30	ga	_	_	_	_	_	_	_	_	O
+31	treba	_	_	_	_	_	_	_	_	O
+32	obraditi	_	_	_	_	_	_	_	_	O
+33	za	_	_	_	_	_	_	_	_	O
+34	invalidsku	_	_	_	_	_	_	_	_	O
+35	komisiju	_	_	_	_	_	_	_	_	O
+36	sa	_	_	_	_	_	_	_	_	O
+37	predlogom	_	_	_	_	_	_	_	_	O
+38	za	_	_	_	_	_	_	_	_	O
+39	invalidnost	_	_	_	_	_	_	_	_	O
+40	prve	_	_	_	_	_	_	_	_	O
+41	kategorije	_	_	_	_	_	_	_	SpaceAfter=No	O
+42	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 14
+# sent_id = 14.1
+# text = U trećem nalazu KBC Zvezdara, konstatovane su sledeće dijagnoze kod osuđenog: multiinfarkti mozga, diskretna hemipareza, neregulisana maligna arterijska hipertenzija, hipertenzivna encefalopatija, psihoorganski sindrom, promene na kičmenom stubu vratnog dela kičme, vertiginozni sindrom sa vertebrobazilarnom insuficijencijom i stenoza bifurkacije arterije karotis komunis, 35 % i zavisnost od nikotina.
+1	U	_	_	_	_	_	_	_	_	O
+2	trećem	_	_	_	_	_	_	_	_	O
+3	nalazu	_	_	_	_	_	_	_	_	O
+4	KBC	_	_	_	_	_	_	_	_	B-ORG
+5	Zvezdara	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	konstatovane	_	_	_	_	_	_	_	_	O
+8	su	_	_	_	_	_	_	_	_	O
+9	sledeće	_	_	_	_	_	_	_	_	O
+10	dijagnoze	_	_	_	_	_	_	_	_	O
+11	kod	_	_	_	_	_	_	_	_	O
+12	osuđenog	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	:	:	PUNCT	Z	_	_	_	_	_	O
+14	multiinfarkti	_	_	_	_	_	_	_	_	O
+15	mozga	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	,	,	PUNCT	Z	_	_	_	_	_	O
+17	diskretna	_	_	_	_	_	_	_	_	O
+18	hemipareza	_	_	_	_	_	_	_	SpaceAfter=No	O
+19	,	,	PUNCT	Z	_	_	_	_	_	O
+20	neregulisana	_	_	_	_	_	_	_	_	O
+21	maligna	_	_	_	_	_	_	_	_	O
+22	arterijska	_	_	_	_	_	_	_	_	O
+23	hipertenzija	_	_	_	_	_	_	_	SpaceAfter=No	O
+24	,	,	PUNCT	Z	_	_	_	_	_	O
+25	hipertenzivna	_	_	_	_	_	_	_	_	O
+26	encefalopatija	_	_	_	_	_	_	_	SpaceAfter=No	O
+27	,	,	PUNCT	Z	_	_	_	_	_	O
+28	psihoorganski	_	_	_	_	_	_	_	_	O
+29	sindrom	_	_	_	_	_	_	_	SpaceAfter=No	O
+30	,	,	PUNCT	Z	_	_	_	_	_	O
+31	promene	_	_	_	_	_	_	_	_	O
+32	na	_	_	_	_	_	_	_	_	O
+33	kičmenom	_	_	_	_	_	_	_	_	O
+34	stubu	_	_	_	_	_	_	_	_	O
+35	vratnog	_	_	_	_	_	_	_	_	O
+36	dela	_	_	_	_	_	_	_	_	O
+37	kičme	_	_	_	_	_	_	_	SpaceAfter=No	O
+38	,	,	PUNCT	Z	_	_	_	_	_	O
+39	vertiginozni	_	_	_	_	_	_	_	_	O
+40	sindrom	_	_	_	_	_	_	_	_	O
+41	sa	_	_	_	_	_	_	_	_	O
+42	vertebrobazilarnom	_	_	_	_	_	_	_	_	O
+43	insuficijencijom	_	_	_	_	_	_	_	_	O
+44	i	_	_	_	_	_	_	_	_	O
+45	stenoza	_	_	_	_	_	_	_	_	O
+46	bifurkacije	_	_	_	_	_	_	_	_	O
+47	arterije	_	_	_	_	_	_	_	_	O
+48	karotis	_	_	_	_	_	_	_	_	O
+49	komunis	_	_	_	_	_	_	_	SpaceAfter=No	O
+50	,	,	PUNCT	Z	_	_	_	_	_	O
+51	35	_	_	_	_	_	_	_	_	O
+52	%	%	SYM	Z	_	_	_	_	_	O
+53	i	_	_	_	_	_	_	_	_	O
+54	zavisnost	_	_	_	_	_	_	_	_	O
+55	od	_	_	_	_	_	_	_	_	O
+56	nikotina	_	_	_	_	_	_	_	SpaceAfter=No	O
+57	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 15
+# sent_id = 15.1
+# text = Prema nalazu i mišljenju veštaka neuropsihijatra dr Julijane Kostić, iz medicinske dokumentacije sa dosadašnjih lečenja, proizilazi da se kod osuđenog radi o brojnim oboljenjima koja bitno ugrožavaju njegovo zdravlje, zbog čega mu je neophodno dalje lečenje, a osim toga, osuđeni je invalid, s obzirom da na levoj ruci ima oštećenje palca, kažiprsta i kontrakturu drugih prstiju šake, zbog čega je dodatno hendikepiran i nesposoban da obavlja bilo kakav posao, pa ga stoga treba obraditi za invalidsku komisiju sa predlogom za invalidnost prve kategorije.
+1	Prema	_	_	_	_	_	_	_	_	O
+2	nalazu	_	_	_	_	_	_	_	_	O
+3	i	_	_	_	_	_	_	_	_	O
+4	mišljenju	_	_	_	_	_	_	_	_	O
+5	veštaka	_	_	_	_	_	_	_	_	O
+6	neuropsihijatra	_	_	_	_	_	_	_	_	O
+7	dr	_	_	_	_	_	_	_	_	O
+8	Julijane	_	_	_	_	_	_	_	_	B-PER
+9	Kostić	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	iz	_	_	_	_	_	_	_	_	O
+12	medicinske	_	_	_	_	_	_	_	_	O
+13	dokumentacije	_	_	_	_	_	_	_	_	O
+14	sa	_	_	_	_	_	_	_	_	O
+15	dosadašnjih	_	_	_	_	_	_	_	_	O
+16	lečenja	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	,	,	PUNCT	Z	_	_	_	_	_	O
+18	proizilazi	_	_	_	_	_	_	_	_	O
+19	da	_	_	_	_	_	_	_	_	O
+20	se	_	_	_	_	_	_	_	_	O
+21	kod	_	_	_	_	_	_	_	_	O
+22	osuđenog	_	_	_	_	_	_	_	_	O
+23	radi	_	_	_	_	_	_	_	_	O
+24	o	_	_	_	_	_	_	_	_	O
+25	brojnim	_	_	_	_	_	_	_	_	O
+26	oboljenjima	_	_	_	_	_	_	_	_	O
+27	koja	_	_	_	_	_	_	_	_	O
+28	bitno	_	_	_	_	_	_	_	_	O
+29	ugrožavaju	_	_	_	_	_	_	_	_	O
+30	njegovo	_	_	_	_	_	_	_	_	O
+31	zdravlje	_	_	_	_	_	_	_	SpaceAfter=No	O
+32	,	,	PUNCT	Z	_	_	_	_	_	O
+33	zbog	_	_	_	_	_	_	_	_	O
+34	čega	_	_	_	_	_	_	_	_	O
+35	mu	_	_	_	_	_	_	_	_	O
+36	je	_	_	_	_	_	_	_	_	O
+37	neophodno	_	_	_	_	_	_	_	_	O
+38	dalje	_	_	_	_	_	_	_	_	O
+39	lečenje	_	_	_	_	_	_	_	SpaceAfter=No	O
+40	,	,	PUNCT	Z	_	_	_	_	_	O
+41	a	_	_	_	_	_	_	_	_	O
+42	osim	_	_	_	_	_	_	_	_	O
+43	toga	_	_	_	_	_	_	_	SpaceAfter=No	O
+44	,	,	PUNCT	Z	_	_	_	_	_	O
+45	osuđeni	_	_	_	_	_	_	_	_	O
+46	je	_	_	_	_	_	_	_	_	O
+47	invalid	_	_	_	_	_	_	_	SpaceAfter=No	O
+48	,	,	PUNCT	Z	_	_	_	_	_	O
+49	s	_	_	_	_	_	_	_	_	O
+50	obzirom	_	_	_	_	_	_	_	_	O
+51	da	_	_	_	_	_	_	_	_	O
+52	na	_	_	_	_	_	_	_	_	O
+53	levoj	_	_	_	_	_	_	_	_	O
+54	ruci	_	_	_	_	_	_	_	_	O
+55	ima	_	_	_	_	_	_	_	_	O
+56	oštećenje	_	_	_	_	_	_	_	_	O
+57	palca	_	_	_	_	_	_	_	SpaceAfter=No	O
+58	,	,	PUNCT	Z	_	_	_	_	_	O
+59	kažiprsta	_	_	_	_	_	_	_	_	O
+60	i	_	_	_	_	_	_	_	_	O
+61	kontrakturu	_	_	_	_	_	_	_	_	O
+62	drugih	_	_	_	_	_	_	_	_	O
+63	prstiju	_	_	_	_	_	_	_	_	O
+64	šake	_	_	_	_	_	_	_	SpaceAfter=No	O
+65	,	,	PUNCT	Z	_	_	_	_	_	O
+66	zbog	_	_	_	_	_	_	_	_	O
+67	čega	_	_	_	_	_	_	_	_	O
+68	je	_	_	_	_	_	_	_	_	O
+69	dodatno	_	_	_	_	_	_	_	_	O
+70	hendikepiran	_	_	_	_	_	_	_	_	O
+71	i	_	_	_	_	_	_	_	_	O
+72	nesposoban	_	_	_	_	_	_	_	_	O
+73	da	_	_	_	_	_	_	_	_	O
+74	obavlja	_	_	_	_	_	_	_	_	O
+75	bilo	_	_	_	_	_	_	_	_	O
+76	kakav	_	_	_	_	_	_	_	_	O
+77	posao	_	_	_	_	_	_	_	SpaceAfter=No	O
+78	,	,	PUNCT	Z	_	_	_	_	_	O
+79	pa	_	_	_	_	_	_	_	_	O
+80	ga	_	_	_	_	_	_	_	_	O
+81	stoga	_	_	_	_	_	_	_	_	O
+82	treba	_	_	_	_	_	_	_	_	O
+83	obraditi	_	_	_	_	_	_	_	_	O
+84	za	_	_	_	_	_	_	_	_	O
+85	invalidsku	_	_	_	_	_	_	_	_	O
+86	komisiju	_	_	_	_	_	_	_	_	O
+87	sa	_	_	_	_	_	_	_	_	O
+88	predlogom	_	_	_	_	_	_	_	_	O
+89	za	_	_	_	_	_	_	_	_	O
+90	invalidnost	_	_	_	_	_	_	_	_	O
+91	prve	_	_	_	_	_	_	_	_	O
+92	kategorije	_	_	_	_	_	_	_	SpaceAfter=No	O
+93	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 16
+# sent_id = 16.1
+# text = Vrhovni sud nalazi da izmenjeno zdravstveno stanje osuđenog, s obzirom na težinu i prirodu bolesti, koje su napred navedene, a koje su se kod njega pojavile nakon okončanja redovnog krivičnog postupka, zbog čega je njegovo zdravstveno stanje ozbiljno narušeno, predstavlja novu okolnost koja opravdava vanredno ublažavanje kazne osuđenom.
+1	Vrhovni	_	_	_	_	_	_	_	_	B-ORG
+2	sud	_	_	_	_	_	_	_	_	I-PER
+3	nalazi	_	_	_	_	_	_	_	_	O
+4	da	_	_	_	_	_	_	_	_	O
+5	izmenjeno	_	_	_	_	_	_	_	_	O
+6	zdravstveno	_	_	_	_	_	_	_	_	O
+7	stanje	_	_	_	_	_	_	_	_	O
+8	osuđenog	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	s	_	_	_	_	_	_	_	_	O
+11	obzirom	_	_	_	_	_	_	_	_	O
+12	na	_	_	_	_	_	_	_	_	O
+13	težinu	_	_	_	_	_	_	_	_	O
+14	i	_	_	_	_	_	_	_	_	O
+15	prirodu	_	_	_	_	_	_	_	_	O
+16	bolesti	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	,	,	PUNCT	Z	_	_	_	_	_	O
+18	koje	_	_	_	_	_	_	_	_	O
+19	su	_	_	_	_	_	_	_	_	O
+20	napred	_	_	_	_	_	_	_	_	O
+21	navedene	_	_	_	_	_	_	_	SpaceAfter=No	O
+22	,	,	PUNCT	Z	_	_	_	_	_	O
+23	a	_	_	_	_	_	_	_	_	O
+24	koje	_	_	_	_	_	_	_	_	O
+25	su	_	_	_	_	_	_	_	_	O
+26	se	_	_	_	_	_	_	_	_	O
+27	kod	_	_	_	_	_	_	_	_	O
+28	njega	_	_	_	_	_	_	_	_	O
+29	pojavile	_	_	_	_	_	_	_	_	O
+30	nakon	_	_	_	_	_	_	_	_	O
+31	okončanja	_	_	_	_	_	_	_	_	O
+32	redovnog	_	_	_	_	_	_	_	_	O
+33	krivičnog	_	_	_	_	_	_	_	_	O
+34	postupka	_	_	_	_	_	_	_	SpaceAfter=No	O
+35	,	,	PUNCT	Z	_	_	_	_	_	O
+36	zbog	_	_	_	_	_	_	_	_	O
+37	čega	_	_	_	_	_	_	_	_	O
+38	je	_	_	_	_	_	_	_	_	O
+39	njegovo	_	_	_	_	_	_	_	_	O
+40	zdravstveno	_	_	_	_	_	_	_	_	O
+41	stanje	_	_	_	_	_	_	_	_	O
+42	ozbiljno	_	_	_	_	_	_	_	_	O
+43	narušeno	_	_	_	_	_	_	_	SpaceAfter=No	O
+44	,	,	PUNCT	Z	_	_	_	_	_	O
+45	predstavlja	_	_	_	_	_	_	_	_	O
+46	novu	_	_	_	_	_	_	_	_	O
+47	okolnost	_	_	_	_	_	_	_	_	O
+48	koja	_	_	_	_	_	_	_	_	O
+49	opravdava	_	_	_	_	_	_	_	_	O
+50	vanredno	_	_	_	_	_	_	_	_	O
+51	ublažavanje	_	_	_	_	_	_	_	_	O
+52	kazne	_	_	_	_	_	_	_	_	O
+53	osuđenom	_	_	_	_	_	_	_	SpaceAfter=No	O
+54	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 17
+# sent_id = 17.1
+# text = Stoga je Vrhovni sud, ceneći ovu novu okolnost u sklopu okolnosti cenjenih u redovnom postupku, u smislu člana 41.
+1	Stoga	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	Vrhovni	_	_	_	_	_	_	_	_	B-ORG
+4	sud	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	ceneći	_	_	_	_	_	_	_	_	O
+7	ovu	_	_	_	_	_	_	_	_	O
+8	novu	_	_	_	_	_	_	_	_	O
+9	okolnost	_	_	_	_	_	_	_	_	O
+10	u	_	_	_	_	_	_	_	_	O
+11	sklopu	_	_	_	_	_	_	_	_	O
+12	okolnosti	_	_	_	_	_	_	_	_	O
+13	cenjenih	_	_	_	_	_	_	_	_	O
+14	u	_	_	_	_	_	_	_	_	O
+15	redovnom	_	_	_	_	_	_	_	_	O
+16	postupku	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	,	,	PUNCT	Z	_	_	_	_	_	O
+18	u	_	_	_	_	_	_	_	_	O
+19	smislu	_	_	_	_	_	_	_	_	O
+20	člana	_	_	_	_	_	_	_	_	O
+21	41.	_	_	_	_	_	_	_	_	O
+
+# sent_id = 17.2
+# text = OKZ, preinačio pravnosnažnu presudu samo u pogledu odluke o kazni i osuđenog AA za izvršeno krivično delo iz člana 171. stav 2. u vezi stava 1. KZ RS, osudio na kaznu zatvora u trajanju od jedne godine, nalazeći da će se istom u potpunosti ostvariti svrha kažnjavanja predviđena odredbom člana 33.
+1	OKZ	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	preinačio	_	_	_	_	_	_	_	_	O
+4	pravnosnažnu	_	_	_	_	_	_	_	_	O
+5	presudu	_	_	_	_	_	_	_	_	O
+6	samo	_	_	_	_	_	_	_	_	O
+7	u	_	_	_	_	_	_	_	_	O
+8	pogledu	_	_	_	_	_	_	_	_	O
+9	odluke	_	_	_	_	_	_	_	_	O
+10	o	_	_	_	_	_	_	_	_	O
+11	kazni	_	_	_	_	_	_	_	_	O
+12	i	_	_	_	_	_	_	_	_	O
+13	osuđenog	_	_	_	_	_	_	_	_	O
+14	AA	_	_	_	_	_	_	_	_	B-PER
+15	za	_	_	_	_	_	_	_	_	O
+16	izvršeno	_	_	_	_	_	_	_	_	O
+17	krivično	_	_	_	_	_	_	_	_	O
+18	delo	_	_	_	_	_	_	_	_	O
+19	iz	_	_	_	_	_	_	_	_	O
+20	člana	_	_	_	_	_	_	_	_	O
+21	171.	_	_	_	_	_	_	_	_	O
+22	stav	_	_	_	_	_	_	_	_	O
+23	2.	_	_	_	_	_	_	_	_	O
+24	u	_	_	_	_	_	_	_	_	O
+25	vezi	_	_	_	_	_	_	_	_	O
+26	stava	_	_	_	_	_	_	_	_	O
+27	1.	_	_	_	_	_	_	_	_	O
+28	KZ	_	_	_	_	_	_	_	_	O
+29	RS	_	_	_	_	_	_	_	SpaceAfter=No	O
+30	,	,	PUNCT	Z	_	_	_	_	_	O
+31	osudio	_	_	_	_	_	_	_	_	O
+32	na	_	_	_	_	_	_	_	_	O
+33	kaznu	_	_	_	_	_	_	_	_	O
+34	zatvora	_	_	_	_	_	_	_	_	O
+35	u	_	_	_	_	_	_	_	_	O
+36	trajanju	_	_	_	_	_	_	_	_	O
+37	od	_	_	_	_	_	_	_	_	O
+38	jedne	_	_	_	_	_	_	_	_	O
+39	godine	_	_	_	_	_	_	_	SpaceAfter=No	O
+40	,	,	PUNCT	Z	_	_	_	_	_	O
+41	nalazeći	_	_	_	_	_	_	_	_	O
+42	da	_	_	_	_	_	_	_	_	O
+43	će	_	_	_	_	_	_	_	_	O
+44	se	_	_	_	_	_	_	_	_	O
+45	istom	_	_	_	_	_	_	_	_	O
+46	u	_	_	_	_	_	_	_	_	O
+47	potpunosti	_	_	_	_	_	_	_	_	O
+48	ostvariti	_	_	_	_	_	_	_	_	O
+49	svrha	_	_	_	_	_	_	_	_	O
+50	kažnjavanja	_	_	_	_	_	_	_	_	O
+51	predviđena	_	_	_	_	_	_	_	_	O
+52	odredbom	_	_	_	_	_	_	_	_	O
+53	člana	_	_	_	_	_	_	_	_	O
+54	33.	_	_	_	_	_	_	_	_	O
+
+# sent_id = 17.3
+# text = OKZ.
+1	OKZ	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 18
+# sent_id = 18.1
+# text = Iz iznetih razloga, na osnovu člana 417. stav 6. ZKP, odlučeno je, kao u izreci ove presude.
+1	Iz	_	_	_	_	_	_	_	_	O
+2	iznetih	_	_	_	_	_	_	_	_	O
+3	razloga	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	na	_	_	_	_	_	_	_	_	O
+6	osnovu	_	_	_	_	_	_	_	_	O
+7	člana	_	_	_	_	_	_	_	_	O
+8	417.	_	_	_	_	_	_	_	_	O
+9	stav	_	_	_	_	_	_	_	_	O
+10	6.	_	_	_	_	_	_	_	_	O
+11	ZKP	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	odlučeno	_	_	_	_	_	_	_	_	O
+14	je	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	,	,	PUNCT	Z	_	_	_	_	_	O
+16	kao	_	_	_	_	_	_	_	_	O
+17	u	_	_	_	_	_	_	_	_	O
+18	izreci	_	_	_	_	_	_	_	_	O
+19	ove	_	_	_	_	_	_	_	_	O
+20	presude	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	.	.	PUNCT	Z	_	_	_	_	_	O
+

@@ -1,0 +1,85 @@
+#name = teodora
+#domen = tviter
+#url = https://x.com/AmmarMesic/status/1973327469936554424
+# newpar id = 1
+# sent_id = 1.1
+# text = Otišao sam u Strazbur u Evropski parlament po dodatne informacije kako rušiti Srbiju.
+1	Otišao	_	_	_	_	_	_	_	_	O
+2	sam	_	_	_	_	_	_	_	_	O
+3	u	_	_	_	_	_	_	_	_	O
+4	Strazbur	_	_	_	_	_	_	_	_	B-LOC
+5	u	_	_	_	_	_	_	_	_	O
+6	Evropski	_	_	_	_	_	_	_	_	B-ORG
+7	parlament	_	_	_	_	_	_	_	_	I-ORG
+8	po	_	_	_	_	_	_	_	_	O
+9	dodatne	_	_	_	_	_	_	_	_	O
+10	informacije	_	_	_	_	_	_	_	_	O
+11	kako	_	_	_	_	_	_	_	_	O
+12	rušiti	_	_	_	_	_	_	_	_	O
+13	Srbiju	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+14	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.2
+# text = Jer je opšte poznato da sam ja strani plaćenik koji živi u Hrvatskoj i dobijam preko 20.000€ u kešu od Đikija i Šolaka.
+1	Jer	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	opšte	_	_	_	_	_	_	_	_	O
+4	poznato	_	_	_	_	_	_	_	_	O
+5	da	_	_	_	_	_	_	_	_	O
+6	sam	_	_	_	_	_	_	_	_	O
+7	ja	_	_	_	_	_	_	_	_	O
+8	strani	_	_	_	_	_	_	_	_	O
+9	plaćenik	_	_	_	_	_	_	_	_	O
+10	koji	_	_	_	_	_	_	_	_	O
+11	živi	_	_	_	_	_	_	_	_	O
+12	u	_	_	_	_	_	_	_	_	O
+13	Hrvatskoj	_	_	_	_	_	_	_	_	B-LOC
+14	i	_	_	_	_	_	_	_	_	O
+15	dobijam	_	_	_	_	_	_	_	_	O
+16	preko	_	_	_	_	_	_	_	_	O
+17	20.000	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	€	_	_	_	_	_	_	_	_	O
+19	u	_	_	_	_	_	_	_	_	O
+20	kešu	_	_	_	_	_	_	_	_	O
+21	od	_	_	_	_	_	_	_	_	O
+22	Đikija	_	_	_	_	_	_	_	_	B-PER
+23	i	_	_	_	_	_	_	_	_	O
+24	Šolaka	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
+25	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.3
+# text = Šalu na stranu, Srbiji jeste mesto u EU.
+1	Šalu	_	_	_	_	_	_	_	_	O
+2	na	_	_	_	_	_	_	_	_	O
+3	stranu	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	Srbiji	_	_	_	_	_	_	_	_	B-LOC
+6	jeste	_	_	_	_	_	_	_	_	O
+7	mesto	_	_	_	_	_	_	_	_	O
+8	u	_	_	_	_	_	_	_	_	O
+9	EU	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
+10	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.4
+# text = Možete da je ne volite ali zašto onda ne idete u Rusiju da radite nego svi trčite u Evropu…
+1	Možete	_	_	_	_	_	_	_	_	O
+2	da	_	_	_	_	_	_	_	_	O
+3	je	_	_	_	_	_	_	_	_	O
+4	ne	_	_	_	_	_	_	_	_	O
+5	volite	_	_	_	_	_	_	_	_	O
+6	ali	_	_	_	_	_	_	_	_	O
+7	zašto	_	_	_	_	_	_	_	_	O
+8	onda	_	_	_	_	_	_	_	_	O
+9	ne	_	_	_	_	_	_	_	_	O
+10	idete	_	_	_	_	_	_	_	_	O
+11	u	_	_	_	_	_	_	_	_	O
+12	Rusiju	_	_	_	_	_	_	_	_	B-LOC
+13	da	_	_	_	_	_	_	_	_	O
+14	radite	_	_	_	_	_	_	_	_	O
+15	nego	_	_	_	_	_	_	_	_	O
+16	svi	_	_	_	_	_	_	_	_	O
+17	trčite	_	_	_	_	_	_	_	_	O
+18	u	_	_	_	_	_	_	_	_	O
+19	Evropu	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+20	…	…	PUNCT	Z	_	_	_	_	_	O
+

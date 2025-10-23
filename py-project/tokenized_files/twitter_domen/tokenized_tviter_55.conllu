@@ -1,0 +1,108 @@
+#name = ognjen
+#domen = tviter
+#url = https://x.com/i/trending/1975196048974037127
+# newpar id = 1
+# sent_id = 1.1
+# text = HBO je potvrdio da će spin-of „Igre prestola“ „Vitez sedam kraljevstava“ premijerno biti prikazan u januaru 2026. godine na Maksu, prateći avanture viteza sera Dankana Visokog i njegovog štitonoše Ega tokom vladavine kralja Erisa I Targarjena.
+1	HBO	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	potvrdio	_	_	_	_	_	_	_	_	O
+4	da	_	_	_	_	_	_	_	_	O
+5	će	_	_	_	_	_	_	_	_	O
+6	spin-of	_	_	_	_	_	_	_	_	O
+7	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+8	Igre	_	_	_	_	_	_	_	_	O
+9	prestola	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	“	“	PUNCT	Z	_	_	_	_	_	O
+11	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+12	Vitez	_	_	_	_	_	_	_	_	O
+13	sedam	_	_	_	_	_	_	_	_	O
+14	kraljevstava	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	“	“	PUNCT	Z	_	_	_	_	_	O
+16	premijerno	_	_	_	_	_	_	_	_	O
+17	biti	_	_	_	_	_	_	_	_	O
+18	prikazan	_	_	_	_	_	_	_	_	O
+19	u	_	_	_	_	_	_	_	_	O
+20	januaru	_	_	_	_	_	_	_	_	O
+21	2026.	_	_	_	_	_	_	_	_	O
+22	godine	_	_	_	_	_	_	_	_	O
+23	na	_	_	_	_	_	_	_	_	O
+24	Maksu	_	_	_	_	_	_	_	SpaceAfter=No	O
+25	,	,	PUNCT	Z	_	_	_	_	_	O
+26	prateći	_	_	_	_	_	_	_	_	O
+27	avanture	_	_	_	_	_	_	_	_	O
+28	viteza	_	_	_	_	_	_	_	_	O
+29	sera	_	_	_	_	_	_	_	_	O
+30	Dankana	_	_	_	_	_	_	_	_	O
+31	Visokog	_	_	_	_	_	_	_	_	O
+32	i	_	_	_	_	_	_	_	_	O
+33	njegovog	_	_	_	_	_	_	_	_	O
+34	štitonoše	_	_	_	_	_	_	_	_	O
+35	Ega	_	_	_	_	_	_	_	_	O
+36	tokom	_	_	_	_	_	_	_	_	O
+37	vladavine	_	_	_	_	_	_	_	_	O
+38	kralja	_	_	_	_	_	_	_	_	O
+39	Erisa	_	_	_	_	_	_	_	_	O
+40	I	_	_	_	_	_	_	_	_	O
+41	Targarjena	_	_	_	_	_	_	_	SpaceAfter=No	O
+42	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.2
+# text = Sezona od šest epizoda, adaptirana iz novela Džordža R. R. Martina, ima svetliji ton fokusiran na viteštvo, turnire i političke intrige, a produkcija je završena ranije ove godine.
+1	Sezona	_	_	_	_	_	_	_	_	O
+2	od	_	_	_	_	_	_	_	_	O
+3	šest	_	_	_	_	_	_	_	_	O
+4	epizoda	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	adaptirana	_	_	_	_	_	_	_	_	O
+7	iz	_	_	_	_	_	_	_	_	O
+8	novela	_	_	_	_	_	_	_	_	O
+9	Džordža	_	_	_	_	_	_	_	_	O
+10	R.	_	_	_	_	_	_	_	_	O
+11	R.	_	_	_	_	_	_	_	_	O
+12	Martina	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+14	ima	_	_	_	_	_	_	_	_	O
+15	svetliji	_	_	_	_	_	_	_	_	O
+16	ton	_	_	_	_	_	_	_	_	O
+17	fokusiran	_	_	_	_	_	_	_	_	O
+18	na	_	_	_	_	_	_	_	_	O
+19	viteštvo	_	_	_	_	_	_	_	SpaceAfter=No	O
+20	,	,	PUNCT	Z	_	_	_	_	_	O
+21	turnire	_	_	_	_	_	_	_	_	O
+22	i	_	_	_	_	_	_	_	_	O
+23	političke	_	_	_	_	_	_	_	_	O
+24	intrige	_	_	_	_	_	_	_	SpaceAfter=No	O
+25	,	,	PUNCT	Z	_	_	_	_	_	O
+26	a	_	_	_	_	_	_	_	_	O
+27	produkcija	_	_	_	_	_	_	_	_	O
+28	je	_	_	_	_	_	_	_	_	O
+29	završena	_	_	_	_	_	_	_	_	O
+30	ranije	_	_	_	_	_	_	_	_	O
+31	ove	_	_	_	_	_	_	_	_	O
+32	godine	_	_	_	_	_	_	_	SpaceAfter=No	O
+33	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.3
+# text = Šouraner Ira Parker je napomenuo da će serija odustati od kultne uvodne sekvence kako bi se naglasila intimnija naracija.
+1	Šouraner	_	_	_	_	_	_	_	_	O
+2	Ira	_	_	_	_	_	_	_	_	O
+3	Parker	_	_	_	_	_	_	_	_	O
+4	je	_	_	_	_	_	_	_	_	O
+5	napomenuo	_	_	_	_	_	_	_	_	O
+6	da	_	_	_	_	_	_	_	_	O
+7	će	_	_	_	_	_	_	_	_	O
+8	serija	_	_	_	_	_	_	_	_	O
+9	odustati	_	_	_	_	_	_	_	_	O
+10	od	_	_	_	_	_	_	_	_	O
+11	kultne	_	_	_	_	_	_	_	_	O
+12	uvodne	_	_	_	_	_	_	_	_	O
+13	sekvence	_	_	_	_	_	_	_	_	O
+14	kako	_	_	_	_	_	_	_	_	O
+15	bi	_	_	_	_	_	_	_	_	O
+16	se	_	_	_	_	_	_	_	_	O
+17	naglasila	_	_	_	_	_	_	_	_	O
+18	intimnija	_	_	_	_	_	_	_	_	O
+19	naracija	_	_	_	_	_	_	_	SpaceAfter=No	O
+20	.	.	PUNCT	Z	_	_	_	_	_	O
+

@@ -1,0 +1,110 @@
+#name = marija
+#domen = tviter
+#url = https://x.com/Kevin_Loumaks/status/1911058266005659818
+# newpar id = 1
+# sent_id = 1.1
+# text = Žene mogu bez ikakvih problema da učestvuju na turnirima zajedno sa muškarcima.
+1	Žene	_	_	_	_	_	_	_	_	O
+2	mogu	_	_	_	_	_	_	_	_	O
+3	bez	_	_	_	_	_	_	_	_	O
+4	ikakvih	_	_	_	_	_	_	_	_	O
+5	problema	_	_	_	_	_	_	_	_	O
+6	da	_	_	_	_	_	_	_	_	O
+7	učestvuju	_	_	_	_	_	_	_	_	O
+8	na	_	_	_	_	_	_	_	_	O
+9	turnirima	_	_	_	_	_	_	_	_	O
+10	zajedno	_	_	_	_	_	_	_	_	O
+11	sa	_	_	_	_	_	_	_	_	O
+12	muškarcima	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.2
+# text = Teoretski, Teodora Injac može da se kvalifikuje i potom pobedi na turniru izazivača i da igra sa Gukešom Domaradžuom za titulu prvaka sveta.
+1	Teoretski	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	Teodora	_	_	_	_	_	_	_	_	O
+4	Injac	_	_	_	_	_	_	_	_	O
+5	može	_	_	_	_	_	_	_	_	O
+6	da	_	_	_	_	_	_	_	_	O
+7	se	_	_	_	_	_	_	_	_	O
+8	kvalifikuje	_	_	_	_	_	_	_	_	O
+9	i	_	_	_	_	_	_	_	_	O
+10	potom	_	_	_	_	_	_	_	_	O
+11	pobedi	_	_	_	_	_	_	_	_	O
+12	na	_	_	_	_	_	_	_	_	O
+13	turniru	_	_	_	_	_	_	_	_	O
+14	izazivača	_	_	_	_	_	_	_	_	O
+15	i	_	_	_	_	_	_	_	_	O
+16	da	_	_	_	_	_	_	_	_	O
+17	igra	_	_	_	_	_	_	_	_	O
+18	sa	_	_	_	_	_	_	_	_	O
+19	Gukešom	_	_	_	_	_	_	_	_	O
+20	Domaradžuom	_	_	_	_	_	_	_	_	O
+21	za	_	_	_	_	_	_	_	_	O
+22	titulu	_	_	_	_	_	_	_	_	O
+23	prvaka	_	_	_	_	_	_	_	_	O
+24	sveta	_	_	_	_	_	_	_	SpaceAfter=No	O
+25	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 2
+# sent_id = 2.1
+# text = I šahovska Olimpijada se igra kao Open turnir, samo je čisto ženska konkurencija odvojena.
+1	I	_	_	_	_	_	_	_	_	O
+2	šahovska	_	_	_	_	_	_	_	_	O
+3	Olimpijada	_	_	_	_	_	_	_	_	O
+4	se	_	_	_	_	_	_	_	_	O
+5	igra	_	_	_	_	_	_	_	_	O
+6	kao	_	_	_	_	_	_	_	_	O
+7	Open	_	_	_	_	_	_	_	_	O
+8	turnir	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	samo	_	_	_	_	_	_	_	_	O
+11	je	_	_	_	_	_	_	_	_	O
+12	čisto	_	_	_	_	_	_	_	_	O
+13	ženska	_	_	_	_	_	_	_	_	O
+14	konkurencija	_	_	_	_	_	_	_	_	O
+15	odvojena	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.2
+# text = Što Indijcima/kama ne predstavlja problem, kad su već najbolji u 3/4 glavne kategorije.
+1	Što	_	_	_	_	_	_	_	_	O
+2	Indijcima	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	/	/	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+4	kama	_	_	_	_	_	_	_	_	O
+5	ne	_	_	_	_	_	_	_	_	O
+6	predstavlja	_	_	_	_	_	_	_	_	O
+7	problem	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	kad	_	_	_	_	_	_	_	_	O
+10	su	_	_	_	_	_	_	_	_	O
+11	već	_	_	_	_	_	_	_	_	O
+12	najbolji	_	_	_	_	_	_	_	_	O
+13	u	_	_	_	_	_	_	_	_	O
+14	3/4	_	_	_	_	_	_	_	_	O
+15	glavne	_	_	_	_	_	_	_	_	O
+16	kategorije	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.3
+# text = Samo im dve Kineskinje kvare račun.
+1	Samo	_	_	_	_	_	_	_	_	O
+2	im	_	_	_	_	_	_	_	_	O
+3	dve	_	_	_	_	_	_	_	_	O
+4	Kineskinje	_	_	_	_	_	_	_	_	O
+5	kvare	_	_	_	_	_	_	_	_	O
+6	račun	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.4
+# text = Domaću šahovsku renesansu stvarno ne mogu da objasnim.
+1	Domaću	_	_	_	_	_	_	_	_	O
+2	šahovsku	_	_	_	_	_	_	_	_	O
+3	renesansu	_	_	_	_	_	_	_	_	O
+4	stvarno	_	_	_	_	_	_	_	_	O
+5	ne	_	_	_	_	_	_	_	_	O
+6	mogu	_	_	_	_	_	_	_	_	O
+7	da	_	_	_	_	_	_	_	_	O
+8	objasnim	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	.	.	PUNCT	Z	_	_	_	_	_	O
+

@@ -1,0 +1,155 @@
+#name = milena
+#domen = tviter
+#url = https://x.com/ftn_se_budi/status/1968331153439334514
+# newpar id = 1
+# sent_id = 1.1
+# text = Prema informacijama koje do sada imamo advokat je sa Bogdanom danas razgovarao nakon lekarskog pregleda, gde mu je on saopštio da će ga prebaciti u bolnicu u Centralni zatvor, u Beograd, zbog stanja u kom se nalazi, nakon sedam dana štrajka glađu.
+1	Prema	_	_	_	_	_	_	_	_	O
+2	informacijama	_	_	_	_	_	_	_	_	O
+3	koje	_	_	_	_	_	_	_	_	O
+4	do	_	_	_	_	_	_	_	_	O
+5	sada	_	_	_	_	_	_	_	_	O
+6	imamo	_	_	_	_	_	_	_	_	O
+7	advokat	_	_	_	_	_	_	_	_	O
+8	je	_	_	_	_	_	_	_	_	O
+9	sa	_	_	_	_	_	_	_	_	O
+10	Bogdanom	_	_	_	_	_	_	_	_	B-PER
+11	danas	_	_	_	_	_	_	_	_	O
+12	razgovarao	_	_	_	_	_	_	_	_	O
+13	nakon	_	_	_	_	_	_	_	_	O
+14	lekarskog	_	_	_	_	_	_	_	_	O
+15	pregleda	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	,	,	PUNCT	Z	_	_	_	_	_	O
+17	gde	_	_	_	_	_	_	_	_	O
+18	mu	_	_	_	_	_	_	_	_	O
+19	je	_	_	_	_	_	_	_	_	O
+20	on	_	_	_	_	_	_	_	_	O
+21	saopštio	_	_	_	_	_	_	_	_	O
+22	da	_	_	_	_	_	_	_	_	O
+23	će	_	_	_	_	_	_	_	_	O
+24	ga	_	_	_	_	_	_	_	_	O
+25	prebaciti	_	_	_	_	_	_	_	_	O
+26	u	_	_	_	_	_	_	_	_	O
+27	bolnicu	_	_	_	_	_	_	_	_	O
+28	u	_	_	_	_	_	_	_	_	O
+29	Centralni	_	_	_	_	_	_	_	_	B-ORG
+30	zatvor	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+31	,	,	PUNCT	Z	_	_	_	_	_	O
+32	u	_	_	_	_	_	_	_	_	O
+33	Beograd	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+34	,	,	PUNCT	Z	_	_	_	_	_	O
+35	zbog	_	_	_	_	_	_	_	_	O
+36	stanja	_	_	_	_	_	_	_	_	O
+37	u	_	_	_	_	_	_	_	_	O
+38	kom	_	_	_	_	_	_	_	_	O
+39	se	_	_	_	_	_	_	_	_	O
+40	nalazi	_	_	_	_	_	_	_	SpaceAfter=No	O
+41	,	,	PUNCT	Z	_	_	_	_	_	O
+42	nakon	_	_	_	_	_	_	_	_	O
+43	sedam	_	_	_	_	_	_	_	_	O
+44	dana	_	_	_	_	_	_	_	_	O
+45	štrajka	_	_	_	_	_	_	_	_	O
+46	glađu	_	_	_	_	_	_	_	SpaceAfter=No	O
+47	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 2
+# sent_id = 2.1
+# text = Od advokata saznajemo da je sudija potpisao uput o njegovom prebacivanju.
+1	Od	_	_	_	_	_	_	_	_	O
+2	advokata	_	_	_	_	_	_	_	_	O
+3	saznajemo	_	_	_	_	_	_	_	_	O
+4	da	_	_	_	_	_	_	_	_	O
+5	je	_	_	_	_	_	_	_	_	O
+6	sudija	_	_	_	_	_	_	_	_	O
+7	potpisao	_	_	_	_	_	_	_	_	O
+8	uput	_	_	_	_	_	_	_	_	O
+9	o	_	_	_	_	_	_	_	_	O
+10	njegovom	_	_	_	_	_	_	_	_	O
+11	prebacivanju	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 3
+# sent_id = 3.1
+# text = Sve ovo implicira da je on već prebačen, ali se to krije od javnosti, ili je nalog potpisan, a po njemu nije postupano.
+1	Sve	_	_	_	_	_	_	_	_	O
+2	ovo	_	_	_	_	_	_	_	_	O
+3	implicira	_	_	_	_	_	_	_	_	O
+4	da	_	_	_	_	_	_	_	_	O
+5	je	_	_	_	_	_	_	_	_	O
+6	on	_	_	_	_	_	_	_	_	O
+7	već	_	_	_	_	_	_	_	_	O
+8	prebačen	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	ali	_	_	_	_	_	_	_	_	O
+11	se	_	_	_	_	_	_	_	_	O
+12	to	_	_	_	_	_	_	_	_	O
+13	krije	_	_	_	_	_	_	_	_	O
+14	od	_	_	_	_	_	_	_	_	O
+15	javnosti	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	,	,	PUNCT	Z	_	_	_	_	_	O
+17	ili	_	_	_	_	_	_	_	_	O
+18	je	_	_	_	_	_	_	_	_	O
+19	nalog	_	_	_	_	_	_	_	_	O
+20	potpisan	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	,	,	PUNCT	Z	_	_	_	_	_	O
+22	a	_	_	_	_	_	_	_	_	O
+23	po	_	_	_	_	_	_	_	_	O
+24	njemu	_	_	_	_	_	_	_	_	O
+25	nije	_	_	_	_	_	_	_	_	O
+26	postupano	_	_	_	_	_	_	_	SpaceAfter=No	O
+27	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 4
+# sent_id = 4.1
+# text = Ovde neko nešto ozbiljno mulja, a mi ćemo saznati ko i šta.
+1	Ovde	_	_	_	_	_	_	_	_	O
+2	neko	_	_	_	_	_	_	_	_	O
+3	nešto	_	_	_	_	_	_	_	_	O
+4	ozbiljno	_	_	_	_	_	_	_	_	O
+5	mulja	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	a	_	_	_	_	_	_	_	_	O
+8	mi	_	_	_	_	_	_	_	_	O
+9	ćemo	_	_	_	_	_	_	_	_	O
+10	saznati	_	_	_	_	_	_	_	_	O
+11	ko	_	_	_	_	_	_	_	_	O
+12	i	_	_	_	_	_	_	_	_	O
+13	šta	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 5
+# sent_id = 5.1
+# text = Informacije se sakrivaju, kao i sama informacija da je započeo štrajk glađu, za koju se nije znalo danima, zato Vas molimo da ne širite informacije koje nisu proverene.
+1	Informacije	_	_	_	_	_	_	_	_	O
+2	se	_	_	_	_	_	_	_	_	O
+3	sakrivaju	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	kao	_	_	_	_	_	_	_	_	O
+6	i	_	_	_	_	_	_	_	_	O
+7	sama	_	_	_	_	_	_	_	_	O
+8	informacija	_	_	_	_	_	_	_	_	O
+9	da	_	_	_	_	_	_	_	_	O
+10	je	_	_	_	_	_	_	_	_	O
+11	započeo	_	_	_	_	_	_	_	_	O
+12	štrajk	_	_	_	_	_	_	_	_	O
+13	glađu	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	,	,	PUNCT	Z	_	_	_	_	_	O
+15	za	_	_	_	_	_	_	_	_	O
+16	koju	_	_	_	_	_	_	_	_	O
+17	se	_	_	_	_	_	_	_	_	O
+18	nije	_	_	_	_	_	_	_	_	O
+19	znalo	_	_	_	_	_	_	_	_	O
+20	danima	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	,	,	PUNCT	Z	_	_	_	_	_	O
+22	zato	_	_	_	_	_	_	_	_	O
+23	Vas	_	_	_	_	_	_	_	_	O
+24	molimo	_	_	_	_	_	_	_	_	O
+25	da	_	_	_	_	_	_	_	_	O
+26	ne	_	_	_	_	_	_	_	_	O
+27	širite	_	_	_	_	_	_	_	_	O
+28	informacije	_	_	_	_	_	_	_	_	O
+29	koje	_	_	_	_	_	_	_	_	O
+30	nisu	_	_	_	_	_	_	_	_	O
+31	proverene	_	_	_	_	_	_	_	SpaceAfter=No	O
+32	.	.	PUNCT	Z	_	_	_	_	_	O
+

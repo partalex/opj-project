@@ -1,0 +1,502 @@
+#name = aleksandar
+#domen = novinski
+#url = https://www.politika.rs/sr/clanak/699522/evropski-sud-pokrenuo-postupak-protiv-hrvatske
+# newpar id = 1
+# sent_id = 1.1
+# text = Evropski sud za ljudska prava u Strazburu pokrenuo je postupak protiv Hrvatske po tužbi nekadašnjeg predsednika vlade Ive Sanadera i šefa mađarskog MOL-a Zolta Hernadija.
+1	Evropski	_	_	_	_	_	_	_	_	B-ORG
+2	sud	_	_	_	_	_	_	_	_	I-ORG
+3	za	_	_	_	_	_	_	_	_	I-ORG
+4	ljudska	_	_	_	_	_	_	_	_	I-ORG
+5	prava	_	_	_	_	_	_	_	_	I-ORG
+6	u	_	_	_	_	_	_	_	_	O
+7	Strazburu	_	_	_	_	_	_	_	_	B-LOC
+8	pokrenuo	_	_	_	_	_	_	_	_	O
+9	je	_	_	_	_	_	_	_	_	O
+10	postupak	_	_	_	_	_	_	_	_	O
+11	protiv	_	_	_	_	_	_	_	_	O
+12	Hrvatske	_	_	_	_	_	_	_	_	B-ORG
+13	po	_	_	_	_	_	_	_	_	O
+14	tužbi	_	_	_	_	_	_	_	_	O
+15	nekadašnjeg	_	_	_	_	_	_	_	_	O
+16	predsednika	_	_	_	_	_	_	_	_	O
+17	vlade	_	_	_	_	_	_	_	_	O
+18	Ive	_	_	_	_	_	_	_	_	B-PER
+19	Sanadera	_	_	_	_	_	_	_	_	I-PER
+20	i	_	_	_	_	_	_	_	_	O
+21	šefa	_	_	_	_	_	_	_	_	O
+22	mađarskog	_	_	_	_	_	_	_	_	O
+23	MOL-a	_	_	_	_	_	_	_	_	B-ORG
+24	Zolta	_	_	_	_	_	_	_	_	B-PER
+25	Hernadija	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+26	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 2
+# sent_id = 2.1
+# text = Sanader i Hernadi su tužbu podneli sa obrazloženjem da u Hrvatskoj nisu imali pošteno suđenje.
+1	Sanader	_	_	_	_	_	_	_	_	B-PER
+2	i	_	_	_	_	_	_	_	_	O
+3	Hernadi	_	_	_	_	_	_	_	_	B-PER
+4	su	_	_	_	_	_	_	_	_	O
+5	tužbu	_	_	_	_	_	_	_	_	O
+6	podneli	_	_	_	_	_	_	_	_	O
+7	sa	_	_	_	_	_	_	_	_	O
+8	obrazloženjem	_	_	_	_	_	_	_	_	O
+9	da	_	_	_	_	_	_	_	_	O
+10	u	_	_	_	_	_	_	_	_	O
+11	Hrvatskoj	_	_	_	_	_	_	_	_	B-LOC
+12	nisu	_	_	_	_	_	_	_	_	O
+13	imali	_	_	_	_	_	_	_	_	O
+14	pošteno	_	_	_	_	_	_	_	_	O
+15	suđenje	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.2
+# text = Od Hrvatske se sada očekuje izjašnjavanje nakon čega će uslediti presuda.
+1	Od	_	_	_	_	_	_	_	_	O
+2	Hrvatske	_	_	_	_	_	_	_	_	B-LOC
+3	se	_	_	_	_	_	_	_	_	O
+4	sada	_	_	_	_	_	_	_	_	O
+5	očekuje	_	_	_	_	_	_	_	_	O
+6	izjašnjavanje	_	_	_	_	_	_	_	_	O
+7	nakon	_	_	_	_	_	_	_	_	O
+8	čega	_	_	_	_	_	_	_	_	O
+9	će	_	_	_	_	_	_	_	_	O
+10	uslediti	_	_	_	_	_	_	_	_	O
+11	presuda	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 3
+# sent_id = 3.1
+# text = Reč je o aferi Ina-MOL u kojoj je Sanader proglašen krivim da je primio 10 miliona evra mito od Hernadija da bi ova mađarska kompanija preuzela kontrolu nad hrvatskom Inom.
+1	Reč	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	o	_	_	_	_	_	_	_	_	O
+4	aferi	_	_	_	_	_	_	_	_	O
+5	Ina-MOL	_	_	_	_	_	_	_	_	B-ORG
+6	u	_	_	_	_	_	_	_	_	O
+7	kojoj	_	_	_	_	_	_	_	_	O
+8	je	_	_	_	_	_	_	_	_	O
+9	Sanader	_	_	_	_	_	_	_	_	B-PER
+10	proglašen	_	_	_	_	_	_	_	_	O
+11	krivim	_	_	_	_	_	_	_	_	O
+12	da	_	_	_	_	_	_	_	_	O
+13	je	_	_	_	_	_	_	_	_	O
+14	primio	_	_	_	_	_	_	_	_	O
+15	10	_	_	_	_	_	_	_	_	O
+16	miliona	_	_	_	_	_	_	_	_	O
+17	evra	_	_	_	_	_	_	_	_	O
+18	mito	_	_	_	_	_	_	_	_	O
+19	od	_	_	_	_	_	_	_	_	O
+20	Hernadija	_	_	_	_	_	_	_	_	B-PER
+21	da	_	_	_	_	_	_	_	_	O
+22	bi	_	_	_	_	_	_	_	_	O
+23	ova	_	_	_	_	_	_	_	_	O
+24	mađarska	_	_	_	_	_	_	_	_	O
+25	kompanija	_	_	_	_	_	_	_	_	O
+26	preuzela	_	_	_	_	_	_	_	_	O
+27	kontrolu	_	_	_	_	_	_	_	_	O
+28	nad	_	_	_	_	_	_	_	_	O
+29	hrvatskom	_	_	_	_	_	_	_	_	O
+30	Inom	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
+31	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 4
+# sent_id = 4.1
+# text = Presuda Sanaderu prvobitno je postala pravosnažna 2014. godine.
+1	Presuda	_	_	_	_	_	_	_	_	O
+2	Sanaderu	_	_	_	_	_	_	_	_	B-PER
+3	prvobitno	_	_	_	_	_	_	_	_	O
+4	je	_	_	_	_	_	_	_	_	O
+5	postala	_	_	_	_	_	_	_	_	O
+6	pravosnažna	_	_	_	_	_	_	_	_	O
+7	2014.	_	_	_	_	_	_	_	_	O
+8	godine	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 4.2
+# text = Ustavni sud je, naredne godine, ukinuo presudu uz obrazloženje da niži sudovi nisu smeli započeti razmatranje krivice ili nevinosti predsednika vlade polazeći od zaključka da su ugovori između Vlade Hrvatske i MOL-a bili protivni interesima države.
+1	Ustavni	_	_	_	_	_	_	_	_	B-ORG
+2	sud	_	_	_	_	_	_	_	_	I-ORG
+3	je	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	naredne	_	_	_	_	_	_	_	_	O
+6	godine	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	ukinuo	_	_	_	_	_	_	_	_	O
+9	presudu	_	_	_	_	_	_	_	_	O
+10	uz	_	_	_	_	_	_	_	_	O
+11	obrazloženje	_	_	_	_	_	_	_	_	O
+12	da	_	_	_	_	_	_	_	_	O
+13	niži	_	_	_	_	_	_	_	_	O
+14	sudovi	_	_	_	_	_	_	_	_	O
+15	nisu	_	_	_	_	_	_	_	_	O
+16	smeli	_	_	_	_	_	_	_	_	O
+17	započeti	_	_	_	_	_	_	_	_	O
+18	razmatranje	_	_	_	_	_	_	_	_	O
+19	krivice	_	_	_	_	_	_	_	_	O
+20	ili	_	_	_	_	_	_	_	_	O
+21	nevinosti	_	_	_	_	_	_	_	_	O
+22	predsednika	_	_	_	_	_	_	_	_	O
+23	vlade	_	_	_	_	_	_	_	_	O
+24	polazeći	_	_	_	_	_	_	_	_	O
+25	od	_	_	_	_	_	_	_	_	O
+26	zaključka	_	_	_	_	_	_	_	_	O
+27	da	_	_	_	_	_	_	_	_	O
+28	su	_	_	_	_	_	_	_	_	O
+29	ugovori	_	_	_	_	_	_	_	_	O
+30	između	_	_	_	_	_	_	_	_	O
+31	Vlade	_	_	_	_	_	_	_	_	B-ORG
+32	Hrvatske	_	_	_	_	_	_	_	_	I-ORG
+33	i	_	_	_	_	_	_	_	_	O
+34	MOL-a	_	_	_	_	_	_	_	_	B-ORG
+35	bili	_	_	_	_	_	_	_	_	O
+36	protivni	_	_	_	_	_	_	_	_	O
+37	interesima	_	_	_	_	_	_	_	_	O
+38	države	_	_	_	_	_	_	_	SpaceAfter=No	O
+39	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 5
+# sent_id = 5.1
+# text = To je, prema Ustavnom sudu, zamaglilo razliku između individualne krivičnu odgovornosti Sanadera za primanje mita i političke odgovornosti Vlade Hrvatske za sklapanje ugovora i instrumentalizovalo državni interes u svrhu dokazivanja Sanaderove krivice u krivičnom postupku.
+1	To	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	prema	_	_	_	_	_	_	_	_	O
+5	Ustavnom	_	_	_	_	_	_	_	_	B-ORG
+6	sudu	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	zamaglilo	_	_	_	_	_	_	_	_	O
+9	razliku	_	_	_	_	_	_	_	_	O
+10	između	_	_	_	_	_	_	_	_	O
+11	individualne	_	_	_	_	_	_	_	_	O
+12	krivičnu	_	_	_	_	_	_	_	_	O
+13	odgovornosti	_	_	_	_	_	_	_	_	O
+14	Sanadera	_	_	_	_	_	_	_	_	B-PER
+15	za	_	_	_	_	_	_	_	_	O
+16	primanje	_	_	_	_	_	_	_	_	O
+17	mita	_	_	_	_	_	_	_	_	O
+18	i	_	_	_	_	_	_	_	_	O
+19	političke	_	_	_	_	_	_	_	_	O
+20	odgovornosti	_	_	_	_	_	_	_	_	O
+21	Vlade	_	_	_	_	_	_	_	_	B-ORG
+22	Hrvatske	_	_	_	_	_	_	_	_	I-ORG
+23	za	_	_	_	_	_	_	_	_	O
+24	sklapanje	_	_	_	_	_	_	_	_	O
+25	ugovora	_	_	_	_	_	_	_	_	O
+26	i	_	_	_	_	_	_	_	_	O
+27	instrumentalizovalo	_	_	_	_	_	_	_	_	O
+28	državni	_	_	_	_	_	_	_	_	O
+29	interes	_	_	_	_	_	_	_	_	O
+30	u	_	_	_	_	_	_	_	_	O
+31	svrhu	_	_	_	_	_	_	_	_	O
+32	dokazivanja	_	_	_	_	_	_	_	_	O
+33	Sanaderove	_	_	_	_	_	_	_	_	B-PER
+34	krivice	_	_	_	_	_	_	_	_	O
+35	u	_	_	_	_	_	_	_	_	O
+36	krivičnom	_	_	_	_	_	_	_	_	O
+37	postupku	_	_	_	_	_	_	_	SpaceAfter=No	O
+38	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 6
+# sent_id = 6.1
+# text = U decembru 2015. godine ponovljeno suđenje Sanaderu spojeno je sa suđenjem Hernadiju, a četiri godine kasnije obojica su proglašena krivima.
+1	U	_	_	_	_	_	_	_	_	O
+2	decembru	_	_	_	_	_	_	_	_	O
+3	2015.	_	_	_	_	_	_	_	_	O
+4	godine	_	_	_	_	_	_	_	_	O
+5	ponovljeno	_	_	_	_	_	_	_	_	O
+6	suđenje	_	_	_	_	_	_	_	_	O
+7	Sanaderu	_	_	_	_	_	_	_	_	B-PER
+8	spojeno	_	_	_	_	_	_	_	_	O
+9	je	_	_	_	_	_	_	_	_	O
+10	sa	_	_	_	_	_	_	_	_	O
+11	suđenjem	_	_	_	_	_	_	_	_	O
+12	Hernadiju	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+14	a	_	_	_	_	_	_	_	_	O
+15	četiri	_	_	_	_	_	_	_	_	O
+16	godine	_	_	_	_	_	_	_	_	O
+17	kasnije	_	_	_	_	_	_	_	_	O
+18	obojica	_	_	_	_	_	_	_	_	O
+19	su	_	_	_	_	_	_	_	_	O
+20	proglašena	_	_	_	_	_	_	_	_	O
+21	krivima	_	_	_	_	_	_	_	SpaceAfter=No	O
+22	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 7
+# sent_id = 7.1
+# text = Ključno je bilo svedočenje Roberta Ježića koji je, nakon što je i sam bio uhapšen u drugom postupku, izjavio da ga je Sanader zamolio da organizuje primanje novca novca, što je i učinio, ukazujući na ugovore sklopljene u junu 2009. između njegove švajcarske firme Xenoplast sa dve kiparske firme.
+1	Ključno	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	bilo	_	_	_	_	_	_	_	_	O
+4	svedočenje	_	_	_	_	_	_	_	_	O
+5	Roberta	_	_	_	_	_	_	_	_	B-PER
+6	Ježića	_	_	_	_	_	_	_	_	I-PER
+7	koji	_	_	_	_	_	_	_	_	O
+8	je	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	nakon	_	_	_	_	_	_	_	_	O
+11	što	_	_	_	_	_	_	_	_	O
+12	je	_	_	_	_	_	_	_	_	O
+13	i	_	_	_	_	_	_	_	_	O
+14	sam	_	_	_	_	_	_	_	_	O
+15	bio	_	_	_	_	_	_	_	_	O
+16	uhapšen	_	_	_	_	_	_	_	_	O
+17	u	_	_	_	_	_	_	_	_	O
+18	drugom	_	_	_	_	_	_	_	_	O
+19	postupku	_	_	_	_	_	_	_	SpaceAfter=No	O
+20	,	,	PUNCT	Z	_	_	_	_	_	O
+21	izjavio	_	_	_	_	_	_	_	_	O
+22	da	_	_	_	_	_	_	_	_	O
+23	ga	_	_	_	_	_	_	_	_	O
+24	je	_	_	_	_	_	_	_	_	O
+25	Sanader	_	_	_	_	_	_	_	_	B-PER
+26	zamolio	_	_	_	_	_	_	_	_	O
+27	da	_	_	_	_	_	_	_	_	O
+28	organizuje	_	_	_	_	_	_	_	_	O
+29	primanje	_	_	_	_	_	_	_	_	O
+30	novca	_	_	_	_	_	_	_	_	O
+31	novca	_	_	_	_	_	_	_	SpaceAfter=No	O
+32	,	,	PUNCT	Z	_	_	_	_	_	O
+33	što	_	_	_	_	_	_	_	_	O
+34	je	_	_	_	_	_	_	_	_	O
+35	i	_	_	_	_	_	_	_	_	O
+36	učinio	_	_	_	_	_	_	_	SpaceAfter=No	O
+37	,	,	PUNCT	Z	_	_	_	_	_	O
+38	ukazujući	_	_	_	_	_	_	_	_	O
+39	na	_	_	_	_	_	_	_	_	O
+40	ugovore	_	_	_	_	_	_	_	_	O
+41	sklopljene	_	_	_	_	_	_	_	_	O
+42	u	_	_	_	_	_	_	_	_	O
+43	junu	_	_	_	_	_	_	_	_	O
+44	2009.	_	_	_	_	_	_	_	_	O
+45	između	_	_	_	_	_	_	_	_	O
+46	njegove	_	_	_	_	_	_	_	_	O
+47	švajcarske	_	_	_	_	_	_	_	_	O
+48	firme	_	_	_	_	_	_	_	_	O
+49	Xenoplast	_	_	_	_	_	_	_	_	B-ORG
+50	sa	_	_	_	_	_	_	_	_	O
+51	dve	_	_	_	_	_	_	_	_	O
+52	kiparske	_	_	_	_	_	_	_	_	O
+53	firme	_	_	_	_	_	_	_	SpaceAfter=No	O
+54	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 8
+# sent_id = 8.1
+# text = Sanader je nedavno pušten iz zatvora na uslovnu slobodu, a Hernadi je sve vreme bio nedostupan hrvatskom pravosuđu.
+1	Sanader	_	_	_	_	_	_	_	_	B-PER
+2	je	_	_	_	_	_	_	_	_	O
+3	nedavno	_	_	_	_	_	_	_	_	O
+4	pušten	_	_	_	_	_	_	_	_	O
+5	iz	_	_	_	_	_	_	_	_	O
+6	zatvora	_	_	_	_	_	_	_	_	O
+7	na	_	_	_	_	_	_	_	_	O
+8	uslovnu	_	_	_	_	_	_	_	_	O
+9	slobodu	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	a	_	_	_	_	_	_	_	_	O
+12	Hernadi	_	_	_	_	_	_	_	_	B-PER
+13	je	_	_	_	_	_	_	_	_	O
+14	sve	_	_	_	_	_	_	_	_	O
+15	vreme	_	_	_	_	_	_	_	_	O
+16	bio	_	_	_	_	_	_	_	_	O
+17	nedostupan	_	_	_	_	_	_	_	_	O
+18	hrvatskom	_	_	_	_	_	_	_	_	B-ORG
+19	pravosuđu	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+20	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 9
+# sent_id = 9.1
+# text = Iznoseći detalje vezano za ovaj slučaj, hrvatski mediji pišu između ostalog, da se Sanader i Hernadi pozivaju na član konvencije koja garantuje pravedno suđenje i tvrde da su je njihova osuđujuća presuda bila proizvoljna i protivna grantovanom pravednom suđenju i načelu jednakosti oružja u krivičnom postupku.
+1	Iznoseći	_	_	_	_	_	_	_	_	O
+2	detalje	_	_	_	_	_	_	_	_	O
+3	vezano	_	_	_	_	_	_	_	_	O
+4	za	_	_	_	_	_	_	_	_	O
+5	ovaj	_	_	_	_	_	_	_	_	O
+6	slučaj	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	hrvatski	_	_	_	_	_	_	_	_	O
+9	mediji	_	_	_	_	_	_	_	_	O
+10	pišu	_	_	_	_	_	_	_	_	O
+11	između	_	_	_	_	_	_	_	_	O
+12	ostalog	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+14	da	_	_	_	_	_	_	_	_	O
+15	se	_	_	_	_	_	_	_	_	O
+16	Sanader	_	_	_	_	_	_	_	_	B-PER
+17	i	_	_	_	_	_	_	_	_	O
+18	Hernadi	_	_	_	_	_	_	_	_	B-PER
+19	pozivaju	_	_	_	_	_	_	_	_	O
+20	na	_	_	_	_	_	_	_	_	O
+21	član	_	_	_	_	_	_	_	_	O
+22	konvencije	_	_	_	_	_	_	_	_	O
+23	koja	_	_	_	_	_	_	_	_	O
+24	garantuje	_	_	_	_	_	_	_	_	O
+25	pravedno	_	_	_	_	_	_	_	_	O
+26	suđenje	_	_	_	_	_	_	_	_	O
+27	i	_	_	_	_	_	_	_	_	O
+28	tvrde	_	_	_	_	_	_	_	_	O
+29	da	_	_	_	_	_	_	_	_	O
+30	su	_	_	_	_	_	_	_	_	O
+31	je	_	_	_	_	_	_	_	_	O
+32	njihova	_	_	_	_	_	_	_	_	O
+33	osuđujuća	_	_	_	_	_	_	_	_	O
+34	presuda	_	_	_	_	_	_	_	_	O
+35	bila	_	_	_	_	_	_	_	_	O
+36	proizvoljna	_	_	_	_	_	_	_	_	O
+37	i	_	_	_	_	_	_	_	_	O
+38	protivna	_	_	_	_	_	_	_	_	O
+39	grantovanom	_	_	_	_	_	_	_	_	O
+40	pravednom	_	_	_	_	_	_	_	_	O
+41	suđenju	_	_	_	_	_	_	_	_	O
+42	i	_	_	_	_	_	_	_	_	O
+43	načelu	_	_	_	_	_	_	_	_	O
+44	jednakosti	_	_	_	_	_	_	_	_	O
+45	oružja	_	_	_	_	_	_	_	_	O
+46	u	_	_	_	_	_	_	_	_	O
+47	krivičnom	_	_	_	_	_	_	_	_	O
+48	postupku	_	_	_	_	_	_	_	SpaceAfter=No	O
+49	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 10
+# sent_id = 10.1
+# text = Navode da nisu mogli izneti svoju obranu, da je sud bez adekvatnih razloga, odbacio njihove predloge za izvođenje ili uvid u dokaze, posebno u pogledu verodostojnosti svedočenja Roberta Ježića.
+1	Navode	_	_	_	_	_	_	_	_	O
+2	da	_	_	_	_	_	_	_	_	O
+3	nisu	_	_	_	_	_	_	_	_	O
+4	mogli	_	_	_	_	_	_	_	_	O
+5	izneti	_	_	_	_	_	_	_	_	O
+6	svoju	_	_	_	_	_	_	_	_	O
+7	obranu	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	da	_	_	_	_	_	_	_	_	O
+10	je	_	_	_	_	_	_	_	_	O
+11	sud	_	_	_	_	_	_	_	_	O
+12	bez	_	_	_	_	_	_	_	_	O
+13	adekvatnih	_	_	_	_	_	_	_	_	O
+14	razloga	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	,	,	PUNCT	Z	_	_	_	_	_	O
+16	odbacio	_	_	_	_	_	_	_	_	O
+17	njihove	_	_	_	_	_	_	_	_	O
+18	predloge	_	_	_	_	_	_	_	_	O
+19	za	_	_	_	_	_	_	_	_	O
+20	izvođenje	_	_	_	_	_	_	_	_	O
+21	ili	_	_	_	_	_	_	_	_	O
+22	uvid	_	_	_	_	_	_	_	_	O
+23	u	_	_	_	_	_	_	_	_	O
+24	dokaze	_	_	_	_	_	_	_	SpaceAfter=No	O
+25	,	,	PUNCT	Z	_	_	_	_	_	O
+26	posebno	_	_	_	_	_	_	_	_	O
+27	u	_	_	_	_	_	_	_	_	O
+28	pogledu	_	_	_	_	_	_	_	_	O
+29	verodostojnosti	_	_	_	_	_	_	_	_	O
+30	svedočenja	_	_	_	_	_	_	_	_	O
+31	Roberta	_	_	_	_	_	_	_	_	B-PER
+32	Ježića	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+33	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 11
+# sent_id = 11.1
+# text = Sanader je u tužbi naveo i javne istupe brojnih političara kao i službene izjave koje su mu, kako tvrdi, povredile pretpostavku nevinosti, navodeći pritom i nekoliko primera.
+1	Sanader	_	_	_	_	_	_	_	_	B-PER
+2	je	_	_	_	_	_	_	_	_	O
+3	u	_	_	_	_	_	_	_	_	O
+4	tužbi	_	_	_	_	_	_	_	_	O
+5	naveo	_	_	_	_	_	_	_	_	O
+6	i	_	_	_	_	_	_	_	_	O
+7	javne	_	_	_	_	_	_	_	_	O
+8	istupe	_	_	_	_	_	_	_	_	O
+9	brojnih	_	_	_	_	_	_	_	_	O
+10	političara	_	_	_	_	_	_	_	_	O
+11	kao	_	_	_	_	_	_	_	_	O
+12	i	_	_	_	_	_	_	_	_	O
+13	službene	_	_	_	_	_	_	_	_	O
+14	izjave	_	_	_	_	_	_	_	_	O
+15	koje	_	_	_	_	_	_	_	_	O
+16	su	_	_	_	_	_	_	_	_	O
+17	mu	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	,	,	PUNCT	Z	_	_	_	_	_	O
+19	kako	_	_	_	_	_	_	_	_	O
+20	tvrdi	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	,	,	PUNCT	Z	_	_	_	_	_	O
+22	povredile	_	_	_	_	_	_	_	_	O
+23	pretpostavku	_	_	_	_	_	_	_	_	O
+24	nevinosti	_	_	_	_	_	_	_	SpaceAfter=No	O
+25	,	,	PUNCT	Z	_	_	_	_	_	O
+26	navodeći	_	_	_	_	_	_	_	_	O
+27	pritom	_	_	_	_	_	_	_	_	O
+28	i	_	_	_	_	_	_	_	_	O
+29	nekoliko	_	_	_	_	_	_	_	_	O
+30	primera	_	_	_	_	_	_	_	SpaceAfter=No	O
+31	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 11.2
+# text = Hernadi je u svojoj tužbi ukazao na moguću zastaru kaznenog progona.
+1	Hernadi	_	_	_	_	_	_	_	_	B-PER
+2	je	_	_	_	_	_	_	_	_	O
+3	u	_	_	_	_	_	_	_	_	O
+4	svojoj	_	_	_	_	_	_	_	_	O
+5	tužbi	_	_	_	_	_	_	_	_	O
+6	ukazao	_	_	_	_	_	_	_	_	O
+7	na	_	_	_	_	_	_	_	_	O
+8	moguću	_	_	_	_	_	_	_	_	O
+9	zastaru	_	_	_	_	_	_	_	_	O
+10	kaznenog	_	_	_	_	_	_	_	_	O
+11	progona	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 12
+# sent_id = 12.1
+# text = Hrvatskoj je Evropski sud za ljudska prava poslao konkretna pitanja na koja tokom postupka očekuje odgovore, a među kojima je ključno: da li su Sanader i Hernadi imali pošteno suđenje u odlučivanju o krivičnim optužbama protiv njih, u skladu sa člankom 6. Konvencije o ljudskim pravima.
+1	Hrvatskoj	_	_	_	_	_	_	_	_	B-LOC
+2	je	_	_	_	_	_	_	_	_	O
+3	Evropski	_	_	_	_	_	_	_	_	B-ORG
+4	sud	_	_	_	_	_	_	_	_	I-ORG
+5	za	_	_	_	_	_	_	_	_	O
+6	ljudska	_	_	_	_	_	_	_	_	O
+7	prava	_	_	_	_	_	_	_	_	O
+8	poslao	_	_	_	_	_	_	_	_	O
+9	konkretna	_	_	_	_	_	_	_	_	O
+10	pitanja	_	_	_	_	_	_	_	_	O
+11	na	_	_	_	_	_	_	_	_	O
+12	koja	_	_	_	_	_	_	_	_	O
+13	tokom	_	_	_	_	_	_	_	_	O
+14	postupka	_	_	_	_	_	_	_	_	O
+15	očekuje	_	_	_	_	_	_	_	_	O
+16	odgovore	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	,	,	PUNCT	Z	_	_	_	_	_	O
+18	a	_	_	_	_	_	_	_	_	O
+19	među	_	_	_	_	_	_	_	_	O
+20	kojima	_	_	_	_	_	_	_	_	O
+21	je	_	_	_	_	_	_	_	_	O
+22	ključno	_	_	_	_	_	_	_	SpaceAfter=No	O
+23	:	:	PUNCT	Z	_	_	_	_	_	O
+24	da	_	_	_	_	_	_	_	_	O
+25	li	_	_	_	_	_	_	_	_	O
+26	su	_	_	_	_	_	_	_	_	O
+27	Sanader	_	_	_	_	_	_	_	_	B-PER
+28	i	_	_	_	_	_	_	_	_	O
+29	Hernadi	_	_	_	_	_	_	_	_	B-PER
+30	imali	_	_	_	_	_	_	_	_	O
+31	pošteno	_	_	_	_	_	_	_	_	O
+32	suđenje	_	_	_	_	_	_	_	_	O
+33	u	_	_	_	_	_	_	_	_	O
+34	odlučivanju	_	_	_	_	_	_	_	_	O
+35	o	_	_	_	_	_	_	_	_	O
+36	krivičnim	_	_	_	_	_	_	_	_	O
+37	optužbama	_	_	_	_	_	_	_	_	O
+38	protiv	_	_	_	_	_	_	_	_	O
+39	njih	_	_	_	_	_	_	_	SpaceAfter=No	O
+40	,	,	PUNCT	Z	_	_	_	_	_	O
+41	u	_	_	_	_	_	_	_	_	O
+42	skladu	_	_	_	_	_	_	_	_	O
+43	sa	_	_	_	_	_	_	_	_	O
+44	člankom	_	_	_	_	_	_	_	_	O
+45	6.	_	_	_	_	_	_	_	_	O
+46	Konvencije	_	_	_	_	_	_	_	_	O
+47	o	_	_	_	_	_	_	_	_	O
+48	ljudskim	_	_	_	_	_	_	_	_	O
+49	pravima	_	_	_	_	_	_	_	SpaceAfter=No	O
+50	.	.	PUNCT	Z	_	_	_	_	_	O
+

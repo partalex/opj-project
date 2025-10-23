@@ -1,0 +1,631 @@
+#name = teodora
+#domen = novinski
+#url = https://nova.rs/vesti/politika/sta-ce-vucic-na-evropskom-putu-ako-potvrdjuje-stav-rusije-da-se-eu-sprema-da-ga-rusi/?widget=samo%20za%20vas%2075%25&segment=nova-topcontent&article=%E2%80%9E%C5%A0ta%20%C4%87e%20Vu%C4%8Di%C4%87%20na%20evropskom%20putu%20ako%20potvr%C4%91uje%20stav%20Rusije%20da%20se%20EU%20sprema%20da%20ga%20ru%C5%A1i%E2%80%9C&ref=personalized&pv=8f932466-01ec-48ea-979a-7bdcd47732fa
+# newpar id = 1
+# sent_id = 1.1
+# text = "Ako se stav ruske Spoljne obaveštajne službe da se EU sprema da ruši Vučića na godišnjicu tragedije u Novom Sadu ovde promoviše kao nešto što potvrđuje stav vlasti, onda Vučić neka kaže da li je Srbija na evropskom putu", izjavio je Zdravko Ponoš, predsednik Srbija centra (SRCE).
+1	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+2	Ako	_	_	_	_	_	_	_	_	O
+3	se	_	_	_	_	_	_	_	_	O
+4	stav	_	_	_	_	_	_	_	_	O
+5	ruske	_	_	_	_	_	_	_	_	O
+6	Spoljne	_	_	_	_	_	_	_	_	B-ORG
+7	obaveštajne	_	_	_	_	_	_	_	_	I-ORG
+8	službe	_	_	_	_	_	_	_	_	I-ORG
+9	da	_	_	_	_	_	_	_	_	O
+10	se	_	_	_	_	_	_	_	_	O
+11	EU	_	_	_	_	_	_	_	_	B-ORG
+12	sprema	_	_	_	_	_	_	_	_	O
+13	da	_	_	_	_	_	_	_	_	O
+14	ruši	_	_	_	_	_	_	_	_	O
+15	Vučića	_	_	_	_	_	_	_	_	B-PER
+16	na	_	_	_	_	_	_	_	_	O
+17	godišnjicu	_	_	_	_	_	_	_	_	O
+18	tragedije	_	_	_	_	_	_	_	_	O
+19	u	_	_	_	_	_	_	_	_	O
+20	Novom	_	_	_	_	_	_	_	_	B-LOC
+21	Sadu	_	_	_	_	_	_	_	_	I-LOC
+22	ovde	_	_	_	_	_	_	_	_	O
+23	promoviše	_	_	_	_	_	_	_	_	O
+24	kao	_	_	_	_	_	_	_	_	O
+25	nešto	_	_	_	_	_	_	_	_	O
+26	što	_	_	_	_	_	_	_	_	O
+27	potvrđuje	_	_	_	_	_	_	_	_	O
+28	stav	_	_	_	_	_	_	_	_	O
+29	vlasti	_	_	_	_	_	_	_	SpaceAfter=No	O
+30	,	,	PUNCT	Z	_	_	_	_	_	O
+31	onda	_	_	_	_	_	_	_	_	O
+32	Vučić	_	_	_	_	_	_	_	_	B-PER
+33	neka	_	_	_	_	_	_	_	_	O
+34	kaže	_	_	_	_	_	_	_	_	O
+35	da	_	_	_	_	_	_	_	_	O
+36	li	_	_	_	_	_	_	_	_	O
+37	je	_	_	_	_	_	_	_	_	O
+38	Srbija	_	_	_	_	_	_	_	_	B-LOC
+39	na	_	_	_	_	_	_	_	_	O
+40	evropskom	_	_	_	_	_	_	_	_	O
+41	putu	_	_	_	_	_	_	_	SpaceAfter=No	O
+42	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+43	,	,	PUNCT	Z	_	_	_	_	_	O
+44	izjavio	_	_	_	_	_	_	_	_	O
+45	je	_	_	_	_	_	_	_	_	O
+46	Zdravko	_	_	_	_	_	_	_	_	B-PER
+47	Ponoš	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+48	,	,	PUNCT	Z	_	_	_	_	_	O
+49	predsednik	_	_	_	_	_	_	_	_	O
+50	Srbija	_	_	_	_	_	_	_	_	B-ORG
+51	centra	_	_	_	_	_	_	_	_	I-ORG
+52	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+53	SRCE	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
+54	)	)	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+55	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.2
+# text = „Ja kažem da Srbija jeste na evropskom putu i da on ne laže, samo što je on vodi u pogrešnom smeru.
+1	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+2	Ja	_	_	_	_	_	_	_	_	O
+3	kažem	_	_	_	_	_	_	_	_	O
+4	da	_	_	_	_	_	_	_	_	O
+5	Srbija	_	_	_	_	_	_	_	_	B-LOC
+6	jeste	_	_	_	_	_	_	_	_	O
+7	na	_	_	_	_	_	_	_	_	O
+8	evropskom	_	_	_	_	_	_	_	_	O
+9	putu	_	_	_	_	_	_	_	_	O
+10	i	_	_	_	_	_	_	_	_	O
+11	da	_	_	_	_	_	_	_	_	O
+12	on	_	_	_	_	_	_	_	_	O
+13	ne	_	_	_	_	_	_	_	_	O
+14	laže	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	,	,	PUNCT	Z	_	_	_	_	_	O
+16	samo	_	_	_	_	_	_	_	_	O
+17	što	_	_	_	_	_	_	_	_	O
+18	je	_	_	_	_	_	_	_	_	O
+19	on	_	_	_	_	_	_	_	_	O
+20	vodi	_	_	_	_	_	_	_	_	O
+21	u	_	_	_	_	_	_	_	_	O
+22	pogrešnom	_	_	_	_	_	_	_	_	O
+23	smeru	_	_	_	_	_	_	_	SpaceAfter=No	O
+24	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.3
+# text = Svi ostali voze u jednom smeru, on u drugom.
+1	Svi	_	_	_	_	_	_	_	_	O
+2	ostali	_	_	_	_	_	_	_	_	O
+3	voze	_	_	_	_	_	_	_	_	O
+4	u	_	_	_	_	_	_	_	_	O
+5	jednom	_	_	_	_	_	_	_	_	O
+6	smeru	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	on	_	_	_	_	_	_	_	_	O
+9	u	_	_	_	_	_	_	_	_	O
+10	drugom	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.4
+# text = Ako misli da ga oni ruše, šta će onda na tom putu“, kazao je predsednik Srbija centra (SRCE) u intervjuu za Slavija info i dodao da je Aleksandar Vučić doveden na vlast uz pomoć i podršku najuticajnijih članica Evropske unije i onih koji su dominantni među evropskim narodnjacima – EPP.
+1	Ako	_	_	_	_	_	_	_	_	O
+2	misli	_	_	_	_	_	_	_	_	O
+3	da	_	_	_	_	_	_	_	_	O
+4	ga	_	_	_	_	_	_	_	_	O
+5	oni	_	_	_	_	_	_	_	_	O
+6	ruše	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	šta	_	_	_	_	_	_	_	_	O
+9	će	_	_	_	_	_	_	_	_	O
+10	onda	_	_	_	_	_	_	_	_	O
+11	na	_	_	_	_	_	_	_	_	O
+12	tom	_	_	_	_	_	_	_	_	O
+13	putu	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+15	,	,	PUNCT	Z	_	_	_	_	_	O
+16	kazao	_	_	_	_	_	_	_	_	O
+17	je	_	_	_	_	_	_	_	_	O
+18	predsednik	_	_	_	_	_	_	_	_	O
+19	Srbija	_	_	_	_	_	_	_	_	B-ORG
+20	centra	_	_	_	_	_	_	_	_	I-ORG
+21	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+22	SRCE	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
+23	)	)	PUNCT	Z	_	_	_	_	_	O
+24	u	_	_	_	_	_	_	_	_	O
+25	intervjuu	_	_	_	_	_	_	_	_	O
+26	za	_	_	_	_	_	_	_	_	O
+27	Slavija	_	_	_	_	_	_	_	_	B-ORG
+28	info	_	_	_	_	_	_	_	_	I-ORG
+29	i	_	_	_	_	_	_	_	_	O
+30	dodao	_	_	_	_	_	_	_	_	O
+31	da	_	_	_	_	_	_	_	_	O
+32	je	_	_	_	_	_	_	_	_	O
+33	Aleksandar	_	_	_	_	_	_	_	_	B-PER
+34	Vučić	_	_	_	_	_	_	_	_	I-PER
+35	doveden	_	_	_	_	_	_	_	_	O
+36	na	_	_	_	_	_	_	_	_	O
+37	vlast	_	_	_	_	_	_	_	_	O
+38	uz	_	_	_	_	_	_	_	_	O
+39	pomoć	_	_	_	_	_	_	_	_	O
+40	i	_	_	_	_	_	_	_	_	O
+41	podršku	_	_	_	_	_	_	_	_	O
+42	najuticajnijih	_	_	_	_	_	_	_	_	O
+43	članica	_	_	_	_	_	_	_	_	O
+44	Evropske	_	_	_	_	_	_	_	_	B-ORG
+45	unije	_	_	_	_	_	_	_	_	I-ORG
+46	i	_	_	_	_	_	_	_	_	O
+47	onih	_	_	_	_	_	_	_	_	O
+48	koji	_	_	_	_	_	_	_	_	O
+49	su	_	_	_	_	_	_	_	_	O
+50	dominantni	_	_	_	_	_	_	_	_	O
+51	među	_	_	_	_	_	_	_	_	O
+52	evropskim	_	_	_	_	_	_	_	_	O
+53	narodnjacima	_	_	_	_	_	_	_	_	O
+54	–	–	PUNCT	Z	_	_	_	_	_	O
+55	EPP	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
+56	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.5
+# text = „Ne bi on mogao da bude tu gde jeste da nije imao tu vrstu podrške i pomoći, a doveden je s razlogom.
+1	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+2	Ne	_	_	_	_	_	_	_	_	O
+3	bi	_	_	_	_	_	_	_	_	O
+4	on	_	_	_	_	_	_	_	_	O
+5	mogao	_	_	_	_	_	_	_	_	O
+6	da	_	_	_	_	_	_	_	_	O
+7	bude	_	_	_	_	_	_	_	_	O
+8	tu	_	_	_	_	_	_	_	_	O
+9	gde	_	_	_	_	_	_	_	_	O
+10	jeste	_	_	_	_	_	_	_	_	O
+11	da	_	_	_	_	_	_	_	_	O
+12	nije	_	_	_	_	_	_	_	_	O
+13	imao	_	_	_	_	_	_	_	_	O
+14	tu	_	_	_	_	_	_	_	_	O
+15	vrstu	_	_	_	_	_	_	_	_	O
+16	podrške	_	_	_	_	_	_	_	_	O
+17	i	_	_	_	_	_	_	_	_	O
+18	pomoći	_	_	_	_	_	_	_	SpaceAfter=No	O
+19	,	,	PUNCT	Z	_	_	_	_	_	O
+20	a	_	_	_	_	_	_	_	_	O
+21	doveden	_	_	_	_	_	_	_	_	O
+22	je	_	_	_	_	_	_	_	_	O
+23	s	_	_	_	_	_	_	_	_	O
+24	razlogom	_	_	_	_	_	_	_	SpaceAfter=No	O
+25	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.6
+# text = Neke stvari je i završio, neke je priveo kraju.
+1	Neke	_	_	_	_	_	_	_	_	O
+2	stvari	_	_	_	_	_	_	_	_	O
+3	je	_	_	_	_	_	_	_	_	O
+4	i	_	_	_	_	_	_	_	_	O
+5	završio	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	neke	_	_	_	_	_	_	_	_	O
+8	je	_	_	_	_	_	_	_	_	O
+9	priveo	_	_	_	_	_	_	_	_	O
+10	kraju	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.7
+# text = Dalje ne može, nema šta.
+1	Dalje	_	_	_	_	_	_	_	_	O
+2	ne	_	_	_	_	_	_	_	_	O
+3	može	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	nema	_	_	_	_	_	_	_	_	O
+6	šta	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.8
+# text = Što se tiče njegovog statusa, odnosno statusa SNS u EPP, tu stvari za njih stoje jako loše.
+1	Što	_	_	_	_	_	_	_	_	O
+2	se	_	_	_	_	_	_	_	_	O
+3	tiče	_	_	_	_	_	_	_	_	O
+4	njegovog	_	_	_	_	_	_	_	_	O
+5	statusa	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	odnosno	_	_	_	_	_	_	_	_	O
+8	statusa	_	_	_	_	_	_	_	_	O
+9	SNS	_	_	_	_	_	_	_	_	B-ORG
+10	u	_	_	_	_	_	_	_	_	O
+11	EPP	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	tu	_	_	_	_	_	_	_	_	O
+14	stvari	_	_	_	_	_	_	_	_	O
+15	za	_	_	_	_	_	_	_	_	O
+16	njih	_	_	_	_	_	_	_	_	O
+17	stoje	_	_	_	_	_	_	_	_	O
+18	jako	_	_	_	_	_	_	_	_	O
+19	loše	_	_	_	_	_	_	_	SpaceAfter=No	O
+20	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.9
+# text = Potpuno je očigledno da Vučić tretira EU kao keš mašinu, kao aparat da dođeš i izvučeš neki keš i trošiš ga kako ti hoćeš.
+1	Potpuno	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	očigledno	_	_	_	_	_	_	_	_	O
+4	da	_	_	_	_	_	_	_	_	O
+5	Vučić	_	_	_	_	_	_	_	_	B-PER
+6	tretira	_	_	_	_	_	_	_	_	O
+7	EU	_	_	_	_	_	_	_	_	B-ORG
+8	kao	_	_	_	_	_	_	_	_	O
+9	keš	_	_	_	_	_	_	_	_	O
+10	mašinu	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	kao	_	_	_	_	_	_	_	_	O
+13	aparat	_	_	_	_	_	_	_	_	O
+14	da	_	_	_	_	_	_	_	_	O
+15	dođeš	_	_	_	_	_	_	_	_	O
+16	i	_	_	_	_	_	_	_	_	O
+17	izvučeš	_	_	_	_	_	_	_	_	O
+18	neki	_	_	_	_	_	_	_	_	O
+19	keš	_	_	_	_	_	_	_	_	O
+20	i	_	_	_	_	_	_	_	_	O
+21	trošiš	_	_	_	_	_	_	_	_	O
+22	ga	_	_	_	_	_	_	_	_	O
+23	kako	_	_	_	_	_	_	_	_	O
+24	ti	_	_	_	_	_	_	_	_	O
+25	hoćeš	_	_	_	_	_	_	_	SpaceAfter=No	O
+26	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.10
+# text = Ta vremena prolaze, jasno je da on to zloupotrebljava“.
+1	Ta	_	_	_	_	_	_	_	_	O
+2	vremena	_	_	_	_	_	_	_	_	O
+3	prolaze	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	jasno	_	_	_	_	_	_	_	_	O
+6	je	_	_	_	_	_	_	_	_	O
+7	da	_	_	_	_	_	_	_	_	O
+8	on	_	_	_	_	_	_	_	_	O
+9	to	_	_	_	_	_	_	_	_	O
+10	zloupotrebljava	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+12	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.11
+# text = Ponoš je ocenio i da vlast ne reaguje na ono što se dešava na Kosovu i Metohiji.
+1	Ponoš	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	ocenio	_	_	_	_	_	_	_	_	O
+4	i	_	_	_	_	_	_	_	_	O
+5	da	_	_	_	_	_	_	_	_	O
+6	vlast	_	_	_	_	_	_	_	_	O
+7	ne	_	_	_	_	_	_	_	_	O
+8	reaguje	_	_	_	_	_	_	_	_	O
+9	na	_	_	_	_	_	_	_	_	O
+10	ono	_	_	_	_	_	_	_	_	O
+11	što	_	_	_	_	_	_	_	_	O
+12	se	_	_	_	_	_	_	_	_	O
+13	dešava	_	_	_	_	_	_	_	_	O
+14	na	_	_	_	_	_	_	_	_	O
+15	Kosovu	_	_	_	_	_	_	_	_	B-LOC
+16	i	_	_	_	_	_	_	_	_	I-LOC
+17	Metohiji	_	_	_	_	_	_	_	SpaceAfter=No	I-LOC
+18	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 2
+# sent_id = 2.1
+# text = „Na Kosovu je sad situacija takva da ako dolazite sa dokumentima Republike Srbije, bez obzira što ste rođeni i što živite na Kosovu, ali niste uzeli njihova dokumenta, vi morate u roku tri dana da se prijavite lokalnoj policiji da ste došli na Kosovo.
+1	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+2	Na	_	_	_	_	_	_	_	_	O
+3	Kosovu	_	_	_	_	_	_	_	_	B-LOC
+4	je	_	_	_	_	_	_	_	_	O
+5	sad	_	_	_	_	_	_	_	_	O
+6	situacija	_	_	_	_	_	_	_	_	O
+7	takva	_	_	_	_	_	_	_	_	O
+8	da	_	_	_	_	_	_	_	_	O
+9	ako	_	_	_	_	_	_	_	_	O
+10	dolazite	_	_	_	_	_	_	_	_	O
+11	sa	_	_	_	_	_	_	_	_	O
+12	dokumentima	_	_	_	_	_	_	_	_	O
+13	Republike	_	_	_	_	_	_	_	_	B-LOC
+14	Srbije	_	_	_	_	_	_	_	SpaceAfter=No	I-LOC
+15	,	,	PUNCT	Z	_	_	_	_	_	O
+16	bez	_	_	_	_	_	_	_	_	O
+17	obzira	_	_	_	_	_	_	_	_	O
+18	što	_	_	_	_	_	_	_	_	O
+19	ste	_	_	_	_	_	_	_	_	O
+20	rođeni	_	_	_	_	_	_	_	_	O
+21	i	_	_	_	_	_	_	_	_	O
+22	što	_	_	_	_	_	_	_	_	O
+23	živite	_	_	_	_	_	_	_	_	O
+24	na	_	_	_	_	_	_	_	_	O
+25	Kosovu	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+26	,	,	PUNCT	Z	_	_	_	_	_	O
+27	ali	_	_	_	_	_	_	_	_	O
+28	niste	_	_	_	_	_	_	_	_	O
+29	uzeli	_	_	_	_	_	_	_	_	O
+30	njihova	_	_	_	_	_	_	_	_	O
+31	dokumenta	_	_	_	_	_	_	_	SpaceAfter=No	O
+32	,	,	PUNCT	Z	_	_	_	_	_	O
+33	vi	_	_	_	_	_	_	_	_	O
+34	morate	_	_	_	_	_	_	_	_	O
+35	u	_	_	_	_	_	_	_	_	O
+36	roku	_	_	_	_	_	_	_	_	O
+37	tri	_	_	_	_	_	_	_	_	O
+38	dana	_	_	_	_	_	_	_	_	O
+39	da	_	_	_	_	_	_	_	_	O
+40	se	_	_	_	_	_	_	_	_	O
+41	prijavite	_	_	_	_	_	_	_	_	O
+42	lokalnoj	_	_	_	_	_	_	_	_	O
+43	policiji	_	_	_	_	_	_	_	_	O
+44	da	_	_	_	_	_	_	_	_	O
+45	ste	_	_	_	_	_	_	_	_	O
+46	došli	_	_	_	_	_	_	_	_	O
+47	na	_	_	_	_	_	_	_	_	O
+48	Kosovo	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+49	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.2
+# text = To je najvažnija stvar.
+1	To	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	najvažnija	_	_	_	_	_	_	_	_	O
+4	stvar	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.3
+# text = Ljudima se uskraćuje čak i taj privid da žive u Srbiji, jer ih je Vučić doveo do tog privida.
+1	Ljudima	_	_	_	_	_	_	_	_	O
+2	se	_	_	_	_	_	_	_	_	O
+3	uskraćuje	_	_	_	_	_	_	_	_	O
+4	čak	_	_	_	_	_	_	_	_	O
+5	i	_	_	_	_	_	_	_	_	O
+6	taj	_	_	_	_	_	_	_	_	O
+7	privid	_	_	_	_	_	_	_	_	O
+8	da	_	_	_	_	_	_	_	_	O
+9	žive	_	_	_	_	_	_	_	_	O
+10	u	_	_	_	_	_	_	_	_	O
+11	Srbiji	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	jer	_	_	_	_	_	_	_	_	O
+14	ih	_	_	_	_	_	_	_	_	O
+15	je	_	_	_	_	_	_	_	_	O
+16	Vučić	_	_	_	_	_	_	_	_	B-PER
+17	doveo	_	_	_	_	_	_	_	_	O
+18	do	_	_	_	_	_	_	_	_	O
+19	tog	_	_	_	_	_	_	_	_	O
+20	privida	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.4
+# text = Sad više sa dokumentima Republike Srbije ne mogu ni da žive tamo, nego moraju da se prijave kao da su iz Madagaskara kad dolaze u svoju kuću.
+1	Sad	_	_	_	_	_	_	_	_	O
+2	više	_	_	_	_	_	_	_	_	O
+3	sa	_	_	_	_	_	_	_	_	O
+4	dokumentima	_	_	_	_	_	_	_	_	O
+5	Republike	_	_	_	_	_	_	_	_	B-LOC
+6	Srbije	_	_	_	_	_	_	_	_	I-LOC
+7	ne	_	_	_	_	_	_	_	_	O
+8	mogu	_	_	_	_	_	_	_	_	O
+9	ni	_	_	_	_	_	_	_	_	O
+10	da	_	_	_	_	_	_	_	_	O
+11	žive	_	_	_	_	_	_	_	_	O
+12	tamo	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+14	nego	_	_	_	_	_	_	_	_	O
+15	moraju	_	_	_	_	_	_	_	_	O
+16	da	_	_	_	_	_	_	_	_	O
+17	se	_	_	_	_	_	_	_	_	O
+18	prijave	_	_	_	_	_	_	_	_	O
+19	kao	_	_	_	_	_	_	_	_	O
+20	da	_	_	_	_	_	_	_	_	O
+21	su	_	_	_	_	_	_	_	_	O
+22	iz	_	_	_	_	_	_	_	_	O
+23	Madagaskara	_	_	_	_	_	_	_	_	B-LOC
+24	kad	_	_	_	_	_	_	_	_	O
+25	dolaze	_	_	_	_	_	_	_	_	O
+26	u	_	_	_	_	_	_	_	_	O
+27	svoju	_	_	_	_	_	_	_	_	O
+28	kuću	_	_	_	_	_	_	_	SpaceAfter=No	O
+29	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.5
+# text = Na to ova vlast ne reaguje.
+1	Na	_	_	_	_	_	_	_	_	O
+2	to	_	_	_	_	_	_	_	_	O
+3	ova	_	_	_	_	_	_	_	_	O
+4	vlast	_	_	_	_	_	_	_	_	O
+5	ne	_	_	_	_	_	_	_	_	O
+6	reaguje	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.6
+# text = Toga nema u vestima, to se ne dešava.
+1	Toga	_	_	_	_	_	_	_	_	O
+2	nema	_	_	_	_	_	_	_	_	O
+3	u	_	_	_	_	_	_	_	_	O
+4	vestima	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	to	_	_	_	_	_	_	_	_	O
+7	se	_	_	_	_	_	_	_	_	O
+8	ne	_	_	_	_	_	_	_	_	O
+9	dešava	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.7
+# text = Dešava se to šta će on da jede u Tokiju.
+1	Dešava	_	_	_	_	_	_	_	_	O
+2	se	_	_	_	_	_	_	_	_	O
+3	to	_	_	_	_	_	_	_	_	O
+4	šta	_	_	_	_	_	_	_	_	O
+5	će	_	_	_	_	_	_	_	_	O
+6	on	_	_	_	_	_	_	_	_	O
+7	da	_	_	_	_	_	_	_	_	O
+8	jede	_	_	_	_	_	_	_	_	O
+9	u	_	_	_	_	_	_	_	_	O
+10	Tokiju	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+11	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.8
+# text = To će da bude vest“, kazao je Ponoš.
+1	To	_	_	_	_	_	_	_	_	O
+2	će	_	_	_	_	_	_	_	_	O
+3	da	_	_	_	_	_	_	_	_	O
+4	bude	_	_	_	_	_	_	_	_	O
+5	vest	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	kazao	_	_	_	_	_	_	_	_	O
+9	je	_	_	_	_	_	_	_	_	O
+10	Ponoš	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
+11	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 3
+# sent_id = 3.1
+# text = Predsednik Srbija centra je istakao i da je Vučić požurio sa kadrovskom čistkom u policiji paralelno radeći još nešto.
+1	Predsednik	_	_	_	_	_	_	_	_	O
+2	Srbija	_	_	_	_	_	_	_	_	B-ORG
+3	centra	_	_	_	_	_	_	_	_	I-ORG
+4	je	_	_	_	_	_	_	_	_	O
+5	istakao	_	_	_	_	_	_	_	_	O
+6	i	_	_	_	_	_	_	_	_	O
+7	da	_	_	_	_	_	_	_	_	O
+8	je	_	_	_	_	_	_	_	_	O
+9	Vučić	_	_	_	_	_	_	_	_	B-PER
+10	požurio	_	_	_	_	_	_	_	_	O
+11	sa	_	_	_	_	_	_	_	_	O
+12	kadrovskom	_	_	_	_	_	_	_	_	O
+13	čistkom	_	_	_	_	_	_	_	_	O
+14	u	_	_	_	_	_	_	_	_	O
+15	policiji	_	_	_	_	_	_	_	_	B-ORG
+16	paralelno	_	_	_	_	_	_	_	_	O
+17	radeći	_	_	_	_	_	_	_	_	O
+18	još	_	_	_	_	_	_	_	_	O
+19	nešto	_	_	_	_	_	_	_	SpaceAfter=No	O
+20	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 4
+# sent_id = 4.1
+# text = „To ovih dana prolazi prilično nezapaženo, jer se dešava u jednom potpuno paralelnom svetu.
+1	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+2	To	_	_	_	_	_	_	_	_	O
+3	ovih	_	_	_	_	_	_	_	_	O
+4	dana	_	_	_	_	_	_	_	_	O
+5	prolazi	_	_	_	_	_	_	_	_	O
+6	prilično	_	_	_	_	_	_	_	_	O
+7	nezapaženo	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	jer	_	_	_	_	_	_	_	_	O
+10	se	_	_	_	_	_	_	_	_	O
+11	dešava	_	_	_	_	_	_	_	_	O
+12	u	_	_	_	_	_	_	_	_	O
+13	jednom	_	_	_	_	_	_	_	_	O
+14	potpuno	_	_	_	_	_	_	_	_	O
+15	paralelnom	_	_	_	_	_	_	_	_	O
+16	svetu	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 4.2
+# text = On radi utezanje podzemlja.
+1	On	_	_	_	_	_	_	_	_	O
+2	radi	_	_	_	_	_	_	_	_	O
+3	utezanje	_	_	_	_	_	_	_	_	O
+4	podzemlja	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 4.3
+# text = On se sprema za nešto.
+1	On	_	_	_	_	_	_	_	_	O
+2	se	_	_	_	_	_	_	_	_	O
+3	sprema	_	_	_	_	_	_	_	_	O
+4	za	_	_	_	_	_	_	_	_	O
+5	nešto	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 4.4
+# text = To nešto nisu izbori.
+1	To	_	_	_	_	_	_	_	_	O
+2	nešto	_	_	_	_	_	_	_	_	O
+3	nisu	_	_	_	_	_	_	_	_	O
+4	izbori	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 4.5
+# text = Kad se spremaš za izbore, ne radiš grupisanje podzemlja i dovođenje ubica u Beograd.
+1	Kad	_	_	_	_	_	_	_	_	O
+2	se	_	_	_	_	_	_	_	_	O
+3	spremaš	_	_	_	_	_	_	_	_	O
+4	za	_	_	_	_	_	_	_	_	O
+5	izbore	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	ne	_	_	_	_	_	_	_	_	O
+8	radiš	_	_	_	_	_	_	_	_	O
+9	grupisanje	_	_	_	_	_	_	_	_	O
+10	podzemlja	_	_	_	_	_	_	_	_	O
+11	i	_	_	_	_	_	_	_	_	O
+12	dovođenje	_	_	_	_	_	_	_	_	O
+13	ubica	_	_	_	_	_	_	_	_	O
+14	u	_	_	_	_	_	_	_	_	O
+15	Beograd	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+16	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 4.6
+# text = Ljudi vide turiranje tenkova i čuju buku aviona.
+1	Ljudi	_	_	_	_	_	_	_	_	O
+2	vide	_	_	_	_	_	_	_	_	O
+3	turiranje	_	_	_	_	_	_	_	_	O
+4	tenkova	_	_	_	_	_	_	_	_	O
+5	i	_	_	_	_	_	_	_	_	O
+6	čuju	_	_	_	_	_	_	_	_	O
+7	buku	_	_	_	_	_	_	_	_	O
+8	aviona	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 4.7
+# text = Iza toga dešavaju se mnogo ozbiljnije stvari.
+1	Iza	_	_	_	_	_	_	_	_	O
+2	toga	_	_	_	_	_	_	_	_	O
+3	dešavaju	_	_	_	_	_	_	_	_	O
+4	se	_	_	_	_	_	_	_	_	O
+5	mnogo	_	_	_	_	_	_	_	_	O
+6	ozbiljnije	_	_	_	_	_	_	_	_	O
+7	stvari	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 4.8
+# text = Mislim da svi treba da budemo jako pažljivi, da to ne prođe neprimećeno.
+1	Mislim	_	_	_	_	_	_	_	_	O
+2	da	_	_	_	_	_	_	_	_	O
+3	svi	_	_	_	_	_	_	_	_	O
+4	treba	_	_	_	_	_	_	_	_	O
+5	da	_	_	_	_	_	_	_	_	O
+6	budemo	_	_	_	_	_	_	_	_	O
+7	jako	_	_	_	_	_	_	_	_	O
+8	pažljivi	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	da	_	_	_	_	_	_	_	_	O
+11	to	_	_	_	_	_	_	_	_	O
+12	ne	_	_	_	_	_	_	_	_	O
+13	prođe	_	_	_	_	_	_	_	_	O
+14	neprimećeno	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 4.9
+# text = Izgleda da se Vučić sprema nešto da obeleži, možda ne godinu nego i nešto pre od godišnjice tragedije u Novom Sadu“, naglasio je Ponoš.
+1	Izgleda	_	_	_	_	_	_	_	_	O
+2	da	_	_	_	_	_	_	_	_	O
+3	se	_	_	_	_	_	_	_	_	O
+4	Vučić	_	_	_	_	_	_	_	_	B-PER
+5	sprema	_	_	_	_	_	_	_	_	O
+6	nešto	_	_	_	_	_	_	_	_	O
+7	da	_	_	_	_	_	_	_	_	O
+8	obeleži	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	možda	_	_	_	_	_	_	_	_	O
+11	ne	_	_	_	_	_	_	_	_	O
+12	godinu	_	_	_	_	_	_	_	_	O
+13	nego	_	_	_	_	_	_	_	_	O
+14	i	_	_	_	_	_	_	_	_	O
+15	nešto	_	_	_	_	_	_	_	_	O
+16	pre	_	_	_	_	_	_	_	_	O
+17	od	_	_	_	_	_	_	_	_	O
+18	godišnjice	_	_	_	_	_	_	_	_	O
+19	tragedije	_	_	_	_	_	_	_	_	O
+20	u	_	_	_	_	_	_	_	_	O
+21	Novom	_	_	_	_	_	_	_	_	B-LOC
+22	Sadu	_	_	_	_	_	_	_	SpaceAfter=No	I-LOC
+23	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+24	,	,	PUNCT	Z	_	_	_	_	_	O
+25	naglasio	_	_	_	_	_	_	_	_	O
+26	je	_	_	_	_	_	_	_	_	O
+27	Ponoš	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
+28	.	.	PUNCT	Z	_	_	_	_	_	O
+

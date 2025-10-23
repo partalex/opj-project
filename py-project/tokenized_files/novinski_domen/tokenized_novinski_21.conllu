@@ -1,0 +1,409 @@
+#name = ognjen
+#domen = novinski
+#url = https://rts.rs/magazin/kultura/nesto-drugo/5790953/sajam-savremene-umetnosti-bec-srpsko-poreklo.html
+# newpar id = 1
+# sent_id = 1.1
+# text = Ovog puta su se na Sajmu pojavile i institucije, kao aukcijska kuća Doroteum, novopostavljeni Muzej bečkog akcionizma (fluksus/neo-dada) ili Fakultet primenjenih umetnosti.
+1	Ovog	_	_	_	_	_	_	_	_	O
+2	puta	_	_	_	_	_	_	_	_	O
+3	su	_	_	_	_	_	_	_	_	O
+4	se	_	_	_	_	_	_	_	_	O
+5	na	_	_	_	_	_	_	_	_	O
+6	Sajmu	_	_	_	_	_	_	_	_	O
+7	pojavile	_	_	_	_	_	_	_	_	O
+8	i	_	_	_	_	_	_	_	_	O
+9	institucije	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	kao	_	_	_	_	_	_	_	_	O
+12	aukcijska	_	_	_	_	_	_	_	_	O
+13	kuća	_	_	_	_	_	_	_	_	O
+14	Doroteum	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	,	,	PUNCT	Z	_	_	_	_	_	O
+16	novopostavljeni	_	_	_	_	_	_	_	_	O
+17	Muzej	_	_	_	_	_	_	_	_	O
+18	bečkog	_	_	_	_	_	_	_	_	O
+19	akcionizma	_	_	_	_	_	_	_	_	O
+20	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+21	fluksus	_	_	_	_	_	_	_	SpaceAfter=No	O
+22	/	/	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+23	neo-dada	_	_	_	_	_	_	_	SpaceAfter=No	O
+24	)	)	PUNCT	Z	_	_	_	_	_	O
+25	ili	_	_	_	_	_	_	_	_	O
+26	Fakultet	_	_	_	_	_	_	_	_	O
+27	primenjenih	_	_	_	_	_	_	_	_	O
+28	umetnosti	_	_	_	_	_	_	_	SpaceAfter=No	O
+29	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 2
+# sent_id = 2.1
+# text = Kod ovog poslednjeg je za čitaoce RTS-a od interesa sudelovanje mlade umetnice iz Slovenije Maje Bojanić, rođene 1997. u Ljubljani.
+1	Kod	_	_	_	_	_	_	_	_	O
+2	ovog	_	_	_	_	_	_	_	_	O
+3	poslednjeg	_	_	_	_	_	_	_	_	O
+4	je	_	_	_	_	_	_	_	_	O
+5	za	_	_	_	_	_	_	_	_	O
+6	čitaoce	_	_	_	_	_	_	_	_	O
+7	RTS-a	_	_	_	_	_	_	_	_	O
+8	od	_	_	_	_	_	_	_	_	O
+9	interesa	_	_	_	_	_	_	_	_	O
+10	sudelovanje	_	_	_	_	_	_	_	_	O
+11	mlade	_	_	_	_	_	_	_	_	O
+12	umetnice	_	_	_	_	_	_	_	_	O
+13	iz	_	_	_	_	_	_	_	_	O
+14	Slovenije	_	_	_	_	_	_	_	_	O
+15	Maje	_	_	_	_	_	_	_	_	O
+16	Bojanić	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	,	,	PUNCT	Z	_	_	_	_	_	O
+18	rođene	_	_	_	_	_	_	_	_	O
+19	1997.	_	_	_	_	_	_	_	_	O
+20	u	_	_	_	_	_	_	_	_	O
+21	Ljubljani	_	_	_	_	_	_	_	SpaceAfter=No	O
+22	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.2
+# text = Njen diplomski rad je omaž staroj Jugoslaviji, video-spomenar posvećen njenoj prabaki, bosanskoj Srpkinji.
+1	Njen	_	_	_	_	_	_	_	_	O
+2	diplomski	_	_	_	_	_	_	_	_	O
+3	rad	_	_	_	_	_	_	_	_	O
+4	je	_	_	_	_	_	_	_	_	O
+5	omaž	_	_	_	_	_	_	_	_	O
+6	staroj	_	_	_	_	_	_	_	_	O
+7	Jugoslaviji	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	video-spomenar	_	_	_	_	_	_	_	_	O
+10	posvećen	_	_	_	_	_	_	_	_	O
+11	njenoj	_	_	_	_	_	_	_	_	O
+12	prabaki	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+14	bosanskoj	_	_	_	_	_	_	_	_	O
+15	Srpkinji	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 3
+# sent_id = 3.1
+# text = Instalacija snimana pod infracrvenim svetlom nosi naslov „Tvoj je svet u kome ja nisam pozvana“/Yours is the world in which I move uninvited.
+1	Instalacija	_	_	_	_	_	_	_	_	O
+2	snimana	_	_	_	_	_	_	_	_	O
+3	pod	_	_	_	_	_	_	_	_	O
+4	infracrvenim	_	_	_	_	_	_	_	_	O
+5	svetlom	_	_	_	_	_	_	_	_	O
+6	nosi	_	_	_	_	_	_	_	_	O
+7	naslov	_	_	_	_	_	_	_	_	O
+8	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+9	Tvoj	_	_	_	_	_	_	_	_	O
+10	je	_	_	_	_	_	_	_	_	O
+11	svet	_	_	_	_	_	_	_	_	O
+12	u	_	_	_	_	_	_	_	_	O
+13	kome	_	_	_	_	_	_	_	_	O
+14	ja	_	_	_	_	_	_	_	_	O
+15	nisam	_	_	_	_	_	_	_	_	O
+16	pozvana	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+18	/	/	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+19	Yours	_	_	_	_	_	_	_	_	O
+20	is	_	_	_	_	_	_	_	_	O
+21	the	_	_	_	_	_	_	_	_	O
+22	world	_	_	_	_	_	_	_	_	O
+23	in	_	_	_	_	_	_	_	_	O
+24	which	_	_	_	_	_	_	_	_	O
+25	I	_	_	_	_	_	_	_	_	O
+26	move	_	_	_	_	_	_	_	_	O
+27	uninvited	_	_	_	_	_	_	_	SpaceAfter=No	O
+28	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 4
+# sent_id = 4.1
+# text = Sudbinu Majine prabake dele hiljade ljudi iz Srbije, Bosne i drugih krajeva nekadašnje Jugoslavije, koji su krajem osamdesetih i početkom devedesetih živeli u Sloveniji.
+1	Sudbinu	_	_	_	_	_	_	_	_	O
+2	Majine	_	_	_	_	_	_	_	_	O
+3	prabake	_	_	_	_	_	_	_	_	O
+4	dele	_	_	_	_	_	_	_	_	O
+5	hiljade	_	_	_	_	_	_	_	_	O
+6	ljudi	_	_	_	_	_	_	_	_	O
+7	iz	_	_	_	_	_	_	_	_	O
+8	Srbije	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	Bosne	_	_	_	_	_	_	_	_	O
+11	i	_	_	_	_	_	_	_	_	O
+12	drugih	_	_	_	_	_	_	_	_	O
+13	krajeva	_	_	_	_	_	_	_	_	O
+14	nekadašnje	_	_	_	_	_	_	_	_	O
+15	Jugoslavije	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	,	,	PUNCT	Z	_	_	_	_	_	O
+17	koji	_	_	_	_	_	_	_	_	O
+18	su	_	_	_	_	_	_	_	_	O
+19	krajem	_	_	_	_	_	_	_	_	O
+20	osamdesetih	_	_	_	_	_	_	_	_	O
+21	i	_	_	_	_	_	_	_	_	O
+22	početkom	_	_	_	_	_	_	_	_	O
+23	devedesetih	_	_	_	_	_	_	_	_	O
+24	živeli	_	_	_	_	_	_	_	_	O
+25	u	_	_	_	_	_	_	_	_	O
+26	Sloveniji	_	_	_	_	_	_	_	SpaceAfter=No	O
+27	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 5
+# sent_id = 5.1
+# text = Opšta priča je poznata, s tim da se Bojanićeva sada fokusira na jednu porodičnu epizodu.
+1	Opšta	_	_	_	_	_	_	_	_	O
+2	priča	_	_	_	_	_	_	_	_	O
+3	je	_	_	_	_	_	_	_	_	O
+4	poznata	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	s	_	_	_	_	_	_	_	_	O
+7	tim	_	_	_	_	_	_	_	_	O
+8	da	_	_	_	_	_	_	_	_	O
+9	se	_	_	_	_	_	_	_	_	O
+10	Bojanićeva	_	_	_	_	_	_	_	_	O
+11	sada	_	_	_	_	_	_	_	_	O
+12	fokusira	_	_	_	_	_	_	_	_	O
+13	na	_	_	_	_	_	_	_	_	O
+14	jednu	_	_	_	_	_	_	_	_	O
+15	porodičnu	_	_	_	_	_	_	_	_	O
+16	epizodu	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 5.2
+# text = Da bi lakše dobili pristanak građana za samostalnost 1991, vlasti u Ljubljani su obećale da će svima koji su se tu zatekli, bez obzira gde su rođeni, biti garantovano slovenačko državljanstvo.
+1	Da	_	_	_	_	_	_	_	_	O
+2	bi	_	_	_	_	_	_	_	_	O
+3	lakše	_	_	_	_	_	_	_	_	O
+4	dobili	_	_	_	_	_	_	_	_	O
+5	pristanak	_	_	_	_	_	_	_	_	O
+6	građana	_	_	_	_	_	_	_	_	O
+7	za	_	_	_	_	_	_	_	_	O
+8	samostalnost	_	_	_	_	_	_	_	_	O
+9	1991	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	vlasti	_	_	_	_	_	_	_	_	O
+12	u	_	_	_	_	_	_	_	_	O
+13	Ljubljani	_	_	_	_	_	_	_	_	O
+14	su	_	_	_	_	_	_	_	_	O
+15	obećale	_	_	_	_	_	_	_	_	O
+16	da	_	_	_	_	_	_	_	_	O
+17	će	_	_	_	_	_	_	_	_	O
+18	svima	_	_	_	_	_	_	_	_	O
+19	koji	_	_	_	_	_	_	_	_	O
+20	su	_	_	_	_	_	_	_	_	O
+21	se	_	_	_	_	_	_	_	_	O
+22	tu	_	_	_	_	_	_	_	_	O
+23	zatekli	_	_	_	_	_	_	_	SpaceAfter=No	O
+24	,	,	PUNCT	Z	_	_	_	_	_	O
+25	bez	_	_	_	_	_	_	_	_	O
+26	obzira	_	_	_	_	_	_	_	_	O
+27	gde	_	_	_	_	_	_	_	_	O
+28	su	_	_	_	_	_	_	_	_	O
+29	rođeni	_	_	_	_	_	_	_	SpaceAfter=No	O
+30	,	,	PUNCT	Z	_	_	_	_	_	O
+31	biti	_	_	_	_	_	_	_	_	O
+32	garantovano	_	_	_	_	_	_	_	_	O
+33	slovenačko	_	_	_	_	_	_	_	_	O
+34	državljanstvo	_	_	_	_	_	_	_	SpaceAfter=No	O
+35	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 6
+# sent_id = 6.1
+# text = U takvim situacijama se u evropskim javnostima često postavi pitanje, koliko dobronamerno, toliko ignorantsko, „pa šta su radili u Sloveniji?
+1	U	_	_	_	_	_	_	_	_	O
+2	takvim	_	_	_	_	_	_	_	_	O
+3	situacijama	_	_	_	_	_	_	_	_	O
+4	se	_	_	_	_	_	_	_	_	O
+5	u	_	_	_	_	_	_	_	_	O
+6	evropskim	_	_	_	_	_	_	_	_	O
+7	javnostima	_	_	_	_	_	_	_	_	O
+8	često	_	_	_	_	_	_	_	_	O
+9	postavi	_	_	_	_	_	_	_	_	O
+10	pitanje	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	koliko	_	_	_	_	_	_	_	_	O
+13	dobronamerno	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	,	,	PUNCT	Z	_	_	_	_	_	O
+15	toliko	_	_	_	_	_	_	_	_	O
+16	ignorantsko	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	,	,	PUNCT	Z	_	_	_	_	_	O
+18	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+19	pa	_	_	_	_	_	_	_	_	O
+20	šta	_	_	_	_	_	_	_	_	O
+21	su	_	_	_	_	_	_	_	_	O
+22	radili	_	_	_	_	_	_	_	_	O
+23	u	_	_	_	_	_	_	_	_	O
+24	Sloveniji	_	_	_	_	_	_	_	SpaceAfter=No	O
+25	?	?	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+
+# sent_id = 6.2
+# text = “.
+1	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+2	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 6.3
+# text = Odgovor da je to bila jedna država, da su ljudi išli za poslom i profesijom, da su zasnivali porodice i nastanjivali se na čitavoj teritoriji, često dođe kao iznenađenje.
+1	Odgovor	_	_	_	_	_	_	_	_	O
+2	da	_	_	_	_	_	_	_	_	O
+3	je	_	_	_	_	_	_	_	_	O
+4	to	_	_	_	_	_	_	_	_	O
+5	bila	_	_	_	_	_	_	_	_	O
+6	jedna	_	_	_	_	_	_	_	_	O
+7	država	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	da	_	_	_	_	_	_	_	_	O
+10	su	_	_	_	_	_	_	_	_	O
+11	ljudi	_	_	_	_	_	_	_	_	O
+12	išli	_	_	_	_	_	_	_	_	O
+13	za	_	_	_	_	_	_	_	_	O
+14	poslom	_	_	_	_	_	_	_	_	O
+15	i	_	_	_	_	_	_	_	_	O
+16	profesijom	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	,	,	PUNCT	Z	_	_	_	_	_	O
+18	da	_	_	_	_	_	_	_	_	O
+19	su	_	_	_	_	_	_	_	_	O
+20	zasnivali	_	_	_	_	_	_	_	_	O
+21	porodice	_	_	_	_	_	_	_	_	O
+22	i	_	_	_	_	_	_	_	_	O
+23	nastanjivali	_	_	_	_	_	_	_	_	O
+24	se	_	_	_	_	_	_	_	_	O
+25	na	_	_	_	_	_	_	_	_	O
+26	čitavoj	_	_	_	_	_	_	_	_	O
+27	teritoriji	_	_	_	_	_	_	_	SpaceAfter=No	O
+28	,	,	PUNCT	Z	_	_	_	_	_	O
+29	često	_	_	_	_	_	_	_	_	O
+30	dođe	_	_	_	_	_	_	_	_	O
+31	kao	_	_	_	_	_	_	_	_	O
+32	iznenađenje	_	_	_	_	_	_	_	SpaceAfter=No	O
+33	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 7
+# sent_id = 7.1
+# text = Tada, 1991. godine, iz vizure novih vlasti prioritet je bio da se građani umire kako državna tranzicija neće menjati njihov status.
+1	Tada	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	1991.	_	_	_	_	_	_	_	_	O
+4	godine	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	iz	_	_	_	_	_	_	_	_	O
+7	vizure	_	_	_	_	_	_	_	_	O
+8	novih	_	_	_	_	_	_	_	_	O
+9	vlasti	_	_	_	_	_	_	_	_	O
+10	prioritet	_	_	_	_	_	_	_	_	O
+11	je	_	_	_	_	_	_	_	_	O
+12	bio	_	_	_	_	_	_	_	_	O
+13	da	_	_	_	_	_	_	_	_	O
+14	se	_	_	_	_	_	_	_	_	O
+15	građani	_	_	_	_	_	_	_	_	O
+16	umire	_	_	_	_	_	_	_	_	O
+17	kako	_	_	_	_	_	_	_	_	O
+18	državna	_	_	_	_	_	_	_	_	O
+19	tranzicija	_	_	_	_	_	_	_	_	O
+20	neće	_	_	_	_	_	_	_	_	O
+21	menjati	_	_	_	_	_	_	_	_	O
+22	njihov	_	_	_	_	_	_	_	_	O
+23	status	_	_	_	_	_	_	_	SpaceAfter=No	O
+24	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 7.2
+# text = Posle postizanja samostalnosti, odjednom je bila druga priča.
+1	Posle	_	_	_	_	_	_	_	_	O
+2	postizanja	_	_	_	_	_	_	_	_	O
+3	samostalnosti	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	odjednom	_	_	_	_	_	_	_	_	O
+6	je	_	_	_	_	_	_	_	_	O
+7	bila	_	_	_	_	_	_	_	_	O
+8	druga	_	_	_	_	_	_	_	_	O
+9	priča	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 7.3
+# text = Hiljade ljudi iz drugih krajeva nestale Jugoslavije su preko noći izgubili službenu egzistenciju.
+1	Hiljade	_	_	_	_	_	_	_	_	O
+2	ljudi	_	_	_	_	_	_	_	_	O
+3	iz	_	_	_	_	_	_	_	_	O
+4	drugih	_	_	_	_	_	_	_	_	O
+5	krajeva	_	_	_	_	_	_	_	_	O
+6	nestale	_	_	_	_	_	_	_	_	O
+7	Jugoslavije	_	_	_	_	_	_	_	_	O
+8	su	_	_	_	_	_	_	_	_	O
+9	preko	_	_	_	_	_	_	_	_	O
+10	noći	_	_	_	_	_	_	_	_	O
+11	izgubili	_	_	_	_	_	_	_	_	O
+12	službenu	_	_	_	_	_	_	_	_	O
+13	egzistenciju	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 8
+# sent_id = 8.1
+# text = Postali su ljudi bez pasoša, bez državljanstva, bez identiteta, bez zapisa u službenim registrima.
+1	Postali	_	_	_	_	_	_	_	_	O
+2	su	_	_	_	_	_	_	_	_	O
+3	ljudi	_	_	_	_	_	_	_	_	O
+4	bez	_	_	_	_	_	_	_	_	O
+5	pasoša	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	bez	_	_	_	_	_	_	_	_	O
+8	državljanstva	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	bez	_	_	_	_	_	_	_	_	O
+11	identiteta	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	bez	_	_	_	_	_	_	_	_	O
+14	zapisa	_	_	_	_	_	_	_	_	O
+15	u	_	_	_	_	_	_	_	_	O
+16	službenim	_	_	_	_	_	_	_	_	O
+17	registrima	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 8.2
+# text = Takva sudbina je zadesila i neke članove Majine porodice.
+1	Takva	_	_	_	_	_	_	_	_	O
+2	sudbina	_	_	_	_	_	_	_	_	O
+3	je	_	_	_	_	_	_	_	_	O
+4	zadesila	_	_	_	_	_	_	_	_	O
+5	i	_	_	_	_	_	_	_	_	O
+6	neke	_	_	_	_	_	_	_	_	O
+7	članove	_	_	_	_	_	_	_	_	O
+8	Majine	_	_	_	_	_	_	_	_	O
+9	porodice	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 8.3
+# text = Sada je ona napravila diplomski rad u Beču i podigla ga kao spomenik prabaki „koja je dva puta prestala da postoji, jednom kad je izgubila građanska prava, drugi put kad je umrla“, kaže Bojanićeva.
+1	Sada	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	ona	_	_	_	_	_	_	_	_	O
+4	napravila	_	_	_	_	_	_	_	_	O
+5	diplomski	_	_	_	_	_	_	_	_	O
+6	rad	_	_	_	_	_	_	_	_	O
+7	u	_	_	_	_	_	_	_	_	O
+8	Beču	_	_	_	_	_	_	_	_	O
+9	i	_	_	_	_	_	_	_	_	O
+10	podigla	_	_	_	_	_	_	_	_	O
+11	ga	_	_	_	_	_	_	_	_	O
+12	kao	_	_	_	_	_	_	_	_	O
+13	spomenik	_	_	_	_	_	_	_	_	O
+14	prabaki	_	_	_	_	_	_	_	_	O
+15	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+16	koja	_	_	_	_	_	_	_	_	O
+17	je	_	_	_	_	_	_	_	_	O
+18	dva	_	_	_	_	_	_	_	_	O
+19	puta	_	_	_	_	_	_	_	_	O
+20	prestala	_	_	_	_	_	_	_	_	O
+21	da	_	_	_	_	_	_	_	_	O
+22	postoji	_	_	_	_	_	_	_	SpaceAfter=No	O
+23	,	,	PUNCT	Z	_	_	_	_	_	O
+24	jednom	_	_	_	_	_	_	_	_	O
+25	kad	_	_	_	_	_	_	_	_	O
+26	je	_	_	_	_	_	_	_	_	O
+27	izgubila	_	_	_	_	_	_	_	_	O
+28	građanska	_	_	_	_	_	_	_	_	O
+29	prava	_	_	_	_	_	_	_	SpaceAfter=No	O
+30	,	,	PUNCT	Z	_	_	_	_	_	O
+31	drugi	_	_	_	_	_	_	_	_	O
+32	put	_	_	_	_	_	_	_	_	O
+33	kad	_	_	_	_	_	_	_	_	O
+34	je	_	_	_	_	_	_	_	_	O
+35	umrla	_	_	_	_	_	_	_	SpaceAfter=No	O
+36	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+37	,	,	PUNCT	Z	_	_	_	_	_	O
+38	kaže	_	_	_	_	_	_	_	_	O
+39	Bojanićeva	_	_	_	_	_	_	_	SpaceAfter=No	O
+40	.	.	PUNCT	Z	_	_	_	_	_	O
+

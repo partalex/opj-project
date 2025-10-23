@@ -1,0 +1,85 @@
+#name = marija
+#domen = tviter
+#url = https://x.com/Robertdreco/status/1970396217780982243
+# newpar id = 1
+# sent_id = 1.1
+# text = Na današnji dan 1987. - U Beogradu je održana 8. sednica Centralnog komiteta Saveza komunista Srbije, na kojoj je došlo do prekretnice u idelogiji i politici srpskih komunista.
+1	Na	_	_	_	_	_	_	_	_	O
+2	današnji	_	_	_	_	_	_	_	_	O
+3	dan	_	_	_	_	_	_	_	_	O
+4	1987.	_	_	_	_	_	_	_	_	O
+5	-	-	PUNCT	Z	_	_	_	_	_	O
+6	U	_	_	_	_	_	_	_	_	O
+7	Beogradu	_	_	_	_	_	_	_	_	O
+8	je	_	_	_	_	_	_	_	_	O
+9	održana	_	_	_	_	_	_	_	_	O
+10	8.	_	_	_	_	_	_	_	_	O
+11	sednica	_	_	_	_	_	_	_	_	O
+12	Centralnog	_	_	_	_	_	_	_	_	O
+13	komiteta	_	_	_	_	_	_	_	_	O
+14	Saveza	_	_	_	_	_	_	_	_	O
+15	komunista	_	_	_	_	_	_	_	_	O
+16	Srbije	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	,	,	PUNCT	Z	_	_	_	_	_	O
+18	na	_	_	_	_	_	_	_	_	O
+19	kojoj	_	_	_	_	_	_	_	_	O
+20	je	_	_	_	_	_	_	_	_	O
+21	došlo	_	_	_	_	_	_	_	_	O
+22	do	_	_	_	_	_	_	_	_	O
+23	prekretnice	_	_	_	_	_	_	_	_	O
+24	u	_	_	_	_	_	_	_	_	O
+25	idelogiji	_	_	_	_	_	_	_	_	O
+26	i	_	_	_	_	_	_	_	_	O
+27	politici	_	_	_	_	_	_	_	_	O
+28	srpskih	_	_	_	_	_	_	_	_	O
+29	komunista	_	_	_	_	_	_	_	SpaceAfter=No	O
+30	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.2
+# text = U sukobu dve frakcije pobedila je tvrda struja tadašnjeg predsednika CK SK Srbije Slobodana Miloševića, nad umerenom politikom predsednika Predsedništva Srbije Ivana Stambolića.
+1	U	_	_	_	_	_	_	_	_	O
+2	sukobu	_	_	_	_	_	_	_	_	O
+3	dve	_	_	_	_	_	_	_	_	O
+4	frakcije	_	_	_	_	_	_	_	_	O
+5	pobedila	_	_	_	_	_	_	_	_	O
+6	je	_	_	_	_	_	_	_	_	O
+7	tvrda	_	_	_	_	_	_	_	_	O
+8	struja	_	_	_	_	_	_	_	_	O
+9	tadašnjeg	_	_	_	_	_	_	_	_	O
+10	predsednika	_	_	_	_	_	_	_	_	O
+11	CK	_	_	_	_	_	_	_	_	O
+12	SK	_	_	_	_	_	_	_	_	O
+13	Srbije	_	_	_	_	_	_	_	_	O
+14	Slobodana	_	_	_	_	_	_	_	_	O
+15	Miloševića	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	,	,	PUNCT	Z	_	_	_	_	_	O
+17	nad	_	_	_	_	_	_	_	_	O
+18	umerenom	_	_	_	_	_	_	_	_	O
+19	politikom	_	_	_	_	_	_	_	_	O
+20	predsednika	_	_	_	_	_	_	_	_	O
+21	Predsedništva	_	_	_	_	_	_	_	_	O
+22	Srbije	_	_	_	_	_	_	_	_	O
+23	Ivana	_	_	_	_	_	_	_	_	O
+24	Stambolića	_	_	_	_	_	_	_	SpaceAfter=No	O
+25	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.3
+# text = Milošević je potom izvršio čistke u partiji i medijima i obezbedio osnov za svoju nacionalističku politiku.
+1	Milošević	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	potom	_	_	_	_	_	_	_	_	O
+4	izvršio	_	_	_	_	_	_	_	_	O
+5	čistke	_	_	_	_	_	_	_	_	O
+6	u	_	_	_	_	_	_	_	_	O
+7	partiji	_	_	_	_	_	_	_	_	O
+8	i	_	_	_	_	_	_	_	_	O
+9	medijima	_	_	_	_	_	_	_	_	O
+10	i	_	_	_	_	_	_	_	_	O
+11	obezbedio	_	_	_	_	_	_	_	_	O
+12	osnov	_	_	_	_	_	_	_	_	O
+13	za	_	_	_	_	_	_	_	_	O
+14	svoju	_	_	_	_	_	_	_	_	O
+15	nacionalističku	_	_	_	_	_	_	_	_	O
+16	politiku	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	.	.	PUNCT	Z	_	_	_	_	_	O
+

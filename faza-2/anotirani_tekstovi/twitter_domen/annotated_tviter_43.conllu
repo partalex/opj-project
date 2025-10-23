@@ -1,0 +1,21 @@
+#name = teodora
+#domen = tviter
+#url = https://x.com/darkoman12345/status/1973691836427391147
+# newpar id = 1
+# sent_id = 1.1
+# text = Hej FLU imamo još jednog našeg državljanina u Gazi ne znam jel ste čuli
+1	Hej	_	_	_	_	_	_	_	_	O
+2	FLU	_	_	_	_	_	_	_	_	B-ORG
+3	imamo	_	_	_	_	_	_	_	_	O
+4	još	_	_	_	_	_	_	_	_	O
+5	jednog	_	_	_	_	_	_	_	_	O
+6	našeg	_	_	_	_	_	_	_	_	O
+7	državljanina	_	_	_	_	_	_	_	_	O
+8	u	_	_	_	_	_	_	_	_	O
+9	Gazi	_	_	_	_	_	_	_	_	B-LOC
+10	ne	_	_	_	_	_	_	_	_	O
+11	znam	_	_	_	_	_	_	_	_	O
+12	jel	_	_	_	_	_	_	_	_	O
+13	ste	_	_	_	_	_	_	_	_	O
+14	čuli	_	_	_	_	_	_	_	_	O
+

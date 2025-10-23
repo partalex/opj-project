@@ -1,0 +1,26 @@
+#name = teodora
+#domen = tviter
+#url = ps://x.com/PatogeniP/status/1973737427287367946
+# newpar id = 1
+# sent_id = 1.1
+# text = Jusin sin, i predsednik opštine Čukarica, Nikola Atritonović, uručuju nagrade.
+1	Jusin	_	_	_	_	_	_	_	_	B-PER
+2	sin	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	i	_	_	_	_	_	_	_	_	O
+5	predsednik	_	_	_	_	_	_	_	_	O
+6	opštine	_	_	_	_	_	_	_	_	O
+7	Čukarica	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	Nikola	_	_	_	_	_	_	_	_	B-PER
+10	Atritonović	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	uručuju	_	_	_	_	_	_	_	_	O
+13	nagrade	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.2
+# text = Kolumbija.
+1	Kolumbija	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+2	.	.	PUNCT	Z	_	_	_	_	_	O
+

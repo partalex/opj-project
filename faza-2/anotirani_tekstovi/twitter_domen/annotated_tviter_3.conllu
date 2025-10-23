@@ -1,0 +1,510 @@
+#name = milena
+#domen = tviter
+#url = https://x.com/BorisTadic58/status/1959683922968596691
+# newpar id = 1
+# sent_id = 1.1
+# text = U emisiji na N1 u Hrvatskoj za nacionalizam me je optužio Picula - čovek koji je obeležio “Oluju”, u kojoj su ljudi prognani i ubijeni, objavljivanjem slike sa puškomitraljezom.
+1	U	_	_	_	_	_	_	_	_	O
+2	emisiji	_	_	_	_	_	_	_	_	O
+3	na	_	_	_	_	_	_	_	_	O
+4	N1	_	_	_	_	_	_	_	_	B-ORG
+5	u	_	_	_	_	_	_	_	_	O
+6	Hrvatskoj	_	_	_	_	_	_	_	_	B-LOC
+7	za	_	_	_	_	_	_	_	_	O
+8	nacionalizam	_	_	_	_	_	_	_	_	O
+9	me	_	_	_	_	_	_	_	_	O
+10	je	_	_	_	_	_	_	_	_	O
+11	optužio	_	_	_	_	_	_	_	_	O
+12	Picula	_	_	_	_	_	_	_	_	B-PER
+13	-	-	PUNCT	Z	_	_	_	_	_	O
+14	čovek	_	_	_	_	_	_	_	_	O
+15	koji	_	_	_	_	_	_	_	_	O
+16	je	_	_	_	_	_	_	_	_	O
+17	obeležio	_	_	_	_	_	_	_	_	O
+18	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+19	Oluju	_	_	_	_	_	_	_	SpaceAfter=No	O
+20	”	”	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+21	,	,	PUNCT	Z	_	_	_	_	_	O
+22	u	_	_	_	_	_	_	_	_	O
+23	kojoj	_	_	_	_	_	_	_	_	O
+24	su	_	_	_	_	_	_	_	_	O
+25	ljudi	_	_	_	_	_	_	_	_	O
+26	prognani	_	_	_	_	_	_	_	_	O
+27	i	_	_	_	_	_	_	_	_	O
+28	ubijeni	_	_	_	_	_	_	_	SpaceAfter=No	O
+29	,	,	PUNCT	Z	_	_	_	_	_	O
+30	objavljivanjem	_	_	_	_	_	_	_	_	O
+31	slike	_	_	_	_	_	_	_	_	O
+32	sa	_	_	_	_	_	_	_	_	O
+33	puškomitraljezom	_	_	_	_	_	_	_	SpaceAfter=No	O
+34	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.2
+# text = I to bi bilo samo komično, da on i dalje ne obavlja funkciju koju obavlja.
+1	I	_	_	_	_	_	_	_	_	O
+2	to	_	_	_	_	_	_	_	_	O
+3	bi	_	_	_	_	_	_	_	_	O
+4	bilo	_	_	_	_	_	_	_	_	O
+5	samo	_	_	_	_	_	_	_	_	O
+6	komično	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	da	_	_	_	_	_	_	_	_	O
+9	on	_	_	_	_	_	_	_	_	O
+10	i	_	_	_	_	_	_	_	_	O
+11	dalje	_	_	_	_	_	_	_	_	O
+12	ne	_	_	_	_	_	_	_	_	O
+13	obavlja	_	_	_	_	_	_	_	_	O
+14	funkciju	_	_	_	_	_	_	_	_	O
+15	koju	_	_	_	_	_	_	_	_	O
+16	obavlja	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.3
+# text = Ovako je i tragično.
+1	Ovako	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	i	_	_	_	_	_	_	_	_	O
+4	tragično	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.4
+# text = Ne samo za našu zemlju i region, već i za EU.
+1	Ne	_	_	_	_	_	_	_	_	O
+2	samo	_	_	_	_	_	_	_	_	O
+3	za	_	_	_	_	_	_	_	_	O
+4	našu	_	_	_	_	_	_	_	_	O
+5	zemlju	_	_	_	_	_	_	_	_	O
+6	i	_	_	_	_	_	_	_	_	O
+7	region	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	već	_	_	_	_	_	_	_	_	O
+10	i	_	_	_	_	_	_	_	_	O
+11	za	_	_	_	_	_	_	_	_	O
+12	EU	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
+13	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 2
+# sent_id = 2.1
+# text = U istom gostovanju, samouvereno i samodopaljivo je baljezgao i neke bestijalne laži o vezi mog oca i memoranduma SANU.
+1	U	_	_	_	_	_	_	_	_	O
+2	istom	_	_	_	_	_	_	_	_	O
+3	gostovanju	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	samouvereno	_	_	_	_	_	_	_	_	O
+6	i	_	_	_	_	_	_	_	_	O
+7	samodopaljivo	_	_	_	_	_	_	_	_	O
+8	je	_	_	_	_	_	_	_	_	O
+9	baljezgao	_	_	_	_	_	_	_	_	O
+10	i	_	_	_	_	_	_	_	_	O
+11	neke	_	_	_	_	_	_	_	_	O
+12	bestijalne	_	_	_	_	_	_	_	_	O
+13	laži	_	_	_	_	_	_	_	_	O
+14	o	_	_	_	_	_	_	_	_	O
+15	vezi	_	_	_	_	_	_	_	_	O
+16	mog	_	_	_	_	_	_	_	_	O
+17	oca	_	_	_	_	_	_	_	_	O
+18	i	_	_	_	_	_	_	_	_	O
+19	memoranduma	_	_	_	_	_	_	_	_	O
+20	SANU	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
+21	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.2
+# text = Izmudrovao je i kako sam ja, kao nacionalista, otvorio i vrata i prozore Vučiću, ponavljajući tu izlizanu laž i stereotip" belih listića" - propagandu koja je ključno uticala na Vučićev dolazak na vlast i održavala ga na vlasti.
+1	Izmudrovao	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	i	_	_	_	_	_	_	_	_	O
+4	kako	_	_	_	_	_	_	_	_	O
+5	sam	_	_	_	_	_	_	_	_	O
+6	ja	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	kao	_	_	_	_	_	_	_	_	O
+9	nacionalista	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	otvorio	_	_	_	_	_	_	_	_	O
+12	i	_	_	_	_	_	_	_	_	O
+13	vrata	_	_	_	_	_	_	_	_	O
+14	i	_	_	_	_	_	_	_	_	O
+15	prozore	_	_	_	_	_	_	_	_	O
+16	Vučiću	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
+17	,	,	PUNCT	Z	_	_	_	_	_	O
+18	ponavljajući	_	_	_	_	_	_	_	_	O
+19	tu	_	_	_	_	_	_	_	_	O
+20	izlizanu	_	_	_	_	_	_	_	_	O
+21	laž	_	_	_	_	_	_	_	_	O
+22	i	_	_	_	_	_	_	_	_	O
+23	stereotip	_	_	_	_	_	_	_	SpaceAfter=No	O
+24	"	"	PUNCT	Z	_	_	_	_	_	O
+25	belih	_	_	_	_	_	_	_	_	O
+26	listića	_	_	_	_	_	_	_	SpaceAfter=No	O
+27	"	"	PUNCT	Z	_	_	_	_	_	O
+28	-	-	PUNCT	Z	_	_	_	_	_	O
+29	propagandu	_	_	_	_	_	_	_	_	O
+30	koja	_	_	_	_	_	_	_	_	O
+31	je	_	_	_	_	_	_	_	_	O
+32	ključno	_	_	_	_	_	_	_	_	O
+33	uticala	_	_	_	_	_	_	_	_	O
+34	na	_	_	_	_	_	_	_	_	O
+35	Vučićev	_	_	_	_	_	_	_	_	B-PER
+36	dolazak	_	_	_	_	_	_	_	_	O
+37	na	_	_	_	_	_	_	_	_	O
+38	vlast	_	_	_	_	_	_	_	_	O
+39	i	_	_	_	_	_	_	_	_	O
+40	održavala	_	_	_	_	_	_	_	_	O
+41	ga	_	_	_	_	_	_	_	_	O
+42	na	_	_	_	_	_	_	_	_	O
+43	vlasti	_	_	_	_	_	_	_	SpaceAfter=No	O
+44	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.3
+# text = Tragično je da EU predstavlja čovek koji ne samo da pokazuje elementarno neznanje, nego i spremnost da u javni prostor iznosi laži i otrcanu propagandu.
+1	Tragično	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	da	_	_	_	_	_	_	_	_	O
+4	EU	_	_	_	_	_	_	_	_	B-ORG
+5	predstavlja	_	_	_	_	_	_	_	_	O
+6	čovek	_	_	_	_	_	_	_	_	O
+7	koji	_	_	_	_	_	_	_	_	O
+8	ne	_	_	_	_	_	_	_	_	O
+9	samo	_	_	_	_	_	_	_	_	O
+10	da	_	_	_	_	_	_	_	_	O
+11	pokazuje	_	_	_	_	_	_	_	_	O
+12	elementarno	_	_	_	_	_	_	_	_	O
+13	neznanje	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	,	,	PUNCT	Z	_	_	_	_	_	O
+15	nego	_	_	_	_	_	_	_	_	O
+16	i	_	_	_	_	_	_	_	_	O
+17	spremnost	_	_	_	_	_	_	_	_	O
+18	da	_	_	_	_	_	_	_	_	O
+19	u	_	_	_	_	_	_	_	_	O
+20	javni	_	_	_	_	_	_	_	_	O
+21	prostor	_	_	_	_	_	_	_	_	O
+22	iznosi	_	_	_	_	_	_	_	_	O
+23	laži	_	_	_	_	_	_	_	_	O
+24	i	_	_	_	_	_	_	_	_	O
+25	otrcanu	_	_	_	_	_	_	_	_	O
+26	propagandu	_	_	_	_	_	_	_	SpaceAfter=No	O
+27	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 3
+# sent_id = 3.1
+# text = Dakle, nakon što nam je puškomitraljezom pokazao vrednosti iza kojih stoji, sada je pokazao da su među tim vrednostima i laži i lupetanja.
+1	Dakle	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	nakon	_	_	_	_	_	_	_	_	O
+4	što	_	_	_	_	_	_	_	_	O
+5	nam	_	_	_	_	_	_	_	_	O
+6	je	_	_	_	_	_	_	_	_	O
+7	puškomitraljezom	_	_	_	_	_	_	_	_	O
+8	pokazao	_	_	_	_	_	_	_	_	O
+9	vrednosti	_	_	_	_	_	_	_	_	O
+10	iza	_	_	_	_	_	_	_	_	O
+11	kojih	_	_	_	_	_	_	_	_	O
+12	stoji	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+14	sada	_	_	_	_	_	_	_	_	O
+15	je	_	_	_	_	_	_	_	_	O
+16	pokazao	_	_	_	_	_	_	_	_	O
+17	da	_	_	_	_	_	_	_	_	O
+18	su	_	_	_	_	_	_	_	_	O
+19	među	_	_	_	_	_	_	_	_	O
+20	tim	_	_	_	_	_	_	_	_	O
+21	vrednostima	_	_	_	_	_	_	_	_	O
+22	i	_	_	_	_	_	_	_	_	O
+23	laži	_	_	_	_	_	_	_	_	O
+24	i	_	_	_	_	_	_	_	_	O
+25	lupetanja	_	_	_	_	_	_	_	SpaceAfter=No	O
+26	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 3.2
+# text = Ukoliko je u pitanju samo neznanje, trebalo bi neko da ga obavesti o ulozi tih belolistićkih gluposti, koje iznosi, u ustoličenju Vučića.
+1	Ukoliko	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	u	_	_	_	_	_	_	_	_	O
+4	pitanju	_	_	_	_	_	_	_	_	O
+5	samo	_	_	_	_	_	_	_	_	O
+6	neznanje	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	trebalo	_	_	_	_	_	_	_	_	O
+9	bi	_	_	_	_	_	_	_	_	O
+10	neko	_	_	_	_	_	_	_	_	O
+11	da	_	_	_	_	_	_	_	_	O
+12	ga	_	_	_	_	_	_	_	_	O
+13	obavesti	_	_	_	_	_	_	_	_	O
+14	o	_	_	_	_	_	_	_	_	O
+15	ulozi	_	_	_	_	_	_	_	_	O
+16	tih	_	_	_	_	_	_	_	_	O
+17	belolistićkih	_	_	_	_	_	_	_	_	O
+18	gluposti	_	_	_	_	_	_	_	SpaceAfter=No	O
+19	,	,	PUNCT	Z	_	_	_	_	_	O
+20	koje	_	_	_	_	_	_	_	_	O
+21	iznosi	_	_	_	_	_	_	_	SpaceAfter=No	O
+22	,	,	PUNCT	Z	_	_	_	_	_	O
+23	u	_	_	_	_	_	_	_	_	O
+24	ustoličenju	_	_	_	_	_	_	_	_	O
+25	Vučića	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
+26	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 3.3
+# text = Bio bi red makar to da zna, pre nego što se sledeći put predstavi kao kritičar režima u Srbiji i poznavalac ove zemlje.
+1	Bio	_	_	_	_	_	_	_	_	O
+2	bi	_	_	_	_	_	_	_	_	O
+3	red	_	_	_	_	_	_	_	_	O
+4	makar	_	_	_	_	_	_	_	_	O
+5	to	_	_	_	_	_	_	_	_	O
+6	da	_	_	_	_	_	_	_	_	O
+7	zna	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	pre	_	_	_	_	_	_	_	_	O
+10	nego	_	_	_	_	_	_	_	_	O
+11	što	_	_	_	_	_	_	_	_	O
+12	se	_	_	_	_	_	_	_	_	O
+13	sledeći	_	_	_	_	_	_	_	_	O
+14	put	_	_	_	_	_	_	_	_	O
+15	predstavi	_	_	_	_	_	_	_	_	O
+16	kao	_	_	_	_	_	_	_	_	O
+17	kritičar	_	_	_	_	_	_	_	_	O
+18	režima	_	_	_	_	_	_	_	_	O
+19	u	_	_	_	_	_	_	_	_	O
+20	Srbiji	_	_	_	_	_	_	_	_	B-LOC
+21	i	_	_	_	_	_	_	_	_	O
+22	poznavalac	_	_	_	_	_	_	_	_	O
+23	ove	_	_	_	_	_	_	_	_	O
+24	zemlje	_	_	_	_	_	_	_	SpaceAfter=No	O
+25	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 4
+# sent_id = 4.1
+# text = Samo zabrinjavajuće ograničen i veoma zlonameran čovek može mahati puškomitraljezom i slaviti dan kada su Srbi ubijani i prognani sa svog praga, a poseban je problem ako je taj čovek pritom izvestilac EU za Srbiju.
+1	Samo	_	_	_	_	_	_	_	_	O
+2	zabrinjavajuće	_	_	_	_	_	_	_	_	O
+3	ograničen	_	_	_	_	_	_	_	_	O
+4	i	_	_	_	_	_	_	_	_	O
+5	veoma	_	_	_	_	_	_	_	_	O
+6	zlonameran	_	_	_	_	_	_	_	_	O
+7	čovek	_	_	_	_	_	_	_	_	O
+8	može	_	_	_	_	_	_	_	_	O
+9	mahati	_	_	_	_	_	_	_	_	O
+10	puškomitraljezom	_	_	_	_	_	_	_	_	O
+11	i	_	_	_	_	_	_	_	_	O
+12	slaviti	_	_	_	_	_	_	_	_	O
+13	dan	_	_	_	_	_	_	_	_	O
+14	kada	_	_	_	_	_	_	_	_	O
+15	su	_	_	_	_	_	_	_	_	O
+16	Srbi	_	_	_	_	_	_	_	_	O
+17	ubijani	_	_	_	_	_	_	_	_	O
+18	i	_	_	_	_	_	_	_	_	O
+19	prognani	_	_	_	_	_	_	_	_	O
+20	sa	_	_	_	_	_	_	_	_	O
+21	svog	_	_	_	_	_	_	_	_	O
+22	praga	_	_	_	_	_	_	_	SpaceAfter=No	O
+23	,	,	PUNCT	Z	_	_	_	_	_	O
+24	a	_	_	_	_	_	_	_	_	O
+25	poseban	_	_	_	_	_	_	_	_	O
+26	je	_	_	_	_	_	_	_	_	O
+27	problem	_	_	_	_	_	_	_	_	O
+28	ako	_	_	_	_	_	_	_	_	O
+29	je	_	_	_	_	_	_	_	_	O
+30	taj	_	_	_	_	_	_	_	_	O
+31	čovek	_	_	_	_	_	_	_	_	O
+32	pritom	_	_	_	_	_	_	_	_	O
+33	izvestilac	_	_	_	_	_	_	_	_	O
+34	EU	_	_	_	_	_	_	_	_	B-ORG
+35	za	_	_	_	_	_	_	_	_	O
+36	Srbiju	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+37	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 5
+# sent_id = 5.1
+# text = Biće zanimljivo videti kako će i da li EU reagovati na Piculine nastupe ili će se nastaviti ovaj trend “piculizacije” politike EU na Zapadnom Balkanu.
+1	Biće	_	_	_	_	_	_	_	_	O
+2	zanimljivo	_	_	_	_	_	_	_	_	O
+3	videti	_	_	_	_	_	_	_	_	O
+4	kako	_	_	_	_	_	_	_	_	O
+5	će	_	_	_	_	_	_	_	_	O
+6	i	_	_	_	_	_	_	_	_	O
+7	da	_	_	_	_	_	_	_	_	O
+8	li	_	_	_	_	_	_	_	_	O
+9	EU	_	_	_	_	_	_	_	_	B-ORG
+10	reagovati	_	_	_	_	_	_	_	_	O
+11	na	_	_	_	_	_	_	_	_	O
+12	Piculine	_	_	_	_	_	_	_	_	B-PER
+13	nastupe	_	_	_	_	_	_	_	_	O
+14	ili	_	_	_	_	_	_	_	_	O
+15	će	_	_	_	_	_	_	_	_	O
+16	se	_	_	_	_	_	_	_	_	O
+17	nastaviti	_	_	_	_	_	_	_	_	O
+18	ovaj	_	_	_	_	_	_	_	_	O
+19	trend	_	_	_	_	_	_	_	_	O
+20	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+21	piculizacije	_	_	_	_	_	_	_	SpaceAfter=No	O
+22	”	”	PUNCT	Z	_	_	_	_	_	O
+23	politike	_	_	_	_	_	_	_	_	O
+24	EU	_	_	_	_	_	_	_	_	B-ORG
+25	na	_	_	_	_	_	_	_	_	O
+26	Zapadnom	_	_	_	_	_	_	_	_	B-LOC
+27	Balkanu	_	_	_	_	_	_	_	SpaceAfter=No	I-LOC
+28	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 6
+# sent_id = 6.1
+# text = Takođe, biće zanimljivo videti i na koji način će na ovakve optužbe za nacionalizam reagovati hrvatska javnost u kontekstu činjenice da sam inicirao proces regionalnog pomirenja i uspešno ga sprovodio zajedno i sa zvaničnicima Hrvatske.
+1	Takođe	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	biće	_	_	_	_	_	_	_	_	O
+4	zanimljivo	_	_	_	_	_	_	_	_	O
+5	videti	_	_	_	_	_	_	_	_	O
+6	i	_	_	_	_	_	_	_	_	O
+7	na	_	_	_	_	_	_	_	_	O
+8	koji	_	_	_	_	_	_	_	_	O
+9	način	_	_	_	_	_	_	_	_	O
+10	će	_	_	_	_	_	_	_	_	O
+11	na	_	_	_	_	_	_	_	_	O
+12	ovakve	_	_	_	_	_	_	_	_	O
+13	optužbe	_	_	_	_	_	_	_	_	O
+14	za	_	_	_	_	_	_	_	_	O
+15	nacionalizam	_	_	_	_	_	_	_	_	O
+16	reagovati	_	_	_	_	_	_	_	_	O
+17	hrvatska	_	_	_	_	_	_	_	_	O
+18	javnost	_	_	_	_	_	_	_	_	O
+19	u	_	_	_	_	_	_	_	_	O
+20	kontekstu	_	_	_	_	_	_	_	_	O
+21	činjenice	_	_	_	_	_	_	_	_	O
+22	da	_	_	_	_	_	_	_	_	O
+23	sam	_	_	_	_	_	_	_	_	O
+24	inicirao	_	_	_	_	_	_	_	_	O
+25	proces	_	_	_	_	_	_	_	_	O
+26	regionalnog	_	_	_	_	_	_	_	_	O
+27	pomirenja	_	_	_	_	_	_	_	_	O
+28	i	_	_	_	_	_	_	_	_	O
+29	uspešno	_	_	_	_	_	_	_	_	O
+30	ga	_	_	_	_	_	_	_	_	O
+31	sprovodio	_	_	_	_	_	_	_	_	O
+32	zajedno	_	_	_	_	_	_	_	_	O
+33	i	_	_	_	_	_	_	_	_	O
+34	sa	_	_	_	_	_	_	_	_	O
+35	zvaničnicima	_	_	_	_	_	_	_	_	O
+36	Hrvatske	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
+37	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 6.2
+# text = To je važno jer Picula svojom izjavom ne pokušava da oblati samo mene, već i sve što smo zajedno teškim naporima postigli u tom vremenu.
+1	To	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	važno	_	_	_	_	_	_	_	_	O
+4	jer	_	_	_	_	_	_	_	_	O
+5	Picula	_	_	_	_	_	_	_	_	B-PER
+6	svojom	_	_	_	_	_	_	_	_	O
+7	izjavom	_	_	_	_	_	_	_	_	O
+8	ne	_	_	_	_	_	_	_	_	O
+9	pokušava	_	_	_	_	_	_	_	_	O
+10	da	_	_	_	_	_	_	_	_	O
+11	oblati	_	_	_	_	_	_	_	_	O
+12	samo	_	_	_	_	_	_	_	_	O
+13	mene	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	,	,	PUNCT	Z	_	_	_	_	_	O
+15	već	_	_	_	_	_	_	_	_	O
+16	i	_	_	_	_	_	_	_	_	O
+17	sve	_	_	_	_	_	_	_	_	O
+18	što	_	_	_	_	_	_	_	_	O
+19	smo	_	_	_	_	_	_	_	_	O
+20	zajedno	_	_	_	_	_	_	_	_	O
+21	teškim	_	_	_	_	_	_	_	_	O
+22	naporima	_	_	_	_	_	_	_	_	O
+23	postigli	_	_	_	_	_	_	_	_	O
+24	u	_	_	_	_	_	_	_	_	O
+25	tom	_	_	_	_	_	_	_	_	O
+26	vremenu	_	_	_	_	_	_	_	SpaceAfter=No	O
+27	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 6.3
+# text = A to svakako nije bilo otvaranje vrata Vučiću, već upravo suprotno - izgradnja dobrih odnosa iz temelja nakon Vučićevih devedesetih.
+1	A	_	_	_	_	_	_	_	_	O
+2	to	_	_	_	_	_	_	_	_	O
+3	svakako	_	_	_	_	_	_	_	_	O
+4	nije	_	_	_	_	_	_	_	_	O
+5	bilo	_	_	_	_	_	_	_	_	O
+6	otvaranje	_	_	_	_	_	_	_	_	O
+7	vrata	_	_	_	_	_	_	_	_	O
+8	Vučiću	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	već	_	_	_	_	_	_	_	_	O
+11	upravo	_	_	_	_	_	_	_	_	O
+12	suprotno	_	_	_	_	_	_	_	_	O
+13	-	-	PUNCT	Z	_	_	_	_	_	O
+14	izgradnja	_	_	_	_	_	_	_	_	O
+15	dobrih	_	_	_	_	_	_	_	_	O
+16	odnosa	_	_	_	_	_	_	_	_	O
+17	iz	_	_	_	_	_	_	_	_	O
+18	temelja	_	_	_	_	_	_	_	_	O
+19	nakon	_	_	_	_	_	_	_	_	O
+20	Vučićevih	_	_	_	_	_	_	_	_	B-PER
+21	devedesetih	_	_	_	_	_	_	_	SpaceAfter=No	O
+22	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 7
+# sent_id = 7.1
+# text = Ako u ovom vremenu ne budemo reagovali na falsifikovanje prošlosti u svrhu koristi od jeftinog populizma sadašnjosti, time pokazujemo odnos i prema budućnosti.
+1	Ako	_	_	_	_	_	_	_	_	O
+2	u	_	_	_	_	_	_	_	_	O
+3	ovom	_	_	_	_	_	_	_	_	O
+4	vremenu	_	_	_	_	_	_	_	_	O
+5	ne	_	_	_	_	_	_	_	_	O
+6	budemo	_	_	_	_	_	_	_	_	O
+7	reagovali	_	_	_	_	_	_	_	_	O
+8	na	_	_	_	_	_	_	_	_	O
+9	falsifikovanje	_	_	_	_	_	_	_	_	O
+10	prošlosti	_	_	_	_	_	_	_	_	O
+11	u	_	_	_	_	_	_	_	_	O
+12	svrhu	_	_	_	_	_	_	_	_	O
+13	koristi	_	_	_	_	_	_	_	_	O
+14	od	_	_	_	_	_	_	_	_	O
+15	jeftinog	_	_	_	_	_	_	_	_	O
+16	populizma	_	_	_	_	_	_	_	_	O
+17	sadašnjosti	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	,	,	PUNCT	Z	_	_	_	_	_	O
+19	time	_	_	_	_	_	_	_	_	O
+20	pokazujemo	_	_	_	_	_	_	_	_	O
+21	odnos	_	_	_	_	_	_	_	_	O
+22	i	_	_	_	_	_	_	_	_	O
+23	prema	_	_	_	_	_	_	_	_	O
+24	budućnosti	_	_	_	_	_	_	_	SpaceAfter=No	O
+25	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 7.2
+# text = Time otvaramo vrata ambicioznim ljudima onakve pameti i pretencioznosti, poput Picule, za liderske pozicije u našem krhkom zajedničkom političkom prostoru, koji se kao i čitav svet nalazi pred dramatičnim bezbednosnim izazovima.
+1	Time	_	_	_	_	_	_	_	_	O
+2	otvaramo	_	_	_	_	_	_	_	_	O
+3	vrata	_	_	_	_	_	_	_	_	O
+4	ambicioznim	_	_	_	_	_	_	_	_	O
+5	ljudima	_	_	_	_	_	_	_	_	O
+6	onakve	_	_	_	_	_	_	_	_	O
+7	pameti	_	_	_	_	_	_	_	_	O
+8	i	_	_	_	_	_	_	_	_	O
+9	pretencioznosti	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	poput	_	_	_	_	_	_	_	_	O
+12	Picule	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+14	za	_	_	_	_	_	_	_	_	O
+15	liderske	_	_	_	_	_	_	_	_	O
+16	pozicije	_	_	_	_	_	_	_	_	O
+17	u	_	_	_	_	_	_	_	_	O
+18	našem	_	_	_	_	_	_	_	_	O
+19	krhkom	_	_	_	_	_	_	_	_	O
+20	zajedničkom	_	_	_	_	_	_	_	_	O
+21	političkom	_	_	_	_	_	_	_	_	O
+22	prostoru	_	_	_	_	_	_	_	SpaceAfter=No	O
+23	,	,	PUNCT	Z	_	_	_	_	_	O
+24	koji	_	_	_	_	_	_	_	_	O
+25	se	_	_	_	_	_	_	_	_	O
+26	kao	_	_	_	_	_	_	_	_	O
+27	i	_	_	_	_	_	_	_	_	O
+28	čitav	_	_	_	_	_	_	_	_	O
+29	svet	_	_	_	_	_	_	_	_	O
+30	nalazi	_	_	_	_	_	_	_	_	O
+31	pred	_	_	_	_	_	_	_	_	O
+32	dramatičnim	_	_	_	_	_	_	_	_	O
+33	bezbednosnim	_	_	_	_	_	_	_	_	O
+34	izazovima	_	_	_	_	_	_	_	SpaceAfter=No	O
+35	.	.	PUNCT	Z	_	_	_	_	_	O
+

@@ -1,0 +1,53 @@
+#name = ognjen
+#domen = tviter
+#url = https://x.com/ETF_Beograd/status/1354352260663422980
+# newpar id = 1
+# sent_id = 1.1
+# text = David Pantović, student 2. godine ETF-a Beograd, sa Odseka za RTI, sinoć je pobedio u poznatom kvizu "Potera", na nacionalnoj televiziji RTS.
+1	David	_	_	_	_	_	_	_	_	B-PER
+2	Pantović	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	student	_	_	_	_	_	_	_	_	O
+5	2.	_	_	_	_	_	_	_	_	O
+6	godine	_	_	_	_	_	_	_	_	O
+7	ETF-a	_	_	_	_	_	_	_	_	B-ORG
+8	Beograd	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	sa	_	_	_	_	_	_	_	_	O
+11	Odseka	_	_	_	_	_	_	_	_	O
+12	za	_	_	_	_	_	_	_	_	O
+13	RTI	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	,	,	PUNCT	Z	_	_	_	_	_	O
+15	sinoć	_	_	_	_	_	_	_	_	O
+16	je	_	_	_	_	_	_	_	_	O
+17	pobedio	_	_	_	_	_	_	_	_	O
+18	u	_	_	_	_	_	_	_	_	O
+19	poznatom	_	_	_	_	_	_	_	_	O
+20	kvizu	_	_	_	_	_	_	_	_	B-ORG
+21	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	I-ORG
+22	Potera	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+23	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	I-ORG
+24	,	,	PUNCT	Z	_	_	_	_	_	O
+25	na	_	_	_	_	_	_	_	_	O
+26	nacionalnoj	_	_	_	_	_	_	_	_	O
+27	televiziji	_	_	_	_	_	_	_	_	O
+28	RTS	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
+29	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.2
+# text = Elektrotehnički fakultet čestita kolegi Davidu na ostvarenom izuzetnom rezultatu u kvizu "Potera"
+1	Elektrotehnički	_	_	_	_	_	_	_	_	B-ORG
+2	fakultet	_	_	_	_	_	_	_	_	I-ORG
+3	čestita	_	_	_	_	_	_	_	_	O
+4	kolegi	_	_	_	_	_	_	_	_	O
+5	Davidu	_	_	_	_	_	_	_	_	B-ORG
+6	na	_	_	_	_	_	_	_	_	O
+7	ostvarenom	_	_	_	_	_	_	_	_	O
+8	izuzetnom	_	_	_	_	_	_	_	_	O
+9	rezultatu	_	_	_	_	_	_	_	_	O
+10	u	_	_	_	_	_	_	_	_	O
+11	kvizu	_	_	_	_	_	_	_	_	B-ORG
+12	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	I-ORG
+13	Potera	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+14	"	"	PUNCT	Z	_	_	_	_	_	I-ORG
+

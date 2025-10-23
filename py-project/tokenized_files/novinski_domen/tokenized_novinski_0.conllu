@@ -1,0 +1,126 @@
+#name = teodora
+#domen = novinski
+#url = https://www.blic.rs/vesti/hronika/pronadjeno-telo-utopljene-srpkinje-kod-lustica-isplivalo-u-hrvatskoj/60dgk4m
+# newpar id = 1
+# sent_id = 1.1
+# text = Telo Srpkinje koja se juče utopila na Novskoj rivijeri kod Luštice pronađeno je danas oko 13 časova u
+1	Telo	_	_	_	_	_	_	_	_	O
+2	Srpkinje	_	_	_	_	_	_	_	_	O
+3	koja	_	_	_	_	_	_	_	_	O
+4	se	_	_	_	_	_	_	_	_	O
+5	juče	_	_	_	_	_	_	_	_	O
+6	utopila	_	_	_	_	_	_	_	_	O
+7	na	_	_	_	_	_	_	_	_	O
+8	Novskoj	_	_	_	_	_	_	_	_	O
+9	rivijeri	_	_	_	_	_	_	_	_	O
+10	kod	_	_	_	_	_	_	_	_	O
+11	Luštice	_	_	_	_	_	_	_	_	O
+12	pronađeno	_	_	_	_	_	_	_	_	O
+13	je	_	_	_	_	_	_	_	_	O
+14	danas	_	_	_	_	_	_	_	_	O
+15	oko	_	_	_	_	_	_	_	_	O
+16	13	_	_	_	_	_	_	_	_	O
+17	časova	_	_	_	_	_	_	_	_	O
+18	u	_	_	_	_	_	_	_	_	O
+
+# newpar id = 2
+# sent_id = 2.1
+# text = hrvatskim vodama između Prevlake i Cavtata.
+1	hrvatskim	_	_	_	_	_	_	_	_	O
+2	vodama	_	_	_	_	_	_	_	_	O
+3	između	_	_	_	_	_	_	_	_	O
+4	Prevlake	_	_	_	_	_	_	_	_	O
+5	i	_	_	_	_	_	_	_	_	O
+6	Cavtata	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.2
+# text = Prema nezvaničnim saznanjima telo je trenutno u Cavtatu.
+1	Prema	_	_	_	_	_	_	_	_	O
+2	nezvaničnim	_	_	_	_	_	_	_	_	O
+3	saznanjima	_	_	_	_	_	_	_	_	O
+4	telo	_	_	_	_	_	_	_	_	O
+5	je	_	_	_	_	_	_	_	_	O
+6	trenutno	_	_	_	_	_	_	_	_	O
+7	u	_	_	_	_	_	_	_	_	O
+8	Cavtatu	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 3
+# sent_id = 3.1
+# text = Jake struje odvukle su telo u hrvatske vode, iako su spasioci u Crnoj Gori juče posla podne uočili da pluta na površini mora,
+1	Jake	_	_	_	_	_	_	_	_	O
+2	struje	_	_	_	_	_	_	_	_	O
+3	odvukle	_	_	_	_	_	_	_	_	O
+4	su	_	_	_	_	_	_	_	_	O
+5	telo	_	_	_	_	_	_	_	_	O
+6	u	_	_	_	_	_	_	_	_	O
+7	hrvatske	_	_	_	_	_	_	_	_	O
+8	vode	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	iako	_	_	_	_	_	_	_	_	O
+11	su	_	_	_	_	_	_	_	_	O
+12	spasioci	_	_	_	_	_	_	_	_	O
+13	u	_	_	_	_	_	_	_	_	O
+14	Crnoj	_	_	_	_	_	_	_	_	O
+15	Gori	_	_	_	_	_	_	_	_	O
+16	juče	_	_	_	_	_	_	_	_	O
+17	posla	_	_	_	_	_	_	_	_	O
+18	podne	_	_	_	_	_	_	_	_	O
+19	uočili	_	_	_	_	_	_	_	_	O
+20	da	_	_	_	_	_	_	_	_	O
+21	pluta	_	_	_	_	_	_	_	_	O
+22	na	_	_	_	_	_	_	_	_	O
+23	površini	_	_	_	_	_	_	_	_	O
+24	mora	_	_	_	_	_	_	_	SpaceAfter=No	O
+25	,	,	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 4
+# sent_id = 4.1
+# text = zbog velikih talasa nisu mogli da priđu.
+1	zbog	_	_	_	_	_	_	_	_	O
+2	velikih	_	_	_	_	_	_	_	_	O
+3	talasa	_	_	_	_	_	_	_	_	O
+4	nisu	_	_	_	_	_	_	_	_	O
+5	mogli	_	_	_	_	_	_	_	_	O
+6	da	_	_	_	_	_	_	_	_	O
+7	priđu	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 4.2
+# text = M. M. iz Vrnjačke Banje utopila se juče oko 15 časova kod rta Veslo na Luštici u Crnoj Gori,
+1	M.	_	_	_	_	_	_	_	_	O
+2	M.	_	_	_	_	_	_	_	_	O
+3	iz	_	_	_	_	_	_	_	_	O
+4	Vrnjačke	_	_	_	_	_	_	_	_	O
+5	Banje	_	_	_	_	_	_	_	_	O
+6	utopila	_	_	_	_	_	_	_	_	O
+7	se	_	_	_	_	_	_	_	_	O
+8	juče	_	_	_	_	_	_	_	_	O
+9	oko	_	_	_	_	_	_	_	_	O
+10	15	_	_	_	_	_	_	_	_	O
+11	časova	_	_	_	_	_	_	_	_	O
+12	kod	_	_	_	_	_	_	_	_	O
+13	rta	_	_	_	_	_	_	_	_	O
+14	Veslo	_	_	_	_	_	_	_	_	O
+15	na	_	_	_	_	_	_	_	_	O
+16	Luštici	_	_	_	_	_	_	_	_	O
+17	u	_	_	_	_	_	_	_	_	O
+18	Crnoj	_	_	_	_	_	_	_	_	O
+19	Gori	_	_	_	_	_	_	_	SpaceAfter=No	O
+20	,	,	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 5
+# sent_id = 5.1
+# text = dok se na jednoj od stena fotografisala sa prijateljicom.
+1	dok	_	_	_	_	_	_	_	_	O
+2	se	_	_	_	_	_	_	_	_	O
+3	na	_	_	_	_	_	_	_	_	O
+4	jednoj	_	_	_	_	_	_	_	_	O
+5	od	_	_	_	_	_	_	_	_	O
+6	stena	_	_	_	_	_	_	_	_	O
+7	fotografisala	_	_	_	_	_	_	_	_	O
+8	sa	_	_	_	_	_	_	_	_	O
+9	prijateljicom	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	.	.	PUNCT	Z	_	_	_	_	_	O
+

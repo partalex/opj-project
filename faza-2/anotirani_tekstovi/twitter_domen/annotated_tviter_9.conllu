@@ -1,0 +1,77 @@
+#name = marija
+#domen = tviter
+#url = https://x.com/natasakandic/status/1970485784789573874
+# newpar id = 1
+# sent_id = 1.1
+# text = Ako je novac poreznika korišćen za oslikavanje murala "kad se vojska na Kosovo vrati", sigurno je i za brojne murale posvećene Mladiću, a i grafit "Nož, žica, Srebernica" se slaže sa pesmom Milorada Dodika "Nema stida, nema straha, nije bilo genocida".
+1	Ako	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	novac	_	_	_	_	_	_	_	_	O
+4	poreznika	_	_	_	_	_	_	_	_	O
+5	korišćen	_	_	_	_	_	_	_	_	O
+6	za	_	_	_	_	_	_	_	_	O
+7	oslikavanje	_	_	_	_	_	_	_	_	O
+8	murala	_	_	_	_	_	_	_	_	O
+9	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+10	kad	_	_	_	_	_	_	_	_	O
+11	se	_	_	_	_	_	_	_	_	O
+12	vojska	_	_	_	_	_	_	_	_	O
+13	na	_	_	_	_	_	_	_	_	O
+14	Kosovo	_	_	_	_	_	_	_	_	O
+15	vrati	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+17	,	,	PUNCT	Z	_	_	_	_	_	O
+18	sigurno	_	_	_	_	_	_	_	_	O
+19	je	_	_	_	_	_	_	_	_	O
+20	i	_	_	_	_	_	_	_	_	O
+21	za	_	_	_	_	_	_	_	_	O
+22	brojne	_	_	_	_	_	_	_	_	O
+23	murale	_	_	_	_	_	_	_	_	O
+24	posvećene	_	_	_	_	_	_	_	_	O
+25	Mladiću	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
+26	,	,	PUNCT	Z	_	_	_	_	_	O
+27	a	_	_	_	_	_	_	_	_	O
+28	i	_	_	_	_	_	_	_	_	O
+29	grafit	_	_	_	_	_	_	_	_	O
+30	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+31	Nož	_	_	_	_	_	_	_	SpaceAfter=No	O
+32	,	,	PUNCT	Z	_	_	_	_	_	O
+33	žica	_	_	_	_	_	_	_	SpaceAfter=No	O
+34	,	,	PUNCT	Z	_	_	_	_	_	O
+35	Srebernica	_	_	_	_	_	_	_	SpaceAfter=No	O
+36	"	"	PUNCT	Z	_	_	_	_	_	O
+37	se	_	_	_	_	_	_	_	_	O
+38	slaže	_	_	_	_	_	_	_	_	O
+39	sa	_	_	_	_	_	_	_	_	O
+40	pesmom	_	_	_	_	_	_	_	_	O
+41	Milorada	_	_	_	_	_	_	_	_	B-PER
+42	Dodika	_	_	_	_	_	_	_	_	B-PER
+43	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+44	Nema	_	_	_	_	_	_	_	_	O
+45	stida	_	_	_	_	_	_	_	SpaceAfter=No	O
+46	,	,	PUNCT	Z	_	_	_	_	_	O
+47	nema	_	_	_	_	_	_	_	_	O
+48	straha	_	_	_	_	_	_	_	SpaceAfter=No	O
+49	,	,	PUNCT	Z	_	_	_	_	_	O
+50	nije	_	_	_	_	_	_	_	_	O
+51	bilo	_	_	_	_	_	_	_	_	O
+52	genocida	_	_	_	_	_	_	_	SpaceAfter=No	O
+53	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+54	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.2
+# text = Nema vlasti koja je više učinila da svoje građane  usmeri protiv drugih.
+1	Nema	_	_	_	_	_	_	_	_	O
+2	vlasti	_	_	_	_	_	_	_	_	O
+3	koja	_	_	_	_	_	_	_	_	O
+4	je	_	_	_	_	_	_	_	_	O
+5	više	_	_	_	_	_	_	_	_	O
+6	učinila	_	_	_	_	_	_	_	_	O
+7	da	_	_	_	_	_	_	_	_	O
+8	svoje	_	_	_	_	_	_	_	_	O
+9	građane	_	_	_	_	_	_	_	_	O
+10	usmeri	_	_	_	_	_	_	_	_	O
+11	protiv	_	_	_	_	_	_	_	_	O
+12	drugih	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	.	.	PUNCT	Z	_	_	_	_	_	O
+

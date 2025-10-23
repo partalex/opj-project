@@ -1,0 +1,233 @@
+#name = marija
+#anotator = ognjen
+#domen = tviter
+#url = https://x.com/natasakandic/status/1970485784789573874
+# newpar id = 1
+# sent_id = 1.1
+# text = Ako je novac poreznika korišćen za oslikavanje murala "kad se vojska na Kosovo vrati", sigurno je i za brojne murale posvećene Mladiću, a i grafit "Nož, žica, Srebernica" se slaže sa pesmom Milorada Dodika "Nema stida, nema straha, nije bilo genocida".
+1	Ako	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	novac	_	_	_	_	_	_	_	_	O
+4	poreznika	_	_	_	_	_	_	_	_	O
+5	korišćen	_	_	_	_	_	_	_	_	O
+6	za	_	_	_	_	_	_	_	_	O
+7	oslikavanje	_	_	_	_	_	_	_	_	O
+8	murala	_	_	_	_	_	_	_	_	O
+9	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+10	kad	_	_	_	_	_	_	_	_	O
+11	se	_	_	_	_	_	_	_	_	O
+12	vojska	_	_	_	_	_	_	_	_	O
+13	na	_	_	_	_	_	_	_	_	O
+14	Kosovo	_	_	_	_	_	_	_	_	B-LOC
+15	vrati	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+17	,	,	PUNCT	Z	_	_	_	_	_	O
+18	sigurno	_	_	_	_	_	_	_	_	O
+19	je	_	_	_	_	_	_	_	_	O
+20	i	_	_	_	_	_	_	_	_	O
+21	za	_	_	_	_	_	_	_	_	O
+22	brojne	_	_	_	_	_	_	_	_	O
+23	murale	_	_	_	_	_	_	_	_	O
+24	posvećene	_	_	_	_	_	_	_	_	O
+25	Mladiću	_	_	_	_	_	_	_	SpaceAfter=No	B-PER 
+26	,	,	PUNCT	Z	_	_	_	_	_	O
+27	a	_	_	_	_	_	_	_	_	O
+28	i	_	_	_	_	_	_	_	_	O
+29	grafit	_	_	_	_	_	_	_	_	O
+30	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+31	Nož	_	_	_	_	_	_	_	SpaceAfter=No	O
+32	,	,	PUNCT	Z	_	_	_	_	_	O
+33	žica	_	_	_	_	_	_	_	SpaceAfter=No	O
+34	,	,	PUNCT	Z	_	_	_	_	_	O
+35	Srebernica	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+36	"	"	PUNCT	Z	_	_	_	_	_	O
+37	se	_	_	_	_	_	_	_	_	O
+38	slaže	_	_	_	_	_	_	_	_	O
+39	sa	_	_	_	_	_	_	_	_	O
+40	pesmom	_	_	_	_	_	_	_	_	O
+41	Milorada	_	_	_	_	_	_	_	_	B-PER
+42	Dodika	_	_	_	_	_	_	_	_	I-PER
+43	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+44	Nema	_	_	_	_	_	_	_	_	O
+45	stida	_	_	_	_	_	_	_	SpaceAfter=No	O
+46	,	,	PUNCT	Z	_	_	_	_	_	O
+47	nema	_	_	_	_	_	_	_	_	O
+48	straha	_	_	_	_	_	_	_	SpaceAfter=No	O
+49	,	,	PUNCT	Z	_	_	_	_	_	O
+50	nije	_	_	_	_	_	_	_	_	O
+51	bilo	_	_	_	_	_	_	_	_	O
+52	genocida	_	_	_	_	_	_	_	SpaceAfter=No	O
+53	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+54	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.2
+# text = Nema vlasti koja je više učinila da svoje građane  usmeri protiv drugih.
+1	Nema	_	_	_	_	_	_	_	_	O
+2	vlasti	_	_	_	_	_	_	_	_	O
+3	koja	_	_	_	_	_	_	_	_	O
+4	je	_	_	_	_	_	_	_	_	O
+5	više	_	_	_	_	_	_	_	_	O
+6	učinila	_	_	_	_	_	_	_	_	O
+7	da	_	_	_	_	_	_	_	_	O
+8	svoje	_	_	_	_	_	_	_	_	O
+9	građane	_	_	_	_	_	_	_	_	O
+10	usmeri	_	_	_	_	_	_	_	_	O
+11	protiv	_	_	_	_	_	_	_	_	O
+12	drugih	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	.	.	PUNCT	Z	_	_	_	_	_	O
+
+
+#url = https://x.com/BigBadWolfWolfy/status/1951693815904903553
+# newpar id = 1
+# sent_id = 1.1
+# text = Ivana Španović šampionka Srbije u troskoku!
+1	Ivana	_	_	_	_	_	_	_	_	B-PER
+2	Španović	_	_	_	_	_	_	_	_	I-PER
+3	šampionka	_	_	_	_	_	_	_	_	O
+4	Srbije	_	_	_	_	_	_	_	_	B-LOC
+5	u	_	_	_	_	_	_	_	_	O
+6	troskoku	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	!	!	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.2
+# text = (ok, to ste možda i znali)
+1	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+2	ok	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	to	_	_	_	_	_	_	_	_	O
+5	ste	_	_	_	_	_	_	_	_	O
+6	možda	_	_	_	_	_	_	_	_	O
+7	i	_	_	_	_	_	_	_	_	O
+8	znali	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	)	)	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 2
+# sent_id = 2.1
+# text = Ono što niste: sa 35 godina, Ivana je skočila 14.43m i za skoro 20cm popravila lični rekord u troskoku!
+1	Ono	_	_	_	_	_	_	_	_	O
+2	što	_	_	_	_	_	_	_	_	O
+3	niste	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	:	:	PUNCT	Z	_	_	_	_	_	O
+5	sa	_	_	_	_	_	_	_	_	O
+6	35	_	_	_	_	_	_	_	_	O
+7	godina	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	Ivana	_	_	_	_	_	_	_	_	B-PER
+10	je	_	_	_	_	_	_	_	_	O
+11	skočila	_	_	_	_	_	_	_	_	O
+12	14.43	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	m	_	_	_	_	_	_	_	_	O
+14	i	_	_	_	_	_	_	_	_	O
+15	za	_	_	_	_	_	_	_	_	O
+16	skoro	_	_	_	_	_	_	_	_	O
+17	20	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	cm	_	_	_	_	_	_	_	_	O
+19	popravila	_	_	_	_	_	_	_	_	O
+20	lični	_	_	_	_	_	_	_	_	O
+21	rekord	_	_	_	_	_	_	_	_	O
+22	u	_	_	_	_	_	_	_	_	O
+23	troskoku	_	_	_	_	_	_	_	SpaceAfter=No	O
+24	!	!	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 3
+# sent_id = 3.1
+# text = Čekamo Tokio!
+1	Čekamo	_	_	_	_	_	_	_	_	O
+2	Tokio	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+3	!	!	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 3.2
+# text = Bravo Ivana!
+1	Bravo	_	_	_	_	_	_	_	_	O
+2	Ivana	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
+3	!	!	PUNCT	Z	_	_	_	_	_	O
+
+#url = https://x.com/elfakublokadi/status/1970459944118894665
+# newpar id = 1
+# sent_id = 1.1
+# text = Ministarstvo kulture uskratilo podršku Nišvilu
+1	Ministarstvo	_	_	_	_	_	_	_	_	B-ORG
+2	kulture	_	_	_	_	_	_	_	_	I-ORG
+3	uskratilo	_	_	_	_	_	_	_	_	O
+4	podršku	_	_	_	_	_	_	_	_	O
+5	Nišvilu	_	_	_	_	_	_	_	_	B-ORG
+
+# newpar id = 2
+# sent_id = 2.1
+# text = "Ovakav odnos ministarstva kulture prema Nišvilu dolazi u posebno nezgodnom trenutku kada Nišvil pokušava da grad Niš stavi na Uneskovu listu džez gradova za 2027 godinu.
+1	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+2	Ovakav	_	_	_	_	_	_	_	_	O
+3	odnos	_	_	_	_	_	_	_	_	O
+4	ministarstva	_	_	_	_	_	_	_	_	B-ORG
+5	kulture	_	_	_	_	_	_	_	_	I-ORG
+6	prema	_	_	_	_	_	_	_	_	O
+7	Nišvilu	_	_	_	_	_	_	_	_	B-ORG
+8	dolazi	_	_	_	_	_	_	_	_	O
+9	u	_	_	_	_	_	_	_	_	O
+10	posebno	_	_	_	_	_	_	_	_	O
+11	nezgodnom	_	_	_	_	_	_	_	_	O
+12	trenutku	_	_	_	_	_	_	_	_	O
+13	kada	_	_	_	_	_	_	_	_	O
+14	Nišvil	_	_	_	_	_	_	_	_	B-ORG
+15	pokušava	_	_	_	_	_	_	_	_	O
+16	da	_	_	_	_	_	_	_	_	O
+17	grad	_	_	_	_	_	_	_	_	O
+18	Niš	_	_	_	_	_	_	_	_	B-LOC
+19	stavi	_	_	_	_	_	_	_	_	O
+20	na	_	_	_	_	_	_	_	_	O
+21	Uneskovu	_	_	_	_	_	_	_	_	B-ORG
+22	listu	_	_	_	_	_	_	_	_	O
+23	džez	_	_	_	_	_	_	_	_	O
+24	gradova	_	_	_	_	_	_	_	_	O
+25	za	_	_	_	_	_	_	_	_	O
+26	2027	_	_	_	_	_	_	_	_	O
+27	godinu	_	_	_	_	_	_	_	SpaceAfter=No	O
+28	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.2
+# text = Kandidatura treba da bude podneta u novembru, a za tako nešto neophodna je preporuka ministarstva kulture, kao i grada Niša.
+1	Kandidatura	_	_	_	_	_	_	_	_	O
+2	treba	_	_	_	_	_	_	_	_	O
+3	da	_	_	_	_	_	_	_	_	O
+4	bude	_	_	_	_	_	_	_	_	O
+5	podneta	_	_	_	_	_	_	_	_	O
+6	u	_	_	_	_	_	_	_	_	O
+7	novembru	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	a	_	_	_	_	_	_	_	_	O
+10	za	_	_	_	_	_	_	_	_	O
+11	tako	_	_	_	_	_	_	_	_	O
+12	nešto	_	_	_	_	_	_	_	_	O
+13	neophodna	_	_	_	_	_	_	_	_	O
+14	je	_	_	_	_	_	_	_	_	O
+15	preporuka	_	_	_	_	_	_	_	_	O
+16	ministarstva	_	_	_	_	_	_	_	_	B-ORG
+17	kulture	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+18	,	,	PUNCT	Z	_	_	_	_	_	O
+19	kao	_	_	_	_	_	_	_	_	O
+20	i	_	_	_	_	_	_	_	_	O
+21	grada	_	_	_	_	_	_	_	_	O
+22	Niša	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+23	.	.	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+
+# sent_id = 2.3
+# text = "
+1	"	"	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 3
+# sent_id = 3.1
+# text = MI PITAMO ZAŠTO?
+1	MI	_	_	_	_	_	_	_	_	O
+2	PITAMO	_	_	_	_	_	_	_	_	O
+3	ZAŠTO	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	?	?	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 4
+# sent_id = 4.1
+# text = GDE VAM JE GRANICA?
+1	GDE	_	_	_	_	_	_	_	_	O
+2	VAM	_	_	_	_	_	_	_	_	O
+3	JE	_	_	_	_	_	_	_	_	O
+4	GRANICA	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	?	?	PUNCT	Z	_	_	_	_	_	O
+

@@ -1,0 +1,1052 @@
+#name = aleksandar
+#domen = muzika
+#url = https://muzickilimbo.rs/%d1%84%d0%b5%d1%81%d1%82%d0%b8%d0%b2%d0%b0%d0%bb-%d0%bf%d0%b8%d0%ba%d0%be%d0%bb%d0%be-%d0%b2%d0%b8%d0%ba%d0%b5%d0%bd%d0%b4-%d0%ba%d0%b0%d0%ba%d0%be-%d1%81%d1%83-%d1%81%d1%98%d0%b0/
+# newpar id = 1
+# sent_id = 1.1
+# text = Festivali posvećeni instrumentima koji se ne koriste često kao solistički, pokazali su se kao izvrsna prilika za njihovu popularizaciju.
+1	Festivali	_	_	_	_	_	_	_	_	O
+2	posvećeni	_	_	_	_	_	_	_	_	O
+3	instrumentima	_	_	_	_	_	_	_	_	O
+4	koji	_	_	_	_	_	_	_	_	O
+5	se	_	_	_	_	_	_	_	_	O
+6	ne	_	_	_	_	_	_	_	_	O
+7	koriste	_	_	_	_	_	_	_	_	O
+8	često	_	_	_	_	_	_	_	_	O
+9	kao	_	_	_	_	_	_	_	_	O
+10	solistički	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	pokazali	_	_	_	_	_	_	_	_	O
+13	su	_	_	_	_	_	_	_	_	O
+14	se	_	_	_	_	_	_	_	_	O
+15	kao	_	_	_	_	_	_	_	_	O
+16	izvrsna	_	_	_	_	_	_	_	_	O
+17	prilika	_	_	_	_	_	_	_	_	O
+18	za	_	_	_	_	_	_	_	_	O
+19	njihovu	_	_	_	_	_	_	_	_	O
+20	popularizaciju	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.2
+# text = Još važnije je istaći da se zahvaljujući ovakvim događajima, pišu i nove kompozicije čime se obogaćuje literatura koja je i u slučaju pikolo flaute, po broju neuporedivo skromnija od literature pisane za klasičnu flautu.
+1	Još	_	_	_	_	_	_	_	_	O
+2	važnije	_	_	_	_	_	_	_	_	O
+3	je	_	_	_	_	_	_	_	_	O
+4	istaći	_	_	_	_	_	_	_	_	O
+5	da	_	_	_	_	_	_	_	_	O
+6	se	_	_	_	_	_	_	_	_	O
+7	zahvaljujući	_	_	_	_	_	_	_	_	O
+8	ovakvim	_	_	_	_	_	_	_	_	O
+9	događajima	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	pišu	_	_	_	_	_	_	_	_	O
+12	i	_	_	_	_	_	_	_	_	O
+13	nove	_	_	_	_	_	_	_	_	O
+14	kompozicije	_	_	_	_	_	_	_	_	O
+15	čime	_	_	_	_	_	_	_	_	O
+16	se	_	_	_	_	_	_	_	_	O
+17	obogaćuje	_	_	_	_	_	_	_	_	O
+18	literatura	_	_	_	_	_	_	_	_	O
+19	koja	_	_	_	_	_	_	_	_	O
+20	je	_	_	_	_	_	_	_	_	O
+21	i	_	_	_	_	_	_	_	_	O
+22	u	_	_	_	_	_	_	_	_	O
+23	slučaju	_	_	_	_	_	_	_	_	O
+24	pikolo	_	_	_	_	_	_	_	_	O
+25	flaute	_	_	_	_	_	_	_	SpaceAfter=No	O
+26	,	,	PUNCT	Z	_	_	_	_	_	O
+27	po	_	_	_	_	_	_	_	_	O
+28	broju	_	_	_	_	_	_	_	_	O
+29	neuporedivo	_	_	_	_	_	_	_	_	O
+30	skromnija	_	_	_	_	_	_	_	_	O
+31	od	_	_	_	_	_	_	_	_	O
+32	literature	_	_	_	_	_	_	_	_	O
+33	pisane	_	_	_	_	_	_	_	_	O
+34	za	_	_	_	_	_	_	_	_	O
+35	klasičnu	_	_	_	_	_	_	_	_	O
+36	flautu	_	_	_	_	_	_	_	SpaceAfter=No	O
+37	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 2
+# sent_id = 2.1
+# text = Pikolo se mahom upotrebljava kao orkestarski instrument i njena glavna uloga je da udvostruči deonice drugih instrumenata, često violine ili flaute.
+1	Pikolo	_	_	_	_	_	_	_	_	O
+2	se	_	_	_	_	_	_	_	_	O
+3	mahom	_	_	_	_	_	_	_	_	O
+4	upotrebljava	_	_	_	_	_	_	_	_	O
+5	kao	_	_	_	_	_	_	_	_	O
+6	orkestarski	_	_	_	_	_	_	_	_	O
+7	instrument	_	_	_	_	_	_	_	_	O
+8	i	_	_	_	_	_	_	_	_	O
+9	njena	_	_	_	_	_	_	_	_	O
+10	glavna	_	_	_	_	_	_	_	_	O
+11	uloga	_	_	_	_	_	_	_	_	O
+12	je	_	_	_	_	_	_	_	_	O
+13	da	_	_	_	_	_	_	_	_	O
+14	udvostruči	_	_	_	_	_	_	_	_	O
+15	deonice	_	_	_	_	_	_	_	_	O
+16	drugih	_	_	_	_	_	_	_	_	O
+17	instrumenata	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	,	,	PUNCT	Z	_	_	_	_	_	O
+19	često	_	_	_	_	_	_	_	_	O
+20	violine	_	_	_	_	_	_	_	_	O
+21	ili	_	_	_	_	_	_	_	_	O
+22	flaute	_	_	_	_	_	_	_	SpaceAfter=No	O
+23	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.2
+# text = Zvuk orkestra nezamisliv je bez njenog blistavog sjajnog i prodornog tona.
+1	Zvuk	_	_	_	_	_	_	_	_	O
+2	orkestra	_	_	_	_	_	_	_	_	O
+3	nezamisliv	_	_	_	_	_	_	_	_	O
+4	je	_	_	_	_	_	_	_	_	O
+5	bez	_	_	_	_	_	_	_	_	O
+6	njenog	_	_	_	_	_	_	_	_	O
+7	blistavog	_	_	_	_	_	_	_	_	O
+8	sjajnog	_	_	_	_	_	_	_	_	O
+9	i	_	_	_	_	_	_	_	_	O
+10	prodornog	_	_	_	_	_	_	_	_	O
+11	tona	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.3
+# text = Pevanje ptica iz Malerove Simfonije broj 2 dočaranog ovim instrumentom, gotovo da je arhetipski model kako on treba da zvuči kao solistički—svetlo, prodorno, blistavo, oštro, ponekad i eterično, kao da dolazi iz velike daljine.
+1	Pevanje	_	_	_	_	_	_	_	_	O
+2	ptica	_	_	_	_	_	_	_	_	O
+3	iz	_	_	_	_	_	_	_	_	O
+4	Malerove	_	_	_	_	_	_	_	_	O
+5	Simfonije	_	_	_	_	_	_	_	_	O
+6	broj	_	_	_	_	_	_	_	_	O
+7	2	_	_	_	_	_	_	_	_	O
+8	dočaranog	_	_	_	_	_	_	_	_	O
+9	ovim	_	_	_	_	_	_	_	_	O
+10	instrumentom	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	gotovo	_	_	_	_	_	_	_	_	O
+13	da	_	_	_	_	_	_	_	_	O
+14	je	_	_	_	_	_	_	_	_	O
+15	arhetipski	_	_	_	_	_	_	_	_	O
+16	model	_	_	_	_	_	_	_	_	O
+17	kako	_	_	_	_	_	_	_	_	O
+18	on	_	_	_	_	_	_	_	_	O
+19	treba	_	_	_	_	_	_	_	_	O
+20	da	_	_	_	_	_	_	_	_	O
+21	zvuči	_	_	_	_	_	_	_	_	O
+22	kao	_	_	_	_	_	_	_	_	O
+23	solistički	_	_	_	_	_	_	_	SpaceAfter=No	O
+24	—	—	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+25	svetlo	_	_	_	_	_	_	_	SpaceAfter=No	O
+26	,	,	PUNCT	Z	_	_	_	_	_	O
+27	prodorno	_	_	_	_	_	_	_	SpaceAfter=No	O
+28	,	,	PUNCT	Z	_	_	_	_	_	O
+29	blistavo	_	_	_	_	_	_	_	SpaceAfter=No	O
+30	,	,	PUNCT	Z	_	_	_	_	_	O
+31	oštro	_	_	_	_	_	_	_	SpaceAfter=No	O
+32	,	,	PUNCT	Z	_	_	_	_	_	O
+33	ponekad	_	_	_	_	_	_	_	_	O
+34	i	_	_	_	_	_	_	_	_	O
+35	eterično	_	_	_	_	_	_	_	SpaceAfter=No	O
+36	,	,	PUNCT	Z	_	_	_	_	_	O
+37	kao	_	_	_	_	_	_	_	_	O
+38	da	_	_	_	_	_	_	_	_	O
+39	dolazi	_	_	_	_	_	_	_	_	O
+40	iz	_	_	_	_	_	_	_	_	O
+41	velike	_	_	_	_	_	_	_	_	O
+42	daljine	_	_	_	_	_	_	_	SpaceAfter=No	O
+43	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 3
+# sent_id = 3.1
+# text = Sve navedeno mogli smo da doživimo na završnom koncertu četvrtog po redu festivala pikolo flaute održanog u Domu vojske.
+1	Sve	_	_	_	_	_	_	_	_	O
+2	navedeno	_	_	_	_	_	_	_	_	O
+3	mogli	_	_	_	_	_	_	_	_	O
+4	smo	_	_	_	_	_	_	_	_	O
+5	da	_	_	_	_	_	_	_	_	O
+6	doživimo	_	_	_	_	_	_	_	_	O
+7	na	_	_	_	_	_	_	_	_	O
+8	završnom	_	_	_	_	_	_	_	_	O
+9	koncertu	_	_	_	_	_	_	_	_	O
+10	četvrtog	_	_	_	_	_	_	_	_	O
+11	po	_	_	_	_	_	_	_	_	O
+12	redu	_	_	_	_	_	_	_	_	O
+13	festivala	_	_	_	_	_	_	_	_	O
+14	pikolo	_	_	_	_	_	_	_	_	O
+15	flaute	_	_	_	_	_	_	_	_	O
+16	održanog	_	_	_	_	_	_	_	_	O
+17	u	_	_	_	_	_	_	_	_	O
+18	Domu	_	_	_	_	_	_	_	_	O
+19	vojske	_	_	_	_	_	_	_	SpaceAfter=No	O
+20	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 3.2
+# text = Orkestrom Umetničkog ansambla Ministarstva odbrane „Stanislav Binički“ dirigovao je Klajd Mičel, dirigent za koga je navedeno da deluje u Kanadi i Sjedinjenim Američkim Državama.
+1	Orkestrom	_	_	_	_	_	_	_	_	B-ORG
+2	Umetničkog	_	_	_	_	_	_	_	_	I-ORG
+3	ansambla	_	_	_	_	_	_	_	_	I-ORG
+4	Ministarstva	_	_	_	_	_	_	_	_	I-ORG
+5	odbrane	_	_	_	_	_	_	_	_	I-ORG
+6	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	I-ORG
+7	Stanislav	_	_	_	_	_	_	_	_	B-PER
+8	Binički	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+9	“	“	PUNCT	Z	_	_	_	_	_	O
+10	dirigovao	_	_	_	_	_	_	_	_	O
+11	je	_	_	_	_	_	_	_	_	O
+12	Klajd	_	_	_	_	_	_	_	_	B-PER
+13	Mičel	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+14	,	,	PUNCT	Z	_	_	_	_	_	O
+15	dirigent	_	_	_	_	_	_	_	_	O
+16	za	_	_	_	_	_	_	_	_	O
+17	koga	_	_	_	_	_	_	_	_	O
+18	je	_	_	_	_	_	_	_	_	O
+19	navedeno	_	_	_	_	_	_	_	_	O
+20	da	_	_	_	_	_	_	_	_	O
+21	deluje	_	_	_	_	_	_	_	_	O
+22	u	_	_	_	_	_	_	_	_	O
+23	Kanadi	_	_	_	_	_	_	_	_	B-LOC
+24	i	_	_	_	_	_	_	_	_	O
+25	Sjedinjenim	_	_	_	_	_	_	_	_	B-LOC
+26	Američkim	_	_	_	_	_	_	_	_	I-LOC
+27	Državama	_	_	_	_	_	_	_	SpaceAfter=No	I-LOC
+28	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 4
+# sent_id = 4.1
+# text = Dva koncerta Antonija Vivaldija primer su virtuoznosti koja ništa manje nije istaknuta nego u koncertima za violinu.
+1	Dva	_	_	_	_	_	_	_	_	O
+2	koncerta	_	_	_	_	_	_	_	_	O
+3	Antonija	_	_	_	_	_	_	_	_	B-PER
+4	Vivaldija	_	_	_	_	_	_	_	_	I-PER
+5	primer	_	_	_	_	_	_	_	_	O
+6	su	_	_	_	_	_	_	_	_	O
+7	virtuoznosti	_	_	_	_	_	_	_	_	O
+8	koja	_	_	_	_	_	_	_	_	O
+9	ništa	_	_	_	_	_	_	_	_	O
+10	manje	_	_	_	_	_	_	_	_	O
+11	nije	_	_	_	_	_	_	_	_	O
+12	istaknuta	_	_	_	_	_	_	_	_	O
+13	nego	_	_	_	_	_	_	_	_	O
+14	u	_	_	_	_	_	_	_	_	O
+15	koncertima	_	_	_	_	_	_	_	_	O
+16	za	_	_	_	_	_	_	_	_	O
+17	violinu	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 4.2
+# text = Dve mlade pikolo flautistkinje Biljana Beara i Aleksandra Tolić su u izvođenju Koncerta u C duru RV 533 ostvarile uzbudljiv zvučni efekat kroz brze dijaloške preplete prvog i trećeg stava.
+1	Dve	_	_	_	_	_	_	_	_	O
+2	mlade	_	_	_	_	_	_	_	_	O
+3	pikolo	_	_	_	_	_	_	_	_	O
+4	flautistkinje	_	_	_	_	_	_	_	_	O
+5	Biljana	_	_	_	_	_	_	_	_	B-PER
+6	Beara	_	_	_	_	_	_	_	_	I-PER
+7	i	_	_	_	_	_	_	_	_	O
+8	Aleksandra	_	_	_	_	_	_	_	_	B-PER
+9	Tolić	_	_	_	_	_	_	_	_	I-PER
+10	su	_	_	_	_	_	_	_	_	O
+11	u	_	_	_	_	_	_	_	_	O
+12	izvođenju	_	_	_	_	_	_	_	_	O
+13	Koncerta	_	_	_	_	_	_	_	_	O
+14	u	_	_	_	_	_	_	_	_	O
+15	C	_	_	_	_	_	_	_	_	O
+16	duru	_	_	_	_	_	_	_	_	O
+17	RV	_	_	_	_	_	_	_	_	O
+18	533	_	_	_	_	_	_	_	_	O
+19	ostvarile	_	_	_	_	_	_	_	_	O
+20	uzbudljiv	_	_	_	_	_	_	_	_	O
+21	zvučni	_	_	_	_	_	_	_	_	O
+22	efekat	_	_	_	_	_	_	_	_	O
+23	kroz	_	_	_	_	_	_	_	_	O
+24	brze	_	_	_	_	_	_	_	_	O
+25	dijaloške	_	_	_	_	_	_	_	_	O
+26	preplete	_	_	_	_	_	_	_	_	O
+27	prvog	_	_	_	_	_	_	_	_	O
+28	i	_	_	_	_	_	_	_	_	O
+29	trećeg	_	_	_	_	_	_	_	_	O
+30	stava	_	_	_	_	_	_	_	SpaceAfter=No	O
+31	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 4.3
+# text = Štaviše, u završnom stavu deonice su toliko isprepletene, da je zaista bilo potrebno da se ostvari visok nivo usklađenosti, što su one i uspele.
+1	Štaviše	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	u	_	_	_	_	_	_	_	_	O
+4	završnom	_	_	_	_	_	_	_	_	O
+5	stavu	_	_	_	_	_	_	_	_	O
+6	deonice	_	_	_	_	_	_	_	_	O
+7	su	_	_	_	_	_	_	_	_	O
+8	toliko	_	_	_	_	_	_	_	_	O
+9	isprepletene	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	da	_	_	_	_	_	_	_	_	O
+12	je	_	_	_	_	_	_	_	_	O
+13	zaista	_	_	_	_	_	_	_	_	O
+14	bilo	_	_	_	_	_	_	_	_	O
+15	potrebno	_	_	_	_	_	_	_	_	O
+16	da	_	_	_	_	_	_	_	_	O
+17	se	_	_	_	_	_	_	_	_	O
+18	ostvari	_	_	_	_	_	_	_	_	O
+19	visok	_	_	_	_	_	_	_	_	O
+20	nivo	_	_	_	_	_	_	_	_	O
+21	usklađenosti	_	_	_	_	_	_	_	SpaceAfter=No	O
+22	,	,	PUNCT	Z	_	_	_	_	_	O
+23	što	_	_	_	_	_	_	_	_	O
+24	su	_	_	_	_	_	_	_	_	O
+25	one	_	_	_	_	_	_	_	_	O
+26	i	_	_	_	_	_	_	_	_	O
+27	uspele	_	_	_	_	_	_	_	SpaceAfter=No	O
+28	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 4.4
+# text = U laganom lirskom stavu, ton oba instrumenta osim što je bio nežniji, mogao je da dovede i do kontemplativnosti, naročito u onim momentima kada su dva instrumenta udruženo ispevavala nežnu melodiju italijanskog tipa.
+1	U	_	_	_	_	_	_	_	_	O
+2	laganom	_	_	_	_	_	_	_	_	O
+3	lirskom	_	_	_	_	_	_	_	_	O
+4	stavu	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	ton	_	_	_	_	_	_	_	_	O
+7	oba	_	_	_	_	_	_	_	_	O
+8	instrumenta	_	_	_	_	_	_	_	_	O
+9	osim	_	_	_	_	_	_	_	_	O
+10	što	_	_	_	_	_	_	_	_	O
+11	je	_	_	_	_	_	_	_	_	O
+12	bio	_	_	_	_	_	_	_	_	O
+13	nežniji	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	,	,	PUNCT	Z	_	_	_	_	_	O
+15	mogao	_	_	_	_	_	_	_	_	O
+16	je	_	_	_	_	_	_	_	_	O
+17	da	_	_	_	_	_	_	_	_	O
+18	dovede	_	_	_	_	_	_	_	_	O
+19	i	_	_	_	_	_	_	_	_	O
+20	do	_	_	_	_	_	_	_	_	O
+21	kontemplativnosti	_	_	_	_	_	_	_	SpaceAfter=No	O
+22	,	,	PUNCT	Z	_	_	_	_	_	O
+23	naročito	_	_	_	_	_	_	_	_	O
+24	u	_	_	_	_	_	_	_	_	O
+25	onim	_	_	_	_	_	_	_	_	O
+26	momentima	_	_	_	_	_	_	_	_	O
+27	kada	_	_	_	_	_	_	_	_	O
+28	su	_	_	_	_	_	_	_	_	O
+29	dva	_	_	_	_	_	_	_	_	O
+30	instrumenta	_	_	_	_	_	_	_	_	O
+31	udruženo	_	_	_	_	_	_	_	_	O
+32	ispevavala	_	_	_	_	_	_	_	_	O
+33	nežnu	_	_	_	_	_	_	_	_	O
+34	melodiju	_	_	_	_	_	_	_	_	O
+35	italijanskog	_	_	_	_	_	_	_	_	O
+36	tipa	_	_	_	_	_	_	_	SpaceAfter=No	O
+37	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 5
+# sent_id = 5.1
+# text = Solo pikolistkinja Sara Džekson, odsvirala je možda i najpoznatiji Vivaldijev koncert za ovaj instrument, RV 443 u C duru.
+1	Solo	_	_	_	_	_	_	_	_	O
+2	pikolistkinja	_	_	_	_	_	_	_	_	O
+3	Sara	_	_	_	_	_	_	_	_	B-PER
+4	Džekson	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	odsvirala	_	_	_	_	_	_	_	_	O
+7	je	_	_	_	_	_	_	_	_	O
+8	možda	_	_	_	_	_	_	_	_	O
+9	i	_	_	_	_	_	_	_	_	O
+10	najpoznatiji	_	_	_	_	_	_	_	_	O
+11	Vivaldijev	_	_	_	_	_	_	_	_	B-PER
+12	koncert	_	_	_	_	_	_	_	_	O
+13	za	_	_	_	_	_	_	_	_	O
+14	ovaj	_	_	_	_	_	_	_	_	O
+15	instrument	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	,	,	PUNCT	Z	_	_	_	_	_	O
+17	RV	_	_	_	_	_	_	_	_	O
+18	443	_	_	_	_	_	_	_	_	O
+19	u	_	_	_	_	_	_	_	_	O
+20	C	_	_	_	_	_	_	_	_	O
+21	duru	_	_	_	_	_	_	_	SpaceAfter=No	O
+22	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 5.2
+# text = Solo pikolistkinja Filharmonije iz Los Anđelesa, prikazala se izuzetnom interpretacijom u kojoj je briljirala blistavom tehnikom i iskazivanjem zvučnih nijansi koje ovaj instrument omogućava.
+1	Solo	_	_	_	_	_	_	_	_	O
+2	pikolistkinja	_	_	_	_	_	_	_	_	O
+3	Filharmonije	_	_	_	_	_	_	_	_	B-ORG
+4	iz	_	_	_	_	_	_	_	_	I-ORG
+5	Los	_	_	_	_	_	_	_	_	I-ORG
+6	Anđelesa	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	prikazala	_	_	_	_	_	_	_	_	O
+9	se	_	_	_	_	_	_	_	_	O
+10	izuzetnom	_	_	_	_	_	_	_	_	O
+11	interpretacijom	_	_	_	_	_	_	_	_	O
+12	u	_	_	_	_	_	_	_	_	O
+13	kojoj	_	_	_	_	_	_	_	_	O
+14	je	_	_	_	_	_	_	_	_	O
+15	briljirala	_	_	_	_	_	_	_	_	O
+16	blistavom	_	_	_	_	_	_	_	_	O
+17	tehnikom	_	_	_	_	_	_	_	_	O
+18	i	_	_	_	_	_	_	_	_	O
+19	iskazivanjem	_	_	_	_	_	_	_	_	O
+20	zvučnih	_	_	_	_	_	_	_	_	O
+21	nijansi	_	_	_	_	_	_	_	_	O
+22	koje	_	_	_	_	_	_	_	_	O
+23	ovaj	_	_	_	_	_	_	_	_	O
+24	instrument	_	_	_	_	_	_	_	_	O
+25	omogućava	_	_	_	_	_	_	_	SpaceAfter=No	O
+26	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 5.3
+# text = Perpeto mobile brzih stavova imao je neprekinutu uzlaznu nit uz izvrsno ostvarene dinamičke gradacije i odlično izvedene dijaloge unutar različitih opsega instrumenta.
+1	Perpeto	_	_	_	_	_	_	_	_	O
+2	mobile	_	_	_	_	_	_	_	_	O
+3	brzih	_	_	_	_	_	_	_	_	O
+4	stavova	_	_	_	_	_	_	_	_	O
+5	imao	_	_	_	_	_	_	_	_	O
+6	je	_	_	_	_	_	_	_	_	O
+7	neprekinutu	_	_	_	_	_	_	_	_	O
+8	uzlaznu	_	_	_	_	_	_	_	_	O
+9	nit	_	_	_	_	_	_	_	_	O
+10	uz	_	_	_	_	_	_	_	_	O
+11	izvrsno	_	_	_	_	_	_	_	_	O
+12	ostvarene	_	_	_	_	_	_	_	_	O
+13	dinamičke	_	_	_	_	_	_	_	_	O
+14	gradacije	_	_	_	_	_	_	_	_	O
+15	i	_	_	_	_	_	_	_	_	O
+16	odlično	_	_	_	_	_	_	_	_	O
+17	izvedene	_	_	_	_	_	_	_	_	O
+18	dijaloge	_	_	_	_	_	_	_	_	O
+19	unutar	_	_	_	_	_	_	_	_	O
+20	različitih	_	_	_	_	_	_	_	_	O
+21	opsega	_	_	_	_	_	_	_	_	O
+22	instrumenta	_	_	_	_	_	_	_	SpaceAfter=No	O
+23	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 5.4
+# text = Izvevši drugi stav ovog koncerta, Sara Džekson je pokazala da pikolo flauta može da bude instrument koji i pored izuzetno svetlog tona, kod slušaoca može da izazove nostalgiju ili setu, a sve to zahvaljujući besprekorno interpretiranoj melodijskoj liniji.
+1	Izvevši	_	_	_	_	_	_	_	_	O
+2	drugi	_	_	_	_	_	_	_	_	O
+3	stav	_	_	_	_	_	_	_	_	O
+4	ovog	_	_	_	_	_	_	_	_	O
+5	koncerta	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	Sara	_	_	_	_	_	_	_	_	B-PER
+8	Džekson	_	_	_	_	_	_	_	_	I-PER
+9	je	_	_	_	_	_	_	_	_	O
+10	pokazala	_	_	_	_	_	_	_	_	O
+11	da	_	_	_	_	_	_	_	_	O
+12	pikolo	_	_	_	_	_	_	_	_	O
+13	flauta	_	_	_	_	_	_	_	_	O
+14	može	_	_	_	_	_	_	_	_	O
+15	da	_	_	_	_	_	_	_	_	O
+16	bude	_	_	_	_	_	_	_	_	O
+17	instrument	_	_	_	_	_	_	_	_	O
+18	koji	_	_	_	_	_	_	_	_	O
+19	i	_	_	_	_	_	_	_	_	O
+20	pored	_	_	_	_	_	_	_	_	O
+21	izuzetno	_	_	_	_	_	_	_	_	O
+22	svetlog	_	_	_	_	_	_	_	_	O
+23	tona	_	_	_	_	_	_	_	SpaceAfter=No	O
+24	,	,	PUNCT	Z	_	_	_	_	_	O
+25	kod	_	_	_	_	_	_	_	_	O
+26	slušaoca	_	_	_	_	_	_	_	_	O
+27	može	_	_	_	_	_	_	_	_	O
+28	da	_	_	_	_	_	_	_	_	O
+29	izazove	_	_	_	_	_	_	_	_	O
+30	nostalgiju	_	_	_	_	_	_	_	_	O
+31	ili	_	_	_	_	_	_	_	_	O
+32	setu	_	_	_	_	_	_	_	SpaceAfter=No	O
+33	,	,	PUNCT	Z	_	_	_	_	_	O
+34	a	_	_	_	_	_	_	_	_	O
+35	sve	_	_	_	_	_	_	_	_	O
+36	to	_	_	_	_	_	_	_	_	O
+37	zahvaljujući	_	_	_	_	_	_	_	_	O
+38	besprekorno	_	_	_	_	_	_	_	_	O
+39	interpretiranoj	_	_	_	_	_	_	_	_	O
+40	melodijskoj	_	_	_	_	_	_	_	_	O
+41	liniji	_	_	_	_	_	_	_	SpaceAfter=No	O
+42	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 6
+# sent_id = 6.1
+# text = Predvođeni dirigentom Klajdom Mičelom, gudački ansambl orkestra Stanislav Binički delovao je nadahnuto i raspoloženo za muziciranje sa izvrsnim muzičarima koji su nam se predstavili na završnici finalne večeri Pikolo vikenda.
+1	Predvođeni	_	_	_	_	_	_	_	_	O
+2	dirigentom	_	_	_	_	_	_	_	_	O
+3	Klajdom	_	_	_	_	_	_	_	_	B-PER
+4	Mičelom	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	gudački	_	_	_	_	_	_	_	_	O
+7	ansambl	_	_	_	_	_	_	_	_	O
+8	orkestra	_	_	_	_	_	_	_	_	O
+9	Stanislav	_	_	_	_	_	_	_	_	B-PER
+10	Binički	_	_	_	_	_	_	_	_	I-PER
+11	delovao	_	_	_	_	_	_	_	_	O
+12	je	_	_	_	_	_	_	_	_	O
+13	nadahnuto	_	_	_	_	_	_	_	_	O
+14	i	_	_	_	_	_	_	_	_	O
+15	raspoloženo	_	_	_	_	_	_	_	_	O
+16	za	_	_	_	_	_	_	_	_	O
+17	muziciranje	_	_	_	_	_	_	_	_	O
+18	sa	_	_	_	_	_	_	_	_	O
+19	izvrsnim	_	_	_	_	_	_	_	_	O
+20	muzičarima	_	_	_	_	_	_	_	_	O
+21	koji	_	_	_	_	_	_	_	_	O
+22	su	_	_	_	_	_	_	_	_	O
+23	nam	_	_	_	_	_	_	_	_	O
+24	se	_	_	_	_	_	_	_	_	O
+25	predstavili	_	_	_	_	_	_	_	_	O
+26	na	_	_	_	_	_	_	_	_	O
+27	završnici	_	_	_	_	_	_	_	_	O
+28	finalne	_	_	_	_	_	_	_	_	O
+29	večeri	_	_	_	_	_	_	_	_	O
+30	Pikolo	_	_	_	_	_	_	_	_	B-ORG
+31	vikenda	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+32	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 6.2
+# text = Pikolo flautista Frankfurtskog operskog orkestra Đovani Gandolfo, izveo je transkripciju Koncerta za čembalo BWV 1056 u f molu Johana Sebastijana Baha.
+1	Pikolo	_	_	_	_	_	_	_	_	O
+2	flautista	_	_	_	_	_	_	_	_	O
+3	Frankfurtskog	_	_	_	_	_	_	_	_	B-ORG
+4	operskog	_	_	_	_	_	_	_	_	I-ORG
+5	orkestra	_	_	_	_	_	_	_	_	I-ORG
+6	Đovani	_	_	_	_	_	_	_	_	B-PER
+7	Gandolfo	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	izveo	_	_	_	_	_	_	_	_	O
+10	je	_	_	_	_	_	_	_	_	O
+11	transkripciju	_	_	_	_	_	_	_	_	O
+12	Koncerta	_	_	_	_	_	_	_	_	O
+13	za	_	_	_	_	_	_	_	_	O
+14	čembalo	_	_	_	_	_	_	_	_	O
+15	BWV	_	_	_	_	_	_	_	_	O
+16	1056	_	_	_	_	_	_	_	_	O
+17	u	_	_	_	_	_	_	_	_	O
+18	f	_	_	_	_	_	_	_	_	O
+19	molu	_	_	_	_	_	_	_	_	O
+20	Johana	_	_	_	_	_	_	_	_	B-PER
+21	Sebastijana	_	_	_	_	_	_	_	_	I-PER
+22	Baha	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+23	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 6.3
+# text = Virtuozno, blistavo i nenapadno, uz maksimalno povezane pevne deonice—otprilike tako bi mogao da se opiše izuzetan nastup ovog umetnika.
+1	Virtuozno	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	blistavo	_	_	_	_	_	_	_	_	O
+4	i	_	_	_	_	_	_	_	_	O
+5	nenapadno	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	uz	_	_	_	_	_	_	_	_	O
+8	maksimalno	_	_	_	_	_	_	_	_	O
+9	povezane	_	_	_	_	_	_	_	_	O
+10	pevne	_	_	_	_	_	_	_	_	O
+11	deonice	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	—	—	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+13	otprilike	_	_	_	_	_	_	_	_	O
+14	tako	_	_	_	_	_	_	_	_	O
+15	bi	_	_	_	_	_	_	_	_	O
+16	mogao	_	_	_	_	_	_	_	_	O
+17	da	_	_	_	_	_	_	_	_	O
+18	se	_	_	_	_	_	_	_	_	O
+19	opiše	_	_	_	_	_	_	_	_	O
+20	izuzetan	_	_	_	_	_	_	_	_	O
+21	nastup	_	_	_	_	_	_	_	_	O
+22	ovog	_	_	_	_	_	_	_	_	O
+23	umetnika	_	_	_	_	_	_	_	SpaceAfter=No	O
+24	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 6.4
+# text = Drugi stav Largo po karakteru ne samo što je bio nežan, već je i lamentozna melodija delovala kao da dopire iz daljine, što je celokupnoj atmosferi dalo posebnu draž.
+1	Drugi	_	_	_	_	_	_	_	_	O
+2	stav	_	_	_	_	_	_	_	_	O
+3	Largo	_	_	_	_	_	_	_	_	O
+4	po	_	_	_	_	_	_	_	_	O
+5	karakteru	_	_	_	_	_	_	_	_	O
+6	ne	_	_	_	_	_	_	_	_	O
+7	samo	_	_	_	_	_	_	_	_	O
+8	što	_	_	_	_	_	_	_	_	O
+9	je	_	_	_	_	_	_	_	_	O
+10	bio	_	_	_	_	_	_	_	_	O
+11	nežan	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	već	_	_	_	_	_	_	_	_	O
+14	je	_	_	_	_	_	_	_	_	O
+15	i	_	_	_	_	_	_	_	_	O
+16	lamentozna	_	_	_	_	_	_	_	_	O
+17	melodija	_	_	_	_	_	_	_	_	O
+18	delovala	_	_	_	_	_	_	_	_	O
+19	kao	_	_	_	_	_	_	_	_	O
+20	da	_	_	_	_	_	_	_	_	O
+21	dopire	_	_	_	_	_	_	_	_	O
+22	iz	_	_	_	_	_	_	_	_	O
+23	daljine	_	_	_	_	_	_	_	SpaceAfter=No	O
+24	,	,	PUNCT	Z	_	_	_	_	_	O
+25	što	_	_	_	_	_	_	_	_	O
+26	je	_	_	_	_	_	_	_	_	O
+27	celokupnoj	_	_	_	_	_	_	_	_	O
+28	atmosferi	_	_	_	_	_	_	_	_	O
+29	dalo	_	_	_	_	_	_	_	_	O
+30	posebnu	_	_	_	_	_	_	_	_	O
+31	draž	_	_	_	_	_	_	_	SpaceAfter=No	O
+32	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 6.5
+# text = Od bolnog lebdećeg tona, do blistave virtuoznosti—gotovo sve najbolje osobine pikolo flaute kao solističkog instrumenta prikazane su u izvođenju transkripcije Bahovog koncerta.
+1	Od	_	_	_	_	_	_	_	_	O
+2	bolnog	_	_	_	_	_	_	_	_	O
+3	lebdećeg	_	_	_	_	_	_	_	_	O
+4	tona	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	do	_	_	_	_	_	_	_	_	O
+7	blistave	_	_	_	_	_	_	_	_	O
+8	virtuoznosti	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	—	—	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+10	gotovo	_	_	_	_	_	_	_	_	O
+11	sve	_	_	_	_	_	_	_	_	O
+12	najbolje	_	_	_	_	_	_	_	_	O
+13	osobine	_	_	_	_	_	_	_	_	O
+14	pikolo	_	_	_	_	_	_	_	_	O
+15	flaute	_	_	_	_	_	_	_	_	O
+16	kao	_	_	_	_	_	_	_	_	O
+17	solističkog	_	_	_	_	_	_	_	_	O
+18	instrumenta	_	_	_	_	_	_	_	_	O
+19	prikazane	_	_	_	_	_	_	_	_	O
+20	su	_	_	_	_	_	_	_	_	O
+21	u	_	_	_	_	_	_	_	_	O
+22	izvođenju	_	_	_	_	_	_	_	_	O
+23	transkripcije	_	_	_	_	_	_	_	_	O
+24	Bahovog	_	_	_	_	_	_	_	_	B-PER
+25	koncerta	_	_	_	_	_	_	_	SpaceAfter=No	O
+26	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 7
+# sent_id = 7.1
+# text = Premijera Koncerta za pikolo flautu i orkestar Snow!
+1	Premijera	_	_	_	_	_	_	_	_	O
+2	Koncerta	_	_	_	_	_	_	_	_	O
+3	za	_	_	_	_	_	_	_	_	O
+4	pikolo	_	_	_	_	_	_	_	_	O
+5	flautu	_	_	_	_	_	_	_	_	O
+6	i	_	_	_	_	_	_	_	_	O
+7	orkestar	_	_	_	_	_	_	_	_	O
+8	Snow	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	!	!	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 7.2
+# text = Ivana Brkljačića, pripala je Snježani Pavićević, solo pikolistkinji Beogradske filharmonije.
+1	Ivana	_	_	_	_	_	_	_	_	B-PER
+2	Brkljačića	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	pripala	_	_	_	_	_	_	_	_	O
+5	je	_	_	_	_	_	_	_	_	O
+6	Snježani	_	_	_	_	_	_	_	_	B-PER
+7	Pavićević	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	solo	_	_	_	_	_	_	_	_	O
+10	pikolistkinji	_	_	_	_	_	_	_	_	O
+11	Beogradske	_	_	_	_	_	_	_	_	B-ORG
+12	filharmonije	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+13	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 7.3
+# text = U ovom koncertantnom delu, Brkljačić je pokazao izvrsno umeće orkestracije, veoma dobro iskoristivši potencijal udaraljki koje je obogatio zvonima, a posebno vešto je iskorišćen i potencijal klavira i harfe.
+1	U	_	_	_	_	_	_	_	_	O
+2	ovom	_	_	_	_	_	_	_	_	O
+3	koncertantnom	_	_	_	_	_	_	_	_	O
+4	delu	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	Brkljačić	_	_	_	_	_	_	_	_	B-PER
+7	je	_	_	_	_	_	_	_	_	O
+8	pokazao	_	_	_	_	_	_	_	_	O
+9	izvrsno	_	_	_	_	_	_	_	_	O
+10	umeće	_	_	_	_	_	_	_	_	O
+11	orkestracije	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	veoma	_	_	_	_	_	_	_	_	O
+14	dobro	_	_	_	_	_	_	_	_	O
+15	iskoristivši	_	_	_	_	_	_	_	_	O
+16	potencijal	_	_	_	_	_	_	_	_	O
+17	udaraljki	_	_	_	_	_	_	_	_	O
+18	koje	_	_	_	_	_	_	_	_	O
+19	je	_	_	_	_	_	_	_	_	O
+20	obogatio	_	_	_	_	_	_	_	_	O
+21	zvonima	_	_	_	_	_	_	_	SpaceAfter=No	O
+22	,	,	PUNCT	Z	_	_	_	_	_	O
+23	a	_	_	_	_	_	_	_	_	O
+24	posebno	_	_	_	_	_	_	_	_	O
+25	vešto	_	_	_	_	_	_	_	_	O
+26	je	_	_	_	_	_	_	_	_	O
+27	iskorišćen	_	_	_	_	_	_	_	_	O
+28	i	_	_	_	_	_	_	_	_	O
+29	potencijal	_	_	_	_	_	_	_	_	O
+30	klavira	_	_	_	_	_	_	_	_	O
+31	i	_	_	_	_	_	_	_	_	O
+32	harfe	_	_	_	_	_	_	_	SpaceAfter=No	O
+33	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 7.4
+# text = Složena struktura koncerta ukazuje na neprestane smene variranih epizoda koje neprimetno prelaze jedna u drugu, čime je pokazano majstorstvo vladanja formom.
+1	Složena	_	_	_	_	_	_	_	_	O
+2	struktura	_	_	_	_	_	_	_	_	O
+3	koncerta	_	_	_	_	_	_	_	_	O
+4	ukazuje	_	_	_	_	_	_	_	_	O
+5	na	_	_	_	_	_	_	_	_	O
+6	neprestane	_	_	_	_	_	_	_	_	O
+7	smene	_	_	_	_	_	_	_	_	O
+8	variranih	_	_	_	_	_	_	_	_	O
+9	epizoda	_	_	_	_	_	_	_	_	O
+10	koje	_	_	_	_	_	_	_	_	O
+11	neprimetno	_	_	_	_	_	_	_	_	O
+12	prelaze	_	_	_	_	_	_	_	_	O
+13	jedna	_	_	_	_	_	_	_	_	O
+14	u	_	_	_	_	_	_	_	_	O
+15	drugu	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	,	,	PUNCT	Z	_	_	_	_	_	O
+17	čime	_	_	_	_	_	_	_	_	O
+18	je	_	_	_	_	_	_	_	_	O
+19	pokazano	_	_	_	_	_	_	_	_	O
+20	majstorstvo	_	_	_	_	_	_	_	_	O
+21	vladanja	_	_	_	_	_	_	_	_	O
+22	formom	_	_	_	_	_	_	_	SpaceAfter=No	O
+23	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 7.5
+# text = Osnova koncerta je lestvica orijentalnog prizvuka koja se u nebrojeno mnogo varijanti ponavlja, ali uvek praćena ritmičkom osnovom koja je bogata, promenljiva i samim tim deluje uzbudljivo.
+1	Osnova	_	_	_	_	_	_	_	_	O
+2	koncerta	_	_	_	_	_	_	_	_	O
+3	je	_	_	_	_	_	_	_	_	O
+4	lestvica	_	_	_	_	_	_	_	_	O
+5	orijentalnog	_	_	_	_	_	_	_	_	O
+6	prizvuka	_	_	_	_	_	_	_	_	O
+7	koja	_	_	_	_	_	_	_	_	O
+8	se	_	_	_	_	_	_	_	_	O
+9	u	_	_	_	_	_	_	_	_	O
+10	nebrojeno	_	_	_	_	_	_	_	_	O
+11	mnogo	_	_	_	_	_	_	_	_	O
+12	varijanti	_	_	_	_	_	_	_	_	O
+13	ponavlja	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	,	,	PUNCT	Z	_	_	_	_	_	O
+15	ali	_	_	_	_	_	_	_	_	O
+16	uvek	_	_	_	_	_	_	_	_	O
+17	praćena	_	_	_	_	_	_	_	_	O
+18	ritmičkom	_	_	_	_	_	_	_	_	O
+19	osnovom	_	_	_	_	_	_	_	_	O
+20	koja	_	_	_	_	_	_	_	_	O
+21	je	_	_	_	_	_	_	_	_	O
+22	bogata	_	_	_	_	_	_	_	SpaceAfter=No	O
+23	,	,	PUNCT	Z	_	_	_	_	_	O
+24	promenljiva	_	_	_	_	_	_	_	_	O
+25	i	_	_	_	_	_	_	_	_	O
+26	samim	_	_	_	_	_	_	_	_	O
+27	tim	_	_	_	_	_	_	_	_	O
+28	deluje	_	_	_	_	_	_	_	_	O
+29	uzbudljivo	_	_	_	_	_	_	_	SpaceAfter=No	O
+30	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 7.6
+# text = Tako su i privremeni vrhunci, sa istaknutim punim zvukom u kojima se izdvajaju limeni duvački instrumenti sa solističkom pikolo flautom koja je za još jedan stepenik iznad njih, takođe mogli da dovedu do stanja ekstatičnosti.
+1	Tako	_	_	_	_	_	_	_	_	O
+2	su	_	_	_	_	_	_	_	_	O
+3	i	_	_	_	_	_	_	_	_	O
+4	privremeni	_	_	_	_	_	_	_	_	O
+5	vrhunci	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	sa	_	_	_	_	_	_	_	_	O
+8	istaknutim	_	_	_	_	_	_	_	_	O
+9	punim	_	_	_	_	_	_	_	_	O
+10	zvukom	_	_	_	_	_	_	_	_	O
+11	u	_	_	_	_	_	_	_	_	O
+12	kojima	_	_	_	_	_	_	_	_	O
+13	se	_	_	_	_	_	_	_	_	O
+14	izdvajaju	_	_	_	_	_	_	_	_	O
+15	limeni	_	_	_	_	_	_	_	_	O
+16	duvački	_	_	_	_	_	_	_	_	O
+17	instrumenti	_	_	_	_	_	_	_	_	O
+18	sa	_	_	_	_	_	_	_	_	O
+19	solističkom	_	_	_	_	_	_	_	_	O
+20	pikolo	_	_	_	_	_	_	_	_	O
+21	flautom	_	_	_	_	_	_	_	_	O
+22	koja	_	_	_	_	_	_	_	_	O
+23	je	_	_	_	_	_	_	_	_	O
+24	za	_	_	_	_	_	_	_	_	O
+25	još	_	_	_	_	_	_	_	_	O
+26	jedan	_	_	_	_	_	_	_	_	O
+27	stepenik	_	_	_	_	_	_	_	_	O
+28	iznad	_	_	_	_	_	_	_	_	O
+29	njih	_	_	_	_	_	_	_	SpaceAfter=No	O
+30	,	,	PUNCT	Z	_	_	_	_	_	O
+31	takođe	_	_	_	_	_	_	_	_	O
+32	mogli	_	_	_	_	_	_	_	_	O
+33	da	_	_	_	_	_	_	_	_	O
+34	dovedu	_	_	_	_	_	_	_	_	O
+35	do	_	_	_	_	_	_	_	_	O
+36	stanja	_	_	_	_	_	_	_	_	O
+37	ekstatičnosti	_	_	_	_	_	_	_	SpaceAfter=No	O
+38	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 7.7
+# text = Brkljačić ovim koncertom nije samo pokazao majstorstvo vladanja formom i zanatom orkestracije, već je u smislu sadržaja publici pružio narativ prepun melanholije i istinske osećajnosti.
+1	Brkljačić	_	_	_	_	_	_	_	_	B-PER
+2	ovim	_	_	_	_	_	_	_	_	O
+3	koncertom	_	_	_	_	_	_	_	_	O
+4	nije	_	_	_	_	_	_	_	_	O
+5	samo	_	_	_	_	_	_	_	_	O
+6	pokazao	_	_	_	_	_	_	_	_	O
+7	majstorstvo	_	_	_	_	_	_	_	_	O
+8	vladanja	_	_	_	_	_	_	_	_	O
+9	formom	_	_	_	_	_	_	_	_	O
+10	i	_	_	_	_	_	_	_	_	O
+11	zanatom	_	_	_	_	_	_	_	_	O
+12	orkestracije	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+14	već	_	_	_	_	_	_	_	_	O
+15	je	_	_	_	_	_	_	_	_	O
+16	u	_	_	_	_	_	_	_	_	O
+17	smislu	_	_	_	_	_	_	_	_	O
+18	sadržaja	_	_	_	_	_	_	_	_	O
+19	publici	_	_	_	_	_	_	_	_	O
+20	pružio	_	_	_	_	_	_	_	_	O
+21	narativ	_	_	_	_	_	_	_	_	O
+22	prepun	_	_	_	_	_	_	_	_	O
+23	melanholije	_	_	_	_	_	_	_	_	O
+24	i	_	_	_	_	_	_	_	_	O
+25	istinske	_	_	_	_	_	_	_	_	O
+26	osećajnosti	_	_	_	_	_	_	_	SpaceAfter=No	O
+27	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 7.8
+# text = Štaviše, lirski obrt koji se dešava u momentu nagomilanog afekta mogao bi da se opiše kao katarzično iskustvo, pa tako nežna lirska melodija solističkog instrumenta uz pratnju harfe, izaziva osećanje slično onom koje doživljavamo u momentu dramskih razrešenja romantičarskih simfonija.
+1	Štaviše	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	lirski	_	_	_	_	_	_	_	_	O
+4	obrt	_	_	_	_	_	_	_	_	O
+5	koji	_	_	_	_	_	_	_	_	O
+6	se	_	_	_	_	_	_	_	_	O
+7	dešava	_	_	_	_	_	_	_	_	O
+8	u	_	_	_	_	_	_	_	_	O
+9	momentu	_	_	_	_	_	_	_	_	O
+10	nagomilanog	_	_	_	_	_	_	_	_	O
+11	afekta	_	_	_	_	_	_	_	_	O
+12	mogao	_	_	_	_	_	_	_	_	O
+13	bi	_	_	_	_	_	_	_	_	O
+14	da	_	_	_	_	_	_	_	_	O
+15	se	_	_	_	_	_	_	_	_	O
+16	opiše	_	_	_	_	_	_	_	_	O
+17	kao	_	_	_	_	_	_	_	_	O
+18	katarzično	_	_	_	_	_	_	_	_	O
+19	iskustvo	_	_	_	_	_	_	_	SpaceAfter=No	O
+20	,	,	PUNCT	Z	_	_	_	_	_	O
+21	pa	_	_	_	_	_	_	_	_	O
+22	tako	_	_	_	_	_	_	_	_	O
+23	nežna	_	_	_	_	_	_	_	_	O
+24	lirska	_	_	_	_	_	_	_	_	O
+25	melodija	_	_	_	_	_	_	_	_	O
+26	solističkog	_	_	_	_	_	_	_	_	O
+27	instrumenta	_	_	_	_	_	_	_	_	O
+28	uz	_	_	_	_	_	_	_	_	O
+29	pratnju	_	_	_	_	_	_	_	_	O
+30	harfe	_	_	_	_	_	_	_	SpaceAfter=No	O
+31	,	,	PUNCT	Z	_	_	_	_	_	O
+32	izaziva	_	_	_	_	_	_	_	_	O
+33	osećanje	_	_	_	_	_	_	_	_	O
+34	slično	_	_	_	_	_	_	_	_	O
+35	onom	_	_	_	_	_	_	_	_	O
+36	koje	_	_	_	_	_	_	_	_	O
+37	doživljavamo	_	_	_	_	_	_	_	_	O
+38	u	_	_	_	_	_	_	_	_	O
+39	momentu	_	_	_	_	_	_	_	_	O
+40	dramskih	_	_	_	_	_	_	_	_	O
+41	razrešenja	_	_	_	_	_	_	_	_	O
+42	romantičarskih	_	_	_	_	_	_	_	_	O
+43	simfonija	_	_	_	_	_	_	_	SpaceAfter=No	O
+44	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 7.9
+# text = Solistkinja Snježana Pavićević, pokazala se kao izuzetan virtuoz, najpre u središnjoj kadenci koncerta u kojoj je instrument delovao poput ptičjeg peva, pri tom, prikazanog inovativno.
+1	Solistkinja	_	_	_	_	_	_	_	_	O
+2	Snježana	_	_	_	_	_	_	_	_	B-PER
+3	Pavićević	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	pokazala	_	_	_	_	_	_	_	_	O
+6	se	_	_	_	_	_	_	_	_	O
+7	kao	_	_	_	_	_	_	_	_	O
+8	izuzetan	_	_	_	_	_	_	_	_	O
+9	virtuoz	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	najpre	_	_	_	_	_	_	_	_	O
+12	u	_	_	_	_	_	_	_	_	O
+13	središnjoj	_	_	_	_	_	_	_	_	O
+14	kadenci	_	_	_	_	_	_	_	_	O
+15	koncerta	_	_	_	_	_	_	_	_	O
+16	u	_	_	_	_	_	_	_	_	O
+17	kojoj	_	_	_	_	_	_	_	_	O
+18	je	_	_	_	_	_	_	_	_	O
+19	instrument	_	_	_	_	_	_	_	_	O
+20	delovao	_	_	_	_	_	_	_	_	O
+21	poput	_	_	_	_	_	_	_	_	O
+22	ptičjeg	_	_	_	_	_	_	_	_	O
+23	peva	_	_	_	_	_	_	_	SpaceAfter=No	O
+24	,	,	PUNCT	Z	_	_	_	_	_	O
+25	pri	_	_	_	_	_	_	_	_	O
+26	tom	_	_	_	_	_	_	_	SpaceAfter=No	O
+27	,	,	PUNCT	Z	_	_	_	_	_	O
+28	prikazanog	_	_	_	_	_	_	_	_	O
+29	inovativno	_	_	_	_	_	_	_	SpaceAfter=No	O
+30	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 7.10
+# text = „Pikolo, kao kakva kristalna pahulja među instrumentima, svojom bojom, intenzitetom, virtuoznošću, ali i toplinom nežnošću i idiličnom lepotom, stvara, emituje i usmerava tok ovog koncerta ka tačkama u kojima nenametljivo dominira“, reči su kompozitora izrečenih u vezi sa koncertom.
+1	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+2	Pikolo	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	kao	_	_	_	_	_	_	_	_	O
+5	kakva	_	_	_	_	_	_	_	_	O
+6	kristalna	_	_	_	_	_	_	_	_	O
+7	pahulja	_	_	_	_	_	_	_	_	O
+8	među	_	_	_	_	_	_	_	_	O
+9	instrumentima	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	svojom	_	_	_	_	_	_	_	_	O
+12	bojom	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+14	intenzitetom	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	,	,	PUNCT	Z	_	_	_	_	_	O
+16	virtuoznošću	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	,	,	PUNCT	Z	_	_	_	_	_	O
+18	ali	_	_	_	_	_	_	_	_	O
+19	i	_	_	_	_	_	_	_	_	O
+20	toplinom	_	_	_	_	_	_	_	_	O
+21	nežnošću	_	_	_	_	_	_	_	_	O
+22	i	_	_	_	_	_	_	_	_	O
+23	idiličnom	_	_	_	_	_	_	_	_	O
+24	lepotom	_	_	_	_	_	_	_	SpaceAfter=No	O
+25	,	,	PUNCT	Z	_	_	_	_	_	O
+26	stvara	_	_	_	_	_	_	_	SpaceAfter=No	O
+27	,	,	PUNCT	Z	_	_	_	_	_	O
+28	emituje	_	_	_	_	_	_	_	_	O
+29	i	_	_	_	_	_	_	_	_	O
+30	usmerava	_	_	_	_	_	_	_	_	O
+31	tok	_	_	_	_	_	_	_	_	O
+32	ovog	_	_	_	_	_	_	_	_	O
+33	koncerta	_	_	_	_	_	_	_	_	O
+34	ka	_	_	_	_	_	_	_	_	O
+35	tačkama	_	_	_	_	_	_	_	_	O
+36	u	_	_	_	_	_	_	_	_	O
+37	kojima	_	_	_	_	_	_	_	_	O
+38	nenametljivo	_	_	_	_	_	_	_	_	O
+39	dominira	_	_	_	_	_	_	_	SpaceAfter=No	O
+40	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+41	,	,	PUNCT	Z	_	_	_	_	_	O
+42	reči	_	_	_	_	_	_	_	_	O
+43	su	_	_	_	_	_	_	_	_	O
+44	kompozitora	_	_	_	_	_	_	_	_	O
+45	izrečenih	_	_	_	_	_	_	_	_	O
+46	u	_	_	_	_	_	_	_	_	O
+47	vezi	_	_	_	_	_	_	_	_	O
+48	sa	_	_	_	_	_	_	_	_	O
+49	koncertom	_	_	_	_	_	_	_	SpaceAfter=No	O
+50	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 7.11
+# text = I zaista, čini se da je Snježana Pavićević uspela da prodorni instrument kakav je pikolo, pretvori u nežni emotivni glas čija snaga se ispoljava onda kada se emocionalna razdraženost pretvara u afektivni vrisak.
+1	I	_	_	_	_	_	_	_	_	O
+2	zaista	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	čini	_	_	_	_	_	_	_	_	O
+5	se	_	_	_	_	_	_	_	_	O
+6	da	_	_	_	_	_	_	_	_	O
+7	je	_	_	_	_	_	_	_	_	O
+8	Snježana	_	_	_	_	_	_	_	_	B-PER
+9	Pavićević	_	_	_	_	_	_	_	_	I-PER
+10	uspela	_	_	_	_	_	_	_	_	O
+11	da	_	_	_	_	_	_	_	_	O
+12	prodorni	_	_	_	_	_	_	_	_	O
+13	instrument	_	_	_	_	_	_	_	_	O
+14	kakav	_	_	_	_	_	_	_	_	O
+15	je	_	_	_	_	_	_	_	_	O
+16	pikolo	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	,	,	PUNCT	Z	_	_	_	_	_	O
+18	pretvori	_	_	_	_	_	_	_	_	O
+19	u	_	_	_	_	_	_	_	_	O
+20	nežni	_	_	_	_	_	_	_	_	O
+21	emotivni	_	_	_	_	_	_	_	_	O
+22	glas	_	_	_	_	_	_	_	_	O
+23	čija	_	_	_	_	_	_	_	_	O
+24	snaga	_	_	_	_	_	_	_	_	O
+25	se	_	_	_	_	_	_	_	_	O
+26	ispoljava	_	_	_	_	_	_	_	_	O
+27	onda	_	_	_	_	_	_	_	_	O
+28	kada	_	_	_	_	_	_	_	_	O
+29	se	_	_	_	_	_	_	_	_	O
+30	emocionalna	_	_	_	_	_	_	_	_	O
+31	razdraženost	_	_	_	_	_	_	_	_	O
+32	pretvara	_	_	_	_	_	_	_	_	O
+33	u	_	_	_	_	_	_	_	_	O
+34	afektivni	_	_	_	_	_	_	_	_	O
+35	vrisak	_	_	_	_	_	_	_	SpaceAfter=No	O
+36	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 8
+# sent_id = 8.1
+# text = Kompozitor Ivan Brkljačić, zaista je uspeo da stvori delo koje ne samo da tehnički briljira, već i emocionalno rezonira sa publikom, prikazujući pikolo flautu, za većinu nas, u jednom potpuno novom i intrigantnom svetlu.
+1	Kompozitor	_	_	_	_	_	_	_	_	O
+2	Ivan	_	_	_	_	_	_	_	_	B-PER
+3	Brkljačić	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	zaista	_	_	_	_	_	_	_	_	O
+6	je	_	_	_	_	_	_	_	_	O
+7	uspeo	_	_	_	_	_	_	_	_	O
+8	da	_	_	_	_	_	_	_	_	O
+9	stvori	_	_	_	_	_	_	_	_	O
+10	delo	_	_	_	_	_	_	_	_	O
+11	koje	_	_	_	_	_	_	_	_	O
+12	ne	_	_	_	_	_	_	_	_	O
+13	samo	_	_	_	_	_	_	_	_	O
+14	da	_	_	_	_	_	_	_	_	O
+15	tehnički	_	_	_	_	_	_	_	_	O
+16	briljira	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	,	,	PUNCT	Z	_	_	_	_	_	O
+18	već	_	_	_	_	_	_	_	_	O
+19	i	_	_	_	_	_	_	_	_	O
+20	emocionalno	_	_	_	_	_	_	_	_	O
+21	rezonira	_	_	_	_	_	_	_	_	O
+22	sa	_	_	_	_	_	_	_	_	O
+23	publikom	_	_	_	_	_	_	_	SpaceAfter=No	O
+24	,	,	PUNCT	Z	_	_	_	_	_	O
+25	prikazujući	_	_	_	_	_	_	_	_	O
+26	pikolo	_	_	_	_	_	_	_	_	O
+27	flautu	_	_	_	_	_	_	_	SpaceAfter=No	O
+28	,	,	PUNCT	Z	_	_	_	_	_	O
+29	za	_	_	_	_	_	_	_	_	O
+30	većinu	_	_	_	_	_	_	_	_	O
+31	nas	_	_	_	_	_	_	_	SpaceAfter=No	O
+32	,	,	PUNCT	Z	_	_	_	_	_	O
+33	u	_	_	_	_	_	_	_	_	O
+34	jednom	_	_	_	_	_	_	_	_	O
+35	potpuno	_	_	_	_	_	_	_	_	O
+36	novom	_	_	_	_	_	_	_	_	O
+37	i	_	_	_	_	_	_	_	_	O
+38	intrigantnom	_	_	_	_	_	_	_	_	O
+39	svetlu	_	_	_	_	_	_	_	SpaceAfter=No	O
+40	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 8.2
+# text = Sve to moguće je bilo ostvariti zahvaljujući izvanrednoj interpretaciji Snježane Pavićević koja je bez zadrške uspela da oživi kompozitorove ideje.
+1	Sve	_	_	_	_	_	_	_	_	O
+2	to	_	_	_	_	_	_	_	_	O
+3	moguće	_	_	_	_	_	_	_	_	O
+4	je	_	_	_	_	_	_	_	_	O
+5	bilo	_	_	_	_	_	_	_	_	O
+6	ostvariti	_	_	_	_	_	_	_	_	O
+7	zahvaljujući	_	_	_	_	_	_	_	_	O
+8	izvanrednoj	_	_	_	_	_	_	_	_	O
+9	interpretaciji	_	_	_	_	_	_	_	_	O
+10	Snježane	_	_	_	_	_	_	_	_	B-PER
+11	Pavićević	_	_	_	_	_	_	_	_	I-PER
+12	koja	_	_	_	_	_	_	_	_	O
+13	je	_	_	_	_	_	_	_	_	O
+14	bez	_	_	_	_	_	_	_	_	O
+15	zadrške	_	_	_	_	_	_	_	_	O
+16	uspela	_	_	_	_	_	_	_	_	O
+17	da	_	_	_	_	_	_	_	_	O
+18	oživi	_	_	_	_	_	_	_	_	O
+19	kompozitorove	_	_	_	_	_	_	_	_	O
+20	ideje	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	.	.	PUNCT	Z	_	_	_	_	_	O
+

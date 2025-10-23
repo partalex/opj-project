@@ -1,0 +1,78 @@
+#name = marija
+#domen = tviter
+#url = https://x.com/SportalSrbija/status/1969746818478076005
+# newpar id = 1
+# sent_id = 1.1
+# text = ANGELINA TOPIĆ OSVOJILA BRONZU NA SVETSKOM PRVENSTVU
+1	ANGELINA	_	_	_	_	_	_	_	_	O
+2	TOPIĆ	_	_	_	_	_	_	_	_	O
+3	OSVOJILA	_	_	_	_	_	_	_	_	O
+4	BRONZU	_	_	_	_	_	_	_	_	O
+5	NA	_	_	_	_	_	_	_	_	O
+6	SVETSKOM	_	_	_	_	_	_	_	_	O
+7	PRVENSTVU	_	_	_	_	_	_	_	_	O
+
+# newpar id = 2
+# sent_id = 2.1
+# text = Topićeva je preskočila 1,97m i stigla do deobe trećeg mesta sa Jaroslavom Mahučik, olimpijskom šampionkom.
+1	Topićeva	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	preskočila	_	_	_	_	_	_	_	_	O
+4	1,97	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	m	_	_	_	_	_	_	_	_	O
+6	i	_	_	_	_	_	_	_	_	O
+7	stigla	_	_	_	_	_	_	_	_	O
+8	do	_	_	_	_	_	_	_	_	O
+9	deobe	_	_	_	_	_	_	_	_	O
+10	trećeg	_	_	_	_	_	_	_	_	O
+11	mesta	_	_	_	_	_	_	_	_	O
+12	sa	_	_	_	_	_	_	_	_	O
+13	Jaroslavom	_	_	_	_	_	_	_	_	O
+14	Mahučik	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	,	,	PUNCT	Z	_	_	_	_	_	O
+16	olimpijskom	_	_	_	_	_	_	_	_	O
+17	šampionkom	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.2
+# text = Upravo joj je ona na kraju obezbedila medalju, pošto je na visini od 2,02 kiksnula i ostala na deobi sa našom atletičarkom.
+1	Upravo	_	_	_	_	_	_	_	_	O
+2	joj	_	_	_	_	_	_	_	_	O
+3	je	_	_	_	_	_	_	_	_	O
+4	ona	_	_	_	_	_	_	_	_	O
+5	na	_	_	_	_	_	_	_	_	O
+6	kraju	_	_	_	_	_	_	_	_	O
+7	obezbedila	_	_	_	_	_	_	_	_	O
+8	medalju	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	pošto	_	_	_	_	_	_	_	_	O
+11	je	_	_	_	_	_	_	_	_	O
+12	na	_	_	_	_	_	_	_	_	O
+13	visini	_	_	_	_	_	_	_	_	O
+14	od	_	_	_	_	_	_	_	_	O
+15	2,02	_	_	_	_	_	_	_	_	O
+16	kiksnula	_	_	_	_	_	_	_	_	O
+17	i	_	_	_	_	_	_	_	_	O
+18	ostala	_	_	_	_	_	_	_	_	O
+19	na	_	_	_	_	_	_	_	_	O
+20	deobi	_	_	_	_	_	_	_	_	O
+21	sa	_	_	_	_	_	_	_	_	O
+22	našom	_	_	_	_	_	_	_	_	O
+23	atletičarkom	_	_	_	_	_	_	_	SpaceAfter=No	O
+24	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 3
+# sent_id = 3.1
+# text = RADUJ SE, SRBIJO!
+1	RADUJ	_	_	_	_	_	_	_	_	O
+2	SE	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	SRBIJO	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	!	!	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 3.2
+# text = BRAVO, ANGELINA
+1	BRAVO	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	ANGELINA	_	_	_	_	_	_	_	_	O
+

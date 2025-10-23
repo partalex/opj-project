@@ -1,0 +1,213 @@
+#name = marija
+#domen = novinski
+#url = https://n1info.rs/svet/narukvica-faraona-ukradena-iz-muzeja-i-istopljena-u-zlato/
+# newpar id = 1
+# sent_id = 1.1
+# text = Zlatna narukvica stara 3.000 godina, koja je ranije ovog meseca nestala iz egipatskog muzeja, ukradena je i istopljena, saopštilo je Ministarstvo unutrašnjih poslova Egipta.
+1	Zlatna	_	_	_	_	_	_	_	_	O
+2	narukvica	_	_	_	_	_	_	_	_	O
+3	stara	_	_	_	_	_	_	_	_	O
+4	3.000	_	_	_	_	_	_	_	_	O
+5	godina	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	koja	_	_	_	_	_	_	_	_	O
+8	je	_	_	_	_	_	_	_	_	O
+9	ranije	_	_	_	_	_	_	_	_	O
+10	ovog	_	_	_	_	_	_	_	_	O
+11	meseca	_	_	_	_	_	_	_	_	O
+12	nestala	_	_	_	_	_	_	_	_	O
+13	iz	_	_	_	_	_	_	_	_	O
+14	egipatskog	_	_	_	_	_	_	_	_	O
+15	muzeja	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	,	,	PUNCT	Z	_	_	_	_	_	O
+17	ukradena	_	_	_	_	_	_	_	_	O
+18	je	_	_	_	_	_	_	_	_	O
+19	i	_	_	_	_	_	_	_	_	O
+20	istopljena	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	,	,	PUNCT	Z	_	_	_	_	_	O
+22	saopštilo	_	_	_	_	_	_	_	_	O
+23	je	_	_	_	_	_	_	_	_	O
+24	Ministarstvo	_	_	_	_	_	_	_	_	O
+25	unutrašnjih	_	_	_	_	_	_	_	_	O
+26	poslova	_	_	_	_	_	_	_	_	O
+27	Egipta	_	_	_	_	_	_	_	SpaceAfter=No	O
+28	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 2
+# sent_id = 2.1
+# text = Narukvica, ukrašena perlama od lapis lazulija, pripadala je kralju Amenemopu iz Trećeg prelaznog perioda oko 1.000. godine pre nove ere, preneo je Rojters.
+1	Narukvica	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	ukrašena	_	_	_	_	_	_	_	_	O
+4	perlama	_	_	_	_	_	_	_	_	O
+5	od	_	_	_	_	_	_	_	_	O
+6	lapis	_	_	_	_	_	_	_	_	O
+7	lazulija	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	pripadala	_	_	_	_	_	_	_	_	O
+10	je	_	_	_	_	_	_	_	_	O
+11	kralju	_	_	_	_	_	_	_	_	O
+12	Amenemopu	_	_	_	_	_	_	_	_	O
+13	iz	_	_	_	_	_	_	_	_	O
+14	Trećeg	_	_	_	_	_	_	_	_	O
+15	prelaznog	_	_	_	_	_	_	_	_	O
+16	perioda	_	_	_	_	_	_	_	_	O
+17	oko	_	_	_	_	_	_	_	_	O
+18	1.000.	_	_	_	_	_	_	_	_	O
+19	godine	_	_	_	_	_	_	_	_	O
+20	pre	_	_	_	_	_	_	_	_	O
+21	nove	_	_	_	_	_	_	_	_	O
+22	ere	_	_	_	_	_	_	_	SpaceAfter=No	O
+23	,	,	PUNCT	Z	_	_	_	_	_	O
+24	preneo	_	_	_	_	_	_	_	_	O
+25	je	_	_	_	_	_	_	_	_	O
+26	Rojters	_	_	_	_	_	_	_	SpaceAfter=No	O
+27	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 3
+# sent_id = 3.1
+# text = Komad je nestao 9. septembra iz sefa u laboratoriji, posle čega su egipatske vlasti pokrenule potragu i pojačale kontrole na aerodromima, lukama i granicama zbog straha od šverca.
+1	Komad	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	nestao	_	_	_	_	_	_	_	_	O
+4	9.	_	_	_	_	_	_	_	_	O
+5	septembra	_	_	_	_	_	_	_	_	O
+6	iz	_	_	_	_	_	_	_	_	O
+7	sefa	_	_	_	_	_	_	_	_	O
+8	u	_	_	_	_	_	_	_	_	O
+9	laboratoriji	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	posle	_	_	_	_	_	_	_	_	O
+12	čega	_	_	_	_	_	_	_	_	O
+13	su	_	_	_	_	_	_	_	_	O
+14	egipatske	_	_	_	_	_	_	_	_	O
+15	vlasti	_	_	_	_	_	_	_	_	O
+16	pokrenule	_	_	_	_	_	_	_	_	O
+17	potragu	_	_	_	_	_	_	_	_	O
+18	i	_	_	_	_	_	_	_	_	O
+19	pojačale	_	_	_	_	_	_	_	_	O
+20	kontrole	_	_	_	_	_	_	_	_	O
+21	na	_	_	_	_	_	_	_	_	O
+22	aerodromima	_	_	_	_	_	_	_	SpaceAfter=No	O
+23	,	,	PUNCT	Z	_	_	_	_	_	O
+24	lukama	_	_	_	_	_	_	_	_	O
+25	i	_	_	_	_	_	_	_	_	O
+26	granicama	_	_	_	_	_	_	_	_	O
+27	zbog	_	_	_	_	_	_	_	_	O
+28	straha	_	_	_	_	_	_	_	_	O
+29	od	_	_	_	_	_	_	_	_	O
+30	šverca	_	_	_	_	_	_	_	SpaceAfter=No	O
+31	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 4
+# sent_id = 4.1
+# text = Istraga je dovela do specijaliste za restauraciju muzeja koji je artefakt ukrao i prodao trgovcu srebrom.
+1	Istraga	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	dovela	_	_	_	_	_	_	_	_	O
+4	do	_	_	_	_	_	_	_	_	O
+5	specijaliste	_	_	_	_	_	_	_	_	O
+6	za	_	_	_	_	_	_	_	_	O
+7	restauraciju	_	_	_	_	_	_	_	_	O
+8	muzeja	_	_	_	_	_	_	_	_	O
+9	koji	_	_	_	_	_	_	_	_	O
+10	je	_	_	_	_	_	_	_	_	O
+11	artefakt	_	_	_	_	_	_	_	_	O
+12	ukrao	_	_	_	_	_	_	_	_	O
+13	i	_	_	_	_	_	_	_	_	O
+14	prodao	_	_	_	_	_	_	_	_	O
+15	trgovcu	_	_	_	_	_	_	_	_	O
+16	srebrom	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 4.2
+# text = Trgovac ga je predao vlasniku radionice u istorijskom delu Kaira, koji je narukvicu prodao topionici zlata, gde je metal pomešan s drugim predmetima.
+1	Trgovac	_	_	_	_	_	_	_	_	O
+2	ga	_	_	_	_	_	_	_	_	O
+3	je	_	_	_	_	_	_	_	_	O
+4	predao	_	_	_	_	_	_	_	_	O
+5	vlasniku	_	_	_	_	_	_	_	_	O
+6	radionice	_	_	_	_	_	_	_	_	O
+7	u	_	_	_	_	_	_	_	_	O
+8	istorijskom	_	_	_	_	_	_	_	_	O
+9	delu	_	_	_	_	_	_	_	_	O
+10	Kaira	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	koji	_	_	_	_	_	_	_	_	O
+13	je	_	_	_	_	_	_	_	_	O
+14	narukvicu	_	_	_	_	_	_	_	_	O
+15	prodao	_	_	_	_	_	_	_	_	O
+16	topionici	_	_	_	_	_	_	_	_	O
+17	zlata	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	,	,	PUNCT	Z	_	_	_	_	_	O
+19	gde	_	_	_	_	_	_	_	_	O
+20	je	_	_	_	_	_	_	_	_	O
+21	metal	_	_	_	_	_	_	_	_	O
+22	pomešan	_	_	_	_	_	_	_	_	O
+23	s	_	_	_	_	_	_	_	_	O
+24	drugim	_	_	_	_	_	_	_	_	O
+25	predmetima	_	_	_	_	_	_	_	SpaceAfter=No	O
+26	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 5
+# sent_id = 5.1
+# text = Resorno ministarstvo je navelo da su osumnjičeni uhapšeni i da je zaplenjen prihod od prodaje u vrednosti oko 4.000 dolara.
+1	Resorno	_	_	_	_	_	_	_	_	O
+2	ministarstvo	_	_	_	_	_	_	_	_	O
+3	je	_	_	_	_	_	_	_	_	O
+4	navelo	_	_	_	_	_	_	_	_	O
+5	da	_	_	_	_	_	_	_	_	O
+6	su	_	_	_	_	_	_	_	_	O
+7	osumnjičeni	_	_	_	_	_	_	_	_	O
+8	uhapšeni	_	_	_	_	_	_	_	_	O
+9	i	_	_	_	_	_	_	_	_	O
+10	da	_	_	_	_	_	_	_	_	O
+11	je	_	_	_	_	_	_	_	_	O
+12	zaplenjen	_	_	_	_	_	_	_	_	O
+13	prihod	_	_	_	_	_	_	_	_	O
+14	od	_	_	_	_	_	_	_	_	O
+15	prodaje	_	_	_	_	_	_	_	_	O
+16	u	_	_	_	_	_	_	_	_	O
+17	vrednosti	_	_	_	_	_	_	_	_	O
+18	oko	_	_	_	_	_	_	_	_	O
+19	4.000	_	_	_	_	_	_	_	_	O
+20	dolara	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 6
+# sent_id = 6.1
+# text = Incident se dogodio nekoliko nedelja pre planiranog novembarskog otvaranja Velikog egipatskog muzeja u blizini piramida u Gizi, ključnog projekta za promociju drevnog nasleđa i privlačenje stranih turista, preneo je Rojters.
+1	Incident	_	_	_	_	_	_	_	_	O
+2	se	_	_	_	_	_	_	_	_	O
+3	dogodio	_	_	_	_	_	_	_	_	O
+4	nekoliko	_	_	_	_	_	_	_	_	O
+5	nedelja	_	_	_	_	_	_	_	_	O
+6	pre	_	_	_	_	_	_	_	_	O
+7	planiranog	_	_	_	_	_	_	_	_	O
+8	novembarskog	_	_	_	_	_	_	_	_	O
+9	otvaranja	_	_	_	_	_	_	_	_	O
+10	Velikog	_	_	_	_	_	_	_	_	O
+11	egipatskog	_	_	_	_	_	_	_	_	O
+12	muzeja	_	_	_	_	_	_	_	_	O
+13	u	_	_	_	_	_	_	_	_	O
+14	blizini	_	_	_	_	_	_	_	_	O
+15	piramida	_	_	_	_	_	_	_	_	O
+16	u	_	_	_	_	_	_	_	_	O
+17	Gizi	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	,	,	PUNCT	Z	_	_	_	_	_	O
+19	ključnog	_	_	_	_	_	_	_	_	O
+20	projekta	_	_	_	_	_	_	_	_	O
+21	za	_	_	_	_	_	_	_	_	O
+22	promociju	_	_	_	_	_	_	_	_	O
+23	drevnog	_	_	_	_	_	_	_	_	O
+24	nasleđa	_	_	_	_	_	_	_	_	O
+25	i	_	_	_	_	_	_	_	_	O
+26	privlačenje	_	_	_	_	_	_	_	_	O
+27	stranih	_	_	_	_	_	_	_	_	O
+28	turista	_	_	_	_	_	_	_	SpaceAfter=No	O
+29	,	,	PUNCT	Z	_	_	_	_	_	O
+30	preneo	_	_	_	_	_	_	_	_	O
+31	je	_	_	_	_	_	_	_	_	O
+32	Rojters	_	_	_	_	_	_	_	SpaceAfter=No	O
+33	.	.	PUNCT	Z	_	_	_	_	_	O
+

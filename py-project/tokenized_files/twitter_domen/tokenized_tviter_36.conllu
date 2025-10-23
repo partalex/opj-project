@@ -1,0 +1,65 @@
+#name = teodora
+#domen = tviter
+#url = https://x.com/chemu_optimizam/status/1973795071133888649
+# newpar id = 1
+# sent_id = 1.1
+# text = Ovaj od celog Kopenhagena odveo Suzanu da ga slika u nekom polumraku negde na obali reke ko Miki Manojlović u "Buretu Baruta".
+1	Ovaj	_	_	_	_	_	_	_	_	O
+2	od	_	_	_	_	_	_	_	_	O
+3	celog	_	_	_	_	_	_	_	_	O
+4	Kopenhagena	_	_	_	_	_	_	_	_	O
+5	odveo	_	_	_	_	_	_	_	_	O
+6	Suzanu	_	_	_	_	_	_	_	_	O
+7	da	_	_	_	_	_	_	_	_	O
+8	ga	_	_	_	_	_	_	_	_	O
+9	slika	_	_	_	_	_	_	_	_	O
+10	u	_	_	_	_	_	_	_	_	O
+11	nekom	_	_	_	_	_	_	_	_	O
+12	polumraku	_	_	_	_	_	_	_	_	O
+13	negde	_	_	_	_	_	_	_	_	O
+14	na	_	_	_	_	_	_	_	_	O
+15	obali	_	_	_	_	_	_	_	_	O
+16	reke	_	_	_	_	_	_	_	_	O
+17	ko	_	_	_	_	_	_	_	_	O
+18	Miki	_	_	_	_	_	_	_	_	O
+19	Manojlović	_	_	_	_	_	_	_	_	O
+20	u	_	_	_	_	_	_	_	_	O
+21	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+22	Buretu	_	_	_	_	_	_	_	_	O
+23	Baruta	_	_	_	_	_	_	_	SpaceAfter=No	O
+24	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+25	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.2
+# text = Fali samo onaj brod sa filharmonijskim orkestrom da se pojavi iza njega i onaj Kosta sa daskom u ruci, pa vi recite da ovo nije potpuno poremećen čovek.
+1	Fali	_	_	_	_	_	_	_	_	O
+2	samo	_	_	_	_	_	_	_	_	O
+3	onaj	_	_	_	_	_	_	_	_	O
+4	brod	_	_	_	_	_	_	_	_	O
+5	sa	_	_	_	_	_	_	_	_	O
+6	filharmonijskim	_	_	_	_	_	_	_	_	O
+7	orkestrom	_	_	_	_	_	_	_	_	O
+8	da	_	_	_	_	_	_	_	_	O
+9	se	_	_	_	_	_	_	_	_	O
+10	pojavi	_	_	_	_	_	_	_	_	O
+11	iza	_	_	_	_	_	_	_	_	O
+12	njega	_	_	_	_	_	_	_	_	O
+13	i	_	_	_	_	_	_	_	_	O
+14	onaj	_	_	_	_	_	_	_	_	O
+15	Kosta	_	_	_	_	_	_	_	_	O
+16	sa	_	_	_	_	_	_	_	_	O
+17	daskom	_	_	_	_	_	_	_	_	O
+18	u	_	_	_	_	_	_	_	_	O
+19	ruci	_	_	_	_	_	_	_	SpaceAfter=No	O
+20	,	,	PUNCT	Z	_	_	_	_	_	O
+21	pa	_	_	_	_	_	_	_	_	O
+22	vi	_	_	_	_	_	_	_	_	O
+23	recite	_	_	_	_	_	_	_	_	O
+24	da	_	_	_	_	_	_	_	_	O
+25	ovo	_	_	_	_	_	_	_	_	O
+26	nije	_	_	_	_	_	_	_	_	O
+27	potpuno	_	_	_	_	_	_	_	_	O
+28	poremećen	_	_	_	_	_	_	_	_	O
+29	čovek	_	_	_	_	_	_	_	SpaceAfter=No	O
+30	.	.	PUNCT	Z	_	_	_	_	_	O
+

@@ -1,0 +1,66 @@
+#name = teodora
+#domen = tviter
+#url = https://x.com/timjohnbyford/status/1973550859478086016
+# newpar id = 1
+# sent_id = 1.1
+# text = Apropo političke zloupotrebe dece.
+1	Apropo	_	_	_	_	_	_	_	_	O
+2	političke	_	_	_	_	_	_	_	_	O
+3	zloupotrebe	_	_	_	_	_	_	_	_	O
+4	dece	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.2
+# text = Kada sam imao 11 godina pojavio sam se u reklami za DEPOS.
+1	Kada	_	_	_	_	_	_	_	_	O
+2	sam	_	_	_	_	_	_	_	_	O
+3	imao	_	_	_	_	_	_	_	_	O
+4	11	_	_	_	_	_	_	_	_	O
+5	godina	_	_	_	_	_	_	_	_	O
+6	pojavio	_	_	_	_	_	_	_	_	O
+7	sam	_	_	_	_	_	_	_	_	O
+8	se	_	_	_	_	_	_	_	_	O
+9	u	_	_	_	_	_	_	_	_	O
+10	reklami	_	_	_	_	_	_	_	_	O
+11	za	_	_	_	_	_	_	_	_	O
+12	DEPOS	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.3
+# text = Oca mi je igrao moj otac jer je Rambo Amadeus koji je trebalo da igra zakasnio na snimanje putujući iz, recimo, Skoplja.
+1	Oca	_	_	_	_	_	_	_	_	O
+2	mi	_	_	_	_	_	_	_	_	O
+3	je	_	_	_	_	_	_	_	_	O
+4	igrao	_	_	_	_	_	_	_	_	O
+5	moj	_	_	_	_	_	_	_	_	O
+6	otac	_	_	_	_	_	_	_	_	O
+7	jer	_	_	_	_	_	_	_	_	O
+8	je	_	_	_	_	_	_	_	_	O
+9	Rambo	_	_	_	_	_	_	_	_	O
+10	Amadeus	_	_	_	_	_	_	_	_	O
+11	koji	_	_	_	_	_	_	_	_	O
+12	je	_	_	_	_	_	_	_	_	O
+13	trebalo	_	_	_	_	_	_	_	_	O
+14	da	_	_	_	_	_	_	_	_	O
+15	igra	_	_	_	_	_	_	_	_	O
+16	zakasnio	_	_	_	_	_	_	_	_	O
+17	na	_	_	_	_	_	_	_	_	O
+18	snimanje	_	_	_	_	_	_	_	_	O
+19	putujući	_	_	_	_	_	_	_	_	O
+20	iz	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	,	,	PUNCT	Z	_	_	_	_	_	O
+22	recimo	_	_	_	_	_	_	_	SpaceAfter=No	O
+23	,	,	PUNCT	Z	_	_	_	_	_	O
+24	Skoplja	_	_	_	_	_	_	_	SpaceAfter=No	O
+25	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.4
+# text = Reklama je zabranjena zbog zloupotrebe dece.
+1	Reklama	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	zabranjena	_	_	_	_	_	_	_	_	O
+4	zbog	_	_	_	_	_	_	_	_	O
+5	zloupotrebe	_	_	_	_	_	_	_	_	O
+6	dece	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	.	.	PUNCT	Z	_	_	_	_	_	O
+

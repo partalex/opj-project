@@ -1,0 +1,630 @@
+#name = milena
+#domen = muzika
+#url = https://www.klasicnimirko.com/muzicke-kritike/mocartov-rekvijem-i-violinski-koncert-cajkovskog-na-kolarcu-virtuozni-simovic-i-dirljivi-rts
+# newpar id = 1
+# sent_id = 1.1
+# text = Dan Velike dvorane Kolarčeve zadužbine proslavljen je veličanstveno, uz dva kapitalna dela evropske klasične muzike – Mocartov Rekvijem i Koncert za violinu u D-duru, op. 35 Čajkovskog.
+1	Dan	_	_	_	_	_	_	_	_	O
+2	Velike	_	_	_	_	_	_	_	_	B-LOC
+3	dvorane	_	_	_	_	_	_	_	_	I-LOC
+4	Kolarčeve	_	_	_	_	_	_	_	_	I-LOC
+5	zadužbine	_	_	_	_	_	_	_	_	I-LOC
+6	proslavljen	_	_	_	_	_	_	_	_	O
+7	je	_	_	_	_	_	_	_	_	O
+8	veličanstveno	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	uz	_	_	_	_	_	_	_	_	O
+11	dva	_	_	_	_	_	_	_	_	O
+12	kapitalna	_	_	_	_	_	_	_	_	O
+13	dela	_	_	_	_	_	_	_	_	O
+14	evropske	_	_	_	_	_	_	_	_	O
+15	klasične	_	_	_	_	_	_	_	_	O
+16	muzike	_	_	_	_	_	_	_	_	O
+17	–	–	PUNCT	Z	_	_	_	_	_	O
+18	Mocartov	_	_	_	_	_	_	_	_	B-PER
+19	Rekvijem	_	_	_	_	_	_	_	_	O
+20	i	_	_	_	_	_	_	_	_	O
+21	Koncert	_	_	_	_	_	_	_	_	O
+22	za	_	_	_	_	_	_	_	_	O
+23	violinu	_	_	_	_	_	_	_	_	O
+24	u	_	_	_	_	_	_	_	_	O
+25	D-duru	_	_	_	_	_	_	_	SpaceAfter=No	O
+26	,	,	PUNCT	Z	_	_	_	_	_	O
+27	op.	_	_	_	_	_	_	_	_	O
+28	35	_	_	_	_	_	_	_	_	O
+29	Čajkovskog	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
+30	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.2
+# text = Koncert je bio izuzetna prilika za predstavljanje Simfonijskog orkestra i Hora RTS-a, sjajnih solista i nedavno imenovanog šefa dirigenta, Srboljuba Dinića.
+1	Koncert	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	bio	_	_	_	_	_	_	_	_	O
+4	izuzetna	_	_	_	_	_	_	_	_	O
+5	prilika	_	_	_	_	_	_	_	_	O
+6	za	_	_	_	_	_	_	_	_	O
+7	predstavljanje	_	_	_	_	_	_	_	_	O
+8	Simfonijskog	_	_	_	_	_	_	_	_	B-ORG
+9	orkestra	_	_	_	_	_	_	_	_	I-ORG
+10	i	_	_	_	_	_	_	_	_	O
+11	Hora	_	_	_	_	_	_	_	_	B-ORG
+12	RTS-a	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+14	sjajnih	_	_	_	_	_	_	_	_	O
+15	solista	_	_	_	_	_	_	_	_	O
+16	i	_	_	_	_	_	_	_	_	O
+17	nedavno	_	_	_	_	_	_	_	_	O
+18	imenovanog	_	_	_	_	_	_	_	_	O
+19	šefa	_	_	_	_	_	_	_	_	O
+20	dirigenta	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	,	,	PUNCT	Z	_	_	_	_	_	O
+22	Srboljuba	_	_	_	_	_	_	_	_	B-PER
+23	Dinića	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+24	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 2
+# sent_id = 2.1
+# text = Svečani zvuk Mocartovog Rekvijema
+1	Svečani	_	_	_	_	_	_	_	_	O
+2	zvuk	_	_	_	_	_	_	_	_	O
+3	Mocartovog	_	_	_	_	_	_	_	_	B-PER
+4	Rekvijema	_	_	_	_	_	_	_	_	O
+
+# newpar id = 3
+# sent_id = 3.1
+# text = Koncert je otvoren svečanim zvukom Mocartovog poslednjeg dela, nedovršenog Rekvijema, u uobičajenoj dopuni Zismajera.
+1	Koncert	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	otvoren	_	_	_	_	_	_	_	_	O
+4	svečanim	_	_	_	_	_	_	_	_	O
+5	zvukom	_	_	_	_	_	_	_	_	O
+6	Mocartovog	_	_	_	_	_	_	_	_	B-PER
+7	poslednjeg	_	_	_	_	_	_	_	_	O
+8	dela	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	nedovršenog	_	_	_	_	_	_	_	_	O
+11	Rekvijema	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	u	_	_	_	_	_	_	_	_	O
+14	uobičajenoj	_	_	_	_	_	_	_	_	O
+15	dopuni	_	_	_	_	_	_	_	_	O
+16	Zismajera	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
+17	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 3.2
+# text = Iako smo imali priliku da ovo delo slušamo u izvođenju Simfonijskog orkestra i Hora RTS-a pod različitim dirigentskim palicama, ovaj koncert doneo je svež, drugačiji zvuk i nov pristup interpretaciji.
+1	Iako	_	_	_	_	_	_	_	_	O
+2	smo	_	_	_	_	_	_	_	_	O
+3	imali	_	_	_	_	_	_	_	_	O
+4	priliku	_	_	_	_	_	_	_	_	O
+5	da	_	_	_	_	_	_	_	_	O
+6	ovo	_	_	_	_	_	_	_	_	O
+7	delo	_	_	_	_	_	_	_	_	O
+8	slušamo	_	_	_	_	_	_	_	_	O
+9	u	_	_	_	_	_	_	_	_	O
+10	izvođenju	_	_	_	_	_	_	_	_	O
+11	Simfonijskog	_	_	_	_	_	_	_	_	B-ORG
+12	orkestra	_	_	_	_	_	_	_	_	I-ORG
+13	i	_	_	_	_	_	_	_	_	O
+14	Hora	_	_	_	_	_	_	_	_	B-ORG
+15	RTS-a	_	_	_	_	_	_	_	_	I-ORG
+16	pod	_	_	_	_	_	_	_	_	O
+17	različitim	_	_	_	_	_	_	_	_	O
+18	dirigentskim	_	_	_	_	_	_	_	_	O
+19	palicama	_	_	_	_	_	_	_	SpaceAfter=No	O
+20	,	,	PUNCT	Z	_	_	_	_	_	O
+21	ovaj	_	_	_	_	_	_	_	_	O
+22	koncert	_	_	_	_	_	_	_	_	O
+23	doneo	_	_	_	_	_	_	_	_	O
+24	je	_	_	_	_	_	_	_	_	O
+25	svež	_	_	_	_	_	_	_	SpaceAfter=No	O
+26	,	,	PUNCT	Z	_	_	_	_	_	O
+27	drugačiji	_	_	_	_	_	_	_	_	O
+28	zvuk	_	_	_	_	_	_	_	_	O
+29	i	_	_	_	_	_	_	_	_	O
+30	nov	_	_	_	_	_	_	_	_	O
+31	pristup	_	_	_	_	_	_	_	_	O
+32	interpretaciji	_	_	_	_	_	_	_	SpaceAfter=No	O
+33	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 3.3
+# text = Umesto romantizovane vizije Rekvijema, izvođači su doneli strože, stabilnije građenje forme, s jasnim osećajem za Mocartovu strukturalnu preciznost.
+1	Umesto	_	_	_	_	_	_	_	_	O
+2	romantizovane	_	_	_	_	_	_	_	_	O
+3	vizije	_	_	_	_	_	_	_	_	O
+4	Rekvijema	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	izvođači	_	_	_	_	_	_	_	_	O
+7	su	_	_	_	_	_	_	_	_	O
+8	doneli	_	_	_	_	_	_	_	_	O
+9	strože	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	stabilnije	_	_	_	_	_	_	_	_	O
+12	građenje	_	_	_	_	_	_	_	_	O
+13	forme	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	,	,	PUNCT	Z	_	_	_	_	_	O
+15	s	_	_	_	_	_	_	_	_	O
+16	jasnim	_	_	_	_	_	_	_	_	O
+17	osećajem	_	_	_	_	_	_	_	_	O
+18	za	_	_	_	_	_	_	_	_	O
+19	Mocartovu	_	_	_	_	_	_	_	_	B-PER
+20	strukturalnu	_	_	_	_	_	_	_	_	O
+21	preciznost	_	_	_	_	_	_	_	SpaceAfter=No	O
+22	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 4
+# sent_id = 4.1
+# text = Bilo je mnogo detalja vrednih pažnje – istaknuta i jasna dikcija horskog ansambla, ujedinjena u fokusiranom zvuku koji nije gubio stabilnost; izraženi kontrasti u dinamici, agogici i ritmu; precizno vođeno kontrapunktiranje između orkestra (orkestarskih deonica) i horskog ansambla; ujednačen i nivelisan zvuk ansambla; suptilno, ali upečatljivo isticanje solističkih partova orkestra.
+1	Bilo	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	mnogo	_	_	_	_	_	_	_	_	O
+4	detalja	_	_	_	_	_	_	_	_	O
+5	vrednih	_	_	_	_	_	_	_	_	O
+6	pažnje	_	_	_	_	_	_	_	_	O
+7	–	–	PUNCT	Z	_	_	_	_	_	O
+8	istaknuta	_	_	_	_	_	_	_	_	O
+9	i	_	_	_	_	_	_	_	_	O
+10	jasna	_	_	_	_	_	_	_	_	O
+11	dikcija	_	_	_	_	_	_	_	_	O
+12	horskog	_	_	_	_	_	_	_	_	O
+13	ansambla	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	,	,	PUNCT	Z	_	_	_	_	_	O
+15	ujedinjena	_	_	_	_	_	_	_	_	O
+16	u	_	_	_	_	_	_	_	_	O
+17	fokusiranom	_	_	_	_	_	_	_	_	O
+18	zvuku	_	_	_	_	_	_	_	_	O
+19	koji	_	_	_	_	_	_	_	_	O
+20	nije	_	_	_	_	_	_	_	_	O
+21	gubio	_	_	_	_	_	_	_	_	O
+22	stabilnost	_	_	_	_	_	_	_	SpaceAfter=No	O
+23	;	;	PUNCT	Z	_	_	_	_	_	O
+24	izraženi	_	_	_	_	_	_	_	_	O
+25	kontrasti	_	_	_	_	_	_	_	_	O
+26	u	_	_	_	_	_	_	_	_	O
+27	dinamici	_	_	_	_	_	_	_	SpaceAfter=No	O
+28	,	,	PUNCT	Z	_	_	_	_	_	O
+29	agogici	_	_	_	_	_	_	_	_	O
+30	i	_	_	_	_	_	_	_	_	O
+31	ritmu	_	_	_	_	_	_	_	SpaceAfter=No	O
+32	;	;	PUNCT	Z	_	_	_	_	_	O
+33	precizno	_	_	_	_	_	_	_	_	O
+34	vođeno	_	_	_	_	_	_	_	_	O
+35	kontrapunktiranje	_	_	_	_	_	_	_	_	O
+36	između	_	_	_	_	_	_	_	_	O
+37	orkestra	_	_	_	_	_	_	_	_	O
+38	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+39	orkestarskih	_	_	_	_	_	_	_	_	O
+40	deonica	_	_	_	_	_	_	_	SpaceAfter=No	O
+41	)	)	PUNCT	Z	_	_	_	_	_	O
+42	i	_	_	_	_	_	_	_	_	O
+43	horskog	_	_	_	_	_	_	_	_	O
+44	ansambla	_	_	_	_	_	_	_	SpaceAfter=No	O
+45	;	;	PUNCT	Z	_	_	_	_	_	O
+46	ujednačen	_	_	_	_	_	_	_	_	O
+47	i	_	_	_	_	_	_	_	_	O
+48	nivelisan	_	_	_	_	_	_	_	_	O
+49	zvuk	_	_	_	_	_	_	_	_	O
+50	ansambla	_	_	_	_	_	_	_	SpaceAfter=No	O
+51	;	;	PUNCT	Z	_	_	_	_	_	O
+52	suptilno	_	_	_	_	_	_	_	SpaceAfter=No	O
+53	,	,	PUNCT	Z	_	_	_	_	_	O
+54	ali	_	_	_	_	_	_	_	_	O
+55	upečatljivo	_	_	_	_	_	_	_	_	O
+56	isticanje	_	_	_	_	_	_	_	_	O
+57	solističkih	_	_	_	_	_	_	_	_	O
+58	partova	_	_	_	_	_	_	_	_	O
+59	orkestra	_	_	_	_	_	_	_	SpaceAfter=No	O
+60	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 4.2
+# text = Maestro Dinić oblikovao je fraze s osećajem za celinu i eleganciju, dok je izvođački ansambl disao kao jedno.
+1	Maestro	_	_	_	_	_	_	_	_	O
+2	Dinić	_	_	_	_	_	_	_	_	B-PER
+3	oblikovao	_	_	_	_	_	_	_	_	O
+4	je	_	_	_	_	_	_	_	_	O
+5	fraze	_	_	_	_	_	_	_	_	O
+6	s	_	_	_	_	_	_	_	_	O
+7	osećajem	_	_	_	_	_	_	_	_	O
+8	za	_	_	_	_	_	_	_	_	O
+9	celinu	_	_	_	_	_	_	_	_	O
+10	i	_	_	_	_	_	_	_	_	O
+11	eleganciju	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	dok	_	_	_	_	_	_	_	_	O
+14	je	_	_	_	_	_	_	_	_	O
+15	izvođački	_	_	_	_	_	_	_	_	O
+16	ansambl	_	_	_	_	_	_	_	_	O
+17	disao	_	_	_	_	_	_	_	_	O
+18	kao	_	_	_	_	_	_	_	_	O
+19	jedno	_	_	_	_	_	_	_	SpaceAfter=No	O
+20	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 4.3
+# text = Konačno, osetila se nemačka preciznost!
+1	Konačno	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	osetila	_	_	_	_	_	_	_	_	O
+4	se	_	_	_	_	_	_	_	_	O
+5	nemačka	_	_	_	_	_	_	_	_	O
+6	preciznost	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	!	!	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 5
+# sent_id = 5.1
+# text = Muzička produkcija RTS-a okupila je izvanredan kvartet solista: sopran Biljanu Jovanović, mecosopran Ivanu Srbljan, tenora Marka Živkovića (koji je u poslednjem trenutku uskočio kao zamena za Miloša Bulajića) i basa Savu Vemića.
+1	Muzička	_	_	_	_	_	_	_	_	B-ORG
+2	produkcija	_	_	_	_	_	_	_	_	I-ORG
+3	RTS-a	_	_	_	_	_	_	_	_	I-ORG
+4	okupila	_	_	_	_	_	_	_	_	O
+5	je	_	_	_	_	_	_	_	_	O
+6	izvanredan	_	_	_	_	_	_	_	_	O
+7	kvartet	_	_	_	_	_	_	_	_	O
+8	solista	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	:	:	PUNCT	Z	_	_	_	_	_	O
+10	sopran	_	_	_	_	_	_	_	_	O
+11	Biljanu	_	_	_	_	_	_	_	_	B-PER
+12	Jovanović	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+14	mecosopran	_	_	_	_	_	_	_	_	O
+15	Ivanu	_	_	_	_	_	_	_	_	B-PER
+16	Srbljan	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+17	,	,	PUNCT	Z	_	_	_	_	_	O
+18	tenora	_	_	_	_	_	_	_	_	O
+19	Marka	_	_	_	_	_	_	_	_	B-PER
+20	Živkovića	_	_	_	_	_	_	_	_	I-PER
+21	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+22	koji	_	_	_	_	_	_	_	_	O
+23	je	_	_	_	_	_	_	_	_	O
+24	u	_	_	_	_	_	_	_	_	O
+25	poslednjem	_	_	_	_	_	_	_	_	O
+26	trenutku	_	_	_	_	_	_	_	_	O
+27	uskočio	_	_	_	_	_	_	_	_	O
+28	kao	_	_	_	_	_	_	_	_	O
+29	zamena	_	_	_	_	_	_	_	_	O
+30	za	_	_	_	_	_	_	_	_	O
+31	Miloša	_	_	_	_	_	_	_	_	B-PER
+32	Bulajića	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+33	)	)	PUNCT	Z	_	_	_	_	_	O
+34	i	_	_	_	_	_	_	_	_	O
+35	basa	_	_	_	_	_	_	_	_	O
+36	Savu	_	_	_	_	_	_	_	_	B-PER
+37	Vemića	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+38	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 5.2
+# text = Već u uvodnom Introitusu za hor i sopran, Biljana Jovanović istakla se bogatim, toplim sopranom, kristalnom jasnoćom i ujednačenim tonom.
+1	Već	_	_	_	_	_	_	_	_	O
+2	u	_	_	_	_	_	_	_	_	O
+3	uvodnom	_	_	_	_	_	_	_	_	O
+4	Introitusu	_	_	_	_	_	_	_	_	O
+5	za	_	_	_	_	_	_	_	_	O
+6	hor	_	_	_	_	_	_	_	_	O
+7	i	_	_	_	_	_	_	_	_	O
+8	sopran	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	Biljana	_	_	_	_	_	_	_	_	B-PER
+11	Jovanović	_	_	_	_	_	_	_	_	I-PER
+12	istakla	_	_	_	_	_	_	_	_	O
+13	se	_	_	_	_	_	_	_	_	O
+14	bogatim	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	,	,	PUNCT	Z	_	_	_	_	_	O
+16	toplim	_	_	_	_	_	_	_	_	O
+17	sopranom	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	,	,	PUNCT	Z	_	_	_	_	_	O
+19	kristalnom	_	_	_	_	_	_	_	_	O
+20	jasnoćom	_	_	_	_	_	_	_	_	O
+21	i	_	_	_	_	_	_	_	_	O
+22	ujednačenim	_	_	_	_	_	_	_	_	O
+23	tonom	_	_	_	_	_	_	_	SpaceAfter=No	O
+24	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 5.3
+# text = U daljim solističkim deonicama, Ivana Srbljan donela je snažan, kremast ton, Živković prodoran, topao i jasan lirski tenor, dok je Vemićev rezonantan bas davao potrebnu dubinu – svaki od njih briljirao je pojedinačno, ali su se savršeno uklopili u zajednički zvuk s horom i orkestrom.
+1	U	_	_	_	_	_	_	_	_	O
+2	daljim	_	_	_	_	_	_	_	_	O
+3	solističkim	_	_	_	_	_	_	_	_	O
+4	deonicama	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	Ivana	_	_	_	_	_	_	_	_	B-PER
+7	Srbljan	_	_	_	_	_	_	_	_	I-PER
+8	donela	_	_	_	_	_	_	_	_	O
+9	je	_	_	_	_	_	_	_	_	O
+10	snažan	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	kremast	_	_	_	_	_	_	_	_	O
+13	ton	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	,	,	PUNCT	Z	_	_	_	_	_	O
+15	Živković	_	_	_	_	_	_	_	_	B-PER
+16	prodoran	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	,	,	PUNCT	Z	_	_	_	_	_	O
+18	topao	_	_	_	_	_	_	_	_	O
+19	i	_	_	_	_	_	_	_	_	O
+20	jasan	_	_	_	_	_	_	_	_	O
+21	lirski	_	_	_	_	_	_	_	_	O
+22	tenor	_	_	_	_	_	_	_	SpaceAfter=No	O
+23	,	,	PUNCT	Z	_	_	_	_	_	O
+24	dok	_	_	_	_	_	_	_	_	O
+25	je	_	_	_	_	_	_	_	_	O
+26	Vemićev	_	_	_	_	_	_	_	_	B-PER
+27	rezonantan	_	_	_	_	_	_	_	_	O
+28	bas	_	_	_	_	_	_	_	_	O
+29	davao	_	_	_	_	_	_	_	_	O
+30	potrebnu	_	_	_	_	_	_	_	_	O
+31	dubinu	_	_	_	_	_	_	_	_	O
+32	–	–	PUNCT	Z	_	_	_	_	_	O
+33	svaki	_	_	_	_	_	_	_	_	O
+34	od	_	_	_	_	_	_	_	_	O
+35	njih	_	_	_	_	_	_	_	_	O
+36	briljirao	_	_	_	_	_	_	_	_	O
+37	je	_	_	_	_	_	_	_	_	O
+38	pojedinačno	_	_	_	_	_	_	_	SpaceAfter=No	O
+39	,	,	PUNCT	Z	_	_	_	_	_	O
+40	ali	_	_	_	_	_	_	_	_	O
+41	su	_	_	_	_	_	_	_	_	O
+42	se	_	_	_	_	_	_	_	_	O
+43	savršeno	_	_	_	_	_	_	_	_	O
+44	uklopili	_	_	_	_	_	_	_	_	O
+45	u	_	_	_	_	_	_	_	_	O
+46	zajednički	_	_	_	_	_	_	_	_	O
+47	zvuk	_	_	_	_	_	_	_	_	O
+48	s	_	_	_	_	_	_	_	_	O
+49	horom	_	_	_	_	_	_	_	_	O
+50	i	_	_	_	_	_	_	_	_	O
+51	orkestrom	_	_	_	_	_	_	_	SpaceAfter=No	O
+52	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 6
+# sent_id = 6.1
+# text = Muzičko putovanje kroz raskošne slike i razigrane epizode Koncerta za violinu i orkestar u D-duru Čajkovskog
+1	Muzičko	_	_	_	_	_	_	_	_	O
+2	putovanje	_	_	_	_	_	_	_	_	O
+3	kroz	_	_	_	_	_	_	_	_	O
+4	raskošne	_	_	_	_	_	_	_	_	O
+5	slike	_	_	_	_	_	_	_	_	O
+6	i	_	_	_	_	_	_	_	_	O
+7	razigrane	_	_	_	_	_	_	_	_	O
+8	epizode	_	_	_	_	_	_	_	_	O
+9	Koncerta	_	_	_	_	_	_	_	_	O
+10	za	_	_	_	_	_	_	_	_	O
+11	violinu	_	_	_	_	_	_	_	_	O
+12	i	_	_	_	_	_	_	_	_	O
+13	orkestar	_	_	_	_	_	_	_	_	O
+14	u	_	_	_	_	_	_	_	_	O
+15	D-duru	_	_	_	_	_	_	_	_	O
+16	Čajkovskog	_	_	_	_	_	_	_	_	B-PER
+
+# newpar id = 7
+# sent_id = 7.1
+# text = Posle pauze, u kojoj je publika ushićeno razmenjivala utiske o Rekvijemu, usledilo je fascinantno muzičko putovanje kroz raskošne slike i razigrane epizode Koncerta za violinu i orkestar u D-duru, op. 35 Petra Iljiča Čajkovskog, u kome je kao solista nastupio sjajni virtuoz Roman Simović, koncertmajstor i solista Londonskog simfonijskog orkestra.
+1	Posle	_	_	_	_	_	_	_	_	O
+2	pauze	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	u	_	_	_	_	_	_	_	_	O
+5	kojoj	_	_	_	_	_	_	_	_	O
+6	je	_	_	_	_	_	_	_	_	O
+7	publika	_	_	_	_	_	_	_	_	O
+8	ushićeno	_	_	_	_	_	_	_	_	O
+9	razmenjivala	_	_	_	_	_	_	_	_	O
+10	utiske	_	_	_	_	_	_	_	_	O
+11	o	_	_	_	_	_	_	_	_	O
+12	Rekvijemu	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+14	usledilo	_	_	_	_	_	_	_	_	O
+15	je	_	_	_	_	_	_	_	_	O
+16	fascinantno	_	_	_	_	_	_	_	_	O
+17	muzičko	_	_	_	_	_	_	_	_	O
+18	putovanje	_	_	_	_	_	_	_	_	O
+19	kroz	_	_	_	_	_	_	_	_	O
+20	raskošne	_	_	_	_	_	_	_	_	O
+21	slike	_	_	_	_	_	_	_	_	O
+22	i	_	_	_	_	_	_	_	_	O
+23	razigrane	_	_	_	_	_	_	_	_	O
+24	epizode	_	_	_	_	_	_	_	_	O
+25	Koncerta	_	_	_	_	_	_	_	_	O
+26	za	_	_	_	_	_	_	_	_	O
+27	violinu	_	_	_	_	_	_	_	_	O
+28	i	_	_	_	_	_	_	_	_	O
+29	orkestar	_	_	_	_	_	_	_	_	O
+30	u	_	_	_	_	_	_	_	_	O
+31	D-duru	_	_	_	_	_	_	_	SpaceAfter=No	O
+32	,	,	PUNCT	Z	_	_	_	_	_	O
+33	op.	_	_	_	_	_	_	_	_	O
+34	35	_	_	_	_	_	_	_	_	O
+35	Petra	_	_	_	_	_	_	_	_	B-PER
+36	Iljiča	_	_	_	_	_	_	_	_	I-PER
+37	Čajkovskog	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+38	,	,	PUNCT	Z	_	_	_	_	_	O
+39	u	_	_	_	_	_	_	_	_	O
+40	kome	_	_	_	_	_	_	_	_	O
+41	je	_	_	_	_	_	_	_	_	O
+42	kao	_	_	_	_	_	_	_	_	O
+43	solista	_	_	_	_	_	_	_	_	O
+44	nastupio	_	_	_	_	_	_	_	_	O
+45	sjajni	_	_	_	_	_	_	_	_	O
+46	virtuoz	_	_	_	_	_	_	_	_	O
+47	Roman	_	_	_	_	_	_	_	_	B-PER
+48	Simović	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+49	,	,	PUNCT	Z	_	_	_	_	_	O
+50	koncertmajstor	_	_	_	_	_	_	_	_	O
+51	i	_	_	_	_	_	_	_	_	O
+52	solista	_	_	_	_	_	_	_	_	O
+53	Londonskog	_	_	_	_	_	_	_	_	B-ORG
+54	simfonijskog	_	_	_	_	_	_	_	_	I-ORG
+55	orkestra	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+56	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 7.2
+# text = Njegova briljantna virtuoznost i ogromna muzikalnost došle su do izražaja kroz izuzetnu maštovitost interpretacije ovog jedinog violinskog koncerta u opusu Čajkovskog, koji ujedno spada među najizvođenije i najpoznatije koncerte za violinu na svetu.
+1	Njegova	_	_	_	_	_	_	_	_	O
+2	briljantna	_	_	_	_	_	_	_	_	O
+3	virtuoznost	_	_	_	_	_	_	_	_	O
+4	i	_	_	_	_	_	_	_	_	O
+5	ogromna	_	_	_	_	_	_	_	_	O
+6	muzikalnost	_	_	_	_	_	_	_	_	O
+7	došle	_	_	_	_	_	_	_	_	O
+8	su	_	_	_	_	_	_	_	_	O
+9	do	_	_	_	_	_	_	_	_	O
+10	izražaja	_	_	_	_	_	_	_	_	O
+11	kroz	_	_	_	_	_	_	_	_	O
+12	izuzetnu	_	_	_	_	_	_	_	_	O
+13	maštovitost	_	_	_	_	_	_	_	_	O
+14	interpretacije	_	_	_	_	_	_	_	_	O
+15	ovog	_	_	_	_	_	_	_	_	O
+16	jedinog	_	_	_	_	_	_	_	_	O
+17	violinskog	_	_	_	_	_	_	_	_	O
+18	koncerta	_	_	_	_	_	_	_	_	O
+19	u	_	_	_	_	_	_	_	_	O
+20	opusu	_	_	_	_	_	_	_	_	O
+21	Čajkovskog	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
+22	,	,	PUNCT	Z	_	_	_	_	_	O
+23	koji	_	_	_	_	_	_	_	_	O
+24	ujedno	_	_	_	_	_	_	_	_	O
+25	spada	_	_	_	_	_	_	_	_	O
+26	među	_	_	_	_	_	_	_	_	O
+27	najizvođenije	_	_	_	_	_	_	_	_	O
+28	i	_	_	_	_	_	_	_	_	O
+29	najpoznatije	_	_	_	_	_	_	_	_	O
+30	koncerte	_	_	_	_	_	_	_	_	O
+31	za	_	_	_	_	_	_	_	_	O
+32	violinu	_	_	_	_	_	_	_	_	O
+33	na	_	_	_	_	_	_	_	_	O
+34	svetu	_	_	_	_	_	_	_	SpaceAfter=No	O
+35	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 8
+# sent_id = 8.1
+# text = Sve je u izvođenju Simfonijskog orkestra i Romana Simovića bilo izuzetno koherentno.
+1	Sve	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	u	_	_	_	_	_	_	_	_	O
+4	izvođenju	_	_	_	_	_	_	_	_	O
+5	Simfonijskog	_	_	_	_	_	_	_	_	B-ORG
+6	orkestra	_	_	_	_	_	_	_	_	I-ORG
+7	i	_	_	_	_	_	_	_	_	O
+8	Romana	_	_	_	_	_	_	_	_	B-PER
+9	Simovića	_	_	_	_	_	_	_	_	I-PER
+10	bilo	_	_	_	_	_	_	_	_	O
+11	izuzetno	_	_	_	_	_	_	_	_	O
+12	koherentno	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 8.2
+# text = Orkestar i maestro Dinić dopustili su solisti potpunu slobodu, omogućivši mu da u potpunosti istraži virtuozne i emotivne momente ovog remek-dela.
+1	Orkestar	_	_	_	_	_	_	_	_	O
+2	i	_	_	_	_	_	_	_	_	O
+3	maestro	_	_	_	_	_	_	_	_	O
+4	Dinić	_	_	_	_	_	_	_	_	B-PER
+5	dopustili	_	_	_	_	_	_	_	_	O
+6	su	_	_	_	_	_	_	_	_	O
+7	solisti	_	_	_	_	_	_	_	_	O
+8	potpunu	_	_	_	_	_	_	_	_	O
+9	slobodu	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	omogućivši	_	_	_	_	_	_	_	_	O
+12	mu	_	_	_	_	_	_	_	_	O
+13	da	_	_	_	_	_	_	_	_	O
+14	u	_	_	_	_	_	_	_	_	O
+15	potpunosti	_	_	_	_	_	_	_	_	O
+16	istraži	_	_	_	_	_	_	_	_	O
+17	virtuozne	_	_	_	_	_	_	_	_	O
+18	i	_	_	_	_	_	_	_	_	O
+19	emotivne	_	_	_	_	_	_	_	_	O
+20	momente	_	_	_	_	_	_	_	_	O
+21	ovog	_	_	_	_	_	_	_	_	O
+22	remek-dela	_	_	_	_	_	_	_	SpaceAfter=No	O
+23	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 8.3
+# text = Orkestar je u pojedinim trenucima zvučao poput razbuktale španske fieste, pružajući solisti dodatnu energiju i inspiraciju za ostvarenje svih muzičkih situacija koje ovaj koncert čine jedinstvenim.
+1	Orkestar	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	u	_	_	_	_	_	_	_	_	O
+4	pojedinim	_	_	_	_	_	_	_	_	O
+5	trenucima	_	_	_	_	_	_	_	_	O
+6	zvučao	_	_	_	_	_	_	_	_	O
+7	poput	_	_	_	_	_	_	_	_	O
+8	razbuktale	_	_	_	_	_	_	_	_	O
+9	španske	_	_	_	_	_	_	_	_	O
+10	fieste	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	pružajući	_	_	_	_	_	_	_	_	O
+13	solisti	_	_	_	_	_	_	_	_	O
+14	dodatnu	_	_	_	_	_	_	_	_	O
+15	energiju	_	_	_	_	_	_	_	_	O
+16	i	_	_	_	_	_	_	_	_	O
+17	inspiraciju	_	_	_	_	_	_	_	_	O
+18	za	_	_	_	_	_	_	_	_	O
+19	ostvarenje	_	_	_	_	_	_	_	_	O
+20	svih	_	_	_	_	_	_	_	_	O
+21	muzičkih	_	_	_	_	_	_	_	_	O
+22	situacija	_	_	_	_	_	_	_	_	O
+23	koje	_	_	_	_	_	_	_	_	O
+24	ovaj	_	_	_	_	_	_	_	_	O
+25	koncert	_	_	_	_	_	_	_	_	O
+26	čine	_	_	_	_	_	_	_	_	O
+27	jedinstvenim	_	_	_	_	_	_	_	SpaceAfter=No	O
+28	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 8.4
+# text = Nasuprot tome, drugi stav doneo je emotivnu toplinu kanconete, u kojoj je Simović iskristalisao meke, suptilne tonove svoje violine.
+1	Nasuprot	_	_	_	_	_	_	_	_	O
+2	tome	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	drugi	_	_	_	_	_	_	_	_	O
+5	stav	_	_	_	_	_	_	_	_	O
+6	doneo	_	_	_	_	_	_	_	_	O
+7	je	_	_	_	_	_	_	_	_	O
+8	emotivnu	_	_	_	_	_	_	_	_	O
+9	toplinu	_	_	_	_	_	_	_	_	O
+10	kanconete	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	u	_	_	_	_	_	_	_	_	O
+13	kojoj	_	_	_	_	_	_	_	_	O
+14	je	_	_	_	_	_	_	_	_	O
+15	Simović	_	_	_	_	_	_	_	_	B-PER
+16	iskristalisao	_	_	_	_	_	_	_	_	O
+17	meke	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	,	,	PUNCT	Z	_	_	_	_	_	O
+19	suptilne	_	_	_	_	_	_	_	_	O
+20	tonove	_	_	_	_	_	_	_	_	O
+21	svoje	_	_	_	_	_	_	_	_	O
+22	violine	_	_	_	_	_	_	_	SpaceAfter=No	O
+23	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 8.5
+# text = Završni stav bio je obojen izraženom ruskom atmosferom, s dubokim, rezonantnim i blago sirovim zvukom violine, dok su se u dijalozima orkestra i soliste smenjivale ruske folklorne teme bogate liričnosti.
+1	Završni	_	_	_	_	_	_	_	_	O
+2	stav	_	_	_	_	_	_	_	_	O
+3	bio	_	_	_	_	_	_	_	_	O
+4	je	_	_	_	_	_	_	_	_	O
+5	obojen	_	_	_	_	_	_	_	_	O
+6	izraženom	_	_	_	_	_	_	_	_	O
+7	ruskom	_	_	_	_	_	_	_	_	O
+8	atmosferom	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	s	_	_	_	_	_	_	_	_	O
+11	dubokim	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	rezonantnim	_	_	_	_	_	_	_	_	O
+14	i	_	_	_	_	_	_	_	_	O
+15	blago	_	_	_	_	_	_	_	_	O
+16	sirovim	_	_	_	_	_	_	_	_	O
+17	zvukom	_	_	_	_	_	_	_	_	O
+18	violine	_	_	_	_	_	_	_	SpaceAfter=No	O
+19	,	,	PUNCT	Z	_	_	_	_	_	O
+20	dok	_	_	_	_	_	_	_	_	O
+21	su	_	_	_	_	_	_	_	_	O
+22	se	_	_	_	_	_	_	_	_	O
+23	u	_	_	_	_	_	_	_	_	O
+24	dijalozima	_	_	_	_	_	_	_	_	O
+25	orkestra	_	_	_	_	_	_	_	_	O
+26	i	_	_	_	_	_	_	_	_	O
+27	soliste	_	_	_	_	_	_	_	_	O
+28	smenjivale	_	_	_	_	_	_	_	_	O
+29	ruske	_	_	_	_	_	_	_	_	O
+30	folklorne	_	_	_	_	_	_	_	_	O
+31	teme	_	_	_	_	_	_	_	_	O
+32	bogate	_	_	_	_	_	_	_	_	O
+33	liričnosti	_	_	_	_	_	_	_	SpaceAfter=No	O
+34	.	.	PUNCT	Z	_	_	_	_	_	O
+

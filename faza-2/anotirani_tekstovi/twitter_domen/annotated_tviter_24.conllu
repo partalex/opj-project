@@ -1,0 +1,61 @@
+#name = marija
+#domen = tviter
+#url = url = https://x.com/BigBadWolfWolfy/status/1969741661124120711
+# newpar id = 1
+# sent_id = 1.1
+# text = ANGELINA TREĆA NA SVETU!
+1	ANGELINA	_	_	_	_	_	_	_	_	B-PER
+2	TREĆA	_	_	_	_	_	_	_	_	O
+3	NA	_	_	_	_	_	_	_	_	O
+4	SVETU	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	!	!	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 2
+# sent_id = 2.1
+# text = Bronzana medalja za Srbiju na Svetskom prvenstvu u atletici!
+1	Bronzana	_	_	_	_	_	_	_	_	O
+2	medalja	_	_	_	_	_	_	_	_	O
+3	za	_	_	_	_	_	_	_	_	O
+4	Srbiju	_	_	_	_	_	_	_	_	B-ORG
+5	na	_	_	_	_	_	_	_	_	O
+6	Svetskom	_	_	_	_	_	_	_	_	B-ORG
+7	prvenstvu	_	_	_	_	_	_	_	_	I-ORG
+8	u	_	_	_	_	_	_	_	_	O
+9	atletici	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	!	!	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.2
+# text = Medalju iz Tokija donosi fenomenalna Angelina Topić, sa preskočenih 1.97m, nakon dvočasovne drame na olimpijskom stadionu!
+1	Medalju	_	_	_	_	_	_	_	_	O
+2	iz	_	_	_	_	_	_	_	_	O
+3	Tokija	_	_	_	_	_	_	_	_	B-LOC
+4	donosi	_	_	_	_	_	_	_	_	O
+5	fenomenalna	_	_	_	_	_	_	_	_	O
+6	Angelina	_	_	_	_	_	_	_	_	B-PER
+7	Topić	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	sa	_	_	_	_	_	_	_	_	O
+10	preskočenih	_	_	_	_	_	_	_	_	O
+11	1.97	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	m	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+14	nakon	_	_	_	_	_	_	_	_	O
+15	dvočasovne	_	_	_	_	_	_	_	_	O
+16	drame	_	_	_	_	_	_	_	_	O
+17	na	_	_	_	_	_	_	_	_	O
+18	olimpijskom	_	_	_	_	_	_	_	_	O
+19	stadionu	_	_	_	_	_	_	_	SpaceAfter=No	O
+20	!	!	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 3
+# sent_id = 3.1
+# text = Potpuno zasluženo!
+1	Potpuno	_	_	_	_	_	_	_	_	O
+2	zasluženo	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	!	!	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 3.2
+# text = Bravo!
+1	Bravo	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	!	!	PUNCT	Z	_	_	_	_	_	O
+

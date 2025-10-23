@@ -1,0 +1,716 @@
+#name = aleksandar
+#domen = novinski
+#url = https://www.politika.rs/sr/clanak/699623/dodik-o-marti-kos-majorizaciji-srpskog-naroda-i-referendumu
+# newpar id = 1
+# sent_id = 1.1
+# text = Predsednik Republike Srpske Milorad Dodik izjavio je danas da se odbacuju bilo kakve tvrdnje i pokušaji nametanja da Republika Srpska sprovodi secesiju, kako to tvrdi evropska komesarka Marta Kos.
+1	Predsednik	_	_	_	_	_	_	_	_	B-ORG
+2	Republike	_	_	_	_	_	_	_	_	I-ORG
+3	Srpske	_	_	_	_	_	_	_	_	I-ORG
+4	Milorad	_	_	_	_	_	_	_	_	B-PER
+5	Dodik	_	_	_	_	_	_	_	_	I-PER
+6	izjavio	_	_	_	_	_	_	_	_	O
+7	je	_	_	_	_	_	_	_	_	O
+8	danas	_	_	_	_	_	_	_	_	O
+9	da	_	_	_	_	_	_	_	_	O
+10	se	_	_	_	_	_	_	_	_	O
+11	odbacuju	_	_	_	_	_	_	_	_	O
+12	bilo	_	_	_	_	_	_	_	_	O
+13	kakve	_	_	_	_	_	_	_	_	O
+14	tvrdnje	_	_	_	_	_	_	_	_	O
+15	i	_	_	_	_	_	_	_	_	O
+16	pokušaji	_	_	_	_	_	_	_	_	O
+17	nametanja	_	_	_	_	_	_	_	_	O
+18	da	_	_	_	_	_	_	_	_	O
+19	Republika	_	_	_	_	_	_	_	_	B-ORG
+20	Srpska	_	_	_	_	_	_	_	_	I-ORG
+21	sprovodi	_	_	_	_	_	_	_	_	O
+22	secesiju	_	_	_	_	_	_	_	SpaceAfter=No	O
+23	,	,	PUNCT	Z	_	_	_	_	_	O
+24	kako	_	_	_	_	_	_	_	_	O
+25	to	_	_	_	_	_	_	_	_	O
+26	tvrdi	_	_	_	_	_	_	_	_	O
+27	evropska	_	_	_	_	_	_	_	_	O
+28	komesarka	_	_	_	_	_	_	_	_	O
+29	Marta	_	_	_	_	_	_	_	_	B-PER
+30	Kos	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+31	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 2
+# sent_id = 2.1
+# text = Dodik je istakao da Republika Srpska ne može da sprovede secesiju, da je ona ugovorna strana u BiH.
+1	Dodik	_	_	_	_	_	_	_	_	B-PER
+2	je	_	_	_	_	_	_	_	_	O
+3	istakao	_	_	_	_	_	_	_	_	O
+4	da	_	_	_	_	_	_	_	_	O
+5	Republika	_	_	_	_	_	_	_	_	B-ORG
+6	Srpska	_	_	_	_	_	_	_	_	I-ORG
+7	ne	_	_	_	_	_	_	_	_	O
+8	može	_	_	_	_	_	_	_	_	O
+9	da	_	_	_	_	_	_	_	_	O
+10	sprovede	_	_	_	_	_	_	_	_	O
+11	secesiju	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	da	_	_	_	_	_	_	_	_	O
+14	je	_	_	_	_	_	_	_	_	O
+15	ona	_	_	_	_	_	_	_	_	O
+16	ugovorna	_	_	_	_	_	_	_	_	O
+17	strana	_	_	_	_	_	_	_	_	O
+18	u	_	_	_	_	_	_	_	_	O
+19	BiH	_	_	_	_	_	_	_	SpaceAfter=No	O
+20	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 3
+# sent_id = 3.1
+# text = „Ona može izaći iz tog ugovora, ali to nije secesija", rekao je Dodik novinarima u Banjaluci nakon sednice najviših organa SNSD-a, čiji je predsednik.
+1	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+2	Ona	_	_	_	_	_	_	_	_	O
+3	može	_	_	_	_	_	_	_	_	O
+4	izaći	_	_	_	_	_	_	_	_	O
+5	iz	_	_	_	_	_	_	_	_	O
+6	tog	_	_	_	_	_	_	_	_	O
+7	ugovora	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	ali	_	_	_	_	_	_	_	_	O
+10	to	_	_	_	_	_	_	_	_	O
+11	nije	_	_	_	_	_	_	_	_	O
+12	secesija	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+14	,	,	PUNCT	Z	_	_	_	_	_	O
+15	rekao	_	_	_	_	_	_	_	_	O
+16	je	_	_	_	_	_	_	_	_	O
+17	Dodik	_	_	_	_	_	_	_	_	B-PER
+18	novinarima	_	_	_	_	_	_	_	_	O
+19	u	_	_	_	_	_	_	_	_	O
+20	Banjaluci	_	_	_	_	_	_	_	_	B-LOC
+21	nakon	_	_	_	_	_	_	_	_	O
+22	sednice	_	_	_	_	_	_	_	_	O
+23	najviših	_	_	_	_	_	_	_	_	O
+24	organa	_	_	_	_	_	_	_	_	O
+25	SNSD-a	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
+26	,	,	PUNCT	Z	_	_	_	_	_	O
+27	čiji	_	_	_	_	_	_	_	_	O
+28	je	_	_	_	_	_	_	_	_	O
+29	predsednik	_	_	_	_	_	_	_	SpaceAfter=No	O
+30	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 4
+# sent_id = 4.1
+# text = Istakao je da je politika SNSD-a prema EU ostaje veoma skeptična, jer briselske strukture potpuno neravnopravno tretiraju Republiku Srpsku.
+1	Istakao	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	da	_	_	_	_	_	_	_	_	O
+4	je	_	_	_	_	_	_	_	_	O
+5	politika	_	_	_	_	_	_	_	_	O
+6	SNSD-a	_	_	_	_	_	_	_	_	B-ORG
+7	prema	_	_	_	_	_	_	_	_	O
+8	EU	_	_	_	_	_	_	_	_	B-ORG
+9	ostaje	_	_	_	_	_	_	_	_	O
+10	veoma	_	_	_	_	_	_	_	_	O
+11	skeptična	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	jer	_	_	_	_	_	_	_	_	O
+14	briselske	_	_	_	_	_	_	_	_	O
+15	strukture	_	_	_	_	_	_	_	_	O
+16	potpuno	_	_	_	_	_	_	_	_	O
+17	neravnopravno	_	_	_	_	_	_	_	_	O
+18	tretiraju	_	_	_	_	_	_	_	_	O
+19	Republiku	_	_	_	_	_	_	_	_	B-ORG
+20	Srpsku	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+21	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 5
+# sent_id = 5.1
+# text = Dodik je istakao da nesposobnost Marte Kos da bude kreativna govori da je došla da ima kontakte sa muslimanima, a ne sa drugim narodima i konstitutivnim jedinicama.
+1	Dodik	_	_	_	_	_	_	_	_	B-PER
+2	je	_	_	_	_	_	_	_	_	O
+3	istakao	_	_	_	_	_	_	_	_	O
+4	da	_	_	_	_	_	_	_	_	O
+5	nesposobnost	_	_	_	_	_	_	_	_	O
+6	Marte	_	_	_	_	_	_	_	_	B-PER
+7	Kos	_	_	_	_	_	_	_	_	I-PER
+8	da	_	_	_	_	_	_	_	_	O
+9	bude	_	_	_	_	_	_	_	_	O
+10	kreativna	_	_	_	_	_	_	_	_	O
+11	govori	_	_	_	_	_	_	_	_	O
+12	da	_	_	_	_	_	_	_	_	O
+13	je	_	_	_	_	_	_	_	_	O
+14	došla	_	_	_	_	_	_	_	_	O
+15	da	_	_	_	_	_	_	_	_	O
+16	ima	_	_	_	_	_	_	_	_	O
+17	kontakte	_	_	_	_	_	_	_	_	O
+18	sa	_	_	_	_	_	_	_	_	O
+19	muslimanima	_	_	_	_	_	_	_	SpaceAfter=No	O
+20	,	,	PUNCT	Z	_	_	_	_	_	O
+21	a	_	_	_	_	_	_	_	_	O
+22	ne	_	_	_	_	_	_	_	_	O
+23	sa	_	_	_	_	_	_	_	_	O
+24	drugim	_	_	_	_	_	_	_	_	O
+25	narodima	_	_	_	_	_	_	_	_	O
+26	i	_	_	_	_	_	_	_	_	O
+27	konstitutivnim	_	_	_	_	_	_	_	_	O
+28	jedinicama	_	_	_	_	_	_	_	SpaceAfter=No	O
+29	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 6
+# sent_id = 6.1
+# text = "Njen osmijeh je vezan za tapšanje muslimana u Sarajevu, ali ona ne može da dobije prolaznu ocenu što se tiče nas.
+1	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+2	Njen	_	_	_	_	_	_	_	_	O
+3	osmijeh	_	_	_	_	_	_	_	_	O
+4	je	_	_	_	_	_	_	_	_	O
+5	vezan	_	_	_	_	_	_	_	_	O
+6	za	_	_	_	_	_	_	_	_	O
+7	tapšanje	_	_	_	_	_	_	_	_	O
+8	muslimana	_	_	_	_	_	_	_	_	O
+9	u	_	_	_	_	_	_	_	_	O
+10	Sarajevu	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	ali	_	_	_	_	_	_	_	_	O
+13	ona	_	_	_	_	_	_	_	_	O
+14	ne	_	_	_	_	_	_	_	_	O
+15	može	_	_	_	_	_	_	_	_	O
+16	da	_	_	_	_	_	_	_	_	O
+17	dobije	_	_	_	_	_	_	_	_	O
+18	prolaznu	_	_	_	_	_	_	_	_	O
+19	ocenu	_	_	_	_	_	_	_	_	O
+20	što	_	_	_	_	_	_	_	_	O
+21	se	_	_	_	_	_	_	_	_	O
+22	tiče	_	_	_	_	_	_	_	_	O
+23	nas	_	_	_	_	_	_	_	SpaceAfter=No	O
+24	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 6.2
+# text = Navijačka pozicija ne doprinosi evropskom putu BiH", rekao je Dodik.
+1	Navijačka	_	_	_	_	_	_	_	_	O
+2	pozicija	_	_	_	_	_	_	_	_	O
+3	ne	_	_	_	_	_	_	_	_	O
+4	doprinosi	_	_	_	_	_	_	_	_	O
+5	evropskom	_	_	_	_	_	_	_	_	O
+6	putu	_	_	_	_	_	_	_	_	O
+7	BiH	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
+8	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	rekao	_	_	_	_	_	_	_	_	O
+11	je	_	_	_	_	_	_	_	_	O
+12	Dodik	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
+13	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 7
+# sent_id = 7.1
+# text = Ponovio je da je Srpska veoma jasna da ne želi da bude deo EU koja kaže da je vladavina prava nametanje zakona od jednog stranca.
+1	Ponovio	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	da	_	_	_	_	_	_	_	_	O
+4	je	_	_	_	_	_	_	_	_	O
+5	Srpska	_	_	_	_	_	_	_	_	B-ORG
+6	veoma	_	_	_	_	_	_	_	_	O
+7	jasna	_	_	_	_	_	_	_	_	O
+8	da	_	_	_	_	_	_	_	_	O
+9	ne	_	_	_	_	_	_	_	_	O
+10	želi	_	_	_	_	_	_	_	_	O
+11	da	_	_	_	_	_	_	_	_	O
+12	bude	_	_	_	_	_	_	_	_	O
+13	deo	_	_	_	_	_	_	_	_	O
+14	EU	_	_	_	_	_	_	_	_	B-ORG
+15	koja	_	_	_	_	_	_	_	_	O
+16	kaže	_	_	_	_	_	_	_	_	O
+17	da	_	_	_	_	_	_	_	_	O
+18	je	_	_	_	_	_	_	_	_	O
+19	vladavina	_	_	_	_	_	_	_	_	O
+20	prava	_	_	_	_	_	_	_	_	O
+21	nametanje	_	_	_	_	_	_	_	_	O
+22	zakona	_	_	_	_	_	_	_	_	O
+23	od	_	_	_	_	_	_	_	_	O
+24	jednog	_	_	_	_	_	_	_	_	O
+25	stranca	_	_	_	_	_	_	_	SpaceAfter=No	O
+26	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 8
+# sent_id = 8.1
+# text = „Ne želimo da budemo deo farse, ne želimo da budemo deo cinizma.
+1	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+2	Ne	_	_	_	_	_	_	_	_	O
+3	želimo	_	_	_	_	_	_	_	_	O
+4	da	_	_	_	_	_	_	_	_	O
+5	budemo	_	_	_	_	_	_	_	_	O
+6	deo	_	_	_	_	_	_	_	_	O
+7	farse	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	ne	_	_	_	_	_	_	_	_	O
+10	želimo	_	_	_	_	_	_	_	_	O
+11	da	_	_	_	_	_	_	_	_	O
+12	budemo	_	_	_	_	_	_	_	_	O
+13	deo	_	_	_	_	_	_	_	_	O
+14	cinizma	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 8.2
+# text = Republika Srpska ima svoje ustavne pozicije u BiH, poštujte to", poručio je Dodik.
+1	Republika	_	_	_	_	_	_	_	_	B-ORG
+2	Srpska	_	_	_	_	_	_	_	_	I-ORG
+3	ima	_	_	_	_	_	_	_	_	O
+4	svoje	_	_	_	_	_	_	_	_	O
+5	ustavne	_	_	_	_	_	_	_	_	O
+6	pozicije	_	_	_	_	_	_	_	_	O
+7	u	_	_	_	_	_	_	_	_	O
+8	BiH	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	poštujte	_	_	_	_	_	_	_	_	O
+11	to	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+14	poručio	_	_	_	_	_	_	_	_	O
+15	je	_	_	_	_	_	_	_	_	O
+16	Dodik	_	_	_	_	_	_	_	SpaceAfter=No	B-PER
+17	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 9
+# sent_id = 9.1
+# text = Milorad Dodik izjavio je da su pokušaji majorizacije srpskog naroda jasna poruka da BiH ne želi da vidi Srbe na zajedničkom nivou, što hitno treba ispraviti.
+1	Milorad	_	_	_	_	_	_	_	_	B-PER
+2	Dodik	_	_	_	_	_	_	_	_	I-PER
+3	izjavio	_	_	_	_	_	_	_	_	O
+4	je	_	_	_	_	_	_	_	_	O
+5	da	_	_	_	_	_	_	_	_	O
+6	su	_	_	_	_	_	_	_	_	O
+7	pokušaji	_	_	_	_	_	_	_	_	O
+8	majorizacije	_	_	_	_	_	_	_	_	O
+9	srpskog	_	_	_	_	_	_	_	_	O
+10	naroda	_	_	_	_	_	_	_	_	O
+11	jasna	_	_	_	_	_	_	_	_	O
+12	poruka	_	_	_	_	_	_	_	_	O
+13	da	_	_	_	_	_	_	_	_	O
+14	BiH	_	_	_	_	_	_	_	_	B-ORG
+15	ne	_	_	_	_	_	_	_	_	O
+16	želi	_	_	_	_	_	_	_	_	O
+17	da	_	_	_	_	_	_	_	_	O
+18	vidi	_	_	_	_	_	_	_	_	O
+19	Srbe	_	_	_	_	_	_	_	_	O
+20	na	_	_	_	_	_	_	_	_	O
+21	zajedničkom	_	_	_	_	_	_	_	_	O
+22	nivou	_	_	_	_	_	_	_	SpaceAfter=No	O
+23	,	,	PUNCT	Z	_	_	_	_	_	O
+24	što	_	_	_	_	_	_	_	_	O
+25	hitno	_	_	_	_	_	_	_	_	O
+26	treba	_	_	_	_	_	_	_	_	O
+27	ispraviti	_	_	_	_	_	_	_	SpaceAfter=No	O
+28	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 10
+# sent_id = 10.1
+# text = Dodik je napomenuo da je Kristijan Šmit nametnuo da zamenik ministra može da odlučuje i donosi ono što misli da treba uprkos tome što postoji aktivan i prisutan ministar.
+1	Dodik	_	_	_	_	_	_	_	_	B-PER
+2	je	_	_	_	_	_	_	_	_	O
+3	napomenuo	_	_	_	_	_	_	_	_	O
+4	da	_	_	_	_	_	_	_	_	O
+5	je	_	_	_	_	_	_	_	_	O
+6	Kristijan	_	_	_	_	_	_	_	_	B-PER
+7	Šmit	_	_	_	_	_	_	_	_	I-PER
+8	nametnuo	_	_	_	_	_	_	_	_	O
+9	da	_	_	_	_	_	_	_	_	O
+10	zamenik	_	_	_	_	_	_	_	_	O
+11	ministra	_	_	_	_	_	_	_	_	O
+12	može	_	_	_	_	_	_	_	_	O
+13	da	_	_	_	_	_	_	_	_	O
+14	odlučuje	_	_	_	_	_	_	_	_	O
+15	i	_	_	_	_	_	_	_	_	O
+16	donosi	_	_	_	_	_	_	_	_	O
+17	ono	_	_	_	_	_	_	_	_	O
+18	što	_	_	_	_	_	_	_	_	O
+19	misli	_	_	_	_	_	_	_	_	O
+20	da	_	_	_	_	_	_	_	_	O
+21	treba	_	_	_	_	_	_	_	_	O
+22	uprkos	_	_	_	_	_	_	_	_	O
+23	tome	_	_	_	_	_	_	_	_	O
+24	što	_	_	_	_	_	_	_	_	O
+25	postoji	_	_	_	_	_	_	_	_	O
+26	aktivan	_	_	_	_	_	_	_	_	O
+27	i	_	_	_	_	_	_	_	_	O
+28	prisutan	_	_	_	_	_	_	_	_	O
+29	ministar	_	_	_	_	_	_	_	SpaceAfter=No	O
+30	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 11
+# sent_id = 11.1
+# text = "To je majorizacija srpskog naroda i to je jasna poruka da BiH ne želi da vidi Srbe na nivou BiH.
+1	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+2	To	_	_	_	_	_	_	_	_	O
+3	je	_	_	_	_	_	_	_	_	O
+4	majorizacija	_	_	_	_	_	_	_	_	O
+5	srpskog	_	_	_	_	_	_	_	_	O
+6	naroda	_	_	_	_	_	_	_	_	O
+7	i	_	_	_	_	_	_	_	_	O
+8	to	_	_	_	_	_	_	_	_	O
+9	je	_	_	_	_	_	_	_	_	O
+10	jasna	_	_	_	_	_	_	_	_	O
+11	poruka	_	_	_	_	_	_	_	_	O
+12	da	_	_	_	_	_	_	_	_	O
+13	BiH	_	_	_	_	_	_	_	_	B-ORG
+14	ne	_	_	_	_	_	_	_	_	O
+15	želi	_	_	_	_	_	_	_	_	O
+16	da	_	_	_	_	_	_	_	_	O
+17	vidi	_	_	_	_	_	_	_	_	O
+18	Srbe	_	_	_	_	_	_	_	_	O
+19	na	_	_	_	_	_	_	_	_	O
+20	nivou	_	_	_	_	_	_	_	_	O
+21	BiH	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
+22	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 11.2
+# text = To treba hitno ispraviti....
+1	To	_	_	_	_	_	_	_	_	O
+2	treba	_	_	_	_	_	_	_	_	O
+3	hitno	_	_	_	_	_	_	_	_	O
+4	ispraviti	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	....	....	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+
+# sent_id = 11.3
+# text = ", rekao je Dodik novinarima u Banjaluci nakon sednice Predsedništva SNSD.
+1	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+2	,	,	PUNCT	Z	_	_	_	_	_	O
+3	rekao	_	_	_	_	_	_	_	_	O
+4	je	_	_	_	_	_	_	_	_	O
+5	Dodik	_	_	_	_	_	_	_	_	B-PER
+6	novinarima	_	_	_	_	_	_	_	_	O
+7	u	_	_	_	_	_	_	_	_	O
+8	Banjaluci	_	_	_	_	_	_	_	_	B-LOC
+9	nakon	_	_	_	_	_	_	_	_	O
+10	sednice	_	_	_	_	_	_	_	_	O
+11	Predsedništva	_	_	_	_	_	_	_	_	B-ORG
+12	SNSD	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+13	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 12
+# sent_id = 12.1
+# text = Napomenuo je da je na nivou BiH razbijena spoljna politika, te da gotovo da nema primera poslednjih meseci da je došlo do formiranja zajedničkog političkog stava koji bi bio rezultat dogovora i razgovora.
+1	Napomenuo	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	da	_	_	_	_	_	_	_	_	O
+4	je	_	_	_	_	_	_	_	_	O
+5	na	_	_	_	_	_	_	_	_	O
+6	nivou	_	_	_	_	_	_	_	_	O
+7	BiH	_	_	_	_	_	_	_	_	B-ORG
+8	razbijena	_	_	_	_	_	_	_	_	O
+9	spoljna	_	_	_	_	_	_	_	_	O
+10	politika	_	_	_	_	_	_	_	SpaceAfter=No	O
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	te	_	_	_	_	_	_	_	_	O
+13	da	_	_	_	_	_	_	_	_	O
+14	gotovo	_	_	_	_	_	_	_	_	O
+15	da	_	_	_	_	_	_	_	_	O
+16	nema	_	_	_	_	_	_	_	_	O
+17	primera	_	_	_	_	_	_	_	_	O
+18	poslednjih	_	_	_	_	_	_	_	_	O
+19	meseci	_	_	_	_	_	_	_	_	O
+20	da	_	_	_	_	_	_	_	_	O
+21	je	_	_	_	_	_	_	_	_	O
+22	došlo	_	_	_	_	_	_	_	_	O
+23	do	_	_	_	_	_	_	_	_	O
+24	formiranja	_	_	_	_	_	_	_	_	O
+25	zajedničkog	_	_	_	_	_	_	_	_	O
+26	političkog	_	_	_	_	_	_	_	_	O
+27	stava	_	_	_	_	_	_	_	_	O
+28	koji	_	_	_	_	_	_	_	_	O
+29	bi	_	_	_	_	_	_	_	_	O
+30	bio	_	_	_	_	_	_	_	_	O
+31	rezultat	_	_	_	_	_	_	_	_	O
+32	dogovora	_	_	_	_	_	_	_	_	O
+33	i	_	_	_	_	_	_	_	_	O
+34	razgovora	_	_	_	_	_	_	_	SpaceAfter=No	O
+35	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 13
+# sent_id = 13.1
+# text = On je istakao da se razbijena spoljna politika vodi mimo Ustava i Predsedništva, te da ministar i drugi faktori rade sa stanovišta shodno svojoj ili partijskoj logici.
+1	On	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	istakao	_	_	_	_	_	_	_	_	O
+4	da	_	_	_	_	_	_	_	_	O
+5	se	_	_	_	_	_	_	_	_	O
+6	razbijena	_	_	_	_	_	_	_	_	O
+7	spoljna	_	_	_	_	_	_	_	_	O
+8	politika	_	_	_	_	_	_	_	_	O
+9	vodi	_	_	_	_	_	_	_	_	O
+10	mimo	_	_	_	_	_	_	_	_	O
+11	Ustava	_	_	_	_	_	_	_	_	O
+12	i	_	_	_	_	_	_	_	_	O
+13	Predsedništva	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
+14	,	,	PUNCT	Z	_	_	_	_	_	O
+15	te	_	_	_	_	_	_	_	_	O
+16	da	_	_	_	_	_	_	_	_	O
+17	ministar	_	_	_	_	_	_	_	_	O
+18	i	_	_	_	_	_	_	_	_	O
+19	drugi	_	_	_	_	_	_	_	_	O
+20	faktori	_	_	_	_	_	_	_	_	O
+21	rade	_	_	_	_	_	_	_	_	O
+22	sa	_	_	_	_	_	_	_	_	O
+23	stanovišta	_	_	_	_	_	_	_	_	O
+24	shodno	_	_	_	_	_	_	_	_	O
+25	svojoj	_	_	_	_	_	_	_	_	O
+26	ili	_	_	_	_	_	_	_	_	O
+27	partijskoj	_	_	_	_	_	_	_	_	O
+28	logici	_	_	_	_	_	_	_	SpaceAfter=No	O
+29	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 14
+# sent_id = 14.1
+# text = "Odbacujemo bilo kakvu mogućnost majorizacije koja je vidljiva", rekao je Dodik
+1	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+2	Odbacujemo	_	_	_	_	_	_	_	_	O
+3	bilo	_	_	_	_	_	_	_	_	O
+4	kakvu	_	_	_	_	_	_	_	_	O
+5	mogućnost	_	_	_	_	_	_	_	_	O
+6	majorizacije	_	_	_	_	_	_	_	_	O
+7	koja	_	_	_	_	_	_	_	_	O
+8	je	_	_	_	_	_	_	_	_	O
+9	vidljiva	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	rekao	_	_	_	_	_	_	_	_	O
+13	je	_	_	_	_	_	_	_	_	O
+14	Dodik	_	_	_	_	_	_	_	_	B-PER
+
+# newpar id = 15
+# sent_id = 15.1
+# text = Dodik je rekao da će SNSD sačekati zaključak Narodne skupštine Republike Srpske u vezi sa prevremenim izborima za predsednika Srpske i prema tome se odrediti.
+1	Dodik	_	_	_	_	_	_	_	_	B-PER
+2	je	_	_	_	_	_	_	_	_	O
+3	rekao	_	_	_	_	_	_	_	_	O
+4	da	_	_	_	_	_	_	_	_	O
+5	će	_	_	_	_	_	_	_	_	O
+6	SNSD	_	_	_	_	_	_	_	_	B-ORG
+7	sačekati	_	_	_	_	_	_	_	_	O
+8	zaključak	_	_	_	_	_	_	_	_	O
+9	Narodne	_	_	_	_	_	_	_	_	B-ORG
+10	skupštine	_	_	_	_	_	_	_	_	I-ORG
+11	Republike	_	_	_	_	_	_	_	_	I-ORG
+12	Srpske	_	_	_	_	_	_	_	_	I-ORG
+13	u	_	_	_	_	_	_	_	_	O
+14	vezi	_	_	_	_	_	_	_	_	O
+15	sa	_	_	_	_	_	_	_	_	O
+16	prevremenim	_	_	_	_	_	_	_	_	O
+17	izborima	_	_	_	_	_	_	_	_	O
+18	za	_	_	_	_	_	_	_	_	O
+19	predsednika	_	_	_	_	_	_	_	_	O
+20	Srpske	_	_	_	_	_	_	_	_	B-ORG
+21	i	_	_	_	_	_	_	_	_	O
+22	prema	_	_	_	_	_	_	_	_	O
+23	tome	_	_	_	_	_	_	_	_	O
+24	se	_	_	_	_	_	_	_	_	O
+25	odrediti	_	_	_	_	_	_	_	SpaceAfter=No	O
+26	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 16
+# sent_id = 16.1
+# text = "Izvršni komitet i Predsedništvo SNSD-a se bavilo veoma egzaktnim pitanjima, a ne prejudiciranjem.
+1	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+2	Izvršni	_	_	_	_	_	_	_	_	B-ORG
+3	komitet	_	_	_	_	_	_	_	_	I-ORG
+4	i	_	_	_	_	_	_	_	_	O
+5	Predsedništvo	_	_	_	_	_	_	_	_	B-ORG
+6	SNSD-a	_	_	_	_	_	_	_	_	I-ORG
+7	se	_	_	_	_	_	_	_	_	O
+8	bavilo	_	_	_	_	_	_	_	_	O
+9	veoma	_	_	_	_	_	_	_	_	O
+10	egzaktnim	_	_	_	_	_	_	_	_	O
+11	pitanjima	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	a	_	_	_	_	_	_	_	_	O
+14	ne	_	_	_	_	_	_	_	_	O
+15	prejudiciranjem	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 16.2
+# text = Predstavljam politike koje su upravo utvrđene", rekao je Dodik i istakao da nigde nije rekao da će SNSD učestvovati na tim izborima.
+1	Predstavljam	_	_	_	_	_	_	_	_	O
+2	politike	_	_	_	_	_	_	_	_	O
+3	koje	_	_	_	_	_	_	_	_	O
+4	su	_	_	_	_	_	_	_	_	O
+5	upravo	_	_	_	_	_	_	_	_	O
+6	utvrđene	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+8	,	,	PUNCT	Z	_	_	_	_	_	O
+9	rekao	_	_	_	_	_	_	_	_	O
+10	je	_	_	_	_	_	_	_	_	O
+11	Dodik	_	_	_	_	_	_	_	_	B-PER
+12	i	_	_	_	_	_	_	_	_	O
+13	istakao	_	_	_	_	_	_	_	_	O
+14	da	_	_	_	_	_	_	_	_	O
+15	nigde	_	_	_	_	_	_	_	_	O
+16	nije	_	_	_	_	_	_	_	_	O
+17	rekao	_	_	_	_	_	_	_	_	O
+18	da	_	_	_	_	_	_	_	_	O
+19	će	_	_	_	_	_	_	_	_	O
+20	SNSD	_	_	_	_	_	_	_	_	B-ORG
+21	učestvovati	_	_	_	_	_	_	_	_	O
+22	na	_	_	_	_	_	_	_	_	O
+23	tim	_	_	_	_	_	_	_	_	O
+24	izborima	_	_	_	_	_	_	_	SpaceAfter=No	O
+25	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 17
+# sent_id = 17.1
+# text = Republika Srpska ne odustaje od refereduma
+1	Republika	_	_	_	_	_	_	_	_	B-ORG
+2	Srpska	_	_	_	_	_	_	_	_	I-ORG
+3	ne	_	_	_	_	_	_	_	_	O
+4	odustaje	_	_	_	_	_	_	_	_	O
+5	od	_	_	_	_	_	_	_	_	O
+6	refereduma	_	_	_	_	_	_	_	_	O
+
+# newpar id = 18
+# sent_id = 18.1
+# text = Republika Srpska ne odustaje od referenduma, poručio je danas predsednik Srpske Milorad Dodik.
+1	Republika	_	_	_	_	_	_	_	_	B-ORG
+2	Srpska	_	_	_	_	_	_	_	_	I-ORG
+3	ne	_	_	_	_	_	_	_	_	O
+4	odustaje	_	_	_	_	_	_	_	_	O
+5	od	_	_	_	_	_	_	_	_	O
+6	referenduma	_	_	_	_	_	_	_	SpaceAfter=No	O
+7	,	,	PUNCT	Z	_	_	_	_	_	O
+8	poručio	_	_	_	_	_	_	_	_	O
+9	je	_	_	_	_	_	_	_	_	O
+10	danas	_	_	_	_	_	_	_	_	O
+11	predsednik	_	_	_	_	_	_	_	_	O
+12	Srpske	_	_	_	_	_	_	_	_	B-ORG
+13	Milorad	_	_	_	_	_	_	_	_	B-PER
+14	Dodik	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+15	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 19
+# sent_id = 19.1
+# text = "Čeka se odluka Ustavnog suda Srpske i mi ćemo se onda uključiti u potpunu političku afirmaciju izlaska na referendum", rekao je Dodik na konferenciji za novinare nakon sednica Izvršnog komiteta i Predsedništva SNSD-a u Banjaluci.
+1	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+2	Čeka	_	_	_	_	_	_	_	_	O
+3	se	_	_	_	_	_	_	_	_	O
+4	odluka	_	_	_	_	_	_	_	_	O
+5	Ustavnog	_	_	_	_	_	_	_	_	B-ORG
+6	suda	_	_	_	_	_	_	_	_	I-ORG
+7	Srpske	_	_	_	_	_	_	_	_	I-ORG
+8	i	_	_	_	_	_	_	_	_	O
+9	mi	_	_	_	_	_	_	_	_	O
+10	ćemo	_	_	_	_	_	_	_	_	O
+11	se	_	_	_	_	_	_	_	_	O
+12	onda	_	_	_	_	_	_	_	_	O
+13	uključiti	_	_	_	_	_	_	_	_	O
+14	u	_	_	_	_	_	_	_	_	O
+15	potpunu	_	_	_	_	_	_	_	_	O
+16	političku	_	_	_	_	_	_	_	_	O
+17	afirmaciju	_	_	_	_	_	_	_	_	O
+18	izlaska	_	_	_	_	_	_	_	_	O
+19	na	_	_	_	_	_	_	_	_	O
+20	referendum	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+22	,	,	PUNCT	Z	_	_	_	_	_	O
+23	rekao	_	_	_	_	_	_	_	_	O
+24	je	_	_	_	_	_	_	_	_	O
+25	Dodik	_	_	_	_	_	_	_	_	B-PER
+26	na	_	_	_	_	_	_	_	_	O
+27	konferenciji	_	_	_	_	_	_	_	_	O
+28	za	_	_	_	_	_	_	_	_	O
+29	novinare	_	_	_	_	_	_	_	_	O
+30	nakon	_	_	_	_	_	_	_	_	O
+31	sednica	_	_	_	_	_	_	_	_	O
+32	Izvršnog	_	_	_	_	_	_	_	_	B-ORG
+33	komiteta	_	_	_	_	_	_	_	_	I-ORG
+34	i	_	_	_	_	_	_	_	_	O
+35	Predsedništva	_	_	_	_	_	_	_	_	B-ORG
+36	SNSD-a	_	_	_	_	_	_	_	_	I-ORG
+37	u	_	_	_	_	_	_	_	_	O
+38	Banjaluci	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+39	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 20
+# sent_id = 20.1
+# text = Dodao je da će se pratiti i odluke Narodne skupštine dok se ne stvore formalni uslovi za održavanje referenduma.
+1	Dodao	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	da	_	_	_	_	_	_	_	_	O
+4	će	_	_	_	_	_	_	_	_	O
+5	se	_	_	_	_	_	_	_	_	O
+6	pratiti	_	_	_	_	_	_	_	_	O
+7	i	_	_	_	_	_	_	_	_	O
+8	odluke	_	_	_	_	_	_	_	_	O
+9	Narodne	_	_	_	_	_	_	_	_	B-ORG
+10	skupštine	_	_	_	_	_	_	_	_	I-ORG
+11	dok	_	_	_	_	_	_	_	_	O
+12	se	_	_	_	_	_	_	_	_	O
+13	ne	_	_	_	_	_	_	_	_	O
+14	stvore	_	_	_	_	_	_	_	_	O
+15	formalni	_	_	_	_	_	_	_	_	O
+16	uslovi	_	_	_	_	_	_	_	_	O
+17	za	_	_	_	_	_	_	_	_	O
+18	održavanje	_	_	_	_	_	_	_	_	O
+19	referenduma	_	_	_	_	_	_	_	SpaceAfter=No	O
+20	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 21
+# sent_id = 21.1
+# text = "Referendum niko ne bi trebalo da osporava.
+1	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+2	Referendum	_	_	_	_	_	_	_	_	O
+3	niko	_	_	_	_	_	_	_	_	O
+4	ne	_	_	_	_	_	_	_	_	O
+5	bi	_	_	_	_	_	_	_	_	O
+6	trebalo	_	_	_	_	_	_	_	_	O
+7	da	_	_	_	_	_	_	_	_	O
+8	osporava	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 21.2
+# text = Ustavni sud Srpske još nije završio posao.
+1	Ustavni	_	_	_	_	_	_	_	_	B-ORG
+2	sud	_	_	_	_	_	_	_	_	I-ORG
+3	Srpske	_	_	_	_	_	_	_	_	I-ORG
+4	još	_	_	_	_	_	_	_	_	O
+5	nije	_	_	_	_	_	_	_	_	O
+6	završio	_	_	_	_	_	_	_	_	O
+7	posao	_	_	_	_	_	_	_	SpaceAfter=No	O
+8	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 21.3
+# text = Danas je Klubu Bošnjaka u Veću naroda Srpske poslednji dan i oni čekaju da bi rastegli situaciju, te da daju svoje primedbe Ustavnom sudu Srpske, čime onemogućavaju da pomenute aktivnosti krenu kako je bilo očekivano", pojasnio je Dodik
+1	Danas	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	Klubu	_	_	_	_	_	_	_	_	B-ORG
+4	Bošnjaka	_	_	_	_	_	_	_	_	I-ORG
+5	u	_	_	_	_	_	_	_	_	O
+6	Veću	_	_	_	_	_	_	_	_	B-ORG
+7	naroda	_	_	_	_	_	_	_	_	I-ORG
+8	Srpske	_	_	_	_	_	_	_	_	I-ORG
+9	poslednji	_	_	_	_	_	_	_	_	O
+10	dan	_	_	_	_	_	_	_	_	O
+11	i	_	_	_	_	_	_	_	_	O
+12	oni	_	_	_	_	_	_	_	_	O
+13	čekaju	_	_	_	_	_	_	_	_	O
+14	da	_	_	_	_	_	_	_	_	O
+15	bi	_	_	_	_	_	_	_	_	O
+16	rastegli	_	_	_	_	_	_	_	_	O
+17	situaciju	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	,	,	PUNCT	Z	_	_	_	_	_	O
+19	te	_	_	_	_	_	_	_	_	O
+20	da	_	_	_	_	_	_	_	_	O
+21	daju	_	_	_	_	_	_	_	_	O
+22	svoje	_	_	_	_	_	_	_	_	O
+23	primedbe	_	_	_	_	_	_	_	_	O
+24	Ustavnom	_	_	_	_	_	_	_	_	B-ORG
+25	sudu	_	_	_	_	_	_	_	_	I-ORG
+26	Srpske	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+27	,	,	PUNCT	Z	_	_	_	_	_	O
+28	čime	_	_	_	_	_	_	_	_	O
+29	onemogućavaju	_	_	_	_	_	_	_	_	O
+30	da	_	_	_	_	_	_	_	_	O
+31	pomenute	_	_	_	_	_	_	_	_	O
+32	aktivnosti	_	_	_	_	_	_	_	_	O
+33	krenu	_	_	_	_	_	_	_	_	O
+34	kako	_	_	_	_	_	_	_	_	O
+35	je	_	_	_	_	_	_	_	_	O
+36	bilo	_	_	_	_	_	_	_	_	O
+37	očekivano	_	_	_	_	_	_	_	SpaceAfter=No	O
+38	"	"	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+39	,	,	PUNCT	Z	_	_	_	_	_	O
+40	pojasnio	_	_	_	_	_	_	_	_	O
+41	je	_	_	_	_	_	_	_	_	O
+42	Dodik	_	_	_	_	_	_	_	_	B-PER
+

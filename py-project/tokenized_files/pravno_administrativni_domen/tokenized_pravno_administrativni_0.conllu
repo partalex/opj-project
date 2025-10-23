@@ -1,0 +1,644 @@
+#name = teodora
+#domen = pravno_administrativni
+#url = https://www.vrh.sud.rs/sr-lat/r1-2762025-3-201
+# newpar id = 1
+# sent_id = 1.1
+# text = Vrhovni sud, u veću sastavljenom od sudija: Vesne Subić, predsednika veća, Jelice Bojanić Kerkez i Radoslave Mađarov, članova veća, u vanparničnom postupku iza sada pok.
+1	Vrhovni	_	_	_	_	_	_	_	_	O
+2	sud	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	u	_	_	_	_	_	_	_	_	O
+5	veću	_	_	_	_	_	_	_	_	O
+6	sastavljenom	_	_	_	_	_	_	_	_	O
+7	od	_	_	_	_	_	_	_	_	O
+8	sudija	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	:	:	PUNCT	Z	_	_	_	_	_	O
+10	Vesne	_	_	_	_	_	_	_	_	O
+11	Subić	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	predsednika	_	_	_	_	_	_	_	_	O
+14	veća	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	,	,	PUNCT	Z	_	_	_	_	_	O
+16	Jelice	_	_	_	_	_	_	_	_	O
+17	Bojanić	_	_	_	_	_	_	_	_	O
+18	Kerkez	_	_	_	_	_	_	_	_	O
+19	i	_	_	_	_	_	_	_	_	O
+20	Radoslave	_	_	_	_	_	_	_	_	O
+21	Mađarov	_	_	_	_	_	_	_	SpaceAfter=No	O
+22	,	,	PUNCT	Z	_	_	_	_	_	O
+23	članova	_	_	_	_	_	_	_	_	O
+24	veća	_	_	_	_	_	_	_	SpaceAfter=No	O
+25	,	,	PUNCT	Z	_	_	_	_	_	O
+26	u	_	_	_	_	_	_	_	_	O
+27	vanparničnom	_	_	_	_	_	_	_	_	O
+28	postupku	_	_	_	_	_	_	_	_	O
+29	iza	_	_	_	_	_	_	_	_	O
+30	sada	_	_	_	_	_	_	_	_	O
+31	pok	_	_	_	_	_	_	_	SpaceAfter=No	O
+32	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 1.2
+# text = AA iz ...
+1	AA	_	_	_	_	_	_	_	_	O
+2	iz	_	_	_	_	_	_	_	_	O
+3	...	...	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+
+# sent_id = 1.3
+# text = , radi raspravljanja zaostavštine, odlučujući o sukobu nadležnosti između Osnovnog suda u Novom Sadu i Višeg suda u Novom Sadu, u sednici veća održanoj 09.07.2025. godine, doneo je
+1	,	,	PUNCT	Z	_	_	_	_	_	O
+2	radi	_	_	_	_	_	_	_	_	O
+3	raspravljanja	_	_	_	_	_	_	_	_	O
+4	zaostavštine	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	odlučujući	_	_	_	_	_	_	_	_	O
+7	o	_	_	_	_	_	_	_	_	O
+8	sukobu	_	_	_	_	_	_	_	_	O
+9	nadležnosti	_	_	_	_	_	_	_	_	O
+10	između	_	_	_	_	_	_	_	_	O
+11	Osnovnog	_	_	_	_	_	_	_	_	O
+12	suda	_	_	_	_	_	_	_	_	O
+13	u	_	_	_	_	_	_	_	_	O
+14	Novom	_	_	_	_	_	_	_	_	O
+15	Sadu	_	_	_	_	_	_	_	_	O
+16	i	_	_	_	_	_	_	_	_	O
+17	Višeg	_	_	_	_	_	_	_	_	O
+18	suda	_	_	_	_	_	_	_	_	O
+19	u	_	_	_	_	_	_	_	_	O
+20	Novom	_	_	_	_	_	_	_	_	O
+21	Sadu	_	_	_	_	_	_	_	SpaceAfter=No	O
+22	,	,	PUNCT	Z	_	_	_	_	_	O
+23	u	_	_	_	_	_	_	_	_	O
+24	sednici	_	_	_	_	_	_	_	_	O
+25	veća	_	_	_	_	_	_	_	_	O
+26	održanoj	_	_	_	_	_	_	_	_	O
+27	09.07.2025.	_	_	_	_	_	_	_	_	O
+28	godine	_	_	_	_	_	_	_	SpaceAfter=No	O
+29	,	,	PUNCT	Z	_	_	_	_	_	O
+30	doneo	_	_	_	_	_	_	_	_	O
+31	je	_	_	_	_	_	_	_	_	O
+
+# newpar id = 2
+# sent_id = 2.1
+# text = R E Š E NJ E
+1	R	_	_	_	_	_	_	_	_	O
+2	E	_	_	_	_	_	_	_	_	O
+3	Š	_	_	_	_	_	_	_	_	O
+4	E	_	_	_	_	_	_	_	_	O
+5	NJ	_	_	_	_	_	_	_	_	O
+6	E	_	_	_	_	_	_	_	_	O
+
+# newpar id = 3
+# sent_id = 3.1
+# text = USTUPAJU SE spisi predmeta Osnovnog suda u Novom Sadu O 2976/25, Apelacionom sudu u Novom Sadu, radi odlučivanja o sukobu stvarne nadležnosti između sudova iste vrste.
+1	USTUPAJU	_	_	_	_	_	_	_	_	O
+2	SE	_	_	_	_	_	_	_	_	O
+3	spisi	_	_	_	_	_	_	_	_	O
+4	predmeta	_	_	_	_	_	_	_	_	O
+5	Osnovnog	_	_	_	_	_	_	_	_	O
+6	suda	_	_	_	_	_	_	_	_	O
+7	u	_	_	_	_	_	_	_	_	O
+8	Novom	_	_	_	_	_	_	_	_	O
+9	Sadu	_	_	_	_	_	_	_	_	O
+10	O	_	_	_	_	_	_	_	_	O
+11	2976/25	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	Apelacionom	_	_	_	_	_	_	_	_	O
+14	sudu	_	_	_	_	_	_	_	_	O
+15	u	_	_	_	_	_	_	_	_	O
+16	Novom	_	_	_	_	_	_	_	_	O
+17	Sadu	_	_	_	_	_	_	_	SpaceAfter=No	O
+18	,	,	PUNCT	Z	_	_	_	_	_	O
+19	radi	_	_	_	_	_	_	_	_	O
+20	odlučivanja	_	_	_	_	_	_	_	_	O
+21	o	_	_	_	_	_	_	_	_	O
+22	sukobu	_	_	_	_	_	_	_	_	O
+23	stvarne	_	_	_	_	_	_	_	_	O
+24	nadležnosti	_	_	_	_	_	_	_	_	O
+25	između	_	_	_	_	_	_	_	_	O
+26	sudova	_	_	_	_	_	_	_	_	O
+27	iste	_	_	_	_	_	_	_	_	O
+28	vrste	_	_	_	_	_	_	_	SpaceAfter=No	O
+29	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 4
+# sent_id = 4.1
+# text = O b r a z l o ž e nj e
+1	O	_	_	_	_	_	_	_	_	O
+2	b	_	_	_	_	_	_	_	_	O
+3	r	_	_	_	_	_	_	_	_	O
+4	a	_	_	_	_	_	_	_	_	O
+5	z	_	_	_	_	_	_	_	_	O
+6	l	_	_	_	_	_	_	_	_	O
+7	o	_	_	_	_	_	_	_	_	O
+8	ž	_	_	_	_	_	_	_	_	O
+9	e	_	_	_	_	_	_	_	_	O
+10	nj	_	_	_	_	_	_	_	_	O
+11	e	_	_	_	_	_	_	_	_	O
+
+# newpar id = 5
+# sent_id = 5.1
+# text = Viši sud u Novom Sadu, rešenjem Gž 885/25 od 13.05.2025. godine, usvojio je žalbu zakonske naslednice BB, ukinuo rešenje o nasleđivanju Osnovnog suda u Novom Sadu O. 7420/21 od 11.12.2024. godine, ispravljeno rešenjem Osnovnog suda u Novom Sadu O 7420/21 od 31.12.2024. godine i predmet vratio prvostepenom sudu na ponovni postupak.
+1	Viši	_	_	_	_	_	_	_	_	O
+2	sud	_	_	_	_	_	_	_	_	O
+3	u	_	_	_	_	_	_	_	_	O
+4	Novom	_	_	_	_	_	_	_	_	O
+5	Sadu	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	,	,	PUNCT	Z	_	_	_	_	_	O
+7	rešenjem	_	_	_	_	_	_	_	_	O
+8	Gž	_	_	_	_	_	_	_	_	O
+9	885/25	_	_	_	_	_	_	_	_	O
+10	od	_	_	_	_	_	_	_	_	O
+11	13.05.2025.	_	_	_	_	_	_	_	_	O
+12	godine	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+14	usvojio	_	_	_	_	_	_	_	_	O
+15	je	_	_	_	_	_	_	_	_	O
+16	žalbu	_	_	_	_	_	_	_	_	O
+17	zakonske	_	_	_	_	_	_	_	_	O
+18	naslednice	_	_	_	_	_	_	_	_	O
+19	BB	_	_	_	_	_	_	_	SpaceAfter=No	O
+20	,	,	PUNCT	Z	_	_	_	_	_	O
+21	ukinuo	_	_	_	_	_	_	_	_	O
+22	rešenje	_	_	_	_	_	_	_	_	O
+23	o	_	_	_	_	_	_	_	_	O
+24	nasleđivanju	_	_	_	_	_	_	_	_	O
+25	Osnovnog	_	_	_	_	_	_	_	_	O
+26	suda	_	_	_	_	_	_	_	_	O
+27	u	_	_	_	_	_	_	_	_	O
+28	Novom	_	_	_	_	_	_	_	_	O
+29	Sadu	_	_	_	_	_	_	_	_	O
+30	O.	_	_	_	_	_	_	_	_	O
+31	7420/21	_	_	_	_	_	_	_	_	O
+32	od	_	_	_	_	_	_	_	_	O
+33	11.12.2024.	_	_	_	_	_	_	_	_	O
+34	godine	_	_	_	_	_	_	_	SpaceAfter=No	O
+35	,	,	PUNCT	Z	_	_	_	_	_	O
+36	ispravljeno	_	_	_	_	_	_	_	_	O
+37	rešenjem	_	_	_	_	_	_	_	_	O
+38	Osnovnog	_	_	_	_	_	_	_	_	O
+39	suda	_	_	_	_	_	_	_	_	O
+40	u	_	_	_	_	_	_	_	_	O
+41	Novom	_	_	_	_	_	_	_	_	O
+42	Sadu	_	_	_	_	_	_	_	_	O
+43	O	_	_	_	_	_	_	_	_	O
+44	7420/21	_	_	_	_	_	_	_	_	O
+45	od	_	_	_	_	_	_	_	_	O
+46	31.12.2024.	_	_	_	_	_	_	_	_	O
+47	godine	_	_	_	_	_	_	_	_	O
+48	i	_	_	_	_	_	_	_	_	O
+49	predmet	_	_	_	_	_	_	_	_	O
+50	vratio	_	_	_	_	_	_	_	_	O
+51	prvostepenom	_	_	_	_	_	_	_	_	O
+52	sudu	_	_	_	_	_	_	_	_	O
+53	na	_	_	_	_	_	_	_	_	O
+54	ponovni	_	_	_	_	_	_	_	_	O
+55	postupak	_	_	_	_	_	_	_	SpaceAfter=No	O
+56	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 6
+# sent_id = 6.1
+# text = Osnovni sud u Novom Sadu nije prihvatio stvarnu nadležnost, već je spise predmeta uz propratni akt O 2976/25 od 10.06.2025. godine, dostavio Vrhovnom sudu, sa predlogom za rešavanje sukoba nadležnosti, iz razloga što je u ovom postupku Viši sud u Novom Sadu po drugi put ukinuo rešenje o nasleđivanju Osnovnog suda u Novom Sadu i predmet vratio tom sudu na ponovni postupak.
+1	Osnovni	_	_	_	_	_	_	_	_	O
+2	sud	_	_	_	_	_	_	_	_	O
+3	u	_	_	_	_	_	_	_	_	O
+4	Novom	_	_	_	_	_	_	_	_	O
+5	Sadu	_	_	_	_	_	_	_	_	O
+6	nije	_	_	_	_	_	_	_	_	O
+7	prihvatio	_	_	_	_	_	_	_	_	O
+8	stvarnu	_	_	_	_	_	_	_	_	O
+9	nadležnost	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	već	_	_	_	_	_	_	_	_	O
+12	je	_	_	_	_	_	_	_	_	O
+13	spise	_	_	_	_	_	_	_	_	O
+14	predmeta	_	_	_	_	_	_	_	_	O
+15	uz	_	_	_	_	_	_	_	_	O
+16	propratni	_	_	_	_	_	_	_	_	O
+17	akt	_	_	_	_	_	_	_	_	O
+18	O	_	_	_	_	_	_	_	_	O
+19	2976/25	_	_	_	_	_	_	_	_	O
+20	od	_	_	_	_	_	_	_	_	O
+21	10.06.2025.	_	_	_	_	_	_	_	_	O
+22	godine	_	_	_	_	_	_	_	SpaceAfter=No	O
+23	,	,	PUNCT	Z	_	_	_	_	_	O
+24	dostavio	_	_	_	_	_	_	_	_	O
+25	Vrhovnom	_	_	_	_	_	_	_	_	O
+26	sudu	_	_	_	_	_	_	_	SpaceAfter=No	O
+27	,	,	PUNCT	Z	_	_	_	_	_	O
+28	sa	_	_	_	_	_	_	_	_	O
+29	predlogom	_	_	_	_	_	_	_	_	O
+30	za	_	_	_	_	_	_	_	_	O
+31	rešavanje	_	_	_	_	_	_	_	_	O
+32	sukoba	_	_	_	_	_	_	_	_	O
+33	nadležnosti	_	_	_	_	_	_	_	SpaceAfter=No	O
+34	,	,	PUNCT	Z	_	_	_	_	_	O
+35	iz	_	_	_	_	_	_	_	_	O
+36	razloga	_	_	_	_	_	_	_	_	O
+37	što	_	_	_	_	_	_	_	_	O
+38	je	_	_	_	_	_	_	_	_	O
+39	u	_	_	_	_	_	_	_	_	O
+40	ovom	_	_	_	_	_	_	_	_	O
+41	postupku	_	_	_	_	_	_	_	_	O
+42	Viši	_	_	_	_	_	_	_	_	O
+43	sud	_	_	_	_	_	_	_	_	O
+44	u	_	_	_	_	_	_	_	_	O
+45	Novom	_	_	_	_	_	_	_	_	O
+46	Sadu	_	_	_	_	_	_	_	_	O
+47	po	_	_	_	_	_	_	_	_	O
+48	drugi	_	_	_	_	_	_	_	_	O
+49	put	_	_	_	_	_	_	_	_	O
+50	ukinuo	_	_	_	_	_	_	_	_	O
+51	rešenje	_	_	_	_	_	_	_	_	O
+52	o	_	_	_	_	_	_	_	_	O
+53	nasleđivanju	_	_	_	_	_	_	_	_	O
+54	Osnovnog	_	_	_	_	_	_	_	_	O
+55	suda	_	_	_	_	_	_	_	_	O
+56	u	_	_	_	_	_	_	_	_	O
+57	Novom	_	_	_	_	_	_	_	_	O
+58	Sadu	_	_	_	_	_	_	_	_	O
+59	i	_	_	_	_	_	_	_	_	O
+60	predmet	_	_	_	_	_	_	_	_	O
+61	vratio	_	_	_	_	_	_	_	_	O
+62	tom	_	_	_	_	_	_	_	_	O
+63	sudu	_	_	_	_	_	_	_	_	O
+64	na	_	_	_	_	_	_	_	_	O
+65	ponovni	_	_	_	_	_	_	_	_	O
+66	postupak	_	_	_	_	_	_	_	SpaceAfter=No	O
+67	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 7
+# sent_id = 7.1
+# text = Vrhovni sud je u postupku povodom sukoba nadležnosti između sudova iste vrste na osnovu odredbe člana 22. stav 1. Zakona o parničnom postupku – ZPP („Službeni glasnik RS“, br. 72/11...
+1	Vrhovni	_	_	_	_	_	_	_	_	O
+2	sud	_	_	_	_	_	_	_	_	O
+3	je	_	_	_	_	_	_	_	_	O
+4	u	_	_	_	_	_	_	_	_	O
+5	postupku	_	_	_	_	_	_	_	_	O
+6	povodom	_	_	_	_	_	_	_	_	O
+7	sukoba	_	_	_	_	_	_	_	_	O
+8	nadležnosti	_	_	_	_	_	_	_	_	O
+9	između	_	_	_	_	_	_	_	_	O
+10	sudova	_	_	_	_	_	_	_	_	O
+11	iste	_	_	_	_	_	_	_	_	O
+12	vrste	_	_	_	_	_	_	_	_	O
+13	na	_	_	_	_	_	_	_	_	O
+14	osnovu	_	_	_	_	_	_	_	_	O
+15	odredbe	_	_	_	_	_	_	_	_	O
+16	člana	_	_	_	_	_	_	_	_	O
+17	22.	_	_	_	_	_	_	_	_	O
+18	stav	_	_	_	_	_	_	_	_	O
+19	1.	_	_	_	_	_	_	_	_	O
+20	Zakona	_	_	_	_	_	_	_	_	O
+21	o	_	_	_	_	_	_	_	_	O
+22	parničnom	_	_	_	_	_	_	_	_	O
+23	postupku	_	_	_	_	_	_	_	_	O
+24	–	–	PUNCT	Z	_	_	_	_	_	O
+25	ZPP	_	_	_	_	_	_	_	_	O
+26	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+27	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+28	Službeni	_	_	_	_	_	_	_	_	O
+29	glasnik	_	_	_	_	_	_	_	_	O
+30	RS	_	_	_	_	_	_	_	SpaceAfter=No	O
+31	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+32	,	,	PUNCT	Z	_	_	_	_	_	O
+33	br.	_	_	_	_	_	_	_	_	O
+34	72/11	_	_	_	_	_	_	_	SpaceAfter=No	O
+35	...	...	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 7.2
+# text = 10/23-drugi zakon), a u vezi odredbe člana 32. stav 2. Zakona o uređenju sudova („Službeni glasnik RS“, broj 10/23) i odredbe člana 30. stav 2. Zakona o vanparničnom postupku („Službeni glasnik SRS“, broj 25/82 i 48/88 „Službeni glasnik RS“, broj 46/95...
+1	10/23-drugi	_	_	_	_	_	_	_	_	O
+2	zakon	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	)	)	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	a	_	_	_	_	_	_	_	_	O
+6	u	_	_	_	_	_	_	_	_	O
+7	vezi	_	_	_	_	_	_	_	_	O
+8	odredbe	_	_	_	_	_	_	_	_	O
+9	člana	_	_	_	_	_	_	_	_	O
+10	32.	_	_	_	_	_	_	_	_	O
+11	stav	_	_	_	_	_	_	_	_	O
+12	2.	_	_	_	_	_	_	_	_	O
+13	Zakona	_	_	_	_	_	_	_	_	O
+14	o	_	_	_	_	_	_	_	_	O
+15	uređenju	_	_	_	_	_	_	_	_	O
+16	sudova	_	_	_	_	_	_	_	_	O
+17	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+18	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+19	Službeni	_	_	_	_	_	_	_	_	O
+20	glasnik	_	_	_	_	_	_	_	_	O
+21	RS	_	_	_	_	_	_	_	SpaceAfter=No	O
+22	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+23	,	,	PUNCT	Z	_	_	_	_	_	O
+24	broj	_	_	_	_	_	_	_	_	O
+25	10/23	_	_	_	_	_	_	_	SpaceAfter=No	O
+26	)	)	PUNCT	Z	_	_	_	_	_	O
+27	i	_	_	_	_	_	_	_	_	O
+28	odredbe	_	_	_	_	_	_	_	_	O
+29	člana	_	_	_	_	_	_	_	_	O
+30	30.	_	_	_	_	_	_	_	_	O
+31	stav	_	_	_	_	_	_	_	_	O
+32	2.	_	_	_	_	_	_	_	_	O
+33	Zakona	_	_	_	_	_	_	_	_	O
+34	o	_	_	_	_	_	_	_	_	O
+35	vanparničnom	_	_	_	_	_	_	_	_	O
+36	postupku	_	_	_	_	_	_	_	_	O
+37	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+38	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+39	Službeni	_	_	_	_	_	_	_	_	O
+40	glasnik	_	_	_	_	_	_	_	_	O
+41	SRS	_	_	_	_	_	_	_	SpaceAfter=No	O
+42	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+43	,	,	PUNCT	Z	_	_	_	_	_	O
+44	broj	_	_	_	_	_	_	_	_	O
+45	25/82	_	_	_	_	_	_	_	_	O
+46	i	_	_	_	_	_	_	_	_	O
+47	48/88	_	_	_	_	_	_	_	_	O
+48	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+49	Službeni	_	_	_	_	_	_	_	_	O
+50	glasnik	_	_	_	_	_	_	_	_	O
+51	RS	_	_	_	_	_	_	_	SpaceAfter=No	O
+52	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+53	,	,	PUNCT	Z	_	_	_	_	_	O
+54	broj	_	_	_	_	_	_	_	_	O
+55	46/95	_	_	_	_	_	_	_	SpaceAfter=No	O
+56	...	...	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+
+# sent_id = 7.3
+# text = 14/22) utvrdio da je Apelacioni sud u Novom Sadu nadležan za odlučivanje o nastalom sukobu stvarne nadležnosti.
+1	14/22	_	_	_	_	_	_	_	SpaceAfter=No	O
+2	)	)	PUNCT	Z	_	_	_	_	_	O
+3	utvrdio	_	_	_	_	_	_	_	_	O
+4	da	_	_	_	_	_	_	_	_	O
+5	je	_	_	_	_	_	_	_	_	O
+6	Apelacioni	_	_	_	_	_	_	_	_	O
+7	sud	_	_	_	_	_	_	_	_	O
+8	u	_	_	_	_	_	_	_	_	O
+9	Novom	_	_	_	_	_	_	_	_	O
+10	Sadu	_	_	_	_	_	_	_	_	O
+11	nadležan	_	_	_	_	_	_	_	_	O
+12	za	_	_	_	_	_	_	_	_	O
+13	odlučivanje	_	_	_	_	_	_	_	_	O
+14	o	_	_	_	_	_	_	_	_	O
+15	nastalom	_	_	_	_	_	_	_	_	O
+16	sukobu	_	_	_	_	_	_	_	_	O
+17	stvarne	_	_	_	_	_	_	_	_	O
+18	nadležnosti	_	_	_	_	_	_	_	SpaceAfter=No	O
+19	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 8
+# sent_id = 8.1
+# text = Odredbom člana 22. stav 1. ZPP je propisano da sukob nadležnosti između sudova iste vrste rešava zajednički neposredno viši sud.
+1	Odredbom	_	_	_	_	_	_	_	_	O
+2	člana	_	_	_	_	_	_	_	_	O
+3	22.	_	_	_	_	_	_	_	_	O
+4	stav	_	_	_	_	_	_	_	_	O
+5	1.	_	_	_	_	_	_	_	_	O
+6	ZPP	_	_	_	_	_	_	_	_	O
+7	je	_	_	_	_	_	_	_	_	O
+8	propisano	_	_	_	_	_	_	_	_	O
+9	da	_	_	_	_	_	_	_	_	O
+10	sukob	_	_	_	_	_	_	_	_	O
+11	nadležnosti	_	_	_	_	_	_	_	_	O
+12	između	_	_	_	_	_	_	_	_	O
+13	sudova	_	_	_	_	_	_	_	_	O
+14	iste	_	_	_	_	_	_	_	_	O
+15	vrste	_	_	_	_	_	_	_	_	O
+16	rešava	_	_	_	_	_	_	_	_	O
+17	zajednički	_	_	_	_	_	_	_	_	O
+18	neposredno	_	_	_	_	_	_	_	_	O
+19	viši	_	_	_	_	_	_	_	_	O
+20	sud	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 9
+# sent_id = 9.1
+# text = Odredbom člana 26. stav 2. Zakona o uređenju sudova propisano je da apelacioni sud odlučuje o sukobu nadležnosti nižih sudova sa svog područja ako za odlučivanje nije nadležan viši sud, o prenošenju nadležnosti osnovnog i višeg suda sa svog područja ako postoje opravdani razlozi i vrši druge nadležnosti i poslove određene zakonom.
+1	Odredbom	_	_	_	_	_	_	_	_	O
+2	člana	_	_	_	_	_	_	_	_	O
+3	26.	_	_	_	_	_	_	_	_	O
+4	stav	_	_	_	_	_	_	_	_	O
+5	2.	_	_	_	_	_	_	_	_	O
+6	Zakona	_	_	_	_	_	_	_	_	O
+7	o	_	_	_	_	_	_	_	_	O
+8	uređenju	_	_	_	_	_	_	_	_	O
+9	sudova	_	_	_	_	_	_	_	_	O
+10	propisano	_	_	_	_	_	_	_	_	O
+11	je	_	_	_	_	_	_	_	_	O
+12	da	_	_	_	_	_	_	_	_	O
+13	apelacioni	_	_	_	_	_	_	_	_	O
+14	sud	_	_	_	_	_	_	_	_	O
+15	odlučuje	_	_	_	_	_	_	_	_	O
+16	o	_	_	_	_	_	_	_	_	O
+17	sukobu	_	_	_	_	_	_	_	_	O
+18	nadležnosti	_	_	_	_	_	_	_	_	O
+19	nižih	_	_	_	_	_	_	_	_	O
+20	sudova	_	_	_	_	_	_	_	_	O
+21	sa	_	_	_	_	_	_	_	_	O
+22	svog	_	_	_	_	_	_	_	_	O
+23	područja	_	_	_	_	_	_	_	_	O
+24	ako	_	_	_	_	_	_	_	_	O
+25	za	_	_	_	_	_	_	_	_	O
+26	odlučivanje	_	_	_	_	_	_	_	_	O
+27	nije	_	_	_	_	_	_	_	_	O
+28	nadležan	_	_	_	_	_	_	_	_	O
+29	viši	_	_	_	_	_	_	_	_	O
+30	sud	_	_	_	_	_	_	_	SpaceAfter=No	O
+31	,	,	PUNCT	Z	_	_	_	_	_	O
+32	o	_	_	_	_	_	_	_	_	O
+33	prenošenju	_	_	_	_	_	_	_	_	O
+34	nadležnosti	_	_	_	_	_	_	_	_	O
+35	osnovnog	_	_	_	_	_	_	_	_	O
+36	i	_	_	_	_	_	_	_	_	O
+37	višeg	_	_	_	_	_	_	_	_	O
+38	suda	_	_	_	_	_	_	_	_	O
+39	sa	_	_	_	_	_	_	_	_	O
+40	svog	_	_	_	_	_	_	_	_	O
+41	područja	_	_	_	_	_	_	_	_	O
+42	ako	_	_	_	_	_	_	_	_	O
+43	postoje	_	_	_	_	_	_	_	_	O
+44	opravdani	_	_	_	_	_	_	_	_	O
+45	razlozi	_	_	_	_	_	_	_	_	O
+46	i	_	_	_	_	_	_	_	_	O
+47	vrši	_	_	_	_	_	_	_	_	O
+48	druge	_	_	_	_	_	_	_	_	O
+49	nadležnosti	_	_	_	_	_	_	_	_	O
+50	i	_	_	_	_	_	_	_	_	O
+51	poslove	_	_	_	_	_	_	_	_	O
+52	određene	_	_	_	_	_	_	_	_	O
+53	zakonom	_	_	_	_	_	_	_	SpaceAfter=No	O
+54	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 10
+# sent_id = 10.1
+# text = Odredbom člana 4. stav 1. tačka 14.
+1	Odredbom	_	_	_	_	_	_	_	_	O
+2	člana	_	_	_	_	_	_	_	_	O
+3	4.	_	_	_	_	_	_	_	_	O
+4	stav	_	_	_	_	_	_	_	_	O
+5	1.	_	_	_	_	_	_	_	_	O
+6	tačka	_	_	_	_	_	_	_	_	O
+7	14.	_	_	_	_	_	_	_	_	O
+
+# sent_id = 10.2
+# text = Zakona o sedištima i područjima sudova i javnih tužilaštava („Službeni glasnik RS“, broj 101/13) predviđen je Viši sud u Novom Sadu, za područje Osnovnog suda u Bačkoj Palanci i Osnovnog suda u Novom Sadu.
+1	Zakona	_	_	_	_	_	_	_	_	O
+2	o	_	_	_	_	_	_	_	_	O
+3	sedištima	_	_	_	_	_	_	_	_	O
+4	i	_	_	_	_	_	_	_	_	O
+5	područjima	_	_	_	_	_	_	_	_	O
+6	sudova	_	_	_	_	_	_	_	_	O
+7	i	_	_	_	_	_	_	_	_	O
+8	javnih	_	_	_	_	_	_	_	_	O
+9	tužilaštava	_	_	_	_	_	_	_	_	O
+10	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+11	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+12	Službeni	_	_	_	_	_	_	_	_	O
+13	glasnik	_	_	_	_	_	_	_	_	O
+14	RS	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+16	,	,	PUNCT	Z	_	_	_	_	_	O
+17	broj	_	_	_	_	_	_	_	_	O
+18	101/13	_	_	_	_	_	_	_	SpaceAfter=No	O
+19	)	)	PUNCT	Z	_	_	_	_	_	O
+20	predviđen	_	_	_	_	_	_	_	_	O
+21	je	_	_	_	_	_	_	_	_	O
+22	Viši	_	_	_	_	_	_	_	_	O
+23	sud	_	_	_	_	_	_	_	_	O
+24	u	_	_	_	_	_	_	_	_	O
+25	Novom	_	_	_	_	_	_	_	_	O
+26	Sadu	_	_	_	_	_	_	_	SpaceAfter=No	O
+27	,	,	PUNCT	Z	_	_	_	_	_	O
+28	za	_	_	_	_	_	_	_	_	O
+29	područje	_	_	_	_	_	_	_	_	O
+30	Osnovnog	_	_	_	_	_	_	_	_	O
+31	suda	_	_	_	_	_	_	_	_	O
+32	u	_	_	_	_	_	_	_	_	O
+33	Bačkoj	_	_	_	_	_	_	_	_	O
+34	Palanci	_	_	_	_	_	_	_	_	O
+35	i	_	_	_	_	_	_	_	_	O
+36	Osnovnog	_	_	_	_	_	_	_	_	O
+37	suda	_	_	_	_	_	_	_	_	O
+38	u	_	_	_	_	_	_	_	_	O
+39	Novom	_	_	_	_	_	_	_	_	O
+40	Sadu	_	_	_	_	_	_	_	SpaceAfter=No	O
+41	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 10.3
+# text = Odredbom člana 6. stav 1. tačka 4. Zakona o uređenju sudova, predviđen je Apelacioni sud u Novom Sadu, za područja viših sudova u Zrenjaninu, Novom Sadu, Somboru, Sremskoj Mitrovici, Subotici i Šapcu.
+1	Odredbom	_	_	_	_	_	_	_	_	O
+2	člana	_	_	_	_	_	_	_	_	O
+3	6.	_	_	_	_	_	_	_	_	O
+4	stav	_	_	_	_	_	_	_	_	O
+5	1.	_	_	_	_	_	_	_	_	O
+6	tačka	_	_	_	_	_	_	_	_	O
+7	4.	_	_	_	_	_	_	_	_	O
+8	Zakona	_	_	_	_	_	_	_	_	O
+9	o	_	_	_	_	_	_	_	_	O
+10	uređenju	_	_	_	_	_	_	_	_	O
+11	sudova	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	predviđen	_	_	_	_	_	_	_	_	O
+14	je	_	_	_	_	_	_	_	_	O
+15	Apelacioni	_	_	_	_	_	_	_	_	O
+16	sud	_	_	_	_	_	_	_	_	O
+17	u	_	_	_	_	_	_	_	_	O
+18	Novom	_	_	_	_	_	_	_	_	O
+19	Sadu	_	_	_	_	_	_	_	SpaceAfter=No	O
+20	,	,	PUNCT	Z	_	_	_	_	_	O
+21	za	_	_	_	_	_	_	_	_	O
+22	područja	_	_	_	_	_	_	_	_	O
+23	viših	_	_	_	_	_	_	_	_	O
+24	sudova	_	_	_	_	_	_	_	_	O
+25	u	_	_	_	_	_	_	_	_	O
+26	Zrenjaninu	_	_	_	_	_	_	_	SpaceAfter=No	O
+27	,	,	PUNCT	Z	_	_	_	_	_	O
+28	Novom	_	_	_	_	_	_	_	_	O
+29	Sadu	_	_	_	_	_	_	_	SpaceAfter=No	O
+30	,	,	PUNCT	Z	_	_	_	_	_	O
+31	Somboru	_	_	_	_	_	_	_	SpaceAfter=No	O
+32	,	,	PUNCT	Z	_	_	_	_	_	O
+33	Sremskoj	_	_	_	_	_	_	_	_	O
+34	Mitrovici	_	_	_	_	_	_	_	SpaceAfter=No	O
+35	,	,	PUNCT	Z	_	_	_	_	_	O
+36	Subotici	_	_	_	_	_	_	_	_	O
+37	i	_	_	_	_	_	_	_	_	O
+38	Šapcu	_	_	_	_	_	_	_	SpaceAfter=No	O
+39	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 11
+# sent_id = 11.1
+# text = Prema tome, kako se u konkretnoj situaciji radi o sukobu nadležnosti između Osnovnog suda u Novom Sadu i Višeg suda u Novom Sadu, čiji je zajednički neposredno viši sud, Apelacioni sud u Novom Sadu, to se predmet ustupa tom sudu radi odlučivanja o nastalom sukobu stvarne nadležnosti između sudova iste vrste.
+1	Prema	_	_	_	_	_	_	_	_	O
+2	tome	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	kako	_	_	_	_	_	_	_	_	O
+5	se	_	_	_	_	_	_	_	_	O
+6	u	_	_	_	_	_	_	_	_	O
+7	konkretnoj	_	_	_	_	_	_	_	_	O
+8	situaciji	_	_	_	_	_	_	_	_	O
+9	radi	_	_	_	_	_	_	_	_	O
+10	o	_	_	_	_	_	_	_	_	O
+11	sukobu	_	_	_	_	_	_	_	_	O
+12	nadležnosti	_	_	_	_	_	_	_	_	O
+13	između	_	_	_	_	_	_	_	_	O
+14	Osnovnog	_	_	_	_	_	_	_	_	O
+15	suda	_	_	_	_	_	_	_	_	O
+16	u	_	_	_	_	_	_	_	_	O
+17	Novom	_	_	_	_	_	_	_	_	O
+18	Sadu	_	_	_	_	_	_	_	_	O
+19	i	_	_	_	_	_	_	_	_	O
+20	Višeg	_	_	_	_	_	_	_	_	O
+21	suda	_	_	_	_	_	_	_	_	O
+22	u	_	_	_	_	_	_	_	_	O
+23	Novom	_	_	_	_	_	_	_	_	O
+24	Sadu	_	_	_	_	_	_	_	SpaceAfter=No	O
+25	,	,	PUNCT	Z	_	_	_	_	_	O
+26	čiji	_	_	_	_	_	_	_	_	O
+27	je	_	_	_	_	_	_	_	_	O
+28	zajednički	_	_	_	_	_	_	_	_	O
+29	neposredno	_	_	_	_	_	_	_	_	O
+30	viši	_	_	_	_	_	_	_	_	O
+31	sud	_	_	_	_	_	_	_	SpaceAfter=No	O
+32	,	,	PUNCT	Z	_	_	_	_	_	O
+33	Apelacioni	_	_	_	_	_	_	_	_	O
+34	sud	_	_	_	_	_	_	_	_	O
+35	u	_	_	_	_	_	_	_	_	O
+36	Novom	_	_	_	_	_	_	_	_	O
+37	Sadu	_	_	_	_	_	_	_	SpaceAfter=No	O
+38	,	,	PUNCT	Z	_	_	_	_	_	O
+39	to	_	_	_	_	_	_	_	_	O
+40	se	_	_	_	_	_	_	_	_	O
+41	predmet	_	_	_	_	_	_	_	_	O
+42	ustupa	_	_	_	_	_	_	_	_	O
+43	tom	_	_	_	_	_	_	_	_	O
+44	sudu	_	_	_	_	_	_	_	_	O
+45	radi	_	_	_	_	_	_	_	_	O
+46	odlučivanja	_	_	_	_	_	_	_	_	O
+47	o	_	_	_	_	_	_	_	_	O
+48	nastalom	_	_	_	_	_	_	_	_	O
+49	sukobu	_	_	_	_	_	_	_	_	O
+50	stvarne	_	_	_	_	_	_	_	_	O
+51	nadležnosti	_	_	_	_	_	_	_	_	O
+52	između	_	_	_	_	_	_	_	_	O
+53	sudova	_	_	_	_	_	_	_	_	O
+54	iste	_	_	_	_	_	_	_	_	O
+55	vrste	_	_	_	_	_	_	_	SpaceAfter=No	O
+56	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 12
+# sent_id = 12.1
+# text = Iz iznetih razloga, Vrhovni sud je odlučio kao u izreci.
+1	Iz	_	_	_	_	_	_	_	_	O
+2	iznetih	_	_	_	_	_	_	_	_	O
+3	razloga	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	Vrhovni	_	_	_	_	_	_	_	_	O
+6	sud	_	_	_	_	_	_	_	_	O
+7	je	_	_	_	_	_	_	_	_	O
+8	odlučio	_	_	_	_	_	_	_	_	O
+9	kao	_	_	_	_	_	_	_	_	O
+10	u	_	_	_	_	_	_	_	_	O
+11	izreci	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	.	.	PUNCT	Z	_	_	_	_	_	O
+

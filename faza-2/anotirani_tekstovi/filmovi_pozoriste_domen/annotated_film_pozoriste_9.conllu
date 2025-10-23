@@ -1,0 +1,601 @@
+#name = marija
+#domen = film_pozoriste
+#url = https://filmske-radosti.com/vesti/glumica-nevena-nerandzic-otvara-12-basta-fest/
+# newpar id = 1
+# sent_id = 1.1
+# text = Dvanaesto izdanje Bašta Festa, internacionalnog festivala kratkog igranog filma koji se održava od 3. do 6. jula 2025. u Bajinoj Bašti, otvoriće glumica Nevena Nerandžić.
+1	Dvanaesto	_	_	_	_	_	_	_	_	O
+2	izdanje	_	_	_	_	_	_	_	_	O
+3	Bašta	_	_	_	_	_	_	_	_	B-ORG
+4	Festa	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	internacionalnog	_	_	_	_	_	_	_	_	O
+7	festivala	_	_	_	_	_	_	_	_	O
+8	kratkog	_	_	_	_	_	_	_	_	O
+9	igranog	_	_	_	_	_	_	_	_	O
+10	filma	_	_	_	_	_	_	_	_	O
+11	koji	_	_	_	_	_	_	_	_	O
+12	se	_	_	_	_	_	_	_	_	O
+13	održava	_	_	_	_	_	_	_	_	O
+14	od	_	_	_	_	_	_	_	_	O
+15	3.	_	_	_	_	_	_	_	_	O
+16	do	_	_	_	_	_	_	_	_	O
+17	6.	_	_	_	_	_	_	_	_	O
+18	jula	_	_	_	_	_	_	_	_	O
+19	2025.	_	_	_	_	_	_	_	_	O
+20	u	_	_	_	_	_	_	_	_	O
+21	Bajinoj	_	_	_	_	_	_	_	_	B-LOC
+22	Bašti	_	_	_	_	_	_	_	SpaceAfter=No	I-LOC
+23	,	,	PUNCT	Z	_	_	_	_	_	O
+24	otvoriće	_	_	_	_	_	_	_	_	O
+25	glumica	_	_	_	_	_	_	_	_	O
+26	Nevena	_	_	_	_	_	_	_	_	B-PER
+27	Nerandžić	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+28	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 2
+# sent_id = 2.1
+# text = Time se nastavlja ranije uspostavljena tradicija da mladi glumac ili glumica, koji je doživeo/la veliki uspeh u prethodnoj godini, otvara novo izdanje ovog festivala kratkometražnog igranog filma.
+1	Time	_	_	_	_	_	_	_	_	O
+2	se	_	_	_	_	_	_	_	_	O
+3	nastavlja	_	_	_	_	_	_	_	_	O
+4	ranije	_	_	_	_	_	_	_	_	O
+5	uspostavljena	_	_	_	_	_	_	_	_	O
+6	tradicija	_	_	_	_	_	_	_	_	O
+7	da	_	_	_	_	_	_	_	_	O
+8	mladi	_	_	_	_	_	_	_	_	O
+9	glumac	_	_	_	_	_	_	_	_	O
+10	ili	_	_	_	_	_	_	_	_	O
+11	glumica	_	_	_	_	_	_	_	SpaceAfter=No	O
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	koji	_	_	_	_	_	_	_	_	O
+14	je	_	_	_	_	_	_	_	_	O
+15	doživeo	_	_	_	_	_	_	_	SpaceAfter=No	O
+16	/	/	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+17	la	_	_	_	_	_	_	_	_	O
+18	veliki	_	_	_	_	_	_	_	_	O
+19	uspeh	_	_	_	_	_	_	_	_	O
+20	u	_	_	_	_	_	_	_	_	O
+21	prethodnoj	_	_	_	_	_	_	_	_	O
+22	godini	_	_	_	_	_	_	_	SpaceAfter=No	O
+23	,	,	PUNCT	Z	_	_	_	_	_	O
+24	otvara	_	_	_	_	_	_	_	_	O
+25	novo	_	_	_	_	_	_	_	_	O
+26	izdanje	_	_	_	_	_	_	_	_	O
+27	ovog	_	_	_	_	_	_	_	_	O
+28	festivala	_	_	_	_	_	_	_	_	O
+29	kratkometražnog	_	_	_	_	_	_	_	_	O
+30	igranog	_	_	_	_	_	_	_	_	O
+31	filma	_	_	_	_	_	_	_	SpaceAfter=No	O
+32	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 2.2
+# text = Istakla se u ulogama u serijama „Nečista krv“, „V efekat“, „Ringišpil“, „Krunska 11″, „Branilac“, kao i u filmovima „Manja“ i „Jenga, čudna igra“.
+1	Istakla	_	_	_	_	_	_	_	_	O
+2	se	_	_	_	_	_	_	_	_	O
+3	u	_	_	_	_	_	_	_	_	O
+4	ulogama	_	_	_	_	_	_	_	_	O
+5	u	_	_	_	_	_	_	_	_	O
+6	serijama	_	_	_	_	_	_	_	_	O
+7	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+8	Nečista	_	_	_	_	_	_	_	_	O
+9	krv	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+11	,	,	PUNCT	Z	_	_	_	_	_	O
+12	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+13	V	_	_	_	_	_	_	_	_	O
+14	efekat	_	_	_	_	_	_	_	SpaceAfter=No	O
+15	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+16	,	,	PUNCT	Z	_	_	_	_	_	O
+17	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+18	Ringišpil	_	_	_	_	_	_	_	SpaceAfter=No	O
+19	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+20	,	,	PUNCT	Z	_	_	_	_	_	O
+21	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+22	Krunska	_	_	_	_	_	_	_	_	O
+23	11	_	_	_	_	_	_	_	SpaceAfter=No	O
+24	″	″	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+25	,	,	PUNCT	Z	_	_	_	_	_	O
+26	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+27	Branilac	_	_	_	_	_	_	_	SpaceAfter=No	O
+28	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+29	,	,	PUNCT	Z	_	_	_	_	_	O
+30	kao	_	_	_	_	_	_	_	_	O
+31	i	_	_	_	_	_	_	_	_	O
+32	u	_	_	_	_	_	_	_	_	O
+33	filmovima	_	_	_	_	_	_	_	_	O
+34	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+35	Manja	_	_	_	_	_	_	_	SpaceAfter=No	O
+36	“	“	PUNCT	Z	_	_	_	_	_	O
+37	i	_	_	_	_	_	_	_	_	O
+38	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+39	Jenga	_	_	_	_	_	_	_	SpaceAfter=No	O
+40	,	,	PUNCT	Z	_	_	_	_	_	O
+41	čudna	_	_	_	_	_	_	_	_	O
+42	igra	_	_	_	_	_	_	_	SpaceAfter=No	O
+43	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+44	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 3
+# sent_id = 3.1
+# text = Nevena Nerandžić je povodom svog učešća na festivalu rekla: „Godinama sam mnogo slušala o Bašta Festu, o vatrometu energije i emocija koji na par dana okupira Bajinu Baštu, i prvi put sam imala prilike da se u sve to uverim pre dve godine.
+1	Nevena	_	_	_	_	_	_	_	_	B-PER
+2	Nerandžić	_	_	_	_	_	_	_	_	I-PER
+3	je	_	_	_	_	_	_	_	_	O
+4	povodom	_	_	_	_	_	_	_	_	O
+5	svog	_	_	_	_	_	_	_	_	O
+6	učešća	_	_	_	_	_	_	_	_	O
+7	na	_	_	_	_	_	_	_	_	O
+8	festivalu	_	_	_	_	_	_	_	_	O
+9	rekla	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	:	:	PUNCT	Z	_	_	_	_	_	O
+11	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+12	Godinama	_	_	_	_	_	_	_	_	O
+13	sam	_	_	_	_	_	_	_	_	O
+14	mnogo	_	_	_	_	_	_	_	_	O
+15	slušala	_	_	_	_	_	_	_	_	O
+16	o	_	_	_	_	_	_	_	_	O
+17	Bašta	_	_	_	_	_	_	_	_	B-ORG
+18	Festu	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+19	,	,	PUNCT	Z	_	_	_	_	_	O
+20	o	_	_	_	_	_	_	_	_	O
+21	vatrometu	_	_	_	_	_	_	_	_	O
+22	energije	_	_	_	_	_	_	_	_	O
+23	i	_	_	_	_	_	_	_	_	O
+24	emocija	_	_	_	_	_	_	_	_	O
+25	koji	_	_	_	_	_	_	_	_	O
+26	na	_	_	_	_	_	_	_	_	O
+27	par	_	_	_	_	_	_	_	_	O
+28	dana	_	_	_	_	_	_	_	_	O
+29	okupira	_	_	_	_	_	_	_	_	O
+30	Bajinu	_	_	_	_	_	_	_	_	B-LOC
+31	Baštu	_	_	_	_	_	_	_	SpaceAfter=No	I-LOC
+32	,	,	PUNCT	Z	_	_	_	_	_	O
+33	i	_	_	_	_	_	_	_	_	O
+34	prvi	_	_	_	_	_	_	_	_	O
+35	put	_	_	_	_	_	_	_	_	O
+36	sam	_	_	_	_	_	_	_	_	O
+37	imala	_	_	_	_	_	_	_	_	O
+38	prilike	_	_	_	_	_	_	_	_	O
+39	da	_	_	_	_	_	_	_	_	O
+40	se	_	_	_	_	_	_	_	_	O
+41	u	_	_	_	_	_	_	_	_	O
+42	sve	_	_	_	_	_	_	_	_	O
+43	to	_	_	_	_	_	_	_	_	O
+44	uverim	_	_	_	_	_	_	_	_	O
+45	pre	_	_	_	_	_	_	_	_	O
+46	dve	_	_	_	_	_	_	_	_	O
+47	godine	_	_	_	_	_	_	_	SpaceAfter=No	O
+48	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 3.2
+# text = Bila sam tamo tokom celog festivala i malo je reći da sam oduševljena.
+1	Bila	_	_	_	_	_	_	_	_	O
+2	sam	_	_	_	_	_	_	_	_	O
+3	tamo	_	_	_	_	_	_	_	_	O
+4	tokom	_	_	_	_	_	_	_	_	O
+5	celog	_	_	_	_	_	_	_	_	O
+6	festivala	_	_	_	_	_	_	_	_	O
+7	i	_	_	_	_	_	_	_	_	O
+8	malo	_	_	_	_	_	_	_	_	O
+9	je	_	_	_	_	_	_	_	_	O
+10	reći	_	_	_	_	_	_	_	_	O
+11	da	_	_	_	_	_	_	_	_	O
+12	sam	_	_	_	_	_	_	_	_	O
+13	oduševljena	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 3.3
+# text = Kada su me Maja i Jovan pozvali da otvorim festival ove godine, bukvalno sam počela da vrištim Jovanu u telefon od sreće.
+1	Kada	_	_	_	_	_	_	_	_	O
+2	su	_	_	_	_	_	_	_	_	O
+3	me	_	_	_	_	_	_	_	_	O
+4	Maja	_	_	_	_	_	_	_	_	B-PER
+5	i	_	_	_	_	_	_	_	_	O
+6	Jovan	_	_	_	_	_	_	_	_	B-PER
+7	pozvali	_	_	_	_	_	_	_	_	O
+8	da	_	_	_	_	_	_	_	_	O
+9	otvorim	_	_	_	_	_	_	_	_	O
+10	festival	_	_	_	_	_	_	_	_	O
+11	ove	_	_	_	_	_	_	_	_	O
+12	godine	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+14	bukvalno	_	_	_	_	_	_	_	_	O
+15	sam	_	_	_	_	_	_	_	_	O
+16	počela	_	_	_	_	_	_	_	_	O
+17	da	_	_	_	_	_	_	_	_	O
+18	vrištim	_	_	_	_	_	_	_	_	O
+19	Jovanu	_	_	_	_	_	_	_	_	B-PER
+20	u	_	_	_	_	_	_	_	_	O
+21	telefon	_	_	_	_	_	_	_	_	O
+22	od	_	_	_	_	_	_	_	_	O
+23	sreće	_	_	_	_	_	_	_	SpaceAfter=No	O
+24	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 3.4
+# text = Zaista mi je velika čast što su baš mene odabrali i što mogu da budem ponovo deo te priče, sada na ovaj način“.
+1	Zaista	_	_	_	_	_	_	_	_	O
+2	mi	_	_	_	_	_	_	_	_	O
+3	je	_	_	_	_	_	_	_	_	O
+4	velika	_	_	_	_	_	_	_	_	O
+5	čast	_	_	_	_	_	_	_	_	O
+6	što	_	_	_	_	_	_	_	_	O
+7	su	_	_	_	_	_	_	_	_	O
+8	baš	_	_	_	_	_	_	_	_	O
+9	mene	_	_	_	_	_	_	_	_	O
+10	odabrali	_	_	_	_	_	_	_	_	O
+11	i	_	_	_	_	_	_	_	_	O
+12	što	_	_	_	_	_	_	_	_	O
+13	mogu	_	_	_	_	_	_	_	_	O
+14	da	_	_	_	_	_	_	_	_	O
+15	budem	_	_	_	_	_	_	_	_	O
+16	ponovo	_	_	_	_	_	_	_	_	O
+17	deo	_	_	_	_	_	_	_	_	O
+18	te	_	_	_	_	_	_	_	_	O
+19	priče	_	_	_	_	_	_	_	SpaceAfter=No	O
+20	,	,	PUNCT	Z	_	_	_	_	_	O
+21	sada	_	_	_	_	_	_	_	_	O
+22	na	_	_	_	_	_	_	_	_	O
+23	ovaj	_	_	_	_	_	_	_	_	O
+24	način	_	_	_	_	_	_	_	SpaceAfter=No	O
+25	“	“	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+26	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 4
+# sent_id = 4.1
+# text = Govoreći o kvalitetima festivala, ona je dodala: „Stvarno ima nečeg posebnog u atmosferi Bašte.
+1	Govoreći	_	_	_	_	_	_	_	_	O
+2	o	_	_	_	_	_	_	_	_	O
+3	kvalitetima	_	_	_	_	_	_	_	_	O
+4	festivala	_	_	_	_	_	_	_	SpaceAfter=No	O
+5	,	,	PUNCT	Z	_	_	_	_	_	O
+6	ona	_	_	_	_	_	_	_	_	O
+7	je	_	_	_	_	_	_	_	_	O
+8	dodala	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	:	:	PUNCT	Z	_	_	_	_	_	O
+10	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+11	Stvarno	_	_	_	_	_	_	_	_	O
+12	ima	_	_	_	_	_	_	_	_	O
+13	nečeg	_	_	_	_	_	_	_	_	O
+14	posebnog	_	_	_	_	_	_	_	_	O
+15	u	_	_	_	_	_	_	_	_	O
+16	atmosferi	_	_	_	_	_	_	_	_	O
+17	Bašte	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
+18	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 4.2
+# text = Ne postoji festival sličan njemu.
+1	Ne	_	_	_	_	_	_	_	_	O
+2	postoji	_	_	_	_	_	_	_	_	O
+3	festival	_	_	_	_	_	_	_	_	O
+4	sličan	_	_	_	_	_	_	_	_	O
+5	njemu	_	_	_	_	_	_	_	SpaceAfter=No	O
+6	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 4.3
+# text = Osim fantastičnih filmova, koje inače nemate baš mnogo prilika da pogledate, nađete se u jednoj skupini predivnih ljudi koji zaista vole to što rade, ulažu sve svoje napore i puno ljubavi u ovaj festival.
+1	Osim	_	_	_	_	_	_	_	_	O
+2	fantastičnih	_	_	_	_	_	_	_	_	O
+3	filmova	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	,	,	PUNCT	Z	_	_	_	_	_	O
+5	koje	_	_	_	_	_	_	_	_	O
+6	inače	_	_	_	_	_	_	_	_	O
+7	nemate	_	_	_	_	_	_	_	_	O
+8	baš	_	_	_	_	_	_	_	_	O
+9	mnogo	_	_	_	_	_	_	_	_	O
+10	prilika	_	_	_	_	_	_	_	_	O
+11	da	_	_	_	_	_	_	_	_	O
+12	pogledate	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+14	nađete	_	_	_	_	_	_	_	_	O
+15	se	_	_	_	_	_	_	_	_	O
+16	u	_	_	_	_	_	_	_	_	O
+17	jednoj	_	_	_	_	_	_	_	_	O
+18	skupini	_	_	_	_	_	_	_	_	O
+19	predivnih	_	_	_	_	_	_	_	_	O
+20	ljudi	_	_	_	_	_	_	_	_	O
+21	koji	_	_	_	_	_	_	_	_	O
+22	zaista	_	_	_	_	_	_	_	_	O
+23	vole	_	_	_	_	_	_	_	_	O
+24	to	_	_	_	_	_	_	_	_	O
+25	što	_	_	_	_	_	_	_	_	O
+26	rade	_	_	_	_	_	_	_	SpaceAfter=No	O
+27	,	,	PUNCT	Z	_	_	_	_	_	O
+28	ulažu	_	_	_	_	_	_	_	_	O
+29	sve	_	_	_	_	_	_	_	_	O
+30	svoje	_	_	_	_	_	_	_	_	O
+31	napore	_	_	_	_	_	_	_	_	O
+32	i	_	_	_	_	_	_	_	_	O
+33	puno	_	_	_	_	_	_	_	_	O
+34	ljubavi	_	_	_	_	_	_	_	_	O
+35	u	_	_	_	_	_	_	_	_	O
+36	ovaj	_	_	_	_	_	_	_	_	O
+37	festival	_	_	_	_	_	_	_	SpaceAfter=No	O
+38	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 4.4
+# text = Mislim da je to glavna stvar koja se oseti kada ste tamo.
+1	Mislim	_	_	_	_	_	_	_	_	O
+2	da	_	_	_	_	_	_	_	_	O
+3	je	_	_	_	_	_	_	_	_	O
+4	to	_	_	_	_	_	_	_	_	O
+5	glavna	_	_	_	_	_	_	_	_	O
+6	stvar	_	_	_	_	_	_	_	_	O
+7	koja	_	_	_	_	_	_	_	_	O
+8	se	_	_	_	_	_	_	_	_	O
+9	oseti	_	_	_	_	_	_	_	_	O
+10	kada	_	_	_	_	_	_	_	_	O
+11	ste	_	_	_	_	_	_	_	_	O
+12	tamo	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 4.5
+# text = Ljubav u umetnosti.
+1	Ljubav	_	_	_	_	_	_	_	_	O
+2	u	_	_	_	_	_	_	_	_	O
+3	umetnosti	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 4.6
+# text = Ljubav prema umetnosti.
+1	Ljubav	_	_	_	_	_	_	_	_	O
+2	prema	_	_	_	_	_	_	_	_	O
+3	umetnosti	_	_	_	_	_	_	_	SpaceAfter=No	O
+4	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 4.7
+# text = Ljubav generalno”.
+1	Ljubav	_	_	_	_	_	_	_	_	O
+2	generalno	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	”	”	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+4	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 5
+# sent_id = 5.1
+# text = Prethodnih godina Bašta Fest otvorili su Nikola Rakočević, Slaven Došlo, Marko Janketić, Hana Selimović, Milan Marić, Isidora Simijonović, Filip Đurić, Ivana Vuković, Milica Janevski, Mladen Sovilj, Milena Radulović i Ivana Zečević.
+1	Prethodnih	_	_	_	_	_	_	_	_	O
+2	godina	_	_	_	_	_	_	_	_	O
+3	Bašta	_	_	_	_	_	_	_	_	B-ORG
+4	Fest	_	_	_	_	_	_	_	_	I-ORG
+5	otvorili	_	_	_	_	_	_	_	_	O
+6	su	_	_	_	_	_	_	_	_	O
+7	Nikola	_	_	_	_	_	_	_	_	B-PER
+8	Rakočević	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+9	,	,	PUNCT	Z	_	_	_	_	_	O
+10	Slaven	_	_	_	_	_	_	_	_	B-PER
+11	Došlo	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+12	,	,	PUNCT	Z	_	_	_	_	_	O
+13	Marko	_	_	_	_	_	_	_	_	B-PER
+14	Janketić	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+15	,	,	PUNCT	Z	_	_	_	_	_	O
+16	Hana	_	_	_	_	_	_	_	_	B-PER
+17	Selimović	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+18	,	,	PUNCT	Z	_	_	_	_	_	O
+19	Milan	_	_	_	_	_	_	_	_	B-PER
+20	Marić	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+21	,	,	PUNCT	Z	_	_	_	_	_	O
+22	Isidora	_	_	_	_	_	_	_	_	B-PER
+23	Simijonović	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+24	,	,	PUNCT	Z	_	_	_	_	_	O
+25	Filip	_	_	_	_	_	_	_	_	B-PER
+26	Đurić	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+27	,	,	PUNCT	Z	_	_	_	_	_	O
+28	Ivana	_	_	_	_	_	_	_	_	B-PER
+29	Vuković	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+30	,	,	PUNCT	Z	_	_	_	_	_	O
+31	Milica	_	_	_	_	_	_	_	_	B-PER
+32	Janevski	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+33	,	,	PUNCT	Z	_	_	_	_	_	O
+34	Mladen	_	_	_	_	_	_	_	_	B-PER
+35	Sovilj	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+36	,	,	PUNCT	Z	_	_	_	_	_	O
+37	Milena	_	_	_	_	_	_	_	_	B-PER
+38	Radulović	_	_	_	_	_	_	_	_	I-PER
+39	i	_	_	_	_	_	_	_	_	O
+40	Ivana	_	_	_	_	_	_	_	_	B-PER
+41	Zečević	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+42	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 6
+# sent_id = 6.1
+# text = Ovogodišnji slogan festivala „Počni od svog dvorišta!
+1	Ovogodišnji	_	_	_	_	_	_	_	_	O
+2	slogan	_	_	_	_	_	_	_	_	O
+3	festivala	_	_	_	_	_	_	_	_	O
+4	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+5	Počni	_	_	_	_	_	_	_	_	O
+6	od	_	_	_	_	_	_	_	_	O
+7	svog	_	_	_	_	_	_	_	_	O
+8	dvorišta	_	_	_	_	_	_	_	SpaceAfter=No	O
+9	!	!	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
+
+# sent_id = 6.2
+# text = ” upućuje nas da za svaki progres treba da da počnemo od sebe, od lokalnog, sa osvrtom na to šta smo mi kao pojedinci uradili i doprineli.
+1	”	”	PUNCT	Z	_	_	_	_	_	O
+2	upućuje	_	_	_	_	_	_	_	_	O
+3	nas	_	_	_	_	_	_	_	_	O
+4	da	_	_	_	_	_	_	_	_	O
+5	za	_	_	_	_	_	_	_	_	O
+6	svaki	_	_	_	_	_	_	_	_	O
+7	progres	_	_	_	_	_	_	_	_	O
+8	treba	_	_	_	_	_	_	_	_	O
+9	da	_	_	_	_	_	_	_	_	O
+10	da	_	_	_	_	_	_	_	_	O
+11	počnemo	_	_	_	_	_	_	_	_	O
+12	od	_	_	_	_	_	_	_	_	O
+13	sebe	_	_	_	_	_	_	_	SpaceAfter=No	O
+14	,	,	PUNCT	Z	_	_	_	_	_	O
+15	od	_	_	_	_	_	_	_	_	O
+16	lokalnog	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	,	,	PUNCT	Z	_	_	_	_	_	O
+18	sa	_	_	_	_	_	_	_	_	O
+19	osvrtom	_	_	_	_	_	_	_	_	O
+20	na	_	_	_	_	_	_	_	_	O
+21	to	_	_	_	_	_	_	_	_	O
+22	šta	_	_	_	_	_	_	_	_	O
+23	smo	_	_	_	_	_	_	_	_	O
+24	mi	_	_	_	_	_	_	_	_	O
+25	kao	_	_	_	_	_	_	_	_	O
+26	pojedinci	_	_	_	_	_	_	_	_	O
+27	uradili	_	_	_	_	_	_	_	_	O
+28	i	_	_	_	_	_	_	_	_	O
+29	doprineli	_	_	_	_	_	_	_	SpaceAfter=No	O
+30	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 6.3
+# text = Autorka vizuelnog identiteta je Milica Milosavljević.
+1	Autorka	_	_	_	_	_	_	_	_	O
+2	vizuelnog	_	_	_	_	_	_	_	_	O
+3	identiteta	_	_	_	_	_	_	_	_	O
+4	je	_	_	_	_	_	_	_	_	O
+5	Milica	_	_	_	_	_	_	_	_	B-PER
+6	Milosavljević	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+7	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 7
+# sent_id = 7.1
+# text = Ova manifestacija, koju su osnovali glumci Jovan Jelisavčić i Maja Šuša, usko je orijentisana na zajednički rad reditelja i glumaca, a fokus na kvalitetnim glumačkim interpretacijama ima veliki uticaj na pozitivno pozicioniranje Bašta Festa među internacionalnim festivalima kratkometražnog filma.
+1	Ova	_	_	_	_	_	_	_	_	O
+2	manifestacija	_	_	_	_	_	_	_	SpaceAfter=No	O
+3	,	,	PUNCT	Z	_	_	_	_	_	O
+4	koju	_	_	_	_	_	_	_	_	O
+5	su	_	_	_	_	_	_	_	_	O
+6	osnovali	_	_	_	_	_	_	_	_	O
+7	glumci	_	_	_	_	_	_	_	_	O
+8	Jovan	_	_	_	_	_	_	_	_	B-PER
+9	Jelisavčić	_	_	_	_	_	_	_	_	I-PER
+10	i	_	_	_	_	_	_	_	_	O
+11	Maja	_	_	_	_	_	_	_	_	B-PER
+12	Šuša	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+13	,	,	PUNCT	Z	_	_	_	_	_	O
+14	usko	_	_	_	_	_	_	_	_	O
+15	je	_	_	_	_	_	_	_	_	O
+16	orijentisana	_	_	_	_	_	_	_	_	O
+17	na	_	_	_	_	_	_	_	_	O
+18	zajednički	_	_	_	_	_	_	_	_	O
+19	rad	_	_	_	_	_	_	_	_	O
+20	reditelja	_	_	_	_	_	_	_	_	O
+21	i	_	_	_	_	_	_	_	_	O
+22	glumaca	_	_	_	_	_	_	_	SpaceAfter=No	O
+23	,	,	PUNCT	Z	_	_	_	_	_	O
+24	a	_	_	_	_	_	_	_	_	O
+25	fokus	_	_	_	_	_	_	_	_	O
+26	na	_	_	_	_	_	_	_	_	O
+27	kvalitetnim	_	_	_	_	_	_	_	_	O
+28	glumačkim	_	_	_	_	_	_	_	_	O
+29	interpretacijama	_	_	_	_	_	_	_	_	O
+30	ima	_	_	_	_	_	_	_	_	O
+31	veliki	_	_	_	_	_	_	_	_	O
+32	uticaj	_	_	_	_	_	_	_	_	O
+33	na	_	_	_	_	_	_	_	_	O
+34	pozitivno	_	_	_	_	_	_	_	_	O
+35	pozicioniranje	_	_	_	_	_	_	_	_	O
+36	Bašta	_	_	_	_	_	_	_	_	B-ORG
+37	Festa	_	_	_	_	_	_	_	_	I-ORG
+38	među	_	_	_	_	_	_	_	_	O
+39	internacionalnim	_	_	_	_	_	_	_	_	O
+40	festivalima	_	_	_	_	_	_	_	_	O
+41	kratkometražnog	_	_	_	_	_	_	_	_	O
+42	filma	_	_	_	_	_	_	_	SpaceAfter=No	O
+43	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 8
+# sent_id = 8.1
+# text = Bašta Fest je od izuzetnog značaja za decentralizaciju kulture, budući da je usmerio raznolik filmski, muzički, edukativni i prateći program na ovu predivnu regiju.
+1	Bašta	_	_	_	_	_	_	_	_	B-ORG
+2	Fest	_	_	_	_	_	_	_	_	I-ORG
+3	je	_	_	_	_	_	_	_	_	O
+4	od	_	_	_	_	_	_	_	_	O
+5	izuzetnog	_	_	_	_	_	_	_	_	O
+6	značaja	_	_	_	_	_	_	_	_	O
+7	za	_	_	_	_	_	_	_	_	O
+8	decentralizaciju	_	_	_	_	_	_	_	_	O
+9	kulture	_	_	_	_	_	_	_	SpaceAfter=No	O
+10	,	,	PUNCT	Z	_	_	_	_	_	O
+11	budući	_	_	_	_	_	_	_	_	O
+12	da	_	_	_	_	_	_	_	_	O
+13	je	_	_	_	_	_	_	_	_	O
+14	usmerio	_	_	_	_	_	_	_	_	O
+15	raznolik	_	_	_	_	_	_	_	_	O
+16	filmski	_	_	_	_	_	_	_	SpaceAfter=No	O
+17	,	,	PUNCT	Z	_	_	_	_	_	O
+18	muzički	_	_	_	_	_	_	_	SpaceAfter=No	O
+19	,	,	PUNCT	Z	_	_	_	_	_	O
+20	edukativni	_	_	_	_	_	_	_	_	O
+21	i	_	_	_	_	_	_	_	_	O
+22	prateći	_	_	_	_	_	_	_	_	O
+23	program	_	_	_	_	_	_	_	_	O
+24	na	_	_	_	_	_	_	_	_	O
+25	ovu	_	_	_	_	_	_	_	_	O
+26	predivnu	_	_	_	_	_	_	_	_	O
+27	regiju	_	_	_	_	_	_	_	SpaceAfter=No	O
+28	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# sent_id = 8.2
+# text = Ideja je od samog početka bila da se neverovatna priroda Bajine Bašte i okoline otvori za što veći broj posetilaca, a ovaj festival postao je kulturna oaza koja pre svega promoviše mlade domaće i internacionalne autore, stavljajući akcenat na kratke filmove sa autentičnim glumačkim ostvarenjima.
+1	Ideja	_	_	_	_	_	_	_	_	O
+2	je	_	_	_	_	_	_	_	_	O
+3	od	_	_	_	_	_	_	_	_	O
+4	samog	_	_	_	_	_	_	_	_	O
+5	početka	_	_	_	_	_	_	_	_	O
+6	bila	_	_	_	_	_	_	_	_	O
+7	da	_	_	_	_	_	_	_	_	O
+8	se	_	_	_	_	_	_	_	_	O
+9	neverovatna	_	_	_	_	_	_	_	_	O
+10	priroda	_	_	_	_	_	_	_	_	O
+11	Bajine	_	_	_	_	_	_	_	_	B-LOC
+12	Bašte	_	_	_	_	_	_	_	_	I-LOC
+13	i	_	_	_	_	_	_	_	_	O
+14	okoline	_	_	_	_	_	_	_	_	O
+15	otvori	_	_	_	_	_	_	_	_	O
+16	za	_	_	_	_	_	_	_	_	O
+17	što	_	_	_	_	_	_	_	_	O
+18	veći	_	_	_	_	_	_	_	_	O
+19	broj	_	_	_	_	_	_	_	_	O
+20	posetilaca	_	_	_	_	_	_	_	SpaceAfter=No	O
+21	,	,	PUNCT	Z	_	_	_	_	_	O
+22	a	_	_	_	_	_	_	_	_	O
+23	ovaj	_	_	_	_	_	_	_	_	O
+24	festival	_	_	_	_	_	_	_	_	O
+25	postao	_	_	_	_	_	_	_	_	O
+26	je	_	_	_	_	_	_	_	_	O
+27	kulturna	_	_	_	_	_	_	_	_	O
+28	oaza	_	_	_	_	_	_	_	_	O
+29	koja	_	_	_	_	_	_	_	_	O
+30	pre	_	_	_	_	_	_	_	_	O
+31	svega	_	_	_	_	_	_	_	_	O
+32	promoviše	_	_	_	_	_	_	_	_	O
+33	mlade	_	_	_	_	_	_	_	_	O
+34	domaće	_	_	_	_	_	_	_	_	O
+35	i	_	_	_	_	_	_	_	_	O
+36	internacionalne	_	_	_	_	_	_	_	_	O
+37	autore	_	_	_	_	_	_	_	SpaceAfter=No	O
+38	,	,	PUNCT	Z	_	_	_	_	_	O
+39	stavljajući	_	_	_	_	_	_	_	_	O
+40	akcenat	_	_	_	_	_	_	_	_	O
+41	na	_	_	_	_	_	_	_	_	O
+42	kratke	_	_	_	_	_	_	_	_	O
+43	filmove	_	_	_	_	_	_	_	_	O
+44	sa	_	_	_	_	_	_	_	_	O
+45	autentičnim	_	_	_	_	_	_	_	_	O
+46	glumačkim	_	_	_	_	_	_	_	_	O
+47	ostvarenjima	_	_	_	_	_	_	_	SpaceAfter=No	O
+48	.	.	PUNCT	Z	_	_	_	_	_	O
+
+# newpar id = 9
+# sent_id = 9.1
+# text = Program Bašta Festa se održava na otvorenom i besplatan je za posetioce.
+1	Program	_	_	_	_	_	_	_	_	O
+2	Bašta	_	_	_	_	_	_	_	_	B-ORG
+3	Festa	_	_	_	_	_	_	_	_	I-ORG
+4	se	_	_	_	_	_	_	_	_	O
+5	održava	_	_	_	_	_	_	_	_	O
+6	na	_	_	_	_	_	_	_	_	O
+7	otvorenom	_	_	_	_	_	_	_	_	O
+8	i	_	_	_	_	_	_	_	_	O
+9	besplatan	_	_	_	_	_	_	_	_	O
+10	je	_	_	_	_	_	_	_	_	O
+11	za	_	_	_	_	_	_	_	_	O
+12	posetioce	_	_	_	_	_	_	_	SpaceAfter=No	O
+13	.	.	PUNCT	Z	_	_	_	_	_	O
+

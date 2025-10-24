@@ -17,9 +17,9 @@ from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_sc
 
 def map_labels(label):
     if label:
-        if label == "B-ORGOTH" or label == "B-COMP":
+        if label == "B-ORGOTH" or label == "B-COMP" or label == "B-COM" or label == "B-COURT":
             return "B-ORG"
-        if label == "I-ORGOTH" or label == "I-COMP":
+        if label == "I-ORGOTH" or label == "I-COMP" or label == "I-COM" or label == "I-COURT":
             return "I-ORG"
         if label == "B-PER":
             return "B-PER"
@@ -103,7 +103,7 @@ def plot_confusion_matrix(y_pred,y_true, labels_list, prefixed, default_dir):
         img_path = os.path.join(default_dir, "confusion_matrix.prefixed.png")
     else:
         
-        img_path = os.path.join(default_dir, "confusion_matrix.noprefixed.png")
+        img_path = os.path.join(default_dir, "confusion_matrix.noprefix.png")
     
     plt.savefig(img_path, bbox_inches="tight")
 
@@ -125,15 +125,15 @@ if __name__ == "__main__":
     y_true = []
     y_pred = []
     for (file_path) in files:
-       # file = open(file_path, encoding='utf-8')
+        file = open(file_path, encoding='utf-8')
         file_path = file_path.replace("py-project", "faza-3\\COMtext.sr")
         file_path = file_path.replace("tokenized_files", "output_files")
         file_path = file_path.replace(".conllu", "")
         print(file_path)
-        #ofile = open(file_path + ".pred.conllu", 'w', encoding='utf-8')
-        #process_file(file, ofile)
-        #file.close()
-        #ofile.close()        
+        ofile = open(file_path + ".pred.conllu", 'w', encoding='utf-8')
+        process_file(file, ofile)
+        file.close()
+        ofile.close()        
         yt, yp = compare_labels(file_path + ".pred.conllu")
         y_true.extend(yt)
         y_pred.extend(yp)   

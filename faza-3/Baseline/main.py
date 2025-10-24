@@ -98,7 +98,7 @@ if __name__ == "__main__":
     pathAnnot = "..\\..\\faza-2\\anotirani_tekstovi"
     files = []
     for folder in glob.glob(os.path.join(pathAnnot, "*")):
-        for filename in glob.glob(os.path.join(folder, '*.txt')):
+        for filename in glob.glob(os.path.join(folder, '*.conllu')):
             print(filename)
             # anFile=pathAnnot+'\\'+ folder.split('\\')[-1]+'\\'+'annotated_'+filename.split('\\')[-1]
             # print(anFile)
@@ -143,6 +143,6 @@ if __name__ == "__main__":
     plot_confusion_matrix(y_true_stripped, y_pred_stripped, labels_list_no_prefix)
     with open("results.txt",'w') as outFile:
         outFile.write('\nRezultati klasifikacionog izvestaja sa prefiksima \n')
-        outFile.write(classification_report(y_vec, y_pred, zero_division=0))
+        outFile.write(classification_report(y_vec, y_pred, zero_division=0, digits=4))
         outFile.write('\nRezultati klasifikacionog izvestaja bez prefiksa \n')
-        outFile.write(classification_report(y_true_stripped, y_pred_stripped, zero_division=0))
+        outFile.write(classification_report(y_true_stripped, y_pred_stripped, zero_division=0, digits=4))

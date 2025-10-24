@@ -66,15 +66,7 @@ def map_bio(tag: str) -> str:
 def strip_bio(tag: str) -> str:
     return tag.split("-")[-1] if "-" in tag else tag
 
-# =======================
-# POMOĆNE FUNKCIJE: čitanje gold-a + rekonstrukcija teksta
-# =======================
 def load_gold_offsets_and_tags(file2: str) -> Tuple[Dict[int, List[str]], List[Tuple[str, bool]]]:
-    """
-    Učitava anotirani CoNLL i vraća:
-      - annFiles: {start_offset: [token, GOLD_TAG, PRED_TAG]}
-      - layout:   [(token, no_space_after: bool), ...] redom
-    """
     annFiles: Dict[int, List[str]] = {}
     layout: List[Tuple[str, bool]] = []
     flen = 0
@@ -100,29 +92,23 @@ def rebuild_text_from_gold_layout(layout: List[Tuple[str, bool]]) -> str:
             parts.append(" ")
     return "".join(parts)
 
-# =======================
-# CLASSLA predikcija uz mapiranje DERIV-PER/MISC
-# =======================
+
 def run_classla_ner(text: str) -> Dict[str, List[Dict[str, int]]]:
     doc = nlp(text)
     buckets = defaultdict(list)
     for ent in doc.entities:
-        et = map_classla_type(ent.type)  # ovde odmah mapiramo DERIV-PER->PER, MISC->O
+        et = map_classla_type(ent.type)
         if et == "O":
             continue
         if et == "PER":
-            key = "PERS"  # da bi se niže koristio postojeći tagMap
+            key = "PERS"
         elif et in ("LOC", "ORG"):
             key = et
         else:
-            # sve ostalo nas ne zanima
             continue
         buckets[key].append({"start": ent.start_char, "end": ent.end_char})
     return dict(buckets)
 
-# =======================
-# Evaluacija jednog fajla (annotated_*.conllu)
-# =======================
 def analize_file(file_gold: str):
     """
     Vraća:
@@ -132,17 +118,14 @@ def analize_file(file_gold: str):
     annFiles, layout = load_gold_offsets_and_tags(file_gold)
     text = rebuild_text_from_gold_layout(layout)
 
-    # CLASSLA predikcije (već mapirano DERIV-PER/MISC)
     result = run_classla_ner(text)
     tagMap = {"PERS": ["B-PER", "I-PER"], "LOC": ["B-LOC", "I-LOC"], "ORG": ["B-ORG", "I-ORG"]}
 
-    # popuni pred BIO po tokenima
     for k in set(["PERS", "LOC", "ORG"]).intersection(result.keys()):
         for ent in result[k]:
             if ent['start'] in annFiles:
                 annFiles[ent['start']][2] = tagMap[k][0]  # B-*
                 end = ent['end']
-                # I-* za sve tokene unutar span-a
                 for s in list(annFiles.keys()):
                     if s > ent['start'] and s < end:
                         annFiles[s][2] = tagMap[k][1]
@@ -194,13 +177,11 @@ if __name__ == "__main__":
         all_predCLS_m += p_cls
         all_rows += rows
 
-    # 3) Metrike (mapirane)
     acc_bio = accuracy_score(all_trueBIO_m, all_predBIO_m) if all_trueBIO_m else 0.0
     acc_cls = accuracy_score(all_trueCLS_m, all_predCLS_m) if all_trueCLS_m else 0.0
-    rep_bio = classification_report(all_trueBIO_m, all_predBIO_m, zero_division=0)
-    rep_cls = classification_report(all_trueCLS_m, all_predCLS_m, zero_division=0)
+    rep_bio = classification_report(all_trueBIO_m, all_predBIO_m, zero_division=0, digits=4)
+    rep_cls = classification_report(all_trueCLS_m, all_predCLS_m, zero_division=0, digits=4)
 
-    # 4) Upis fajlova
     csv_path = os.path.join(OUTPUT_DIR, f"classla_{MODEL_TYPE}_predictions_tokens_mapped.csv")
     with open(csv_path, "w", encoding="utf-8", newline="") as f:
         writer = csv.DictWriter(
@@ -221,9 +202,9 @@ if __name__ == "__main__":
         f.write("=== Token-level entity-only (B/I ignorisan, mapped) ===\n")
         f.write(rep_cls + "\n")
 
-    y_true_no_prefix = [label.split('-')[-1] if '-' in label else label for label in all_trueCLS_m]
-    y_pred_no_prefix = [label.split('-')[-1] if '-' in label else label for label in all_predCLS_m]
-    labels_list_no_prefix = ['LOC', 'ORG', 'PER', 'O']
+    y_true_no_prefix = [label for label in all_trueBIO_m]
+    y_pred_no_prefix = [label for label in all_predBIO_m]
+    labels_list_no_prefix = ['B-LOC', 'I-LOC', 'B-ORG', 'I-ORG', 'B-PER', 'I-PER', 'O']
 
     plot_confusion_matrix(y_pred_no_prefix, y_true_no_prefix, labels_list_no_prefix)
     print("ZAVRŠENO.")

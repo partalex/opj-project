@@ -128,7 +128,7 @@ if __name__ == "__main__":
     for root, dirs, files in os.walk(root_input_folder):
         relative_path = os.path.relpath(root, root_input_folder)
         for filename in files:
-            if filename.endswith(".txt"):
+            if filename.endswith(".conllu"):
                 file_input_path = os.path.join(root, filename)
                 
                 conll_data = load_conll_data(file_input_path)

@@ -2,28 +2,28 @@
 Rezultati klasifikacionog izvestaja sa prefiksima 
               precision    recall  f1-score   support
 
-                   0.00      0.00      0.00         1
-       B-LOC       1.00      0.00      0.00       552
-       B-ORG       0.85      0.13      0.22       965
-       B-PER       0.30      0.25      0.27      1243
-       I-LOC       0.00      0.00      0.00       150
-       I-ORG       0.39      0.06      0.10      1120
-       I-PER       0.00      0.00      0.00       623
-           O       0.92      0.99      0.95     45124
+                 0.0000    0.0000    0.0000         1
+       B-LOC     1.0000    0.0018    0.0036       552
+       B-ORG     0.8462    0.1254    0.2184       965
+       B-PER     0.2991    0.2510    0.2730      1243
+       I-LOC     0.0000    0.0000    0.0000       150
+       I-ORG     0.3926    0.0571    0.0998      1120
+       I-PER     0.0000    0.0000    0.0000       623
+           O     0.9192    0.9865    0.9516     45124
 
-    accuracy                           0.90     49778
-   macro avg       0.43      0.18      0.19     49778
-weighted avg       0.88      0.90      0.88     49778
+    accuracy                         0.9042     49778
+   macro avg     0.4321    0.1777    0.1933     49778
+weighted avg     0.8770    0.9042    0.8760     49778
 
 Rezultati klasifikacionog izvestaja bez prefiksa 
               precision    recall  f1-score   support
 
-                   0.00      0.00      0.00         1
-         LOC       1.00      0.00      0.00       702
-           O       0.92      0.99      0.95     45124
-         ORG       0.65      0.10      0.17      2085
-         PER       0.38      0.21      0.27      1866
+                 0.0000    0.0000    0.0000         1
+         LOC     1.0000    0.0014    0.0028       702
+           O     0.9192    0.9865    0.9516     45124
+         ORG     0.6503    0.0954    0.1665      2085
+         PER     0.3816    0.2133    0.2736      1866
 
-    accuracy                           0.91     49778
-   macro avg       0.59      0.26      0.28     49778
-weighted avg       0.89      0.91      0.88     49778
+    accuracy                         0.9062     49778
+   macro avg     0.5902    0.2593    0.2789     49778
+weighted avg     0.8889    0.9062    0.8799     49778

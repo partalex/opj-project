@@ -61,7 +61,7 @@ def collect_from_dir(directory):
         found = []
         for root, _, filenames in os.walk(directory):
             for fn in filenames:
-                if fn.lower().endswith((".txt")):
+                if fn.lower().endswith((".txt", ".conllu", ".conll")):
                     found.append(os.path.join(root, fn))
         return found
 
@@ -69,17 +69,21 @@ def compare_labels(file_name):
     y_true = []
     y_pred = []
     filep = open(file_name, encoding='utf-8')
+    file_name = file_name.replace("faza-3\\COMtext.sr", "faza-2")
     file_name = file_name.replace("output_files", "anotirani_tekstovi")
-    file_name =file_name.replace("tokenized_", "annotated_")
-    file_name = file_name.replace(".pred.conllu", ".txt") 
+    file_name = file_name.replace("tokenized_", "annotated_")
+    file_name = file_name.replace(".pred.conllu", ".conllu") 
     filet = open(file_name, encoding='utf-8')
     for linep in filep:
         linet = filet.readline()
         if linep and linep[0].isdigit():
             partsp = linep.strip().split('\t')
             partst = linet.strip().split('\t')
+            if len(partsp) < 2 or len(partst) < 2:
+                continue
             y_true.append(partst[-1])
             y_pred.append(partsp[-1])
+    
     filep.close()
     filet.close()
     return y_true, y_pred
@@ -108,11 +112,11 @@ def plot_confusion_matrix(y_pred,y_true, labels_list, prefixed, default_dir):
 if __name__ == "__main__":
 
     script_dir = os.path.dirname(os.path.abspath(__file__))
-    default_dir = default_dir = os.path.normpath(os.path.join(script_dir, "tokenized_files"))
+    default_dir = default_dir = os.path.normpath(os.path.join(script_dir, "..", "..", "py-project", "tokenized_files"))
 
     tokens = []
     files = collect_from_dir(default_dir)
-
+    print(f"Found {len(files)} files to process.")
     ner_pipeline = pipeline(
         "ner",
         model="ICEF-NLP/bcms-bertic-comtext-sr-legal-ner-ekavica"
@@ -121,14 +125,15 @@ if __name__ == "__main__":
     y_true = []
     y_pred = []
     for (file_path) in files:
-        file = open(file_path, encoding='utf-8')
+       # file = open(file_path, encoding='utf-8')
+        file_path = file_path.replace("py-project", "faza-3\\COMtext.sr")
         file_path = file_path.replace("tokenized_files", "output_files")
-        file_path = file_path.replace(".txt", "")
+        file_path = file_path.replace(".conllu", "")
         print(file_path)
-        ofile = open(file_path + ".pred.conllu", 'w', encoding='utf-8')
-        process_file(file, ofile)
-        file.close()
-        ofile.close()        
+        #ofile = open(file_path + ".pred.conllu", 'w', encoding='utf-8')
+        #process_file(file, ofile)
+        #file.close()
+        #ofile.close()        
         yt, yp = compare_labels(file_path + ".pred.conllu")
         y_true.extend(yt)
         y_pred.extend(yp)   
@@ -149,7 +154,10 @@ if __name__ == "__main__":
     print(report)
     with open("classification_report.txt", "w", encoding="utf-8") as f:
         f.write(report)
+        f.write("accuracy                         " +scoring["accuracy"].__str__())
+        f.write("\n")
 
+    print(scoring)
     #evaluacija modela bez prefiksa
     y_true_no_prefix = [label.split('-')[-1] if '-' in label else label for label in y_true]
     y_pred_no_prefix = [label.split('-')[-1] if '-' in label else label for label in y_pred]
@@ -161,9 +169,12 @@ if __name__ == "__main__":
         "recall" : recall_score(y_true_no_prefix, y_pred_no_prefix, labels=labels_list_no_prefix, average=None),
         "f1" : f1_score(y_true_no_prefix, y_pred_no_prefix, labels=labels_list_no_prefix, average=None)
     }
-     
+    print(scoring_simple)
     print("\nClassification report without prefixes:")
     report = classification_report(y_true_no_prefix, y_pred_no_prefix, labels=labels_list_no_prefix, digits=4)
     plot_confusion_matrix(y_pred_no_prefix,y_true_no_prefix, labels_list_no_prefix, False, default_dir)
     with open("classification_report_no_prefix.txt", "w", encoding="utf-8") as f:
         f.write(report)
+        f.write("\n")
+        f.write("accuracy                         " +scoring["accuracy"].__str__())
+        

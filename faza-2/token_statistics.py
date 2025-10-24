@@ -254,7 +254,7 @@ if __name__ == "__main__":
         relative_path = os.path.relpath(root, root_input_folder)
 
         for filename in files:
-            if filename.endswith(".txt"):
+            if filename.endswith(".conllu"):
                 file_input_path = os.path.join(root, filename)
                 token_data = load_conll_data(file_input_path)
                 file_data[filename] = token_data

@@ -13,7 +13,9 @@ for root, dirs, files in os.walk(root_input_folder):
     for filename in files:
         if filename.endswith(".txt"):
             file_input_path = os.path.join(root, filename)
-            file_output_path = os.path.join(output_dir, "tokenized_"+ filename)
+            new_filename = os.path.splitext(filename)[0] + ".conllu"
+            file_output_path = os.path.join(output_dir, "tokenized_" + new_filename)
+            #file_output_path = os.path.join(output_dir, "tokenized_"+ filename)
 
             
             parts = []

@@ -1,13 +1,28 @@
 import glob
 import os
 from opcode import opname
-
+import seaborn as sns
+import pandas as pd
+import matplotlib.pyplot as plt
 from pandas import DataFrame
 from sklearn.feature_extraction import DictVectorizer
 from sklearn.naive_bayes import MultinomialNB
-from sklearn.metrics import classification_report
+from sklearn.metrics import classification_report, confusion_matrix
 from sklearn.model_selection import cross_val_predict, KFold
 
+
+
+def plot_confusion_matrix(y_pred,y_true, labels_list):
+    cm = confusion_matrix(y_true, y_pred, labels=labels_list)
+    cm_df = pd.DataFrame(cm, index=labels_list, columns=labels_list)
+
+    plt.figure(figsize=(10, 8))
+    sns.heatmap(cm_df, annot=True, fmt="d", cmap="Blues")
+    plt.title("Baseline Confusion Matrix")
+    plt.ylabel("True Labels")
+    plt.xlabel("Predicted Labels")
+    plt.show()
+    return cm_df
 
 def error(msg: str) -> None:
     print(f"\033[91m{msg}\033[0m")
@@ -76,12 +91,15 @@ def token_features(sentence, index):
 if __name__ == "__main__":
     # name = "test.txt"
 
+    labels_list = ['B-LOC', 'B-ORG', 'B-PER', 'I-LOC', 'I-ORG', 'I-PER', 'O']
+    labels_list_no_prefix = ['LOC', 'ORG', 'PER', 'O']
+
     pathText = "..\\..\\faza-1\\Text fajlovi"
     pathAnnot = "..\\..\\faza-2\\anotirani_tekstovi"
     files = []
     for folder in glob.glob(os.path.join(pathAnnot, "*")):
         for filename in glob.glob(os.path.join(folder, '*.txt')):
-            # print(filename)
+            print(filename)
             # anFile=pathAnnot+'\\'+ folder.split('\\')[-1]+'\\'+'annotated_'+filename.split('\\')[-1]
             # print(anFile)
             files.append(filename)
@@ -97,12 +115,10 @@ if __name__ == "__main__":
         for i in range(len(sentence)):
             X.append(token_features(sentence, i))
             y.append(labels[i])
-            if labels[i] == 'ORG':
-                print(sentence)
 
     df = DataFrame(X)
     df['label'] = y
-    #print(df.head())
+    print(df.head())
 
     #One-hot enkodiranje i priprema za model
     vec = DictVectorizer(sparse=True)
@@ -114,7 +130,7 @@ if __name__ == "__main__":
     model = MultinomialNB()
     y_pred = cross_val_predict(model, X_vec, y_vec, cv=kf)
     print(classification_report(y_vec, y_pred, zero_division=0))
-
+    plot_confusion_matrix(y_vec, y_pred, labels_list)
     #Evaluacija bez B-/I- prefiksa
     def strip_prefix(tag):
         return tag.split('-')[-1] if '-' in tag else tag
@@ -124,6 +140,7 @@ if __name__ == "__main__":
 
     print("=== Evaluacija bez B-/I- prefiksa ===")
     print(classification_report(y_true_stripped, y_pred_stripped, zero_division=0))
+    plot_confusion_matrix(y_true_stripped, y_pred_stripped, labels_list_no_prefix)
     with open("results.txt",'w') as outFile:
         outFile.write('\nRezultati klasifikacionog izvestaja sa prefiksima \n')
         outFile.write(classification_report(y_vec, y_pred, zero_division=0))

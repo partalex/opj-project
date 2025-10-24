@@ -1,11 +1,10 @@
 import os, csv
 from collections import defaultdict
 from typing import Dict, List, Tuple
-from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
 import classla
 import pandas as pd
 import matplotlib.pyplot as plt
-from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score, confusion_matrix, classification_report
+from sklearn.metrics import accuracy_score, confusion_matrix, classification_report
 import seaborn as sns
 
 LANG = "sr"
@@ -26,9 +25,6 @@ nlp = classla.Pipeline(
 )
 
 def map_classla_type(t: str) -> str:
-    """
-    CLASSLA/BERTić: DERIV-PER -> PER, MISC -> O, ostalo ostaje.
-    """
     if t == "DERIV-PER":
         return "PER"
     if t == "MISC":
@@ -48,15 +44,9 @@ def plot_confusion_matrix(y_pred,y_true, labels_list):
     return cm_df
 
 def map_bio(tag: str) -> str:
-    """
-    Primeni mapiranje na BIO tag:
-    - ako je O, ostaje O
-    - ako je B-* ili I-*, mapiraj tip i vrati O ako mapiрање daje 'O'.
-    """
     if tag == "O" or not tag:
         return "O"
     if "-" not in tag:
-        # ako bi se desilo da tip dođe bez prefiksa, tretiraj kao entitet bez BIO
         typ_m = map_classla_type(tag)
         return "O" if typ_m == "O" else f"B-{typ_m}"
     pref, typ = tag.split("-", 1)
@@ -84,7 +74,6 @@ def load_gold_offsets_and_tags(file2: str) -> Tuple[Dict[int, List[str]], List[T
     return annFiles, layout
 
 def rebuild_text_from_gold_layout(layout: List[Tuple[str, bool]]) -> str:
-    """Rekonstruiše tekst TAČNO kao u anotacijama (poštuje SpaceAfter=No)."""
     parts = []
     for tok, nosp in layout:
         parts.append(tok)
@@ -110,11 +99,6 @@ def run_classla_ner(text: str) -> Dict[str, List[Dict[str, int]]]:
     return dict(buckets)
 
 def analize_file(file_gold: str):
-    """
-    Vraća:
-      - liste: trueBIO_m, predBIO_m, trueCLS_m, predCLS_m (mapirane prema pravilima)
-      - rows: za CSV (uključuje i mapirane kolone)
-    """
     annFiles, layout = load_gold_offsets_and_tags(file_gold)
     text = rebuild_text_from_gold_layout(layout)
 
@@ -124,13 +108,12 @@ def analize_file(file_gold: str):
     for k in set(["PERS", "LOC", "ORG"]).intersection(result.keys()):
         for ent in result[k]:
             if ent['start'] in annFiles:
-                annFiles[ent['start']][2] = tagMap[k][0]  # B-*
+                annFiles[ent['start']][2] = tagMap[k][0]
                 end = ent['end']
                 for s in list(annFiles.keys()):
                     if s > ent['start'] and s < end:
                         annFiles[s][2] = tagMap[k][1]
 
-    # napravi nizove i CSV redove (sa mapiranim kolonama)
     trueBIO_m, predBIO_m, trueCLS_m, predCLS_m = [], [], [], []
     rows = []
     for offset in sorted(annFiles.keys()):

@@ -1,11 +1,10 @@
 import os, csv
 from collections import defaultdict
 from typing import Dict, List, Tuple
-from sklearn.metrics import accuracy_score, classification_report
 import classla
 import pandas as pd
 import matplotlib.pyplot as plt
-from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score, confusion_matrix, classification_report
+from sklearn.metrics import accuracy_score, confusion_matrix, classification_report
 import seaborn as sns
 
 LANG = "sr"
@@ -44,7 +43,6 @@ def map_bio(tag: str) -> str:
     if tag == "O" or not tag:
         return "O"
     if "-" not in tag:
-        # ako bi se desilo da tip dođe bez prefiksa, tretiraj kao entitet bez BIO
         typ_m = map_classla_type(tag)
         return "O" if typ_m == "O" else f"B-{typ_m}"
     pref, typ = tag.split("-", 1)
@@ -54,15 +52,7 @@ def map_bio(tag: str) -> str:
 def strip_bio(tag: str) -> str:
     return tag.split("-")[-1] if "-" in tag else tag
 
-# =======================
-# POMOĆNE FUNKCIJE: čitanje gold-a + rekonstrukcija teksta
-# =======================
 def load_gold_offsets_and_tags(file2: str) -> Tuple[Dict[int, List[str]], List[Tuple[str, bool]]]:
-    """
-    Učitava anotirani CoNLL i vraća:
-      - annFiles: {start_offset: [token, GOLD_TAG, PRED_TAG]}
-      - layout:   [(token, no_space_after: bool), ...] redom
-    """
     annFiles: Dict[int, List[str]] = {}
     layout: List[Tuple[str, bool]] = []
     flen = 0
@@ -80,7 +70,6 @@ def load_gold_offsets_and_tags(file2: str) -> Tuple[Dict[int, List[str]], List[T
     return annFiles, layout
 
 def rebuild_text_from_gold_layout(layout: List[Tuple[str, bool]]) -> str:
-    """Rekonstruiše tekst TAČNO kao u anotacijama (poštuje SpaceAfter=No)."""
     parts = []
     for tok, nosp in layout:
         parts.append(tok)
@@ -100,54 +89,38 @@ def plot_confusion_matrix(y_pred,y_true, labels_list):
     plt.show()
     return cm_df
 
-# =======================
-# CLASSLA predikcija uz mapiranje DERIV-PER/MISC
-# =======================
 def run_classla_ner(text: str) -> Dict[str, List[Dict[str, int]]]:
     doc = nlp(text)
     buckets = defaultdict(list)
     for ent in doc.entities:
-        et = map_classla_type(ent.type)  # ovde odmah mapiramo DERIV-PER->PER, MISC->O
+        et = map_classla_type(ent.type)
         if et == "O":
             continue
         if et == "PER":
-            key = "PERS"  # da bi se niže koristio postojeći tagMap
+            key = "PERS"
         elif et in ("LOC", "ORG"):
             key = et
         else:
-            # sve ostalo nas ne zanima
             continue
         buckets[key].append({"start": ent.start_char, "end": ent.end_char})
     return dict(buckets)
 
-# =======================
-# Evaluacija jednog fajla (annotated_*.txt)
-# =======================
 def analize_file(file_gold: str):
-    """
-    Vraća:
-      - liste: trueBIO_m, predBIO_m, trueCLS_m, predCLS_m (mapirane prema pravilima)
-      - rows: za CSV (uključuje i mapirane kolone)
-    """
     annFiles, layout = load_gold_offsets_and_tags(file_gold)
     text = rebuild_text_from_gold_layout(layout)
 
-    # CLASSLA predikcije (već mapirano DERIV-PER/MISC)
     result = run_classla_ner(text)
     tagMap = {"PERS": ["B-PER", "I-PER"], "LOC": ["B-LOC", "I-LOC"], "ORG": ["B-ORG", "I-ORG"]}
 
-    # popuni pred BIO po tokenima
     for k in set(["PERS", "LOC", "ORG"]).intersection(result.keys()):
         for ent in result[k]:
             if ent['start'] in annFiles:
-                annFiles[ent['start']][2] = tagMap[k][0]  # B-*
+                annFiles[ent['start']][2] = tagMap[k][0]
                 end = ent['end']
-                # I-* za sve tokene unutar span-a
                 for s in list(annFiles.keys()):
                     if s > ent['start'] and s < end:
                         annFiles[s][2] = tagMap[k][1]
 
-    # napravi nizove i CSV redove (sa mapiranim kolonama)
     trueBIO_m, predBIO_m, trueCLS_m, predCLS_m = [], [], [], []
     rows = []
     for offset in sorted(annFiles.keys()):
@@ -170,11 +143,8 @@ def analize_file(file_gold: str):
         })
     return trueBIO_m, predBIO_m, trueCLS_m, predCLS_m, rows
 
-# =======================
-# GLAVNI DEO
-# =======================
+
 if __name__ == "__main__":
-    # 1) Skupi sve annotated_*.conllu osim EXCLUDE_DIR
     annotated_files: List[str] = []
     for entry in os.scandir(PATH_ANN):
         if not entry.is_dir():
@@ -198,13 +168,11 @@ if __name__ == "__main__":
         all_predCLS_m += p_cls
         all_rows += rows
 
-    # 3) Metrike (mapirane)
     acc_bio = accuracy_score(all_trueBIO_m, all_predBIO_m) if all_trueBIO_m else 0.0
     acc_cls = accuracy_score(all_trueCLS_m, all_predCLS_m) if all_trueCLS_m else 0.0
     rep_bio = classification_report(all_trueBIO_m, all_predBIO_m, zero_division=0, digits=4)
     rep_cls = classification_report(all_trueCLS_m, all_predCLS_m, zero_division=0, digits=4)
 
-    # 4) Upis fajlova
     csv_path = os.path.join(OUTPUT_DIR, f"classla_{MODEL_TYPE}_predictions_tokens_mapped.csv")
     with open(csv_path, "w", encoding="utf-8", newline="") as f:
         writer = csv.DictWriter(

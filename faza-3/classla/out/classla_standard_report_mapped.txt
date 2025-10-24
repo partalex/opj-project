@@ -6,28 +6,28 @@ ACCURACY (entity-only, mapped): 0.956185
 === Token-level BIO (mapped) ===
               precision    recall  f1-score   support
 
-       B-LOC       0.56      0.76      0.64       552
-       B-ORG       0.54      0.60      0.57       965
-       B-PER       0.77      0.76      0.76      1243
-       I-LOC       0.52      0.50      0.51       150
-       I-ORG       0.64      0.62      0.63      1120
-       I-PER       0.81      0.95      0.87       623
-           O       0.99      0.98      0.98     45125
+       B-LOC     0.5566    0.7572    0.6416       552
+       B-ORG     0.5416    0.6000    0.5693       965
+       B-PER     0.7697    0.7554    0.7625      1243
+       I-LOC     0.5172    0.5000    0.5085       150
+       I-ORG     0.6366    0.6241    0.6303      1120
+       I-PER     0.8060    0.9470    0.8708       623
+           O     0.9870    0.9791    0.9831     45125
 
-    accuracy                           0.95     49778
-   macro avg       0.69      0.74      0.71     49778
-weighted avg       0.96      0.95      0.95     49778
+    accuracy                         0.9539     49778
+   macro avg     0.6878    0.7376    0.7094     49778
+weighted avg     0.9566    0.9539    0.9550     49778
 
 
 === Token-level entity-only (B/I ignorisan, mapped) ===
               precision    recall  f1-score   support
 
-         LOC       0.57      0.73      0.64       702
-           O       0.99      0.98      0.98     45125
-         ORG       0.62      0.64      0.63      2085
-         PER       0.80      0.84      0.82      1866
+         LOC     0.5692    0.7265    0.6383       702
+           O     0.9870    0.9791    0.9831     45125
+         ORG     0.6179    0.6422    0.6298      2085
+         PER     0.8017    0.8387    0.8198      1866
 
-    accuracy                           0.96     49778
-   macro avg       0.74      0.80      0.77     49778
-weighted avg       0.96      0.96      0.96     49778
+    accuracy                         0.9562     49778
+   macro avg     0.7440    0.7966    0.7677     49778
+weighted avg     0.9587    0.9562    0.9573     49778
 

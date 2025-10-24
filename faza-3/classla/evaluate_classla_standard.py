@@ -201,8 +201,8 @@ if __name__ == "__main__":
     # 3) Metrike (mapirane)
     acc_bio = accuracy_score(all_trueBIO_m, all_predBIO_m) if all_trueBIO_m else 0.0
     acc_cls = accuracy_score(all_trueCLS_m, all_predCLS_m) if all_trueCLS_m else 0.0
-    rep_bio = classification_report(all_trueBIO_m, all_predBIO_m, zero_division=0)
-    rep_cls = classification_report(all_trueCLS_m, all_predCLS_m, zero_division=0)
+    rep_bio = classification_report(all_trueBIO_m, all_predBIO_m, zero_division=0, digits=4)
+    rep_cls = classification_report(all_trueCLS_m, all_predCLS_m, zero_division=0, digits=4)
 
     # 4) Upis fajlova
     csv_path = os.path.join(OUTPUT_DIR, f"classla_{MODEL_TYPE}_predictions_tokens_mapped.csv")
@@ -224,9 +224,9 @@ if __name__ == "__main__":
         f.write(rep_bio + "\n\n")
         f.write("=== Token-level entity-only (B/I ignorisan, mapped) ===\n")
         f.write(rep_cls + "\n")
-    y_true_no_prefix = [label.split('-')[-1] if '-' in label else label for label in all_trueCLS_m]
-    y_pred_no_prefix = [label.split('-')[-1] if '-' in label else label for label in all_predCLS_m]
-    labels_list_no_prefix = ['LOC', 'ORG', 'PER', 'O']
+    y_true_no_prefix = [label for label in all_trueBIO_m]
+    y_pred_no_prefix = [label for label in all_predBIO_m]
+    labels_list_no_prefix = ['B-LOC', 'I-LOC', 'B-ORG', 'I-ORG', 'B-PER', 'I-PER', 'O']
 
     plot_confusion_matrix(y_pred_no_prefix, y_true_no_prefix, labels_list_no_prefix)
     print("ZAVRŠENO.")

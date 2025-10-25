@@ -1,6 +1,5 @@
 import glob
 import os
-from opcode import opname
 import seaborn as sns
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -9,7 +8,6 @@ from sklearn.feature_extraction import DictVectorizer
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.metrics import classification_report, confusion_matrix
 from sklearn.model_selection import cross_val_predict, KFold
-
 
 
 def plot_confusion_matrix(y_pred,y_true, labels_list):
@@ -49,18 +47,15 @@ def load_conll_data(path) -> list[tuple[list[str], list[str]]]:
     with open(path, encoding='utf-8') as file:
         for line in file:
 
-            # ignore comments
             if line.startswith('#'):
                 continue
 
-            # check is this new line
             if line == '\n':
                 if sentence:
                     sentences.append(remake(sentence))
                     sentence = []
                 continue
 
-            # process line
             splited = line.split('\t')
             sentence.append(export(splited))
 
@@ -74,9 +69,6 @@ def token_features(sentence, index):
         'is_capitalized': token[0].isupper(),
         'position': index,
     }
-    # prethodna 2 tokena
-    # todo: zasto samo 2 tokena?
-    # todo: je l se gledaju naredni
     for i in range(1, 3):
         if index - i >= 0:
             prev = sentence[index - i]
@@ -89,8 +81,6 @@ def token_features(sentence, index):
 
 
 if __name__ == "__main__":
-    # name = "test.txt"
-
     labels_list = ['B-LOC', 'B-ORG', 'B-PER', 'I-LOC', 'I-ORG', 'I-PER', 'O']
     labels_list_no_prefix = ['LOC', 'ORG', 'PER', 'O']
 
@@ -100,15 +90,11 @@ if __name__ == "__main__":
     for folder in glob.glob(os.path.join(pathAnnot, "*")):
         for filename in glob.glob(os.path.join(folder, '*.conllu')):
             print(filename)
-            # anFile=pathAnnot+'\\'+ folder.split('\\')[-1]+'\\'+'annotated_'+filename.split('\\')[-1]
-            # print(anFile)
             files.append(filename)
-    #Izrada feature-a (osobina)
     data = []
     for file in files:
         data += load_conll_data(file)
 
-    #Pretvaranje u DataFrame
     X, y = [], []
 
     for sentence, labels in data:
@@ -120,18 +106,15 @@ if __name__ == "__main__":
     df['label'] = y
     print(df.head())
 
-    #One-hot enkodiranje i priprema za model
     vec = DictVectorizer(sparse=True)
     X_vec = vec.fit_transform(df.drop(columns=['label']).to_dict(orient='records'))
     y_vec = df['label']
 
-    #10-slojna unakrsna validacija
     kf = KFold(n_splits=10, shuffle=True, random_state=42)
     model = MultinomialNB()
     y_pred = cross_val_predict(model, X_vec, y_vec, cv=kf)
     print(classification_report(y_vec, y_pred, zero_division=0))
     plot_confusion_matrix(y_vec, y_pred, labels_list)
-    #Evaluacija bez B-/I- prefiksa
     def strip_prefix(tag):
         return tag.split('-')[-1] if '-' in tag else tag
 

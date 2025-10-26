@@ -7,7 +7,7 @@ from pandas import DataFrame
 from sklearn.feature_extraction import DictVectorizer
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.metrics import classification_report, confusion_matrix
-from sklearn.model_selection import cross_val_predict, KFold
+from sklearn.model_selection import cross_val_predict, KFold, StratifiedKFold
 
 
 def plot_confusion_matrix(y_pred,y_true, labels_list):
@@ -110,7 +110,7 @@ if __name__ == "__main__":
     X_vec = vec.fit_transform(df.drop(columns=['label']).to_dict(orient='records'))
     y_vec = df['label']
 
-    kf = KFold(n_splits=10, shuffle=True, random_state=42)
+    kf = StratifiedKFold(n_splits=10, shuffle=True, random_state=42)
     model = MultinomialNB()
     y_pred = cross_val_predict(model, X_vec, y_vec, cv=kf)
     print(classification_report(y_vec, y_pred, zero_division=0))

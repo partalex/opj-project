@@ -1,0 +1,4 @@
+#name = ognjen
+#domen = tviter
+#url = https://x.com/i/trending/1975196048974037127
+#text = HBO je potvrdio da će spin-of „Igre prestola“ „Vitez sedam kraljevstava“ premijerno biti prikazan u januaru 2026. godine na Maksu, prateći avanture viteza sera Dankana Visokog i njegovog štitonoše Ega tokom vladavine kralja Erisa I Targarjena. Sezona od šest epizoda, adaptirana iz novela Džordža R. R. Martina, ima svetliji ton fokusiran na viteštvo, turnire i političke intrige, a produkcija je završena ranije ove godine. Šouraner Ira Parker je napomenuo da će serija odustati od kultne uvodne sekvence kako bi se naglasila intimnija naracija.

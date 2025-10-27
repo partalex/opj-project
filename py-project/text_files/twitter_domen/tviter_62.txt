@@ -1,0 +1,4 @@
+#name = ognjen
+#domen = tviter
+#url = https://x.com/ETF_Beograd/status/1346219893180559361
+#text = Predrag Jekić je student generacije ETF-a školske 2019/2020. godine, a danas student doktorskih studija na ETF-u i ima šest zlatnih medalja na međunarodnom takmičenju „Elektrijada“. Pogledajte intervju na televiziji Brainz.

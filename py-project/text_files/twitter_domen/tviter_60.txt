@@ -1,0 +1,12 @@
+#name = ognjen
+#domen = tviter
+#url = https://x.com/n1srbija/status/1973755606419804536
+#text = Objavljivanjem audio snimka razgovora između Stena Milera i Vladimira Lučića, istina je konačno izašla na videlo, saopštila je direktorka Junajted medije, Aleksandra Subotić povodom izlaska u javnost pomenutog snimka.
+
+Saopštenje prenosimo u celosti:
+
+"Objavljivanjem audio snimka razgovora između Stena Milera i Vladimira Lučića, istina je konačno izašla na videlo. Nedvosmisleno je razotkriveno do koje mere je vlast u Srbiji, predvođena Aleksandrom Vučićem, spremna da ide ne bi li utišala i oslabila nezavisne glasove N1 i Nove – medije koji su danas, u vremenu represije i manipulacija, važniji i potrebniji nego ikada. Ovaj slučaj prevazilazi lokalne okvire i mora dobiti svoj epilog na najvišim instancama koje se bave zaštitom slobode medija, demokratskih standarda ali i zaštitom konkurencije.
+
+Potpuno stojim iza naših redakcija i njihovih zahteva, jer ovo nije samo borba za profesiju – ovo je borba za fundamentalno pravo građana da dobiju istinitu i potpunu informaciju. Panična kampanja diskreditacije koju je režim pokrenuo istog trenutka kada je snimak objavljen samo potvrđuje razmere skandala i nemoć da se činjenice ospore. U toj kampanji meta sam ja lično, ali je konačni cilj da se ugasi nezavisno novinarstvo u Srbiji.
+
+Umesto da odgovaram na njihove spinove, želim da istaknem činjenice: United Media je danas vodeća medijska kompanija u jugoistočnoj Evropi, sa više od 4.200 zaposlenih u osam zemalja i jednim od najpouzdanijih izvora informacija u koje građani imaju poverenja. Na to sam ponosna i to niko ne može osporiti. Na svom sam radnom mestu – nisam ‘pobegla’, kako navode provladini tabloidi u Srbiji. Kada vodite međunarodnu kompaniju, stalna putovanja su deo posla: samo prošle i ove godine više od 50 puta letela sam sa aerodroma ‘Nikola Tesla’, uz brojne službene puteve u regionu".

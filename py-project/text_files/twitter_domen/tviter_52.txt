@@ -1,0 +1,4 @@
+#name = ognjen
+#domen = tviter
+#url = https://x.com/kvestkosmos/status/951386475907747840
+#text = zapisano na prvoj stranici pesmarice nepoznatog autora, onda kada je video gospođicu Zahariju, najveću lepoticu nemrtvog grada Nepočina, njen ljupki hod i mlečno bele zigomatikume o spreman sam za reset bože

@@ -1,0 +1,4 @@
+#name = ognjen
+#domen = tviter
+#url = https://x.com/n1srbija/status/1977775251095265622
+#text = Poslanici opozicije dobili su poziv za hitne konsultacije od sekretara Skupštine povodom izveštaja OEBS-a o izboru članova saveta Regulatornog tela za elektronske medije (REM). Član odbora za kulturu i informisanje Radomir Lazović rekao je za N1 kako je siguran da je na vlast izvršen pritisak od strane OEBS-a ili predstavnika Evropske unije, te da se oni sada "bore da ostvare kontrolu nad REM-om".

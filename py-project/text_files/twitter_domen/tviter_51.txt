@@ -1,0 +1,4 @@
+#name = ognjen
+#domen = tviter
+#url = https://x.com/burek/status/1944457786945048691
+#text = Milica je vrlo neobičnim putem kroz filologiju i engleski stigla do softverske industrije i pošto je radoznala po prirodi, počela je da istražuje i čačka. Desetak godina kasnije, u mnogo različitih situacija pomogla je programerima da pričaju sa programerima…

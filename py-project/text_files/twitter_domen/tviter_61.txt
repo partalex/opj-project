@@ -1,0 +1,6 @@
+#name = ognjen
+#domen = tviter
+#url = https://x.com/ETF_Beograd/status/1382453309622083584
+#text = U ponedeljak 19.04.2021. u 16h predavanje na temu programskih prevodilaca - informacija za debagovanje i izazova optimizovanog koda. 
+Predavač Đorđe Todorović, senior inženjer kompanije SYRMIA i učesnik projekta LLVM. 
+Detaljnije informacije su na linku:

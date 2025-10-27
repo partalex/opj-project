@@ -1,0 +1,4 @@
+#name = ognjen
+#domen = tviter
+#url = https://x.com/NasaGrockaInfo/status/1422124917550718981
+#text = U toku jučerašnjeg dana vozila su prvo bila parkirana na kratkoj izložbi ispred Mesne zajednice u Kaluđerici a zatim se reli uputio prema Grockoj gde su vozila bila izložena u Gročanskoj čaršiji.

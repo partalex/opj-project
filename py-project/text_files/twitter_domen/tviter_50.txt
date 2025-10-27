@@ -1,0 +1,4 @@
+#name = ognjen
+#domen = tviter
+#url = https://x.com/burek/status/1954604565438804295
+#text = Dugo nam je trebalo da se uklopimo, ali konačno jesmo i očekuje vas dve epizode zaista sjajnog razgovora sa Milovanom Dekićem, čovekom koga znate kao autora knjige o Design thinking metodologiji, i osobom koja je prethodnih deceniju u Nordeusu…

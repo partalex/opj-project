@@ -4,8 +4,8 @@
 # newpar id = 1
 # sent_id = 1.1
 # text = KATARINA BASTL bila je obična žena koja je u Beogradu živela u neobično vreme.
-1	KATARINA	_	_	_	_	_	_	_	_	B-PER
-2	BASTL	_	_	_	_	_	_	_	_	I-PER
+1	KATARINA	_	_	_	_	_	_	_	_	O
+2	BASTL	_	_	_	_	_	_	_	_	O
 3	bila	_	_	_	_	_	_	_	_	O
 4	je	_	_	_	_	_	_	_	_	O
 5	obična	_	_	_	_	_	_	_	_	O
@@ -13,7 +13,7 @@
 7	koja	_	_	_	_	_	_	_	_	O
 8	je	_	_	_	_	_	_	_	_	O
 9	u	_	_	_	_	_	_	_	_	O
-10	Beogradu	_	_	_	_	_	_	_	_	B-LOC
+10	Beogradu	_	_	_	_	_	_	_	_	O
 11	živela	_	_	_	_	_	_	_	_	O
 12	u	_	_	_	_	_	_	_	_	O
 13	neobično	_	_	_	_	_	_	_	_	O
@@ -68,17 +68,17 @@
 15	su	_	_	_	_	_	_	_	_	O
 16	živeli	_	_	_	_	_	_	_	_	O
 17	na	_	_	_	_	_	_	_	_	O
-18	Dorćolu	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+18	Dorćolu	_	_	_	_	_	_	_	SpaceAfter=No	O
 19	,	,	PUNCT	Z	_	_	_	_	_	O
 20	u	_	_	_	_	_	_	_	_	O
 21	kući	_	_	_	_	_	_	_	_	O
 22	u	_	_	_	_	_	_	_	_	O
 23	današnjoj	_	_	_	_	_	_	_	_	O
-24	Ulici	_	_	_	_	_	_	_	_	B-LOC
-25	cara	_	_	_	_	_	_	_	_	I-LOC
-26	Dušana	_	_	_	_	_	_	_	_	I-LOC
-27	broj	_	_	_	_	_	_	_	_	I-LOC
-28	10.	_	_	_	_	_	_	_	_	I-LOC
+24	Ulici	_	_	_	_	_	_	_	_	O
+25	cara	_	_	_	_	_	_	_	_	O
+26	Dušana	_	_	_	_	_	_	_	_	O
+27	broj	_	_	_	_	_	_	_	_	O
+28	10.	_	_	_	_	_	_	_	_	O
 
 # sent_id = 1.4
 # text = Nju je jednog prolećnog jutra 1941. godine probudila škripa automobilskih kočnica kada se pod prozorom zaustavila luksuzna, crna nemačka limuzina, a iz nje izašlo pet visokih oficira Vermahta i SS-a.
@@ -111,9 +111,9 @@
 27	pet	_	_	_	_	_	_	_	_	O
 28	visokih	_	_	_	_	_	_	_	_	O
 29	oficira	_	_	_	_	_	_	_	_	O
-30	Vermahta	_	_	_	_	_	_	_	_	B-ORG
+30	Vermahta	_	_	_	_	_	_	_	_	O
 31	i	_	_	_	_	_	_	_	_	O
-32	SS-a	_	_	_	_	_	_	_	SpaceAfter=No	B-ORG
+32	SS-a	_	_	_	_	_	_	_	SpaceAfter=No	O
 33	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 1.5
@@ -200,8 +200,8 @@
 
 # sent_id = 2.2
 # text = Gospođa Bastl je svakodnevno mogla da čuje udarce čekića i kloparanje različitih alatki iz podruma, ali nije mogla da zna šta to nemački stručnjaci dole istražuju.
-1	Gospođa	_	_	_	_	_	_	_	_	B-PER
-2	Bastl	_	_	_	_	_	_	_	_	I-PER
+1	Gospođa	_	_	_	_	_	_	_	_	O
+2	Bastl	_	_	_	_	_	_	_	_	O
 3	je	_	_	_	_	_	_	_	_	O
 4	svakodnevno	_	_	_	_	_	_	_	_	O
 5	mogla	_	_	_	_	_	_	_	_	O
@@ -355,8 +355,8 @@
 8	sagradio	_	_	_	_	_	_	_	_	O
 9	ju	_	_	_	_	_	_	_	_	O
 10	je	_	_	_	_	_	_	_	_	O
-11	elijas	_	_	_	_	_	_	_	_	B-PER
-12	Flajšman	_	_	_	_	_	_	_	SpaceAfter=No	I-PER
+11	elijas	_	_	_	_	_	_	_	_	O
+12	Flajšman	_	_	_	_	_	_	_	SpaceAfter=No	O
 13	,	,	PUNCT	Z	_	_	_	_	_	O
 14	ondašnji	_	_	_	_	_	_	_	_	O
 15	beogradski	_	_	_	_	_	_	_	_	O
@@ -376,7 +376,7 @@
 # text = Gledano s Kalemegdana, bila je druga u nizu.
 1	Gledano	_	_	_	_	_	_	_	_	O
 2	s	_	_	_	_	_	_	_	_	O
-3	Kalemegdana	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+3	Kalemegdana	_	_	_	_	_	_	_	SpaceAfter=No	O
 4	,	,	PUNCT	Z	_	_	_	_	_	O
 5	bila	_	_	_	_	_	_	_	_	O
 6	je	_	_	_	_	_	_	_	_	O
@@ -411,9 +411,9 @@
 22	nalete	_	_	_	_	_	_	_	_	O
 23	i	_	_	_	_	_	_	_	_	O
 24	bombe	_	_	_	_	_	_	_	_	O
-25	nemačke	_	_	_	_	_	_	_	_	B-ORG
-26	nacističke	_	_	_	_	_	_	_	_	I-ORG
-27	vojske	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+25	nemačke	_	_	_	_	_	_	_	_	O
+26	nacističke	_	_	_	_	_	_	_	_	O
+27	vojske	_	_	_	_	_	_	_	SpaceAfter=No	O
 28	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # newpar id = 4
@@ -427,10 +427,10 @@
 6	je	_	_	_	_	_	_	_	_	O
 7	austrijski	_	_	_	_	_	_	_	_	O
 8	vojskovođa	_	_	_	_	_	_	_	_	O
-9	eugen	_	_	_	_	_	_	_	_	B-PER
-10	Savojski	_	_	_	_	_	_	_	_	I-PER
+9	eugen	_	_	_	_	_	_	_	_	O
+10	Savojski	_	_	_	_	_	_	_	_	O
 11	preoteo	_	_	_	_	_	_	_	_	O
-12	Beograd	_	_	_	_	_	_	_	_	B-LOC
+12	Beograd	_	_	_	_	_	_	_	_	O
 13	od	_	_	_	_	_	_	_	_	O
 14	Turaka	_	_	_	_	_	_	_	SpaceAfter=No	O
 15	,	,	PUNCT	Z	_	_	_	_	_	O
@@ -458,7 +458,7 @@
 
 # sent_id = 4.2
 # text = Austrija je posle toga rešila da tursku kasabu pretvori u zapadnjačku varoš, s pretežno nemačkim građanstvom rimokatoličke vere, kako piše u Istoriji Beograda koju je objavio Balkanološki institut SANU: „Dunavski deo grada, onaj na Dorćolu, sačinjavali su mahom Nemci, štaviše, uz posebne, desetogodišnje povlastice tada su dodatno bile naseljene 333 nemačke porodice, uglavnom iz Vormsa i Majnca.
-1	Austrija	_	_	_	_	_	_	_	_	B-LOC
+1	Austrija	_	_	_	_	_	_	_	_	O
 2	je	_	_	_	_	_	_	_	_	O
 3	posle	_	_	_	_	_	_	_	_	O
 4	toga	_	_	_	_	_	_	_	_	O
@@ -482,13 +482,13 @@
 22	piše	_	_	_	_	_	_	_	_	O
 23	u	_	_	_	_	_	_	_	_	O
 24	Istoriji	_	_	_	_	_	_	_	_	O
-25	Beograda	_	_	_	_	_	_	_	_	B-LOC
+25	Beograda	_	_	_	_	_	_	_	_	O
 26	koju	_	_	_	_	_	_	_	_	O
 27	je	_	_	_	_	_	_	_	_	O
 28	objavio	_	_	_	_	_	_	_	_	O
-29	Balkanološki	_	_	_	_	_	_	_	_	B-ORG
-30	institut	_	_	_	_	_	_	_	_	I-ORG
-31	SANU	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+29	Balkanološki	_	_	_	_	_	_	_	_	O
+30	institut	_	_	_	_	_	_	_	_	O
+31	SANU	_	_	_	_	_	_	_	SpaceAfter=No	O
 32	:	:	PUNCT	Z	_	_	_	_	_	O
 33	„	„	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 34	Dunavski	_	_	_	_	_	_	_	_	O
@@ -497,7 +497,7 @@
 37	,	,	PUNCT	Z	_	_	_	_	_	O
 38	onaj	_	_	_	_	_	_	_	_	O
 39	na	_	_	_	_	_	_	_	_	O
-40	Dorćolu	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+40	Dorćolu	_	_	_	_	_	_	_	SpaceAfter=No	O
 41	,	,	PUNCT	Z	_	_	_	_	_	O
 42	sačinjavali	_	_	_	_	_	_	_	_	O
 43	su	_	_	_	_	_	_	_	_	O
@@ -522,9 +522,9 @@
 62	,	,	PUNCT	Z	_	_	_	_	_	O
 63	uglavnom	_	_	_	_	_	_	_	_	O
 64	iz	_	_	_	_	_	_	_	_	O
-65	Vormsa	_	_	_	_	_	_	_	_	B-LOC
+65	Vormsa	_	_	_	_	_	_	_	_	O
 66	i	_	_	_	_	_	_	_	_	O
-67	Majnca	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+67	Majnca	_	_	_	_	_	_	_	SpaceAfter=No	O
 68	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 4.3
@@ -545,8 +545,8 @@
 14	postali	_	_	_	_	_	_	_	_	O
 15	glavnina	_	_	_	_	_	_	_	_	O
 16	na	_	_	_	_	_	_	_	_	O
-17	savskoj	_	_	_	_	_	_	_	_	B-LOC
-18	obali	_	_	_	_	_	_	_	SpaceAfter=No	I-LOC
+17	savskoj	_	_	_	_	_	_	_	_	O
+18	obali	_	_	_	_	_	_	_	SpaceAfter=No	O
 19	.	.	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 
 # sent_id = 4.4
@@ -556,14 +556,14 @@
 3	je	_	_	_	_	_	_	_	_	O
 4	austrijski	_	_	_	_	_	_	_	_	O
 5	vladar	_	_	_	_	_	_	_	_	O
-6	Karlo	_	_	_	_	_	_	_	_	B-PER
-7	VI	_	_	_	_	_	_	_	_	I-PER
+6	Karlo	_	_	_	_	_	_	_	_	O
+7	VI	_	_	_	_	_	_	_	_	O
 8	podvukao	_	_	_	_	_	_	_	_	O
 9	da	_	_	_	_	_	_	_	_	O
 10	se	_	_	_	_	_	_	_	_	O
 11	u	_	_	_	_	_	_	_	_	O
 12	nemačkom	_	_	_	_	_	_	_	_	O
-13	Beogradu	_	_	_	_	_	_	_	_	B-LOC
+13	Beogradu	_	_	_	_	_	_	_	_	O
 14	smeju	_	_	_	_	_	_	_	_	O
 15	nastanjivati	_	_	_	_	_	_	_	_	O
 16	samo	_	_	_	_	_	_	_	_	O
@@ -597,17 +597,17 @@
 13	na	_	_	_	_	_	_	_	_	O
 14	drugi	_	_	_	_	_	_	_	_	O
 15	kraj	_	_	_	_	_	_	_	_	O
-16	beogradskog	_	_	_	_	_	_	_	_	B-LOC
-17	grebena	_	_	_	_	_	_	_	SpaceAfter=No	I-LOC
+16	beogradskog	_	_	_	_	_	_	_	_	O
+17	grebena	_	_	_	_	_	_	_	SpaceAfter=No	O
 18	,	,	PUNCT	Z	_	_	_	_	_	O
 19	gde	_	_	_	_	_	_	_	_	O
 20	su	_	_	_	_	_	_	_	_	O
 21	osnovali	_	_	_	_	_	_	_	_	O
 22	novo	_	_	_	_	_	_	_	_	O
 23	naselje	_	_	_	_	_	_	_	_	O
-24	Donju	_	_	_	_	_	_	_	_	B-LOC
-25	savsku	_	_	_	_	_	_	_	_	I-LOC
-26	varoš	_	_	_	_	_	_	_	SpaceAfter=No	I-LOC
+24	Donju	_	_	_	_	_	_	_	_	O
+25	savsku	_	_	_	_	_	_	_	_	O
+26	varoš	_	_	_	_	_	_	_	SpaceAfter=No	O
 27	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 4.6
@@ -622,7 +622,7 @@
 8	nego	_	_	_	_	_	_	_	_	O
 9	što	_	_	_	_	_	_	_	_	O
 10	je	_	_	_	_	_	_	_	_	O
-11	Flajšman	_	_	_	_	_	_	_	_	B-PER
+11	Flajšman	_	_	_	_	_	_	_	_	O
 12	počeo	_	_	_	_	_	_	_	_	O
 13	izgradnju	_	_	_	_	_	_	_	_	O
 14	svojih	_	_	_	_	_	_	_	_	O
@@ -647,8 +647,8 @@
 4	zgrade	_	_	_	_	_	_	_	_	O
 5	nalazila	_	_	_	_	_	_	_	_	O
 6	se	_	_	_	_	_	_	_	_	O
-7	austrijska	_	_	_	_	_	_	_	_	B-ORG
-8	Komandantura	_	_	_	_	_	_	_	SpaceAfter=No	I-ORG
+7	austrijska	_	_	_	_	_	_	_	_	O
+8	Komandantura	_	_	_	_	_	_	_	SpaceAfter=No	O
 9	,	,	PUNCT	Z	_	_	_	_	_	O
 10	zgrada	_	_	_	_	_	_	_	_	O
 11	koja	_	_	_	_	_	_	_	_	O
@@ -684,7 +684,7 @@
 10	varoš	_	_	_	_	_	_	_	SpaceAfter=No	O
 11	,	,	PUNCT	Z	_	_	_	_	_	O
 12	postalo	_	_	_	_	_	_	_	_	O
-13	Pirinčana	_	_	_	_	_	_	_	_	B-LOC
+13	Pirinčana	_	_	_	_	_	_	_	_	O
 14	(	(	PUNCT	Z	_	_	_	_	SpaceAfter=No	O
 15	naziv	_	_	_	_	_	_	_	_	O
 16	nastao	_	_	_	_	_	_	_	_	O
@@ -727,7 +727,7 @@
 9	od	_	_	_	_	_	_	_	_	O
 10	najvažnijih	_	_	_	_	_	_	_	_	O
 11	u	_	_	_	_	_	_	_	_	O
-12	Beogradu	_	_	_	_	_	_	_	SpaceAfter=No	B-LOC
+12	Beogradu	_	_	_	_	_	_	_	SpaceAfter=No	O
 13	.	.	PUNCT	Z	_	_	_	_	_	O
 
 # sent_id = 5.4
@@ -738,8 +738,8 @@
 4	,	,	PUNCT	Z	_	_	_	_	_	O
 5	u	_	_	_	_	_	_	_	_	O
 6	današnjoj	_	_	_	_	_	_	_	_	O
-7	Rajićevoj	_	_	_	_	_	_	_	_	B-LOC
-8	ulici	_	_	_	_	_	_	_	SpaceAfter=No	I-LOC
+7	Rajićevoj	_	_	_	_	_	_	_	_	O
+8	ulici	_	_	_	_	_	_	_	SpaceAfter=No	O
 9	,	,	PUNCT	Z	_	_	_	_	_	O
 10	postojala	_	_	_	_	_	_	_	_	O
 11	je	_	_	_	_	_	_	_	_	O
@@ -752,8 +752,8 @@
 18	,	,	PUNCT	Z	_	_	_	_	_	O
 19	a	_	_	_	_	_	_	_	_	O
 20	ni	_	_	_	_	_	_	_	_	O
-21	Kalemegdanska	_	_	_	_	_	_	_	_	B-LOC
-22	tvrđava	_	_	_	_	_	_	_	_	I-LOC
+21	Kalemegdanska	_	_	_	_	_	_	_	_	O
+22	tvrđava	_	_	_	_	_	_	_	_	O
 23	nije	_	_	_	_	_	_	_	_	O
 24	bila	_	_	_	_	_	_	_	_	O
 25	daleko	_	_	_	_	_	_	_	SpaceAfter=No	O

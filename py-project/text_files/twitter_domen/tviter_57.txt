@@ -1,0 +1,4 @@
+#name = ognjen
+#domen = tviter
+#url = https://x.com/AnaPavlovic16/status/1977412120565456965
+#text = Braća Šveđani imaju najbolji lek za bolest - putovanja. Švedska je prva zemlja na svetu koja je pokrenula inicijativu da lekari prepisuju putovanje kao lek iliti prevenciju bolesti. A, kao glavni lobista ovog leka je Turistička organizacija Švedske.

@@ -1,0 +1,4 @@
+#name = ognjen
+#domen = tviter
+#url = https://x.com/Velinovski/status/1775940948817498556
+#text = Bor je danas tako tužan, tako pokidan, tako zbunjen i zaprepascen! Moj Bor je grad koji je uvek bio prvi kada je pomoć trebala bilo kome, kada se gradilo, kada je trebala krv... A današnje doba je od nekih mojih sugrađana, pa i cele Srbije, napravilo sebične, bedne i loše ljude! 
